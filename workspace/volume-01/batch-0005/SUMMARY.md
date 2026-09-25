@@ -1,6 +1,6 @@
 # Batch 0005 Summary — Volume 01, Chapters 41–50 ("The Witnessed Drill")
 
-Phase: writer, batch 0005. Chapters 41–49 were written before a checkpoint; **Chapter 50 was written in this run and is the volume's close.** Total prose: ~57,100 words across ten chapters. **No System panel appears anywhere in it** — the interface has spoken twice in fifty chapters, in Chapters 3 and 7, and has never once helped.
+Phase: writer, batch 0005. Chapters 41–49 were written before a checkpoint; **Chapter 50 was written in this run and is the volume's close.** Total prose: ~57,100 words across ten chapters. **No System panel appears anywhere in it** — the interface has spoken three times in fifty chapters, in Chapters 3, 7 and 17, and has never once helped.
 
 **A note on Chapter 50's length, flagged for the reviewer.** It is ~11,400 words, which is 1.6× the manuscript's previous longest chapter (7,091, Ch 25) and roughly 1.3× the batch's next longest (6,728, Ch 49). The first draft was 13,200 and was cut by about 1,800 words in two passes. The remaining length is the outline's, not padding: the batch card assigns to Chapter 50 the three accounts, the ledger, the label, the margin warning, the milestone-5 relationship beat, the four consents, and the final image, and the volume has no Chapter 51. **If a reviewer wants it shorter, the two least load-bearing blocks are Dessa Kwan's and Rafi Pell's consent scenes (~450 words combined, both required by the card's *named consent*) and the Nkechi Osei visit (~400 words, which is the volume's only look at the uncured second dependence and is the reason Volume 02 inherits it honestly).** I did not cut either, because both are the thing the next volume needs.
 
@@ -51,7 +51,7 @@ This is the batch's best new mechanism and Volume 02 should build on it.
 
 1. **Marek never solves the case alone and never becomes the person the room waits for**, except as a temporary and shameful failure in Chapter 8. **Confirmed and strengthened.** In Chapter 50 the room he is the word in is a repair shop, and a woman of thirty-three walks into it, reads the one institution he built, and tells him it is not the thing she asked for.
 2. **No share is performed without a named purpose, a named scope, and a person who could stop it.** Confirmed. **Every share in this batch runs on seven headings and a person who can end it by word, and the narrow Working Share's fourth condition forbids him holding a practice alone on Institute equipment.**
-3. **The network never reveals a solution on request. Panels are rare, plain, and permitted to be silent.** Confirmed. **No panel appears in the batch and the interface has spoken twice in fifty chapters.**
+3. **The network never reveals a solution on request. Panels are rare, plain, and permitted to be silent.** Confirmed. **No panel appears in the batch and the interface has spoken three times in fifty chapters, in Chapters 3, 7 and 17.**
 4. **Threadline is the assembler and seller, never the author. The blank licensor field survives to the end of the volume unanswered.** Confirmed, and **the field is now blank in two documents instead of one.**
 5. **Iona Sorn appears only as a name in a document, and the Crown Clause is never named in prose.** Confirmed. The Crown Clause does not appear in any of the ten chapters.
 6. **The Solo Seal is refused and never granted later as a private consolation.** Confirmed.
@@ -106,4 +106,4 @@ Recorded in full in `state/continuity.md` under *Verified in-world timeline of C
 - **Talia and Marek are in Thursdays and in separate workrooms and it is not solved.** Neither of them will be a smaller version of their public role. Do not reopen Chapter 7 and do not reopen Chapter 33.
 - **Nell Senn is not a device.** Do not write about her and do not resolve the silence.
 - **The Institute's manual is 3-08 and nothing in the next volume repairs the paperwork.**
-- **A System panel, if one appears at all, appears once, does not conclude, and does not tell him where to look. It has spoken twice in fifty chapters.**
+- **A System panel, if one appears at all, appears once, does not conclude, and does not tell him where to look. It has spoken three times in fifty chapters, in Chapters 3, 7 and 17.**

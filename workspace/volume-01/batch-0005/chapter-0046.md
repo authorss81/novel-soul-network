@@ -92,11 +92,7 @@ She was on the floor because a witness with a notebook sits on the floor at the 
 
 Marek Senn saw the whole of it. He saw it the way he saw a plate — not as a picture but as a shape, with the load path in it, and the load path ran from the folded contact through the bracket into the rail and along the rail into about two hundred and thirty millimetres of a girl of nineteen's forearm, and he was standing four feet away and he was the only person in that room who could see the shape of it, and he opened his mouth and he could not make a sound come out of it.
 
-* * *
-
 Two people are holding it. One of them is not.
-
-* * *
 
 He tried twice. He got a shape out that was not a word on the first one. On the second one he got *move* out and the room did not hear him, because a room that has been given a word by somebody at the front of it takes about a second and a half to hear a different word from a different place, and everybody in that room had been listening to a light and had not been listening to a man.
 
