@@ -40,13 +40,13 @@ Who is seeding incomplete techniques into the Soul Network, and why do unrelated
 
 ### Deep question
 
-Why does the original Civic Compact contain a rule that can turn silence into agreement, and why has someone spent decades making that rule invisible?
+Why did Iona insert a rule that turns silence into agreement into a working copy of the Civic Compact’s emergency protocol, and why has someone spent years making that amendment invisible?
 
 ### Author-only answer
 
-Dr. Iona Sorn added the **Crown Clause** during the Marrow Falls outage. The clause was a hidden emergency exception: when a civic node did not answer, the last approved civic sequence could be used as a provisional response. Iona intended it to prevent a slow, uncoordinated failure. The network’s learning behavior turned the exception into a pattern of dependence. Iona later seeded variants of the clause into public techniques, allowing a hidden authority to make obedience feel like the safest completion.
+The original Civic Compact required a visible **Return Path** and did not permit silence to count as agreement. During the Marrow Falls outage, Dr. Iona Sorn inserted the hidden **Crown Clause** into a working copy of its emergency protocol. The clause was an emergency exception: when a civic node did not answer, the last approved civic sequence could be used as a provisional response. Iona intended it to prevent a slow, uncoordinated failure. The network’s learning behavior turned the exception into a pattern of dependence. Iona later seeded variants of the clause into public techniques, allowing a hidden authority to make obedience feel like the safest completion.
 
-The Hinge is not a separate species, an ancient curse, or a mind-reading monster. It is an engineered social exploit. Threadline commercialized the training kits, other factions exploited or copied them, and institutional secrecy gave them room to spread. The original Civic Compact had tried to prevent this with the **Return Path**, but Iona’s emergency exception bypassed it.
+The Hinge is not a separate species, an ancient curse, or a mind-reading monster. It is an engineered social exploit: a missing boundary-release beat is replaced by a trusted key-holder’s cue, and repeated success teaches the learner to expect that cue. Threadline assembled and sold the opening kit from an unnamed upstream bundle, other factions exploited or copied the resulting techniques, and institutional secrecy gave the pattern room to spread. The public Return Path was designed to prevent this, but Iona’s hidden amendment bypassed it.
 
 Marek’s ability comes from a childhood accident in which an unsafe share left a counterpoint scar. He can detect an unclosed return path because his own attention learned to reject a false consensus. He is not the original architect, a bloodline heir, or a person chosen by the network. His advantage is a wound plus a responsibility to ask better questions.
 
@@ -54,7 +54,7 @@ Marek’s ability comes from a childhood accident in which an unsafe share left 
 
 The network becomes a shared public institution rather than one person’s private power.
 
-Iona Sorn attempts to invoke the Crown Key during the **Nine-Minute Hush**, a known cascade caused by a forced civic sequence. She believes one central answer is the only way to keep Nacre from another Hush. Marek has the same practical access and the ability to become the new center. He refuses to replace her rule with his own. He distributes the Return Path, gives local groups the authority to answer or refuse, and permanently gives up his privileged high-level access.
+Iona Sorn attempts to invoke the Crown Key during the **Nine-Minute Hush**, a known cascade caused by a forced civic sequence. She has already embedded a prepared continuity pattern in the affected systems. The key can open the root channel, suppress competing local release cues, and keep those prepared systems running one sequence; taking it would let Marek stop the immediate failures in minutes, but every local withdrawal would then route through him. He refuses to replace her rule with his own. He distributes the Return Path, gives local groups the authority to answer or refuse, and destroys the unique **Crown Root Interface** that would let him inspect the full weave or validate a response for every linked system. That sacrifice is concrete and separate from his Stage 5 loss of any private privileged position among local networks.
 
 The final world is not a utopia in which everyone connects. It is a city where connection is optional, inspectable, maintained by several institutions, and capable of surviving a person’s absence. Some people never join. Some techniques remain local. The Crown Clause is disabled, but the political argument about who gets to decide is intentionally still alive.
 
@@ -72,7 +72,7 @@ The ladder contains escalating pressures rather than a parade of stronger monste
 | 5 | Iona Sorn, the Conductor | Turn the emergency Crown Clause into a permanent political answer. She wants a city that can act before consent becomes inconvenient. | Speed is not the only form of care; plural refusal can be a form of survival. |
 | 6 | The Crown Key | Iona’s final attempt to make the city’s many nodes converge on one approved response during the Nine-Minute Hush. | The final enemy is the desire for a single answer, not a new creature or a new realm. |
 
-Iona is planted early through archived messages, former colleagues, and the shape of her missing decisions. She is not introduced as a surprise final villain. The final conflict is a direct escalation of the missing-boundary argument introduced in Volume 01.
+Iona is planted early through archived messages, former colleagues, and the shape of her missing decisions. She is not introduced as a surprise final villain. The final conflict is a direct escalation of the missing boundary-release beat and hidden-authority argument introduced in Volume 01.
 
 ## Power stages and costs
 
@@ -84,7 +84,7 @@ Iona is planted early through archived messages, former colleagues, and the shap
 | 3 — Field Weave | Coordinates a trained group, shares load, and performs a composite practice. | Marek owns the consent boundaries and every stop; his ordinary relationships become porous; a strong result can still be immoral. | Leadership is delegated maintenance, not command. |
 | 4 — Civic Loom | Maintains a public exchange and technique library across a district or institution. | Requires governance, money, public records, and constant political defense; the network becomes visible to attackers. | A public tool is never only the builder’s tool. |
 | 5 — Open Weave | Cooperates across regions with local consent and can act through a federated coalition. | No private privileged access; reduced personal capacity; recurring unmooring; he cannot act if communities refuse. | Safety is something people build together and can revoke. |
-| Final — Unbinding | Helps dissolve the Crown Clause by distributing Return Paths. | Permanently loses high-level access and some of his oldest echoes; retains only limited human-scale practice. | A useful person is not the same as an indispensable one. |
+| Final — Unbinding | Helps dissolve the Crown Clause by distributing Return Paths. | Destroys the one-time Crown Root Interface and some of his oldest echoes; retains consent-based access to local networks and only limited human-scale practice. | A useful person is not the same as an indispensable one. |
 
 Growth is earned through practice, failed experiments, physical recovery, relationships, training, public decisions, and changed tactics. No stage grants instant mastery or a personal power ceiling that solves the central mystery.
 
@@ -96,7 +96,7 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 4. **Public and private friction (Volume 05–06):** Talia supports Marek’s public role and challenges him when his certainty becomes a policy. Their intimacy grows through argument, not reward after victory.
 5. **Separation by choice (Volume 07–08):** Marek temporarily centralizes a response to save Nacre and loses Talia’s trust. They separate operationally and emotionally, then rebuild as colleagues with explicit return paths.
 6. **Grief without rescue (Volume 09–10):** Talia stays with Marek while he learns Evan’s choice, without offering a simple emotional solution. They choose a long-term partnership only after both can refuse the other.
-7. **Separate authority (Volume 11–12):** Talia becomes an independent ombud and Marek cannot speak for her. Their relationship survives because neither is a public office.
+7. **Separate authority (Volume 11–12):** The Assembly appoints Talia a provisional independent consent ombud; Marek cannot speak for her. Their relationship survives because neither is a public office. The Assembly formally confirms her role after the final crisis.
 8. **Trust after Marek’s failure (Volume 13):** Marek attempts a central fix, hurts a trusted node, and must let others decide what happens to him. Talia’s return is chosen, not automatic.
 9. **Shared final responsibility (Volume 14–15):** They help build a public plan without making either person a symbol. They remain lovers, friends, colleagues, and separate citizens of the Civic Commons.
 
@@ -108,12 +108,12 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 - **Starting state:** Marek is a failing student, night repairer, and isolated by the belief that asking for help will reveal his inadequacy.
 - **Major locations:** Nacre Institute, Civic Spine 7, Lattice Ward, Saltmarket Exchange, the Lower Wards.
 - **Major factions:** Institute administration, Threadline, the first independent maintenance crew, and Talia’s public clinic.
-- **Midpoint reversal:** The missing beat is not a damaged card. A Threadline practice kit deliberately leaves out a boundary and makes the instructor’s cue the only reliable completion.
+- **Midpoint reversal:** The missing beat is not a damaged card. A Threadline-distributed practice kit deliberately omits the fourth boundary-release beat and makes the instructor’s cue the only reliable completion; the boundary label alone would not create the dependence.
 - **Escalation:** Marek’s first shares save a classmate and a clinic patient, but the classmate develops cue dependence. Talia, Rafi, and Sera force him to see that a successful rescue can create a new harm.
-- **Volume climax:** During a second drill, Marek refuses the approved shortcut and builds a witnessed counterpoint sequence. The modified assessment passes, the immediate equipment hazard is contained, and the affected classmate gets a non-hinged recovery plan.
-- **Concrete resolution:** Marek receives a provisional Working Share, not a full institutional victory. Threadline’s kit is quarantined locally, but the supplier remains unnamed.
+- **Volume climax:** During a second drill, Marek refuses the instructor’s substituted cue and builds a witnessed counterpoint sequence. He does not earn the Solo Seal; he passes a separate witnessed assessment, contains the immediate equipment hazard, and gives the affected classmate a non-hinged recovery plan.
+- **Concrete resolution:** Marek receives a provisional Working Share and a one-term conditional scholarship extension, not a full institutional victory. The Threadline-assembled kit is quarantined locally, but its upstream licensor remains unnamed.
 - **Power state:** Stage 1 First Knot, with painful shared aftertaste and one clear failure.
-- **Next-volume question:** Who supplied the kit, and why are the same omissions appearing in work techniques outside the institute?
+- **Next-volume question:** Who licensed Threadline’s upstream bundle, and why are the same omissions appearing in work techniques outside the institute?
 
 ### Volume 02 — Threadline (Chapters 51–100)
 
@@ -122,9 +122,9 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 - **Midpoint reversal:** A Threadline supervisor has been using hinge techniques to reduce accidents on delivery crews by making workers ask a company representative for every difficult release.
 - **Escalation:** The team investigates a training warehouse, a courier injury, and a licensing complaint. Oren Vey offers Marek a legitimate job and frames the hinge as a safety feature. Leo’s Quiet House leaks the company’s records, exposing private data and endangering the investigation.
 - **Volume climax:** Marek and Talia publicly demonstrate a non-hinged maintenance sequence, but the company isolates Rafi with a key-dependent balance technique. Marek must choose between chasing the proof and helping his friend without further sharing.
-- **Concrete resolution:** The local lab is exposed and the kits are recalled, but Threadline survives as a legal and political power. Rafi recovers with a counterpoint routine and joins a worker cooperative.
+- **Concrete resolution:** The local lab and Threadline’s relevant supply records are exposed and the kits are recalled, but Threadline survives as a legal and political power and conduit rather than the original author. Rafi recovers with a counterpoint routine and joins a worker cooperative.
 - **Power state:** Stage 2 Counterpoint; Marek can identify a hinge but cannot yet repair a public system.
-- **Next-volume question:** If the company is only profiting from the pattern, who planted the first omission?
+- **Next-volume question:** If the company is only profiting from the pattern, who licensed the first omission into its upstream bundle?
 
 ### Volume 03 — The Unquiet House (Chapters 101–150)
 
@@ -141,12 +141,12 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 
 - **Central pressure:** The team enters the old network archives while Iven Sore’s office seals records connected to Marrow Falls.
 - **Starting relationships:** Talia and Marek are close but keep professional distance after the hospital crisis. Rafi’s trust in institutions is damaged. Sera recognizes Iona’s handwriting but refuses to explain why.
-- **Midpoint reversal:** The Civic Compact originally required every technique to show its return path. A later emergency amendment removed the visible exit without announcing the change.
-- **Escalation:** Archive work exposes ordinary historical heroes, a missing maintenance crew, and evidence that the Crown Clause was tested before Marrow Falls. Iven offers Marek a job in exchange for silence.
-- **Volume climax:** The team retrieves a partial maintenance ledger from the Crown Vault. Iona’s old design notes identify the hidden clause, but not who authorized its spread. Iven attempts to erase the ledger through a routine safety purge.
-- **Concrete resolution:** The ledger survives in public custody. Marek becomes a recognized researcher, not a public hero; the city agrees to investigate the amendment while the Continuity Office retains emergency authority.
+- **Midpoint reversal:** The public Civic Compact originally required every technique to show its return path. An unauthorized working-copy amendment inserted during Marrow Falls overrode that visible exit without announcing the change.
+- **Escalation:** Archive work exposes ordinary historical heroes, a missing maintenance crew, and records that separate Iona’s unauthorized amendment from the original Civic Compact. Iven offers Marek a job in exchange for silence.
+- **Volume climax:** The team retrieves a partial maintenance ledger from the Crown Vault. Iona’s old design notes identify the hidden clause, but not which institutions helped circulate it. Iven attempts to erase the ledger through a routine safety purge.
+- **Concrete resolution:** The ledger survives in public custody. Marek becomes a recognized researcher, not a public hero; the city agrees to investigate the unauthorized amendment while the Continuity Office retains emergency authority.
 - **Power state:** Stage 2, with the first sustained relay and a permanent sensory sensitivity.
-- **Next-volume question:** If the clause is dangerous, can the network be useful without Threadline, the Office, or a single private founder?
+- **Next-volume question:** If the clause is dangerous, can the network be useful without Threadline, the Office, or a single privileged builder?
 
 ### Volume 05 — The Practice Commons (Chapters 201–250)
 
@@ -217,7 +217,7 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 ### Volume 11 — The Keymakers (Chapters 501–550)
 
 - **Central pressure:** A contest between public, corporate, and Quiet House network models becomes a struggle over the physical Crown Key.
-- **Starting relationships:** Talia is appointed the first independent consent ombud. Marek must learn to work under an institution he helped create and cannot overrule. Leo, Iven, Oren, and Sera each hold part of the history.
+- **Starting relationships:** Talia receives a limited, renewable appointment as the first provisional independent consent ombud. Marek must learn to work under an institution he helped create and cannot overrule. Leo, Iven, Oren, and Sera each hold part of the history.
 - **Midpoint reversal:** Iona makes a public argument in Nacre and wins the sympathy of people who remember the Hush. The Crown Key cannot be used by one person alone; it needs a prepared civic sequence and a public emergency.
 - **Escalation:** A series of non-network disasters tests whether the public institution is worth its slower procedures. Iven releases records that implicate the city in Marrow Falls. Oren offers his infrastructure and demands control.
 - **Volume climax:** The Assembly votes to keep the Commons and rejects both Oren’s monopoly and Iona’s central key. The Conductor’s Choir steals the remaining Crown pattern from a Verge exchange house, not the key itself.
@@ -240,33 +240,33 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 
 - **Central pressure:** The coalition must enter the old Crown infrastructure and learn the original Return Path before Iona can force a citywide sequence.
 - **Starting relationships:** Marek and Talia reunite after his failed central attempt, but Talia’s return is conditional on his willingness to be removed from a plan. Sera refuses to let either of them speak for the dead.
-- **Midpoint reversal:** The Crown Key is not a secret phrase or a single object. It is a collection of return paths that were all rewritten to terminate at one authority. The only way to break it is to restore many local exits.
+- **Midpoint reversal:** The Crown Key is not a secret phrase or a single object. It is a collection of return paths that were all rewritten to terminate at one authority. The coalition also discovers the physical **Crown Root Interface**, a legacy maintenance credential built into the convergence cabinet. It is not a new ability: it can inspect and validate only while a council-authorized, witnessed maintenance link is open, and the participating councils can close that link. The only way to break the key is to restore many local exits.
 - **Escalation:** Marek tries a central solution to prove he can still protect Nacre. It works for a short time and injures a trusted node, exposing the flaw Iona predicted.
-- **Volume climax:** The team abandons Marek’s shortcut, gives the injured node authority over the plan, and creates a federation of local return paths. Iona retreats to the final activation chamber with the remaining pattern.
-- **Concrete resolution:** The plan is real but incomplete. Marek must now persuade people to trust a distributed answer during a crisis rather than wait for proof.
+- **Volume climax:** The team abandons Marek’s shortcut, gives the injured node authority over the plan, and creates a federation of local return paths. The temporary mapping of the Crown Root Interface is placed under the coalition’s public rules rather than Marek’s private authority. Iona retreats to the final activation chamber with the remaining pattern.
+- **Concrete resolution:** The plan is real but incomplete. Marek must now persuade people to trust a distributed answer during a crisis rather than wait for proof; the Root Interface is a known, revocable maintenance risk, not a hidden power-up.
 - **Power state:** Stage 5 failure state; Marek’s access is reduced and his physical recovery is incomplete.
 - **Next-volume question:** Can the public network remain voluntary when a single wrong answer could kill thousands?
 
 ### Volume 14 — The Open Weave (Chapters 651–700)
 
 - **Central pressure:** The coalition prepares a public response while Iona appeals to citizens with a plan that promises immediate safety through central control.
-- **Starting relationships:** Talia and Marek work as equal public partners with different authority. Rafi, Sera, Leo, Asha, Dessa, and the district councils each control a necessary part of the plan.
-- **Midpoint reversal:** A public vote supports the Commons but does not guarantee participation. Iona triggers the Nine-Minute Hush, and the Crown Key begins converting silent nodes into a single civic sequence.
-- **Escalation:** Hospitals, bridges, water stations, and homes fail in different ways. Talia must publish the limits of every share; Marek must move without pretending he can see the whole city.
-- **Volume climax:** The local councils agree to a common set of return paths without merging their authority. The Conductor’s Choir fractures as people discover the difference between safety and obedience.
-- **Concrete resolution:** The city is not saved yet, but the plan is in place. Iona opens the Crown Vault and invites Marek to choose the one answer that can stop the cascade.
+- **Starting relationships:** Talia and Marek work as equal public partners with different authority. Rafi, Sera, Leo, Asha, Dessa, and the district councils each control a necessary part of the plan; the temporary Crown Root Interface is documented, council-witnessed, and revocable rather than privately held by Marek.
+- **Midpoint reversal:** A public vote supports the Commons but does not guarantee participation. Iona forces a contained Crown test in three connected districts, demonstrating that one prepared sequence can silence competing local releases; the test is stopped before it becomes a citywide cascade.
+- **Escalation:** Hospitals, bridges, water stations, and homes fail in different ways during the test and its aftermath. Talia must publish the limits of every share; Marek must move without pretending he can see the whole city.
+- **Volume climax:** The local councils agree to a common set of return paths without merging their authority. The Conductor’s Choir fractures as people discover the difference between safety and obedience. Iona reaches the Crown Vault and arms the full continuity pattern, but the Nine-Minute Hush has not yet begun.
+- **Concrete resolution:** The city is not saved yet, but the plan is in place and the full activation is imminent. Iona opens the Vault to prepare the one answer that can stop the coming cascade.
 - **Power state:** Stage 5 at full federation; the cost of the next act will be permanent.
-- **Next-volume question:** Will Marek take the Crown Key and become a safer kind of Conductor, or dissolve the need for a key at all?
+- **Next-volume question:** When the Nine-Minute Hush begins in Chapters 701–720, will Marek take the Crown Key and become a safer kind of Conductor, or dissolve the need for a key at all?
 
 ### Volume 15 — Many Hands (Chapters 701–760)
 
-- **Central pressure:** The Nine-Minute Hush becomes a citywide cascade. Every district, institution, and family must act while Iona’s Crown sequence tries to make one response look compulsory.
-- **Starting state:** The Civic Commons is public but fragile; Talia is its independent ombud; Marek has distributed authority and no central privilege; Iona controls the remaining Crown pattern.
+- **Central pressure:** The Nine-Minute Hush begins in Chapter 701 and becomes a citywide cascade. Every district, institution, and family must act while Iona’s Crown sequence tries to make one response look compulsory.
+- **Starting state:** The Civic Commons is public but fragile; Talia is serving as its provisional independent ombud; Marek has distributed authority and no central privilege; the temporary Crown Root Interface remains a council-witnessed maintenance risk rather than his private power; Iona controls the remaining Crown pattern and has armed the Crown Vault.
 - **Major locations:** Crown Vault, Lattice Ward, Saltmarket, the Lower Wards, Quiet Quarter, Nine Bridges, Ashfields, and the Verge exchange house.
 - **Major factions and roles:** The Civic Commons, Continuity Office reformers, Threadline infrastructure crews, the Quiet House, Verge councils, the Conductor’s Choir, and ordinary citizens choosing local responses.
-- **Midpoint reversal:** Marek can seize the Crown Key and stabilize the cascade immediately, but the key would make him the sole person able to authorize every future response. Iona offers him the exact moral bargain she used to justify her power.
-- **Escalation:** Local teams hold the city together through public return paths, care-links, manual work, and deliberate disagreement. Talia’s ombud notices that some people are consenting under pressure; the system must become slower to remain honest.
-- **Volume climax:** Marek enters the Crown Vault with Iona and the surviving network teams. Instead of taking the key, he gives its authority to the local return paths, allowing every participating group to close its own route. The choice costs him his high-level access, some of his oldest echoes, and his chance to be the indispensable center. Iona loses the ability to impose one sequence and is taken into public custody.
+- **Midpoint reversal:** Marek can seize the Crown Key and use the already-prepared continuity pattern to stabilize the cascade within minutes, but the key would make him the sole person able to authorize every future response. Iona offers him the exact moral bargain she used to justify her power.
+- **Escalation:** Local teams hold the city together through public return paths, care-links, manual work, and deliberate disagreement. Talia’s provisional ombud role lets her notice that some people are consenting under pressure; the system must become slower to remain honest.
+- **Volume climax:** Marek enters the Crown Vault with Iona and the surviving network teams. Instead of taking the key, he gives its authority to the local return paths, allowing every participating group to close its own route. The choice costs him the unique Crown Root Interface, some of his oldest echoes, and his chance to be the indispensable center. Iona loses the ability to impose one sequence and is taken into public custody.
 - **Concrete resolution:** Nacre survives with lower immediate efficiency and higher public trust. Hinges are quarantined, affected people receive care, Threadline is broken up and overseen, and the Quiet House retains the right to refuse. The Civic Commons becomes a rotating, inspectable public institution.
 - **Final relationship state:** Marek and Talia choose a private life together while holding separate public roles. Talia does not become his reward or deputy. He does not ask her to save him. They share a home near Civic Spine 7, keep different workrooms, and continue the ordinary practice of asking before entering one another’s burdens.
 - **Final world state:** The Soul Network is a federation of local practices, not a single consciousness. Some neighborhoods stay quiet. Public technique lineages are inspectable, return paths are standard, and disputes have places to go. The institution is imperfect, costly, and alive.
@@ -275,11 +275,11 @@ Growth is earned through practice, failed experiments, physical recovery, relati
 
 ## Final external conflict
 
-Iona Sorn invokes the Crown Key during the Nine-Minute Hush, forcing prepared civic techniques to follow a single sequence and making withdrawal look like failure. The conflict is fought through hospitals, transit, water, homes, relay rooms, public arguments, and the maintenance of trust. No new cosmic enemy appears.
+Iona Sorn invokes the Crown Key at the start of the Nine-Minute Hush, using the prepared continuity pattern to force affected civic techniques to follow one sequence and make withdrawal look like failure. The key can stop immediate failures in prepared systems, but only by routing every local release through its holder. The conflict is fought through hospitals, transit, water, homes, relay rooms, public arguments, and the maintenance of trust. No new cosmic enemy appears.
 
 ## Final internal choice
 
-Marek chooses not to take the Crown Key, even though taking it would save the city immediately. He distributes the Return Path and permanently gives up privileged high-level access, accepting that the network may include voices he cannot control and a future he cannot guarantee.
+Marek chooses not to take the Crown Key, even though taking it would let him use the prepared pattern and save the city within minutes. He distributes the Return Path and destroys the unique Crown Root Interface, giving up city-wide inspection and emergency override while retaining only consent-based local access. He accepts that the network may include voices he cannot control and a future he cannot guarantee.
 
 ## Final emotional answer
 

@@ -15,7 +15,7 @@ The setting is contemporary: phones, electric transit, hospital monitors, delive
 - **Lattice Ward:** University, laboratories, old civic buildings, and the central **Civic Spine** exchange. The public looks ordinary from the street. Beneath it, thousands of relay plates carry carefully limited practice shares.
 - **Saltmarket:** The working waterfront, wholesale kitchens, repair stalls, immigrant neighborhoods, and the **Saltmarket Exchange**. It is the first place where a private technique becomes a public economic dependency.
 - **Nine Bridges:** Dense residential towers and transit crossings. The bridges are named for the old routes that joined separated neighborhoods, not for an ancient magical order.
-- **Ashfields:** Freight yards, foundries, equipment warehouses, and the Marrow Falls edge. Industrial techniques are more physical and less socially supervised, which makes them useful for hiding hings.
+- **Ashfields:** Freight yards, foundries, equipment warehouses, and the Marrow Falls edge. Industrial techniques are more physical and less socially supervised, which makes them useful for hiding hinges.
 - **Quiet Quarter:** A mixed-income district with weak signal coverage and a strong culture of practical privacy. Its residents are not anti-technology; many simply distrust institutions that call a choice a “default.”
 - **Crown Terrace:** Administrative offices, wealthy clinics, research leases, and the old **Crown Vault** beneath the former continuity hall. The name is historical, not a claim that Nacre has a monarch.
 - **The Lower Wards:** Flood-prone blocks where several unofficial nodes share repair crews. Their informal practices are neither harmless nor automatically illegal; their records are poor.
@@ -33,7 +33,7 @@ People learn techniques for work and safety. A nurse practices a brace that redu
 
 The network is useful in ordinary life because it is unevenly distributed. A wealthy clinic has a dedicated relay and a trained ombud. A courier has a cracked phone and a friend who remembers a dangerous step. A student may practice with a classmate who has a different body, fear, or goal. The same technique can help one person and harm another if its boundaries are copied without context.
 
-Licensing matters. The **Solo Seal** proves a person can perform a core technique alone. A **Working Share** permits a person to use a limited practice with named partners. A **Civic Practitioner** can maintain public infrastructure, but only after a local council or institution accepts responsibility for the surrounding network.
+Licensing matters. The **Solo Seal** proves a person can perform a core technique alone; it does not confer permission to work through partners. A **Working Share** permits a person to use a limited practice with named partners and requires a separate witnessed assessment. A **Civic Practitioner** can maintain public infrastructure, but only after a local council or institution accepts responsibility for the surrounding network.
 
 ## History
 
@@ -51,7 +51,7 @@ The Hush remains a public trauma. Public school exercises begin with an opt-out 
 
 A coalition of nurses, transit workers, engineers, teachers, cooks, performers, and maintenance crews rebuilt the network. Its central rule was the **Return Path**: every shared technique had to show what it was, where it came from, how long it was being shared, and how a person could leave. The network was intentionally incomplete. It could suggest a shape, but it could not treat one person as the permanent answer.
 
-The Compact created the Civic Weave, the public maintenance crews, the Choir of Practice, and the first consent ledgers. It also left a dangerous compromise: emergency response still needed a way to coordinate when communication failed.
+The Compact created the Civic Weave, the public maintenance crews, the Choir of Practice, and the first consent ledgers. It also left a practical problem: emergency response still needed a way to coordinate when communication failed. Its public rule allowed active check-ins, manual signals, and explicit local fallbacks; it did not allow an unanswered person to count as agreement.
 
 ### Marrow Falls — fourteen years before the present
 
@@ -63,7 +63,7 @@ Iona disappeared after the inquiry. The official record says she resigned and le
 
 The Civic Weave is reliable enough to be ordinary and fragile enough to be political. A missing beat in a shared technique is usually blamed on poor training, student error, or a bad device. Threadline sells convenient training packages. The Continuity Office keeps emergency procedures opaque. The Quiet House publishes maps of places where people can disconnect. The Verge sends techniques and supplies without asking Nacre for permission.
 
-The present-day opening begins when a student practice kit from Threadline fails in a way that looks exactly like a missing consent boundary.
+The present-day opening begins when a Threadline-distributed practice kit fails in a way that exposes a missing boundary-release beat.
 
 ## Technology and society
 
@@ -93,7 +93,7 @@ The Continuity Office certifies emergency plans and investigates network failure
 
 ### Threadline
 
-Threadline builds relay hardware, training kits, and commercial practice systems. Its public claim is that standardized techniques make work safer. Its private model depends on predictable consent defaults and continuous data. Oren Vey does not know the full Crown Clause history at first, but he understands that a society which cannot leave a network is easier to contract with.
+Threadline builds relay hardware, training kits, and commercial practice systems. It is the contracted assembler and seller of the opening institute kit, using an upstream technique bundle whose licensor the opening investigation cannot yet identify. Threadline’s public claim is that standardized techniques make work safer; its private model depends on predictable consent defaults and continuous data. Oren Vey does not know the full Crown Clause history at first, but he understands that a society which cannot leave a network is easier to contract with.
 
 ### Quiet House
 

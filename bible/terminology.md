@@ -23,11 +23,13 @@ Use these forms consistently in outlines and prose. Capitalization is for formal
 - **line:** A synthesized pattern that multiple observations can support. A line is provisional until tested.
 - **lineage:** The recorded history of a technique: sources, changes, boundaries, and consent records. A lineage can be incomplete or falsified.
 - **technique:** A structured embodied practice with an anchor, beats, release, boundary, and aftertaste.
+- **boundary-release beat:** The observable completion beat in which a practitioner applies the boundary, confirms or refuses further sharing, and returns the choice to act to themselves. A printed boundary without a performed check is not enough.
 - **practice:** The act of performing, testing, or teaching a technique.
 - **counterpoint:** An independent disagreement or alternative used to test a shared line. It reveals conflict, not automatic truth.
-- **return path:** The original Civic Compact safeguard that shows how a technique is shared, how long it lasts, and how a participant exits.
-- **Crown Clause:** A hidden emergency rule that treats silence as provisional consent and routes action toward an approved civic sequence.
-- **Crown Key:** The convergence authority in the Crown Vault that invokes the Crown Clause across prepared civic systems. It is not a mind-reading device.
+- **return path:** The original Civic Compact safeguard that shows how a technique is shared, how long it lasts, and how a participant exits. The public Compact did not treat silence as consent.
+- **Crown Clause:** A hidden Marrow Falls amendment inserted behind the public Return Path; it treats silence as provisional consent and routes action toward an approved civic sequence.
+- **Crown Key:** The convergence authority in the Crown Vault that invokes the Crown Clause across prepared civic systems. It can override local release cues through a prepared pattern, but every withdrawal then routes through its holder. It is not a mind-reading device.
+- **Crown Root Interface:** A one-time physical maintenance credential in the Crown infrastructure, distinct from ordinary local-network consent, that can inspect the full weave and temporarily validate a response for linked systems while its witnessed council link is open. It is not a new personal power; Marek destroys it during the final Unbinding.
 - **hinge:** An intentionally incomplete beat that rewards a key-holder and narrows a learner’s practical independence.
 - **key-holder:** The person whose cue or authority a hinge rewards. The term describes a function, not goodness or rank.
 - **Conductor:** Iona Sorn’s public or hidden title as the architect of forced coordination.
@@ -65,15 +67,15 @@ Characters may say “I’ll give you use, not a keepsake” or “remember the 
 - **Civic Spine 7:** Marek’s night-shift repair hub.
 - **Nacre Assembly:** The city’s public deliberative government.
 - **Continuity Office:** The government office responsible for emergency plans, network licenses, and failure investigations.
-- **Solo Seal:** A practical license proving a person can perform a core technique alone.
-- **Working Share:** A limited license to practice with named partners.
+- **Solo Seal:** A practical license proving a person can perform a core technique alone. It does not grant or replace a Working Share.
+- **Working Share:** A limited license to practice with named partners, earned through a separate witnessed assessment.
 - **Civic Practitioner:** A person trained and recognized to maintain public infrastructure.
 - **Practice Commons:** The first public, cooperative technique library and teaching network.
 - **Civic Commons:** The final public institution that governs the federated Civic Weave. It is not a ruler or a single building.
 
 ## Organizations and people
 
-- **Threadline:** A relay, training, and logistics company. Its commercial products are not automatically evil; its default-consent model is dangerous.
+- **Threadline:** A relay, training, and logistics company. It is the known contracted assembler and seller of the opening kit, not the author of the Crown Clause; its default-consent model is dangerous.
 - **Quiet House:** A decentralized privacy movement. Its members vary from lawful advocates to saboteurs.
 - **Choir of Practice:** An independent cooperative of practitioners, teachers, repairers, and care workers.
 - **Marek Senn:** Male protagonist; failing student and repairer; can recognize missing beats and protect a return path.
@@ -93,10 +95,10 @@ Characters may say “I’ll give you use, not a keepsake” or “remember the 
 ## Historical terms
 
 - **the Hush:** The forty-seven-year-old synchronization disaster that made consent boundaries a public necessity.
-- **the Civic Compact:** The rebuilding agreement that created the Civic Weave and Return Path.
-- **Marrow Falls outage:** The fourteen-year-old emergency failure during which Iona added the Crown Clause.
+- **the Civic Compact:** The rebuilding agreement that created the Civic Weave and Return Path. Its public version required visible exits and did not authorize silence as consent.
+- **Marrow Falls outage:** The fourteen-year-old emergency failure during which Iona inserted the Crown Clause into a working copy of the Compact’s emergency protocol.
 - **the Crown Clause:** See Network terms; do not use “Crown Law” as a synonym.
-- **the Nine-Minute Hush:** The final crisis, not a second historical event. It is a nine-minute cascade triggered by Iona’s attempted activation of the Crown Key.
+- **the Nine-Minute Hush:** The final crisis, not a second historical event. Its first nine minutes begin in Volume 15 when Iona activates the Crown Key; the cascade can then continue for hours or days.
 
 ## Interface language
 

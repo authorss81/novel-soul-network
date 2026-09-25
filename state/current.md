@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: bootstrap complete; next phase is the Volume 01 outline
+Current phase: bootstrap canon established; workflow completion is tracked separately; next phase is the Volume 01 outline
 
 Current volume: 1
 
@@ -10,10 +10,10 @@ Last completed chapter: none
 
 Last batch summary: none
 
-Active threats: no immediate physical threat; the first mystery pressure is a Threadline training kit with a missing consent boundary
+Active threats: no immediate physical threat; the first mystery pressure is a Threadline-distributed brace whose fourth boundary-release beat has been replaced by an instructor’s cue
 
-Active promises: Marek must pass the Solo Seal; the team must identify who seeded the Crown Clause; the network must eventually become a public institution
+Active promises: Marek seeks the Solo Seal and conditional scholarship review; the team must identify the kit’s unnamed upstream licensor and the person who seeded the Crown Clause; the network must eventually become a public institution
 
-Current relationship pressure: Marek and Talia Venn are not partners yet; Talia has stopped him from using a classmate’s observation without a durable share, and Marek’s instinct is to resent and bypass the correction
+Current relationship pressure: Marek and Talia Venn are not partners yet; their first consent conflict is reserved for Volume 01 and has not occurred in chapter prose
 
 Current power state: Marek is at Latent Counterpoint; he can notice a missing beat and survive one brief willing share, but has not yet formed a stable First Knot

@@ -64,7 +64,7 @@ A disgraced knight can enter complete simulations of his own magical world. Inst
 
 **Length:** 760 chapters, 15 volumes of approximately 50 chapters.
 
-A failing student in a modern cyber-fantasy city awakens a distributed network that improves techniques by pooling observations from connected people. It begins with one broken exercise and grows into a social, political, and spiritual threat.
+A failing student in a modern cyber-fantasy city discovers that an existing civic network can pool willing observations more safely than its standardized training allows. The hidden capacity begins with one broken exercise and grows into a social, political, and spiritual threat.
 
 **Power:** Deduction, distributed processing, node networks, consent-based connection.
 

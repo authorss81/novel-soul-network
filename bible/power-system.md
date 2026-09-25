@@ -16,6 +16,10 @@ Every usable technique has five parts, whether or not its teacher names them:
 4. **Boundary:** what the technique must not affect, such as a patient’s memories, a stranger’s privacy, a neighbor’s property, or the practitioner’s sense of identity.
 5. **Aftertaste:** the temporary sensory, emotional, or physical residue left by the practice. A skilled teacher can reduce it; no technique removes it completely.
 
+A boundary on a card is a claim, not an action. The practitioner must perform it at some observable point in the sequence: confirm the agreed scope, refuse further sharing, or return attention and authority to themselves. The beat that performs that check is the **boundary-release beat**. It may differ by technique, and a narrow care-link can give a partner a clearly limited role, but the learner must not be taught to outsource the choice itself.
+
+A hinge works by deleting a completion beat that should carry the boundary and release, then installing a trusted key-holder’s cue as its apparent replacement. A missing boundary label by itself is not a hinge. The causal problem appears when repetition teaches the learner to expect that outside cue as the only safe way to finish.
+
 A printed card can record a shape, but it cannot carry the judgment required to apply it to a new body or situation.
 
 ## The share lifecycle
@@ -114,9 +118,11 @@ Hinges work in stages:
 
 The hinge does not control every thought. It narrows practical agency by turning a successful practice into a social dependency. Its power depends on repetition, trust, and institutional cover.
 
-The **Crown Clause** is the original hidden rule behind the seeded hinges. It says that when a civic node is silent during an approved emergency, the last civic sequence may be used as a provisional response. That emergency exception was hidden from the people whose bodies would carry it out. Iona Sorn added the clause during the Marrow Falls outage and later seeded variants into public techniques.
+The **Crown Clause** is a hidden rule Iona inserted behind the public Return Path. It says that when a civic node is silent during an approved emergency, the last civic sequence may be used as a provisional response. The original Civic Compact did not authorize silence as agreement; Iona added the clause to a working copy of its emergency protocol during the Marrow Falls outage and later seeded variants into public techniques.
 
-The **Crown Key** is the authority that can invoke the clause across linked civic systems. In physical form it is a convergence cabinet in the Crown Vault: many old return paths have been joined so that one approved response can travel through them at once. It cannot create a new technique, read a private mind, or solve a problem without a prepared pattern. It can make silence look like consent and make one response look like the only safe one. That is why it is a political weapon rather than an invincible weapon.
+The **Crown Key** is the authority that can invoke the clause across linked civic systems. In physical form it is a convergence cabinet in the Crown Vault: many old return paths have been joined so that one approved response can travel through them at once. It cannot create a new technique, read a private mind, or solve a problem without a prepared pattern.
+
+During the final crisis, Iona’s prepared continuity pattern is already embedded in the affected civic techniques. The key opens a root channel to those hidden completion routes, overrides competing local release cues, and makes silent nodes follow one hold-and-restore sequence. That can halt immediate mechanical failures inside the prepared systems. A holder can sustain the pattern for minutes, but the holder can delay, deny, or reroute every local withdrawal; the underlying release cues remain physically present, but no independent exit is usable while the holder refuses the request. The city may function while no group can independently stop the response. The key cannot judge whether the pattern is right, invent missing care, or make an unprepared system safe. That concrete but coercive benefit is why it is a political weapon rather than an invincible weapon.
 
 ## Counterpoint
 
@@ -156,7 +162,7 @@ Marek can work across several local networks when each one grants its own consen
 
 ### Final act — Unbinding
 
-Marek can help dismantle the Crown Clause by distributing the Return Path rather than taking the Crown Key. The act permanently removes his high-level access and some of his oldest network echoes. He retains limited human-scale practice and a real life, but he cannot return to being the one person every node calls when the city needs a single answer.
+Marek can help dismantle the Crown Clause by distributing the Return Path rather than taking the Crown Key. In Volume 13, the coalition exposes the unique **Crown Root Interface** as a physical legacy maintenance credential, usable only at the convergence cabinet and only while a council-authorized, witnessed link remains open. Marek never carries it as a private Stage 5 power. In the final act he uses that temporary access to map the old routes, then destroys the interface, permanently removing city-wide inspection and emergency validation. He still has consent-based access to local networks, but no private privileged position. The act also cuts him off from some of his oldest network echoes. He retains limited human-scale practice and a real life, but he cannot return to being the one person every node calls when the city needs a single answer.
 
 ## System language
 

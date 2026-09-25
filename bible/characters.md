@@ -75,11 +75,11 @@ She is so focused on preventing coercion that she can miss the ordinary dependen
 
 ### Relationship with Marek
 
-Talia first catches him using a classmate’s observation without asking for a durable share. Their early attraction is real but inconvenient: he wants help without admitting the need, and she wants clear language before trust. They become collaborators, learn each other’s work, separate when Marek tries to protect a node by making decisions for them, and return only after he gives her the same right to refuse that he asks of everyone else. Their final closeness is chosen in ordinary moments, not awarded after a confession.
+During Volume 01, Talia first catches him using a classmate’s observation without asking for a durable share. Their early attraction is real but inconvenient: he wants help without admitting the need, and she wants clear language before trust. They become collaborators, learn each other’s work, separate when Marek tries to protect a node by making decisions for them, and return only after he gives her the same right to refuse that he asks of everyone else. Their final closeness is chosen in ordinary moments, not awarded after a confession.
 
 ### Arc
 
-Talia moves from documenting individual consent to designing public institutions that can inspect themselves. She becomes Nacre’s first independent consent ombud, appointed by the Assembly rather than by Marek. She remains romantically partnered with him but institutionally separate and politically capable of opposing him.
+Talia moves from documenting individual consent to designing public institutions that can inspect themselves. In Volume 11, the Assembly appoints her Nacre’s first provisional independent consent ombud under a limited, renewable mandate. After the final crisis, the Assembly formally confirms the role; at no point does Marek appoint or control her. She remains romantically partnered with him but institutionally separate and politically capable of opposing him.
 
 ## Rafi Pell — roommate, first node, physical counterweight
 
