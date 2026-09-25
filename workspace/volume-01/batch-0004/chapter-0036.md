@@ -22,7 +22,7 @@ She did not look at him.
 
 "Yes."
 
-"It's this." She put both hands flat on the table. "There is a third-year intake in a fortnight's time and every one of them will be taught from revision 4-19 by somebody in this building, and the person standing at the front will be a person out of a course, and a first-year, or a second-year, or somebody like me who has never held a plate in her life. And that person will say whatever the booklet says, because that is the job and because there is nothing else to say, and the booklet says the fourth beat is a support beat and not a step. And nobody in this building has ever said out loud, in a room, that a thing is missing. Not once. Not to a first-year. Not to a candidate. Not in a corridor, and I checked the corridor, because I read the board outside the practical department office every morning for a fortnight and there has been a term panel notice up there since before the term began and none of them says one word about any of it, and the notices go up in September and come down at the end of term and I photographed all of them."
+"It's this." She put both hands flat on the table. "There is a third-year intake in about four weeks' time and every one of them will be taught from revision 4-19 by somebody in this building, and the person standing at the front will be a person out of a course, and a first-year, or a second-year, or somebody like me who has never held a plate in her life. And that person will say whatever the booklet says, because that is the job and because there is nothing else to say, and the booklet says the fourth beat is a support beat and not a step. And nobody in this building has ever said out loud, in a room, that a thing is missing. Not once. Not to a first-year. Not to a candidate. Not in a corridor, and I checked the corridor, because I read the board outside the practical department office every morning for a fortnight and there has been a term panel notice up there since before the term began and none of them says one word about any of it, and the notices go up in September and come down at the end of term and I photographed all of them."
 
 She sat down.
 
@@ -44,7 +44,7 @@ The room went quiet in the way rooms go quiet.
 
 "Go on, then."
 
-"More than one of us teaches it, and none of us teaches the fourth thing alone." She did not raise her voice. "That is the whole of it. It is not me or nobody. It is that the thing that happened in this building in September is not that one man put a word in. It is that one man put a word in and about a hundred people heard it and not one of us said it out loud afterwards, and the silence is the load-bearing part. I have sat in a common room for three days and worked out that the way you don't become the hinge is not by refusing to speak. It is by making sure that the room can hear it from more than one mouth."
+"More than one of us teaches it, and none of us teaches the fourth thing alone." She did not raise her voice. "That is the whole of it. It is not me or nobody. It is that the thing that happened in this building in September is not that one man put a word in. It is that one man put a word in and about a hundred people heard it and not one of us said it out loud afterwards, and the silence is the load-bearing part. I have sat in a common room for three days and worked out that the way you don't end up being the only key-holder in it is not by refusing to speak. It is by making sure that the room can hear it from more than one mouth."
 
 "And what happens in four years when there are forty of you."
 

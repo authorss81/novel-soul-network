@@ -58,7 +58,7 @@ She was quiet for a bit.
 
 "That's exactly what she said."
 
-"Delia Frost. Hip unit. Eleven weeks. Get short of breath twice, about four in the afternoon, and it goes. And I want it written down that I told somebody and I didn't want to and my husband doesn't know." A pause. "And can I ask you one thing. Are you the one who wrote the number up?"
+"Delia Frost. Hip unit. Ten weeks. Get short of breath twice, about four in the afternoon, and it goes. And I want it written down that I told somebody and I didn't want to and my husband doesn't know." A pause. "And can I ask you one thing. Are you the one who wrote the number up?"
 
 "Yes."
 
@@ -130,7 +130,7 @@ Corvin Ashby refused it at the pump house at half past two on the Wednesday afte
 
 The argument, Marek Senn found standing in a pull-off with a man who had not put the tea flask down, was not a no he had to take but a no that improved his own position, and that he was not going to be able to say so out loud without sounding like a man enjoying it.
 
-"That's two," said Corvin Ashby. "Three, and three's the one I'll not move on. You've asked me to hand the work to three people and a woman you won't name, and two of the three are better at it than you and one of them has a set of steps in five days. Fine. Fine. But every one of you is going to be doing it because a man in Lattice said so, and the second the man in Lattice stops — and he will stop, because he's got a panel on Thursday and a term's over and a job to go back to — then it's the four of you and a rail. And a rail on its own is what she had before, and she'll be on four and there'll be nobody to say no to her in this ward, and she'll have a poster about it in a first-year common room and a page in a quarterly and no person in it."
+"That's two," said Corvin Ashby. "Three, and three's the one I'll not move on. You've asked me to hand the work to three people and a woman you won't name, and two of the three are better at it than you and one of them has a set of steps in four days. Fine. Fine. But every one of you is going to be doing it because a man in Lattice said so, and the second the man in Lattice stops — and he will stop, because he's got a panel on Thursday and a term's over and a job to go back to — then it's the four of you and a rail. And a rail on its own is what she had before, and she'll be on four and there'll be nobody to say no to her in this ward, and she'll have a poster about it in a first-year common room and a page in a quarterly and no person in it."
 
 "And if I keep going up the hill."
 

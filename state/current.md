@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: Volume 01, Batch 0004 complete (Chapters 31-40, "The Lower Wards and the Second Dependence"). Batch 0005 for Chapters 41-50 has been created and is the only pending phase. The batch is ~36,100 words across ten chapters after review repair. **No System panel appears anywhere in it.** The deliberateness of the omission was not re-proved, the instructor script was not re-run, no approval page was found, and the blank licensor field is still blank and is still unanswered.
+Current phase: Volume 01, Batch 0004 complete (Chapters 31-40, "The Lower Wards and the Second Dependence"). Batch 0005 for Chapters 41-50 has been created and is the only pending phase. The batch is ~36,300 words across ten chapters after two repair passes. **No System panel appears anywhere in it.** The deliberateness of the omission was not re-proved, the instructor script was not re-run, no approval page was found, and the blank licensor field is still blank and is still unanswered.
 
 Current volume: 1 — *The Missing Beat*
 
@@ -10,7 +10,7 @@ Last completed chapter: 40 — "Five Days"
 
 Last batch summary: `workspace/volume-01/batch-0004/SUMMARY.md`
 
-Manuscript: `workspace/volume-01/batch-0001/chapter-0001.md` through `chapter-0010.md` (~34,800 words), `batch-0002/chapter-0011.md` through `chapter-0020.md` (~50,600 words), `batch-0003/chapter-0021.md` through `chapter-0030.md` (~52,200 words), and `batch-0004/chapter-0031.md` through `chapter-0040.md` (~36,100 words).
+Manuscript: `workspace/volume-01/batch-0001/chapter-0001.md` through `chapter-0010.md` (~34,800 words), `batch-0002/chapter-0011.md` through `chapter-0020.md` (~50,600 words), `batch-0003/chapter-0021.md` through `chapter-0030.md` (~52,200 words), and `batch-0004/chapter-0031.md` through `chapter-0040.md` (~36,300 words).
 
 In-world moment: **Thursday of week 13, late afternoon, six days after the end of term.** The continuity office has completed its review of the four local holds and recorded a recommendation that is conditional on an event that has not happened. The Institute has set the witnessed assessment for **Tuesday of week 14, 09:00, room one of the practical building**, which is five days away, and room one is a teaching room, and the person who decides whether that counts as a public room is the Office's assessor and will decide on the morning.
 

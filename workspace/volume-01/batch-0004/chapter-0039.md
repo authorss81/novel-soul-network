@@ -1,6 +1,6 @@
 # Chapter 39 — Sitting In It
 
-The night shift at Civic Spine 7 on the Wednesday of week 13 was Marek Senn's shift, and the night list had nine jobs on it and he did six of them, and the two he did not do were a relay cabinet in a building he had never been inside and a lamp in a stairwell in a tower in Broadfields, and both of them were out of area.
+The night shift at Civic Spine 7 on the Wednesday of week 13 was Marek Senn's shift, and the night list had eight jobs on it and he did six of them, and the two he did not do were a relay cabinet in a building he had never been inside and a lamp in a stairwell in a tower in Broadfields, and both of them were out of area.
 
 Sera Quill came in at half past ten, read the night list over his shoulder, and said, "You're doing six."
 
@@ -12,9 +12,9 @@ Sera Quill came in at half past ten, read the night list over his shoulder, and 
 
 "Twelve hours, six jobs, two out of area, and you didn't tell the list." She put the clipboard back on the nail. "Write it on the list tomorrow, because in about a month somebody's going to notice and then it will look like you hid it, and I am not having a person on my shift who hides things from a list."
 
-Then she went through to the mess room, and he was at the bench with a resistor in his hand, and had the distinct and unpleasant experience of a man who has been carrying a document about for ten weeks finding that he has nothing to carry it to.
+Then she went through to the mess room, and he was at the bench with a resistor in his hand, and had the distinct and unpleasant experience of a man who has been carrying a document about for a fortnight finding that he has nothing to carry it to.
 
-He had had it in his coat since the Thursday of week 11 and it was still in his coat, and she had never asked for it, and he had not brought it, and neither of them had said a word about the not-bringing, and what she had done about it was send him to the Saturday backlog in week nine and say nothing since, which was the whole of the answer and had cost her something the first time.
+He had had it in his coat since the Wednesday of week 11 and it was still in his coat, and she had never asked for it, and he had not brought it, and neither of them had said a word about the not-bringing, and what she had done about it was send him to the Saturday backlog in week nine and say nothing since, which was the whole of the answer and had cost her something the first time.
 
 At about eleven he went past the wall of handwritten maintenance notes on the way to the sink. The Marrow Falls page was still up there, fourteen years old, with its typed block and its one row at 04:20, and it had been up there for twelve weeks and had not moved and had not been asked about by anybody including him.
 
@@ -96,7 +96,7 @@ Marek Senn ruled a clean page at about twenty past two in the morning on the Thu
 
 **WHAT IS NOT EVIDENCE — the six from week 9, the one from week 12, the one from the Friday, the one from the weekend, and two from this week, and one of the two is me.**
 
-*38–43. T. V.'s brace. The hip variant. M. F. R.'s step. R. P.'s step, which does not have one and never did. O. F., who is not a source. The boy in the market who turned his head. 44. Five noes in a market on a Monday and a boy who said stop. 45. A contact that set in the shape of a man's weight in a lane, and a woman telling a stranger in plain words that it was on his hand and not on his wrist. 46. A woman counting to three on a rail. 47. A column in the Exchange book with Bea Nunn's name at the top of it and mine nowhere in it. None of it is evidence. All of it is the case. I have been using the word evidence for a term and the honest word is company, and I had that in week seven and I lost it.*
+*38–43. T. V.'s brace. The hip variant. M. F.'s step. R. P.'s step, which does not have one and never did. O. F., who is not a source. The boy in the market who turned his head. 44. Five noes in a market on a Monday and a boy who said stop. 45. A contact that set in the shape of a man's weight in a lane, and a woman telling a stranger in plain words that it was on his hand and not on his wrist. 46. A woman counting to three on a rail. 47. A column in the Exchange book with Bea Nunn's name at the top of it and mine nowhere in it. None of it is evidence. All of it is the case. I have been using the word evidence for a term and the honest word is company, and I had that in week seven and I lost it.*
 *48. MINE, and it is in the same list on purpose. Nineteen minutes on a telephone at six in the morning to a woman in Nine Bridges, and then a second thing on the same call, which was a government office and a woman at a till, and I was the best I have ever been at anything, and it is not a technique, it is not a release, it is not a share, and nobody consented to anything because nothing was shared, and if it is on this page at all it is because if I leave it out then the only good thing I did this week will be the thing I did not write down, and that is the way this book becomes useless.*
 
 **WHAT I DO NOT KNOW — four things.**

@@ -24,7 +24,7 @@ Hollis Pratt said, "For the record, in order, before anybody speaks. This is a f
 
 "That's right."
 
-"Cordage, Saltmarket. Fifteen plates into a bucket on a high shelf, placed by the person who runs the evening classes, on the Friday of week eight at twenty to nine in the morning, before the day class. No document. No invoice. Named responsible person: B. Halloran. No finding of variance."
+"Cordage, Saltmarket. Fifteen plates into a bucket on a high shelf, placed by the person who runs the evening classes, on the Friday of week eight at half past eight in the morning, before the day class. No document. No invoice. Named responsible person: B. Halloran. No finding of variance."
 
 "That's right," said Bo Halloran, "and I'd like it noted that there is no document, and I've been asked twice in eight weeks by people from a company to put a document there, and I have said no twice, and the reason is that a name in a document travels through a rope works in an afternoon."
 
@@ -146,7 +146,7 @@ Hollis Pratt looked at him for the first time in two hours.
 
 "Go on, then."
 
-"The sentence this office gave in the ninth week says a public room." He got up off a chair that had been in a store room since 2011 and did not move from the wall. "The department is between terms. Everything in that building with a floor and chairs and a door is booked to a summer course or a porter's office or a caretaker's letter, and the examination hall is contracted to the faculty and was contracted to the faculty in September and shaded in October by a different hand. The room the department can put a panel in on a Tuesday morning is room one, and room one is a teaching room, and I have been in it, and it has a strip light and a strip curtain and a whiteboard with the term dates on it and about thirty plastic chairs that belong to a nursery."
+"The sentence this office gave in the ninth week says a public room." He got up off a chair that had been in a store room since 2011 and did not move from the wall. "The department is between terms. Everything in that building with a floor and chairs and a door is booked to a summer course or a porter's office or a caretaker's letter, and the examination hall is contracted to the faculty and was booked by this department in September and shaded by the faculty's calendar in October by a different hand. The room the department can put a panel in on a Tuesday morning is room one, and room one is a teaching room, and I have been in it, and it has a strip light and a strip curtain and a whiteboard with the term dates on it and about thirty plastic chairs that belong to a nursery."
 
 "Would it satisfy the requirement?"
 
@@ -206,7 +206,7 @@ Arithmetic was the only thing he had left that nobody could take off him, and he
 
 Five days to Tuesday of week fourteen. The first round of the flood season was the Monday of week fourteen, at ten past six, nineteen men, one bar, a set of steps at the Cutbank, and Corvin Ashby short on the pound, and it was the day before and there was no way in the world to move it.
 
-Thirty-one lines in the Exchange book by the Wednesday, and a market of about two hundred people a day walking past a noticeboard, and a number on a wall that a man in a district's office is going to find out about from a trade, from a paper, or from one of us. A records request in a drawer under a battery, with ninety households on the form number and Darla Vint's name on the procedure, not posted and not going in a postbox. Forty-one faces in a hall at the start of next term, and a woman who has to stand in front of them and who has already told them why in advance.
+Thirty-two lines in the Exchange book, and a market of about two hundred people a day walking past a noticeboard, and a number on a wall that a man in a district's office is going to find out about from a trade, from a paper, or from one of us. A records request in a drawer under a battery, with ninety households on the form number and Darla Vint's name on the procedure, not posted and not going in a postbox. Forty-one faces in a hall at the start of next term, and a woman who has to stand in front of them and who has already told them why in advance.
 
 And a room he has been in twice and will have to walk into as though he had not been, in a building he has been in every day since the Thursday of week one, where the only person in this city who can decide whether it is a public room will arrive on the morning and will decide it in about four minutes. He will be standing on a floor in a strip curtain with a strip light over his head and no technique, in front of a panel that has already adjourned once with no matter before it and has not yet been told who is sitting on it, and a score sheet borrowed from the exam office with its wooden tray marked *incomplete* set out on the table, and a boy who is not coming and will not be asked to come, in a corridor in which nobody will be permitted to say a word.
 

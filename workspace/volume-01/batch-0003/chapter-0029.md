@@ -130,7 +130,7 @@ Nobody said anything for a while.
 
 Ines Sarr came to the front and did not take the table; she stood in front of it with her arms folded and looked at the cuff.
 
-"Four months ago," she said, "on a Friday lunchtime, in a corridor in Nine Bridges, over a cup of tea, I worked out on my own that I have been the word in my own room."
+"In the eighth week," she said, "on a Friday lunchtime, in a corridor in Nine Bridges, over a cup of tea, I worked out on my own that I have been the word in my own room."
 
 "By which you mean—"
 

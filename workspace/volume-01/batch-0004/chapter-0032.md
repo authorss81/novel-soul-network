@@ -140,7 +140,7 @@ Marek Senn looked down the lane towards the gate, and the man standing at the ga
 
 ---
 
-He took the last bus down at ten past six and wrote three lines in the load book at the table in the room above the laundromat at half past nine that night, which is the shortest entry in the book and is the only one all term that is nothing but a fact.
+He took the last bus down at six, which was the one Ashby had told him about, and wrote three lines in the load book at the table in the room above the laundromat at half past nine that night, which is the shortest entry in the book and is the only one all term that is nothing but a fact.
 
 *Week 12, Thursday, 21:30, above the laundromat.*
 

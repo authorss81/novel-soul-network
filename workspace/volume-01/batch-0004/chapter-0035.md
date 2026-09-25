@@ -10,7 +10,7 @@ Then he sat with it until about eleven, and at eleven he went down to the laundr
 
 ---
 
-The counter at the laundrette under his bedroom was a plywood counter and a cardigan and a stack of numbered tickets, and Enid Sarkis was on the till and had been on the till for nineteen years and had been in that shop for about forty-one, and she took his washing on a Tuesday and a Friday and had done since the week he moved in, three years ago.
+The counter at the laundrette under his bedroom was a plywood counter and a cardigan and a stack of numbered tickets, and Enid Sarkis was on the till and had been on the till for nineteen years and had been in that shop for about forty-one, and she took his washing on a Wednesday and a Sunday and had done since the week he moved in, three years ago.
 
 "You've got a plate on your wrist."
 
@@ -30,7 +30,7 @@ Enid Sarkis put the ticket spike through the corner of his ticket and pulled it 
 
 "Right," she said. "Say the whole of it then, and be quick, because the dryers come on at half past and there's nine people coming."
 
-He said the whole of it in about four minutes, standing at a plywood counter in his socks, and it was: a number on a board in the Exchange, a service reference off a bundle label, a company in Lattice that will answer it if you ask and is not obliged to, an open day in September in a car park with about ninety households on a form with a dash in it, forty of the plates back in and about fifty unaccounted for, and a district that has a list of ninety receipts of its own that a nurse found last week and told me about on Saturday, and who has an appointment about it on the Tuesday of week fourteen, and who would not tell me this morning what she is going to do with it.
+He said the whole of it in about four minutes, standing at a plywood counter in his socks, and it was: a number on a board in the Exchange, a service reference off a bundle label, a company in Lattice that will answer it if you ask and is not obliged to, an open day in September in a car park with about ninety households on a form with a dash in it, forty of the plates back in and about fifty unaccounted for, and a district that has a list of ninety receipts of its own that a nurse found a fortnight ago and told me about on Saturday, and who has an appointment about it on the Tuesday of week fourteen, and who would not tell me this morning what she is going to do with it.
 
 Enid Sarkis listened to the whole of that with her hands flat on the counter.
 
@@ -64,7 +64,7 @@ Enid Sarkis picked up his basket and put it on the counter and pushed it two inc
 
 "It sounds like a thing a man says because it's true," said Enid Sarkis. "I said the same to the fourth one and he wrote it down and he never came back, so write it."
 
-Marek Senn put his basket down and took out the notebook and wrote the name *Enid Sarkis*, her age, *wrist unit, three years, September open day*, and a line that said *one plate, left wrist, worn every day, to be looked at, to come off and be written down if it is no good*, and he read it back to her and she made him change *looked at* to *looked at by a person whose job that is*, and he did, and she initialled it, and then she said:
+Marek Senn put his basket down and took out the notebook and wrote the name *Enid Sarkis*, her age, *wrist unit, three years, September open day*, and a line that said *one plate, left wrist, worn every day, to be looked at, to come off and be written down if it is no good*, and he read it back to her and she made him change *looked at* to *looked at by a person whose job that is*, and he did, and she initialled it, and then she made him do it again in his own way and put a date at the top, which was a Sunday, and a line at the bottom, which was that this page was not a referral and did not go in a postbox and did not go in the book on the market table, and that if nobody had looked at that wrist by the end of the term then somebody was to ring her and say so in words, and that she would accept the reason and not the apology, and he wrote all of that down in full because she was watching him do it, and then she said:
 
 "And don't you dare ring me at half past nine in the morning and ask me to talk to somebody about it. I know what that is. That's a man being helpful at me."
 
@@ -72,7 +72,7 @@ Marek Senn put his basket down and took out the notebook and wrote the name *Eni
 
 "Who's the other four."
 
-"A man at a gate, a woman in a vehicle, a woman in a cardigan, and a woman with a clipboard who keeps a request book on a market floor," he said. "And I would like it noted that three of them said it and took the answer, and one of them refused me at a door before I asked, and that one was right."
+"A man at a gate, a woman in a vehicle, a woman in a cardigan, and a man of thirty-three in a market coat who keeps a request book," he said. "And I would like it noted that three of them said it and took the answer, and one of them refused me at a door before I asked, and that one was right."
 
 ---
 
@@ -80,7 +80,7 @@ Corvin Ashby rang the Spine at four o'clock on the Sunday afternoon and Marek Se
 
 "Mr Ashby."
 
-"Two things and then I'm at the pump for an hour and then I'm done for the week." Corvin Ashby's voice had a pump in it somewhere. "One. Down on Fell Road, after you went, somebody put a sheet of paper on the door of the lock-keeper's hut. Hand-lettered. It says the Weir round takes nineteen men on the Monday and the Tuesday and the tide table says ten past six and it is not moved, and if you cannot get to the pump by half past five on the Monday then do not come, and do not send anybody instead, because a stranger on a bar is worse than a short round."
+"Two things and then I'm at the pump for an hour and then I'm done for the week." Corvin Ashby's voice had a pump in it somewhere. "One. Down on Fell Road, after you went, somebody put a sheet of paper on the door of the lock-keeper's hut. Hand-lettered. It says the Weir round takes nineteen men on the Monday and the tide table says ten past six and it is not moved, and if you cannot get to the pump by half past five on the Monday then do not come, and do not send anybody instead, because a stranger on a bar is worse than a short round."
 
 Marek Senn wrote it on a fault form.
 
@@ -92,7 +92,7 @@ Marek Senn wrote it on a fault form.
 
 In Lattice Ward, at the bench, Marek Senn looked at a relay he had been working on for an hour and had not looked at.
 
-"No," he said. "There isn't one that isn't that plate. There's the twenty-four in nine crates and twenty-two in four boxes and eighteen in a clinic I've never been to, and they all come off a consolidation point on the Meridian with the same revision on them, and there is no other plate in this city that is not off that, because there is no other thing anybody can buy. And the shoulder unit your man has is one of the same lot or it isn't, and I don't know, and neither does he, and if it isn't then there is a whole other thing and I have not got to it and I am not going to pretend I have."
+"No," he said. "There isn't one that isn't that plate. There's the twenty-four in nine crates and twenty-two in four boxes and thirty-four in a clinic I've never been to, and they all come off a consolidation point on the Meridian with the same revision on them, and there is no other plate in this city that is not off that, because there is no other thing anybody can buy. And the shoulder unit your man has is one of the same lot or it isn't, and I don't know, and neither does he, and if it isn't then there is a whole other thing and I have not got to it and I am not going to pretend I have."
 
 There was a pause of about four seconds from the Lower Wards.
 
@@ -165,4 +165,4 @@ He wrote it up at twenty past eleven on the Sunday night at the table in the roo
 
 *The demonstration requirement is still a requirement with nothing behind it and there is still no date, and the reason there is no date is that the panel gave the department seven days and a deadline, and the department is waiting on a sentence from a government office that has its own timetable and cannot be moved by me. So on the Thursday of week thirteen something will happen in one room and it will happen whether I am in it or not, and on the Friday of week twelve, six days before it, the best afternoon of my term so far happened in a lane that a nurse came up on her own time for, and I was ninety-seven minutes late to it, and the only part I had was reading a plate and saying four words to a man, and then I stood at the top of a lane for eleven minutes while somebody else did the difficult part, and it was correct, and I have been a professional adult for six years and I have never once been sent up a lane before, and I did not know that it would feel like being thanked by nobody.*
 
-*Do not know, and I am putting it at the bottom because it is the only one I am frightened of: there is a card in my coat with a name and a wage and a reference and a month's trial on it and I have been carrying it about since the Thursday of week eleven, and I told the laundrette this morning that I was not the man who comes round, and she told me that every man who says that ends up being the man who comes round, and she has been right four times out of four, and I have had a week to say no to a card and I have said nothing, and on Thursday somebody is going to set a date, and I do not know what I will do with it.*
+*Do not know, and I am putting it at the bottom because it is the only one I am frightened of: there is a card in my coat with a name and a wage and a reference and a month's trial on it and I have been carrying it about since the Friday of week eleven, and I told the laundrette this morning that I was not the man who comes round, and she told me that every man who says that ends up being the man who comes round, and she has been right four times out of four, and I have had ten days to say no to a card and I have said nothing, and on Thursday somebody is going to set a date, and I do not know what I will do with it.*

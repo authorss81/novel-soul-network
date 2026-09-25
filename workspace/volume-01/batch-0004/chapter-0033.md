@@ -2,13 +2,13 @@
 
 Tam Arrick's weight date was on the Friday morning of week 12, which was the last Friday of the term, and he went to it on his own.
 
-He got the bus to Crown Terrace at ten past eight and sat in a corridor for about fifty minutes with a magazine he had already read and a plastic bag with a clean shirt in it that he had brought for no reason he was ever going to explain, and at about nine, without hurrying him, a woman of about sixty called his name off a list.
+He got the bus out to Nine Bridges at ten past eight and sat in a corridor off the Ninth Street for about fifty minutes with a magazine he had already read and a plastic bag with a clean shirt in it that he had brought for no reason he was ever going to explain, and at about nine, without hurrying him, a woman of about sixty called his name off a list.
 
 Mrs Ollerton had a collar on, because it was still cold in that corridor in the last week of the term, and she spelled her name on the wall chart since 1988 and had a bad hand herself, and she did not say the word *normal* about the middle finger and did not write anything on it.
 
 "Right," she said. "Two kilos. Off the floor, on to the counter, with the other hand underneath if you want it under there. And then you put it down again however you want to put it down, and I'm not going to tell you how."
 
-Tam Arrick got a two-kilo box of writing paper off the floor of an office at the end of a corridor in Crown Terrace, and he carried it eleven feet, and he put it on a counter, and his right forearm came up under it the way a forearm does when the hand has not been asked anything, and nothing at all happened.
+Tam Arrick got a two-kilo box of writing paper off the floor of an office at the end of a corridor off the Ninth Street, and he carried it eleven feet, and he put it on a counter, and his right forearm came up under it the way a forearm does when the hand has not been asked anything, and nothing at all happened.
 
 He stood there.
 
@@ -28,17 +28,19 @@ She looked at him.
 
 She gave him the card.
 
-He put the card in the left pocket of his jacket, and then he went and sat on a bench in a corridor in Crown Terrace for a while, and then he took the supply order form out of his rucksack — the back of a kitchen supply order form, four ruled columns, dates in the margins — and he turned it over to the blank side, and at the top of the blank side, in the gap above the columns, he wrote four lines.
+He put the card in the left pocket of his jacket, and then he went and sat on a bench in a corridor off the Ninth Street for a while, and then he took the supply order form out of his rucksack — the back of a kitchen supply order form, four ruled columns, dates in the margins — and he turned it over to the blank side, and at the top of the blank side, in the gap above the columns, he wrote four lines.
 
 *Friday, last week of term. The weight date.*
 
 *Nobody told me to come today. Nobody is going to tell me what to do with it today. I have written that down because column one says I do not have to.*
 
-*It took a two-kilo box eleven feet and put it on a counter and my arm came up under it by itself and I did not ask it to. That is not a technique. That is one Tuesday and I do not think it is going to be two.*
+*It took a two-kilo box eleven feet and put it on a counter and my arm came up under it by itself and I did not ask it to. That is not a technique. That is one Friday and I do not think it is going to be two.*
 
 *Finger: no. Same as Monday. I have not written a different number.*
 
-He put the page back in the rucksack, and the bus down from Crown Terrace was late, and he got an hour and a half of the day that had cost him a bad morning and had bought one hand eleven feet of carrying, and he wrote nothing else about it, because there was nothing else about it, and because a thing that has only one thing in it does not need a second heading.
+What the morning had not given back was the two things it was never going to give back. Deb's kitchen on Sennet Row had had him off every board since the week he went in, and there was a September coming that he had been told to be standing at that pass for, and he had not been near that pass since the week before, and he did not know yet what his hand was going to be by it. And the brown strap envelope was still in the parts cage at the Spine under a note with his name on it, and nobody in that corridor knew it was there and nobody was going to ask.
+
+He put the page back in the rucksack, and the bus down from Nine Bridges was late, and he got an hour and a half of the day that had cost him a bad morning and had bought one hand eleven feet of carrying, and he wrote nothing else about it, because there was nothing else about it, and because a thing that has only one thing in it does not need a second heading.
 
 ---
 
@@ -114,9 +116,9 @@ She turned the card round and read it to Errol Nkemdi, who had been watching a s
 
 Talia Venn turned the card round again and put the three of them on the back of it — herself in ink, him in his own careful capitals because she asked him to, and the third in pencil, which was Marek Senn's, and she made him come down the lane out of the place she had told him to stand, because a line on a card that gives a man the power to stop something has his name on it and not hers.
 
-"The Friday of week fourteen," said Errol Nkemdi, reading it upside down. "That's a Monday round, that is."
+"The Friday of week fourteen," said Errol Nkemdi, reading it upside down. "That's the week your Monday round is, that is."
 
-"That is a Monday round," said Talia Venn.
+"That is the week the round is," said Talia Venn.
 
 He handed it back, and Talia Venn put the card inside her coat, and turned round and looked at Marek Senn eleven feet away, up the lane, and said:
 
