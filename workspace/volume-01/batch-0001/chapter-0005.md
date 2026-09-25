@@ -2,7 +2,7 @@
 
 Three weeks is not long enough to learn anything and just long enough to find out what you have.
 
-Marek went to the Spine eleven nights in that period. He repaired a resonance lamp, a stair relay, a door buzzer, two plates, and a set of bathroom heaters in a building nobody could name. He took a courier job on the Wednesday of the second week, forty minutes of levering a jammed gate in Nine Bridges, and it put him over into the Sunday and cost him the Sunday, which was rent.
+Marek went to the Spine eleven nights in that period. He repaired a resonance lamp, a stair relay, a door buzzer, two plates, and a set of bathroom heaters in a building nobody could name. He took a courier job on the Wednesday of the second week, forty minutes of levering a jammed gate in Nine Bridges, the wrong arm again, and it put him over into the Sunday and cost him the Sunday, which was rent, and it did nothing at all for the shoulder.
 
 He tried the fourth beat alone on the bench on six separate nights. He got nowhere. He was, by the end, quite certain that his memory of it was a memory of a feeling and not of a shape, the way you can remember the moment you were happy and not one single thing that happened in it.
 
@@ -32,7 +32,7 @@ Somebody laughed. It was not a funny line.
 
 He turned the script over.
 
-"Rules for the run, from the board, and they are the same every term. First: a candidate may ask the board observer to repeat a beat. Second: the instructor may speak a beat, because the instructor is present under the scoring conditions, and the board records who supplied it. Third — " and he read this one off the card and not off his own memory, which Marek noticed and did not understand at the time" — where a candidate's sequence does not complete, the deficiency is recorded against the candidate, and remains recorded until the candidate demonstrates otherwise to the satisfaction of the department. Fourth: the run is scored on completion of the sequence, not on safety of the person, because the manikin cannot be hurt and the two are not the same test."
+"Rules for the run, from the board, and they are the same every term. First: a candidate may ask the board observer to repeat a beat. Second: the instructor may speak a beat, because the instructor is present under the scoring conditions, and the board records who supplied it. Third — " and he read this one off the card and not off his own memory, which Marek noticed and did not understand at the time " — where a candidate's sequence does not complete, the deficiency is recorded against the candidate, and remains recorded until the candidate demonstrates otherwise to the satisfaction of the department. Fourth: the run is scored on completion of the sequence, not on safety of the person, because the manikin cannot be hurt and the two are not the same test."
 
 Nobody said anything. Nine people and a great deal of white floor.
 

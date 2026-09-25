@@ -196,7 +196,7 @@ They stood in the road a while. The diesel unit shut off and the rain got loud.
 
 "I know."
 
-"You do not know. You have known for four hours." She said it without any cruelty. "You will know on Wednesday. Thursday we can talk about it."
+"You do not know. You have known for four hours." She said it without any cruelty. "You will know by Thursday. Thursday we can talk about it."
 
 She got on her bicycle. She got off it again.
 

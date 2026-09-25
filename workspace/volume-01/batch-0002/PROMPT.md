@@ -10,7 +10,7 @@ Write **Chapters 11 through 20** as complete finished scenes. This is Volume 01,
 - `state/current.md`, `state/continuity.md`, `state/character-state.md`, `state/open-threads.md`, `state/chapter-summaries.md`
 - `bible/power-system.md`, `bible/terminology.md`
 - The chapters themselves: `workspace/volume-01/batch-0001/chapter-0005.md` through `chapter-0010.md`. Read all six. Voice, rhythm, and the load-book device are established there and must continue unbroken.
-- **For any date you need: the verified in-world timeline of Chapters 1–10 is in `state/continuity.md` under "Volume 01 outline canon".** Note in particular that Chapters 2, 3 and 4 are all one Thursday, the Thursday of week 1, and that Chapter 7's store-room scene runs from Thursday night of week 5 to 01:05 on the Friday. Weeks run Monday to Sunday.
+- **For any date you need: the verified in-world timeline of Chapters 1–10 is in `state/continuity.md` under "Volume 01 outline canon".** Note in particular that Chapters 2, 3 and 4 are all one Thursday, the Thursday of week 1, and that Chapter 7's store-room scene runs from Thursday night of week 5 to 01:05 on the Friday. Weeks run Monday to Sunday. **Chapter 8 counts back five days from the Tuesday of week 6 dock and that window (Friday of week 5 to Tuesday of week 6) contains nothing else in the batch — the clinic visit and the Sennet Row doorway are on the Tuesday of the week before, outside it. Do not put a scene in that window that is not yours to invent.**
 
 ## Where the story is
 

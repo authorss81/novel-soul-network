@@ -1,6 +1,6 @@
 # Batch 0001 Summary — Volume 01, Chapters 1–10 ("The Drill")
 
-Phase: writer, batch 0001. Chapters written: 10. Total prose: ~34,700 words. (Revised after the phase-002 review; the batch is the same batch, not a restart. A second continuity-repair pass was run on the same ten chapters — see "Repair pass" below. **No canon changed in it.**)
+Phase: writer, batch 0001. Chapters written: 10. Total prose: ~34,800 words. (Revised after the phase-002 review; the batch is the same batch, not a restart. Two continuity-repair passes have been run on the same ten chapters — see "Repair pass" and "Review repairs" below. **No canon was reversed or removed in either pass. The first pass added four small canon extensions, all of them now backed in prose:** the second courier job's effect on the shoulder, *Marek at six feet* inside the Farrow line, the full printed text of the cage card, and a hard attribution rule for the Farrow passage.)
 Files: `chapter-0001.md` through `chapter-0010.md` in this directory.
 
 ## What this batch delivers
@@ -84,12 +84,12 @@ Week 6, Thursday night. The provisional witnessed assessment is Thursday of week
 6. What is in the Marrow Falls log that Sera will not read aloud?
 7. The Institute withdraws the week-7 date in Chapter 12, before it can arrive. What replaces the promised route, and what does the squeeze cost?
 
-## Repair pass (second continuity pass, same ten chapters)
+## Repair pass (first continuity pass, same ten chapters)
 
-A read-through for date arithmetic, attribution, and duplicated speech found sixteen defects. All were fixed in place; **no scene, beat, or canon fact was changed, and the batch is still 10 chapters and ~34,700 words.** The defects were:
+A read-through for date arithmetic, attribution, and duplicated speech found about twenty defects and fixed them in **twenty-two line-level changes across nine chapters** (Chapter 1 was not touched). No scene or beat was changed, and the batch is still 10 chapters and ~34,800 words. The defects were:
 
 - **Ch 10, load-bearing.** The fish porter's release was attributed to Marek, which destroyed the chapter's whole point and contradicted both the load-book entry and the canon line for Mal Farrow. The porter now narrates his own release to himself, out loud, to nobody, and answers his own question — which is what makes him the answer to Tam's request for an observer nobody taught the card.
-- **Ch 8.** The five days before the dock were recounted with the Sennet Row doorway conversation on "the Sunday," which contradicted Chapter 6, where it happens on the Tuesday of week 5. The passage now accounts for the two real clinic visits and dates the doorway scene correctly.
+- **Ch 8.** The five days before the dock were recounted with the Sennet Row doorway conversation on "the Sunday," which contradicted Chapter 6, where it happens on the Tuesday of week 5. The doorway scene is now dated correctly. (The first pass also tried to place Talia's clinic visit inside the five-day window; the second review found that impossible and moved it out — see Review repairs.)
 - **Ch 3.** "Fast for a Tuesday" — the drill is the Thursday of week 1.
 - **Ch 9.** Five date/name errors: the crate label read on "Tuesday night" (it is the Thursday night of week 5), the clinic-bay rule "ten days earlier" (six), the apprenticeship offer "since Tuesday" (Thursday of week 4), "six days" to the assessment from Wednesday of week 6 (eight), and Sera Quill misgendered as "Mr.".
 - **Ch 6.** A memory of his own voice "three weeks ago in a corridor" that was never shown and was misquoted; it now quotes the line he actually says in the scene, ten minutes earlier. And the examination described as "in seven days" when Chapter 6 is the Tuesday of week 5 and the assessment is the Thursday of week 7 — sixteen days.
@@ -98,6 +98,20 @@ A read-through for date arithmetic, attribution, and duplicated speech found six
 - **Ch 5, 7, 10.** "Three weeks and two days" (it is exactly three weeks), a stray space inside a quotation, "crossed out six times" where the page shows three, and the surgery eight hours out rather than six.
 
 `state/continuity.md` now carries a **verified in-world timeline of Chapters 1–10** with each scene's day and hour, so Movement II can assign dates without re-deriving them.
+
+## Review repairs (second pass, same ten chapters)
+
+A review of the first pass found nine items: two live prose defects in the chapters Batch 0002 opens on, one piece of canon that existed only in a state file, one inaccurate accounting claim, four smaller ones, and one controller-owned bookkeeping file. All that are ours are fixed. **No canon was reversed or removed, no chapter was added, cut, restarted or reordered, and the batch is still 10 chapters at ~34,800 words.**
+
+- **Ch 8 — new date error, fixed.** The five days before the dock are Friday of week 5 to Tuesday of week 6. The pass had put Talia's clinic visit "in a treatment bay on the Saltmarket route" inside that window, but that visit is the Tuesday of week 5 — nine days before the berth and two days before the notice even arrived. The paragraph now says he spent all five days on the one question, and carries the clinic visit and the Sennet Row doorway as things that happened on the Tuesday of the week before, in the order Chapter 6 puts them in. The 1 + 4 = 5 split the old paragraph rested on no longer exists.
+- **Ch 5 — a regression, fixed.** Repairing a stray space inside a quotation had closed the quote against the preceding word: *…at the time" —*. The space is restored.
+- **The shoulder — canon backed in prose.** The first pass wrote into `state/continuity.md` that the second courier job "re-injured" the shoulder, which no chapter says, and which contradicted *character-state*'s "slowly improving." Rather than delete the note, Chapter 5 now carries it: the Wednesday-of-week-two job is *the wrong arm again* and *did nothing at all for the shoulder*. The canon line and the character line now say the same thing, which is that it is still bad at the end of Chapter 10 and **was never re-injured**. Nothing in the outline depended on the re-injury, so no plot moved.
+- **Ch 10 — the Farrow attribution, tightened.** The attribution stands; the man still narrates his own release to himself, because that is what makes him the answer to Tam's request for an observer nobody taught the card. What changed is the narration *around* it. It had three glosses in four sentences — *out loud, to nobody* / *also out loud, also to nobody* / *answering his own question* — which read as the narrator arguing with the reader, and it had no in-frame reason why a man who has done it for forty years and has no audience would narrate at all. The passage now carries **one physical reason** (nobody else within earshot, the crate out in the traffic, eleven people between him and the scales) and **one gloss**. The "leave it" is now a bare "And then he said, 'Leave it,'" because the question was heard being asked two lines above.
+- **Ch 6 — a phantom Wednesday, fixed.** Talia's *"You will know on Wednesday. Thursday we can talk about it."* There is no Wednesday in the movement's spine; Chapter 6 is the Tuesday of week 5 and the reveal is Chapter 7, the Thursday. Now *"You will know by Thursday."*
+- **Ch 9 — a lost antecedent, fixed.** Vint's refusal had been changed from "there are twelve students on it" to "it names the whole of Group C," which dropped the number out of the room and left Marek's next line — "Eleven students didn't intervene" — with nothing in front of it. The count is restored: *it names the whole of Group C, all twelve of you.* Group C is twelve, so eleven is correct.
+- **Accounting.** The first pass claimed "sixteen defects"; the honest figure is about twenty defects in twenty-two line-level changes across nine chapters. The claim that the pass changed "no canon" was also wrong: it added four small extensions, and the header of this file now names them instead of denying them.
+
+**Not fixed, deliberately:** `state/phase-ledger.json` is stale — `currentPhase` still reads `phase-000-bootstrap` with `status: planned` and `attempts: 0` after three completed phases. It is controller-owned and is not edited from a writer phase. Nothing in `scripts/` or `.github/workflows/` reads it, so no workflow is blocked; it needs its owner to advance it.
 
 ## Notes for the next writer
 

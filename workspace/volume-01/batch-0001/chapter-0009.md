@@ -9,7 +9,7 @@ No further action. Four words that had cost a boy a fortnight and would, if left
 
 Marek stood and read it twice. Then he went in and asked for the sheet.
 
-"The record is a department matter," Darla Vint said, without any unkindness whatsoever. She was the same as she had been on the Thursday, which was to say she was doing her job in a building that had made the job unpleasant. "You can have a copy of your own transcript at any time. You can't have the drill sheet, because the drill sheet is a teaching record and it names the whole of Group C."
+"The record is a department matter," Darla Vint said, without any unkindness whatsoever. She was the same as she had been on the Thursday, which was to say she was doing her job in a building that had made the job unpleasant. "You can have a copy of your own transcript at any time. You can't have the drill sheet, because the drill sheet is a teaching record and it names the whole of Group C, all twelve of you."
 
 "Eleven students didn't intervene."
 

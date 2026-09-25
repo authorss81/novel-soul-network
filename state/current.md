@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: Volume 01, Batch 0001 complete (Chapters 1–10, "The Drill"). Batch 0002 for Chapters 11–20 has been created and is the only pending phase. A continuity-repair pass was run over Batch 0001's ten chapters: sixteen date, attribution and duplication defects were fixed in place, **no canon changed, no chapter added or removed, and the batch is still ~34,700 words.** See the Repair pass section in `workspace/volume-01/batch-0001/SUMMARY.md`.
+Current phase: Volume 01, Batch 0001 complete (Chapters 1–10, "The Drill"). Batch 0002 for Chapters 11–20 has been created and is the only pending phase. Two continuity-repair passes have been run over Batch 0001's ten chapters: **no canon was reversed or removed, no chapter was added, cut or reordered, and the batch is still ~34,800 words.** The first pass fixed about twenty date, attribution and duplication defects in twenty-two line-level changes; the second fixed two live prose defects, backed one piece of state-only canon in Chapter 5, and corrected the accounting. See the *Repair pass* and *Review repairs* sections in `workspace/volume-01/batch-0001/SUMMARY.md`.
 
 Current volume: 1 — *The Missing Beat*
 
@@ -10,7 +10,7 @@ Last completed chapter: 10 — "A Different Shoulder"
 
 Last batch summary: `workspace/volume-01/batch-0001/SUMMARY.md`
 
-Manuscript: `workspace/volume-01/batch-0001/chapter-0001.md` through `chapter-0010.md`, ~34,700 words.
+Manuscript: `workspace/volume-01/batch-0001/chapter-0001.md` through `chapter-0010.md`, ~34,800 words.
 
 In-world moment: **Thursday night of week 6.** The provisional witnessed assessment is **Thursday of week 7, 09:00**, seven days away.
 
