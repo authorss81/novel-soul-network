@@ -271,6 +271,18 @@ These are working Volume 01 characters. They are canonical for the volume but sh
 - **Hollis Pratt:** 51. Continuity Office field assessor. Procedural, fair, and genuinely frightened of what a precedent would cost the city. He arrives as forms, conducts the formal review, and declines to trace the licensor on the grounds that the bundle is a commercial matter. He is the face of the limit of institutional authority in Volume 01.
 - **Mal Farrow:** 61. Former courier, now works the fish market at Saltmarket, bad hip, clinic patient under a care-link in Volume 01 Movement II. Recurring and ordinary. He exists so the volume is not only about students, and so that a care-link is a real thing with a real review date.
 
+### Secondary Volume 01 figures, established in Chapters 1–10
+
+Added as the batch prose introduced them. Same rules: working characters, no arcs beyond what the volume assigns, and none of them a hidden authority.
+
+- **Anneke Roos (Deputy Registrar, practical department):** 54, nineteen years in the building. She is the institution's throat: courteous, exact, and the person who decides what a complaint becomes. She offers Marek the technician track and tells him plainly what each version of the truth costs, refuses to have the 4-19 stock reissued, and characterizes the kit as a hardware matter if he stays quiet. Whether that is an offer, a defence, or a way of buying time stays unresolved through Movement II.
+- **Darla Vint (department administrative officer):** the person who can alter an access note, and who does. She rewrites the Institute's pre-signed facilities form as equipment-only with the absence of any individual practice named, and lets Marek countersign the request for that. Small, competent, and the best argument the volume has that a procedure can be improved from inside by a person with standing.
+- **Petar Vance (Threadline field service engineer):** services 4-19 at the Institute, both satellite sites, and the Saltmarket clinic. He is not a villain; he is protecting warranty exposure and asking why somebody pulled the wax paper off a crate. His service reference **SB-4-19-03** is the first thread that can be followed upward.
+- **Gus Haldane (courier crew lead, Saltmarket west berth):** slipped on wet concrete in Chapter 8 while a boy was holding a crate, and was rescued by nobody. He is owed a full account of the word, and he is the reason the record exists outside the Institute.
+- **Odile Fenn (third-year, Group C):** the pair of hands on the plate who could not act because the load-holder had not called it. Her inability to act is the shape of the whole problem in one person.
+- **Bern Colley (clinic patient):** a refuse driver with a crushed ring finger, present in Chapter 6 when Talia makes the correction in front of him. He is why the correction had to be made in plain language.
+- **A real Institute:** it is a place where a manual reprint costs eight credits, a drill record is a physical sheet with a name box, and a route drawer holds a key nobody ever asked for back. The building is the volume's first antagonist and it is not a person.
+
 ## Relationship map and boundaries
 
 - **Marek–Talia:** slow-burn romantic partnership; conflict over who may decide for whom; final shared life remains voluntary and separately accountable.
