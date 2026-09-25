@@ -66,7 +66,7 @@ Marek Senn had been sitting at the back wall for about nine minutes and had not 
 
 "Because?"
 
-"Because I've been in this building for twelve weeks and the thing I actually am, and the only thing I have ever been good at, is noticing a beat that isn't there," said Marek Senn. "And you can put a person in a room at the front of it and that room is done. I did it to a woman of forty-five in a corridor in the seventh week without meaning to, and ten days after that she worked out, on a Friday over a cup of tea, that she had been the word in her own room for four months, and she told a market on a Monday morning that she would use a procedure against a nineteen-year-old she had known for four months, and she was right, and I was in the room."
+"Because I've been in this building for twelve weeks and the thing I actually am, and the only thing I have ever been good at, is noticing a beat that isn't there," said Marek Senn. "And you can put a person in a room at the front of it and that room is done. I did it to a woman of forty-five in a corridor in the seventh week without meaning to, and eleven days after that she worked out, on a Friday over a cup of tea, that she had been the word in her own room for four months, and she told a market on a Monday morning that she would use a procedure against a nineteen-year-old she had known for four months, and she was right, and I was in the room."
 
 He turned round in his chair.
 
@@ -94,7 +94,7 @@ At the door she said, without turning round: "You didn't fight me on the case."
 
 He read the Exchange's book at twenty past twelve and there were thirty-one lines in it, and line twenty-eight had been written on the Sunday afternoon in a hand that wanted to spell things out.
 
-*Sunday. 14 yrs. Nothing on me. Ask if the number is about the steps at the Cutbank. Told him: the number is a service number, it is not a fault, I cannot see the steps and I cannot go and look at the steps. She asked who she was writing it under and I gave her my name and I did not think about it, and I do not know today why I did not think about it. — C. Ashby*
+*Sunday. 14 yrs. Nothing on me. Ask if the number is about the steps at the Cutbank. Told him: the number is a service number, it is not a fault, I cannot see the steps and I cannot go and look at the steps. She asked who she was writing it under and I gave her my name and I did not think about it, and I do not know today why I did not think about it. — C. Ashby. Call taken by B. Nunn, who wrote the rest of it down.*
 
 Thirty-one lines, and a man who had not rung the bulletin number in nine years had rung it on a Sunday because he could not ask a district, and had given a name to a fishmonger because the woman who chairs the meeting asked who she was writing it under, and had not thought about it.
 

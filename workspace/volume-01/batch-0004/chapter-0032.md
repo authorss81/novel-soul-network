@@ -1,8 +1,8 @@
 # Chapter 32 — The Door
 
-The end-of-term practice-variance panel of the Nacre Institute of Applied Practice sat for the third time in a term on the Thursday morning of week 12, at ten, in a seminar room on the second floor with the blinds down, and it adjourned at twenty past ten with no matter before it.
+The term practice-variance panel of the Nacre Institute of Applied Practice sat for the third time in a term on the Thursday morning of week 12, at ten, in a seminar room on the second floor with the blinds down, and it adjourned at twenty past ten with no matter before it.
 
-There were the same four members. Professor Onyeka chaired it and her field was assessment and she had no interest in Marek Senn, which by week 12 had become the single most reassuring thing about his own case. The man of thirty-eight from the trust was new and had a headache. The woman of fifty from the district's practice standards office had a folder. Davan Rusk came in at two minutes to ten and put his hands flat on the table in a way that had become a habit that he was not aware of.
+Three of the four at the table were the same three who had sat the first morning. Professor Onyeka chaired it and her field was assessment and she had no interest in Marek Senn, which by week 12 had become the single most reassuring thing about his own case. The fourth was a man of thirty-eight from the trust, new to the panel since the second sitting, and he had a headache. The woman of fifty from the district's practice standards office had a folder. Davan Rusk came in at two minutes to ten and put his hands flat on the table in a way that had become a habit that he was not aware of.
 
 Darla Vint sat at the back with a folder and did not speak at all.
 
@@ -46,7 +46,7 @@ Deputy Roos caught him at the foot of the stairs at eleven, and she had not come
 
 "Yes."
 
-"The Thursday of week thirteen. That is seven days and it is the last thing I am permitted to do in this term and I have to write a letter with a reason in it that I can stand in front of forty-one people and defend, and I have had nine hours to think about what that reason is and there is one and it is not a document." She went up two steps and turned round. "It is the Office. A recommendation from the Office on the four holds is the only sentence anybody in that building cannot dismiss as a student with a grievance, and the Office has had my notification since the eighth week and their preliminary review is a preliminary review, and they complete reviews on a timetable, and their timetable has never once been moved by a student telephoning."
+"The Thursday of week thirteen. That is seven days and it is the last thing I am permitted to do in this term and I have to write a letter with a reason in it that I can stand in front of forty-one people and defend, and I have had forty minutes to think about what that reason is and there is one and it is not a document." She went up two steps and turned round. "It is the Office. A recommendation from the Office on the four holds is the only sentence anybody in that building cannot dismiss as a student with a grievance, and the Office has had my notification since the eighth week and their preliminary review is a preliminary review, and they complete reviews on a timetable, and their timetable has never once been moved by a student telephoning."
 
 "When do they complete it."
 
@@ -84,7 +84,7 @@ The man who came out of the hut was forty-four and had a book under his arm, and
 
 "No," said the man. "Then I can't help you, and if you're here about the pump you're in the wrong place, because the pump house is a hundred and forty years old and it belongs to a trust and I'm not the trust."
 
-Marek Senn stood in a pull-off off Fell Road with his hands in his pockets and got to the fourth place in his own head about two seconds before his mouth did, and stopped, and took the sentence he had built and put it down on the ground like a man setting down a tool he has been asked to put down.
+Marek Senn stood in a pull-off off Fell Road with his hands in his pockets and got as far as the fourth sentence of the speech he had built on the bus, and then stopped, and set it down on the ground like a man putting down a tool somebody has asked him to put down.
 
 "What's your name," he said instead.
 
@@ -106,7 +106,7 @@ He said, "Thank you," which was not what he wanted to say, and then said the tru
 
 "There's a district return on your door," he said. "Four headings. I've seen it from here. I'm not going to tell you what's on it because you've read it and you'll have your own words for it, and I'm not going to stand in a pull-off and explain a letter to a man who's had it six months."
 
-Corvin Ashby looked at him for the first time properly, and the looking lasted about a second and a half, and it was not unfriendly.
+Corvin Ashby looked at him for the first time properly, and it took a good deal longer to do than a refusal does, and it was not unfriendly.
 
 "That's the first true thing anybody's said to me about that letter," he said. "The rest of it is off a template. I could tell you the reference number from here. Two letters, a slash, two letters, a slash, and a four."
 

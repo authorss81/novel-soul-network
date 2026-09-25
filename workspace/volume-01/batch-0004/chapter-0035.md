@@ -46,7 +46,7 @@ Enid Sarkis listened to the whole of that with her hands flat on the counter.
 
 "I don't want to," said Marek Senn. "And I want you to hear the reason for that properly, because the reason is not that I'm frightened, and if I do this then in about two years somebody in that building, or a company, or a district office, or a newspaper can put a plate on a person's door and say where did we get your name, and the answer is a man who wanted to be the one who found you, and that man is me, and I have written down three times in a book that I am not going to be the man who makes people findable, and there is no version of this where the fourth time is different."
 
-Enid Sarkis looked at him for a second.
+Enid Sarkis took her time about it.
 
 "I'll tell you what I know about men like you," she said. "I've had four since this shop. And the one before last came round in a van with a form, and he was very nice, and he did about nine of us, and after that we got a letter about a company and eleven of us had a plate taken off, and the one before him took a plate off a woman's wrist and she couldn't lift a basket for a year and there was nobody to tell, and there was no form, because he didn't use a form. Right?"
 
@@ -94,7 +94,7 @@ In Lattice Ward, at the bench, Marek Senn looked at a relay he had been working 
 
 "No," he said. "There isn't one that isn't that plate. There's the twenty-four in nine crates and twenty-two in four boxes and thirty-four in a clinic I've never been to, and they all come off a consolidation point on the Meridian with the same revision on them, and there is no other plate in this city that is not off that, because there is no other thing anybody can buy. And the shoulder unit your man has is one of the same lot or it isn't, and I don't know, and neither does he, and if it isn't then there is a whole other thing and I have not got to it and I am not going to pretend I have."
 
-There was a pause of about four seconds from the Lower Wards.
+Nothing came down the line for a while, and then a pump started up behind him.
 
 "Right," said Corvin Ashby. "That's the first honest answer anybody's given me about anything in nine years and it isn't the one I wanted, and I'm going to ring two men on that round tonight and take them off the steps and put them on the pound, which means the pound's a man short, and I'll be the man short, and I've done the pound off a short man before." He hung up.
 

@@ -132,7 +132,7 @@ At the top of a lane in the Lower Wards, with nine people in a hundred yards of 
 
 "Yes," he said. "And you have to say what you want me to *do*, because I have spent eleven weeks watching people do this and the only thing I have ever been able to do is read a plate, and I am not a nurse and I am not a repairer on a chain and if you want me up here saying words then I am no use to you and you should say so now."
 
-Talia Venn looked at him for about a second and a half.
+Talia Venn looked at him the way she looks at a form that has arrived on the wrong day.
 
 "The contact," she said. "It has set in the shape of his weight. Look at the outside of that cuff. I cannot see it, I cannot undo it, and I cannot tell him what is going to happen, and that is the whole of the question he is about to be asked and it is the only question in this lane. He is going to have to let go of that chain on a number and I have not got the number. Can you see it from there."
 

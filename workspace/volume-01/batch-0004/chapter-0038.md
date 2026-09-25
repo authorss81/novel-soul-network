@@ -30,7 +30,7 @@ He heard her breathe out.
 
 "Because I am a man reading a shape off a plate, and you are the only one of us in this conversation who has ever been examined," said Marek Senn. "And because if you ring that number and it turns out to be nothing at all, you will spend the rest of your life deciding whether you were careful. And I'm going to ring the district's practice standards office myself at ten to seven this morning and give them your surname, your flat and the two times, and you are going to tell me I'm not allowed to."
 
-She was quiet for about four seconds.
+She did not say anything, and he could hear a van go past outside the shop.
 
 "You'd do that."
 
@@ -42,11 +42,11 @@ He read it to her twice. She read it back to him wrong the first time and right 
 
 "And the plate," she said. "Do I leave it on."
 
-"Leave it on until somebody with a job looks at it. You are not taking it off in a kitchen with a bread knife and you are not doing anything to it in the middle of a winter afternoon, and that is not me knowing something, it is me not knowing anything and you having asked me anyway."
+"Leave it on until somebody with a job looks at it. You are not taking it off in a kitchen with a bread knife and you are not doing anything to it in the middle of an afternoon with the light gone, and that is not me knowing something, it is me not knowing anything and you having asked me anyway."
 
 And Marek Senn said the half of it that he was good at, from a bench in a public relay shop with a supervisor due in at seven.
 
-"Not from the plate. Not from a plate worn since September, not from a bus, not from going up and down your stairs, and not from twice at four in the afternoon sitting down and it going away in ten minutes. What you should be frightened of is being alone with it at four in the afternoon in the middle of a winter, and the answer to that is not a plate, it's a telephone number, and it's a bad one, and it's on a wall in the Exchange, and you ring it, and a woman on a till writes down what they were told in her own hand and hands the book to me on a Wednesday, and somebody in a market is the only reason you ever got past that till to this shop. I can't stop that and I haven't tried, and that is the thing I am ashamed of this morning."
+"Not from the plate. Not from a plate worn since September, not from a bus, not from going up and down your stairs, and not from twice at four in the afternoon sitting down and it going away in ten minutes. What you should be frightened of is being alone with it at four in the afternoon with the light gone, and the answer to that is not a plate, it's a telephone number, and it's a bad one, and it's on a wall in the Exchange, and you ring it, and a woman on a till writes down what they were told in her own hand and you carry the sheet back to her on a Wednesday and she puts it in a book on a nail, and somebody in a market is the only reason you ever got past that till to this shop. I can't stop that and I haven't tried, and that is the thing I am ashamed of this morning."
 
 "And you? Will you come?"
 
@@ -66,7 +66,7 @@ She was quiet for a bit.
 
 "Rang the out-of-hours one as well, then," said Marek Senn.
 
-"I'm going to ring it the minute this is off, and I'm going to say it exactly the way you said, four words, and I'm not going to mention the plate, because you told me not to mention the plate." There was a pause of about two seconds. "And I want to say one thing and then I'm going. You've done the thing I couldn't do, which is tell me what to do, and you didn't have to, and if somebody rings that number at eight o'clock at night in a month I am going to be frightened again and I am going to ring it, and that is twice, and it will be three, and it will be you every time, and I have decided that I do not mind."
+"I'm going to ring it the minute this is off, and I'm going to say it exactly the way you said, four words, and I'm not going to mention the plate, because you told me not to mention the plate." She put a cup down. "And I want to say one thing and then I'm going. You've done the thing I couldn't do, which is tell me what to do, and you didn't have to, and if somebody rings that number at eight o'clock at night in a month I am going to be frightened again and I am going to ring it, and that is twice, and it will be three, and it will be you every time, and I have decided that I do not mind."
 
 She rang it at twenty-six minutes past six, on her own, on the second floor of a building on Carnation Row, and it took four words, and a voice asked her to hold, and she held.
 
@@ -102,7 +102,7 @@ She did not say it unkindly. She said it the way you say a thing you have though
 
 "You didn't say it," said Marda Szabo. "You said *a woman I know*. You are one year in a college and you have been at this market since you were a child, and every one of us can see it is somebody, and Marda Szabo is not a fool and neither is Ekow." Ekow Nartey, who had the request book, said, "I'll enter it as a request if you want, and the request goes in full, and the ground is public-safety or it is five pounds out of a tin with four pounds in it, and if it's public-safety then the request gets read out and your name is on it and you get named in the quarterly if it's upheld. That's the rule and it's the rule in both directions."
 
-"Then it's a no," said Asha Reed, after about four seconds.
+"Then it's a no," said Asha Reed, to the sheet in front of her.
 
 "It's a no to the table," said Marda Szabo. "It's a yes to the table from me in about a month, when it is printed and it is out of anybody's hands, and then it is a fact and not a favour, and it will have got about forty more names in it by then, and it will be a page of a quarterly and anybody with nine pounds can buy the quarterly, and I have been waiting two years to be able to say that sentence to a person of nineteen."
 

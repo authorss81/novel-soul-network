@@ -60,11 +60,11 @@ He put his pen down.
 
 "There is one further item and it is short, and it is not about the holds." He turned a page round and pushed it two inches along the table. "The network practice incident notification submitted in the sixth week carries a category tick in category two — technique variance attributable to the trainee — in a hand other than the candidate's, and in ink of a different batch from the candidate's entry. That is on a file in my office and I have recorded it, and I am putting it in front of the deputy registrar because she is in the room and because it should be said once by a government office in front of four people rather than by a trade paper in six months."
 
-Anneke Roos looked at the page for about two seconds.
+Anneke Roos did not put the page down.
 
 "Recorded," she said.
 
-"Thank you," said Hollis Pratt. "That is all of it from me. I have forty minutes before the room goes. In your own time, in your own order, and no one will comment on anybody else."
+"Thank you," said Hollis Pratt. "That is all of it from me. I have until about a quarter to twelve before the room goes, because the booking is a caretaker's letter and there is a man coming with a key, and after that I am on a train. In your own time, in your own order, and no one will comment on anybody else."
 
 ---
 
@@ -154,7 +154,7 @@ Hollis Pratt looked at him for the first time in two hours.
 
 He stopped.
 
-"And the other thing, and then I'll sit down. There is a list. Every public room in this district you could hold forty people in belongs to somebody, and I have been to four of them in a fortnight and been told no by all four, and there is a rope works, and there are nine rooms above a community hall, and there is a kitchen in an old kiosk in a former ferry waiting room, and there is a yard office off the Meridian with a kettle in it and a door that's open from six." He said it without any weight at all. "I'm not asking anybody for anything. I'm telling the room what is on the list, so that nobody at the start of next term is surprised. And there is a fifth one on the list that I have not been to and I am not going to name in this room, because the minute I name it, somebody in this building will write to them this afternoon, and I would rather that door stayed cold for another five days than have it opened by a man in a conference room with a file."
+"And the other thing, and then I'll sit down. There is a list. Every public room in this district you could hold forty people in belongs to somebody, and I have been to four of them in a fortnight and been told no by all four, and there is a rope works, and there are nine rooms above a community hall, and there is a kitchen in an old kiosk in a former ferry waiting room, and there is a yard office off the Meridian with a kettle in it and a door that's open from six." He said it like an address. "I'm not asking anybody for anything. I'm telling the room what is on the list, so that nobody at the start of next term is surprised. And there is a fifth one on the list that I have not been to and I am not going to name in this room, because the minute I name it, somebody in this building will write to them this afternoon, and I would rather that door stayed cold for another five days than have it opened by a man in a conference room with a file."
 
 Hollis Pratt put his pen down.
 
@@ -183,7 +183,7 @@ Then he went down the stairs, and Marek Senn stayed in a corridor in his own dep
 He wrote the letter in her office at about twenty past two on the Thursday afternoon of week 13, and she dictated nothing and offered nothing and gave him the pen when he had read it twice.
 
 *Practical department, Nacre Institute of Applied Practice.*
-*Reference: PD/13/156. Out of term, under the ordinary progression provisions. Notified to the term practice-variance panel this day, being the Thursday of week thirteen, which is the last day on which this panel may be notified of a date.*
+*Reference: PD/13/158. Out of term, under the ordinary progression provisions. Notified to the term practice-variance panel this day, being the Thursday of week thirteen, which is the last day on which this panel may be notified of a date.*
 *The practical department convenes a witnessed assessment. Tuesday of week fourteen, 09:00. Room one of the practical building.*
 *The requirement is unchanged and is not the department's to alter: a working non-hinged boundary release, performed by the person performing it, in a public room, with witnesses, and with no substituted cue used, followed or accepted within the scored window.*
 *The department records that room one is a teaching room. The department does not find that a teaching room is or is not a public room. The assessor appointed by the Continuity Office may determine the matter on the day, and the department will comply with that determination.*

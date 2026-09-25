@@ -106,7 +106,7 @@ The tin by the door was for motions, and cards went in it before eight, and ther
 
 Asha Reed was nineteen. She was in her first year at the Institute, on a maintenance-track course that ran two days a week in a building she did not like, and she had been coming to the Saltmarket Exchange on and off since she was fifteen because her mother's business had a standing arrangement with two of the trestle tables and because it was the cheapest warm room in Nine Bridges that would have a person of her age in it.
 
-She had put her card in the tin on the Monday night, at the laundrette counter, next to the dryers.
+She had put her card in the tin on the Monday night, in her own kitchen, with the table cleared, because her mother's business opens at six and the tin is at the Saltmarket and she was not going to walk it down there in the dark with her name on the front of it.
 
 "Motion," she said, when Bea Nunn read the card out. "That the Exchange keeps a sheet. For the number. Whoever rings it, what's on the card, what they were told, and who took the call. And that the sheet stays in this building and it is not the man who wrote the number on the board."
 
