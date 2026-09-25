@@ -86,7 +86,7 @@ Characters may say “I’ll give you use, not a keepsake” or “remember the 
 - **Oren Vey:** Threadline operations director and corporate-pressure antagonist.
 - **Leo Marr:** Privacy engineer and Quiet House organizer.
 - **Iven Sore:** Continuity Commissioner who suppresses the Crown Clause records.
-- **Lena Senn:** Marek’s mother and former care worker.
+- **Lena Senn:** Marek’s mother and night-shift care worker.
 - **Nell Senn:** Marek’s younger sister; an ordinary family member, not a hidden node or inheritance.
 - **Evan Senn:** Marek’s missing father; his final choice is historical, not supernatural.
 - **Asha Reed:** Student organizer and later public-practice council member.
