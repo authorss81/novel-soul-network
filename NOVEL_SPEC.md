@@ -13,6 +13,6 @@ A modern student discovers a network that improves techniques by pooling observa
 
 ## Ending
 The network becomes a shared public institution rather than one person's private power.
-
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+
+Bootstrap canon is complete: the bible, series outline, and ending outline are defined. No novel prose has been generated. The next planning phase is the detailed Volume 01 outline and first 10-chapter card set.
