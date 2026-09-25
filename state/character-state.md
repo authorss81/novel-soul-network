@@ -4,33 +4,35 @@ Updated after every batch. Tracks where each character is at the end of the last
 
 ## Marek Senn — protagonist
 
-**At the end of Chapter 10:** twenty-two, third-year, failing. No Solo Seal, no license, no technique, no standing. A technician apprenticeship formally offered and, in substance, refused. Headline transcript line: *performance dependent on external cue*. Carries a four-week-old echo of Tam Arrick's practiced release that he was not authorized to retain and cannot get rid of. Keeps a hand-written load book with a *Do not know* section at the bottom of every entry.
+**At the end of Chapter 10:** twenty-two, third-year, failing. No Solo Seal, no license, no technique, no standing. **The technician apprenticeship was refused out loud, on the record, in Deputy Roos's office, with a reason he asked her to write down.** Headline transcript line: *performance dependent on external cue*. Carries a four-week-old echo of Tam Arrick's practiced release that he was not authorized to retain and cannot get rid of. Keeps a hand-written load book with a *Do not know* section at the bottom of every entry.
 
-**Physical state:** bad right shoulder from a jammed gate in Nine Bridges, slowly improving. Recurring low-load symptoms after any contact — sour or metallic taste, a two-second loss of a named color, a headache that opens behind the left eye. Sleep debt, eleven credits in week 1, rent overdue, one bun in a corridor standing up.
+**Physical state:** bad right shoulder from a jammed gate in Nine Bridges, slowly improving. Split thumbnail on the hand he braces frames with; pencil behind one ear. Recurring low-load symptoms after any contact — sour or metallic taste, a two-second loss of a named color, a headache that opens behind the left eye. Sleep debt, eleven credits in week 1, rent overdue, one bun in a corridor standing up.
 
-**Wants now, in order:** three independent observations of a fourth beat from people the Institute never taught; Mal Farrow, whom he has never spoken to; seven days in which something becomes demonstrable rather than merely true. Underneath that, the old want, still running: to be the man other people can rely on so that nobody ever has to ask him for anything.
+**Wants now, in order:** three independent observations of a fourth beat from people the Institute never taught; Mal Farrow, whom he has never spoken to and whom he does not know is uninjured; seven days in which something becomes demonstrable rather than merely true. Underneath that, the old want, still running: to be the man other people can rely on so that nobody ever has to ask him for anything.
 
 **Learned this batch, in his own words:**
 - A return path is a cut in metal with a location, not a promise. (Sera, Chapter 4)
 - Two performances of one thing is one thing. Agreement with somebody you already agree with is company, not evidence. (Chapter 7)
+- Do not let wanting press two things together until they look like evidence. If I ever catch myself doing that, the wanting is the answer, not the thing. (Chapter 7, his own hand, and quoted back to himself in Chapter 9)
 - The fourth beat is a question asked out loud, at a point where the answer can still change what happens. (Chapters 3, 6, 7, 8)
 - The word is a door that has been installed in people's bodies, and the only thing worse than being the person who opens it is being the person who opens it kindly. (Chapter 8)
+- I am the last person in this city who should be saying it to you. (Chapter 8, to Tam, refusing to hand over the cue)
 
-**Will refuse:** to use a share he has not been given; to accept a correct transcript that requires a false cause; to let Tam's recovery plan be written for him; to install a fourth beat in Rafi on a wet ramp to see what happens.
+**Will refuse:** to use a share he has not been given; to accept a correct transcript that requires a false cause; to let Tam's recovery plan be written for him; to install a fourth beat in Rafi on a wet ramp to see what happens; to put his own name on a piece of paper he has not read.
 
-**Cannot yet do:** hold a line alone; perform the fourth beat; reproduce his four seconds; tell the difference between a practice that grew out of work and one that was installed into it; ask a stranger for something he cannot explain.
+**Cannot yet do:** hold a line alone; perform the fourth beat; reproduce his four seconds; tell the difference between a practice that grew out of work and one that was installed into it; ask a stranger for something he cannot explain; get a two-way answer out of a room in under five minutes without a technical speech.
 
-**Flaw, in operation:** he takes the whole of a problem onto himself because nobody asked him to. In Chapter 6 he decided on his own that Talia's refusal meant she was accusing him, and never examined it. In Chapter 9 he decided on his own not to file a complaint. In Chapter 10 he has already built a plan in his head around a man he has not met.
+**Flaw, in operation:** he takes the whole of a problem onto himself because nobody asked him to. In Chapter 6 he decided on his own that Talia's refusal meant she was accusing him, and never examined it. **In Chapter 8 he had five days between learning that Tam was going to be alone on a live load and the day of the dock, and spent four of them working out a version of the conversation he did not have.** In Chapter 9 he decided on his own not to file a complaint. In Chapter 10 he has already built a plan in a head around a man he has not met.
 
 ## Talia Venn — primary romance, consent advocate
 
 **At the end of Chapter 10:** twenty-four, resonance nurse on the Saltmarket route, trained in the same course family as Marek's department, which she says out loud and refuses to pretend otherwise. Has fitted twenty-six 4-19 braces since September on a card printed at 3-08, and has an *interference noted* column on her own chart. Has asked Marek for a Thursday slot twice in person and once in writing, and has been refused twice and ignored once.
 
-**Position after Chapter 6:** she corrected him in front of a patient because the patient was owed a reason, then had to explain the correction to the patient, then gave him a bounded alternative anyway. She keeps a copy of every scope she writes. She has told him she is the person he can say the true thing to and then told him not to say it only to her.
+**Position after Chapter 6:** she corrected him in front of a patient because the patient was owed a reason, then had to explain the correction to the patient, then gave him a bounded alternative anyway. **Position after Chapter 7 — the important one:** she changed the terms of her own written scope out loud on the step before performing anything, said why (the clinic owns no brace, and handing him a demonstration that is not the one on the sheet makes every scope she has ever written a lie), wrote a new one in front of him, read it back, and made him put his name on the other side of the line. She keeps a copy of every scope she writes. She taught herself the brace the summer she turned nineteen, has fitted it every working day since, and traces her fourth beat to a woman called Iris Vandermeer. She has told him she is the person he can say the true thing to and then told him not to say it only to her.
 
 **Want:** a standard that survives fear, fatigue, and a person who cannot explain what a *default* means. Right now that means a card that says what it did, not a card that says what a person should do about it.
 
-**Flaw, in operation:** she can see a coercion and be slow to see an ordinary dependence. She is also the only person in Marek's life who has told him a true thing he did not ask for, and she has not yet been thanked for it.
+**Flaw, in operation:** she can see a coercion and be slow to see an ordinary dependence. She took two days to work out that a changed offer needs a changed sheet, and she did not get it right the first time. She is also the only person in Marek's life who has told him a true thing he did not ask for, and she has not yet been thanked for it.
 
 **Will refuse:** to soften a correction; to accept a signature, a device, a proximity or a pre-signed form as a yes; to sign a retention she has not written down.
 
@@ -48,7 +50,7 @@ Updated after every batch. Tracks where each character is at the end of the last
 
 ## Tam Arrick — the volume's first cost
 
-**At the end of Chapter 10:** twenty, third-year, Group C. Right forearm in a cast elbow to knuckles, two tendons gone, third intact, middle finger unusable. Six weeks cast, three months before he can hold anything heavier than a kettle, and his hands are his whole job. Kitchen work on Sennet Row, prep shifts ten till seven, nights after.
+**At the end of Chapter 10:** twenty, third-year, Group C. **Flexor tendons cut in the right forearm, two of them, third intact, middle finger unusable. A padded dorsal splint from below the elbow to the knuckles, palm up, fingers free, and theatre at eight the Friday morning. Six weeks before he can put any weight through it, three months before he can hold anything heavier than a kettle, and his hands are his whole job.** Kitchen work on Sennet Row, prep shifts ten till seven, nights after. He asked the ward sister which name was on the form so that Marek would be told, which is the same move as *come to the front of the room like a person*.
 
 **What he has said that matters:** *He said it. I let go because he said it. Both are true.* Granted use for the completed rescue only, refused retention and future use, said never again, and said that if Marek touches it again he will put his head through a wall. On the dock, told Marek that there are two voices in it now and one of them belongs to a person he has met four times.
 
@@ -74,14 +76,14 @@ Updated after every batch. Tracks where each character is at the end of the last
 
 ## Deputy Anneke Roos — the institutional squeeze
 
-**At the end of Chapter 10:** fifty-four, nineteen years, Deputy Registrar of the practical department. She has offered Marek the whole thing on paper and told him honestly what each version costs: a technician track and a hardware-fault framing, or the investigation and a term. She refused to have the 4-19 stock reissued and said so as an offer, not a favour. Whether she is an ally, a defence mechanism, or buying time is deliberately unresolved.
+**At the end of Chapter 10:** fifty-four, nineteen years, Deputy Registrar of the practical department. She offered Marek the whole thing on paper and told him honestly what each version costs: a technician track and a hardware-fault framing, or the investigation and a term. She refused to have the 4-19 stock reissued and said so as an offer, not a favour. **In Chapter 9 she made him refuse out loud**, told him to say it to the door rather than to her, demanded a reason that would survive being written down, wrote three lines, turned the form so he could read it, and told him not to thank her in the corridor because a thank-you there would cost her a fortnight she has not got. Whether she is an ally, a defence mechanism, or buying time is deliberately unresolved. **The apprenticeship is closed as a live offer except as the harder second offer in Chapter 19.**
 
 ## Supporting presence
 
 - **Dessa Kwan**, 27 — line cook, runs the kitchen at the Saltmarket Exchange, will not let a practice be performed for an audience, and refuses to have her kitchen timings turned into a standard. She gave Marek terms, not a yes: watch, ask nothing tonight, come back tomorrow. She told him he will not find what he needs from people who agree with him.
-- **Mal Farrow**, 61 — fish market, bad hip, seen once, unnamed, narrating his own release to himself after a crate lands on his chest. Tam has named him. **Marek has not spoken to him.** Becomes the care-link patient in Chapter 13.
+- **Mal Farrow**, 61 — fish market, bad hip, seen once, unnamed, narrating his own release to himself after a crate lands on his chest, getting up unaided and going back to work while twelve people watch and not one of them checks him. Tam has named him. **Marek has not spoken to him, and has written in the load book that he does not know whether the man is hurt and cannot find out without making it a question about himself.** Becomes the care-link patient in Chapter 13.
 - **Gus Haldane** — courier crew lead, west berth, held the copy of Marek's record in his coat and pointed him at the Exchange. He asked what the word was and is owed an answer.
-- **Gus's question is outstanding:** he was told he would be told everything, tomorrow. That visit is owed.
-- **Anneke Roos, Darla Vint, Petar Vance, Odile Fenn, Bern Colley** — established and available for Movement II.
+- **Gus's question is outstanding:** he was told he would be told everything, the next day. That visit is owed.
+- **Anneke Roos, Darla Vint, Petar Vance, Odile Fenn, Bern Colley, Iris Vandermeer (named, not on stage)** — established and available for Movement II.
 - **Oren Vey** — named on a purchase docket. Not on stage.
 - **Hollis Pratt, Asha Reed, Iven Sore, Leo Marr, Iona Sorn** — not yet on stage. Asha is reserved for Movement IV.

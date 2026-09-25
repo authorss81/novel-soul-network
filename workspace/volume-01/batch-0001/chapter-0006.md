@@ -208,9 +208,9 @@ He looked up. It was the first time she had used his name.
 
 And then she said, "I am the person you can say it to, and I am going to be there on Thursday, and I am not going to tell anybody anything. Say it to somebody anyway. Not me. Somebody who is not me."
 
-She rode off up the lay-by with her bag banging the wheel, and Marek Senn stood in the rain on the Saltmarket route with a wet form in his hand that had granted him absolutely nothing whatsoever, and the worst of it, the part that was going to take him apart over the following week, was that she had been right about all of it and had still given him the Tuesday.
+She rode off up the lay-by with her bag banging the wheel, and Marek Senn stood in the rain on the Saltmarket route with a wet form in his hand that had granted him absolutely nothing whatsoever, and the worst of it, the part that was going to take him apart over the following week, was that she had been right about all of it and had still given him the Thursday.
 
-He walked back to Nine Bridges with his boots full of water and the shape of Tam's four seconds in his chest, and by the time he got to Pell Street he had understood the shape of the next five days: he had one authorized observation coming, and it was not going to be enough, and the only way to get enough was to stop looking at the Institute.
+He walked back to Nine Bridges with his boots full of water and the shape of Tam's four seconds in his chest, and by the time he got to Pell Street he had understood the shape of the next two days: he had one authorized observation coming, and it was not going to be enough, and the only way to get enough was to stop looking at the Institute.
 
 He wrote it in the load book at midnight, and then he read back the entry from week one, the one where he had written *get the fourth beat, it is the last thing on the card*, and he put a line through it, and wrote underneath:
 

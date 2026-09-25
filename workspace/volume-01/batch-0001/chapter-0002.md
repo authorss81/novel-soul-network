@@ -6,7 +6,7 @@ The blind on the tall window was stuck a third of the way down, so the room had 
 
 Marek got there at nine-oh-five. He put his bag on the floor by the wall, not under the bench, because under the bench was where the previous class left things and the previous class had stolen a plate stirrup.
 
-Nine-twelve. The door opened and Odile Fenn came in with her hair wet and a paper cup, said "he is going to make us do it twice, he always makes us do it twice," and went to stand in the yellow tape. Then Tam Arrick came in already in his work boots, which was against the rules and which nobody would mention, because Tam was a third-year who pulled double shifts at a kitchen on the Saltmarket and slept through the mornings, and the department had long since decided that a boy who can stand up is a boy who can be taught.
+Nine-twelve. Group C was twelve, and by nine-eighteen there were eleven of them in the room with Rusk's own name written on the sheet below them, which is how the department had always run a third-year drill. The door opened and Odile Fenn came in with her hair wet and a paper cup, said "he is going to make us do it twice, he always makes us do it twice," and went to stand in the yellow tape. Then Tam Arrick came in already in his work boots, which was against the rules and which nobody would mention, because Tam was a third-year who pulled double shifts at a kitchen on the Saltmarket and slept through the mornings, and the department had long since decided that a boy who can stand up is a boy who can be taught.
 
 Tam's face had the particular gray of a person who has been awake since two. He said, "You saw the roster?"
 
@@ -32,11 +32,9 @@ He was forty-seven and had been in the practical department for twenty-two years
 
 Somebody at the back laughed and stopped.
 
-"Rescue brace," Rusk said. "Group three, mounted load. Tam, you're on the ladder, and you come down on the count, and the group takes you. Do not put your weight on the dummy's neck, I have seen it happen. Beating, assembly, load, and release, in that order, and the order is not a suggestion. Dalen."
+"Rescue brace," Rusk said. "Group C, mounted load. Tam, you're on the ladder, and you come down on the count, and the group takes you. Do not put your weight on the dummy's neck, I have seen it happen. Beating, assembly, load, and release, in that order, and the order is not a suggestion."
 
-He pointed.
-
-The third-year on the ladder — Tam, because Tam was tall and had the only clean hands in the room — went up four rungs and clipped his fall line to the overhead rail. The dummy stood on a rig at the foot of the ladder, two and a half meters up, a heavy training torso with sand in the pelvis, and its whole job was to be the thing a falling person's weight was transferred into. The brace was laid out on the floor in the order it was supposed to be picked up, so that a group learning it learned the order with its hands before anybody said the word order out loud.
+He pointed at the third-year on the ladder, who was Tam, because Tam was tall and had the only clean hands in the room. Tam went up four rungs and clipped his fall line to the overhead rail. The dummy stood on a rig at the foot of the ladder, two and a half meters up, a heavy training torso with sand in the pelvis, and its whole job was to be the thing a falling person's weight was transferred into. The brace was laid out on the floor in the order it was supposed to be picked up, so that a group learning it learned the order with its hands before anybody said the word order out loud.
 
 Marek knelt.
 

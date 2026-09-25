@@ -10,7 +10,7 @@ He saw Rusk in the corridor twice more and both times it was nothing. Once Rusk 
 
 On the Wednesday of the third week he could not remember whether his mother was on nights. He had to look it up. He had to look up his mother's shift pattern, in his own phone, in his own mother's flat, three streets from his own front door, and he stood in the kitchen with the paper in his hand for a while, and then he put it in the drawer with the takeout menus, and then he did not mention it to her, and she did not notice, and neither of them said anything about it at dinner.
 
-That was the three weeks. Nothing happened in them. That is what three weeks of this is for.
+That was the three weeks. Eleven nights at the Spine, six attempts at the fourth beat on a bench, two conversations with Rusk that were not conversations, and one evening in his mother's kitchen with a piece of paper in his hand that he put in a drawer with the takeout menus. Nothing happened in them, and nothing was supposed to, and that was the arrangement he had made with the Institute and with himself: he would be ordinary for three weeks and then he would find out what he was.
 
 ---
 

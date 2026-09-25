@@ -24,7 +24,7 @@ At the table nearest them, four men who had been eating stopped chewing. The roo
 
 "My classmate had his arm broken on a dock on Tuesday. There's a card in that crate he was taught from, and the fourth beat on the card isn't a step in the technique, it's a word somebody else says. Nobody in the Institute will say it out loud because if they do they're saying a product is unsafe. I've got a week. I need three people who were never taught that card to show me a thing they do with their own hands, so that I can put three of them in a row in front of a board and say *look, it can be finished more than one way.*"
 
-Dessa Kwan looked at him for about four seconds.
+Dessa Kwan looked at him long enough for the room to notice.
 
 "Right," she said. "Sit down. Don't put your bag on the table, it's got somebody else's fish money in it, put it on the floor." She turned around. "Nobody's doing anything for you. First: this room is not a stage. Second: there is nothing happening this evening that anybody has agreed to watch, and if I see anybody performing a thing so that a student can write it down, I will put the kettle on the head of it." She said that last part cheerfully. "Third: you have not told me one thing about him. What's his name."
 
@@ -70,11 +70,17 @@ Marek was six feet away and did not move, because he could not move, because the
 
 He got his hand off the table frame. He said, "That's the floor, it's cold, it hurts, I can hear the ice." And he lay there and let the man's knee come up. And then, after a moment, he said the second thing: "It's off you. It's on the crate. It's not on you anymore. Get it off yourself or leave it, it's your call, I've got you."
 
-And the man said, "Leave it," and laughed, and lay there for another half minute, and then got himself up with his own two hands and a table leg, and picked the crate up off his own chest and put it down, and went back to work, and nobody in that room said a word about it and two of them had clearly seen it.
+And the man said, "Leave it," and laughed, and lay there for another half minute, and then got himself up with his own two hands and a table leg, and picked the crate up off his own chest and put it down, and went back to work.
+
+Nobody in that room said a word about it. Two of them had clearly seen the whole thing, and one of them was a woman with a tea urn who put a cloth down, picked it up again, and then went and did something else.
 
 Marek wrote: *Fish market, 20:45. Man of about sixty, bad hip, took a full crate on his chest. Did not ask a single person for anything. Said two things out loud: what had touched him, and what was off him now. Then he decided. Nobody taught him that. Nobody is going to teach him that. He has done it for forty years and it is not a technique, it is a man who works with his hands.*
 
-And under it, because he had learned one thing in a month: *(I do not know his name. I do not know if he has ever held a brace. I do not know if he would do it again on request. Asking him is a whole conversation and I do not get to have it standing in a doorway.)*
+And under it, because he had learned one thing in a month:
+
+*(Twelve people in this room and not one of them went over. Nobody checked him. He was up in under a minute and the crate came off his chest and he carried on, and there is no form anywhere in this city that says what happened to that man's ribs at 20:46. I have been staring at him for ten minutes and I still do not know if he is hurt, and I am going to have to go over there and ask him, and I have absolutely nothing to say to a stranger tonight except a question that is none of my business, and if I ask it the way I ask about fourth beats I will be doing it for me and not for him.)*
+
+*(That is Tam. That is a man on a dock who nobody checked. The only difference is that a man on a dock gets a form and a stretcher and two paramedics who will not let go of him. A man in a market gets the ice and his own two hands.)*
 
 ---
 
@@ -150,13 +156,15 @@ Rafi put the invisible load down.
 
 ---
 
-The ward was eleven beds and it was twenty to midnight on the Thursday, the lights turned down to a strip, and a boy of twenty sat up in bed four with his right forearm in a cast from the elbow to the knuckles, white, and enormous, and eleven centimetres of it.
+The ward was eleven beds and it was twenty to midnight on the Thursday, the lights turned down to a strip, and a boy of twenty sat up in bed four with his right forearm strapped to a board.
 
-Two tendons. He would not have the operation explained to him twice, which the registrar on duty found charming and would later describe as *not entirely oriented* in a note.
+Two tendons. Not dressed in a cast, dressed the way a hand is dressed when it has to be seen again in the morning: palm toward the ceiling, a padded dorsal splint running from below the elbow to the knuckles, the fingers left free, and a loop of tape across the wrist with a time written on it in marker. The hand was enormous. That is what a hand looks like when it has been kept from moving for four hours so that a surgeon will have something to work on in six hours' time, and it was the largest thing in the room.
+
+He would not have the operation explained to him twice, which the registrar on duty found charming and would later describe as *not entirely oriented* in a note.
 
 Marek sat down on the plastic chair. He had four sentences and had brought none of them.
 
-"Third tendon's intact," said Tam. "Can't move the middle finger. Everything else goes. Six weeks cast, three months before I'll hold anything heavier than a kettle, and my hands are my whole job, so." He looked at the cast. "They reckon I'll get it back. They were careful to say *we reckon*, which is the way they say a thing they don't want to be sued over."
+"Third tendon's intact," said Tam. "Can't move the middle finger. Everything else goes. They're in at eight tomorrow morning, and after that it's six weeks before I can put any weight through it, three months before I'll hold anything heavier than a kettle, and my hands are my whole job, so." He looked at the board. "They reckon I'll get it back. They were careful to say *we reckon*, which is the way they say a thing they don't want to be sued over. And you should know that I asked the ward sister who came in about eleven which name was on the form, and she told me, because I told her why I was asking, and she said it because she thought I ought to know."
 
 "Tam—"
 
@@ -176,7 +184,7 @@ Marek said, "No."
 
 "Who?"
 
-"I don't know," said Tam. "I haven't got anybody. That's why I'm telling you on a Thursday night in a hospital with a cast on, because you are the only person who has any idea what I'm talking about, and because you'll go and find one, and you won't find one for me, because that's not your job, and I want you to be the one who has to try."
+"I don't know," said Tam. "I haven't got anybody. That's why I'm telling you on a Thursday night in a hospital with my hand strapped to a board, because you are the only person who has any idea what I'm talking about, and because you'll go and find one, and you won't find one for me, because that's not your job, and I want you to be the one who has to try."
 
 Marek sat in the plastic chair and did not say anything for a while.
 
@@ -196,12 +204,13 @@ Marek's head came up.
 
 ---
 
-He did not go and ask Farrow. He wrote it in the load book on the tram and he wrote what he did not know at the bottom of the page, which was a thing he had started doing in week three and had never told anybody about, and which by then was the only part of his life that was in order.
+He did not go and ask Farrow. He wrote it in the load book on the tram and he wrote what he did not know at the bottom of the page, which was a thing he had started doing on the Thursday of week one and had never told anybody about, and which by then was the only part of his life that was in order.
 
 *Week 6, Thursday.*
 *3 lines visible in one evening, none of them mine:*
 *Kitchen (Dessa K). Says what the pan touched, mid-service. Other person answers. She puts it down and leaves. Ran 9 times. Not a share. Not a form.*
 *Market porter, 20:45, unknown name, 60s, bad hip. Took a full crate on his chest. Told himself what had happened and what was off him, out loud, then decided. 40 yrs, no teacher, no idea it's a technique.*
+*Nobody went over. Twelve people watched. No form, no stretcher, no name. I do not know if he is hurt and I have no way to find out that is not about me. NOT COMPARED. This one I saw, I did not study.*
 *Ruf. Anchor, load, close, wall. No fourth beat. Compensating two years with L shoulder against a wall and calling it the step. First victim. Not my opponent.*
 *Directly compared: 1.*
 
@@ -213,8 +222,8 @@ He did not go and ask Farrow. He wrote it in the load book on the tram and he wr
 *The plate is locked. Locked is not stopped. 4-19 is in two satellite sites and on a shelf in a box on wheels at Saltmarket, and a nurse has fitted 26 of them since September.*
 *And there is nobody, anywhere inside that building, who can finish a release without somebody's voice coming out of it.*
 
-*Which means on Thursday I have to walk into the exam hall and do the one thing I know for certain I cannot do, and I have a week, and I do not have a technique, and I have never had a technique, and what I have is three strangers and a boy in a cast.*
+*Which means on Thursday I have to walk into the exam hall and do the one thing I know for certain I cannot do, and I have a week, and I do not have a technique, and I have never had a technique, and what I have is three strangers and a boy going into theatre at eight in the morning.*
 
-He got off the tram at Pell Street at twenty to two in the morning, and Rafi was asleep on his back with the courier bag on the floor, and Marek lay down in the dark with his work gloves under the pillow and did not sleep at all, because for the first time in six weeks the problem in front of him was bigger than the thing in his own chest, and there was no version of being useful that solved it, and somewhere in Nacre at that moment there were about four hundred thousand people who had spent their whole lives getting good at things without ever once being taught that they were techniques.
+He got off the tram at Pell Street at twenty to two in the morning, and Rafi was asleep on his back with the courier bag on the floor, and Marek lay down in the dark with his work gloves under the pillow and did not sleep at all, because for the first time in six weeks the problem in front of him was bigger than the thing in his own chest, and there was no version of being useful that solved it, and the difficulty was that being useful was the only tool he had ever brought to a problem.
 
 He got up at six and wrote a list of five names and one of them was Farrow, and then he did something he had not done in three years, which was get on a tram at ten past six in the morning with nowhere to be and no work, because the Spine's day shift did not start until eleven and he was going to be early everywhere for a day.

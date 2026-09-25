@@ -30,7 +30,7 @@ Because when he wrote it a second time, the line came out *name the limit before
 
 He sat on the edge of the bed and looked at a page of his own handwriting for a long time.
 
-*Twelve-oh-three, drill, room two.* He wrote the date and the place, because that was the sort of thing that might matter later. *Line came for about four seconds. Rafi's half was a load on the back of the heels and a shoulder going in and then a check — he checks with his own hand, he has always done it, nobody taught him. Shape of the hole: a question, asked out loud, at the fourth beat, so the person being held can hear it. Then I said the word. I said it in Rusk's rhythm.*
+*Eleven-oh-four, drill, room two.* He wrote the date and the place, because that was the sort of thing that might matter later. *Line came for about four seconds. Rafi's half was a load on the back of the heels and a shoulder going in and then a check — he checks with his own hand, he has always done it, nobody taught him. Shape of the hole: a question, asked out loud, at the fourth beat, so the person being held can hear it. Then I said the word. I said it in Rusk's rhythm.*
 
 And then he stopped, because the next line wanted to be about Tam, and he did not have words for Tam that he was willing to put on paper in a room where Tam might come in and pick up a pen.
 
@@ -48,7 +48,7 @@ Rafi said, from the floor, "Is it the word?"
 
 "Ruf."
 
-"I'm not being daft. I know how it sounds. Listen to me." Rafi got up onto his knees. "That thing on Thursday. When it happened. That wasn't you. That was — I was holding the strap and there was two of us holding the strap and I could feel what you were about to do before you did it, like a bicycle coming round the corner. Do you know how good that is? Do you know how many hours I've spent on that ring road alone trying to get the balance right? Two seconds of that and I could feel the load coming. That's not a trick, that's a *skill*, and I want to learn it, and I'm not going to stop asking you about it, and you can just tell me no."
+"I'm not being daft. I know how it sounds. Listen to me." Rafi got up onto his knees. "That thing on Thursday. When it happened. That wasn't you. That was — I was holding the strap and there was two of us holding the strap and I could feel what you were about to do before you did it, like a bicycle coming round the corner. Do you know how good that is? Do you know how many hours I've spent on that ring road alone trying to get the balance right? I ran it twice since Thursday and I did the shoulder thing four times and it wasn't the same, and I know it wasn't the same, and I could feel the difference and I want to know what the difference *is*. That's not a trick, that's a *skill*, and I want to learn it, and I'm not going to stop asking you about it, and you can just tell me no."
 
 And there it was, standing in the middle of his own front room in a courier shell, being completely sincere: the first person Marek had ever known who would have said yes without needing to know what the question was.
 
@@ -72,11 +72,11 @@ It had come to the transport stream's group on Sunday, from the mobile clinic on
 
 The group message on Sunday had asked who could take a slot. On Monday she had written to him directly: *No pressure from me, and no answer needed if the answer is no. It is genuinely no pressure. If you ever want a Thursday, the Saltmarket route clinic has a room with a working sink and a door that shuts.*
 
-He had read it four times. He had not typed a reply, and it had gone to the place where messages go when you read them and do not answer, which is not the same place as a refusal, and which everybody who has ever waited for a reply knows about.
+He had gone over the message so often it had worn a groove. He had not typed a reply, and it had gone to the place where messages go when you read them and do not answer, which is not the same place as a refusal, and which everybody who has ever waited for a reply knows about.
 
 He understood — he could see it, he could almost write it down — exactly why he had not answered. It was not that he was busy. It was that she asked people to name things, and he could not think of a single arrangement in his own life that he would have been willing to have named. Not the four hours. Not the eleven credits. Not the way he had eaten a bun in a corridor. Not Evan's card in the tool roll. If a woman with a clipboard asked him to say what he was willing to share, he would have had to say all of it, and then she would have written it on the clipboard, and then it would have been in a file.
 
-So he put the phone face down on the floor and went to get his work gloves, because at eight that night he had a shift at the Spine, and the shift was the only place in the city where nobody had ever asked him to name a single thing.
+So he put the phone face down on the floor and went to get his work gloves, because at half past eight that night he had a shift at the Spine, and the shift was the only place in the city where nobody had ever asked him to name a single thing.
 
 ---
 
@@ -146,13 +146,13 @@ He did not work for another hour. He sat at the bench with the coffee going cold
 
 The wall was a hundred and forty clips: printed repair tickets, a shopping list, a child's drawing of a relay, four different handwritings of the same fault on three different crews, a photocopy of a safety notice from nine years ago, and a page that was older and browner than the rest and had been folded twice and pinned flat.
 
-It was a log page. Municipal, from the look of it: a grid of hours down the left, a column for node, a column for what was done. The header said **MARROW FALLS — DISTRICT RELAY LOG — DAY 2** and the ink at the top said the date, which was fourteen years ago and a week Marek had been in the ninth grade.
+It was a log page. Municipal, from the look of it: a grid of hours down the left, a column for node, a column for what was done. The header said **MARROW FALLS — DISTRICT RELAY LOG — DAY 2** and the ink at the top said the date, which was fourteen years ago, when Marek had been eight years old and had not yet been in a room with a stuck blind.
 
 The entry at the row for 04:20 read, in a careful clerk's hand:
 
 *Node 9-Barrow no answer. Carried last approved civic sequence as provisional response. Bridge held. Field crew did not report for second hour; no fault found at node.*
 
-Marek read it four times, and the third time he read it the way you read something when you have heard it before today and did not know where.
+He read it until the words went flat, and on the third time through he read it the way you read something when you have heard it before today and did not know where.
 
 *Last approved civic sequence.*
 
@@ -180,7 +180,7 @@ He became aware that Sera Quill was standing four feet away with her back to the
 
 "Because it is not yours and because I do not want it read." She said it flatly and without any threat in it at all, which was the worst way she could say a thing. "Give it back to me and do not ask me about it."
 
-Marek did not give it back to her. That was the first thing he did in the next six months that he could not later defend, and he defended it for two days, and then not at all.
+Marek did not give it back to her. He heard himself decide not to, and he heard how quickly he decided, and he put the notebook away faster than he needed to.
 
 "Row four-twenty," he said. "The same phrase is on the drill script. I saw it this morning. I don't know what it means."
 
@@ -194,18 +194,21 @@ At one in the morning he signed the day book, and then he turned the notebook ba
 
 *LOAD — week 1*
 
-*Thurs, drill room 2: line 4 sec, one partner, hands only, no words, no licence. Cost: headache, gap 2 sec (floor colour), metallic x4, borrowed arithmetic 5+ min, not mine.*
-*Fri: nothing. Could not name a tool for 90 sec on waking. Yellow line visible = about a 4-day mark for me. Ask somebody what the four-day mark is.*
-*Sat: spoke Rusk's word into a falling classmate. He let go because I said it.*
+*Thurs 11:04, drill room 2. Line 4 sec, one partner, hands only, no words, no licence. Spoke Rusk's word into a falling classmate. He let go because I said it. Cost: headache, gap 2 sec (floor colour), metallic x4, borrowed arithmetic 5+ min, not mine.*
+*Thurs 16:10, back at the room. Could not name a screwdriver for ninety seconds. Slept none of the afternoon. Yellow line visible = about a 4-day mark for me. Ask somebody what the four-day mark is.*
+*Thurs 21:10–01:00, Spine. Four units, lamp done, plates done. Asked for the jig. Refused. Sera was right about all of it, including the part I did not want.*
 
-Then, at the bottom of the page, in the space that was left, three lines:
+Then, at the bottom of the page, in the space that was left, three lines, and under them a heading he gave a number and a question of his own:
 
 *Three weeks to Thursday of week four.*
 *No license, no share, nothing to put in the log that anybody reads.*
 *Get the fourth beat. It is the last thing on the card.*
 
+*Do not know:*
+*Whether the word I said out loud is the word the drill card means, and if it is not, which of the two made the room work.*
+
 He read that last sentence over. It was a good sentence. It was the sentence of a man who had a job.
 
-He had to walk a long way to the tram with it, and by the time he got to Pell Street the borrowed arithmetic had finally gone quiet, and the head had gone quiet with it, and he lay in the dark on his back with his gloves under the pillow and understood, with total clarity and no comfort whatsoever, that he had done everything right on Thursday. That four people had watched him hesitate and one of them had sat down in a plastic chair to tell him so kindly. That he had held a stranger's fear in his own chest for five minutes. That he had said a word he did not own into a boy who let go because of it.
+He had to walk a long way to the tram with it, and by the time he got to Pell Street the borrowed arithmetic had finally gone quiet, and the head had gone quiet with it, and he lay in the dark on his back with his gloves under the pillow and understood, with total clarity and no comfort whatsoever, that he had done everything right on Thursday. That four people had watched him hesitate and one of them had sat down in a plastic chair to tell him so kindly. That he had held a classmate's fear in his own chest for five minutes. That he had said a word he did not own into a boy who let go because of it.
 
 And that if it had been his mother on that ladder, he would have done exactly the same, and it would have worked, and it would have been the best thing he had ever done.

@@ -12,7 +12,9 @@ He took the plates first, because plates were the ones that got reused.
 
 The bench lamp threw a circle about the size of a dinner plate onto the scarred wood. Under it the unit sat in a cradle, opened, its cover face down on a folded rag. Mineral fiber, pale grey, thin as a coaster. Copper return contact at the base, dulled to the color of an old coin. Everything about it said manufactured, said Tuesday, said a price tag in a department store.
 
-He hooked the fine driver into the contact block and eased it up a quarter turn. The copper gave.
+He had a pencil behind one ear, where it had been since the first week of term, because a pencil behind the ear is the same as a pencil in the hand and the hand is not always free.
+
+He hooked the fine driver into the contact block and eased it up a quarter turn, bracing the frame with the heel of his other hand because the nail on that thumb had been split since October and the split had opinions about grip. The copper gave.
 
 There was a way to describe what he was looking at that other repairers used. Arcing. A scorched contact. A unit that had been run hot or shipped wet or installed by somebody in a hurry. Every term of it was true and none of them helped him, because what he could see was not the burn. What he could see was the shape the damage had made in the practice the plate carried — a place where the sequence went out and did not come back, like a sentence with the last word cut off.
 
@@ -30,11 +32,9 @@ He wrote the fault in his own hand on the back of the form.
 
 That was the whole trick, and it was a small one. Fault report, front: equipment returned to stock, no fault, no vendor, nothing. Then he turned the form over and wrote what he had actually seen, in the space behind the endorsement block where the office kept its routing notes because there was never room on the front. He wrote the date, the unit serial, the batch stamp, the arcing pattern, the corrected action. He wrote *contact block scorched on arrival from crate; third unit this month; not a random fault.* He signed it and dated it and pushed it through the tray in the cage door.
 
-That was the first time in the volume that he chose a limit over a gain, and it cost him about nine minutes he did not have.
-
 The second plate was a clean job. The buzzer needed a washer and thirty seconds.
 
-Then the ashfields clinic job, because he was tired and because tired people make the good decision more often than proud ones do. Twenty-two minutes. Green on the first try, which was humiliating.
+Then the Ashfields clinic job, because he was tired and because tired people make the good decision more often than proud ones do. Twenty-two minutes. Green on the first try, which was humiliating.
 
 At 03:10 he washed his hands in the sink, dried them on the roll, and put his work gloves back on before he took them off, which he knew was stupid, because that meant he had to take them off again. His shoulder had been wrong since a courier job he'd taken at six the previous evening, a jammed gate on a service ramp in Nine Bridges, forty minutes of levering with the wrong arm. It had gone from a dull ache to a bright small pain under the collarbone when he lifted anything above his chest, and it had been getting better all night, and now it was not.
 
@@ -42,11 +42,11 @@ He had not eaten since a bun at two in the afternoon. He looked at the vending m
 
 On the bench under the lamp, where he had set it to keep it out of the way, there was a transit sequence card.
 
-It was older than he was. Grey card stock gone the color of a nickel, the corners soft, a shallow scratch through the middle of the printed beats where somebody had gone over it with a file. Four beats printed along the top. A fifth line ruled and left blank, and the blank was not a printing error, because the ruled line is shorter than the others on purpose — somebody had gone over the top of it with a fine file so it would not print.
+It was older than he was. Grey card stock gone the color of a nickel, the corners soft, a shallow scratch through the middle of the printed beats where somebody had gone over it with a file. Four beats printed along the top. A fifth line ruled beneath them and left blank, and there was nothing about the blank that explained itself.
 
 His father's card. Marek had never asked where it came from. It had been in the tool roll in the hall closet of his mother's flat in Nine Bridges for as long as he could remember, and it had been in his own tool roll since he was nineteen, and he used it every week for what it is: a shim. It is the right thickness, the right flexibility, the right nothing. You slide it under a mineral fiber plate to keep the frame square while you torque the block, and the plate does not creep, and the copper does not twist.
 
-Four beats and a blank fifth, and the file mark that says somebody decided the blank should stay blank.
+Four beats and a blank fifth, and no way at all to tell from the card whether the fifth was never meant to be filled in or was meant to be filled in by somebody who did not come back.
 
 He had tried once, at fifteen, to ask Lena about it. She had been folding a cloth bag, and her hands had kept moving, and she had said, *Your father kept the things he needed,* and then she had asked whether his rent was due. He had let the subject go, and so had she, and the silence between them had gotten a little thicker in that place and stayed there.
 
@@ -100,7 +100,7 @@ He stood on the step of the practical building and went back into his memory of 
 **ASSEMBLED: THREADLINE SERVICE DEPOT, LATTICE**
 **UPSTREAM BUNDLE: —**
 
-And under it, on the third plate of the night, stamped into the fiber where the housing met the base, in a small clean font that he had read ten times without reading it: **4-19**.
+And under it, on the third plate of the night, stamped into the fiber where the housing met the base, in a small clean font he had stopped being able to see: **4-19**.
 
 The same revision. Not the older stock. Not the manual.
 

@@ -4,21 +4,23 @@ The west berth at Saltmarket smelled of ice, diesel, and the particular flat sou
 
 Marek had been on the public side of the yellow barrier since a quarter past six.
 
-He had no business there. He had no license, no role, no invitation, and no standing whatsoever of any kind in a room or on a dock or in this story except the one he had given himself. He had a student card in his jacket and a work shirt and a pair of gloves under his jacket, and he had spent fifty-five minutes being extremely ordinary in the hope that nobody would ask him a question.
+He had no business there. He had no license, no role, no invitation, and no standing whatsoever of any kind in a room or on a dock or in this story except the one he had given himself. He had a student card in his jacket and a work shirt and a pair of gloves under his jacket, and he had spent the best part of an hour being extremely ordinary in the hope that nobody would ask him a question.
 
 He had watched Tam Arrick do the work-setting release check while a man with a clipboard watched and a courier crew stacked iced boxes onto a pallet four at a time.
 
 Tam had done a prep shift at the kitchen on Sennet Row that morning, ten till seven, and had come down to the waterfront straight off it in the same jacket, because the department had scheduled the check for half past six and a boy who works nights does not get to rearrange that. He had told Marek on Sunday that it was fine. He had told Marek on Sunday that it was forty minutes and they would sign it off.
 
-The check was forty minutes of nothing. That was the whole of it. Anchor, load, close, and then the fourth thing, which was a word that the man with the clipboard said, out loud, on the beat, while Gus Haldane stood in the strap and laughed at nothing.
+Marek had had five days. He had spent one of them on the phone to the clinic and four of them working out whether there was any version of a conversation with Tam Arrick that did not consist of a frightened man being told by another frightened man that he was going to hurt somebody on Tuesday. On the Sunday he had done the version anyway, in a doorway, badly, and had been told to come to the front of the room like a person, and had then spent Monday and Tuesday not doing it.
 
-It went well. Four of them, in a row, in ninety minutes, and Tam's voice was steady and his hands were fast, and Marek had stood on the other side of a barrier and said nothing to anybody, and had been right to, and had felt like a coward the entire time.
+The check was booked for forty minutes and it had been running fifty. That was the department's whole method, as far as Marek could tell: give a person a booked time and let the booking do the coaching. Four of them, in a row — anchor, load, close, and then the fourth thing, which was a word the man with the clipboard said out loud on the beat while Gus Haldane stood in the strap and laughed at nothing.
+
+It went well. Four of them, in a row, in forty-five minutes of flat light and shouting, and Tam's voice was steady and his hands were fast, and Marek had stood on the other side of a barrier and said nothing to anybody, and had been right to, and had felt like a coward the entire time.
 
 At seven-fifteen the clipboard man got a phone call and went up the ramp to argue about a form. At seven-eighteen the trailer's tail-lift came down out of the wet and knocked the ramp plate, and the berth got loud, and Marek put both hands on the barrier.
 
 Gus Haldane's left heel went off the plate edge where the concrete falls away into the drain channel.
 
-It was not a fall. It was a slip, a boy on wet concrete moving too fast, and his hands went out and one of them found the top band of the pallet instead of the floor, and the band held, and the four crates above it began to lean, very slightly, toward him, in the slow way that heavy things lean.
+It was not a fall. It was a slip, a man on wet concrete moving too fast, and his hands went out and one of them found the top band of the pallet instead of the floor, and the band held, and the four crates above it began to lean, very slightly, toward him, in the slow way that heavy things lean.
 
 Tam was on the load side, because that was where the person being checked stood, and he had his hands on the top crate and his shoulder already in, and Marek watched the whole thing arrive in his body before it arrived in his eyes.
 
@@ -48,7 +50,7 @@ He opened his mouth.
 
 "Scope."
 
-He said it in Davan Rusk's cadence. He said it at exactly the pitch, in exactly the teaching shape, with the little fall at the end of it that made a room full of frightened people hear a competent adult, and he said it across a dock at a man forty feet away in a crowd of noise, and it carried, because that is what it is for, and because the whole purpose of it is to be unmistakable in a place where somebody cannot turn round.
+He said it in Davan Rusk's cadence. He said it at exactly the pitch, in exactly the teaching shape, with the little fall at the end of it that made a room full of frightened people hear a competent adult, and he said it across fifty feet of wet concrete and a running diesel ramp, and it carried, because that is what it is for, and because the whole purpose of it is to be unmistakable in a place where somebody cannot turn round.
 
 Tam's hands came off the crate.
 
@@ -66,29 +68,37 @@ He stopped in the middle of it.
 
 He put his hand over his own mouth, on the barrier, with his fingers dug in, and it was not drama, it was housekeeping: if he said another word in that voice it would be another word in that voice, and the boy on the dock would have learned a third.
 
-There were about four seconds left.
-
 There was no line available. Rafi was nine miles away on the ring road. Talia was on a route in a box on wheels. The Spine was closed. The only person in a position to give anything to anybody within a mile was standing behind a barrier with his own hand over his mouth, and he had no license to do the thing and no permission from the only man on the dock who would have any say in it.
 
-What he had was hands, and a shape, and about four seconds, and no way to install it in anybody.
+What he had was hands, a shape he could not install in anybody, and however long it took.
 
-"Tam," he shouted, and it came out in his own voice, flat, no cadence, no shape, just a name across fifty feet of wet concrete. "Tam, listen to me. Your hand. Left hand. Put your left hand flat on the top edge of the crate, flat, palm down, right now — not gripping, flat—"
+He took his hand off his mouth.
+
+"Tam." Flat, no cadence, no shape, just a name thrown fifty feet up a wet dock. "Left hand. Flat on the crate. Not holding — feeling."
+
+Tam's head came round. He was standing ten feet further out onto the berth than the man with the clipboard, and fifty feet from anybody who could have taken the load off him.
 
 "What?"
 
-"Flat! Not gripping. Feel it."
+"Flat. Palm down. Feel whether it's going into the plate or into the corner."
 
-The stack was at forty degrees. Gus had got his hand free and was backing off. The crates had a band across them that had been doing a good job all evening and had now got a corner of the top box started out of the stack.
+The stack was at forty degrees and the band across it had begun to walk. Gus had got his hand free and was backing off with his arms up, shouting something at the trailer that nobody was listening to.
 
-"I'm not—" Tam said, and his hands were still closed on the crate, and then something in what Marek was shouting got through, and Tam's left hand came off and went flat, palm down, onto the top edge of the top crate, and he looked down at his own hand as if it belonged to a stranger.
+"Marek—" Tam said, and his voice cracked in the middle of it, and Marek heard the thing he had been dreading for five days, which was that Tam thought he was being given the word.
 
-"Feel that," Marek said. "That's the beat. That's the fourth beat, that's the whole thing, it's a question, it's — feel whether it's going into the plate or into the corner, and then it's yours. Nobody says it for you. It's *yours*, and you say it, and then your hands come off, and if the plate's not carrying it, you're allowed to let it go and let it go is the correct result —"
+"I'm not giving you anything." Marek shouted it into the diesel noise with his own voice and no shape at all. "I'm asking. That's the whole difference and I'm not going to have time to explain it. Put your hand on it. Whatever you feel there is yours, and nobody is going to say the next word, and if it's yours then you say it, and if you don't want it you take your hand off and let it go and that's allowed."
 
-Gus Haldane said, "MATE, THE —"
+Tam stood on the load side of a live pallet with his hands shut around a crate, and behind his eyes a sum was being done that had no numbers in it.
+
+"I'm not giving you a thing," Marek said. "Ask me for something and I'll say no. Ask me for the word and I'll tell you the truth, which is that I am the last person in this city who should be saying it to you. Just put your hand on the crate. That's all. Do that and I'll shut up about it forever."
+
+Tam's left hand came off the crate. It went down flat, palm down, onto the top edge of the top box, and it stayed there, and he looked down at his own hand as though it belonged to somebody in a corridor he had met twice.
+
+Gus Haldane said, "MATE, THE BAND IS—"
 
 "I KNOW."
 
-Tam's fingers spread on the crate edge. He was looking at the corner and the plate, and his jaw was working, and Marek could see him doing the arithmetic — not a boy's arithmetic, not the number of inches; a different kind, the kind you do when you have been the person in the room two hundred times and you know exactly what is coming next in a piece of work you have never once seen the end of.
+Tam's fingers spread on the crate edge. He was looking down at the corner and at the plate, and his jaw was working, and Marek could see him doing the arithmetic — not a boy's arithmetic, not the number of inches; a different kind, the kind you do when you have been the person in the room two hundred times and you know exactly what is coming next in a piece of work you have never once seen the end of.
 
 The band went.
 
@@ -102,17 +112,15 @@ The corner took the top of his forearm.
 
 It made a sound Marek would hear on and off for the rest of his life, and it was not a crack. It was a soft wet *give*, the sound of something that has been under tension giving up, and the crate went over onto the concrete with the ice out of it, and the ice went everywhere, and Gus Haldane was on his knees eight feet away, and Tam Arrick came down onto the wet floor on his side with his arm out in front of him and stayed there.
 
-Marek went over the barrier. He did not remember doing it.
-
-He got to him in about four seconds and knelt and put his hand over Tam's forearm where it was under the crate's edge, and what he felt through his fingers was a man who was awake and terrified and completely in possession of his own mind, which was worse, and Tam said "m'fine, m'fine, don't — don't lift it," and Marek said, "I'm not lifting it, I'm not, tell me if it hurts—" and Tam said, "It's my hand, I can feel my hand, it's still — it's still *there*," which meant the nerves were fine, which meant it was worse, which meant Marek could feel the exact shape of the thing through the skin and could do nothing whatever with it.
+He was across the barrier and down the ramp before he knew he had moved, and he knelt and put his hand over Tam's forearm where it was under the crate's edge, and what he felt through his fingers was a man who was awake and terrified and completely in possession of his own mind, which was worse, and Tam said "m'fine, m'fine, don't — don't lift it," and Marek said, "I'm not lifting it, I'm not, tell me if it hurts—" and Tam said, "It's my hand, I can feel my hand, it's still — it's still *there*," which meant the nerves were fine, which meant it was worse, which meant Marek could feel the exact shape of the thing through the skin and could do nothing whatever with it.
 
 The ice was melting into the water. Somebody's van door was open somewhere up the ramp. Somebody had shouted for an ambulance and somebody had not shouted for an ambulance.
 
-And in the middle of it, on his knees in the meltwater on a public dock with his hand on a stranger's ruined forearm, Marek Senn heard his own voice, an hour and a half earlier, coming back up the street.
+And in the middle of it, on his knees in the meltwater on a public dock with his hand on a classmate's ruined forearm, Marek Senn heard his own voice, about ninety seconds earlier, coming back up the street.
 
 *Scope.*
 
-He had said it. He had said it in Davan Rusk's rhythm, from the outside, at forty feet, in a place where a word has no business going because there is no institution behind it and no record of it and no board and no script and no reason at all except that he had a boy's body open in front of him and the word was right there.
+He had said it. He had said it in Davan Rusk's rhythm, from the outside, at fifty feet, in a place where a word has no business going because there is no institution behind it and no record of it and no board and no script and no reason at all except that he had a boy's body open in front of him and the word was right there.
 
 He had done the exact thing. He had been the kit. For a second and a half on a wet dock, with nobody watching but a man on his knees in a fish crate, Marek Senn had been the key-holder.
 
@@ -152,7 +160,7 @@ The girl from the market's cold store stood over him with a bar in her hand and 
 
 He got himself down onto the wet road, and he sat there on the kerb by the barrier with his gloves under his jacket and his hands shaking, and he did the sum, because he was the kind of man who does the sum.
 
-The kit had taken two seconds out of a boy. The department had signed off four of them in ninety minutes. And a twenty-two-year-old repairer on a public street, with no training, no certification, no record, and no idea what he was doing, had taken four seconds and made it into a fifth voice, permanently, in a body that was twenty years old, and had done it out of the best possible motive, and would have been praised for it by anybody in that building.
+The kit had taken two seconds out of a boy. The department had signed off four of them in forty-five minutes, on a form, with a man's name in the box. And a twenty-two-year-old repairer on a public street, with no training, no certification, no record, and no idea what he was doing, had taken one word and made it into a fifth voice, permanently, in a body that was twenty years old, and had done it out of the best possible motive, and would have been praised for it by anybody in that building.
 
 He had been the thing. That was the sentence. He had been the thing, and there was no procedure anywhere in Nacre for undoing it, and the man it had come from was forty-seven years old and had a laminated card and twenty-two years and had never once in his life had to wonder whether he was the problem.
 

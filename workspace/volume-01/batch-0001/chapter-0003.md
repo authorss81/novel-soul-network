@@ -20,7 +20,7 @@ He did not have time to be asked properly and he did not take it. He put that in
 
 Rafi said, "Yeah — yeah, doing it," and put both hands into the webbing at the yellow tape, and Marek felt the practice of the room tilt.
 
----
+* * *
 
 > Two practices agree. One beat is not answered.
 > Do you offer the next step?
@@ -91,7 +91,7 @@ Marek had seen four people hesitate in that room. Rusk, at the wall, four second
 
 Marek sat in a plastic chair by the door with his right arm across his knees and his head on the wall and did the arithmetic he could not stop doing.
 
-Tam's shoulder was a bruise and a bad week. In a fortnight, in a month, with heat and a strip of mineral fiber and no new bad nights, that boy would take a load again and take it better. The arm would be the arm. The plate was sound; he had checked it. The return contact was clean; he had dressed the same batch's contact at two in the morning forty hours ago with his own hands and it had gone green nine times out of nine.
+Tam's shoulder was a bruise and a bad week. In a fortnight, in a month, with heat and a strip of mineral fiber and no new bad nights, that boy would take a load again and take it better. The arm would be the arm. The plate was sound; he had checked it. The return contact was clean; he had dressed the same batch's contact at two in the morning on Tuesday, fifty-seven hours ago, with his own hands, and it had gone green nine times out of nine.
 
 Nothing was broken. Nothing needed a brace, and the brace had worked, and they were all going to write it up as a near miss with a favorable note for the department.
 
@@ -121,7 +121,7 @@ In the name box on line four, in the same square capitals, he had written one wo
 
 *Senn.*
 
-Marek read it four times. The letters did not move.
+Marek read it until the letters stopped meaning anything. They did not move.
 
 Below it, in the narrative box, Tam had written thirteen words in a flat careful hand, the way you write a note on somebody's parcel:
 
