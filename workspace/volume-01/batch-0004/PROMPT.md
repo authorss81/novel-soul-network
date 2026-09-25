@@ -1,0 +1,81 @@
+# Batch 0004 — Volume 01, Chapters 31–40 ("The Lower Wards and the Second Dependence")
+
+Write **Chapters 31 through 40** as complete finished scenes. This is Volume 01, Movement IV, and it ends on the **Chapter 40 assessment date, five days out**.
+
+## Read first
+
+- `AGENTS.md`, `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`
+- `outline/volume-01.md` (read the whole file, especially Movement IV, the volume climax, and the canon guardrails)
+- `workspace/volume-01/batch-0001/SUMMARY.md`, `batch-0002/SUMMARY.md`, and `batch-0003/SUMMARY.md`
+- `state/current.md`, `state/continuity.md` (**all three verified timelines**, plus the two new canon sections added by Batch 0003: *Verified in-world timeline of Chapters 21–30* and *Canon now fixed in Chapter prose (Chapters 21–30)*), `state/character-state.md`, `state/open-threads.md`, `state/chapter-summaries.md`
+- `bible/power-system.md`, `bible/terminology.md`
+- The chapters themselves: `workspace/volume-01/batch-0003/chapter-0027.md` through `chapter-0030.md`. Read all four. They carry the depot, the midpoint, the offer, the public refusal, the noticeboard, and the style of refusal this batch depends on.
+
+**For any date you need:** the three verified timelines in `state/continuity.md`. **Chapter 30 ends on the Tuesday of week 12, late evening.** Movement IV runs the rest of week 12 into week 13. Weeks run Monday to Sunday. **The Exchange monthly meeting is on the first Wednesday, which is the Wednesday of week 12 — one day after Chapter 30.** Tam's registrar's weight date is **the last Friday in week 12**. Chapter 40 is the Institute setting the witnessed assessment for **five days later**. Before assigning any date, read the timelines and derive the day yourself. **Do not invent month-dates: the only fixed calendar date in this volume is that the twenty-eighth is a Wednesday of week 10, and a single month cannot be reconciled across the three timelines.**
+
+## Where the story is
+
+Tuesday of week 12, late evening. Marek has no license, no technique, no standing and no date. The term panel sat on the Friday of week 11 and adjourned with no matter before it; the next sitting is at the end of term. The demonstration requirement is the only route and there is nothing behind it. He has proved the omission was designed, on four sentences in his own handwriting, and there is nobody in the city it can be given to. A service bulletin number is on a noticeboard in the Saltmarket Exchange and strangers are coming to it. Oren Vey's card is in his coat, unrefused and unaccepted. Nell has not spoken to him since the Wednesday of week 10.
+
+## Open threads this batch must pick up
+
+- **The Exchange monthly meeting on the Wednesday of week 12.** Trestle tables, a noticeboard a month out of date, no vote for anybody, four minutes for anybody who says *this is important* and then silence. This is the one door Marek does not control, and it is the natural front door for the movement.
+- **The neighbourhood mesh in the Lower Wards with the same gap**, carried by people no school supplied, in flood-season work with no licensed cover. **Aurel Kosta's yard card** is already on file: a blue card on a wall, a horn in a control post, thirty-one years, forty men, one shoulder, no form.
+- **Relationship milestone 3, Chapters 33–35.** Marek and Talia agree a **narrow share for a rescue** — a small, explicit boundary — and learn that it is more trustworthy than either of their large promises. **Intimacy advances one notch through professional competence and inconvenience, and not through a confession.**
+- **The second dependence, Chapters 37–39.** An independent crew member begins finishing on **Marek's timing**. He has to hand the work away deliberately, to people he does not manage, and accept that he is becoming a key-holder by reputation. **This is the volume's version of Chapter 8 and it must not be resolved.**
+- **Hollis Pratt's formal review**, and the Continuity Office's recommendation on the four-site local quarantine — **which each site may refuse, and at least one of them does.**
+- **Oren Vey's card**, unrefused, and the one-month trial he offered. He has said he will be back about SC-4, and he is right that there has to be something in its place and there is not one.
+- **Asha Reed** appears for the first time, a first-year organizer who wants the case taught in public and is right that it should be.
+- **The fifty unaccounted household plates**, the forty that came back, the woman at the laundrette under his own bedroom, and the form that is the only instrument anybody has.
+- **Petar Vance's chain of custody**, which he named on the telephone and Marek chose not to take off the wall.
+- **Nell**, who has still not spoken to him, and who must not be forgiven cheaply or turned into a node.
+- **Tam's last Friday in the term** — the registrar's weight date, at the end of week 12 — and the middle finger that has not moved.
+
+## What this batch must do
+
+Movement IV turns a documented case into a place, and it hands the work away. It must contain, in order: the Wednesday meeting at the Exchange; the Lower Wards mesh and the crews whose poor records are used to condemn them; the flood-season work that makes the omission dangerous where there is no licensed cover; **the narrow share with Talia for a rescue, and its cost**; the second dependence and the deliberate handover; Hollis Pratt's formal review and the quarantine recommendation that one site refuses; Asha Reed and the argument for teaching it in public; and **Chapter 40: the Institute sets the witnessed assessment for five days later, the Office will review the four holds and recommend lifting them, each site may refuse, and there is a public room, five days, no license and no technique.**
+
+By the end of Chapter 40 the reader must be able to say: the case has a room and a date and no way to get to the room, the man who was going to be the one who speaks in it has begun to make himself a key-holder by reputation and has to stop, and the four sites are being offered a recommendation they are entitled to refuse.
+
+## Hard rules for this batch
+
+- **Do not name the Crown Clause.** Do not let anyone identify the Marrow Falls signature's authorship. **Sera Quill must not say the name on the log aloud.** She has now refused twice, in the same tone, and said nothing new; she has nothing further. If she is used she withholds, goes cold, or leaves the room. She may not explain.
+- **TRC-419-88 is spent.** The deliberateness of the omission was proved once, in Chapter 25, on documents. **Movement IV must not re-prove it, must not re-run a revision history, and must not find an approval page.** What is left is the *scale* problem: the same shape in places no school supplied, and a function nobody here can reach. The blank licensor field remains unanswered through Chapter 50.
+- **Threadline is the assembler and the seller, not the author.** Oren Vey has never seen a page of the design record and is not the chooser. He is the most likeable person in the case and he is owed a reply. **Do not defeat him and do not let him be the final enemy.**
+- **Marek holds no Working Share until Chapter 49.** Every share in this batch runs on a named purpose, a named scope, a person who could stop it, and a written record with a review or destruction date. **The narrow share with Talia in Chapters 33–35 is the only new share the batch is allowed, and it is for a rescue.**
+- **Movement IV needs no System panel at all.** The interface has spoken three times in twenty chapters and has never once helped. If one appears it appears once, it does not conclude, and it does not tell him where to look.
+- **No reset.** Tam's arm, the two tendons, the six weeks before weight, the three months before anything heavy, the middle finger, the lost kitchen wages, the two voices, the transcript line and the strap envelope in the parts cage all persist. **The registrar's weight date falls at the end of week 12 and is the only thing that changes in this batch, and it changes into a hand that can take a load and not into a technique.** His own figure for the finger — "6 weeks" — is his and is not anchored to the operation; do not recompute it. He breaks his own rules on the page and writes them down when he does.
+- **Rafi is not forgiven and is not a yes.** He counts to two out loud, visibly, before he answers anything, in public, and he has already done it in front of forty people. **He does not have a fourth beat at all, and that is the good news of the term.** The word *variant*, written about him in an open load book on a kitchen table, is not forgiven in this batch. His dependence and recovery belong to Volume 02.
+- **Marek must not become good at something he has not practiced.** He repairs beautifully and cannot perform a release, and in Chapter 22 his own mouth got to the word before he did, in a stairwell, alone. **His written rules: stop arranging; do not chase; ask one person one thing at a time and take the answer; stop believing that being right is the same as being believed; and Rule Five, being right is not the same as being safe.** This batch is where Rule Five is tested, and where keeping any of them should cost him something he wants.
+- **Talia is not a reward, a deputy or a romantic payoff.** She has refused him six times, has not softened, has told him not to bring her the next thing, and has given him the Exchange as *information*. **Milestone 3 is a small explicit boundary and a rescue, and it is not a reconciliation and not a rescue from loneliness.** Do not reopen the Chapter 7 scope, which is closed.
+- **Nell is an ordinary sixteen-year-old.** Sixteen days of silence and counting. She is not a node, an inheritance, a hidden asset, or a device. **Do not let it resolve in this batch**, and do not let her be written about.
+- **Oren Vey is not the final enemy and does not become one.**
+- **No new final enemy and no new canon rule.** The Lower Wards crews are ordinary people with bad records, not a conspiracy and not a cover for anything.
+
+## Beat sheet (follow the shape; the prose is yours)
+
+- **31.** The Wednesday of week 12, ten in the morning. The monthly meeting at the Exchange: a room of ordinary people with a fish to sell. Marek stands up and gets four minutes and is then ignored, and what happens next is the most useful thing that has happened to him in a term, and it is not what he planned. Asha Reed arrives and wants the case taught in public and is right, and is unbothered by being young, and does not defer.
+- **32.** The Lower Wards. The neighbourhood mesh with the same gap, an informal crew keeping poor records, and the first appearance of a man whose records are about to be used to condemn him. The flood-season work is named and dated and there is no licensed cover. **Marek's first visit is refused at the door, and the refusal is right.**
+- **33–35.** **Relationship milestone 3, the narrow share.** A rescue. Talia writes the scope herself, in ninety seconds, and it is smaller than anything Marek has ever proposed, and it is the only one of the case that is worth anything. It works, it closes, and it costs them both something specific. **Intimacy advances through professional competence and inconvenience.** The mesh and the flood work are the setting, not a backdrop.
+- **36.** Asha Reed and the public-teaching argument, and the argument against it, and the second dependence begins: somebody in the Lower Wards starts finishing on Marek's timing, and it is not a hinge and it is worse.
+- **37–39.** **The second dependence, named and un-resolved.** Marek recognises what is happening in himself — a key-holder by reputation, arrived at without a certificate — and he **hands the work away deliberately, to people he does not manage, who will do it differently than he would**, and it does not work, and he has to live in the version where it does not work. **Nobody is cured. Nobody is forgiven. The dependence stays.**
+- **40.** **Mini-climax.** Hollis Pratt's formal review; the Continuity Office records its recommendation on the four-site local quarantine and **one site refuses it and keeps its hold on its own authority**; and Deputy Roos sets the witnessed assessment for **five days later**, in a public room, with the demonstration requirement unchanged, no license, no technique, and a boy whose hand comes off a strap at the end of the term and who cannot put weight through it until the Friday of week 12. The whole of the volume has been preparation for one witnessed drill.
+
+## Ending pull for the batch
+
+There is a room and a date and no way into the room, the man who was going to be the one who speaks in it is handing work to people he does not manage and learning that it does not work, and the four sites are being told they can have their stock back and one of them is not going to take it.
+
+## After the batch
+
+Update `state/current.md`, `state/continuity.md`, `state/character-state.md`, `state/open-threads.md`, `state/chapter-summaries.md`, and write `SUMMARY.md` in this batch directory. Then inspect `outline/volume-01.md`: Chapters 41–50 remain (Movement V, The Witnessed Drill — preparation 41–43, the drill and the board's decision 44–48, the resolution 49–50), so create **exactly one** next batch directory with a detailed prompt for Chapters 41–50. Do not create any other phase. Do not edit `state/phase-ledger.json`, `scripts/`, `.github/`, `.opencode/agent/`, or any of the controller files listed in `AGENTS.md`.
+
+## Notes for the next writer
+
+- **The load book is the spine.** Four headings, first person, a *Do not know* section, exact dates. Chapters 25 and 28 ended on a full page and 26 and 29 did not. Vary it, and do not let it become a chapter-ending tic.
+- **Marek's recognition from Chapter 20 has hardened and must not be softened or resolved:** he is the word in the room, and in Chapter 29 he added that a room with him in it is a room where the man in it is the thing being said, and that the only correct seat for him is the back wall. The back wall is the most expensive seat in the building.
+- **The word "scope" is the hinge and the word is still a thing people say**, not a word Marek ever finishes a beat with. Chapters 24 and 29 put it in other mouths on purpose; do not put it in his.
+- **Every refusal in this batch should cost the refuser something.** That is the method Talia named on the telephone in week 9 and it has held for thirty chapters.
+- **Sera has nothing further.** If she appears, she withholds.
+- **A scene break is `---`. A panel is `* * *`.** Movement IV needs no panel at all.
+- **Do not let the Institute's manual get updated.** It is still 3-08. Rusk still requisitioned the reprint himself in March. Nothing in this volume repairs the paperwork and nothing should.
+- **The four sites are the Institute (Anneke Roos), the Cordage (Bo Halloran), the Ninth Street rooms (Ines Sarr) and Talia's clinic.** Each hold is local, reversible, has a named responsible person, and carries no finding of variance. Each may refuse the Office's recommendation. **At least one of them does, in Chapter 40, and it is not the one with the worst reason.**
