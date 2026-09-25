@@ -157,8 +157,8 @@ At half past eleven that night he ruled a clean page in the load book and gave i
 
 **WHAT IS NOT EVIDENCE — the six from week 9, and one new one, and the new one is the same shape as the old ones.**
 
-*6–12. T. V.'s brace. The hip variant. M. F. R. P.'s step. O. F. Three people who agree. A boy of twenty-two at a market who turned his head at the fourth place. Four noes in a market on a Monday. All of it stands. None of it is a source and none of it is going to be one, and the week I stop writing the same six lines is the week I have started arranging.*
-*12. NEW, and it is exactly the shape of the week 9 six: four noes in a market, and R. B. giving his name out loud to a stranger, and D. K. saying *there is no machine in this city that can hear it*, and I. S. saying *I would use it on the first hard afternoon*. All of it true. None of it mine. The room was not built out of anybody who is fond of me and I said nothing in it for seventy minutes and the only reason I said nothing is that the room was already full.*
+*6–12. T. V.'s brace. The hip variant. M. F. R. P.'s step. O. F. Three people who agree. A boy of twenty-two at a market who turned his head at the fourth place. Five noes in a market on a Monday, and a boy who said stop. All of it stands. None of it is a source and none of it is going to be one, and the week I stop writing the same six lines is the week I have started arranging.*
+*12. NEW, and it is exactly the shape of the week 9 six: five noes in a market, and R. B. giving his name out loud to a stranger, and D. K. saying *there is no machine in this city that can hear it*, and I. S. saying *I would use it on the first hard afternoon*. All of it true. None of it mine. The room was not built out of anybody who is fond of me and I said nothing in it for seventy minutes and the only reason I said nothing is that the room was already full.*
 
 **WHAT I DO NOT KNOW — three things.**
 

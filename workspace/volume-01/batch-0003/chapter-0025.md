@@ -42,7 +42,13 @@ The Saltmarket Exchange on the Wednesday morning of week 11 had a hundred and fo
 
 "It was seven–two and then eleven–one," said Ekow. "Eight to three, and the three noes are in the minutes, and the three noes are Sarr, Ines, who said that if we publish a distributor's design reference the first thing that happens is a telephone call to her, and Beattie, Yusuf, who said the same thing about his daughter, and he is right, and I voted with him, and I would vote with him again. And Marda, who has been a member for eleven years, voted the other way, and said something in the meeting that I am not going to repeat to you because she said it to the room and not to you."
 
-"She said it to the room," Marda said. "And I am going to tell you the part that is not the meeting, because you will otherwise think you did it. You did not do it. On the Wednesday you asked a question on a safety ground and put your name in a book in front of nine people, and that request has been sitting in that book for a week with a safety ground on it, and it is the first request we have had in two years that somebody could be held responsible for if we print something and get it wrong. That is what the vote was about. Not the merit. The liability." She sat down. "And now I am going to teach you to read a document, and I am going to do it badly on purpose, because the Choir's sheets are in plain language and plain language is exactly what people are worst at."
+"She said it to the room," Marda said. "And I am going to tell you the part that is not the meeting, because you will otherwise think you did it. You did not do it. On the Wednesday you asked a question on a safety ground and put your name in a book in front of nine people, and that request has been sitting in that book for a week with a safety ground on it, and it is the first request we have had in two years that somebody could be held responsible for if we print something and get it wrong. That is what the vote was about. Not the merit. The liability." She sat down.
+
+"And I am going to say the other thing now, in front of these nine, because you asked me a question on the Wednesday and I said no, and because you did not ask me again, and because a thing that is only true in private is not a rule." She put her hand flat on the trestle. "That paper is out of the box. It came in from a member, in a brown envelope, with one line on the envelope, and it has been in that box for two years, and the last time a document came out of that box on somebody's request the person who brought it in was named in a newspaper and she is still a member and she still comes to market day and she does not speak to nine of us. I told you on the Wednesday that it does not come out on a request, from anybody, for any reason, including you. I have not changed my mind. I have been outvoted, eight to three, and the three are in the minutes and one of the three is me. The member who brought it in was told on the Saturday, at her own table, by me, and she has not withdrawn it. She asked me one question about it and I am not going to repeat the question."
+
+"Who asked you what question," said Marek Senn.
+
+"You did," said Marda Szabo. "You did not ask it out loud. That is the whole of your manners and it has been the whole of your manners for three weeks and I have never once minded it. Now sit down, because I am going to teach you to read a document, and I am going to do it badly on purpose, because the Choir's sheets are in plain language and plain language is exactly what people are worst at."
 
 She put her finger on the A3.
 
@@ -60,11 +66,13 @@ Marek Senn read it twice, standing up, at a trestle table in a former ferry wait
 
 *Boundary, as first written, 2016, in the group's own file and printed here in full because it is eight years old and it is in the building: the fourth beat is the practitioner's, and a class that cannot make the fourth beat has been taught wrongly, not taught safely.*
 
+*Boundary, as it stands at 4-19, taken from the instructor script for the same sequence — eleven pages, no name on the title page, no date, no initials anywhere in it, and one copy given to this co-operative by a member who has never once performed anything from it and never will — and printed here in the four lines that carry the change. Four beat (scope). The learner does not perform this beat. The learner takes the scope. The instructor confirms the scope aloud. The learner releases on the instructor's confirmation. That is the whole of the amendment, and it is the entire of what was changed, and it was changed on a day, in a room, by a group, and it reached a hundred and eleven students in a book with a bend in the spine and no name on the page.*
+
 *Revisions: 3-08. 3-11. 4-02. 4-19.*
 
 *Source for 3-08, 3-11 and 4-02: in-house, methods group. Held.*
 
-*Source for 4-19: design approval record, ref. TRC-419-88. Held by this co-operative. Not held by the originating practice, and not held by the distributor, and not held by any body in this district.*
+*Source for 4-19: design approval record, ref. TRC-419-88. Held by this co-operative. Not held by the originating practice, and not held by the distributor, and not held by any body in this district. The script is the same change as the record. The record is the reason for it. Both are printed here in the same column because a co-operative that filed them separately would be a co-operative that let somebody put them back in a box.*
 
 *4-19, raised the eleventh of August, in the week before the term began. Approved the fifteenth of August. The nine crates went out in the first week of term, on a Tuesday, in a queue outside a car park.*
 
@@ -138,7 +146,7 @@ He read the four sentences on the *overleaf* on a bench on the canal side of the
 
 Deputy Registrar Anneke Roos read it in about ninety seconds, standing up, in her own office, with the door shut, on the Wednesday of week 11 at half past two in the afternoon.
 
-"Take a photocopy," she said.
+"Take a photocopy," she said. "Not here. The copy room, and the machine at the end, because the one by the window takes a page off the glass and I have stopped arguing about it."
 
 "That's it?"
 
@@ -152,7 +160,13 @@ Marek Senn stood in front of her desk.
 
 "Thank you."
 
-"Do not thank me, that is the whole of it," said Anneke Roos. "And take the copy back with you. If you leave it here then the only copy in the city is in a filing system in a building that has refused to produce a working file for four years, and I would rather it was in your pocket and in a market."
+"Do not thank me, that is the whole of it," said Anneke Roos. "And take yours back with you. I am keeping one, because a receipt that is not in a press is a rumour, and because the only copy in the city is not going to be in a filing system in a building that has refused to produce a working file for four years. And I would rather it was in your pocket and in a market."
+
+She photocopied both herself while he waited, on the machine at the end of the corridor and not the one by the window, and she wrote the date and her initials in the corner of hers in biro, and she gave him his, and she did not ask to keep the original, because the original was four sentences in a boy's own handwriting in the back of his own book and it was never hers and she said so out loud while she was doing it.
+
+"And the slip," said Marek Senn.
+
+"Is in your hand already," said Anneke Roos. "It is the paper I just gave you with the date typed at the top. Everything else this department has done about it is a line in a book with a number against it, and the number is a number and not a decision, and if anybody in that building ever wants to tell you that the department considered your document, they will have to say the word *considered* out loud, in a room, with me in it."
 
 ---
 
@@ -214,7 +228,7 @@ Marek Senn opened the load book on the table, under the light, at a quarter to t
 
 **WHAT I KNOW — four things, of which four are documents.**
 
-*1. The revision history of the practicum drill sequence runs 3-08, 3-11, 4-02, 4-19, with a date on every one. At 4-19 the fourth beat stops being performed by the practitioner and is performed by the instructor, and the learner's self-initiated release is withdrawn. That is not a difference of opinion about a card. That is a change, on a day, by somebody.*
+*1. The revision history of the practicum drill sequence runs 3-08, 3-11, 4-02, 4-19, with a date on every one. At 4-19 the fourth beat stops being performed by the practitioner and is performed by the instructor, and the learner's self-initiated release is withdrawn. It did not happen on a card. It happened in eleven pages of instructor script with no name on the title page and no date and no initials in it, in four lines, and then somebody signed an approval saying why, and both of those are on the same sheet because a co-operative that filed them separately would be a co-operative that let somebody put them back in a box. That is not a difference of opinion about a card. That is a change, on a day, by somebody.*
 *2. There is a design approval record for 4-19. Ref TRC-419-88. Raised the eleventh of August before the term began, approved the fifteenth, and the nine crates went out in the first week of term. It carries a reason, and the reason is three paragraphs long, and it is a good reason. Read it before you read anything else on this page, because you will not believe the rest of it until you have read it and noticed that you agree with it.*
 *3. The Institute's own methods group wrote, in 2016, in its own file, that the fourth beat is the practitioner's, and that a class which cannot make it has been taught wrongly, not taught safely. That is on the same sheet. That is a document from the building, by the building, eight years before the crates, and it is in the same room as a store room and a cage and a hundred and eleven students, Nobody in that building has ever put the two documents next to each other and I have been in it for ten weeks and I could not have found either one without a woman in a cardigan.*
 *4. The design record says the card is not to be issued to community or household distribution in a revision that omits the practitioner beat, and 4-19 is that revision, and it was approved the fifteenth of August, and about ninety households were issued with it in the third week of September, four weeks later, on a form with a box for *supervised by* that had a dash in it.*

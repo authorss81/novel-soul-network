@@ -48,7 +48,7 @@ He waited until the end, and then he said it to Ines Sarr in the corridor, quiet
 
 "Why."
 
-"Because I've said it in four rooms in nine weeks and in every single one of them it turned the room into a room I was in," said Marek. "And because she's twenty-nine and she asked about her shoulder in a class and I would have been the man who came to her class with a case."
+"Because I've said it in four rooms in nine weeks and in every single one of them it turned the room into a room I was in," said Marek. "And because she's thirty-one and she asked about her shoulder in a class and I would have been the man who came to her class with a case."
 
 Ines Sarr leaned on the wall with her arms folded.
 
@@ -166,7 +166,7 @@ He tried it eleven times. He got the same nothing eleven times, and then he did 
 
 ---
 
-The Exchange back yard on the Tuesday morning of week 11 at twenty to seven was cold, and the fish was coming in off a truck, and Peta had the hand truck out, and Dessa Kwan had the back door propped with a crate, and there were four people in the yard and one of them was a man of sixty-one with a knife and a bit of cardboard and no stool that day because there had not been time.
+The Exchange back yard on the Tuesday morning of week 11 at about ten past six was cold, and the fish was coming in off a truck, and Peta had the hand truck out, and Dessa Kwan had the back door propped with a crate, and there were four people in the yard and one of them was a man of sixty-one with a knife and a bit of cardboard and no stool that day because there had not been time.
 
 Mal Farrow had not been asked to be the observer. He had asked to be the observer, on the Friday, in the way that people ask for things they have already decided to do: *he asked me and not before, so you can tell him I've said yes, and don't make it a thing.*
 
@@ -186,7 +186,7 @@ He put the stool down against the wall on the side of the bar that Tam could not
 
 "Agreed," said Marek Senn.
 
-He went and stood against the door. He was nine feet away and he was the only person in the yard who was doing nothing, and by half past past six in the morning every body in that yard knew where he was.
+He went and stood against the door. He was nine feet away and he was the only person in the yard who was doing nothing, and by half past six in the morning every body in that yard knew where he was.
 
 ---
 
@@ -194,7 +194,7 @@ Peta put a box of roe on the bar. It was about nine kilos and it was the same bo
 
 Tam Arrick stood in front of it with his right arm out of the splint for the first time in a bit over four weeks, and his hand open, and his face doing something that Marek Senn could see over nine feet and could not have described to anybody.
 
-He read the sheet to himself in his own handwriting, standing up, in the cold, at six thirty in the morning in the back yard of a kitchen.
+He read the sheet to himself in his own handwriting, standing up, in the cold, at half past six in the morning in the back yard of a kitchen.
 
 **T. ARRICK — Exchange back yard — Tues, wk 11, 06:35**
 *What this is for: one attempt, one time, at the bar, with a nine-kilo box, my right hand flat on the top edge and not taking the weight, to find out whether the thing I did in this yard in week nine still happens now the strap is off. If it does not, we do not do it again for four days.*
@@ -247,7 +247,7 @@ He stood up.
 
 Marek Senn wrote the whole thing up on the back of a form at the Spine at one in the afternoon, at a bench, with the strap envelope in the parts cage under a note with his name on it.
 
-*Week 11, Tuesday, 06:52, Exchange back yard, on the facts supplied by M. F., in his words, which is the only account of this in the world, and I have not been asked to write mine and I am not going to put mine first.*
+*Week 11, Tuesday, 06:35, Exchange back yard, on the facts supplied by M. F., in his words, which is the only account of this in the world, and I have not been asked to write mine and I am not going to put mine first.*
 
 *Witnessed. Out loud, in a yard, by a man of sixty-one with no stake, no card, no teacher, no reason to want the result, and a stool he brought himself and put where the boy could not see it.*
 
@@ -262,10 +262,10 @@ Marek Senn wrote the whole thing up on the back of a form at the Spine at one in
 *Eight seconds longer than the eleven in week 9, and the difference is entirely the strap, and the strap was off for one reason, which is that it was time, and not that anybody found anything out.*
 
 *What it does not do, and I am writing this down on the day, in the same pen, before I have had a night to be pleased with myself:*
-*It does not meet the requirement. The requirement is a public room, witnesses, a named practitioner, no substituted cue used or followed or accepted inside a scored window, and this is a back yard at ten to seven in the morning with one man, one boy, one box and a stool put against a wall, and the named practitioner in that sentence is not me and never has been and is not going to be for a very long time, and on a Tuesday morning in a yard there is no room and no panel and no window. It also would not have been worth anything if it had been in a room, because a thing four people have said no to in a market is not a demonstration, and four of them said no to it in a market, and I was one of the walls.*
+*It does not meet the requirement. The requirement is a public room, witnesses, a named practitioner, no substituted cue used or followed or accepted inside a scored window, and this is a back yard at half past six in the morning with one man, one boy, one box and a stool put against a wall, and the named practitioner in that sentence is not me and never has been and is not going to be for a very long time, and on a Tuesday morning in a yard there is no room and no panel and no window. It also would not have been worth anything if it had been in a room, because a thing four people would say no to in a market is not a demonstration. I know that without asking them. I know all four of them, and every one of them has told me some version of it in a corridor or a kitchen in the last fortnight, and I have not put this to a single one of them and I am not going to, and I was one of the walls before the market had even opened.*
 *So: the thing I have been told by a stranger is the only thing a panel can act on, and I have now seen it once, and I cannot do it, and the boy who can do it is not allowed to put weight through his hand until the last Friday in the term, and on the last Friday in the term he will be six weeks post-op, and I will have a term review behind me and no licence and no date.*
 
 *And the thing that is doing to me, and I have to write it because nobody else is going to:*
-*I can do both voices perfectly. Both. In about half a second. I did them in a queue of eleven people on Saturday and a woman stopped talking and asked me if I was all right. I have got better at them every week since the ninth week and I did not ask to and I cannot stop doing it and it is the only thing in this term that has got better in me, and it is the exact opposite of the thing I went looking for, and I have written it on the grid on the Sunday night and I am writing it here so that there are two places in the world where it is written down and I cannot pretend on Friday that I have not known it since Tuesday.*
+*T. A. can do my voice. He gave it to me on purpose on the Friday of week nine, eleven minutes across Nine Bridges in the cold, so that I would be the only person in this city who knew, and I have earned one single thing about it since and I am not going to. It is his. What has got better is me: I can get into both of them, in about half a second, twice, in an empty room, and it has got better every week since the ninth week and I did not ask to and I cannot stop, and it is the only thing in this term that has got better in me, and it is the exact opposite of the thing I went looking for, and I have written it on the grid on the Sunday night and I am writing it here so that there are two places in the world where it is written down and I cannot pretend on Friday that I have not known it since Tuesday.*
 
-*Do not know: whether nineteen seconds at 06:52 on a Tuesday is a practice, a habit, a fluke, or a thing his hand has done for twenty years and nobody has ever once asked him about. Do not know whether it survives a bad week, a bad month, or the sound of somebody in a coat who has never been taught the card. Do not know what it is for, because it is not for anything, and that is the first thing in this whole term that has been true of anything.*
+*Do not know: whether nineteen seconds at 06:35 on a Tuesday is a practice, a habit, a fluke, or a thing his hand has done for twenty years and nobody has ever once asked him about. Do not know whether it survives a bad week, a bad month, or the sound of somebody in a coat who has never been taught the card. Do not know what it is for, because it is not for anything, and that is the first thing in this whole term that has been true of anything.*

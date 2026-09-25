@@ -174,7 +174,7 @@ Oren Vey stood behind his trestle table for about four seconds and then he did t
 
 He put both hands flat on the table and he said:
 
-"Right. And I want to say the last bit myself, because I have earned it today, and because four people have just refused me and not one of them was rude and one of them read out a consent in front of forty people and then stopped."
+"Right. And I want to say the last bit myself, because I have earned it today, and because five people have just refused me and not one of them was rude, and because a boy of twenty read out a consent in front of forty people and then stopped, and I want both of those things said out loud by me and not by him."
 
 He looked around the room.
 
@@ -190,7 +190,7 @@ He closed the case.
 
 Nobody wrote it down.
 
-"I am not defeated," said Oren Vey, "and I want to be clear that I am not going to go off and be gracious about this in a corridor. I have been wrong this morning in a way that I did not expect and I am going to go and think about it and I am going to be back, because there has to be something in its place, and there is not one, and I have watched four people try."
+"I am not defeated," said Oren Vey, "and I want to be clear that I am not going to go off and be gracious about this in a corridor. I have been wrong this morning in a way that I did not expect and I am going to go and think about it and I am going to be back, because there has to be something in its place, and there is not one, and I have watched five people try."
 
 He said the last part looking directly at Marek Senn, across a room, from nine feet, and it was not an accusation, and it was not quite an appeal, and Marek Senn did not nod.
 
@@ -200,7 +200,7 @@ They came out into the market at about twenty past eleven, and Farrow was the fi
 
 Marek Senn came out last, and Nell Senn was standing in the doorway of the Exchange with a folded sheet of paper in her hand and Yvette Fenn eleven feet away by a trestle table looking at a noticeboard a month out of date.
 
-He said her name, sixteen days after the last time she had said his.
+He said her name, twelve days after the last time she had said his.
 
 She did not look at him. She looked at Oren Vey, two feet to her left, who did not know her, and she said to him, in a perfectly ordinary voice, "What's the number for the ferry timetable."
 
@@ -208,7 +208,7 @@ She did not look at him. She looked at Oren Vey, two feet to her left, who did n
 
 "Right." Nell Senn looked at the noticeboard again. "There's a bus."
 
-And she walked out into the market with Yvette Fenn, and Marek Senn stood in a doorway for a moment and did not follow her, which was correct, and which was the sixteenth day.
+And she walked out into the market with Yvette Fenn, and Marek Senn stood in a doorway for a moment and did not follow her, which was correct, and which was the twelfth day.
 
 ---
 
@@ -217,7 +217,7 @@ He wrote it up at the bench at the Spine at twenty past one in the afternoon of 
 *Week 12, Monday, 13:20, Spine 7 mess room. I am writing this in the wrong room because I was told to.*
 
 *Forty people in a market back room. A cuff. A tone. A man in a polo shirt and a procedure and an assistant who has a name on a certificate.*
-*Four noes and a stop. I did not say a word. I was asked to be outside the room for the asking and I was outside the room for the asking and I was nine feet from the boy and in the room for the rest of it, and I did not say one word for an hour and ten minutes, and I want that in a book as a fact and not as a virtue, because the reason I did not say a word is that the room was full of people who had come for their own reasons and I could not think of a single sentence that would not have made it about me, and if I had said it then I would have been doing the thing.*
+*Five noes and a stop. I did not say a word. I was asked to be outside the room for the asking and I was outside the room for the asking and I was nine feet from the boy and in the room for the rest of it, and I did not say one word for an hour and ten minutes, and I want that in a book as a fact and not as a virtue, because the reason I did not say a word is that the room was full of people who had come for their own reasons and I could not think of a single sentence that would not have made it about me, and if I had said it then I would have been doing the thing.*
 
 *What the five said, in their own words, and I am not summarising, because this is the first week in ten that I have had material that is not mine:*
 *— D. K., 27, who runs the kitchen at the back of this building and has been handing a hot pass off to somebody else eleven times a service since the Thursday of week six: that thing tells the cook the load has settled. I need to know about the man at table four. There is no machine in this city that can hear that.*
@@ -232,8 +232,8 @@ He wrote it up at the bench at the Spine at twenty past one in the afternoon of 
 
 *And: R. gave his name. He said it in a room and I heard it and I did not ask for it, and I want to write that down exactly: on the Tuesday of week 10 in a fish office yard I chose not to buy a name and I wrote the price of it in this book as one number, and the price was wrong, and the price was not that the case went nowhere. The price was that I have spent nine days walking round a city as the man who gets things out of people by showing up, and the actual price was that a boy of twenty-two had to walk into a room on a Monday morning and say it himself, to a stranger, with a case he had never been asked about, and he did it, and it took him four seconds, and it cost him nothing, and it is mine that I made it a decision about.*
 
-*Nine days. She has not spoken to me for nine days and I said her name in a doorway and she asked a stranger what the number for the ferry timetable was, and the ferry stopped in 2019, and I do not think that was a coincidence either, and I am not going to be allowed to ask her.*
+*Twelve days. She has not spoken to me for twelve days and I said her name in a doorway and she asked a stranger what the number for the ferry timetable was, and the ferry stopped in 2019, and I do not think that was a coincidence either, and I am not going to be allowed to ask her.*
 
 *Do not know: what the five of them would put in its place. Nobody in that room could answer him. I have been eleven weeks asking a version of that question and I could not have answered it either, and that is the first honest thing I can say about myself in a term.*
 *Do not know: whether I am going to accept the job. I have had the card for four days and I have not refused it, and I have not been asked to, and it is in my coat.*
-*Do not know, and I am writing it because I am going to be tempted not to: whether four noes and a stop, in one room, on one Monday, is worth anything at all on a Friday, and the answer is that I do not know, and that I have got four sentences in my own hand that are worth more than the room, and that the room is the first thing in eleven weeks that was not built out of people who are fond of me.*
+*Do not know, and I am writing it because I am going to be tempted not to: whether five noes and a stop, in one room, on one Monday, is worth anything at all on a Friday, and the answer is that I do not know, and that I have got four sentences in my own hand that are worth more than the room, and that the room is the first thing in eleven weeks that was not built out of people who are fond of me.*

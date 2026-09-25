@@ -12,7 +12,7 @@ Ekow Nartey wrote it in.
 
 "Go on."
 
-"That sequence will be in the quarterly. It's been in for eleven years, it was entered by a member who taught it in a school district for twenty-two years and retired in the year the co-operative started. What is in the quarterly is a lineage in short form. Origin, revisions, boundaries, refusals — a paragraph each, in plain language, and it is free, and it is on that table, and I will read it to you if you would rather I read it."
+"That sequence will be in the quarterly. It's been in for eight years, it was entered by a member who taught it in a school district for twenty-two years and retired in the year the co-operative started. What is in the quarterly is a lineage in short form. Origin, revisions, boundaries, refusals — a paragraph each, in plain language, and it is free, and it is on that table, and I will read it to you if you would rather I read it."
 
 "Fine."
 
@@ -68,6 +68,8 @@ The market went on behind it. Somebody was shouting about a crate.
 
 "That is the whole of the entry." Ekow turned the book so he could see the corresponding line, which was in the request book and had a second sheet under it. "I will read you the plain-language version off the sheet itself, because that is what it says on the printed page, and I am not going to paraphrase it for you. It says: *This revision arrived in a box. Nobody in this co-operative has ever performed it, and no member has ever practised a technique from it, and it was entered in this book by a member who attended a demonstration and declined to be taught it. We are printing a lineage for a thing that arrived, which we should not do, because a lineage is for things people do. We are printing it because the alternative is that it does not exist in the only record in this city that says the word refusals.*"
 
+"And that is still true," said Marda Szabo, "of every word of it, including *none supplied*. The originating practice has never sent us one line. If you are about to confuse a supplier not giving us a design record with this co-operative not having a piece of paper a member walked in here with, do it on a different day."
+
 Marek put his pen down.
 
 "So there's nothing behind it."
@@ -106,7 +108,7 @@ At the end of it, while Ekow was tearing the strip of paper off the request book
 
 Marek did not look up.
 
-"One. Not mine. It came in from a member, in a shoebox, in a brown envelope, and the member wrote one line on the envelope and the line was *you keep this, it is the only one anybody has ever sent us*, and it has been in the box ever since." She put her sleeves back down. "And it does not come out on a request, from anybody, for any reason, including you, and the reason it does not come out on a request is not a rule. The reason is that the last time a document came out of that box on somebody's request, the person who brought it in was named in a newspaper, and we have one of those already, and she is a member, and she still comes to market day, and she does not speak to nine of us." She waited. "I am telling you it exists because it is Wednesday and there are eleven people at this table and somebody would have said it anyway. I am not telling you what it is, and I am not going to be asked, because if you ask me I have to say no, and then we have both spent a day."
+"One. Not mine. It came in from a member, in a shoebox, in a brown envelope, and the member wrote one line on the envelope and the line was *you keep this, it is the only one anybody has ever sent us*, and it has been in the box ever since." She put her sleeves back down. "And it does not come out on a request, from anybody, for any reason, including you, and the reason it does not come out on a request is not a rule. The reason is that the last time a document came out of that box on somebody's request, the person who brought it in was named in a newspaper, and we have one of those already, and she is a member, and she still comes to market day, and she does not speak to nine of us." She waited. "I am telling you it exists because it is Wednesday and there are eleven of us in this co-operative and nine of us are at this table and somebody would have said it anyway. I am not telling you what it is, and I am not going to be asked, because if you ask me I have to say no, and then we have both spent a day."
 
 He did not ask.
 
@@ -128,9 +130,9 @@ She opened it with her hands wet.
 
 He had prepared three sentences on the bus and they all went.
 
-"Two things. One, I want to talk to Nell. Two, and I'm sorry about the order—"
+"Two things. One, there's a plate on your wall and a form under it and I've read the form. Two, and I'm sorry about the order—"
 
-"About the wrist thing." Yvette Fenn did not move. "Come in, then, both of you, if you're going."
+"About the wrist thing." Yvette Fenn did not move. "Come in, then, if you're going."
 
 The hallway was narrow and there was a school bag on the stairs and a pair of football boots and a plate on the wall with a form on it that was yellowed and had a bend in the top left corner and a box marked 4 in it.
 
@@ -140,7 +142,7 @@ Marek did not look at the form for about four seconds and then looked at it for 
 
 "That's the September form," said Yvette Fenn. "Go on. You're doing the thing where you don't say a sentence. Say a sentence, love, I've got the dinner on."
 
-"The brace in Nell's bedroom is a revision 4-19 wrist unit, and there are four sites in this city holding stock of that revision on a local hold because a plate of that revision has been shown to take a shape when a load is put through it and no release is performed, and I want to take it back, and I have to be straight with you, Mrs Fenn: the hold is on four institutions. It does not cover your hallway. There is no document anywhere in this city that says you cannot have it. I am asking you for it."
+"The plate in a man's hip pocket is a revision 4-19," said Marek. "The one on my sister's wrist is the same thing and it is yours, and she has had it since the third week of September and she wears it six nights a week to do the boxes. There are four sites in this city holding stock of that revision on a local hold, because a plate of that revision has been shown to take a shape when a load is put through it and no release is performed. I want it off her. And I have to be straight with you, Mrs Fenn: the hold is on four institutions. It does not cover your hallway. There is no document anywhere in this city that says she cannot have it. I am asking you for it. And I have come to you for it and not to her, and I should have gone to her first, and that is the order, and I am sorry about it."
 
 Yvette Fenn stood in her own hallway with her hands wet and did not say anything for a while.
 
@@ -148,11 +150,11 @@ Yvette Fenn stood in her own hallway with her hands wet and did not say anything
 
 "That's a shop."
 
-"Right." She took her apron off over her head and hung it on the newel post, which was where the apron lived. "Now. Before I answer that. I bought four of them in September at that open day. Cash. Four wrist units and a booklet. Thirty-one pounds fifty, and I have got the other two in the cupboard under the stairs in a tea chest, and there was a woman from the college with a clipboard and she was very nice and she said the second one is for a friend, and I said the second one is for my daughter, because Ama has got a wrist that goes, and I said *both* my daughters because you don't choose between them, do you, you just buy four. So: one on Nell's wrist, one on Ama's, and two in the tea chest, and that is all four, and I have not got them written down anywhere."
+"Right." She took her apron off over her head and hung it on the newel post, which was where the apron lived. "Now. Before I answer that. I bought four of them in September at that open day. Cash. Four wrist units and a booklet. Thirty-one pounds fifty, and I have got the other two in the cupboard under the stairs in a tea chest, and there was a woman from the college with a clipboard and she was very nice and she said the second one is for a friend. Well. Ama is my own, and Ama is twenty-two, and Ama is in a wheelchair by that door, and I was not going to say *worse* to a stranger in a queue. So I wrote the thing I could say out loud, which was a girl of fifteen with a wrist, because in September your Nell was fifteen and she does the boxes at the weekend and her wrist goes in the cold. And then I put a second line in underneath, because there is a second girl, and the second girl has it worse than your Nell has. So: one on your Nell's wrist, one on Ama's, and two in the tea chest, and that is all four, and I have not got them written down anywhere. And if you are about to ask me whose name is on any of it, then the answer is nobody's. There is not one name on any of it. That is not a trick. That is what a form with one box in it is."
 
 "That isn't what's on the form," Marek said.
 
-"No," said Yvette Fenn. "It isn't. Look at the form."
+"No," said Yvette Fenn. "Isn't it."
 
 He looked at the form.
 
@@ -162,29 +164,15 @@ It was a single side of A4, printed, with a tear-off stub and a carbon copy stil
 *Units*: 4.
 *Practice group*: —
 *Supervised by*: —
-*Purpose (community/family use)*: for a girl of fifteen with a wrist — a girl of fifteen; Nell is sixteen, she was fifteen in September and she is sixteen now, and there is a second dash, and a second thing under it in a different pen: *and one for my older one, she does the boxes at the weekend.*
+*Purpose (community/family use)*: girl, fifteen, wrist. And under it, in a different pen, in a hand that had gone slower: *and one for my own, she is older, she has it worse.*
 
-"Two dashes," Marek said.
+He read it twice, and then a third time, because there was nothing on that page that was wrong and everything on that page was missing.
 
-"Two dashes," said Yvette Fenn. "And that was legal, was it? You tell me. The woman with the clipboard did not read it back to me. There was no reading back, there was a queue, it was the third week of September and there were about forty people at the tables by the car park and I had Ama in a wheelchair because of her wrist and I did not read two dashes. Nobody read two dashes."
+"Two lines," Marek said.
 
-"No," said Marek. "Nobody did. It was legal. And about ninety households did it in September."
+"Two lines, and not a name between them," said Yvette Fenn. "And that was legal, was it? You tell me. The woman with the clipboard did not read it back to me. There was no reading back, there was a queue, it was the third week of September and there were about forty people at the tables by the car park and I had Ama in a wheelchair because of her wrist and I did not read two lines. Nobody read two lines."
 
-Nell Senn was standing on the third step of the stairs in her own house at seven twenty-five in the evening with her arms folded and a brace on her left wrist and had clearly been there for some time.
-
-"Whose name is on mine," she said.
-
-"Nell—"
-
-"Whose name is on mine, Marek. You told me in September that the whole city was one delivery. That was a good line. That was the best thing you'd said in a year. So whose name is on the two dashes in Mrs Fenn's hallway."
-
-He had a case in his head. He had eleven things he could have said and every one of them was a *lead* and two of them were true sentences that would have made a sixteen-year-old girl understand more about a card in a department in a college than anybody in this city currently knows.
-
-He said: "I don't know."
-
-"Right," said Nell Senn.
-
-And Marek Senn, standing at the foot of his mother's stairs in a house he had been inside four hundred times, watched his sister go back up to her own room without another word, and heard the door, and did not follow her, which was correct, and which was the most expensive correct thing he had done all week.
+"No," said Marek. "Nobody did. It was legal, and it was not even one lie, it was a true thing in a box that could only hold one, and about ninety households did something like it in September."
 
 Yvette Fenn went up the stairs behind her daughter with a tea towel and came back down.
 
@@ -192,11 +180,29 @@ Yvette Fenn went up the stairs behind her daughter with a tea towel and came bac
 
 "Understood."
 
-"And Marek." She got the tea chest lid up under the stairs without needing to move anything else out of the way, which meant she had known where it was. "You asked me for a thing in my own hallway on the strength of a bit of card with a woman's name on it that does not apply to me. I'm giving it, because she's fifteen and it's frightened her. But don't you come and do that again without somebody older than you standing next to you, because I am not your mother and I am not your department and I am not going to be a room you can get a thing done in. Write to me. On paper. Like a person."
+"And Marek." She got the tea chest lid up under the stairs without needing to move anything else out of the way, which meant she had known where it was. "You asked me for a thing in my own hallway on the strength of a bit of card with a woman's name on it that does not apply to me, and you did it in my doorway with my hands wet, and you did it about my daughter before you did it about yours. I'm giving it, because she's sixteen and it's frightened her. But don't you come and do that again without somebody older than you standing next to you, because I am not your mother and I am not your department and I am not going to be a room you can get a thing done in. Write to me. On paper. Like a person."
 
 "Yes."
 
 "Off you go."
+
+---
+
+Nell Senn was standing on the third step of the stairs in her mother's own front room at seven twenty-five in the evening, five minutes after he had left next door, with her arms folded and a brace on her left wrist, and had clearly been there for some time.
+
+"Whose name is on mine," she said.
+
+"Nell—"
+
+"Whose name is on mine, Marek. You told me in September that the whole city was one delivery. That was a good line. That was the best thing you'd said in a year. So whose name is on the two lines in Mrs Fenn's hallway."
+
+He had a case in his head. He had eleven things he could have said and every one of them was a *lead* and two of them were true sentences that would have made a sixteen-year-old girl understand more about a card in a department in a college than anybody in this city currently knows.
+
+He said: "I don't know."
+
+"Right," said Nell Senn.
+
+And Marek Senn, standing at the foot of his mother's stairs in a house he had been inside four hundred times, five minutes after he had come out of a door two doors down, watched his sister go back up to her own room without another word, and heard the door, and did not follow her, which was correct, and which was the most expensive correct thing he had done all week.
 
 ---
 
@@ -212,7 +218,7 @@ Lena Senn came off nights at eleven and was in the kitchen for about four minute
 
 "And before that."
 
-"I told her there was a plate in a man's hip pocket." He heard it leave his mouth in the front room of his mother's flat at eleven o'clock at night and it did not sound like anything at all. "I said there's one in a man's pocket. I said it in a hallway. To a woman with her hands wet. To a girl of fifteen standing on the stairs."
+"I told her there was a plate in a man's hip pocket." He heard it leave his mouth in the front room of his mother's flat at eleven o'clock at night and it did not sound like anything at all. "I said there's one in a man's pocket. I said it in a hallway. To a woman with her hands wet. To a girl of sixteen standing on the stairs."
 
 Lena Senn stood at the sink with her back to him.
 
@@ -240,7 +246,7 @@ He wrote the whole day up at twenty past midnight in the load book with a long t
 *1. £5.00, or a name in a quarterly going to nine hundred addresses. Took the name.*
 *2. Did not ask about the box. Rule three. Cost unknown and total.*
 *3. Asked a woman of forty-eight for a thing in her own hallway on the authority of a card that does not apply to her. She is right and I would still have to do it and there is no better way to do it and that is the horrible part: there is no better way to do it.*
-*4. Said "there's one in a man's pocket" at my sister on a stair. She is sixteen. She was excited about a form with two dashes in it and I have been the man who brings the case to the table for nine weeks and tonight she found out what that looks like from the other side of the stairs.*
+*4. Said "there's one in a man's pocket" to a woman in a hallway, and then said the case to my sister on a stair, and neither of those was the first thing I should have said. She is sixteen. She was in my mother's kitchen at ten to eleven tonight excited about a form with two lines in it, and I have been the man who brings the case to the table for nine weeks, and tonight she found out what that looks like from the other side of the stairs.*
 
 *She is not speaking to me. I am not going to write in this book that she will be. I am going to write that I did that, on the Wednesday of week ten, in a hallway, on purpose, because I could not be in the room with a question left in it, and I have known exactly what I was for a year.*
 

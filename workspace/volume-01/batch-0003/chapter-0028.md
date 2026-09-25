@@ -208,7 +208,7 @@ He stood up and put his coat on.
 
 "Good." Oren Vey was in the doorway. "Then Monday. And Senn — bring the four sentences if you want to. I have read the summary and I have not got anything clever to say about it, and I would rather argue about it across a table than in a corridor, and I think that is the whole of what I have."
 
-He went. And Marek Senn sat on his own in a café on a corner in Saltmarket with a card in his pocket that he had not refused and had not accepted, and the wrist unit from the Fenns' hallway in a tea chest in the parts cage at the Spine with a note on it with his name on it, and his sister had not spoken to him for six days.
+He went. And Marek Senn sat on his own in a café on a corner in Saltmarket with a card in his pocket that he had not refused and had not accepted, and the wrist unit that had come out of a tea chest under a stair in the Fenns' hall sitting in the parts cage at the Spine with a note on it with his name on it, and his sister had not spoken to him for nine days.
 
 ---
 

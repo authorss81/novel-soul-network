@@ -90,7 +90,7 @@ Reuben said, "Yeah?" and Marek said, "Yeah," and stood there for another hour an
 
 Later, in the car park, with a fish cold store behind his eyes for the second time in a term, he wrote:
 
-*Week 10, Tuesday, 10:20, fish office yard.*
+*Week 10, Tuesday, 11:20, fish office yard.*
 *I have got it. Not as a source — as a thing I saw with my own eyes from four feet, on a Tuesday, with nobody performing anything.*
 *Reuben, 22, six weeks, Saturday rate, crates off a truck up a run, four to six trips an hour. On the fourth trip, at the top of the run, with the load settled and his hand on the box and nothing left to do but put it down: he turned his head about thirty degrees to the left and looked at a man in a coat who was not his foreman. He waited about a second and a half. Then he put the box down and went back.*
 *There is no one in that yard asking him anything. There is no lesson. There is no instructor. There is no man with a clipboard. He has been in that building six weeks and there has been no occasion, at any point, on which anybody has been waiting to tell him he may stop.*

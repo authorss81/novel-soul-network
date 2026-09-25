@@ -254,7 +254,7 @@ Ekow Nartey turned the book round, uncapped a pen, and held it above the page.
 
 He read it back, in a small flat voice, to nine people, in a market.
 
-*"M. Senn, third year, no licence, asked after a published lineage for the practicum rescue brace 4-19. States the fourth beat was removed. Correction: Senn holds a card with a boundary label and no performed boundary-release beneath it, and a script of eleven pages which names the instructor's spoken cue as the completion of that beat. He has not established who, if anybody, chose the removal. The distinction between a shape and a hand is not a nuance and this co-operative does not print a hand it cannot name. Query stands open. Recorded [date]."*
+*"M. Senn, third year, no licence, asked after a published lineage for the practicum rescue brace 4-19. States the fourth beat was removed. Correction: Senn holds a card with a boundary label and no performed boundary-release beneath it, and a script of eleven pages which names the instructor's spoken cue as the completion of that beat. He has not established who, if anybody, chose the removal. The distinction between a shape and a hand is not a nuance and this co-operative does not print a hand it cannot name. Query stands open. Recorded at the Exchange, week ten, Monday, in the corrections column, initialled E. N."*
 
 "Nine hundred addresses," said Ekow, capping the pen. "Next quarter."
 
@@ -276,7 +276,7 @@ Rafi did the two-count out loud anyway, at the top, before he said the thing he 
 
 Marek thought about it.
 
-"I got told I'm wrong," he said. "In front of nine people. By a woman in a cardigan. And she's right, and I knew she was right for about eleven seconds before she said it, and I want you to know that I went in there this afternoon wanting her to be wrong, and that I would have paid for it."
+"I got told I'm wrong," he said. "In front of nine people. By a woman in a cardigan. And she's right, and I knew she was right for about eleven seconds before she said it, and I still do not know which half of it she was going to say, and that is the part I have not written down. And I want you to know that I went in there this afternoon wanting her to be wrong, and that I would have paid for it."
 
 "Course you would."
 

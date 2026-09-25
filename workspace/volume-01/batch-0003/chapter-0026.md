@@ -84,7 +84,7 @@ Petar Vance was not at the Threadline depot on the Thursday of week 11, and Mare
 
 "I know it was the twenty-eighth."
 
-"Then you know it's nine days ago and he's not sat in that building waiting for you to decide." She said it without any unkindness, which was somehow worse. "He's in Friday. He does the Cordage and the clinic in the morning and he's back in the office about two. If you want the intake pack for the twenty-eighth, it's been pulled and it's on the second shelf and he's the only one who can sign it out, and there's no need to book."
+"Then you know it's eight days ago and he's not sat in that building waiting for you to decide." She said it without any unkindness, which was somehow worse. "He's in Friday. He does the Cordage and the clinic in the morning and he's back in the office about two. If you want the intake pack for the twenty-eighth, it's been pulled and it's on the second shelf and he's the only one who can sign it out, and there's no need to book."
 
 "There's need to book," Marek said. "I promised a man in a corridor outside a department office on the Friday of week nine to come and find him before the twenty-eighth, in a room, with a witness, and it is the Thursday of week eleven and I have not done it."
 

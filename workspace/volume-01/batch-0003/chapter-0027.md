@@ -108,11 +108,19 @@ He put both hands flat on the table.
 
 Petar Vance went for a shelf rather than a box, and pulled a card-index drawer out of a cabinet with a label on a piece of masking tape.
 
-"Service bulletins live here because they are numbered and they are the only thing in this company that has to be findable inside two minutes," he said. "SB-4-19-03." He read the card. "Issued in the first week of term, three days after the last crate on that lot went out, regional service office, second line, Ashfields Road — which is two districts up, and the regional office is the only place in this company that writes anything about a practice. Received here two days after that. Forwarded four copies, and there is a fifth on the card and the fifth is a registered office with a postal town on it that I have never sent a van to."
+"Service bulletins live here because they are numbered and they are the only thing in this company that has to be findable inside two minutes," he said. "You've read the sheet. I am not going to read you the sheet. There is nothing on the sheet that you have not got in your bag, and I have had this drawer open in front of me every day since the first week of term and it has never once told me anything." He took a hardback ledger out of the bottom of the drawer and put it on the counter between them, and opened it at a page with a strip of masking tape down the side of it, and turned it round so the writing faced Marek.
 
-He put the drawer back.
+"Van book. Outbound, first week of term." He put his finger on the top of the column. "Copy one, copy two, copy three, copy four. Four lines, four dates, four signatures, and the signatures are not mine because I do not go on the van, they are the driver's, and the driver's name is on the front of the book and he is called Kev and he is not brave about it. So four of your five addresses are signed for by a man with a van who could not tell you what a boundary label was if you paid him."
 
-"That is your envelope," he said. "A man at my counter on the Tuesday of week nine put an envelope on this counter with Senn on it and asked me to bring it in if I came, and I brought it in on the Saturday, and I have been thinking about that envelope for a fortnight because there is one thing about it that has not been sitting right with me and it is not the envelope."
+"And the fifth."
+
+"The fifth has got a date and it has not got a signature." Vance took his hand off the page so that Marek could look at it. "Copy five is the one with the registered office on it, the one with a postal town on it that is not Nacre. It went on the van on the same day as the other four, and Kev signed one, two, three and four, and then he came back to the counter with the fifth still in his hand and asked me whether he was meant to sign that one as well, and I told him to put it back on the shelf. That is the entire of my involvement in copy five, and it has been sitting in that book for six weeks with a date against it and nothing else."
+
+He shut the book.
+
+"So the fifth never left the building," said Marek Senn.
+
+"No. It has been on the second shelf since the first week of term, under a pile of manifests, with a regional routing stamp on it and a postal town on it that is not Nacre, and I have never sent a van to that address and I have never sent a man to it, and if you want to know the thing I have not been letting myself think about for six weeks, it is that there is a line in my own book with my depot's name at the top of it, and a date, and a blank." He put the drawer back. "And that is your envelope, by the way. A man at my counter on the Tuesday of week nine put an envelope on this counter with Senn on it and asked me to bring it in if I came, and I brought it in on the Saturday. And I have been thinking about that envelope for a fortnight because there is one thing about it that has not been sitting right with me and it is not the envelope, and it is not the label, and it is not his handwriting. It is that I do not think he came in here for you."
 
 "Which is."
 
@@ -132,7 +140,7 @@ He put the drawer back.
 
 "The first week of term."
 
-"Three days after we took delivery," said Petar Vance. "The day after the last crate went out of this gate. And nothing had happened, and nobody had complained, and there was not one claim in this company against that revision, because there was nothing to claim." He put the case down. "So a man in an office two districts up wrote, in advance, that this is not a fault, do not claim it, and everybody who already has it should carry on exactly as they were. A fortnight before a boy of twenty went into a theatre with two tendons gone. A month before a man of sixty-one stopped being able to get a full breath on a fish market, and there is still no form in this city that says what happened to his ribs."
+"Three days after we took delivery," said Petar Vance. "The day after the last crate went out of this gate. And nothing had happened, and nobody had complained, and there was not one claim in this company against that revision, because there was nothing to claim." He put the case down. "So a man in an office two districts up wrote, in advance, that this is not a fault, do not claim it, and everybody who already has it should carry on exactly as they were. Five weeks before a boy of twenty went into a theatre with two tendons gone. Eleven years before a man of sixty-one stopped being able to get a full breath on a fish market, and there is still no form in this city that says what happened to his ribs."
 
 He picked the case up again.
 
