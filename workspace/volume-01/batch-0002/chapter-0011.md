@@ -229,7 +229,7 @@ He tore the docket off the clipboard and pushed it across the counter.
 
 "And one more thing." Gus put the hat on the back of the chair. "You said the school wrote a correction and the school says the equipment was sound. There's a signature on that sheet, and it isn't yours. It's a boy of twenty's, and he put it there himself, and he's in a hospital because of it. That's how that works. It isn't a lie. It's worse. It's about three hundred and forty people who signed."
 
-"About three hundred and forty," Marek said. "And not one of them was you, which is the other thing. Rusk signed for nine crates in a corridor in September without reading them because the queue was moving and it was Tuesday and he had somewhere to be, and he told me that himself, in a corridor, two days after I asked him for it."
+"About three hundred and forty," Marek said. "And not one of them was you, which is the other thing. Rusk signed for the kit itself off a depot docket in the summer without reading it because signing for things is his job, and he told me that himself, in a corridor, two days after I asked him for it. And in September I stood in a queue for nine crates with my own student card against the delivery note and I did not read it, and the queue was moving and it was Tuesday and I had somewhere to be, and I have not written that down anywhere else."
 
 Gus Haldane looked at him for a while.
 

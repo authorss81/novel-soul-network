@@ -1,6 +1,6 @@
 # Chapter 16 — Two Voices
 
-The twelfth line on the sheet said *nothing, I just stopped*, and the next four, all written on the Monday afternoon on a table in a room over a chip shop, said the same thing with one word changed here and there, and by the Thursday of that week Tam Arrick had written it eleven times out of eleven and had begun, in the privacy of his own head, to be proud of how consistent he was.
+The twelfth line on the sheet said *nothing, I just stopped*, and the next three, all written on the Monday afternoon on a table in a room over a chip shop, said the same thing with one word changed here and there, and by the Thursday of that week Tam Arrick had written it eleven times out of eleven and had begun, in the privacy of his own head, to be proud of how consistent he was.
 
 He got bad on the Tuesday night of week 9, at about half past eleven, on the fourth round of the department exercises, in a room over a chip shop, with the radiator going and a bag of bricks on the table that he had been ignoring for an hour.
 
@@ -12,7 +12,7 @@ He got to the end of the fourth one at about eleven o'clock and sat on the edge 
 
 Nothing. His hands did nothing. They stopped.
 
-So he did the thing that he had been writing *nothing* about for eleven days, which is the thing that every one of the four department exercises is quietly not for, and which no instructor had ever told him to do and which he therefore had to do entirely on his own authority, alone, at half past eleven at night, with a sling on.
+So he did the thing that he had been writing *nothing* about for two days, which is the thing that every one of the four department exercises is quietly not for, and which no instructor had ever told him to do and which he therefore had to do entirely on his own authority, alone, at half past eleven at night, with a sling on.
 
 He said the word.
 
@@ -197,7 +197,7 @@ He wrote it up at a table in the room above the laundromat at half past four tha
 
 *Week 9, Wednesday, 07:08–07:15. Exchange kitchen, Saltmarket. Delivery docket, top half retained by T. Arrick, in his pocket. Not copied. Not photographed. Not going anywhere.*
 
-*What happened: he did the first three beats and then took his right hand out of the sling and put it flat on the top edge of an eighteen-kilo box and kept it there for eleven seconds while he read where the load was going, and then he put the box down with his left hand and stepped back. Nobody said anything. It is not a sentence and it is not a name and it is not a technique and it is the only time in eight weeks that anything has worked.*
+*What happened: he did the first three beats and then took his right hand out of the sling and put it flat on the top edge of a nine-kilo box and kept it there for eleven seconds while he read where the load was going, and then he put the box down with his left hand and stepped back. Nobody said anything. It is not a sentence and it is not a name and it is not a technique and it is the only time in eight weeks that anything has worked.*
 *What it was not: it was not a release. D. Kwan said so in the room, out loud, to him, and was right.*
 *Why it worked and I do not know: because his own hand is in it. His own hand on the load, at the fourth place, for eleven seconds. It is not a thing anybody taught him. It is a thing he has done in a kitchen since he was fourteen. On the dock on the Tuesday of week 6 it was the only thing that worked too.*
 *The bit that is going to be the whole problem for the rest of this: it only works where there is nobody in the room who wants him to be all right. The only two times in three weeks that a hand of his has found a load unaided, there was nobody in the room who wanted him to be all right. I cannot check it. I cannot witness it. I cannot record it and I cannot be in a room with it. The one condition under which it happens is the one condition under which it is not evidence.*
@@ -206,7 +206,7 @@ He wrote it up at a table in the room above the laundromat at half past four tha
 *So: eleven seconds, once, on a thing he chose, with nobody watching, and then a strap.*
 *Do not know whether there is a version of this that survives a strap. I do not know whether eleven seconds is a technique or a coincidence with a bag of fish in it. I do not know and I cannot find out, because the only person who could tell me is the person it happened to and he has asked for it to stay in his pocket on a piece of paper with a hole torn off the top.*
 
-He read that back, and then he wrote at the bottom, in the small handwriting, the rule he had written on himself in a treatment bay five weeks ago, and then the answer to it, and the answer was the correct one and it took him until four in the afternoon to arrive at it.
+He read that back, and then he wrote at the bottom, in the small handwriting, the rule he had written on himself in a treatment bay four weeks ago, and then the answer to it, and the answer was the correct one and it took him until four in the afternoon to arrive at it.
 
 *Do not let wanting press two things together until they look like evidence. If I ever catch myself doing that, the wanting is the answer, not the thing.*
 *Caught. Twice today. Once at seven in the morning wanting to write down that a boy made a release, and once at four in the afternoon wanting to write down that eleven seconds is a technique. Both times the wanting was the answer and the thing was nothing.*

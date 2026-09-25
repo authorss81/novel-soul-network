@@ -56,7 +56,7 @@ Marek looked at him.
 
 "That's a system."
 
-"It's a man counting out loud in his own front room," said Rafi. "It's not a system. It's the only thing I've got and it's about two year late."
+"It's a man counting out loud in his own front room," said Rafi. "It's not a system. It's the only thing I've got and it's about two years late."
 
 He sat back down and picked up the bread and ate the rest of it, and then said, through it, in a completely different voice: "And you'll not get me back with it, by the way, in case you've been hoping. I said I'd stay and I am staying. I just got tired of being a yes."
 
@@ -90,7 +90,7 @@ It was recognition. It was a thing he had been standing next to for seven years 
 
 It arrived with the whole of the rest of it.
 
-He had a page in his notebook with two columns on it and fifteen numbered lines. He had four sites. He had a nurse who had changed the terms of her own scope out loud on a step and put his name across the line from hers. He had a woman of forty-five who had held a meeting on a Friday night because he had said two words in a corridor. He had a man with a dead hand who had put fifteen plates on a high shelf and told him, to his face, that this does not get into the schoolchildren, it gets into the ones with the mark already. He had a docker who had taken a bucket of stock off a wall before the day class started and would not give it to him. He had a deputy registrar who had signed her own name to a cage and had said *nobody made me do it and I checked*. He had a sixty-one-year-old man who had come eleven minutes across Nine Bridges at midnight to give away a copy of his own voice. He had a field assessor who had put a sentence in a file that belonged to somebody else. He had a book clerk who had never been asked for a line and had given him one anyway.
+He had a page in his notebook with two columns on it and fifteen numbered lines. He had four sites. He had a nurse who had changed the terms of her own scope out loud on a step and put his name across the line from hers. He had a woman of forty-five who had held a meeting on a Friday night because he had said two words in a corridor. He had a man with a dead hand who had put fifteen plates on a high shelf and told him, to his face, that this does not get into the schoolchildren, it gets into the ones with the mark already. He had a docker who had taken a bucket of stock off a wall before the day class started and would not give it to him. He had a deputy registrar who had signed her own name to a cage and had said *nobody made me do it and I checked*. He had a boy of twenty who had walked eleven minutes across Nine Bridges at midnight to hand over a copy of a voice he had built out of Marek's, on purpose, so that nobody else would have it. He had a field assessor who had put a sentence in a file that belonged to somebody else. He had a book clerk who had never been asked for a line and had given him one anyway.
 
 Every single one of them had done it for themselves, on their own authority, for their own reason, and had not been asked, and had not been arranged, and had not been managed.
 
@@ -119,7 +119,7 @@ Then he wrote it in the load book, and the writing was not steady, and it took h
 *2. R. P. says the paper said he could leave and he did, and that I never announced there was a thing to leave. He is right. There was no announcement. There was a room that had quietly started to need a man in it, which is a thing I have been criticising in a product for nine weeks, and I have been building one, out of nothing but good manners.*
 *3. T. A. wrote, on a Monday: you do not get to arrange anybody. He is twenty. He has read more of the inside of this than I have.*
 *4. T. V., on the Thursday of week nine, in a vehicle, in one sentence: everything you have done since the Thursday of week one has been arranging.*
-*5. A. R. wrote, on the Friday: nobody made me do it and I checked.*
+*5. A. R. said, on the Saturday: nobody made me do it and I checked.*
 *Six people, five rooms, four weeks, and not one of them needed me.*
 
 *And the last of it, and this is the bit that is actually new and I did not have it on Friday:*
@@ -155,7 +155,7 @@ The phone went at twenty past six while he was shutting the bay down.
 
 "Talia—"
 
-"And the second thing." She did not soften it, because she never softened anything, and because the last time she had softened a thing it had cost a boy two tendons. "I am not going to help you find a fourth person. That is your work. It has been your work since Wednesday and you have been doing everybody else's work instead, and the reason I am telling you this now, in this tone, on a Friday evening, on your Saturday, is that I would rather be unpleasant to you on the telephone than be right in a room in three weeks. There is no fourth person. You will have to go and find out that for yourself, the hard way, on your own, with a queue of noes, and I am not going to walk you to the door. And Senn — the first no is going to cost you more than the first yes did, because the first yes was free. If you cannot stand in a room and be told no by a stranger, then you have not stopped arranging. You have only changed the sentence."
+"And the second thing." She did not soften it, because she never softened anything, and because the last time she had softened a thing it had cost a boy two tendons. "I am not going to help you find a fourth person. That is your work. It has been your work since Wednesday and you have been doing everybody else's work instead, and the reason I am telling you this now, in this tone, on your Saturday, is that I would rather be unpleasant to you on the telephone than be right in a room in three weeks. There is no fourth person. You will have to go and find out that for yourself, the hard way, on your own, with a queue of noes, and I am not going to walk you to the door. And Senn — the first no is going to cost you more than the first yes did, because the first yes was free. If you cannot stand in a room and be told no by a stranger, then you have not stopped arranging. You have only changed the sentence."
 
 "Who do I ask?"
 
@@ -185,7 +185,7 @@ Marek sat down at the table with his coat still on and told him the other thing,
 
 "Are you going?"
 
-"Thursday. After that." He put his hands flat on the table. "And I'm telling you before I go, not on the way, which is a thing I learned off a boy with a sling about a fortnight ago, and I'm not going to sit in that room and be in a frame. I don't know what the frame is yet. That's the part I don't like."
+"Thursday. After that." He put his hands flat on the table. "And I'm telling you before I go, not on the way, which is a thing I learned off a boy with a sling on Thursday, and I'm not going to sit in that room and be in a frame. I don't know what the frame is yet. That's the part I don't like."
 
 Rafi looked up for the first time.
 
@@ -193,7 +193,7 @@ Rafi looked up for the first time.
 
 "Probably."
 
-"Good," said Rafi Pell, and went back to his paper. "Then you'll fit right in, because that is exactly what that corridor is full of, and it took me two year and a bad hand to work out it was a room, and you have had nine weeks and a bad record. Mind how you go."
+"Good," said Rafi Pell, and went back to his paper. "Then you'll fit right in, because that is exactly what that corridor is full of, and it took me two years and a bad hand to work out it was a room, and you have had nine weeks and a bad record. Mind how you go."
 
 Marek opened the load book and turned to a clean page and ruled a line across the top of it, and wrote the date, and then stopped, because for nine weeks every entry on that page had been a count of something he was owed or a thing he could not do, and he had run out of both, and for the first time in the term he did not know what the week was going to be.
 
@@ -205,12 +205,12 @@ He wrote:
 *1. Thursday of week 7 is off the board. PD/7/114. There is no replacement date and there will not be one before the term review, and the department has told me in writing that a date will be considered when the review has concluded, which is a fortnight away, and the scholarship goes at the opening of it.*
 *2. The term panel on the Friday of week 11 has one item on it and I am named in the file, and the variance is dated the fifteenth of week 6 and was tabled on the Friday of week 7, four days after the room I was booked into went out from under us, and my officer did that on purpose and told me so after. A document, a suspicion and an absence: the panel cannot act on any of the three. Four panel members. One of them taught the card. One building, one card, one voice, nineteen years and one term, and he cannot get off it, and he told me so in a corridor before he had to.*
 *3. The Office cannot trace a blank field, and has said so in writing, with a reference number, and has told me the only thing a panel can act on is a demonstrated non-hinged release in a public room by a named practitioner with witnesses and no substituted cue used, followed or accepted in the window. That is hanging over me. That is the whole of what I have. It is a requirement, not a permission, and there is no date, and no licence, and no technique, and the requirement is exactly the one thing I have never once been able to do.*
-*4. Four sites have stopped. I did not do that, and the first of them was a nurse who forwarded the government's own letter to three strangers before she had spoken to one of them, and a woman of forty-five in a corridor above a community hall who worked out on a Friday night, on her own, that she had been the word in her own room for four months. It is the only part of this that works, and it works without me, and on Saturday I found out why, and the reason is that I have been doing a job that is not mine for nine weeks, and the job was the word in the room. Ines Sarr has told me she will take me out of her classroom by the arm if I take one note. I am going on Thursday. I am telling Rafi tonight, out loud, before I go, and I am not going to sit in that room and be in a frame.*
+*4. Four sites have stopped. I did not do that, and the first of them was a nurse who forwarded the government's own letter to three strangers before she had spoken to one of them, and a woman of forty-five in a corridor above a community hall who worked out on a Friday lunchtime, on her own, that she had been the word in her own room for four months. It is the only part of this that works, and it works without me, and on Saturday I found out why, and the reason is that I have been doing a job that is not mine for nine weeks, and the job was the word in the room. Ines Sarr has told me she will take me out of her classroom by the arm if I take one note. I am going on Thursday. I am telling Rafi tonight, out loud, before I go, and I am not going to sit in that room and be in a frame.*
 
 *Do not know, and this is the honest state of it and it is going to stay the honest state of it until somebody changes it:*
 *Who wrote the fourth beat out. Blank section 4, four thousand one hundred and six bundles, nine hundred and forty blanks, and a four-year-old precedent I am not able to afford and a man with four assessors who has told me the truth about why.*
 *Why the same gap is in a courier's step, in a docker's release, in a fish office, and in a woman's hip pocket, and in at least fifty houses in this city that no school supplied, and a line on a stores form that nobody has tracked since 2019.*
-*Whether a boy of twenty can find a fourth beat in four weeks when the strap comes off, when the answer is that it is not a beat and it is not a technique and it is a hand on a box for eleven seconds in a room with nobody in it, and it cannot be witnessed and it cannot be checked and it is the one thing in this term that worked.*
+*Whether a boy of twenty can find a fourth beat in four weeks when the strap comes off, when the answer is that it is not a beat and it is not a technique and it is a hand on a box for eleven seconds in a room where nobody wanted him to be all right, and it cannot be witnessed and it cannot be checked and it is the one thing in this term that worked.*
 
 *What I am going to do, and it is four sentences and none of them is a plan:*
 *I am going to go and look at a room in a market where a lineage is printed and dated and attributable, and I am not going to tell anybody I went.*

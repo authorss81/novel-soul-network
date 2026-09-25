@@ -42,7 +42,7 @@ He took both sheets. He put them in the inside pocket of his jacket in the order
 
 "That's a Friday number."
 
-"It's a Tuesday number," Darla Vint said. "114 is a Tuesday. They went past a hundred on Friday and the numbering restarts on the first of the week. You looked at that because you are looking for a hand in it. There isn't one. I have been in this building eleven years and I can tell you the difference between a decision and a diary, and that is a diary."
+"It's a Tuesday number," Darla Vint said. "114 is a Tuesday. They went past a hundred on a Tuesday two weeks back and the numbering restarts on the first of the week. You looked at that because you are looking for a hand in it. There isn't one. I have been in this building eleven years and I can tell you the difference between a decision and a diary, and that is a diary."
 
 ---
 
@@ -234,7 +234,7 @@ He walked home the three streets in the cold and did the day.
 *What Rusk knows from 2019 and does not know that he knows.*
 
 *And the last of the day, which is the one I am going to keep.*
-*Vint told me the number 114 is a Tuesday number, and that the numbering restarts on the first of the week, and that 100 was on a Friday. I checked it on the tram, because I have no life. So the thread is the routing, not the person. Nobody has to be a villain. The person who rolled 114 is a woman doing a job on a Tuesday. The person who shaded week 7 is a department. Between the two of them they have taken the only route I was ever given, and neither of them will ever know my name, and there is no form anywhere in this city that asks them to.*
+*Vint told me the number 114 is a Tuesday number, and that the numbering restarts on the first of the week, and that 100 was on a Tuesday. I checked it on the tram, because I have no life. Fourteen is two weeks, so 114 lands on the same weekday as 100, and 100 was a Tuesday, and 114 is a Tuesday, and that is all it is. So the thread is the routing, not the person. Nobody has to be a villain. The person who rolled 114 is a woman doing a job on a Tuesday. The person who shaded week 7 is a department. Between the two of them they have taken the only route I was ever given, and neither of them will ever know my name, and there is no form anywhere in this city that asks them to.*
 
 He got in at twenty past eleven and Rafi was on the floor with his back against the couch and a courier bag over his legs, eating bread and dripping, watching something with the sound off.
 

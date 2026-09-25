@@ -2,7 +2,7 @@
 
 Mal Farrow was in the fish office yard at a quarter to seven in the morning on the Thursday of week 9, doing the same thing he was doing at a quarter to seven every morning, which was standing at the end of a bench with a knife and a cigarette in a bit of cardboard and being the only person in the yard who had not hurried.
 
-"You've come down here twice now asking me about your four things," he said, before Marek had got the gate shut. "So either the four things have gone wrong, or you've come down here to do something else and you're going to pretend it was about the four things."
+"You've come down here three times now asking me about your four things," he said, before Marek had got the gate shut. "So either the four things have gone wrong, or you've come down here to do something else and you're going to pretend it was about the four things."
 
 "I've come down here to ask how many."
 
@@ -12,7 +12,7 @@ Farrow turned his head.
 
 The cigarette went into the cardboard. Farrow looked at Marek for a while, and then he did a thing that Marek had not expected and would think about for years, which was that he went and got a stool and sat down on it.
 
-"Three," he said. "Two, and one that's cracked and not through. And the cracked one is the one I can feel when it's cold and the two are gone. And the doctor at the time said I'd be lucky to see fifty and I saw fifty, and there's four years on that and here we are, and the cough is a cough and it's the smoke and the cold store and it's twenty a day when I'm on and none when I'm off, and it goes for two and a half minutes and it doesn't take me anywhere, and the inhaler the doctor gave me is in a cupboard and I use it about twice a year." He put the cardboard down. "That's it. That's the whole of it. Nobody's ever asked me that. Six weeks — longer — you've come down here twice and asked me about a technique and not once about a man."
+"Three," he said. "Two, and one that's cracked and not through. And the cracked one is the one I can feel when it's cold and the two are gone. And the doctor at the time said I'd be lucky to see fifty and I saw fifty, and there's eleven years on that and here we are, and the cough is a cough and it's the smoke and the cold store and it's twenty a day when I'm on and none when I'm off, and it goes for two and a half minutes and it doesn't take me anywhere, and the inhaler the doctor gave me is in a cupboard and I use it about twice a year." He put the cardboard down. "That's it. That's the whole of it. Nobody's ever asked me that. Six weeks — longer — you've come down here three times and asked me about a technique and not once about a man."
 
 "You can write it down."
 
@@ -201,7 +201,7 @@ He sat on the end of the bench at twenty to one in the morning and ruled a clean
 *12. Who licensed the upstream bundle. Two blank lines, ruled the same day with the same rule, on a label on a crate in a store room behind a porters' cage, on the Thursday night of week 5. Blank is not a secret. It is a question nobody was asked.*
 *13. Why there is no name, no date and no initials in eleven pages of instruction. Four explanations and I cannot tell them apart from inside a store room: a bad run, a card printed against the wrong revision, a supplier assembling somebody else's book, or a person who chose it. I still cannot tell. I am going to keep all four alive and I am not going to be the man who collapses them into the one I want.*
 *14. Whether the same gap is in fifty houses in this city. There is a line on a stores form for spare stock issued to households in September. Ninety out, forty back. Nobody has tracked it since, because tracking it would mean a list. I asked Roos and she said it is not a scheme she knows about and that she is now going to have to think about it, and I have done that to a woman who did not sign anything.*
-*15. What the man in a sling is going to be able to do in four weeks when the strap comes off. Nobody. I do not know, he does not know, the registrar does not know until the fourteenth, and the one thing that worked happened once, in a room with nobody in it, on a box of roe, and cannot be checked and cannot be witnessed and cannot be evidence.*
+*15. What the man in a sling is going to be able to do in four weeks when the strap comes off. Nobody. I do not know, he does not know, the registrar does not know until the fourteenth, and the one thing that worked happened once, on a box of roe, with nobody in the room who wanted him to be all right, and cannot be checked and cannot be witnessed and cannot be evidence.*
 
 Then, below the two columns, in the ordinary handwriting, not the small one:
 

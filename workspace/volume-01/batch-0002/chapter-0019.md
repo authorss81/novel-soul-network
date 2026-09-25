@@ -184,7 +184,7 @@ Marek looked at the two sheets for a long time.
 
 He looked at the paper.
 
-"In September," Marek said, "a man with twenty-two years in this department signed for nine crates in a corridor without reading them, because the queue was moving and it was Tuesday and he had somewhere to be. He told me that himself, in a corridor, and he was right to, and he is not to blame for it, because a man signs what is in front of him at half past four on a Tuesday. And the man who signed for the delivery at this building in the first week of term signed it in about ninety seconds, because his own daughter was ill, and I have never met him and I am not going to. And a crew lead at the west berth called G. H. has four other men who signed for a plate in August, and he says so out loud, on a dock, on his own, and he was right, and he has been owed an answer since the Tuesday of week six and got one this week. And there are fifty houses in this city that have had a plate out of the same bundle, and the form that sent them there has not been tracked since 2019. And there is a woman on Ninth Street who has been asking her own room what a plate actually does since before I was a student. And there is a man of sixty-one with two broken ribs and one cracked out of 2011, and a nurse with her own stitching in a hip pocket."
+"In the summer," Marek said, "a man with twenty-two years in this department signed for the kit itself off a depot docket without reading it, because signing for things is his job, and he told me that himself, in a corridor, and he was right to, and he is not to blame for it. And in the first week of term there were nine crates in a corridor and a queue going out of the door, and I was in it, and I put my own name and my own student card against the delivery note without reading it, because the queue was moving and it was Tuesday and I had somewhere to be. A man signs what is in front of him at half past four on a Tuesday. And the man in front of me signed it in about ninety seconds, because his own daughter was ill, and I have never met him and I am not going to. And a crew lead at the west berth called G. H. has four other men who signed for a plate in August, and he says so out loud, on a dock, on his own, and he was right, and he has been owed an answer since the Tuesday of week six and got one this week. And there are fifty houses in this city that have had a plate out of the same bundle, and the form that sent them there has not been tracked since 2019. And there is a woman on Ninth Street who has been asking her own room what a plate actually does since before I was a student. And there is a man of sixty-one with two broken ribs and one cracked out of 2011, and a nurse with her own stitching in a hip pocket."
 
 He put his hand flat on the desk.
 
@@ -194,7 +194,7 @@ Anneke Roos picked up her pen and wrote three lines, and turned the form round s
 
 It did not say *he would have taken it if being wrong had cost him nothing*. It said:
 
-*Offered and declined, Thursday of week 9, in the presence of no witness, at the candidate's request. Grounds: the candidate states that he does not wish to close the only forum available to him. Reason given and recorded.*
+*Offered and declined, Friday of week 9, in the presence of no witness, at the candidate's request. Grounds: the candidate states that he does not wish to close the only forum available to him. Reason given and recorded.*
 
 "Read it back," she said.
 

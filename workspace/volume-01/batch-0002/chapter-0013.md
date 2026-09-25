@@ -32,7 +32,7 @@ Farrow put the knife down.
 
 "Right."
 
-"Before you go — no." He picked the knife up again and looked at the blade and not at Marek. "You've come down here twice now asking me about your four things. Tuesday you were stood over there by the ice waiting for me to fall over, and I saw you, and you didn't come over, and I thought: right, he's shy. And now here you are with a bit of paper and a story about a board." He turned the knife. "What you've come for is that I should do a thing in front of you. And I should. I've been doing it in front of people for forty year and it costs me nothing and it doesn't do me any good either. So you'll do it and you'll write it down and there'll be a sentence about me in a report somewhere in a building with a door and a nameplate."
+"Before you go — no." He picked the knife up again and looked at the blade and not at Marek. "You've come down here twice now asking me about your four things. Thursday you were stood over there by the ice waiting for me to fall over, and I saw you, and you didn't come over, and I thought: right, he's shy. And now here you are with a bit of paper and a story about a board." He turned the knife. "What you've come for is that I should do a thing in front of you. And I should. I've been doing it in front of people for forty years and it costs me nothing and it doesn't do me any good either. So you'll do it and you'll write it down and there'll be a sentence about me in a report somewhere in a building with a door and a nameplate."
 
 "Yes."
 
@@ -118,7 +118,7 @@ On the seventh second she got the belt open and her fingers went into the plate 
 
 Because the plate was not where a plate should be.
 
-She got the belt cut with a stitch cutter she keeps for exactly this, in eleven seconds, and the plate came out of the pocket in one piece in her hand, and it was not cracked and it was not snapped and it was not loose, and the copper return contact on the back of it was a strip of metal that had folded over on itself and set, hard, the way copper sets when it has taken more than it was ever meant to take and nobody was there to relieve it, and it was set hard, in the shape of the load path it had last held, the way copper sets when it has taken more than it was ever meant to and nobody took it off. Which meant that the load had gone through, unreleased, and that the plate had stayed exactly the way it was left, and that a metal which has done it once will do it every time.
+She got the belt cut with a stitch cutter she keeps for exactly this, in eleven seconds, and the plate came out of the pocket in one piece in her hand, and it was not cracked and it was not snapped and it was not loose, and the copper return contact on the back of it was a strip of metal that had folded over on itself and set, hard, the way copper sets when it has taken more than it was ever meant to take and nobody was there to relieve it, and it was set hard, in the shape of the load path it had last held, and it stayed like that, and a metal which has done it once will do it every time. Which meant that the load had gone through, unreleased, and that the plate had stayed exactly the way it was left.
 
 Marek said, "I've got nothing written and I want to be holding something."
 
@@ -250,7 +250,7 @@ Farrow looked at him for a while. "You're not a doctor."
 
 "I'm a repairer with a bad record and a bag of bricks in his head."
 
-"Aye." Farrow considered it. "Two and a half minutes. Maybe three. It goes off like a switch and it comes back on its own, and it isn't a heart, and I've had it since I was fifty, and I went to a doctor in '09 and he said what I said." He took the apron down. "And you did not ask me once about the crate."
+"Aye." Farrow considered it. "Two and a half minutes. Maybe three. It goes off like a switch and it comes back on its own, and it isn't a heart, and I've had it since I was fifty, and I went to a doctor in '15 and he said what I said." He took the apron down. "And you did not ask me once about the crate."
 
 "No."
 

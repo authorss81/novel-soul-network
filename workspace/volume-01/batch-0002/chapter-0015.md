@@ -18,7 +18,7 @@ The first column was a list of eleven things. Four of them were ticked. The rest
 
 "The dates are in the margins," said Tam. "The hand's column is what I do it on and the margins are when, and those are separate and I have thought about it for two days and I am not changing it."
 
-He made Marek read the rest out loud, which took eleven minutes, and it was the plan of a boy who had been in a ward for five days and had then spent two and a half weeks in a room with a door on it, and it was not one single thing like a technique.
+He made Marek read the rest out loud, which took eleven minutes, and it was the plan of a boy who had been in a ward for two days and had then spent a fortnight in a room with a door on it, and it was not one single thing like a technique.
 
 Column one said: every morning, once, the first three beats, on a bag of four kilos of dry rice, in this room, on the counter, at working speed, alone. And then: **write down what my hands do at the fourth place. In words. Even if it's nothing. Even if it's "nothing, I just stopped." Especially then.** And, at the bottom, underlined twice: **I am not allowed to write down what I think the answer should be. I am allowed to write down what happens, and "nothing" is a thing that happens.**
 
@@ -69,7 +69,7 @@ He turned the page over and there was nothing on the back.
 
 They did it at half past two in the afternoon on the Monday of week 9, on the table, with a canvas bag out of the kitchen on Sennet Row that somebody had given Tam, and inside it four kilos of dry rice from a shop on the corner, and it was the first time he had done the first three beats since the operation.
 
-He was slow. He was slow in a way that had nothing to do with his hand and everything to do with a body that had spent two and a half weeks being told *you are not to do anything with this*, and he got the heel down and the floor and he took the weight and he walked it up onto the shoulder — four kilos of rice, which is nothing, which he knew was nothing when he wrote the number on the bag, and which was the only number in the whole of the plan that came out of a bag in his own kitchen rather than out of a plate in a frame in a room with a man in it. and Marek, sitting on the floor with his back against the bed, watched the whole thing arrive in his own shoulders and had to put his own hand flat on the floor to stay in the room.
+He was slow. He was slow in a way that had nothing to do with his hand and everything to do with a body that had spent a fortnight being told *you are not to do anything with this*, and he got the heel down and the floor and he took the weight and he walked it up onto the shoulder — four kilos of rice, which is nothing, which he knew was nothing when he wrote the number on the bag, and which was the only number in the whole of the plan that came out of a bag in his own kitchen rather than out of a plate in a frame in a room with a man in it. And Marek, sitting on the floor with his back against the bed, watched the whole thing arrive in his own shoulders and had to put his own hand flat on the floor to stay in the room.
 
 Close. The hands found the two points where the bag was allowed to sit and put it there.
 
@@ -77,7 +77,7 @@ And then the fourth place.
 
 Tam's head turned.
 
-It was about four inches. It was not a flinch and it was not a search. It went to the left and up and stopped, the way a person's head stops when it has found the thing it was looking for, and it found Marek's face, and Marek watched it happen and understood the entire architecture of what he had done to this boy on a wet dock in the rain eight weeks ago, in about two seconds, standing on a floor.
+It was about four inches. It was not a flinch and it was not a search. It went to the left and up and stopped, the way a person's head stops when it has found the thing it was looking for, and it found Marek's face, and Marek watched it happen and understood the entire architecture of what he had done to this boy on a wet dock in the rain eighteen days ago, in about two seconds, standing on a floor.
 
 Tam put the bag down. He did not drop it. He put it down the way you put something down when you have decided to stop, and then he sat on the edge of the table and put his good hand over his eyes for a second.
 
@@ -101,7 +101,7 @@ Because a share is not the only way one person's attention gets into another per
 
 He had been the person Tam looked up at, for eight weeks, on and off, in three rooms, and every single time Tam had reached the fourth place his body had gone to Marek's face, because Marek's face was the place the answer used to be, and Marek had known that, in the way he knew the shape of a hole in a practice, and had gone on offering himself in the room anyway, because being in the room was the whole of what he had to give, and because a man who cannot be useful will at least be present.
 
-Marek Senn stood on a landing above a chip shop and found that he had been the key-holder of a room with nothing in it, on purpose, for eleven days, out of the best intentions available to him.
+Marek Senn stood on a landing above a chip shop and found that he had been the key-holder of a room with nothing in it, on purpose, out of the best intentions available to him.
 
 He knocked.
 
@@ -125,7 +125,7 @@ He heard the whole of it through the door and most of it was the sound of a bag 
 
 ---
 
-He did the Thursday. It was the second week of paid invigilation and it was fourteen credits, and there were nine third-years in room two working a 4-19 card that a man in front of the room said the word for, and Marek sat at the back with a clipboard he did not need and wrote down the times because the department paid him by the evening and the evening had to be justified, and at twenty to nine he counted nine releases and nine instances of the word coming out of a man standing in a teaching position at the front of a room, and it was exactly as bad as he had said it would be, and it was not a single new thing.
+He did the Thursday. It was his first week of paid invigilation and it was fourteen credits, and there were nine third-years in room two working a 4-19 card that a man in front of the room said the word for, and Marek sat at the back with a clipboard he did not need and wrote down the times because the department paid him by the evening and the evening had to be justified, and at twenty to nine he counted nine releases and nine instances of the word coming out of a man standing in a teaching position at the front of a room, and it was exactly as bad as he had said it would be, and it was not a single new thing.
 
 At nine he walked to the kitchen on Sennet Row and helped the cook put the Thursday close down, for money, at the rate, and on the way out the head cook, a woman of about fifty called Deb with a ledger and no face, said:
 

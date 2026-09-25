@@ -67,7 +67,7 @@ And Conor said, "Go," and it went, and it tipped forward, and Conor put his shou
 
 "Mr. Halloran," Marek said. "If the man in the strap was on his own, in a room by himself, with the load. What would you say to the sack?"
 
-"Hell," said Bo Halloran. "You want me to talk to a sack? What am I going to say to it? It's a sack of sand. It's not got a anybody in it. There's nobody to hand anything to, so there's no fourth of it, and that's not a fault, that's what it is. It stops when I stop talking, and if I stop talking there's nobody in it and there's nothing to be released." He looked at his right hand. "I've been doing it nineteen year and I've never once had a beat for it, and I'll tell you the truth, son: it hasn't needed one. Conor goes home tonight. Conor's been doing it that way since he was seventeen and Conor's not hurt and Conor's not a machine."
+"Hell," said Bo Halloran. "You want me to talk to a sack? What am I going to say to it? It's a sack of sand. It's not got a anybody in it. There's nobody to hand anything to, so there's no fourth of it, and that's not a fault, that's what it is. It stops when I stop talking, and if I stop talking there's nobody in it and there's nothing to be released." He looked at his right hand. "I've been doing it nineteen years and I've never once had a beat for it, and I'll tell you the truth, son: it hasn't needed one. Conor goes home tonight. Conor's been doing it that way since he was seventeen and Conor's not hurt and Conor's not a machine."
 
 Odile Fenn did hers last, and she did it well, and it was the one that took Marek's breath.
 
@@ -87,7 +87,7 @@ Three rooms' worth of looking. Sarr's was a teacher's, quick, checking the room.
 
 Nobody in the room said a word about it, because it was the most ordinary thing in the world. In a room with a man in it, a person about to be observed finds out whether the observer is about to speak. In a classroom it is how you stay out of trouble. In a corridor outside a kit store it is how you find out whether a person with a clipboard is about to say *no*.
 
-And Marek Senn stood eight feet away with a timetable in his hand and a rule in his own handwriting, three weeks old, in a notebook, and felt the whole shape of it close.
+And Marek Senn stood eight feet away with a timetable in his hand and a rule in his own handwriting, four weeks old, in a notebook, and felt the whole shape of it close.
 
 * * *
 
@@ -115,7 +115,7 @@ Rafi Pell was standing by the door with his hood in his hands.
 
 "I know what the girl did."
 
-"You don't, because you were in it." Rafi pulled the hood down over his head, which was the gesture he made instead of swearing. "I've been stood at the bottom of that step for two year with my shoulder on a wall, and the wall's not the wall. You know what the wall is? The wall's *a place where somebody has to be*. That's all it's ever been. It takes a body about a year to learn that once somebody points at it, and it's the first thing anybody teaches you and nobody tells you, and I am twenty-one and I have had two year of it."
+"You don't, because you were in it." Rafi pulled the hood down over his head, which was the gesture he made instead of swearing. "I've been stood at the bottom of that step for two years with my shoulder on a wall, and the wall's not the wall. You know what the wall is? The wall's *a place where somebody has to be*. That's all it's ever been. It takes a body about a year to learn that once somebody points at it, and it's the first thing anybody teaches you and nobody tells you, and I am twenty-one and I have had two years of it."
 
 "Ruf—"
 
@@ -131,7 +131,7 @@ He turned round.
 
 "Rafi—"
 
-"Two year," he said. "Two year I've been putting my shoulder on a wall because there's a step in that job and the step needs a wall and I never once asked where the wall came from. And you put three people in a room and they all looked at you at the same place, and you did not see it, and I did, and that is the only useful thing I've done all year and I'm not standing in a room being useful."
+"Two years," he said. "Two years I've been putting my shoulder on a wall because there's a step in that job and the step needs a wall and I never once asked where the wall came from. And you put three people in a room and they all looked at you at the same place, and you did not see it, and I did, and that is the only useful thing I've done all year and I'm not standing in a room being useful."
 
 He went.
 
@@ -171,7 +171,7 @@ The smell of a fish cold store at five in the morning came up again, and he put 
 
 They let him.
 
-"Three of you are trained by the same man," he said. "All three. And I knew that before I asked you, and I wrote it down as a rule in a clinic bay five weeks ago, and I came in here tonight with it in my pocket anyway. And what happened is not that you did it the same way. What happened is that you all stopped at the same place and looked at the same man, and I felt the whole thing line up like an answer, and I *wanted* it." He put the mug down. "And the thing I was holding was me. It was not the three of you. I was the fourth point, and I did not know I was in it, and neither did any of you, and P noticed and left, and he is right, and I am not going to sit here and be sad about it in front of you because I would then be doing the thing again, which is making a feeling out of it and calling it a finding."
+"Three of you are trained by the same man," he said. "All three. And I knew that before I asked you, and I wrote it down as a rule in a clinic bay four weeks ago, and I came in here tonight with it in my pocket anyway. And what happened is not that you did it the same way. What happened is that you all stopped at the same place and looked at the same man, and I felt the whole thing line up like an answer, and I *wanted* it." He put the mug down. "And the thing I was holding was me. It was not the three of you. I was the fourth point, and I did not know I was in it, and neither did any of you, and P noticed and left, and he is right, and I am not going to sit here and be sad about it in front of you because I would then be doing the thing again, which is making a feeling out of it and calling it a finding."
 
 Nobody said anything for a moment.
 
