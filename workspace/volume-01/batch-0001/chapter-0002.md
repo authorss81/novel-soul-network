@@ -6,7 +6,7 @@ The blind on the tall window was stuck a third of the way down, so the room had 
 
 Marek got there at nine-oh-five. He put his bag on the floor by the wall, not under the bench, because under the bench was where the previous class left things and the previous class had stolen a plate stirrup.
 
-Nine-twelve. Group C was twelve, and by nine-eighteen there were eleven of them in the room with Rusk's own name written on the sheet below them, which is how the department had always run a third-year drill. The door opened and Odile Fenn came in with her hair wet and a paper cup, said "he is going to make us do it twice, he always makes us do it twice," and went to stand in the yellow tape. Then Tam Arrick came in already in his work boots, which was against the rules and which nobody would mention, because Tam was a third-year who pulled double shifts at a kitchen on the Saltmarket and slept through the mornings, and the department had long since decided that a boy who can stand up is a boy who can be taught.
+Nine-twelve. Group C was twelve, and by nine-eighteen there were ten of them in the room with Rusk's own name written on the sheet below them, which is how the department had always run a third-year drill. The door opened and Odile Fenn came in with her hair wet and a paper cup, which made it eleven, and she said "he is going to make us do it twice, he always makes us do it twice," and went to stand in the yellow tape. Then Tam Arrick came in already in his work boots, which was against the rules and which nobody would mention, because Tam was a third-year who pulled double shifts at a kitchen on the Saltmarket and slept through the mornings, and the department had long since decided that a boy who can stand up is a boy who can be taught.
 
 Tam's face had the particular gray of a person who has been awake since two. He said, "You saw the roster?"
 
@@ -40,7 +40,7 @@ Marek knelt.
 
 The plate came off the shelf and into his hands and his whole life narrowed to about eight inches of mineral fiber.
 
-It was the same plate he had pulled a scorched contact out of two nights ago. Not the same unit — a different one, from the shelf, out of the crate — but the same make, the same batch, the same slight grain in the fiber. The housing seated true. The copper return contact came up dull and clean. The strap was webbing with a steel cam buckle, eleven centimeters wide, and the threadline printed on the shoulder of it in a font that had never once had to apologize for anything.
+It was the same plate he had pulled a scorched contact out of two nights ago. Not the same unit — a different one, from the shelf, out of the crate — but the same make, the same batch, the same slight grain in the fiber. The housing seated true. The copper return contact came up dull and clean. The strap was webbing with a steel cam buckle, eleven centimeters wide, and the Threadline name printed on the shoulder of it in a font that had never once had to apologize for anything.
 
 Beating. Anchor, heel pressure, floor. Load, the two-handed lift, the brace taking the weight through the return contact. Close, the strap in three passes, alternating, so the tension walked around the frame instead of pulling one corner crooked. And then the fourth.
 
@@ -84,7 +84,7 @@ At eleven-oh-four Rusk said, "Swap. Tam, you're on the ladder, Odile, you're on 
 
 Rusk stepped back to the wall. Rafi took the ground side of the line with his ratchet strap and stood on the tape like a man who had been told where to stand and was going to be irritated about it later.
 
-Marek took the load. Eighty kilos of training dummy on the rig above him, an unknown quantity of boy coming down a ladder, and a shoulder that had been wrong since a job on Wednesday.
+Marek took the load. Eighty kilos of training dummy on the rig above him, an unknown quantity of boy coming down a ladder, and a shoulder that had been wrong since a job on Monday.
 
 "Slow," he said. "One rung. Tam, one rung at a time and say it out loud, because if you say it I can hear you and if I can hear you I know where you are."
 

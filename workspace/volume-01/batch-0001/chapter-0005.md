@@ -32,7 +32,7 @@ Somebody laughed. It was not a funny line.
 
 He turned the script over.
 
-"Rules for the run, from the board, and they are the same every term. First: a candidate may ask the board observer to repeat a beat. Second: the instructor may speak a beat, because the instructor is present under the scoring conditions, and the board records who supplied it. Third — " and he read this one off the card and not off his own memory, which Marek noticed and did not understand at the time " — where a candidate's sequence does not complete, the deficiency is recorded against the candidate, and remains recorded until the candidate demonstrates otherwise to the satisfaction of the department. Fourth: the run is scored on completion of the sequence, not on safety of the person, because the manikin cannot be hurt and the two are not the same test."
+"Rules for the run, from the board, and they are the same every term. First: a candidate may ask the board observer to repeat a beat. Second: the instructor may speak a beat, because the instructor is present under the scoring conditions, and the board records who supplied it. Third — " and he read this one off the card and not off his own memory, which Marek noticed and did not understand at the time" — where a candidate's sequence does not complete, the deficiency is recorded against the candidate, and remains recorded until the candidate demonstrates otherwise to the satisfaction of the department. Fourth: the run is scored on completion of the sequence, not on safety of the person, because the manikin cannot be hurt and the two are not the same test."
 
 Nobody said anything. Nine people and a great deal of white floor.
 
@@ -140,7 +140,7 @@ He did not cry and he did not shout. He walked out through the service door, int
 
 Then he laughed, once, out loud, in the middle of an empty walkway.
 
-Because of what Rusk had said. He had said *she will do what the load-holder says or she will do nothing* — to Marek, in a plastic chair, three weeks and two days before, in a room with a stuck blind. And then today Marek had been the load-holder, and had not said anything, and Odile's successor had done nothing, and the man in the plastic chair had been right about the mechanism and wrong about the cause, and had also been right to be frightened, and Marek had been right too, and the room had still ended with a wooden tray and a form.
+Because of what Rusk had said. He had said *she will do what the load-holder says or she will do nothing* — to Marek, in a plastic chair, exactly three weeks before, in a room with a stuck blind. And then today Marek had been the load-holder, and had not said anything, and Odile's successor had done nothing, and the man in the plastic chair had been right about the mechanism and wrong about the cause, and had also been right to be frightened, and Marek had been right too, and the room had still ended with a wooden tray and a form.
 
 It was the first time in his life he had chosen a rule over a reward. It did not feel like pride. It felt like stepping off a curb expecting the ground to be there and finding it there exactly where it was, which is a small thing, and which he understood — sitting on the step, with his hands hanging between his knees — he would be spending a long time thinking about, because he had chosen it in front of three people whose job it was to make him regret it, and there was no version of this afternoon in which he was a man with a plan.
 

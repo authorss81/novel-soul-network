@@ -1,6 +1,6 @@
 # Batch 0001 Summary — Volume 01, Chapters 1–10 ("The Drill")
 
-Phase: writer, batch 0001. Chapters written: 10. Total prose: ~34,700 words. (Revised after the phase-002 review; the batch is the same batch, not a restart.)
+Phase: writer, batch 0001. Chapters written: 10. Total prose: ~34,700 words. (Revised after the phase-002 review; the batch is the same batch, not a restart. A second continuity-repair pass was run on the same ten chapters — see "Repair pass" below. **No canon changed in it.**)
 Files: `chapter-0001.md` through `chapter-0010.md` in this directory.
 
 ## What this batch delivers
@@ -84,6 +84,21 @@ Week 6, Thursday night. The provisional witnessed assessment is Thursday of week
 6. What is in the Marrow Falls log that Sera will not read aloud?
 7. The Institute withdraws the week-7 date in Chapter 12, before it can arrive. What replaces the promised route, and what does the squeeze cost?
 
+## Repair pass (second continuity pass, same ten chapters)
+
+A read-through for date arithmetic, attribution, and duplicated speech found sixteen defects. All were fixed in place; **no scene, beat, or canon fact was changed, and the batch is still 10 chapters and ~34,700 words.** The defects were:
+
+- **Ch 10, load-bearing.** The fish porter's release was attributed to Marek, which destroyed the chapter's whole point and contradicted both the load-book entry and the canon line for Mal Farrow. The porter now narrates his own release to himself, out loud, to nobody, and answers his own question — which is what makes him the answer to Tam's request for an observer nobody taught the card.
+- **Ch 8.** The five days before the dock were recounted with the Sennet Row doorway conversation on "the Sunday," which contradicted Chapter 6, where it happens on the Tuesday of week 5. The passage now accounts for the two real clinic visits and dates the doorway scene correctly.
+- **Ch 3.** "Fast for a Tuesday" — the drill is the Thursday of week 1.
+- **Ch 9.** Five date/name errors: the crate label read on "Tuesday night" (it is the Thursday night of week 5), the clinic-bay rule "ten days earlier" (six), the apprenticeship offer "since Tuesday" (Thursday of week 4), "six days" to the assessment from Wednesday of week 6 (eight), and Sera Quill misgendered as "Mr.".
+- **Ch 6.** A memory of his own voice "three weeks ago in a corridor" that was never shown and was misquoted; it now quotes the line he actually says in the scene, ten minutes earlier. And the examination described as "in seven days" when Chapter 6 is the Tuesday of week 5 and the assessment is the Thursday of week 7 — sixteen days.
+- **Ch 4.** Rafi saying he had run the ring road "on Saturday" during the Thursday he was describing, and saying the same three clauses twice in adjacent lines of one speech; de-duplicated and re-dated to the same day. Also "wanted to do for three days" on the day of the drill.
+- **Ch 2.** Attendance: the room held ten before Odile arrived, making the eleven of Group C in the room that the canon requires. Shoulder injury dated to Monday of week 1, matching Chapter 1.
+- **Ch 5, 7, 10.** "Three weeks and two days" (it is exactly three weeks), a stray space inside a quotation, "crossed out six times" where the page shows three, and the surgery eight hours out rather than six.
+
+`state/continuity.md` now carries a **verified in-world timeline of Chapters 1–10** with each scene's day and hour, so Movement II can assign dates without re-deriving them.
+
 ## Notes for the next writer
 
 - **Chapter 25 is untouched and unspent.** Chapters 1–10 establish the absence, the script's own words, and the 3-08/4-19 wording difference. They do **not** contain a revision history, a design-approval entry, an approval-page search, or any claim that somebody chose the substitution. In Chapter 7 Marek names four live explanations and says he cannot tell which. Do not let Movement II spend that. Page nine of the booklet is a page he has not opened.
@@ -95,3 +110,4 @@ Week 6, Thursday night. The provisional witnessed assessment is Thursday of week
 - A System panel is introduced by `* * *`. A scene break is `---`.
 - Do not name the Crown Clause, do not let Sera say the name on the log, and do not let anyone identify the signature's authorship.
 - Threadline is the assembler and seller. The blank licensor field must survive unanswered.
+- **Before assigning a date, read the verified in-world timeline in `state/continuity.md`.** Chapters 2, 3 and 4 are all one Thursday (the Thursday of week 1), and Chapter 7's store-room scene is the Thursday night of week 5 ending at 01:05 on the Friday. Weeks run Monday to Sunday.

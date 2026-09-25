@@ -9,7 +9,7 @@ No further action. Four words that had cost a boy a fortnight and would, if left
 
 Marek stood and read it twice. Then he went in and asked for the sheet.
 
-"The record is a department matter," Darla Vint said, without any unkindness whatsoever. She was the same as she had been on the Thursday, which was to say she was doing her job in a building that had made the job unpleasant. "You can have a copy of your own transcript at any time. You can't have the drill sheet, because the drill sheet is a teaching record and there are twelve students on it."
+"The record is a department matter," Darla Vint said, without any unkindness whatsoever. She was the same as she had been on the Thursday, which was to say she was doing her job in a building that had made the job unpleasant. "You can have a copy of your own transcript at any time. You can't have the drill sheet, because the drill sheet is a teaching record and it names the whole of Group C."
 
 "Eleven students didn't intervene."
 
@@ -25,7 +25,7 @@ There were three papers on the desk. The third was two sides and it was not a fo
 
 "Technician apprenticeship," Marek said, reading it standing up.
 
-"City maintenance track," said Deputy Roos. "Starts the week after next. Forty-one hours, the Spine's own rota, not ours. You would be inside a year, on the ladder by the second, and Mr. Quill has been asking me since September whether I had anybody to put on the ladder, which I took at the time as a complaint about somebody and now I understand was a vacancy."
+"City maintenance track," said Deputy Roos. "Starts the week after next. Forty-one hours, the Spine's own rota, not ours. You would be inside a year, on the ladder by the second, and Ms. Quill has been asking me since September whether I had anybody to put on the ladder, which I took at the time as a complaint about somebody and now I understand was a vacancy."
 
 "Sera asked for me."
 
@@ -57,7 +57,7 @@ Marek put the second page down on the desk, squared to the edge, and put the thi
 
 "Then I will defend the kit with everything I have, because I have three hundred and forty students inside a building that runs that technique twice a week and I have signed the order, and if it is unsafe, Mr. Senn, then I am the one who is going to have to say so, and I have a family and a job and eleven weeks until the board sits and I have not the least idea what I would do with the answer." She put her hands flat on the desk. "You are asking me to bet a building on a shape you saw in a room and cannot say out loud to anybody who was not already on your side."
 
-He stood in that office with a job offer and a reputation in his hands, and he thought about his own handwriting in a clinic bay ten days earlier, in the smallest writing he owned: *do not let wanting press two things together until they look like evidence. If I ever catch myself doing that, the wanting is the answer, not the thing.* He thought about a fourteen-year-old log page in a metal cabinet, and about a hand flat on a wet crate.
+He stood in that office with a job offer and a reputation in his hands, and he thought about his own handwriting in a clinic bay six days earlier, in the smallest writing he owned: *do not let wanting press two things together until they look like evidence. If I ever catch myself doing that, the wanting is the answer, not the thing.* He thought about a fourteen-year-old log page in a metal cabinet, and about a hand flat on a wet crate.
 
 "How long would the vendor matter take?" he said.
 
@@ -73,7 +73,7 @@ Anneke Roos was quiet for a long moment.
 
 "You have looked at a bundle label," she said.
 
-"Tuesday night. There's a brass key on a loop that nobody asked for back."
+"Thursday night. There's a brass key on a loop that nobody asked for back."
 
 "Then the department is going to want that key," she said, "and the department is going to want the crate locked, and I am going to have to do that, and I am sorry, because I can see exactly what you did and I cannot let it stay open in a store room behind the porters' cage." She took a breath. "But I am not going to have it reissued."
 
@@ -93,7 +93,7 @@ Marek looked at the three papers. A job. A line on a transcript he could not fix
 
 Deputy Roos did not move.
 
-"Not because it's a bad offer. It isn't. It's the best thing anybody in this building has put in front of me in three years, and you knew that when you made it, and you made it anyway, and I have thought about nothing else since Tuesday." He put two fingers on the top sheet without moving it. "Because you have put a price on the sentence, and the price is that I have to stop asking. And the second I have signed, the day I stop asking is the day Tam Arrick has a scarred forearm and a transcript that says the equipment was sound, and nobody will ever know that a decision was made in an office, because a man in a good job who is not asking is not a story. That's the whole product. That's what you just described to me, and you described it honestly, and I want to say that you described it honestly."
+"Not because it's a bad offer. It isn't. It's the best thing anybody in this building has put in front of me in three years, and you knew that when you made it, and you made it anyway, and I have thought about nothing else since the Thursday you handed it to me." He put two fingers on the top sheet without moving it. "Because you have put a price on the sentence, and the price is that I have to stop asking. And the second I have signed, the day I stop asking is the day Tam Arrick has a scarred forearm and a transcript that says the equipment was sound, and nobody will ever know that a decision was made in an office, because a man in a good job who is not asking is not a story. That's the whole product. That's what you just described to me, and you described it honestly, and I want to say that you described it honestly."
 
 "Then what do you propose," Anneke Roos said. "Because there is a form on the desk and the form is not going to fill itself."
 
@@ -259,6 +259,6 @@ Marek walked back up the ramp with his hands in his pockets and the copy in one 
 
 He did not file anything. Not yet. He had understood that afternoon, sitting on a bench in a copy room, that a complaint was a request to somebody else to fix it, and a vendor response to a complaint was a new set of plates in a new lot with a new number and a clean label, and that in nine months there would be nothing left in this city to count.
 
-What he needed instead was not a form. He needed people. He needed three observations of a fourth beat from people who had never been inside the practical building, never been drilled on a frame, and never in their lives been told that the word was the answer — and he had exactly none, and he had six days, and somewhere in Nacre at that moment there were a great many people doing difficult things with their bodies for money.
+What he needed instead was not a form. He needed people. He needed three observations of a fourth beat from people who had never been inside the practical building, never been drilled on a frame, and never in their lives been told that the word was the answer — and he had exactly none, and he had eight days, and somewhere in Nacre at that moment there were a great many people doing difficult things with their bodies for money.
 
 He got the tram. He wrote the sum in the load book and then he sat in the front seat with the notebook closed on his knees for forty minutes without opening it, which was the first decision he made in six weeks that was not an emergency.

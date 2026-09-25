@@ -68,9 +68,9 @@ A fish porter of about sixty came through with a crate on his shoulder and put h
 
 Marek was six feet away and did not move, because he could not move, because the man did not need him.
 
-He got his hand off the table frame. He said, "That's the floor, it's cold, it hurts, I can hear the ice." And he lay there and let the man's knee come up. And then, after a moment, he said the second thing: "It's off you. It's on the crate. It's not on you anymore. Get it off yourself or leave it, it's your call, I've got you."
+The porter got his hand off the table frame and said, out loud, to nobody, "That's the floor, it's cold, it hurts, I can hear the ice." He lay there for a moment with the crate on his chest and his hip going, and let his own knee come up. And then he said the second thing, also out loud, also to nobody: "It's off you. It's on the crate. It's not on your hip anymore. Get it off yourself or leave it, it's your call, I've got you."
 
-And the man said, "Leave it," and laughed, and lay there for another half minute, and then got himself up with his own two hands and a table leg, and picked the crate up off his own chest and put it down, and went back to work.
+And then, answering his own question, he said, "Leave it," and laughed, and lay there for another half minute, and then got himself up with his own two hands and a table leg, and picked the crate up off his own chest and put it down, and went back to work.
 
 Nobody in that room said a word about it. Two of them had clearly seen the whole thing, and one of them was a woman with a tea urn who put a cloth down, picked it up again, and then went and did something else.
 
@@ -158,7 +158,7 @@ Rafi put the invisible load down.
 
 The ward was eleven beds and it was twenty to midnight on the Thursday, the lights turned down to a strip, and a boy of twenty sat up in bed four with his right forearm strapped to a board.
 
-Two tendons. Not dressed in a cast, dressed the way a hand is dressed when it has to be seen again in the morning: palm toward the ceiling, a padded dorsal splint running from below the elbow to the knuckles, the fingers left free, and a loop of tape across the wrist with a time written on it in marker. The hand was enormous. That is what a hand looks like when it has been kept from moving for four hours so that a surgeon will have something to work on in six hours' time, and it was the largest thing in the room.
+Two tendons. Not dressed in a cast, dressed the way a hand is dressed when it has to be seen again in the morning: palm toward the ceiling, a padded dorsal splint running from below the elbow to the knuckles, the fingers left free, and a loop of tape across the wrist with a time written on it in marker. The hand was enormous. That is what a hand looks like when it has been kept from moving for four hours so that a surgeon will have something to work on in eight hours' time, and it was the largest thing in the room.
 
 He would not have the operation explained to him twice, which the registrar on duty found charming and would later describe as *not entirely oriented* in a note.
 

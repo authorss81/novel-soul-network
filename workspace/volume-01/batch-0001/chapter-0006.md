@@ -80,7 +80,7 @@ He read the bottom, in the box:
 
 *Access to premises, to equipment, and to the handling of training stock under the supervision of the host institution. This form confers no permission in respect of any individual practice, share, record, or observation. Any such permission must be given in the manner and on the scope provided by the host institution, naming its purpose and its limits.*
 
-He read it twice. Somewhere in the middle of the second reading he began to hear, very clearly, his own voice from three weeks ago in a corridor: *I didn't sign it.*
+He read it twice. Somewhere in the middle of the second reading he began to hear, very clearly, his own voice from ten minutes ago, out in the rain: *She said it was pre-signed. I never signed it.*
 
 "This form confers no permission," Talia said, taking the sheet back. "A pre-signed piece of paper, a signature by a department that is not here, a person standing near you — none of that is a yes from the person on the table. That is not me being clever. That is the only sentence in the document and it is there because somebody got hurt once and had to write it down."
 
@@ -192,7 +192,7 @@ They stood in the road a while. The diesel unit shut off and the rain got loud.
 
 "And if I do describe it?"
 
-"Then you will have one observation, and it will not be evidence of anything, because you are one tired student with a bad record and a thing in his head he should not have, and no board in the world is going to change a transcript on the strength of it." She shouldered her bag. "Which is why the thing you actually have to do is not with me. It is with people the Institute has never taught, and it is going to take longer than a term, and there is no version of the next four weeks in which you walk into that examination hall in seven days and pass."
+"Then you will have one observation, and it will not be evidence of anything, because you are one tired student with a bad record and a thing in his head he should not have, and no board in the world is going to change a transcript on the strength of it." She shouldered her bag. "Which is why the thing you actually have to do is not with me. It is with people the Institute has never taught, and it is going to take longer than a term, and there is no version of the next four weeks in which you walk into that examination hall in a fortnight and two days and pass."
 
 "I know."
 

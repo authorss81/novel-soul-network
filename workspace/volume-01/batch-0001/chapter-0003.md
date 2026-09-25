@@ -69,7 +69,7 @@ He looked at two fingers. He said, "Scope," into the air, to nobody, because tha
 
 Rafi said, from the floor, in a small voice, "That's what it was? That was the missing one? Just the word?"
 
-The Institute's ambulance came at eleven nineteen, which was fast for a Tuesday, and took Tam because Tam wanted to go, which he was allowed to do, and which nobody argued with, and which Marek understood the next day, when he had more room in his head, was Tam choosing to leave the building before anyone could ask him questions in it.
+The Institute's ambulance came at eleven nineteen, which was fast for a Thursday, and took Tam because Tam wanted to go, which he was allowed to do, and which nobody argued with, and which Marek understood the next day, when he had more room in his head, was Tam choosing to leave the building before anyone could ask him questions in it.
 
 The dummy went back on its hook. The brace came apart. Odile cleaned the plate with her sleeve and put it back in the rack, and the plate went into the rack with the copper contact still warm, and it looked like any plate, and it was warm.
 

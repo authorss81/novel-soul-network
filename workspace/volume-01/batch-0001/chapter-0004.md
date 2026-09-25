@@ -44,11 +44,11 @@ Rafi said, from the floor, "Is it the word?"
 
 "What word?"
 
-"The scope word." Rafi said it carefully, like a man handling something he had been told not to touch. "The thing that stops the fall. Can you give it to me? I want it. I've been thinking about it since Thursday and I can't stop thinking about it, and I ran a lap of the ring road on Saturday and I did the shoulder thing four times and it wasn't the same, and I know it wasn't the same, and I could feel the difference and I want to know what the difference *is*."
+"The scope word." Rafi said it carefully, like a man handling something he had been told not to touch. "The thing that stops the fall. Can you give it to me? I want it. I've been thinking about it since eleven o'clock this morning and I can't stop thinking about it, and I ran a lap of the ring road at lunch and did the shoulder thing four times, and it wasn't the same, and I know exactly how it wasn't the same, and I want to know what the difference *is*."
 
 "Ruf."
 
-"I'm not being daft. I know how it sounds. Listen to me." Rafi got up onto his knees. "That thing on Thursday. When it happened. That wasn't you. That was — I was holding the strap and there was two of us holding the strap and I could feel what you were about to do before you did it, like a bicycle coming round the corner. Do you know how good that is? Do you know how many hours I've spent on that ring road alone trying to get the balance right? I ran it twice since Thursday and I did the shoulder thing four times and it wasn't the same, and I know it wasn't the same, and I could feel the difference and I want to know what the difference *is*. That's not a trick, that's a *skill*, and I want to learn it, and I'm not going to stop asking you about it, and you can just tell me no."
+"I'm not being daft. I know how it sounds. Listen to me." Rafi got up onto his knees. "That thing on Thursday. When it happened. That wasn't you. That was — I was holding the strap and there was two of us holding the strap and I could feel what you were about to do before you did it, like a bicycle coming round the corner. Do you know how good that is? Do you know how many hours I've spent on that ring road alone trying to get the balance right? That's not a trick, that's a *skill*, and I want to learn it, and I'm not going to stop asking you about it, and you can just tell me no."
 
 And there it was, standing in the middle of his own front room in a courier shell, being completely sincere: the first person Marek had ever known who would have said yes without needing to know what the question was.
 
@@ -84,7 +84,7 @@ Civic Spine 7 at ten past nine, on a Thursday, with four units on the list and o
 
 He did the lamp first because it was Mrs. Oyelaran's and she was seventy-nine and had already complained once, in writing, and the Spine does not get a second complaint from the same address.
 
-Then he sat down at the bench with the notebook and a cold flat of the department's terrible coffee and tried to do the only thing he had wanted to do for three days, which was to see if the shape would come back.
+Then he sat down at the bench with the notebook and a cold flat of the department's terrible coffee and tried to do the only thing he had wanted to do since eleven o'clock that morning, which was to see if the shape would come back.
 
 He could not get it. He tried twice with Rafi's half in mind — the load on the back of the heels, the shoulder going in, the check with his own hand — and the best he got was a fairly good description of a courier changing lanes in rain.
 

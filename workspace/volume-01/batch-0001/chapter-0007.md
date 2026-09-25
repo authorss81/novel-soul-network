@@ -204,4 +204,4 @@ Five days. He had a shape he could not put in anybody, a woman who had told him 
 
 He stood in the dark and worked out that the first thing was the same thing he had done in week one.
 
-He walked to the tram with the brass key still warm in his hand, wrote it in the load book at twenty past two, and then sat on the end of his own bed and did not sleep, because the shape of the fourth beat — the one he had crossed out six times and finally written down in a clinic bay three hours earlier — had gone from a feeling to an appointment.
+He walked to the tram with the brass key still warm in his hand, wrote it in the load book at twenty past two, and then sat on the end of his own bed and did not sleep, because the shape of the fourth beat — the one he had crossed out three times and finally written down in a clinic bay three hours earlier — had gone from a feeling to an appointment.
