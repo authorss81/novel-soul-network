@@ -262,6 +262,15 @@ Asha wants technique education not to be reserved for people who can pay for pri
 
 Dessa demonstrates that the network is not a secret weapon. Her techniques involve timing, heat, repair, and feeding people. She refuses to let institutions turn her recipes into a proprietary standard. Her ordinary competence gives the public network a credible life beyond combat and crisis.
 
+## Supporting cast introduced in Volume 01
+
+These are working Volume 01 characters. They are canonical for the volume but should not be expanded into protagonists or given arcs beyond what the volume outline assigns them.
+
+- **Davan Rusk:** 47. Practicum instructor at the Nacre Institute, Threadline-certified, twenty-two years in the department. He is the key-holder for the missing fourth beat by position and by belief: his certification taught him that the instructor supplies completion, and he has never had cause to doubt it. He is not a villain and must never become one. His function is to make the volume's first antagonist — a procedure that rewards one approved answer — into a decent man's career. By the end of Volume 01 he is a reluctant witness who has to admit that his own training produced the cue he supplied.
+- **Tam Arrick:** 20. Third-year student, night work at a Saltmarket kitchen. The classmate Marek saves in Chapter 3 and whose release becomes cue-locked as a result. He is the volume's first victim and its most exacting critic, not a prop: he tells Marek to stop speaking for him, he writes his own recovery plan, and by Chapter 50 he holds it. His injury, lost wages, and slow recovery are permanent costs.
+- **Hollis Pratt:** 51. Continuity Office field assessor. Procedural, fair, and genuinely frightened of what a precedent would cost the city. He arrives as forms, conducts the formal review, and declines to trace the licensor on the grounds that the bundle is a commercial matter. He is the face of the limit of institutional authority in Volume 01.
+- **Mal Farrow:** 61. Former courier, now works the fish market at Saltmarket, bad hip, clinic patient under a care-link in Volume 01 Movement II. Recurring and ordinary. He exists so the volume is not only about students, and so that a care-link is a real thing with a real review date.
+
 ## Relationship map and boundaries
 
 - **Marek–Talia:** slow-burn romantic partnership; conflict over who may decide for whom; final shared life remains voluntary and separately accountable.

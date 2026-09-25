@@ -11,3 +11,8 @@ These are the initial author promises. They are not resolved until the correspon
 7. **The public institution:** The story must build from a First Knot to a Practice Commons and finally a federated Civic Commons. The ending cannot be a private victory.
 8. **Evan Senn:** His missing history and deliberate self-removal remain a middle-volume family mystery; he does not return or leave a magical inheritance.
 9. **The unresolved consequence:** A successful hinge rescue may leave someone dependent. The team must show recovery, refusal, and repair rather than a clean reset.
+10. **The blank licensor field:** The 4-19 bundle carries an empty upstream licensor field. It must stay unanswered through Chapter 50 and carry the supply-chain question into Volume 02, where Threadline is exposed as a conduit rather than the author.
+11. **The instructor's script:** The bundle's teaching script names the instructor's cue as the expected completion. This is the Volume 01 midpoint proof (Chapter 25) that the omission is designed rather than accidental.
+12. **"Last approved civic sequence":** A phrase in that script and in a fourteen-year-old Marrow Falls maintenance log signed with the name Iona Sorn. Seeded as a document in Volume 01; never explained there.
+13. **Rafi says yes too early:** His courier balance step carries the same missing fourth beat and he compensates with a shoulder against a wall. Established as a willing partner in Chapter 3 and paid off as his own dependence in Volume 02.
+14. **Nell's borrowed kit:** In Movement III a classmate's family lends Nell a 4-19 kit, and Marek has to take it back. She stops speaking to him. A family cost of the network's supply chain, not a hidden inheritance.

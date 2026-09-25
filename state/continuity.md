@@ -21,6 +21,23 @@ Bootstrap canon is now established. No chapter prose has been written.
 - The opening brace is distributed by Threadline from an unnamed upstream technique bundle. Threadline is the known contracted assembler and seller, not the original author of the Crown Clause.
 - Marek begins at Stage 0, Latent Counterpoint. His eventual stages end with Open Weave and the final Unbinding.
 
+## Volume 01 outline canon (planning, no prose yet)
+
+Set by `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`. These are commitments the prose phase must honor.
+
+- Volume 01 is titled *The Missing Beat* and runs Chapters 1–50 in five movements: The Drill (1–10), The Clinic and the Quarantine (11–20), Saltmarket (21–30), The Lower Wards and the Second Dependence (31–40), The Witnessed Drill (41–50).
+- The Institute kit is **Threadline revision 4-19**, shipped four months after the manual's printed **3-08**, with no changelog. The manual is never updated during the volume.
+- The hinge mechanism in this volume is precise: the card still prints a boundary **label**; the **performed** boundary-release beat is deleted; the bundle's own **instructor script** names the instructor's spoken cue as the expected completion. A missing label alone is not a hinge.
+- The bundle's **upstream licensor field is blank** and stays unanswered through Chapter 50. Threadline is the assembler and seller, never the author.
+- The phrase "last approved civic sequence" appears in the instructor script and in a fourteen-year-old Marrow Falls maintenance log. That log carries the name **Iona Sorn**. In Volume 01 she is a signature, not a character, and the **Crown Clause is never named in prose**.
+- **Evan Senn's scratched card** has four beats and a blank fifth. In Volume 01 it is a tool used as a shim and once a temptation; it is never explained.
+- Marek **does not receive the Solo Seal**. He is offered a witnessed assessment in Chapter 5 with the scholarship suspended; the assessment is held publicly in Chapters 44–48 and passes. The **provisional Working Share** is granted in Chapter 49, never earlier.
+- Volume-end power state is **Stage 1, First Knot**, with painful shared aftertaste and one clear failure: the knot collapses under load during the witnessed drill and a person is hurt. He cannot invent a practice; the climax's counterpoint sequence is a knot between two honest practices, not a technique of his own.
+- Tam Arrick's forearm injury, his lost kitchen wages, and his slow recovery are permanent costs and are never reset.
+- The Volume 01 climax requires the release to complete with **no key-holder in the room**, and requires the network to be independent: three genuinely independent lines, since the Movement II attempt at a three-source comparison fails as **false consensus** (all three observers trained by the same person).
+- New named supporting cast for Volume 01 is recorded in `bible/characters.md`: Davan Rusk, Tam Arrick, Hollis Pratt, Mal Farrow. Dessa Kwan appears from Chapter 10; Asha Reed in Movement V.
+- System panels in Batch 0001 are limited to Chapters 3 and 7. All other chapters run on bodies, tools, rooms, and paperwork.
+
 ## Mystery and ending constraints
 
 - The original Civic Compact required a visible Return Path and did not permit silence as agreement. Iona inserted the hidden Crown Clause into a working copy of its emergency protocol during the Marrow Falls outage; it treats silence as provisional consent and seeds hinge techniques.
