@@ -68,7 +68,7 @@ The argument by the tea urn was about a wrist.
 
 "Young men with a van." She said it flatly. "Same as the man who came round with the cat."
 
-The man with the ledger laughed, and the older woman did not, and Marek Senn stood in the middle of the floor of the Saltmarket Exchange at about twenty past eleven on the Wednesday morning of week 12 with an entire case in his coat pocket and no way to say one word of it that would be of any use whatsoever to anybody standing within four feet of him.
+The man with the ledger laughed, and the older woman did not, and Marek Senn was in the middle of the floor of the Saltmarket Exchange at about twenty past eleven on the Wednesday morning of week 12 with an entire case in his coat pocket and no way to say one word of it that would be of any use whatsoever to anybody standing within four feet of him.
 
 Then the dark-haired woman said the other thing, and she said it to the tea urn.
 
@@ -96,7 +96,7 @@ Marek Senn knew, without moving his head, that the flood season's first round wa
 
 Nobody knew who he was. He found that out by standing there for another ten minutes.
 
-He was not a repairer from Lattice. He was not a man from a college. He was a person standing near the tea urn at the back of a room, and four separate conversations went past him and not through him, and the most useful thing that happened to him in a term happened in those four minutes and the ten after them: he found out that the Lower Wards mesh existed, that it had a name for the man who kept its records, that it had been written to twice by the district, and that it had a deadline.
+He was not a repairer from Lattice. He was not a man from a college. He was a person standing near the tea urn at the back of a room, and four separate conversations went past him and not through him, and the most useful thing that happened to him in a term happened in those four minutes and the ten after them, and not one word of it came out of his mouth.
 
 He did not arrange any of it. He had not asked a single person a single question. He had been ignored for four minutes, the room had gone back to its own business, and its own business was the case, which is the only way anything has ever come to him that he was able to keep.
 
@@ -132,11 +132,13 @@ Marek Senn was not close enough to see what she wrote and did not go to look, wh
 
 Nobody had written Marek Senn's name anywhere in it. He checked twice, in two places, and then felt the whole shape of the thing arrive in his chest with a weight he had not been ready for: he had wanted to be the first name on a list for eleven weeks, and a fishmonger had taken a piece of paper and a rubber band and had done in ninety seconds the thing he had been unable to arrange in a term, and had put her own name at the top of the first column, and had made herself the first name in the sequence.
 
-He read it on the Thursday. Fourteen lines by then, and the sheet had been made into a small lined book with a rubber band round it, and the first line was in a hand that leaned forwards and said:
+---
+
+He read it on the Friday morning, at about eleven, standing at the noticeboard in a former ferry waiting room with his bag over his shoulder and a bus in four minutes, and the first line was in a hand that leaned forwards and said:
 
 *Wed. Wrist, 3 yrs. No name given. Said she'd had it since before the lad upstairs moved in. Told her: the number is a service number, it is not a fault, and she can ask them what it means and they needn't answer. Nobody to follow up. — B. N.*
 
-And the second line was in a small engineer's hand and was dated the Friday, and it was the second line because the woman rang at nine twenty and he rang at eleven:
+And the second line was in a small engineer's hand and was dated the Friday, and it was the second line because the woman had rung at about a quarter to twelve on the Wednesday on her way in from the front, and he had rung at about a quarter to eleven on the Friday and had not thought about it either:
 
 *Fri. Telephoned. I am the service engineer on that bulletin in this district. My name is P. Vance and I have got a service record and it is correct. What I am ringing about is the wall, and I am ringing because I said on the phone to a man on Tuesday what the wall costs, and I want it on your paper that I know the cost and I am not asking you to take it down. Tell whoever put the number up that a number is a reference until somebody with a sequence is looking for it. — P. Vance*
 

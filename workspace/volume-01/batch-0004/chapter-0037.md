@@ -1,15 +1,5 @@
 # Chapter 37 — A Key-holder Without a Certificate
 
-He worked out what he had become on the Tuesday morning of week 13, at the bench at Civic Spine 7, at about quarter to eight in the morning, with a relay in his hand that he had been holding for six minutes without looking at.
-
-He put it down. He read the values on it. He picked it up. He put it down again.
-
-Then he went and did the honest thing, which was to stop working, and to take his notebook out, and to write one line, and the line was:
-
-*I have a certificate in nothing. I have no licence, no assessment, no room, no list, no wage, no employer, and I am not anybody's responsibility, and I have been the fourth thing in three working buildings in a fortnight and I did it by standing on a bank and breathing, and there is no form on which a man can be recorded as having done it, which is the reason it worked.*
-
----
-
 Rafi Pell was eating a slice of toast over the sink at seven in the morning in the room above the laundromat and he had a courier bag on one chair and a sum on the counter and eleven minutes before the van.
 
 "One," he said out loud. "Two."
@@ -38,9 +28,19 @@ Rafi Pell listened with his mouth shut and then held up two fingers to nobody.
 
 He went.
 
-Marek Senn sat on the end of the bath for about two minutes and then wrote a second line in the notebook, and the line was:
+---
 
-*Rule three says one person, one thing, and take the answer. I asked one person one thing on Friday, one on Sunday, and I have asked two more today before one o'clock, and the rule is not about information, and I am writing down that I have broken my own rule in the middle of the day and that I have broken it four times in six days and every single time I did it because I was in a hurry to get to somebody else.*
+He worked out what he had become forty minutes later, at the bench at Civic Spine 7, at about a quarter to eight in the morning, with a relay in his hand that he had been holding for six minutes without looking at.
+
+He put it down. He read the values on it. He picked it up. He put it down again.
+
+Then he went and did the honest thing, which was to stop working, and to take his notebook out, and to write one line, and the line was:
+
+*I have a certificate in nothing. I have no licence, no assessment, no room, no list, no wage, no employer, and I am not anybody's responsibility, and I have been the fourth thing in three working buildings in a fortnight and I did it by standing on a bank and breathing, and there is no form on which a man can be recorded as having done it, which is the reason it worked.*
+
+And then a second line, which is this:
+
+*Rule three says one person, one thing, and take the answer. I asked one person one thing on Friday, one on Sunday, and one of them at seven o'clock this morning, and I have already worked out that I am going to ask two more before one o'clock this afternoon, and the rule is not about information, and I am writing the intention down rather than the act because I have noticed that I only ever break this one in a hurry to get to somebody else.*
 
 ---
 
@@ -76,7 +76,7 @@ Nkechi Osei put the cord down in a heap.
 
 She said it without any heat. She said it the way you say a thing you have worked out on your own over two days and have already made your peace with, and there was nothing at all in her face while she said it, and then she went back to coiling the cord and got about four turns of it done before she spoke again.
 
-Marek Senn stood in a pull-off off Fell Road and took it, and the taking of it was the most expensive four seconds of his term, and he wrote it up in the notebook on the bus down the hill in eleven words: *She is right and I have no answer and I am not going to make one up today.*
+He took it standing in a pull-off off Fell Road with his bag over his shoulder, and the taking of it was the most expensive four seconds of his term, and he wrote it up in the notebook on the bus down the hill in one line: *She is right and I have no answer and I am not going to make one up today.*
 
 ---
 
@@ -96,13 +96,13 @@ He telephoned Asha Reed at one o'clock from the bench and she took it on the sec
 
 "That's cheap and you're right, and I'll do it on Wednesday because market day, and Marda will be at the table and she will say something unkind about it, and she will be right."
 
-"Three. Tam Arrick's plan. He has written four columns on the back of a kitchen order form and column four is who watches and what they are allowed to say, and the first line of it is somebody who was never taught the card, and the second line is *and I want to know they said no*. He is a first-year on that maintenance track in about four months' time and he will be told nothing and taught everything and he will be given a booklet with no name on it." Marek Senn put his hand over the receiver for a second and then took it off again. "I am not asking you to read it. I am asking you to know that it exists, and I am asking you to let me tell him you know, and I am asking you to decide for yourself what to do with that, and if you do nothing then I will have told you a boy's private plan and you will have to work out what that means."
+"Three. Tam Arrick's plan. He has written four columns on the back of a kitchen order form and column four is who watches and what they are allowed to say, and the first line of it is somebody who was never taught the card, and the second line is *and I want to know they said no*. He will be a first-year on that maintenance track in about four months' time and he will be told nothing and taught everything and he will be given a booklet with no name on it." Marek Senn put his hand over the receiver for a second and then took it off again. "I am not asking you to read it. I am asking you to know that it exists, and I am asking you to let me tell him you know, and I am asking you to decide for yourself what to do with that, and if you do nothing then I will have told you a boy's private plan and you will have to work out what that means."
 
 There was a pause of about four seconds on the line.
 
 "He is a third-year," said Asha Reed.
 
-"He is a third-year and he cannot put weight through his hand until a Friday four days ago and he cannot hold anything heavy for three months, and he is the only person in this city who has done a release without a substituted cue in front of a witness, and the witness said in public that it was not a release, and neither of them wants anything to do with a room with me in it."
+"He is a third-year and he could not put weight through his hand until a Friday four days ago and he cannot hold anything heavy for three months, and he is the only person in this city who has done a release without a substituted cue in front of a witness, and the witness said in public that it was not a release, and neither of them wants anything to do with a room with me in it."
 
 "Right," said Asha Reed. "I will do nothing, and I will know, and you will tell him I know, and in four months' time when somebody in this building is about to stand in front of a first-year intake and say the fourth beat is a support beat, I will be a voice in a corridor in a cold corridor and it will not be you and it will not be me. That's the job. That's cheaper than a demonstration and much nastier and I am doing it."
 
@@ -122,4 +122,4 @@ He got up at two and wrote three things on a fault form and pinned none of them 
 
 *I have handed three of them something to hold. The fourth one I have not got a name for and I have not got a person, and I am not going to invent one, and I have been on this bench since ten o'clock trying to work out who in this city it would be correct to give a woman's wrist to, and there is nobody, and there are about four people who would each be a worse answer than me, and the correct answer is a person whose job it is, and there is no such person in this city, and I have known that since the fourth week of term and I have spent nine weeks being angry about it instead of writing it down.*
 
-*Which is the fifth time.*
+*And writing a sentence down is the only part of any of this I am actually good at, and I have got very good at it, and it is the same thing as the bank and the forty minutes on a telephone, and I do not think that is a discovery.*

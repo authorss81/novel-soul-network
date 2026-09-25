@@ -6,13 +6,9 @@ Marek Senn read it standing up, the way a man reads a thing he is not allowed to
 
 The columns were: *card*. *what is on it*. *what they were told*. *who took the call*.
 
-Eleven of the nineteen were wrists. Four were hip units. Two were on a man who had a *shoulder* thing and who had wanted to know whether the number was about the *collars*, which was the man from Lattice again, and who had rung twice. One was a school caretaker in Ashfields who had a box of eight in a storeroom from a man who had come round in a van. One was a line in a very neat hand that said *no card, we were told to leave them in the building* and had no telephone number on it at all, and the person who had taken that call had written *left a message* and had put nothing else, and Marek stood looking at that line for a while.
+Eleven of the nineteen were wrists. Four were hip units. Two were on a man who had a *shoulder* thing and who had wanted to know whether the number was about the *collars*, which was the man from Lattice again, and who had rung twice. One was a school caretaker in Ashfields who had a box of eight in a storeroom from a man who had come round in a van. One was a line in a very neat hand that said *no card, we were told to leave them in the building* and had no telephone number on it at all, and the person who had taken that call had written *left a message* and had put nothing else, and Marek stood looking at that line for a while. By the Saturday there was a second column's worth of hand in the book that he recognised and a third name he had never seen, and nothing in any of it was a fault and nothing in any of it was a claim.
 
-By the Saturday there was a second column's worth of hand in it that he recognised, and a third name he had never seen, and eleven of the nineteen lines were wrists and four were hip units and one was a school caretaker in Ashfields with a box of eight in a storeroom from a man who had come round in a van.
-
-The line he looked at longest was the neat one that said *no card, we were told to leave them in the building*, with no telephone number on it at all, and *left a message* in the fourth column and nothing else.
-
-Nobody had written Marek Senn's name anywhere in the book and nobody was going to, and on the Wednesday of week twelve that had been the best thing in his term, and by the Saturday of week twelve, standing at a noticeboard with thirty-one lines going to be in it by the Wednesday, it had begun to feel like a different fact. He wrote the number of the neat line in his own book and no more, and did not go near it, and went up the hill instead.
+Nobody had written Marek Senn's name anywhere in the book and nobody was going to, and on the Wednesday of that week that had been the best thing in his term, and by the Saturday, standing at a noticeboard with thirty-one lines going to be in it by the Wednesday, it had begun to feel like a different fact. He copied the neat line into his own book, third column and nothing else, and did not go near it, and went up the hill instead.
 
 ---
 
@@ -26,7 +22,7 @@ Errol Nkemdi was in the kitchen with his arm on a folded towel on the table, and
 
 "I'm making tea for you, that's different. I made mine at six."
 
-Bernadette Nkemdi came in from the hall with a washing basket on her hip and put it down hard. She was the dark-haired woman from the Exchange meeting on the Wednesday and she was forty-one and she had said on the Wednesday that he should not have it on him, and she had been right, and it had taken a stranger with a clipboard and a man from a repair shop to make it happen.
+Bernadette Nkemdi came in from the hall with a washing basket on her hip and put it down hard. She was the dark-haired woman from the Exchange meeting on the Wednesday and she was forty-one and she had said on the Wednesday that he should not have it on him, and she had been right, and it had taken a stranger with a pen and a piece of card and a man from a repair shop to make it happen.
 
 "I said it," she said. "I said it in the market, in front of about thirty people, and I said it on the Wednesday and I said it in this kitchen in September, and nobody in this family does anything until somebody from outside the house comes in with a — with a *card*."
 
@@ -34,7 +30,7 @@ Bernadette Nkemdi came in from the hall with a washing basket on her hip and put
 
 "You said it in September and then you went to the car park and got one off a table."
 
-"Yes," said Errol Nkemdi. "I did. And I've been saying so for three months, and you were right, and I'd do it again tomorrow, because I couldn't hold a pole in September without it." He moved the towel about half an inch. "So we're both right and there's nothing to do with that."
+"Yes," said Errol Nkemdi. "I did. And I've been saying so for about nine weeks, and you were right, and I'd do it again tomorrow, because I couldn't hold a pole in September without it." He moved the towel about half an inch. "So we're both right and there's nothing to do with that."
 
 Marek Senn sat at the table in a kitchen on Ferry Road and asked, in one sentence, and it was the only thing he had come up for, how many plates there were in the house.
 
@@ -48,13 +44,13 @@ Marek Senn sat at the table in a kitchen on Ferry Road and asked, in one sentenc
 
 "You've come up here for nothing, then."
 
-"I've come up here to ask one question and answer it," he said. "The round's Monday. Two days, nineteen men, no cover, and you're not on it and on Thursday you were at the gate with a plate on and a pole with a lot of weight on the other end of it. I want to know whether you're going to be at the gate on Monday morning."
+"I've come up here to ask one question and answer it," he said. "The round's Monday. Eleven days as of the Thursday, nineteen men, no cover, and you're not on it and on Thursday you were at the gate with a plate on and a pole with a lot of weight on the other end of it. I want to know whether you're going to be at the gate on Monday morning."
 
 Errol Nkemdi looked at his sister-in-law.
 
 "No," he said.
 
-"No," said Bernadette Nkemdi, and then, in a completely different voice: "no, he's not, and he can't, and nobody's said that to him yet, and the round's the Monday of week fourteen, and there's a set of steps at the Cutbank that want two men on a bar and there's not two men on a bar in this ward that aren't already on the round." She put the basket on the table. "So that's what your coming up here got. Nine days. You got my brother-in-law's arm out and a set of steps that want two men on a bar. Thank you very much."
+"No," said Bernadette Nkemdi, and then, in a completely different voice: "no, he's not, and he can't, and nobody's said that to him yet, and the round's the Monday of week fourteen, and there's a set of steps at the Cutbank that want two men on a bar and there's not two men on a bar in this ward that aren't already on the round." She put the basket on the table. "Nine days, and it is two days since the Thursday, and you have been up the hill three days running. So that is what your coming up here got. You got my brother-in-law's arm out and a set of steps that want two men on a bar. Thank you very much."
 
 "I know," said Marek Senn. "I'm sorry."
 
@@ -68,7 +64,7 @@ The sign still said **NO ENTRY WITHOUT A REASON** and **HAND TO A PERSON WHO KNO
 
 The clinic was in a lay-by outside the wholesale kitchens with its diesel auxiliary unit running and its fold-down step down, and at four o'clock on the Saturday afternoon Talia Venn was sitting on the step in a cardigan with a plastic folder on her knees and about four hours of the weekend in her.
 
-"You've been up the hill twice," she said.
+"You've been up the hill three times," she said. "And a clinic car that has been to the same address three times in a week is a line in somebody's file somewhere."
 
 "Three times."
 
@@ -80,7 +76,7 @@ The clinic was in a lay-by outside the wholesale kitchens with its diesel auxili
 
 She unbuttoned the front pocket of a green coat that was hanging over the step rail, took out a folded card, and gave it to him.
 
-It was the size of a playing card. There were five headings on it in her small flat hand and eleven lines of text and two signatures at the bottom, one of which was hers.
+It was the size of a playing card. There were seven headings on it in her small flat hand and three signatures at the bottom, one of which was hers and one of which was his, and the third of which was in pencil.
 
 "I am giving you this," she said, "because it is the smallest piece of paper I have ever written in this job, and I have written two hundred and five others that are bigger, and every one of the two hundred and five is a page of permission to do something to somebody who could not say no, and this one is a page of permission for a man to take his hand off a chain, and it is the only one of the two hundred and six where the person it was written for is the person it was written about."
 
@@ -94,9 +90,9 @@ She said that without any weight on it at all.
 
 "You'd been there on your own business."
 
-"I had," said Talia Venn. "I was on Fell Road from about half past ten on a Friday in my own time taking two statements about a list of September receipts that I got out of a woman in Crown Terrace last Tuesday by being very boring at her for forty minutes, and the two statements are the second and the third names on a list of ninety, and the list is a district open-day receipt list, and the district has a copy of it and I have seen the copy and I have an appointment about it on the Tuesday of week fourteen in a first-floor room in Bower Street with a man whose title is *continuity and returns, and that is the morning of your assessment, which I know, and I am not going to move it and I am not going to be in it." She stopped. "I have been in this city eight years and I did not know that list existed until a fortnight ago, and I found it on my own, and I am telling you about it because you are going to find it anyway and I would rather you had it in the correct order."
+"I had," said Talia Venn. "I was on Fell Road from about half past ten on a Friday in my own time taking two statements about a list of September receipts that I got out of a woman in Crown Terrace last Tuesday by being very boring at her for forty minutes, and the two statements are the second and the third names on a list of ninety, and the list is a district open-day receipt list, and the district has a copy of it and I have seen the copy and I have an appointment about it on the Tuesday of week fourteen in a first-floor room in Bower Street with a man whose title is *continuity and returns*, and I am not going to move it and I am not going to be in it." She stopped. "I have been in this city eight years and I did not know that list existed until a fortnight ago, and I found it on my own, and I am telling you about it because you are going to find it anyway and I would rather you had it in the correct order."
 
-Marek Senn looked at a card in his hand with five headings on it that he could not have written in nine minutes if he had had a year.
+Marek Senn looked at a card in his hand with seven headings on it that he could not have written in nine minutes if he had had a year.
 
 "What do you want me to do with the ninety."
 
@@ -104,7 +100,7 @@ Marek Senn looked at a card in his hand with five headings on it that he could n
 
 "It's a records request."
 
-"It is a records request against the Institute's own stores, made by a trainee with no licence, in the twelfth week of a term, about a distribution of equipment to households four months ago." She said it evenly. "I have thought about it for about a day and a half and I am not going to tell you what to do with it, and I am not going to tell you not to do it, and I have noticed that the two of those are different offers and that I have made the second one and not the first one, and I would like that noticed."
+"It is a records request against the Institute's own stores, made by a trainee with no licence, in the twelfth week of a term, about a distribution of equipment to households about nine weeks ago." She said it evenly. "I have thought about it for about a day and a half and I am not going to tell you what to do with it, and I am not going to tell you not to do it, and I have noticed that the two of those are different offers and that I have made the second one and not the first one, and I would like that noticed."
 
 "Are you refusing me something."
 
@@ -136,8 +132,6 @@ Marek Senn got up off the step.
 
 She put the coat on, and she did not shut the vehicle properly, and she got in and started it, and the diesel auxiliary cut when the engine came up, and the lay-by was suddenly very quiet.
 
-Marek Senn stood on a step outside the wholesale kitchens for a while with a playing-card of paper in his hand and a woman driving away from him with the second page of a record in her coat.
-
-There were nine days to the first round of the flood season. There was a set of steps at the Cutbank that wanted two men on a bar. There was a man on Ferry Road with a white band round his arm and no cover of any kind in the world.
+He stayed on a step outside the wholesale kitchens for a while with a playing-card of paper in his hand and a woman driving away from him with the second page of a record in her coat. There were nine days to the first round of the flood season, and a set of steps at the Cutbank that wanted two men on a bar, and a man on Ferry Road with a white band round his arm and no cover of any kind in the world.
 
 And in a yard off the Meridian Corridor there were about forty men who stood on wagons every single day and took their hands off on a horn because a blue card on a wall told them to, and no one had asked any of them anything, either.

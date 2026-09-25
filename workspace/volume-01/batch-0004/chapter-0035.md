@@ -2,7 +2,7 @@
 
 He wrote the records request out on the kitchen table in the room above the laundromat on the Sunday morning of week 12, and it took him about ninety seconds, and then he did not post it, and it is still in the flat in a drawer under a battery and a roll of solder in a carrier bag with his name on it.
 
-*Records request under the practical department's access procedure. Access no. as given on the Monday of week 10. Requester: S. M. Senn, third year, no licence. Records sought: stores open day, third week of the term before last — issue registers and counterfoil stubs for the community and family distribution of 4-19 wrist and hip units, approximately ninety households. Grounds: patient safety, equipment traceability. Attended by: no.*
+*Records request under the practical department's access procedure. Access no. as given on the Monday of week 10. Requester: M. S. Senn, third year, no licence. Records sought: stores open day, third week of this term — issue registers and counterfoil stubs for the community and family distribution of 4-19 wrist and hip units, approximately ninety households. Grounds: patient safety, equipment traceability. Attended by: no.*
 
 He had it in ninety seconds because he had been drafting it in his head since the Wednesday.
 
@@ -90,7 +90,7 @@ Marek Senn wrote it on a fault form.
 
 "It's the only question I've got and I've been holding it since Friday and I'm ringing you on a Sunday which I have not done in nine years, so I'd be obliged if you'd let it be the question." A pump went off somewhere behind him. "There's a man on my round who's got a plate on and it isn't that plate and it isn't off a table in a car park. He had it in about 2019 off a district fitter for a shoulder and the fitter's gone and there's no paper on him at all, and he's been on my round four years and he's the best pair of hands I've got and he goes home at the end of every day with a shoulder I could not put a print on. And I watched the whole of your woman work on Friday and I watched you look at a plate from six feet and tell a man in ten seconds whether it was going to hold him. And I am not asking you to come up here and I am not asking you for anything at all. I'm asking whether there's one that isn't that plate. Because if there isn't, then this round goes ahead with two plates on it, and I took them both off the gate on the Saturday, and one of them is that shoulder with no paper on it at all, and the other is a hip belt a man of forty-four put on himself in about 2019 out of a box in a hardware shop in Fell Road that nobody in this city has a record of, and neither of them is going to be able to do the steps at the Cutbank on the Monday morning, and I've got nineteen men and one bar and a set of steps, and I have to know tonight which men I can put on it."
 
-Marek Senn stood at a bench in a repair shop in Lattice Ward and looked at a relay he had been working on for an hour.
+In Lattice Ward, at the bench, Marek Senn looked at a relay he had been working on for an hour and had not looked at.
 
 "No," he said. "There isn't one that isn't that plate. There's the twenty-four in nine crates and twenty-two in four boxes and eighteen in a clinic I've never been to, and they all come off a consolidation point on the Meridian with the same revision on them, and there is no other plate in this city that is not off that, because there is no other thing anybody can buy. And the shoulder unit your man has is one of the same lot or it isn't, and I don't know, and neither does he, and if it isn't then there is a whole other thing and I have not got to it and I am not going to pretend I have."
 
@@ -110,13 +110,13 @@ The first was Corvin Ashby, who had a board out and was counting things into a c
 
 The second was a woman of about thirty-three with a bar in her hand and a roll of orange cord over her shoulder, who had a face that had been doing something difficult for a long time and had decided to be good at it.
 
-"You'll be the one from the shop," she said. "Ashby said Friday. He said you'd probably come up and say something useful and then go away."
+"You'll be the one from the shop," she said. "Ashby said you'd probably come up and say something useful and then go away."
 
 "He's the one from the shop," said Corvin Ashby, without looking up. "Nkechi, he's not coming on the round and he's not here to have anything done about your count, and if he asks you a question about how you work, tell him to write to the office and then don't write to the office."
 
 "Right," said the woman, and let a length of orange cord go, and took up a shackle, and said, without any particular weight: "You can ask me one, though. You can ask me one thing, and then I'm going to tell you no, and then you'll go, and that's a nice trade for a Sunday."
 
-Marek Senn stood in a pump house that was a hundred and forty years old in a flood-prone ward of a city he had lived in for six years.
+The pump house was a hundred and forty years old and was in a flood-prone ward of a city Marek Senn had lived in for six years, and he stood in it with his bag still on his shoulder.
 
 "How many of them," he said, "going up, holding a bar, on your own. Twenty-something to ten, I'd have said."
 
@@ -128,11 +128,11 @@ Marek Senn stood in a pump house that was a hundred and forty years old in a flo
 
 "Right," said Marek Senn. "Thank you."
 
-He was out of the pull-off and on the bus down the hill at five past five with ninety seconds to spare, and the last bus went at six, and he had promised nobody anything, and he had said one true thing out loud and one lie, and the lie was in the notebook he had not torn out, which was in his coat, and which said:
+He was out of the pull-off and on the bus down the hill at five past five with ninety seconds to spare, and the last bus went at six, and he had promised nobody anything, and he had said one true thing out loud and had written down one thing he had promised in writing not to write down, and it was in the notebook he had not torn out, which was in his coat, and which said:
 
 *She counts. Three. It is her own and it is on the rail and nobody is in the room.*
 
-He did not tear it out, and he did not put it in the load book, and he had told Corvin Ashby on the Friday that he was not going to write anything down, and the whole of the second half of his week was going to be about that sentence.
+He did not tear it out, and he did not put it in the load book, and he had told Corvin Ashby on the Thursday that he was not going to write anything down, and the whole of the second half of his week was going to be about that sentence.
 
 ---
 
@@ -148,11 +148,11 @@ He wrote it up at twenty past eleven on the Sunday night at the table in the roo
 
 *19. Ninety. Not the forty. The ninety on the September register and the fifty that did not come back, and the only route to any of them is a form, and every form in this case has ended with somebody findable, and I have a woman of sixty-eight who works in the shop under my bedroom asking to be looked at by somebody whose job that is, and there is no such person in this city, and I have just found out that the reason there is no such person is that nobody in this city is responsible for a household.*
 
-**WHAT IS NOT EVIDENCE — the six from week 9, the one new one from week 12, and one more from yesterday.**
+**WHAT IS NOT EVIDENCE — five from week 9, two from week 12, and one from this afternoon.**
 
-*20–25. T. V.'s brace. The hip variant. M. F. R. P.'s step. O. F. The boy in the market who turned his head. Five noes in a market on a Monday and a boy who said stop. All of it stands. All of it is not a source and none of it is going to be one.*
+*20–24. T. V.'s brace. The hip variant. M. F. and R. P.'s step, which I have been counting as one line since week nine and am not going to any more. O. F. The boy in the market who turned his head. 25. Five noes in a market on a Monday and a boy who said stop. All of it stands. All of it is not a source and none of it is going to be one.*
 *26. Friday, at the upper pound, in a lane. A contact that had set in the shape of a man's weight, and a woman who told a stranger in plain words that it was on his hand and not on his wrist, and a man who let go of a chain on a number, and a boy of nineteen holding a bar with both hands, and a contact in a bag in a green coat. That was a release, and it was his, and it was the fourth beat performed in front of me since the Thursday of week one, and it was performed by a person who was not in the room for him and who had come up that hill for a list. It counts towards nothing. It is the only one.*
-*27. A woman counting to three on a rail. YESTERDAY. It is not evidence of anything, it is the least private fact I have collected since the week-one drill, and if it goes in a book then I am a man who writes down how people work, and I told a man at a gate I would not do that, and I have already done it once and I am carrying it in a coat.*
+*27. A woman counting to three on a rail. THIS AFTERNOON. It is not evidence of anything, it is the least private fact I have collected since the week-one drill, and if it goes in a book then I am a man who writes down how people work, and I told a man at a gate I would not do that, and I have already done it once and I am carrying it in a coat.*
 
 **WHAT I DO NOT KNOW — four things and the fourth is new.**
 
@@ -165,4 +165,4 @@ He wrote it up at twenty past eleven on the Sunday night at the table in the roo
 
 *The demonstration requirement is still a requirement with nothing behind it and there is still no date, and the reason there is no date is that the panel gave the department seven days and a deadline, and the department is waiting on a sentence from a government office that has its own timetable and cannot be moved by me. So on the Thursday of week thirteen something will happen in one room and it will happen whether I am in it or not, and on the Friday of week twelve, six days before it, the best afternoon of my term so far happened in a lane that a nurse came up on her own time for, and I was ninety-seven minutes late to it, and the only part I had was reading a plate and saying four words to a man, and then I stood at the top of a lane for eleven minutes while somebody else did the difficult part, and it was correct, and I have been a professional adult for six years and I have never once been sent up a lane before, and I did not know that it would feel like being thanked by nobody.*
 
-*Do not know, and I am putting it at the bottom because it is the only one I am frightened of: there is a card in my coat with a name and a wage and a reference and a month's trial on it and I have been carrying it about for nine days and I told the laundrette this morning that I was not the man who comes round, and she told me that every man who says that ends up being the man who comes round, and she has been right four times out of four, and I have had a week to say no to a card and I have said nothing, and on Thursday somebody is going to set a date, and I do not know what I will do with it.*
+*Do not know, and I am putting it at the bottom because it is the only one I am frightened of: there is a card in my coat with a name and a wage and a reference and a month's trial on it and I have been carrying it about since the Thursday of week eleven, and I told the laundrette this morning that I was not the man who comes round, and she told me that every man who says that ends up being the man who comes round, and she has been right four times out of four, and I have had a week to say no to a card and I have said nothing, and on Thursday somebody is going to set a date, and I do not know what I will do with it.*

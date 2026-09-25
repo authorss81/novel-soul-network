@@ -30,7 +30,7 @@ Marek Senn had both hands on the table in front of him.
 
 "Which is—"
 
-"The end of term is today. The department may convene a witnessed assessment out of term under the ordinary progression provisions, and if it does, this panel will sit on it, and it will do so within a sitting day of the date being fixed." She looked at Anneke Roos, who had not been invited and was sitting at the back by the door and had not moved. "Deputy Registrar. If the practical department intends to set such a date, this panel must be notified on or before the Thursday of week thirteen. If it is not, the variance lapses at the end of this term, the transcript line stands as written, and this panel has no jurisdiction in the spring."
+"The end of term is tomorrow. The department may convene a witnessed assessment out of term under the ordinary progression provisions, and if it does, this panel will sit on it, and it will do so within a sitting day of the date being fixed." She looked at Anneke Roos, who had not been invited and was sitting at the back by the door and had not moved. "Deputy Registrar. If the practical department intends to set such a date, this panel must be notified on or before the Thursday of week thirteen, and that is the last day on which it can be notified of anything. If it is not, then this panel does not sit again before the spring, the variance lapses with the term, the transcript line stands as written, and nothing in this city will ever put a release in front of a panel."
 
 The room was extremely quiet.
 
@@ -72,7 +72,7 @@ The sign had been painted by somebody who had not been told to paint it, and it 
 
 There was a van in the pull-off with one wheel on the grass. There were two men at the gate. There was a smell of silt and diesel and cold water and, underneath it, the specific smell of a copper contact that has been under load and has not been let go.
 
-Marek Senn had a repair bag over his shoulder that he had not decided to bring, and he had told himself on the bus that he was bringing it because the Spine was shut and he had to carry something somewhere, and he knew that was not true, and he had gone anyway, and there is a version of this chapter in which he goes back to the van and gets in it, and he does not, and the reason he does not is that a man in a car park in September put his thumb on a wax seal and said *I don't remember* twice, and he came here to be asked.
+Marek Senn had a repair bag over his shoulder that he had not decided to bring, and he had told himself on the bus that he was bringing it because the Spine was shut and he had to carry something somewhere, and he knew that was not true, and he went anyway, because a man in a car park in September had put his thumb on a wax seal and said *I don't remember* twice, and he came here to be asked.
 
 He got about eight feet into the pull-off.
 
@@ -126,7 +126,7 @@ Corvin Ashby looked at him for the first time properly, and the looking lasted a
 
 Corvin Ashby looked at the van, and then at the book under his arm, and then he said:
 
-"Monday. First Monday of the flood season. Tide table says the ebb's at ten past six and the tide table doesn't move, so it's Monday, and it's two days, and it's about nineteen men, and we start at the Cutbank and finish at the upper pound." He said it in the voice of a man reading a tide table. "There's no cover on it. There's never been any cover on it. Nobody on that round is licensed, nobody on it is insured by anybody, and the ward's got no legal person, and if a man goes down on it at ten past six on the Monday morning then the thing that happens is that eleven other men stop what they're doing, because that is what they do, and then somebody rings the ambulance, and then afterwards there's a form at the district and the form wants a name and there's not one on the round to put in it, and they write *unidentified* and that's how the ward's name gets on a list."
+"Monday. First Monday of the flood season. Tide table says the ebb's at ten past six and the tide table doesn't move, so it's Monday, and it's eleven days, and it's about nineteen men, and we start at the Cutbank and finish at the upper pound." He said it in the voice of a man reading a tide table. "There's no cover on it. There's never been any cover on it. Nobody on that round is licensed, nobody on it is insured by anybody, and the ward's got no legal person, and if a man goes down on it at ten past six on the Monday morning then the thing that happens is that eleven other men stop what they're doing, because that is what they do, and then somebody rings the ambulance, and then afterwards there's a form at the district and the form wants a name and there's not one on the round to put in it, and they write *unidentified* and that's how the ward's name gets on a list."
 
 "Who's the first man on it."
 
@@ -136,7 +136,7 @@ Marek Senn looked down the lane towards the gate, and the man standing at the ga
 
 "Mr Ashby," Marek said. "That is the only thing I came up here for and I did not know it when I got on the bus. I'm sorry about the nineteen seconds."
 
-"Don't be," said Corvin Ashby. "Be on your way down the hill before the light goes, because the last bus down goes at ten past six and the one after that doesn't go at all."
+"Don't be," said Corvin Ashby. "Be on your way down the hill before the light goes, because the last bus down goes at six and the one after that doesn't go at all."
 
 ---
 
@@ -146,6 +146,6 @@ He took the last bus down at ten past six and wrote three lines in the load book
 
 *Nineteen seconds at the gate of a pull-off off Fell Road. He refused me before I asked. He is right and I want it recorded that he told me the reason for free, which is a thing I have offered four people this month and had it refused three times.*
 
-*Monday of week 14, ten past six, the ebb, two days, nineteen men, no cover, no legal person, and a man of fifty-eight at the gate with a wrist unit off a car park in September and a pole with a lot of weight on the other end of it.*
+*Monday of week 14, ten past six, the ebb, eleven days, nineteen men, no cover, no legal person, and a man of fifty-eight at the gate with a wrist unit off a car park in September and a pole with a lot of weight on the other end of it.*
 
 And that was all, and he did not write down what he had wanted to write down, which was a paragraph about a document with a reference number on it and no name on it and a good reason in it, because he had spent eleven weeks learning that a document with a good reason in it and no name on it is the most dangerous object in a city, and he had four sentences in his own handwriting that proved it, and it had taken him a whole term to learn and it took him eleven minutes of a bus ride to forget and to pick up again.

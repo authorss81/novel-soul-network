@@ -22,15 +22,31 @@ Marek Senn sat down on the bench.
 
 He heard her breathe out.
 
-"Right," she said. "Then tell me the other thing. Not the bulletin. The other thing."
+"Right," she said. "Then tell me the other thing. Not the bulletin. The other thing. What, though."
 
-"You take it off."
+"I'm not going to tell you what it is, because I am not a clinician and I have told you that already," said Marek Senn. "What I'm going to do is tell you what to do about it this morning, and none of it is me. There's an out-of-hours number for Nine Bridges and I am going to read it to you twice and you are going to ring it the minute this telephone call is off the hook, and you are going to say four words. *I get short of breath.* That's all. Not about the plate. About the breathing."
 
-"I can't take it off. It took two men to put it on and I live in a first-floor flat." She was not complaining. "That's not me being difficult, that's me telling you what I've got. What I want to know is whether I should be frightened."
+"Why."
 
-And Marek Senn — twenty-two, third year, no licence, night repairer, on a bench in a public relay shop at ten past six in the morning with a supervisor due in at seven — said:
+"Because I am a man reading a shape off a plate, and you are the only one of us in this conversation who has ever been examined," said Marek Senn. "And because if you ring that number and it turns out to be nothing at all, you will spend the rest of your life deciding whether you were careful. And I'm going to ring the district's practice standards office myself at ten to seven this morning and give them your surname, your flat and the two times, and you are going to tell me I'm not allowed to."
 
-"No. Not from the plate. Not from a plate worn since September, not from a bus, not from going up and down your stairs, and not from twice at four in the afternoon sitting down and it going away in ten minutes. That is the shape of a thing I have seen twice in this case in a fish market and in a clinic, and both of those times it was a hip, and both of those times it was a nurse who was watching, and it went away. What you should be frightened of is being alone with it at four in the afternoon in the middle of a winter, and the answer to that is not a plate, it's a telephone number, and it's a bad one, and it's on a wall in the Exchange, and you ring it, and the woman on that till writes down what she was told and hands it to me on a Wednesday, and I ring you back from a shop."
+She was quiet for about four seconds.
+
+"You'd do that."
+
+"I did it on Friday for a man with a wrist unit who could not get it off, and I stood at the top of a lane and did not help," said Marek Senn. "I'm not doing that twice in one week over one plate."
+
+"Right." There was paper. "Number."
+
+He read it to her twice. She read it back to him wrong the first time and right the second.
+
+"And the plate," she said. "Do I leave it on."
+
+"Leave it on until somebody with a job looks at it. You are not taking it off in a kitchen with a bread knife and you are not doing anything to it in the middle of a winter afternoon, and that is not me knowing something, it is me not knowing anything and you having asked me anyway."
+
+And Marek Senn said the half of it that he was good at, from a bench in a public relay shop with a supervisor due in at seven.
+
+"Not from the plate. Not from a plate worn since September, not from a bus, not from going up and down your stairs, and not from twice at four in the afternoon sitting down and it going away in ten minutes. What you should be frightened of is being alone with it at four in the afternoon in the middle of a winter, and the answer to that is not a plate, it's a telephone number, and it's a bad one, and it's on a wall in the Exchange, and you ring it, and a woman on a till writes down what they were told in her own hand and hands the book to me on a Wednesday, and somebody in a market is the only reason you ever got past that till to this shop. I can't stop that and I haven't tried, and that is the thing I am ashamed of this morning."
 
 "And you? Will you come?"
 
@@ -48,6 +64,12 @@ She was quiet for a bit.
 
 "Then don't come," said Delia Frost. "Not because I don't want you to. Because in a year's time you're going to be a name and I want to be the one who rang a number off a wall, and those aren't the same, and I can tell which one I am already."
 
+"Rang the out-of-hours one as well, then," said Marek Senn.
+
+"I'm going to ring it the minute this is off, and I'm going to say it exactly the way you said, four words, and I'm not going to mention the plate, because you told me not to mention the plate." There was a pause of about two seconds. "And I want to say one thing and then I'm going. You've done the thing I couldn't do, which is tell me what to do, and you didn't have to, and if somebody rings that number at eight o'clock at night in a month I am going to be frightened again and I am going to ring it, and that is twice, and it will be three, and it will be you every time, and I have decided that I do not mind."
+
+She rang it at twenty-six minutes past six, on her own, on the second floor of a building on Carnation Row, and it took four words, and a voice asked her to hold, and she held.
+
 They said goodbye and Marek Senn sat on the bench at a repair shop in Lattice Ward and wrote the time on the day book, 06:24, and put nothing else anywhere, and then did not move for about three minutes.
 
 Then he wrote on a scrap, under the bench, with a pencil:
@@ -56,7 +78,7 @@ Then he wrote on a scrap, under the bench, with a pencil:
 
 *And Delia Frost has just become the reason I cannot hand this over, because a man cannot hand over the job of being the person a street rings. You cannot delegate a telephone. And the only way it stops is for a person whose job it is to exist in this city and say the thing I said, and there is not one, and I said the sentence about there not being one on Monday in a corridor to a first-year and he wrote my name down as a reason.*
 
-*Rule three. I asked one person one thing at six in the morning. That's still one. It is going to stay one. That is not a rule any more, that is a man who cannot help himself, and the difference between a rule and that is that I could break the rule.*
+*Rule three. I asked one person one thing at six in the morning and then I rang a government office about her at ten to seven and gave them her surname, and that is two things, and I did not want to do the second one, and I did it anyway, and I wrote nothing down about what she said to me because I wrote it under the bench on a scrap and I am going to lose the scrap. She is booked for eleven. She is going to be seen by a person whose job that is, which is the thing I said there was no such person for, and I did not have to find one, because a telephone number that a stranger can ring in a crisis is the whole of it, and I have been an idiot for a term.*
 
 ---
 
@@ -72,7 +94,7 @@ She did not look at him once, and he was nine feet away, and that was correct.
 
 Marda Szabo said, from the table, without looking up from a lineage sheet, "No."
 
-She did not say it unkindly. She said it the way you say a thing you have thought about properly, and then she did say the reason, which is what the Choir does, and the reason took about forty seconds and it was the best forty seconds of argument in the batch.
+She did not say it unkindly. She said it the way you say a thing you have thought about properly, and then she did say the reason, which is what the Choir does, and the reason took about forty seconds and it was the best forty seconds of argument he had heard in a term.
 
 "There is a rule in this co-operative that everything about a person, published by them, is published by name," said Marda Szabo. "There are two hundred and twelve of us and nine of us are at this table and every one of us has been named in that book at some point because we put ourselves in it. That is the trade. You write your name, you get the corrections, you get the corrections read out to nine people in a market on a Wednesday, including the ones that are against you." She put the sheet down. "And that book has thirty-odd lines in it and most of them are one line and a name and a number, and you want it on our table, in a room, where nine of us and a market of about two hundred people walk past. And there is not one of those names in that book that has not got a plate on, or had, or is waiting for somebody to come. You are asking us to stand in front of the only document in this city that does not make anybody findable, and to say *look, everybody, here it is*, and in about four months a district office or a company or a man in a very good coat is going to ask us who told us to do it, and I will be the one who has to answer, and I am fifty-one and I do not need to be the one who answers that."
 
@@ -104,11 +126,11 @@ Corvin Ashby refused it at the pump house at half past two on the Wednesday afte
 
 "Two."
 
-"Two." Corvin Ashby looked at the floor of the pull-off. "I've been a key-holder in this ward for nine years and I've known it the whole time and I've never once been asked about it, and the reason nobody's asked me is that nobody ever comes up here. You are the first person in nine years to come up here, and you have been on this hill six days running, and you have already had a woman on my round change how she comes down steps." He put the flask back in his pocket. "So if you give me this, then in six months the men will come to me about *the thing the Weir man knows*, and I will be able to do it, because I will have been given it, and I will be exactly what the woman in Nine Bridges worked out she was over a cup of tea, and I have watched her work that out and I thought she was being dramatic about it, and she was not."
+"Two." Corvin Ashby looked at the floor of the pull-off. "I've been a key-holder in this ward for nine years and I've known it the whole time and I've never once been asked about it, and the reason nobody's asked me is that nobody ever comes up here. You are the first person in nine years to come up here, and you have been on this hill every day running, and you have already had a woman on my round change how she comes down steps." He put the flask back in his pocket. "So if you give me this, then in six months the men will come to me about *the thing the Weir man knows*, and I will be able to do it, because I will have been given it, and I will be a man in a ward of nineteen who is the one who knows a thing, and every man on this round will be looking at me when they come off those steps, and there is one woman in this ward who would tell you exactly what that costs a person to be, and you have met her."
 
-Marek Senn stood in a pull-off and found that the argument was not a no he had to take but a no that improved his own position, and that he was not going to be able to say so out loud without sounding like a man enjoying it.
+The argument, Marek Senn found standing in a pull-off with a man who had not put the tea flask down, was not a no he had to take but a no that improved his own position, and that he was not going to be able to say so out loud without sounding like a man enjoying it.
 
-"That's two," said Corvin Ashby. "Three, and three's the one I'll not move on. You've asked me to hand the work to three people and a laundrette, and two of the three are better at it than you and one of them has a set of steps in five days. Fine. Fine. But every one of you is going to be doing it because a man in Lattice said so, and the second the man in Lattice stops — and he will stop, because he's got a panel on Thursday and a term's over and a job to go back to — then it's the four of you and a rail. And a rail on its own is what she had before, and she'll be on four and there'll be nobody to say no to her in this ward, and she'll have a poster about it in a first-year common room and a page in a quarterly and no person in it."
+"That's two," said Corvin Ashby. "Three, and three's the one I'll not move on. You've asked me to hand the work to three people and a woman you won't name, and two of the three are better at it than you and one of them has a set of steps in five days. Fine. Fine. But every one of you is going to be doing it because a man in Lattice said so, and the second the man in Lattice stops — and he will stop, because he's got a panel on Thursday and a term's over and a job to go back to — then it's the four of you and a rail. And a rail on its own is what she had before, and she'll be on four and there'll be nobody to say no to her in this ward, and she'll have a poster about it in a first-year common room and a page in a quarterly and no person in it."
 
 "And if I keep going up the hill."
 
@@ -130,7 +152,7 @@ He went to the laundrette at twenty past seven on the Wednesday evening and Enid
 
 Marek Senn did not answer that, because there was no answer to it that was not either a lie or a resignation.
 
-"Nineteen months," she said. "Four men. You know what the difference is between you and the four, love? The four came round in a van. You're going to come round on a bus, and it isn't going to be for the company, and it isn't going to be for the form, and you are going to be a man who is difficult to be angry at, and in about two years that is going to be the most powerful thing about you and you are not going to have noticed it happening."
+"Nineteen years," she said. "Four men. You know what the difference is between you and the four, love? The four came round in a van. You're going to come round on a bus, and it isn't going to be for the company, and it isn't going to be for the form, and you are going to be a man who is difficult to be angry at, and in about two years that is going to be the most powerful thing about you and you are not going to have noticed it happening."
 
 He got his washing and went up the stairs.
 

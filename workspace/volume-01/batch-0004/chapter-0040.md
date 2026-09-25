@@ -1,6 +1,6 @@
 # Chapter 40 — Five Days
 
-The Institute was between terms and running two summer courses and a porter's office, and the corridors had the particular silence of a building where everybody in it is a visitor, and the conference room on the second floor had been booked out of term by a caretaker's letter and had two strip lights and a whiteboard with the term dates still on it and no holiday on the calendar at all.
+The Institute was between terms and running two summer courses and a porter's office, and the corridors had the particular silence of a building where everybody in it is a visitor, and the conference room on the second floor had been booked out of term by a caretaker's letter and had two strip lights, a folding table, four radiators that were turned off, and no daylight and no holiday on the calendar at all.
 
 Hollis Pratt came in at twenty past nine with a hardback file and a coat over his arm and put the coat over the back of a chair, which Marek Senn understood to be the gesture of a man who had decided he was going to be in the room a long time.
 
@@ -12,15 +12,13 @@ Bo Halloran, fifty-one, the Cordage at Saltmarket, dead right hand in an eleven-
 
 Ines Sarr, forty-five, the Ninth Street rooms, Nine Bridges, who had brought a folder of her own and put it on the table face down.
 
-Talia Venn, twenty-four, resonance nurse on the Saltmarket route, who had come in her own coat and who had a plastic folder and nothing else, and who has brought the second page of Friday's record and put it face up on the table and not in front of him, and who has not looked at him once, and has not looked at him once in a way he could feel across a room.
+Talia Venn, twenty-four, resonance nurse on the Saltmarket route, who had come in her own coat and who had a plastic folder and nothing else, and who had put the second page of Friday's record face up on the table and not in front of him, and who had not looked at him once in two hours in a way he could feel across a room.
 
 And Marek Senn, third year, no licence, no standing of any kind, at the back wall on a chair that had been in a store room since about 2011, with nothing in his hands because he had deliberately not brought anything, not the four sentences, not the photocopy, not the notebook, and nothing on the table with his name on it anywhere in the room.
 
 Hollis Pratt said, "For the record, in order, before anybody speaks. This is a formal review by this office of four limited local holds placed on a single assembly lot inside five days of each other in the eighth week of term. Each site acted on its own authority. None of them carried a finding of variance. None of them sought indemnity and this office advised against indemnity. I am here to complete a review that this office opened by letter on the Saturday of the eighth week and closed in outline in the week after, and I am going to read out what each hold was, and then I am going to read out what my office's position is, and then the four of you are going to answer, and I want it understood that nothing you say binds this office and nothing this office says binds you."
 
 "Understood," said Anneke Roos.
-
----
 
 "Institute. Practical department. The twenty-four plates and the frames out of nine crates, released on the Thursday of week eight at ten past four by the deputy registrar, on a card drafted from the words of a third-year student with one word changed to put a name in place of a department. Reversible in a minute by a person with a key and a reason in writing. Named responsible person: Deputy Registrar. No finding of variance."
 
@@ -42,7 +40,7 @@ Hollis Pratt said, "For the record, in order, before anybody speaks. This is a f
 
 Hollis Pratt closed the file halfway.
 
-"Findings," he said. "Four holds, and I am going to be exact, because I have done this nineteen years and the exactness is the only thing I have got. Each of the four holds was properly made, on that site's own authority, by a named person who could have been reversed in a minute and knew it. None of them was a quarantine. None of them was a finding. None of them was an accusation against anybody, and I want that on the record, because in about a year somebody is going to write a paragraph about the week of week eight and that paragraph is going to be wrong, and the reason it is going to be wrong is that it will be easier."
+"Findings," he said. "Four holds, and I am going to be exact, because I have done this nineteen years and the exactness is the only thing I have got. Each of the four holds was properly made, on that site's own authority, by a named person who could have been reversed in a minute and knew it. None of them was a quarantine. None of them was a finding. None of them was an accusation against anybody, and I want that on the record, because in about a year somebody is going to write a paragraph about the eighth week and that paragraph is going to be wrong, and the reason it is going to be wrong is that it will be easier."
 
 Nobody spoke.
 
@@ -78,7 +76,7 @@ Bo Halloran went first, and he took about twenty seconds.
 
 "That is a decision for today," said Bo Halloran. "I've had a bucket on a shelf for five weeks because four people in four buildings got frightened, and I did not think one of them was wrong, and I'd like a reason with a date on it before I take that bucket down and put fifteen plates back in a rope works where I cannot chase anybody." He looked at the table. "And a company man has asked me twice this term to put a document by that bucket and I've said no twice. When there's a date, send me the date. That's all. I'm not being rude, I'm being a rope works."
 
-"Recorded," said Hollis Pratt, and it cost Bo Halloran nothing to say and everything to have to write it down afterwards, in his own head, that he had said a no with a condition on it and there was no condition available on it.
+"Recorded," said Hollis Pratt, and it cost Bo Halloran nothing to say and everything to have to have said it, because he had set a condition and had known before he set it that nothing on that table was going to meet it.
 
 Ines Sarr opened the folder and did not take anything out of it.
 
@@ -126,13 +124,11 @@ That left Anneke Roos, and she did not take any papers out, and she sat with her
 
 "If the department sets no date, do you know what your position is on the Friday of week thirteen."
 
-"I know exactly what it is," said Anneke Roos. "The variance lapses at the end of term, the transcript line stands as written, the student goes quiet, and I stand in front of forty-one people and I have never had a worse fortnight in nineteen years and I will do it."
+"I know exactly what it is," said Anneke Roos. "The variance lapsed with the term on Friday, there is no panel sitting until the spring, the transcript line stands as written, the student goes quiet, and I stand in front of forty-one people and I have never had a worse fortnight in nineteen years and I will do it."
 
 "Then set a date."
 
 "I will," said Anneke Roos. "And I would like it on the record that I am setting it for the department's reasons and not for his, and I would like it on the record that I said so before I knew it would."
-
----
 
 Marek Senn had been in the room for two hours and twenty-five minutes and had not said a word, and he had the number in his own book from week nine — fifty minutes in a conference room, fifty-four at a panel — and had never once been able to make it mean anything, and here it was.
 
@@ -150,7 +146,7 @@ Hollis Pratt looked at him for the first time in two hours.
 
 "Go on, then."
 
-"The sentence this office gave in the ninth week says a public room." Marek Senn stood up off a chair that had been in a store room since 2011 and did not move from the wall. "The department is between terms. Everything in that building with a floor and chairs and a door is booked to a summer course or a porter's office or a caretaker's letter, and the examination hall is contracted to the faculty and was contracted to the faculty in September and shaded in October by a different hand. The room the department can put a panel in on a Tuesday morning is room one, and room one is a teaching room, and I have been in it, and it has a strip light and a strip curtain and a whiteboard with the term dates on it and about thirty plastic chairs that belong to a nursery."
+"The sentence this office gave in the ninth week says a public room." He got up off a chair that had been in a store room since 2011 and did not move from the wall. "The department is between terms. Everything in that building with a floor and chairs and a door is booked to a summer course or a porter's office or a caretaker's letter, and the examination hall is contracted to the faculty and was contracted to the faculty in September and shaded in October by a different hand. The room the department can put a panel in on a Tuesday morning is room one, and room one is a teaching room, and I have been in it, and it has a strip light and a strip curtain and a whiteboard with the term dates on it and about thirty plastic chairs that belong to a nursery."
 
 "Would it satisfy the requirement?"
 
@@ -158,7 +154,11 @@ Hollis Pratt looked at him for the first time in two hours.
 
 He stopped.
 
-"And the other thing, and then I'll sit down. Every public room in this district that you could hold forty people in belongs to somebody who has already said no to me, and there is a rope works, and there are nine rooms above a community hall, and there is a kitchen in an old kiosk in a former ferry waiting room, and there is a yard office off the Meridian with a kettle in it and a door that's open from six." He said it without any weight at all. "I'm not asking anybody for anything. I'm telling the room what is on the list, so that nobody at the start of next term is surprised."
+"And the other thing, and then I'll sit down. There is a list. Every public room in this district you could hold forty people in belongs to somebody, and I have been to four of them in a fortnight and been told no by all four, and there is a rope works, and there are nine rooms above a community hall, and there is a kitchen in an old kiosk in a former ferry waiting room, and there is a yard office off the Meridian with a kettle in it and a door that's open from six." He said it without any weight at all. "I'm not asking anybody for anything. I'm telling the room what is on the list, so that nobody at the start of next term is surprised. And there is a fifth one on the list that I have not been to and I am not going to name in this room, because the minute I name it, somebody in this building will write to them this afternoon, and I would rather that door stayed cold for another five days than have it opened by a man in a conference room with a file."
+
+Hollis Pratt put his pen down.
+
+"Then it stays cold," he said. "For the record, and because it costs me nothing: if the assessor appointed by the Office rules on Tuesday morning that room one is not a public room, this office will have nowhere to put anybody, and that is a fact about this city and not about any of you. Write the fifth room down somewhere, Senn. Not here."
 
 ---
 
@@ -176,7 +176,7 @@ Davan Rusk was standing outside the conference room door at about a quarter to t
 
 "Room one is not a public room," said Davan Rusk. "I taught in it for eleven years and there is a strip curtain and a whiteboard and about thirty chairs that belong to a nursery, and I know what a room is, and that is the only reason they let me in here at all and I have not worked out yet whether it was a mistake." He put his hand on the door. "Do not walk in there and look at it and decide it is fine. Make them look at it."
 
-Then he went down the stairs, and Marek Senn stood in a corridor in his own department for about a minute.
+Then he went down the stairs, and Marek Senn stayed in a corridor in his own department for about a minute.
 
 ---
 
@@ -202,19 +202,13 @@ She took the letter back and put it in a tray.
 
 "Five days," she said. "And you should know what you are walking into on Tuesday, because nobody has told you and I am going to. You have no licence, so nothing you do in that room is a practice. You have no technique, so there is nothing to demonstrate. You have no observation anybody will accept, so nobody can describe what you do. And there is a boy who can now take a load with a hand that could not take a load six days ago, and that is the only thing in this case that has changed since the eighth week, and it is not a technique and it does not count towards anything, and it is also the only good thing in it."
 
-Marek Senn stood in an office in Lattice Ward and worked out the arithmetic, because arithmetic was the only thing he had left that anybody could not take off him.
+Arithmetic was the only thing he had left that nobody could take off him, and he did it standing in her office with his hands in his coat pockets.
 
-Five days to Tuesday of week fourteen.
+Five days to Tuesday of week fourteen. The first round of the flood season was the Monday of week fourteen, at ten past six, nineteen men, one bar, a set of steps at the Cutbank, and Corvin Ashby short on the pound, and it was the day before and there was no way in the world to move it.
 
-The first round of the flood season was the Monday of week fourteen, at ten past six, nineteen men, one bar, a set of steps at the Cutbank, and Corvin Ashby short on the pound.
+Thirty-one lines in the Exchange book by the Wednesday, and a market of about two hundred people a day walking past a noticeboard, and a number on a wall that a man in a district's office is going to find out about from a trade, from a paper, or from one of us. A records request in a drawer under a battery, with ninety households on the form number and Darla Vint's name on the procedure, not posted and not going in a postbox. Forty-one faces in a hall at the start of next term, and a woman who has to stand in front of them and who has already told them why in advance.
 
-Thirty-one lines in the Exchange book by the Wednesday, and a market of about two hundred people a day walking past a noticeboard, and a number on a wall that a man in a district's office is going to find out about from a trade, from a paper, or from one of us.
-
-A records request in a drawer under a battery, with ninety households on the form number and Darla Vint's name on the procedure, which he has not posted and is not going to post.
-
-Forty-one faces in a hall at the start of next term, and a woman who has to stand in front of them and who has already told them why in advance.
-
-A room he has not seen, in a building he has been in every day since the Thursday of week one, and the only person in this city who can decide whether that room is a public room will arrive on the morning, and will decide it in about four minutes, and Marek Senn will be standing on a floor in a strip curtain with a strip light over his head and no technique, and a panel of four who have already adjourned once with no matter before them, and a score sheet with a wooden tray marked *incomplete* on the examiners' table, and a boy who is not coming and will not be asked to come, and a corridor in which nobody will be permitted to say a word.
+And a room he has been in twice and will have to walk into as though he had not been, in a building he has been in every day since the Thursday of week one, where the only person in this city who can decide whether it is a public room will arrive on the morning and will decide it in about four minutes. He will be standing on a floor in a strip curtain with a strip light over his head and no technique, in front of a panel that has already adjourned once with no matter before it and has not yet been told who is sitting on it, and a score sheet borrowed from the exam office with its wooden tray marked *incomplete* set out on the table, and a boy who is not coming and will not be asked to come, in a corridor in which nobody will be permitted to say a word.
 
 He said none of that out loud. He had learned in week seven that the fourth thing in a room is usually the man who explains himself.
 
