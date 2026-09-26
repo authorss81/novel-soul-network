@@ -62,7 +62,7 @@ He asked the question that turned the morning.
 
 She picked the slip up and read it and put it back down at an angle.
 
-"It does not go in the tray," she said. "**There is no tray. It goes back to you. I have had this conversation with a librarian in Crown Terrace and with a man from a trade paper and with a woman who wanted a bundle and did not know what a bundle was, and nobody has ever asked me what happens, and the answer is that a slip with a person on it is a request and a slip without one is a piece of paper, and I have not got a tray for pieces of paper, and that is not me being difficult, that is nineteen years of a room with a counter and a bell on it.**"
+"It does not go in the tray," she said. "**There is no tray. It goes back to you. I have had this conversation with a librarian in Crown Terrace and with a man from a trade paper and with a woman who wanted a bundle and did not know what a bundle was, and nobody has ever asked me what happens, and the answer is that a slip with a person on it is a request and a slip without one is a piece of paper, and I have not got a tray for pieces of paper, and that is not me being difficult, that is nine years of a room with a counter and a bell on it, and I have worked in this building for thirty-one years and there was a room upstairs with a bell in it for the other twenty-two and I did not like that one either.**"
 
 "Do you want one to go in the tray."
 
@@ -100,7 +100,7 @@ There is a card in a drawer in Lattice Ward that says *Marrow Falls, emergency p
 
 ---
 
-*157. Monday of week 48, ten at night in a repair shop in Lattice Ward, and this entry is a woman of forty-one who works three days a week and has said a rule out loud in eleven words and has said the other thing twice on purpose.*
+*157. Monday of week 48, ten at night in a repair shop in Lattice Ward, and this entry is a woman of forty-one who works three days a week and has said a rule out loud in eleven seconds and has said the other thing twice on purpose.*
 
 *What the room is.* **Open to anybody who walks in and fills in a slip. Four things on a slip: what you want, from when, to when, and who is asking. No fee, no membership, a counter with a bell on it, four drawers under the counter with about four hundred cards in them in alphabetical order by the word on the top line, and a trolley against the far wall with a high shelf. Each card has a box number, a date, a place, a hand in a shorthand I cannot read, and a shelf.** She is forty-one, works Mondays, Wednesdays and Fridays, thirty-one years in the building and nine in the room, and she has never once been asked to make a decision and has never once had to be asked, because the room decides by the counter and the bell.
 

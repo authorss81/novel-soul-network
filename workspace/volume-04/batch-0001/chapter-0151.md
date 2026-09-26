@@ -52,7 +52,7 @@ She came down at a fast walk and stood on the other side of the counter and put 
 
 "What was shared, who it was shared with, whether it was a narrow share or a full one, and whether anybody has been told."
 
-"**That is the page,**" said Ianthe Roke, "**and it came back from a district on the Monday of the week of the thirty-sixth and nobody collected it, and it is in that stack, and there is no box on it and there is no box on any of them, and you have rung this counter twice already and been told the same thing twice.**"
+"**That is one of ours,**" said Ianthe Roke, "**and I have never once been able to tell one of them from another and there are about two hundred, and the one I keep in the drawer upstairs is not yours, because yours says a bay and mine says a room, and neither of them has got a box on it and there is no box on any of them, and you have rung this counter twice already and been told the same thing twice.**"
 
 "I have rung it twice and been told it twice."
 
@@ -110,7 +110,7 @@ Then she said: "**It is in. Do you want it out.**"
 
 "**I want it out.**"
 
-"**I have to tell you the thing before I say anything else, and I am not going to soften it, and it is nine words and then I will stop.**"
+"**I have to tell you the thing before I say anything else, and I am not going to soften it, and it is eleven words and then I will stop.**"
 
 "Go on."
 
@@ -122,7 +122,7 @@ Then she said: "**It is in. Do you want it out.**"
 
 ---
 
-Petra Lindqvist spoke for the first time in eleven minutes and she spoke to the counter.
+Petra Lindqvist had not said anything since she said the name of the building down the telephone, and she said it now, to the counter.
 
 "**I ruled that box,**" she said, "because I was asked to rule a line and three words and put nothing in it, and I have not been told since what it is for, and I am not going to ask. I am going to say one thing and then I am going to go back to the four stacks."
 
@@ -168,7 +168,7 @@ There is no mechanism in this city that can take a name back off a page.
 
 *What happened on the telephone, in the order it happened.* **A woman of thirty-eight rang the counter and said she had had one of those pages in a drawer at work since before the spring and had moved house twice with it in a drawer at work. The clerk had been told twice that there was no box for it and had said so twice, and this was the third time the question had been asked by somebody and the second time it had been answered by a person rather than a line at the foot of a district instruction.** She was asked one question and she did not answer it, and what she said instead was that she had been the one holding it, that there were four of them on a bay, that one of them answered and it was not her, and that she took it off anyway in four seconds, and that a bay went off eleven minutes later and nobody was hurt. **And then she said put my name in it, and it was put in, in pencil, by a woman of thirty-one, out loud, in a room with about two hundred other pages in it.**
 
-*What she asked for afterwards, and what she was told.* **She asked for it out. She was told nine words, which were that a name written in pencil is a name on a page in a building, and then the rest of it: the paper goes back in a stack with a rubber band on it, and about two hundred of them are in that counter, and nobody has collected them since the spring, and a district picks those up and nobody knows when. If the page is torn out there is a hole in a stack and a hole in a stack is a thing somebody asks about. If it is not torn out then her name is on a page in that building for as long as the page exists, with no number on it and no way of finding it again.** She said she had made a mistake. She was told she had made a telephone call, and that she had made it in about nine seconds, and that nobody had asked her whether she wanted to put her name on anything and that she would have said yes to being asked. **That is the cost, in her own words, and she gave it to nobody in particular, and the part of it that is going to matter is the last part: there is one other place in this city where she could put her name in her own words, it meets on a Wednesday, it is four minutes an item, she has read the leaflet, and she will not go, because a caller signs their own words and the last time she signed anything in this city somebody found her.**
+*What she asked for afterwards, and what she was told.* **She asked for it out. She was told eleven words, which were that a name written in pencil is a name on a page in a building, and then the rest of it: the paper goes back in a stack with a rubber band on it, and about two hundred of them are in that counter, and nobody has collected them since the spring, and a district picks those up and nobody knows when. If the page is torn out there is a hole in a stack and a hole in a stack is a thing somebody asks about. If it is not torn out then her name is on a page in that building for as long as the page exists, with no number on it and no way of finding it again. She had two of them, hers and the one in the drawer upstairs, and they were not the same sheet, and hers says a bay and the other one says a room, and neither has a box on it.** She said she had made a mistake. She was told she had made a telephone call, and that she had made it in about nine seconds, and that nobody had asked her whether she wanted to put her name on anything and that she would have said yes to being asked. **That is the cost, in her own words, and she gave it to nobody in particular, and the part of it that is going to matter is the last part: there is one other place in this city where she could put her name in her own words, it meets on a Wednesday, it is four minutes an item, she has read the leaflet, and she will not go, because a caller signs their own words and the last time she signed anything in this city somebody found her.**
 
 *What the two of them said that is not in the room.* **The clerk of fifty-three, who ruled the box, said she has not been told what it is for and is not going to ask, and that everything that has gone out of that counter in nineteen years was better printed than that page and not one of them was any use to the person who took it away, and that in about four years somebody in a district is going to lift that rubber band and read a woman's name and is not going to know that she was asked whether she was willing and did not answer it and is not going to care.** She said say it in the minute and there is no minute, and then she said the book, which is in another building and takes what a caller said and not what a person was asked. **The woman of thirty-one said she knew the clerk was right, and that the book and the clerk are the same argument in two directions, and that is the whole of what she has got.**
 
