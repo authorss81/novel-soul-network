@@ -60,7 +60,7 @@ Inside the envelope, on the top sheet, in the second box down on the left, there
 
 "I noticed."
 
-"It's got a woman at the training place who rang me on the Wednesday and read me back *not in employment* in a nice way and then said *that's fine, most of the ones on this one are*, and I have thought about that sentence for about nine days and I have decided that I am going to have it on the form for ever." He turned round. "The two things. One. I stood here on Monday morning at a quarter to eight and I could not do it. I got the bus to the end of this road and I walked back. I have not told anybody that and I am telling you, and you are not going to write it down, and if you ever mention it I will buy a different one. I could not do it on the Monday because I could not do it on the Monday, and I have no more reason than that, and I have had nine days to find one and there is not one."
+"It's got a woman at the training place who rang me on the Wednesday and read me back *not in employment* in a nice way and then said *that's fine, most of the ones on this one are*, and I have thought about that sentence for about ten days and I have decided that I am going to have it on the form for ever." He turned round. "The two things. One. I stood here on Monday morning at a quarter to eight and I could not do it. I got the bus to the end of this road and I walked back. I have not told anybody that and I am telling you, and you are not going to write it down, and if you ever mention it I will buy a different one. I could not do it on the Monday because I could not do it on the Monday, and I have no more reason than that, and I have had five days to find one and there is not one."
 
 "That is fine."
 
@@ -70,7 +70,7 @@ He put his hands in his coat.
 
 "There is a box on that form, fourth down, on the left, and it says *declaration — any condition, injury or medication affecting your ability to work at height*, and under it it says that if you declare a condition you may be called for an assessment before the practical module, and that declaring does not affect your fee. And I have got to write in it: left forearm, two tendons repaired, incomplete, no grip in the middle finger since before the term started, three months' recovery, cleared for light duties only and a doctor in Sennet Row has it in writing and will say so if anybody rings him.
 
-"And the box is empty. I looked at it on Monday and I looked at it on Thursday and it is empty, and I have decided to post it with the box empty, and I am telling you that I have decided it and not that I have forgotten it, because I have not forgotten it, and I am not asking you what to put in it and I know that you are not going to tell me what to put in it, because you told me in this shop on the Thursday of week sixteen that you were not going to and I have been holding you to it for nine days and you have not slipped once.
+"And the box is empty. I looked at it on Monday and I looked at it on Thursday and it is empty, and I have decided to post it with the box empty, and I am telling you that I have decided it and not that I have forgotten it, because I have not forgotten it, and I am not asking you what to put in it and I know that you are not going to tell me what to put in it, because you told me in this shop on the Thursday of week sixteen that you were not going to and I have been holding you to it for three weeks and you have not slipped once.
 
 "So the price is four hundred and forty pounds, which I have, and two days off the kitchen, which Deb has put me down for, and a form with a blank box on it, and in about six months somebody in a building off the roundabout is going to read that form and not know that my hand does not close. **I have decided that the blank box is worth it, and it is worth it to me and not to anybody else, and there is nobody in this city I could ask who would be on my side about it, so I have asked you, and you have not said anything, and I am going to the bus.**"
 
@@ -92,7 +92,7 @@ Tam Arrick stood on a pavement in Lattice Ward and looked at him.
 
 "Your bus is at eleven and my shop is open and I have nothing in it, and I am not going to follow you to it."
 
-"Good." He pulled his hood up. "Monday of week twenty. Both days. And you are not to say one word about it, and I am going to come out with a card with my name typed on it, and I am not going to be the only man in the room who has got one, because Rafi Pell has got one in a plastic sleeve and Reuben Daw is about to have one, and I have been reading about all three of you like a book and I am the one with the two cut tendons, and I have made my peace with that in about nine days and I did not make it with anybody's help."
+"Good." He pulled his hood up. "Monday of week twenty. Both days. And you are not to say one word about it, and I am going to come out with a card with my name typed on it, and I am not going to be the only man in the room who has got one, because Rafi Pell has got one in a plastic sleeve and Reuben Daw is about to have one, and I have been reading about all three of you like a book and I am the one with the two cut tendons, and I have made my peace with that in five weeks and I did not make it with anybody's help."
 
 He walked off towards the bus stop with his hands in his pockets, and he did not look back, and Marek Senn stood at a postbox on a corner in Lattice Ward and put a receipt in it and then stood there for another minute with his hand on the cold iron.
 
@@ -116,7 +116,7 @@ Marek Senn stood at the bench and did not sit down.
 
 There was about four seconds of a hut.
 
-"The way out was *he's at the college now*," said Reuben Daw. "That is four words. In a doorway. On a Wednesday afternoon in about a minute, and I was standing there, and he was on his way to his car, and he was not even talking to me, he was talking past me. And I had been on that yard nine weeks. Nine weeks, and I have never once told anybody in this city what I did before that and nobody asked, and I have not said the word college about myself since I was sixteen and my mother would have taken the roof off.
+"The way out was *he's at the college now*," said Reuben Daw. "That is four words. In a doorway. On a Wednesday afternoon in under a minute, and I was standing there, and he was on his way to his car, and he was not even talking to me, he was talking past me. And I had been on that yard nine weeks. Nine weeks, and I have never once told anybody in this city what I did before that and nobody asked, and I have not said the word college about myself since I was sixteen and my mother would have taken the roof off.
 
 "And today is the way back and it is also four words and it is also in a doorway, and it is the same man, and he said: **you'll want the card.**"
 
@@ -150,7 +150,7 @@ Marek Senn did not say anything for about two seconds.
 
 The line went.
 
-Marek Senn stood at the bench for about a minute with the phone in his hand and then put it down and did not write anything down for about eleven minutes, which is the longest he has gone in a book.
+Marek Senn stood at the bench for a minute with the phone in his hand and then put it down and did not write anything down for about eleven minutes, which is the longest he has gone in a book.
 
 ---
 
@@ -176,7 +176,7 @@ Marek Senn listened to the whole of it without saying a word.
 
 "She said yes."
 
-"She said yes in about four seconds and she asked whether they were going back on the same day and the woman said there was no rush on that, and Ena said there was no rush on that, and the woman wrote *no rush* on the list, and that is it, that is the whole of it. **Nobody from the Fold nursery was asked. Nobody from the Fold nursery is going to be thanked. The chairs are going to a room off the roundabout that has nothing in it, for a Saturday, for about twenty women on somebody's books.**"
+"She said yes in about four seconds and she asked whether they were going back on the same day and the woman said there was no rush on that, and Ena said there was no rush on that, and the woman wrote *no rush* on the list, and that is it, that is the whole of it. **Nobody from the Fold nursery was asked. Nobody from the Fold nursery is going to be thanked. The chairs are going to a room on the third floor of a building in Bower Street that has nothing in it for eight weeks a year, for a Saturday, for about twenty women on somebody's books.**"
 
 "And Ena knows about the Saturday. Does Ena know what it is for."
 
@@ -198,7 +198,7 @@ Marek Senn listened to the whole of it without saying a word.
 
 She put the phone down.
 
-Marek Senn put the phone down and stood at the bench and then turned round and looked at the load book on the shelf by the day book, and it was a quarter past four on a Saturday, and the round was on the Monday at ten past six, and the Monday was in two days, and there were about seven of them left before the year's out, and he would be on that bank in nine days as an employee of a company that sold a card that a woman in a wheelchair could not afford.
+Marek Senn put the phone down and stood at the bench and then turned round and looked at the load book on the shelf by the day book, and it was a quarter past four on a Saturday, and the round was on the Monday at ten past six, and the Monday was in two days, and there were about seven of them left before the year's out, and he would be on that bank in two days as an employee of a company that sold a card that a woman in a wheelchair could not afford.
 
 ---
 

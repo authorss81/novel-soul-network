@@ -98,7 +98,7 @@ Marek Senn did not say anything about that for a moment.
 
 "The district that writes those cards is a customer of yours."
 
-"The district that writes those cards is a customer of mine and has been for eleven years, and I have never met the man who writes them, and I have never once asked why there is a box for a name and a time on a sheet in a yard office and no line for a name and a time on the card on the wall beside it. I said that to you in this shop on the Tuesday and I have not stopped saying it since, and I am saying it now because in about nine days you are going to be in a building four days a week and it will stop being an interesting question and become a thing you know."
+"The district that writes those cards is a customer of mine and has been for eleven years, and I have never met the man who writes them, and I have never once asked why there is a box for a name and a time on a sheet in a yard office and no line for a name and a time on the card on the wall beside it. I said that to you in this shop on the Tuesday and I have not stopped saying it since, and I am saying it now because in three days you are going to be in a building four days a week and it will stop being an interesting question and become a thing you know."
 
 He got to the door.
 

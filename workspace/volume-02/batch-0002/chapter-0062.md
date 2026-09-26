@@ -1,10 +1,10 @@
-# Chapter 62 — Twenty-Five to Ten
+# Chapter 62 — Through Wired Glass
 
 There was a light on over the office at seven in the morning and nobody under it.
 
-The roller shutter on the vehicle bay was up four feet and had been up four feet since about a quarter to seven, and Marek Senn got the side door at seven because the side door has a bar on it and the bar is stiff, and the office inside smelled of coffee that had been made on Friday and of warm plastic, and there was a monitor asleep, a kettle, a wall calendar with a month on it that he did not look at, and a key board with forty-one keys on it.
+The roller shutter on the vehicle bay was up four feet and had been up four feet since about a quarter to seven, and Marek Senn got the side door at seven because the side door has a bar on it and the bar is stiff, and the office inside smelled of coffee that had been made on Friday and of warm plastic, and there was a monitor asleep, a kettle, a wall calendar with a month on it that he did not look at, and a key board with more keys on it than he counted.
 
-He had been in this building eleven times. Nine of those were on the Tuesday of week fourteen and the Wednesday of week fifteen, at a counter, as a member of the public.
+He had been in this building eleven times. Nine of those were in the last six weeks, at a counter, as a member of the public.
 
 He put his bag down, took his coat off, and found the sheet on the spike. A work order for a customer in Nine Bridges, printed at six in the morning by a machine in a room nobody was in: a supply unit on a 4-19 plate rig, customer reports intermittent fault on the release routine, third-party, no parts held, two hours allowed, attend by nine. It was a real document with a real fault on it and somebody in a depot four miles away had decided at six this morning that he was the man to go to it, and there was nobody in the building to hand it to him, and nobody had signed it, because the person who signs it was not coming in until eight.
 
@@ -30,15 +30,15 @@ And this is a card with 4.0 on it three times and a hold of four seconds and a p
 
 He wrote the time on the sheet and drove back.
 
-The corridor of the Institute's practical building is forty-one paces long and has a fire door at the north end with a wired-glass panel in it and a bench under it. He had parked the van in the college yard at nine twenty-five because the customer in Nine Bridges had moved the follow-on to eleven and there was nowhere to sit in a van for an hour and a half, and he had not eaten, and he went in because he had been in the building before and there was a bin and a tap and a machine for tea that took a pound and gave you a tea that was mostly hot water.
+The corridor of the Institute's practical building is thirty-one paces long and has a fire door at the north end with a wired-glass panel in it and a bench under it. He had parked the van in the college yard at nine twenty-five because the customer in Nine Bridges had moved the follow-on to eleven and there was nowhere to sit in a van for an hour and a half, and he had not eaten, and he went in because he had been in the building before and there was a bin and a tap and a machine for tea that took a pound and gave you a tea that was mostly hot water.
 
-The practical hall's door is at the south end of that corridor and it has a wired-glass panel in it too, and it was shut, and through the panel there were about forty people in there, and it was a quarter to ten.
+The practical hall's door is at the south end of that corridor and it has a wired-glass panel in it too, and it was shut, and through the panel there was most of a room taken up and a man at the front of it in a shirt with the cuffs turned back, and it was a quarter to ten.
 
 Anneke Roos had let him sit at the back of a briefing in week fifteen and had said in about a second that she would say no before anybody finished asking him to speak. She had not said anything about the Monday. Davan Rusk had told him on the Friday of week fifteen that he would sit at the back and let Marek read page four of the Threadline booklet to them himself, from the front, in the teaching shape, and Marek had said no, and the arrangement that had come out of that was that Marek would sit at the back and would not be asked to say anything.
 
-He went in at two minutes to ten. There were three empty chairs at the back. He sat in one of them.
+He went in at about a quarter past ten. There were three empty chairs at the back. He sat in one of them.
 
-Davan Rusk was at the front with revision 3-08 face up on the lectern, in a shirt with the cuffs turned back, and he said the number out loud before he said anything else, the way he said it in week fifteen, and about thirty people who had been in the room for half an hour made a small noise.
+Davan Rusk was at the front with revision 3-08 face up on the lectern, in a shirt with the cuffs turned back, and he had said the number out loud before he said anything else, the way he said it in week fifteen, and about thirty people who had been in the room for ten minutes made a small noise, and Marek Senn had heard the whole of it through a panel in a door.
 
 "Right," said Davan Rusk. "That is the manual on the lectern. It is revision 3-08. It is what I have been teaching out of for two years and it is what is in the cupboard and it is what thirty of you have been examined against. Everything I say for the next hour is going to come out of that book, and where the book does not say something I am going to tell you that the book does not say it. I am not going to guess and I am not going to fill a gap. I did that once and it lasted for two years."
 
@@ -46,9 +46,9 @@ There was a woman at the back on the end row who said, "That's the second module
 
 "That is the second module, though," Rusk agreed. "I have said that to the department three times in writing and the answer is that a printing cycle is four months and I have eight credits in a teaching budget, and I paid for this myself in March, and I would like it minuted that I knew."
 
-Then he did the practical part for twenty-five minutes and it was good, and Marek watched him do it and could not have told anybody one thing that was wrong with the way he did it, and noticed at about eleven minutes in that the man had a habit of putting his hand out flat and leaving it there about a second longer than the book said, and that the habit is what the fourth beat looks like in a body, and that the book did not say it.
+Then he did the practical part, and it was good, and it went on a long time, and Marek Senn stood at the north end of a corridor and worked out from the sound of it that thirty-nine or forty of them were doing it at the same time in a room with the windows shut, which is not the same thing as watching it and is not as good as being allowed to.
 
-At twenty-five to ten — and Marek Senn looked at the clock on the wall, and it was twenty-five to ten — Davan Rusk put revision 3-08 to one side, face down, and picked up a company booklet, a Threadline one, the eleven-page one, the same eleven pages, and held it up.
+At ten past ten — and Marek Senn looked at the clock on the wall through the panel, and it was ten past ten — Davan Rusk put revision 3-08 to one side, face down, and picked up a company booklet, a Threadline one, the eleven-page one, the same eleven pages, and held it up.
 
 "There is a thing I have to do and I am going to do it badly, and I want to say at the start that I have thought about it for two weeks and I have not found a way to do it well." He turned to page four. "This is a supplier's course booklet. It is not ours. It is revision 4-19 and it is the content that the cards in this room are issued against, and page four of it is not in our manual and has never been in our manual, and I have had a copy on my desk since the week before the half term and I have read it about forty times and I have not known what to do with it.
 
@@ -58,7 +58,7 @@ At twenty-five to ten — and Marek Senn looked at the clock on the wall, and it
 
 Rusk did not look at the back. He looked at the middle of the room.
 
-"He said no to me in a corridor on the Friday and he gave me a reason that was correct, and I have thought about that reason for two weeks and I am not going to pretend I have a better one. So I am going to read it. And I am going to read it as it is printed, in the teaching shape, and then I am going to say that that is 4-19, and I am going to say that out loud, in this room, with the marks sheet going out with the file, because the alternative is that forty of you go out of here having been taught 4-19 out of a book that is 3-08 and having nobody in this city say the words."
+"He said no to me in a corridor on the Friday and he gave me a reason that was correct, and I have thought about that reason for two weeks and I am not going to pretend I have a better one. So I am going to read it. And I am going to read it as it is printed, in the teaching shape, and then I am going to say that that is 4-19, and I am going to say that out loud, in this room, with the marks sheet going out with the file, because the alternative is that forty-one of you go out of here having been taught 4-19 out of a book that is 3-08 and having nobody in this city say the words."
 
 Marek Senn felt forty pens start.
 
@@ -68,7 +68,7 @@ He had spent fourteen weeks refusing to make things exist, and he had said no in
 
 Rusk read it twice, because about half of the room had not written it the first time.
 
-And then he said, in a flat voice, to about forty people: "That is step four. That is 4-19. If you are ever working to a 4-19 card, that is what step four is, and I am telling you that it is 4-19 in this room and I am putting my name to it, and the manual on the lectern does not contain it and I would like that written down at the top of the file with my name against it."
+And then he said, in a flat voice, to forty-one people: "That is step four. That is 4-19. If you are ever working to a 4-19 card, that is what step four is, and I am telling you that it is 4-19 in this room and I am putting my name to it, and the manual on the lectern does not contain it and I would like that written down at the top of the file with my name against it."
 
 The room was completely silent for about two seconds and then about nine people said something at once.
 
@@ -78,7 +78,7 @@ Nobody said anything.
 
 "All right," said Rusk. "I have been doing this for twenty-two years and I am going to say the thing that is going to cost me and then I am going to finish the hour. On the Thursday of week fourteen I was heard as a witness in a room about a rail that went across a girl's arm, and on the Tuesday of week fourteen I said a word out of habit from the front of a room and a man in the second row went off his own count because of it, and there is a record of that in a file, and I have said in that room that my certificate taught me the word. My certificate says the holder is competent to confirm scope to a learner. It is in a drawer in my house and I have never produced it and I am not going to today.
 
-"And I have just told forty of you that step four of 4-19 is a line in capitals on page four of a supplier's booklet, and I have said my name to it, and I have put it in a file that goes to a regional office at the end of this term. And the reason I have done it is that a twenty-two-year-old said no to me in a corridor and the reason he said no is on the fourth condition of a share in a document he signed and the condition is a prohibition on him demonstrating, teaching, assessing or assisting at any practice in this department, and that prohibition does not have an expiry date on it, and it came off a trust on the Wednesday of week sixteen and it is still here.
+"And I have just told forty-one of you that step four of 4-19 is a line in capitals on page four of a supplier's booklet, and I have said my name to it, and I have put it in a file that goes to a regional office at the end of this term. And the reason I have done it is that a twenty-two-year-old said no to me in a corridor and the reason he said no is on the fourth condition of a share in a document he signed and the condition is a prohibition on him demonstrating, teaching, assessing or assisting at any practice in this department, and that prohibition does not have an expiry date on it, and it came off a trust on the Wednesday of week sixteen and it is still here.
 
 "That is the whole of it. I would have liked it to be a worse reason. I have been trying for a fortnight to find a way of doing this that is about the students and it is not about the students, it is about the fact that I have a sheet of paper with forty-one names on it and a boy in my department who is the only person in this city any use with a fourth beat and I could not teach the hour without him and he will not and so I have said a sentence in capitals in a room instead and I have got a certificate of my own saying that is the correct thing to do."
 
@@ -86,9 +86,11 @@ He put the booklet down.
 
 "Twenty-five minutes," he said. "Do it again with the two on the front row. No — no. Not with me watching the first one. Do it again."
 
+Marek Senn was in the room for that, and it was the only twenty-five minutes of the morning he was in the room for, and he could not have told anybody one thing that was wrong with the way Davan Rusk did it. About eleven minutes in he noticed that the man had a habit of putting his hand out flat and leaving it there a second longer than the book said, and that the habit is what the fourth beat looks like in a body, and that the book did not say it, and that nobody in the hall could have told him either.
+
 ---
 
-The hall emptied into the corridor at about ten past ten. Marek Senn sat in his chair for about ninety seconds and then got up, because if he was in the corridor when it emptied then he was a man who had listened to forty-one people being taught, and if he went out the door before the door opened he was a man who had been in the room and had gone.
+The hall emptied into the corridor at about ten to eleven. Marek Senn sat in his chair for about ninety seconds and then got up, because if he was in the corridor when it emptied then he was a man who had listened to forty-one people being taught, and if he went out the door before the door opened he was a man who had been in the room and had gone.
 
 He went out through the north door and stood by the fire door.
 
@@ -100,9 +102,9 @@ Darla Vint came out about two minutes after everybody else with the marks sheets
 
 "You were in there for the last of it."
 
-"Forty-five minutes of it I was not," said Marek Senn. "I was on the bench under the fire door with the wired glass in it until about a quarter to ten, and then I came in and sat down at the back, and I have got a chair at the back because somebody in this department took about a second to work out that I would be less use in a corridor than I would be on a bench watching a man read a page out loud, and she was right. And I want you to say that both of those things happened, and that the second one is not a defence of the first one."
+"Forty-five minutes of it I was not," said Marek Senn. "I was on the bench under the fire door with the wired glass in it until about a quarter past ten, and then I came in and sat down at the back, and I have got a chair at the back because somebody in this department took about a second to work out that I would be less use in a corridor than I would be on a bench watching a man read a page out loud, and she was right. And I want you to say that both of those things happened, and that the second one is not a defence of the first one."
 
-Darla Vint stood in the corridor holding about forty sheets.
+Darla Vint stood in the corridor holding forty-one sheets.
 
 "He read it out," she said.
 
@@ -126,7 +128,7 @@ She got to the end of the corridor.
 
 ---
 
-He sat in the van in the college yard from about ten past ten until twenty to eleven with the engine off and did not do anything at all, which was the first time he had done nothing for about three weeks, and then he started the van because there was a customer in Saltmarket with a follow-on and he had it in the sheet for eleven o'clock.
+He sat in the van in the college yard for about a quarter of an hour with the engine off and did not do anything at all, which was the first time in about three weeks he had done nothing, and then he started it, and there was a customer in Saltmarket with a follow-on and he had it in the sheet for eleven o'clock and he made it with three minutes to spare.
 
 On the way out he put the hand set on the passenger seat and looked at the little card again.
 
@@ -148,7 +150,7 @@ He got the van into the Saltmarket yard at eleven and the machine was a call-out
 
 He wrote it at half past nine that night with the door shut, at the bench, and the page came out in four minutes, which is the shortest since the Tuesday of week sixteen.
 
-*65. Monday of week 19. Twenty-five to ten.*
+*65. Monday of week 19. Nine thirty to ten past ten, and then twenty-five minutes.*
 
 *What I heard through a door.* I was on a bench in a corridor for the first forty-five minutes of it and in the room for the last twenty-five, and I want both of those in the book in that order, because the first one is what happened and the second one is what I did and I am not going to let one of them travel without the other. He read it out. **RELEASE IS GIVEN BY ANOTHER VOICE. DO NOT RELEASE ON YOUR OWN JUDGEMENT.** He read it twice because half the room did not write it the first time, and then he said out loud in a hall that that is step four of 4-19 and that his name goes against it, and forty pens went, and I have spent fourteen weeks refusing to make things exist and a better man than me made forty-one of them in about ninety seconds and neither of us has any idea what we have done.
 
@@ -156,6 +158,6 @@ He wrote it at half past nine that night with the door shut, at the bench, and t
 
 *Do not know.* Whether saying no was right. I have not worked it out in a way that would satisfy anybody else and I am going to leave it at this: **I was right and the room is worse and I am the reason it is worse, and both of those are true, and I have been carrying the first one alone for fourteen weeks and I have never once had to carry the second one next to it, and this is what that feels like.** And there is a version of the week I am still owed where a corridor had ended at a door and the door had stayed shut, and I do not have one, and I am not going to build one tonight.
 
-*What I did not do.* I did not stand up. I had a chair at the back and he did not ask me a single question in ninety minutes and he had promised not to and he kept it, and I sat in it and I said nothing, and there were about nine moments in ninety minutes where I could have stood up and made a thing less bad and about nine moments where standing up would have made it a thing about a third-year in a staff file, and I counted them and I did not do either. Darla Vint says the tick column is the system and that if somebody reads a supplier's page out in a room and somebody does not come and nobody rings them, then in four months a person who had a look at a page will be recorded as not attending and will not know why. I have written that down and I am not going to do anything about it tonight and I am not going to pretend I have.
+*What I did not do.* I did not stand up. I had a chair at the back and he did not ask me a single question in seventy minutes and he had promised not to and he kept it, and I sat in it and I said nothing, and there were about nine moments in seventy minutes where I could have stood up and made a thing less bad and about nine moments where standing up would have made it a thing about a third-year in a staff file, and I counted them and I did not do either. Darla Vint says the tick column is the system and that if somebody reads a supplier's page out in a room and somebody does not come and nobody rings them, then in four months a person who had a look at a page will be recorded as not attending and will not know why. I have written that down and I am not going to do anything about it tonight and I am not going to pretend I have.
 
 *What I read in a plate this morning and have not written anywhere else.* A card on the side of a housing with three intervals on it and a hold of four seconds and the sentence about the word and the sentence about withdrawing. It is good engineering. It is good because it takes the decision away from a body that has never been in a position to make one, and that is not a company's invention and it is not a school's invention, and a man of fifty-eight on a wagon in the dark at two in the morning at fourteen hours is exactly the man it is for. **I have been sitting in a customer's storeroom with my hand on a plate working out that the thing I have been calling the fourth thing is a piece of extremely good work done by people who have never once been told what it is for, and I worked it out in four minutes with a bent reed switch in my hand, and I could not have worked it out from a book in fourteen weeks.** That is the entry. That is the one I would want somebody to find if I am hit by a van on a road day. The other thing on this page is the thing that went wrong and the other thing went wrong because of a sentence and the sentence was read out by a decent man. Both. And I am not picking one.
