@@ -16,11 +16,11 @@ He had the same one on a lanyard and the same one out of a printer's counter and
 
 "When."
 
-"Three weeks ago." He did not look up. "**Not because you told me to and not because the other one is worse. Because I said it to a man in a doorway in Nine Bridges in the spring and I went back to that doorway before the summer was out and the man had gone and the doorway was a stairwell for a different building, and I have been stood in about four stairwells since and none of them was the right one, so I have decided I am not going to be a man with a grudge about a card.**"
+"Three weeks ago." He did not look up. "Not because you told me to and not because the other one is worse. Because I said it to a man in a doorway in Nine Bridges in the spring and I went back to that doorway before the summer was out and the man had gone and the doorway was a stairwell for a different building, and I have been stood in about four stairwells since and none of them was the right one, so I have decided I am not going to be a man with a grudge about a card."
 
 "**That is a better reason than mine was.**"
 
-"**It is a worse one for the case and a better one for me,**" said the man of thirty-four, "**and I have worked that out and not told anybody, which is a sentence I am going to say once and then never again.**"
+"**It is a worse one for the case and a better one for me,**" said the man of thirty-four, "and I have worked that out and not told anybody, which is a sentence I am going to say once and then never again."
 
 ---
 
@@ -30,13 +30,13 @@ He put the two cards on the table side by side.
 
 "Report to who."
 
-"**That is what I am telling you and I have told two men in this canteen and neither of them was in a position to do anything about it,**" he said. "**The card has got a company on it and a register reference and about four of those references are in about nine rooms in this city and I have never rung a room. I have rung a number about four times and it is a company's number and it is a service line and the man on it has asked me for the model and the site and I have given him both and he has told me it is not a fault and to ring the district. That is four rings in four months and about forty minutes of that line in total.**"
+"**That is what I am telling you and I have told two men in this canteen and neither of them was in a position to do anything about it,**" he said. "The card has got a company on it and a register reference and about four of those references are in about nine rooms in this city and I have never rung a room. I have rung a number about four times and it is a company's number and it is a service line and the man on it has asked me for the model and the site and I have given him both and he has told me it is not a fault and to ring the district. That is four rings in four months and about forty minutes of that line in total."
 
 ---
 
 Somebody behind the servery dropped a tray and neither of them looked round.
 
-"The other half," he said. "**Eleven on the card. About nine on the rota. I have worked that out on my own and I am not saying it as a complaint.**"
+"The other half," he said. "Eleven on the card. About nine on the rota. I have worked that out on my own and I am not saying it as a complaint."
 
 "**I know that number.**"
 
@@ -44,7 +44,7 @@ Somebody behind the servery dropped a tray and neither of them looked round.
 
 Nobody said anything for four seconds.
 
-"**So I have got a card that is wrong and a man in a lanyard who is not going to be here on a Tuesday,**" he said, "**and the thing I want to say to you is not a request. It is that you are the only person in this city who has ever said a true sentence to me about a card and you did it in a lift, and I have been thinking about whether to come and find you for three weeks, and I have come, and I have not got anything for you, and that is the whole of it.**"
+"**So I have got a card that is wrong and a man in a lanyard who is not going to be here on a Tuesday,**" he said, "and the thing I want to say to you is not a request. It is that you are the only person in this city who has ever said a true sentence to me about a card and you did it in a lift, and I have been thinking about whether to come and find you for three weeks, and I have come, and I have not got anything for you, and that is the whole of it."
 
 ---
 
@@ -54,13 +54,13 @@ The depot manager is fifty-two and has a board with a list on it and a telephone
 
 It was whether the district could put a name against a release on a Friday, and whether the name would be the person who gave the word.
 
-"They want a name," said the depot manager, "**and I am reading it out because it is a written question and not a conversation, and I have told them the same thing I tell everybody, which is that I do not put names on releases and that the card is the card.**"
+"They want a name," said the depot manager, "and I am reading it out because it is a written question and not a conversation, and I have told them the same thing I tell everybody, which is that I do not put names on releases and that the card is the card."
 
 He looked down the table.
 
 "**You do that on Fridays. Do you want to say anything to it.**"
 
-"Nine words," said Marek Senn. "**A release is finished by the person holding it, not by a person waiting.**"
+"Nine words," said Marek Senn. "A release is finished by the person holding it, not by a person waiting."
 
 Somebody at the end of the table wrote it down.
 
@@ -72,7 +72,7 @@ And then the depot manager said the thing he says at the end of every Friday bri
 
 The room did not do anything.
 
-"Right," said the depot manager. "**Nominations for the Friday of next week are on the sheet by four.**"
+"Right," said the depot manager. "Nominations for the Friday of next week are on the sheet by four."
 
 ---
 

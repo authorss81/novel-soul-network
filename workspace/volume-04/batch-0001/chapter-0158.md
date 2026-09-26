@@ -12,7 +12,7 @@ The woman who types things is twenty-six and she has been at the fund for three 
 
 She had eleven of them in a folder on a shelf behind her, all addressed to a man of forty-four, all of them asking the same question in a different first line, and she had not answered one, and nobody had asked her to and she had told two people in an office on the Thursday that she was not going to.
 
-"**It is not a decision and I would like it written down that it is not a decision,**" she said. "**I have not decided to stop answering them. I have decided that there is nothing on the paper to answer them with.**"
+"**It is not a decision and I would like it written down that it is not a decision,**" she said. "I have not decided to stop answering them. I have decided that there is nothing on the paper to answer them with."
 
 ---
 
@@ -20,7 +20,7 @@ The session started and Corin Vasska read the specification in the voice he read
 
 *And a session addressing the coverage of a supervised confirmation where the holder is not a named party to the share.*
 
-"That is the third line," he said, "**it is nine words, it is funded, and it is the only sentence on that leaflet anybody is going to read, and there are four hundred of them in the stack by the door and four thousand went out with the last one.**"
+"That is the third line," he said, "it is nine words, it is funded, and it is the only sentence on that leaflet anybody is going to read, and there are four hundred of them in the stack by the door and four thousand went out with the last one."
 
 He put the sheet down.
 
@@ -36,11 +36,11 @@ Then the man of fifty-one stood up and asked for the microphone to be switched o
 
 Somebody switched it off.
 
-"**I said a true thing in a market in the week of the twenty-four and I have been paid for it six times and nobody in this city has ever asked me whether I wanted to say it,**" said Peter Amado. "**And I am going to be paid a seventh time for this one to say that a practice in this city belongs to nobody, and I have come tonight to say the other thing, which is that I do not know how long I can keep doing it, and that nobody has offered me a way out, and that I have been coming for six Fridays and I am going to keep coming.**"
+"**I said a true thing in a market in the week of the twenty-four and I have been paid for it six times and nobody in this city has ever asked me whether I wanted to say it,**" said Peter Amado. "And I am going to be paid a seventh time for this one to say that a practice in this city belongs to nobody, and I have come tonight to say the other thing, which is that I do not know how long I can keep doing it, and that nobody has offered me a way out, and that I have been coming for six Fridays and I am going to keep coming."
 
 Somebody said: "You do not have to say any of that."
 
-"I do not have to," said Peter Amado, "**and that is the fourth time anybody in this room has offered me that, and the first time was six Fridays ago, and I have thought about the offer more than I have thought about the fee, and I am still going to take the fee, and the reason I am going to say that out loud is that about four years from now nobody is going to be able to tell whether I believe it, and I would like it to be on a record that I said it while I still knew.**"
+"I do not have to," said Peter Amado, "and that is the fourth time anybody in this room has offered me that, and the first time was six Fridays ago, and I have thought about the offer more than I have thought about the fee, and I am still going to take the fee, and the reason I am going to say that out loud is that about four years from now nobody is going to be able to tell whether I believe it, and I would like it to be on a record that I said it while I still knew."
 
 ---
 
@@ -50,31 +50,31 @@ And then the woman of twenty-six stood up, which she has never done in three yea
 
 "You can ask about anything," said the officer of the fund, "that is the second half of the evening."
 
-"**The two boxes on the front sheet that say no name,**" she said. "**They went out on the note to eleven thousand premises and about four thousand leaflets went out with it into nine hundred rooms, and there will be another note this quarter and about four hundred leaflets in the room for it, and about eleven people have written in to ask about them and I have typed the answers to none. And I would like to say one thing about them and I have been trying to say it for four months and I could not say it in a corridor.**"
+"**The two boxes on the front sheet that say no name,**" she said. "They went out on the note to eleven thousand premises and about four thousand leaflets went out with it into nine hundred rooms, and there will be another note this quarter and about four hundred leaflets in the room for it, and about eleven people have written in to ask about them and I have typed the answers to none. And I would like to say one thing about them and I have been trying to say it for four months and I could not say it in a corridor."
 
 Nobody said anything.
 
-"**Those are the only two boxes on that sheet with anything in them,**" she said. "**There are five fields and two of them are boxes. The two boxes say no name. Two of the other three are empty and the third has got a date in it. And the two that say no name are the only two anybody can read from the outside, because they are the only two with words in them, and one of those words is a man's handwriting and the other one is mine, and I did not write either of them, and I have not answered one of the eleven letters, and every one of those eleven letters has been sent to a woman of twenty-six who types things.**"
+"**Those are the only two boxes on that sheet with anything in them,**" she said. "There are five fields and two of them are boxes. The two boxes say no name. Two of the other three are empty and the third has got a date in it. And the two that say no name are the only two anybody can read from the outside, because they are the only two with words in them, and one of those words is a man's handwriting and the other one is mine, and I did not write either of them, and I have not answered one of the eleven letters, and every one of those eleven letters has been sent to a woman of twenty-six who types things."
 
 ---
 
 Nobody in that room voted on anything.
 
-"**I have not come here to ask him to change it,**" she said, and did not turn round, and everybody in the room knew who she meant and not one of them said a name. "**I have come to say that the two words are the only thing on that sheet anybody can write to, and that is not nothing, and I have spent four months deciding whether that is a reason to answer the letters and it is not, and I have not been able to decide whether it is a reason to keep answering the telephone.**"
+"**I have not come here to ask him to change it,**" she said, and did not turn round, and everybody in the room knew who she meant and not one of them said a name. "I have come to say that the two words are the only thing on that sheet anybody can write to, and that is not nothing, and I have spent four months deciding whether that is a reason to answer the letters and it is not, and I have not been able to decide whether it is a reason to keep answering the telephone."
 
 "What do you want."
 
-"**I want it minuted that I have not been asked to do anything tonight, and that I came, and that I am going to go back to a folder with eleven letters in it on Monday and I am not going to answer them,**" said the woman of twenty-six. "**And I want to say the other thing and then I will sit down. About eleven people a week are being handed a card that says a release waits for somebody. That is in nine hundred rooms and it is on my screen every morning and I type it, and there is no field on any of it that says who is going to be standing in the room when the word does not come, and I have looked.**"
+"**I want it minuted that I have not been asked to do anything tonight, and that I came, and that I am going to go back to a folder with eleven letters in it on Monday and I am not going to answer them,**" said the woman of twenty-six. "And I want to say the other thing and then I will sit down. About eleven people a week are being handed a card that says a release waits for somebody. That is in nine hundred rooms and it is on my screen every morning and I type it, and there is no field on any of it that says who is going to be standing in the room when the word does not come, and I have looked."
 
 ---
 
 At a quarter to eleven the officer of the fund said the thing he had said he was going to say, and he said it standing up, and there was a woman of twenty-six sitting four rows from the front who had said a true thing about a sheet of paper and had not been thanked and was not going to be.
 
-"**I have put a sentence in a minute twice in four years and I have read it more times than I have read the specification,**" he said. "**The difference between a counterfeit card and a company's card is who it is waiting for. The company's waits for a key-holder, which is a person in a room. The counterfeit's waits for nobody, because there is no room in it.** And I am going to say the other half out loud tonight because there is a woman in this room who has just worked it out in four months and I would like her to know that it took a man of forty-four four years and a printer of fifty-eight one afternoon. **And here is the half I have never said in this room. I wrote those two words in a man's handwriting in the hope of stopping a room, and what I actually did was give about forty people who were frightened the only two things on that note they could write back to. They wrote to them. I have had that note in my hand every week since and I have not been able to make it say what I meant it to say, and I have not been able to make the eleven thousand premises it went to read it either, and I am not going to be able to.**"
+"**I have put a sentence in a minute twice in four years and I have read it more times than I have read the specification,**" he said. "The difference between a counterfeit card and a company's card is who it is waiting for. The company's waits for a key-holder, which is a person in a room. The counterfeit's waits for nobody, because there is no room in it. And I am going to say the other half out loud tonight because there is a woman in this room who has just worked it out in four months and I would like her to know that it took a man of forty-four four years and a printer of fifty-eight one afternoon. And here is the half I have never said in this room. I wrote those two words in a man's handwriting in the hope of stopping a room, and what I actually did was give about forty people who were frightened the only two things on that note they could write back to. They wrote to them. I have had that note in my hand every week since and I have not been able to make it say what I meant it to say, and I have not been able to make the eleven thousand premises it went to read it either, and I am not going to be able to."
 
 "So which is it."
 
-"Both," said the officer of the fund. "**And I am not going to resolve it for you, and I am not going to pretend the second half is a smaller version of the first. I have got a fund and eleven thousand premises and a specification with three lines and a committee of about nine that does not meet again, and a leaflet in nine hundred rooms that cites a company's own assurance as evidence, and about four hundred and thirty-two cards in about nine places in one district that nobody can take back, and I have been getting letters about two words in two boxes for four months and I cannot stop any of it and I did not know about half of it until a fortnight ago.**"
+"Both," said the officer of the fund. "And I am not going to resolve it for you, and I am not going to pretend the second half is a smaller version of the first. I have got a fund and eleven thousand premises and a specification with three lines and a committee of about nine that does not meet again, and a leaflet in nine hundred rooms that cites a company's own assurance as evidence, and about four hundred and thirty-two cards in about nine places in one district that nobody can take back, and I have been getting letters about two words in two boxes for four months and I cannot stop any of it and I did not know about half of it until a fortnight ago."
 
 ---
 

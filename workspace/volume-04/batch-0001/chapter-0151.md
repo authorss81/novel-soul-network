@@ -18,7 +18,7 @@ Petra Lindqvist had put the rubber band back on the other three stacks on the We
 
 "You are going to keep looking at it," said Ianthe Roke.
 
-"**I have got four stacks and one of them is different and I have been looking at it since the spring,**" said Petra Lindqvist. "**That is not a decision either. I do not decide things. I noticed.**"
+"**I have got four stacks and one of them is different and I have been looking at it since the spring,**" said Petra Lindqvist. "That is not a decision either. I do not decide things. I noticed."
 
 ---
 
@@ -52,7 +52,7 @@ She came down at a fast walk and stood on the other side of the counter and put 
 
 "What was shared, who it was shared with, whether it was a narrow share or a full one, and whether anybody has been told."
 
-"**That is one of ours,**" said Ianthe Roke, "**and I have never once been able to tell one of them from another and there are about two hundred, and the one I keep in the drawer upstairs is not yours, because that one is from the Tuesday of week thirty-eight and it was filled in in somebody else's hand, and yours has got a telephone number on the top of it, and neither of them has got a box on it and there is no box on any of them, and you have rung this counter twice already and been told the same thing twice.**"
+"**That is one of ours,**" said Ianthe Roke, "and I have never once been able to tell one of them from another and there are about two hundred, and the one I keep in the drawer upstairs is not yours, because that one is from the Tuesday of week thirty-eight and it was filled in in somebody else's hand, and yours has got a telephone number on the top of it, and neither of them has got a box on it and there is no box on any of them, and you have rung this counter twice already and been told the same thing twice."
 
 "I have rung it twice and been told it twice."
 
@@ -80,11 +80,11 @@ There was a pause of about four seconds on the line, which is a long time on a t
 
 The woman spelled it.
 
-"Doreen Abbiss," said Ianthe Roke. "**I have got a date on the top of this page and a time and a tick, and a box under the fourth field that a clerk ruled in pencil this morning fortnight because I asked her to, and I am going to write your name in it, and it is the only one of these in this city and it is not on a system and it has got no number on it and it is not going anywhere except back to this counter.**"
+"Doreen Abbiss," said Ianthe Roke. "I have got a date on the top of this page and a time and a tick, and a box under the fourth field that a clerk ruled in pencil this morning fortnight because I asked her to, and I am going to write your name in it, and it is the only one of these in this city and it is not on a system and it has got no number on it and it is not going anywhere except back to this counter."
 
 "Then it is about me."
 
-"**It is about the person who took a share off,**" said Ianthe Roke. "**I am going to ask you one question and I am not going to ask you two, and then I am going to stop, because there is a page in a drawer upstairs with four fields filled in on it and no person on it anywhere, and I have looked at that page every day since the spring, and I am not going to have that be the last one.**"
+"**It is about the person who took a share off,**" said Ianthe Roke. "I am going to ask you one question and I am not going to ask you two, and then I am going to stop, because there is a page in a drawer upstairs with four fields filled in on it and no person on it anywhere, and I have looked at that page every day since the spring, and I am not going to have that be the last one."
 
 "Go on."
 
@@ -114,11 +114,11 @@ Then she said: "**It is in. Do you want it out.**"
 
 "Go on."
 
-"**A name written in pencil is a name on a page in a building.**" She let that sit. "**I cannot take it out. Not because I will not. Because the paper goes back in that stack with a rubber band round it and there are about two hundred of them and nobody has collected them since the spring and a district picks those up and nobody knows when. If I tore it out, then there is a hole in a stack, and a hole in a stack is a thing somebody asks about. And if I do not tear it out then your name is on a page in this building for as long as the page exists, and the page has got no number on it and there is no way to find it again, which I know sounds like the good news. It is not the good news. It means I cannot take it back and neither can you and neither can anybody.**"
+"**A name written in pencil is a name on a page in a building.**" She let that sit. "I cannot take it out. Not because I will not. Because the paper goes back in that stack with a rubber band round it and there are about two hundred of them and nobody has collected them since the spring and a district picks those up and nobody knows when. If I tore it out, then there is a hole in a stack, and a hole in a stack is a thing somebody asks about. And if I do not tear it out then your name is on a page in this building for as long as the page exists, and the page has got no number on it and there is no way to find it again, which I know sounds like the good news. It is not the good news. It means I cannot take it back and neither can you and neither can anybody."
 
 "Then I have made a mistake."
 
-"**You have made a phone call,**" said Doreen Abbiss. "**You did not make a mistake. I made a mistake and I made it in about nine seconds and I am going to have to live in it, and I would like it noted that nobody asked me whether I wanted to put my name on anything and that I would have said yes to being asked.**"
+"**You have made a phone call,**" said Doreen Abbiss. "You did not make a mistake. I made a mistake and I made it in about nine seconds and I am going to have to live in it, and I would like it noted that nobody asked me whether I wanted to put my name on anything and that I would have said yes to being asked."
 
 ---
 
@@ -134,7 +134,7 @@ Nobody said anything.
 
 "Say it in the minute," said Ianthe Roke.
 
-"There is no minute," said Petra Lindqvist. "**Say it in the book.**"
+"There is no minute," said Petra Lindqvist. "Say it in the book."
 
 "**There is a book and it is in another building and it takes what a caller said and not what a person was asked, and you are right and I know you are right and that is the whole of what I have got.**"
 
@@ -146,7 +146,7 @@ Doreen Abbiss said one more thing and she said it to nobody in particular, which
 
 "Then go on Wednesday," said Ianthe Roke.
 
-"**No,**" said Doreen Abbiss. "**Because a caller signs their own words, and the last time I signed anything in this city with my name on it, somebody found me, and that is the whole of the reason I have said yes to being on a page and no to a book, and it is a stupid reason and it is a real one.**"
+"**No,**" said Doreen Abbiss. "Because a caller signs their own words, and the last time I signed anything in this city with my name on it, somebody found me, and that is the whole of the reason I have said yes to being on a page and no to a book, and it is a stupid reason and it is a real one."
 
 The line went dead.
 

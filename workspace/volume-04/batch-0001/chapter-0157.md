@@ -46,7 +46,7 @@ He wrote the first two letters and then he did not write the third.
 
 Doreen Abbiss had come in at about half past nine with her coat on and had been standing by the trolley for about four minutes, and she had read over his shoulder, and nobody had stopped her because the rule in that room is that a box does not come down without a slip, and there is no rule in that room about anything else.
 
-"I am not stopping," he said. "**I am going to ask you, and I am going to do it properly, and I would like you to be standing there when I do.**"
+"I am not stopping," he said. "I am going to ask you, and I am going to do it properly, and I would like you to be standing there when I do."
 
 "Go on."
 
@@ -64,21 +64,21 @@ Doreen Abbiss took the slip out of his hand and looked at the two letters on it.
 
 She put the slip down flat on the counter.
 
-"Say that again and explain what you mean by it," she said, "**because I have had seven days with a name in a box that I cannot get out and I have not slept, and I do not know what I am going to do about it, and on Tuesday afternoon a woman of thirty-four at a table in Crown Terrace refused to read me six lines and read me the four headings off the top of the column instead, and she did not know who I was and she read them anyway, and I have come here this morning because I want to know what a binder is.**"
+"Say that again and explain what you mean by it," she said, "because I have had seven days with a name in a box that I cannot get out and I have not slept, and I do not know what I am going to do about it, and on Tuesday afternoon a woman of thirty-four at a table in Crown Terrace refused to read me six lines and read me the four headings off the top of the column instead, and she did not know who I was and she read them anyway, and I have come here this morning because I want to know what a binder is."
 
 "**The reason is that if your name is on a slip, then in about four years there is a piece of paper in this city with your name on it that somebody can point at and say she asked.**"
 
-"Yes," said Doreen Abbiss. "**And now you are going to tell me that nobody can point at a piece of paper with no name on it, and I am going to say something to that, and I want to say it before the school group comes.**"
+"Yes," said Doreen Abbiss. "And now you are going to tell me that nobody can point at a piece of paper with no name on it, and I am going to say something to that, and I want to say it before the school group comes."
 
 "Go on."
 
-"A piece of paper with no name on it is a piece of paper somebody has to be angry about," she said. "**That is what a room full of people does to it. They do not read it and they do not answer it. They get angry at the piece of paper, and about four years after somebody put it there, in this city, on a Monday, a man of forty-four wrote two words in two boxes in his own hand, and the note went out to eleven thousand premises, and about four thousand leaflets went out with it into nine hundred rooms, and about forty people who had written in since the spring were told that nobody was dealing with it. I have got that leaflet. Everybody has got that leaflet. So I know what a page with no name on it does.**"
+"A piece of paper with no name on it is a piece of paper somebody has to be angry about," she said. "That is what a room full of people does to it. They do not read it and they do not answer it. They get angry at the piece of paper, and about four years after somebody put it there, in this city, on a Monday, a man of forty-four wrote two words in two boxes in his own hand, and the note went out to eleven thousand premises, and about four thousand leaflets went out with it into nine hundred rooms, and about forty people who had written in since the spring were told that nobody was dealing with it. I have got that leaflet. Everybody has got that leaflet. So I know what a page with no name on it does."
 
 ---
 
 He put the pen down on the counter.
 
-"**Then I am not going to argue it and I am going to ask you the way it should have been asked,**" he said. "**Before the pencil. On Wednesday you told me to do that on a half landing and I have not done it once since, and I am doing it now, and if you say no then there is no slip and there is no request and I will not come back to this counter about it.**"
+"**Then I am not going to argue it and I am going to ask you the way it should have been asked,**" he said. "Before the pencil. On Wednesday you told me to do that on a half landing and I have not done it once since, and I am doing it now, and if you say no then there is no slip and there is no request and I will not come back to this counter about it."
 
 "Ask."
 
@@ -92,15 +92,15 @@ He put the pen down on the counter.
 
 She thought about it for about four seconds and Doreen Abbiss was not a woman who took nine minutes, and he found that out on the Wednesday night in a room with nine people in it and had not known it before then.
 
-"Yes," she said. "**To the table. Not to the reading room and not to a district and not to anybody with a form. And I want to say what it costs before I say yes, because I have known you since about half past twelve last night and I am not going to pretend that is the same as nothing.**"
+"Yes," she said. "To the table. Not to the reading room and not to a district and not to anybody with a form. And I want to say what it costs before I say yes, because I have known you since about half past twelve last night and I am not going to pretend that is the same as nothing."
 
 "Say it."
 
-"**I work nights. I have worked nights for six years and I am awake in the day, and being awake in the day is the only part of the week that is mine,**" said Doreen Abbiss. "**And if I am a person who has been asked something, then the next time somebody in this city needs a person, it is me they come to, because I will be the one they have got a piece of paper with on it. And I will come. And I will come in the day, and the daytime is six weeks of it and then it is not, and that is the whole of what I have and I am giving it up for a table in Crown Terrace with a woman in a cardigan.**"
+"**I work nights. I have worked nights for six years and I am awake in the day, and being awake in the day is the only part of the week that is mine,**" said Doreen Abbiss. "And if I am a person who has been asked something, then the next time somebody in this city needs a person, it is me they come to, because I will be the one they have got a piece of paper with on it. And I will come. And I will come in the day, and the daytime is six weeks of it and then it is not, and that is the whole of what I have and I am giving it up for a table in Crown Terrace with a woman in a cardigan."
 
 "Then say no."
 
-"I have said yes," she said. "**I have said it with the cost said out loud first, which is the way I was taught, and nobody in six years has ever let me do it that way round, and I want it noted that you did not try to talk me out of the cost once.**"
+"I have said yes," she said. "I have said it with the cost said out loud first, which is the way I was taught, and nobody in six years has ever let me do it that way round, and I want it noted that you did not try to talk me out of the cost once."
 
 ---
 
@@ -108,7 +108,7 @@ So he picked the pen up off the counter again and finished the fourth line, whic
 
 Then he pushed the slip across the marble and the woman of forty-one turned it round and read it and did not ask him a single question about it.
 
-"**This one is a request,**" she said. "**It goes in the tray, and it stays in the tray, and if anybody comes in with a question about the Marrow Falls material I put it in front of them and I do not have to decide anything.**"
+"**This one is a request,**" she said. "It goes in the tray, and it stays in the tray, and if anybody comes in with a question about the Marrow Falls material I put it in front of them and I do not have to decide anything."
 
 "That is what I wanted."
 
@@ -120,7 +120,7 @@ She put the slip in the tray. It was the only thing in it.
 
 Then he took it back out and tore it in half and then in four, on the counter, in front of the woman of forty-one, and put the four pieces in the bin by the bell.
 
-"That is the correct action," said Wendla Ossick. "**I want to be clear that I know that. A request with a person on it and a reason on it is better than nothing. You have thrown away something better than nothing.**"
+"That is the correct action," said Wendla Ossick. "I want to be clear that I know that. A request with a person on it and a reason on it is better than nothing. You have thrown away something better than nothing."
 
 "**I know what I have thrown away. It was in the tray for about a minute and it was the only thing in the tray and it was a request, and it is the only piece of paper in this case that has ever had a person on it that was going to be acted on, and it was acted on.**"
 

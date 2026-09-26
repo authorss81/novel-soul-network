@@ -10,17 +10,17 @@ The other one had come in out of the rain and had not taken a coat off, which is
 
 Sunniva Bellhouse put the till drawer shut with her hip.
 
-"Say a number and then say what you want on them and then sit down," she said, "**and I am going to say three things and then I am going to make a decision, and all three of them are going to be out loud, and there are three people in this shop which is two more than there need to be.**"
+"Say a number and then say what you want on them and then sit down," she said, "and I am going to say three things and then I am going to make a decision, and all three of them are going to be out loud, and there are three people in this shop which is two more than there need to be."
 
 "I do not need—"
 
-"You need four hundred and you have not got a name on me," said Sunniva Bellhouse. "**I have not got a name on you either and I am not going to have one, and I am not going to ask you for one, and that is not a courtesy, it is that there is a form in this city that wanted a contact and did not get one and I have read about what happens to the people who fill those in, and the boy on that till is nineteen.**"
+"You need four hundred and you have not got a name on me," said Sunniva Bellhouse. "I have not got a name on you either and I am not going to have one, and I am not going to ask you for one, and that is not a courtesy, it is that there is a form in this city that wanted a contact and did not get one and I have read about what happens to the people who fill those in, and the boy on that till is nineteen."
 
 The boy did not look up.
 
 ---
 
-"First thing," she said. "**I am not printing them off a picture. I printed the four hundred and thirty-two off a postage-stamp photograph on page two of a six-sided handout and I said so in a room of forty people and a man of forty-four said the sentence that it is a sentence about, and every one of the four steps on every one of those cards is right and I checked them. And I am not doing that again. I am going to set them from the same type I set the four from, and they are going to be the same four steps and they are going to be set by a man who has never had a company's card in his hand in his life.**"
+"First thing," she said. "I am not printing them off a picture. I printed the four hundred and thirty-two off a postage-stamp photograph on page two of a six-sided handout and I said so in a room of forty people and a man of forty-four said the sentence that it is a sentence about, and every one of the four steps on every one of those cards is right and I checked them. And I am not doing that again. I am going to set them from the same type I set the four from, and they are going to be the same four steps and they are going to be set by a man who has never had a company's card in his hand in his life."
 
 "That is more money."
 
@@ -32,11 +32,11 @@ The boy did not look up.
 
 The boy said: "Which name."
 
-"The one on the sign. The one you can read from the road if you stand in the road," said Sunniva Bellhouse. "**Not a person. A shop. I have been printing things for about four hundred people on this street for nineteen years and a school that has shut and two churches, and the four hundred and thirty-two have got my name in the postcode and none of them has got my name on the card, and that was a decision I made in the spring in about nine minutes and it was the worst decision anybody has made in this shop in nineteen years and it was mine.**"
+"The one on the sign. The one you can read from the road if you stand in the road," said Sunniva Bellhouse. "Not a person. A shop. I have been printing things for about four hundred people on this street for nineteen years and a school that has shut and two churches, and the four hundred and thirty-two have got my name in the postcode and none of them has got my name on the card, and that was a decision I made in the spring in about nine minutes and it was the worst decision anybody has made in this shop in nineteen years and it was mine."
 
 "That is not a defence."
 
-"It is not a defence and it is not nothing," said Sunniva Bellhouse. "**It means a card with this shop's name on it is a card a person can trace, and about nine places in one district have got one of the old ones and none of them can be taken back, and after today there is a way of telling the two apart, and I have made the counterfeit identify itself by putting my own name on it. That is a thing printers do and it is the only weapon I have got.**"
+"It is not a defence and it is not nothing," said Sunniva Bellhouse. "It means a card with this shop's name on it is a card a person can trace, and about nine places in one district have got one of the old ones and none of them can be taken back, and after today there is a way of telling the two apart, and I have made the counterfeit identify itself by putting my own name on it. That is a thing printers do and it is the only weapon I have got."
 
 ---
 
@@ -44,7 +44,7 @@ Then she went under the till and got the envelope out and did not open it and pu
 
 It had a hundred and forty-one pounds in it and no name on it and no address on it and it had been under that till since the spring.
 
-"Third thing," she said, "**and I want you to understand that I am not being brave and I am not being clever and I have thought about it for about three weeks and I have decided I cannot sit on it any more.**"
+"Third thing," she said, "and I want you to understand that I am not being brave and I am not being clever and I have thought about it for about three weeks and I have decided I cannot sit on it any more."
 
 She pushed it four inches along the counter.
 
@@ -52,19 +52,19 @@ She pushed it four inches along the counter.
 
 Nobody said anything.
 
-"And I want the cost said out loud because I am the one paying it," said Sunniva Bellhouse. "**In about four years, if anybody wants to know who printed four hundred and thirty-two cards, there is nothing on this table to take. There is an envelope with no name on it and I am giving it back to a person I cannot name, and the money is going out of this shop in a bag with a person, and if that person is the wrong person then the wrong person has got a hundred and forty-one pounds and me with it. And there is no version of doing the right thing that does not also do that, and I have decided to do the right thing.**"
+"And I want the cost said out loud because I am the one paying it," said Sunniva Bellhouse. "In about four years, if anybody wants to know who printed four hundred and thirty-two cards, there is nothing on this table to take. There is an envelope with no name on it and I am giving it back to a person I cannot name, and the money is going out of this shop in a bag with a person, and if that person is the wrong person then the wrong person has got a hundred and forty-one pounds and me with it. And there is no version of doing the right thing that does not also do that, and I have decided to do the right thing."
 
 The customer took the envelope and put it inside a coat and said nothing at all about it, which was the correct thing to do.
 
 ---
 
-"Now sit down," said Sunniva Bellhouse, "**and I am going to ask the boy to do a job and I am going to ask him in front of you, and he is going to say no if he wants to say no, and I am not going to be disappointed either way and I want that on the record from me and not from him.**"
+"Now sit down," said Sunniva Bellhouse, "and I am going to ask the boy to do a job and I am going to ask him in front of you, and he is going to say no if he wants to say no, and I am not going to be disappointed either way and I want that on the record from me and not from him."
 
 The boy looked up for the first time in about eleven minutes.
 
 "What job."
 
-"**The name on the back of four hundred cards, in the same place, the same way, the same size,**" she said. "**You can do it faster than I can and it is the only job in here you are better at than me.**"
+"**The name on the back of four hundred cards, in the same place, the same way, the same size,**" she said. "You can do it faster than I can and it is the only job in here you are better at than me."
 
 "Why me and not you."
 
@@ -76,7 +76,7 @@ The boy of nineteen said: "Can I say a thing first."
 
 "You can say anything you want and I have not got time."
 
-"**I have been on this till for about four months and I have never run the machine and everybody keeps telling me I have not run the machine,**" he said, "**and I am going to do this and I am not going to be the one who did it in about four years, and I want it written down that I did it on a Monday morning and not on a Saturday, and that I am not going to be on any of them with my name and I am going to be on all of them with my handwriting.**"
+"**I have been on this till for about four months and I have never run the machine and everybody keeps telling me I have not run the machine,**" he said, "and I am going to do this and I am not going to be the one who did it in about four years, and I want it written down that I did it on a Monday morning and not on a Saturday, and that I am not going to be on any of them with my name and I am going to be on all of them with my handwriting."
 
 "That is the correct answer and it is worse than yours," said Sunniva Bellhouse.
 
@@ -90,15 +90,15 @@ The man from the company came at about half past two and he had come because the
 
 Petar Vance has serviced exchange rooms in this city for nineteen years and his service reference is a string of letters and numbers and he does not give it out, and he does not like anybody who asks him whether a card is safe.
 
-"I am not here about the cards," he said. "**I am here because somebody has been in a corridor in a building in Bower Street with a plate off a door and I have got a list.**"
+"I am not here about the cards," he said. "I am here because somebody has been in a corridor in a building in Bower Street with a plate off a door and I have got a list."
 
 "How many."
 
-"About nine hundred," said Petar Vance. "**In four buildings. That is the number of plates with my company's name along the bottom edge. I have printed them. I did not choose the numbers, they come off a room list, and the room list is not mine and I have never seen it and I have asked for it twice and been told it is the building's.**"
+"About nine hundred," said Petar Vance. "In four buildings. That is the number of plates with my company's name along the bottom edge. I have printed them. I did not choose the numbers, they come off a room list, and the room list is not mine and I have never seen it and I have asked for it twice and been told it is the building's."
 
 "And you cannot change them."
 
-"I cannot change about nine hundred doors because a district nurse wants one room," said Petar Vance, "**and that is not a complaint, that is a service, and I have said so in writing and I have been copied on a letter about it.**"
+"I cannot change about nine hundred doors because a district nurse wants one room," said Petar Vance, "and that is not a complaint, that is a service, and I have said so in writing and I have been copied on a letter about it."
 
 ---
 
@@ -108,7 +108,7 @@ The boy asked the question, and he asked it to Petar Vance and not to the woman,
 
 Petar Vance looked at him for a second.
 
-"The building's," he said, "**and the building's is a set of plans in a basement in a drawer on a hook, and there has not been a person in that basement since about the spring, and I have the plates and the plans have the rooms, and the two of them have not met in nineteen years, and if you want to know which one is right the answer is that they are both right about themselves and one of them is in a drawer.**"
+"The building's," he said, "and the building's is a set of plans in a basement in a drawer on a hook, and there has not been a person in that basement since about the spring, and I have the plates and the plans have the rooms, and the two of them have not met in nineteen years, and if you want to know which one is right the answer is that they are both right about themselves and one of them is in a drawer."
 
 Then he said, to nobody: "**If anybody in this shop writes that down, I have not said it, and I will deny it, and I will be able to, because I have not said it.**"
 

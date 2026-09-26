@@ -18,7 +18,7 @@ She did not do the two minutes. She put her hand flat on the book and said:
 
 "It is Wednesday," said somebody.
 
-"**It is Wednesday and it is eleven at night and nine people are in a room, and nine people in a room is not nine callers,**" said Bea Nunn. "**I have not opened that book in about two months and I have not added a line to it in about two months, and there is a hole in line forty-four that has been there since the spring, and if I open it tonight I will be writing down what somebody said in this room, and the rule of this room is that I write down what a caller said, and a caller is a person who rang.**"
+"**It is Wednesday and it is eleven at night and nine people are in a room, and nine people in a room is not nine callers,**" said Bea Nunn. "I have not opened that book in about two months and I have not added a line to it in about two months, and there is a hole in line forty-four that has been there since the spring, and if I open it tonight I will be writing down what somebody said in this room, and the rule of this room is that I write down what a caller said, and a caller is a person who rang."
 
 "She could write it in pencil."
 
@@ -32,7 +32,7 @@ Doreen Abbiss had come to a Wednesday and had read the leaflet, and she had not 
 
 "You are the one who puts a name in a box," she said to the room, and not to anybody in it.
 
-"On Wednesday morning," said Bea Nunn, "**on a counter, with a clerk who ruled it and did not want to. Yes.**"
+"On Wednesday morning," said Bea Nunn, "on a counter, with a clerk who ruled it and did not want to. Yes."
 
 "**I put it there and I want it out and it cannot come out, and I have been carrying that for seven days and I have not told anybody I have been carrying it, and I am telling nine people on a Wednesday because you are the only room in this city where nobody has a job in it.**"
 
@@ -44,15 +44,15 @@ Somebody said: "You have not rung here."
 
 Bea Nunn gave her the rule and gave it in one go, the way she gives it.
 
-"You can say it," she said. "**All of it, in your own words, and in whatever order it comes out, and nobody here will write it down and nobody here will stop you and there is no rule in this room against talking. What there is a rule against is the book. The book is a book of what a caller said. A caller is a person. A person signs their own words. A practice cannot sign anything, and that is the only reason this book is different from the sheet of typing paper that three people wrote on four weeks ago, and that is the only reason either of them exists.**"
+"You can say it," she said. "All of it, in your own words, and in whatever order it comes out, and nobody here will write it down and nobody here will stop you and there is no rule in this room against talking. What there is a rule against is the book. The book is a book of what a caller said. A caller is a person. A person signs their own words. A practice cannot sign anything, and that is the only reason this book is different from the sheet of typing paper that three people wrote on four weeks ago, and that is the only reason either of them exists."
 
 "So I cannot go in the book."
 
-"You can go in the book if you ring me," said Bea Nunn, "**and you are not going to, and I would rather you did not, and I am not going to ask you why not because I have got nine minutes and I am going to spend them on the reason I am not writing tonight.**"
+"You can go in the book if you ring me," said Bea Nunn, "and you are not going to, and I would rather you did not, and I am not going to ask you why not because I have got nine minutes and I am going to spend them on the reason I am not writing tonight."
 
 ---
 
-"Put it another way," said Doreen Abbiss. "**Ask me to sign it.**"
+"Put it another way," said Doreen Abbiss. "Ask me to sign it."
 
 "**I am not going to ask you that.**"
 
@@ -60,7 +60,7 @@ Bea Nunn gave her the rule and gave it in one go, the way she gives it.
 
 "You do not have to say the rest of it."
 
-"**The last time I signed a thing in this city with my name on it, somebody found me,**" said Doreen Abbiss. "**That is all of it. I have given that to two people in nine years and both of them wrote it down, and neither of them could do a thing with it, and that is what I came here for and I have not got anything else.**"
+"**The last time I signed a thing in this city with my name on it, somebody found me,**" said Doreen Abbiss. "That is all of it. I have given that to two people in nine years and both of them wrote it down, and neither of them could do a thing with it, and that is what I came here for and I have not got anything else."
 
 Somebody at the far end of the table said: who found you.
 
@@ -68,7 +68,7 @@ Somebody at the far end of the table said: who found you.
 
 Then Bea Nunn put her hand flat on the table.
 
-"**Nobody in this room is going to ask you that a second time,**" she said. "**Including me, and I am the one who could ask it hardest, and I have been doing this for nine years and I have never once wanted to know.**"
+"**Nobody in this room is going to ask you that a second time,**" she said. "Including me, and I am the one who could ask it hardest, and I have been doing this for nine years and I have never once wanted to know."
 
 ---
 
@@ -78,7 +78,7 @@ She said the reason, and it took eleven seconds, and it is a rule and it has bee
 
 "You liked her."
 
-"**I have liked four people in nine years and I have written two of them down and been wrong both times,**" said Bea Nunn. "**The book is at forty-four lines and it is not a register and it is not going to be one, and the whole of the difference between the two is that a practice can write about itself in the first person and nothing else can.**"
+"**I have liked four people in nine years and I have written two of them down and been wrong both times,**" said Bea Nunn. "The book is at forty-four lines and it is not a register and it is not going to be one, and the whole of the difference between the two is that a practice can write about itself in the first person and nothing else can."
 
 ---
 
@@ -104,15 +104,15 @@ Doreen Abbiss came down past him and stopped.
 
 "I was."
 
-"**I could hear somebody outside that door and I could not hear what they were saying and it did not matter at the time,**" she said, "**and it matters now, because that is the only reason I know there is a box at all, and you were on the other side of it, and you did not come in.**"
+"**I could hear somebody outside that door and I could not hear what they were saying and it did not matter at the time,**" she said, "and it matters now, because that is the only reason I know there is a box at all, and you were on the other side of it, and you did not come in."
 
 "It was not my counter."
 
-"No," said Doreen Abbiss. "**It is not anybody's counter. That is the thing I have not been able to say to anybody since Wednesday, and I am saying it to you on a half landing at twenty past midnight because you are a stranger and I have not got to look at you while I say it. A form with four fields and a tick on it is the best thing anybody in this city has written and it does not work, and it does not work because of a box that was not on it, and now there is a box and it has got my name in it and I cannot get it out, and nobody drew that box on purpose and nobody is going to fix it, and there is no post.**"
+"No," said Doreen Abbiss. "It is not anybody's counter. That is the thing I have not been able to say to anybody since Wednesday, and I am saying it to you on a half landing at twenty past midnight because you are a stranger and I have not got to look at you while I say it. A form with four fields and a tick on it is the best thing anybody in this city has written and it does not work, and it does not work because of a box that was not on it, and now there is a box and it has got my name in it and I cannot get it out, and nobody drew that box on purpose and nobody is going to fix it, and there is no post."
 
 "There is no post."
 
-"Then here is what I am actually saying," said Doreen Abbiss. "**The next time you want a name on a piece of paper, ask the person whose name it is, before you have got a pencil out. That is all. I have got one sentence and I have used it, and I am going home.**"
+"Then here is what I am actually saying," said Doreen Abbiss. "The next time you want a name on a piece of paper, ask the person whose name it is, before you have got a pencil out. That is all. I have got one sentence and I have used it, and I am going home."
 
 She went down the stairs.
 
@@ -124,7 +124,7 @@ Bea Nunn came out last and shut the door behind her and stood on the pavement fo
 
 "No."
 
-"I do not mind and I want to say that I do not mind," said Bea Nunn, "**because people come up for the wrong reasons and you have not got one, and I have wanted to say that to somebody since about the week of the fortieth and there has not been anybody.**"
+"I do not mind and I want to say that I do not mind," said Bea Nunn, "because people come up for the wrong reasons and you have not got one, and I have wanted to say that to somebody since about the week of the fortieth and there has not been anybody."
 
 ---
 

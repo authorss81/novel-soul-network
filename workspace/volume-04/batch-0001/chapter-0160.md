@@ -18,17 +18,17 @@ And then she turned the sheet over and wrote the fourteen lines on the back in p
 
 "It is on the sheet."
 
-"**It is on the back of the sheet, and the back of the sheet goes in the same ring file as the front, and the ring file goes in a cupboard on a ground floor in a building in another part of this city, and there are about a thousand sheets in that ring file going back nineteen years,**" said Ines Kolar, "**and there is no column for what I have written and there is no box on it and there is no form anywhere in this city that takes a discrepancy, and I have been a person who has somewhere to put a thing for nineteen years and the somewhere is the back of a sheet.**"
+"**It is on the back of the sheet, and the back of the sheet goes in the same ring file as the front, and the ring file goes in a cupboard on a ground floor in a building in another part of this city, and there are about a thousand condition sheets in that ring file going back nineteen years,**" said Ines Kolar, "and there is no column for what I have written and there is no box on it and there is no form anywhere in this city that takes a discrepancy, and I have been a person who has somewhere to put a thing for nineteen years and the somewhere is the back of a sheet."
 
 ---
 
 Fourteen is not a round number and she had counted them herself, and she had gone back and read the doors against the list herself, and she had not told anybody that she was going to.
 
-Nine of them were in the building in Bower Street, and one of the nine was the room everybody had been talking about, and the plate on that door said 2-14 and the list she works from said 2-07 and both of those were correct about themselves and one of them was on a door.
+Nine of them were in the building in Bower Street, and one of the nine was the room everybody had been talking about, and the plate on that door said 2-14 and every leaflet in the rack in that room said 2-07 and both of those were correct about themselves and one of them was on a door.
 
 Three were in the second building. Two were in a stairwell in Saltmarket, which is not one of the four buildings, and the only reason she had ever been in it is that the lift in the second building was out and the stairs go through that stairwell.
 
-"**Two of those are not mistakes,**" she said. "**Those two are a company doing exactly what it was told, and I have put them on the sheet anyway, because a condition is a thing and this is a thing and if I do not write it down then in about four years there will be one number left in my head and I will be fifty and I will have moved house.**"
+"**Two of those are not mistakes,**" she said. "Those two are a company doing exactly what it was told, and I have put them on the sheet anyway, because a condition is a thing and this is a thing and if I do not write it down then in about four years there will be one number left in my head and I will be fifty and I will have moved house."
 
 "**You have not moved house.**"
 
@@ -42,7 +42,7 @@ They did not go down. Marek Senn did not ask, and the reason he did not ask is i
 
 Ines Kolar stood at the top of the stairs with the trolley and looked down them for about four seconds.
 
-"**There is a drawer on a hook down there,**" she said. "**I have known that for about four years, from a man of fifty-five who was doing something to a pipe in a basement in another part of this city. I have never been down and I am not going today, and I am telling you that I am not going today so that it is in your book as a thing I said and not a thing you found out.**"
+"**There is a drawer on a hook down there,**" she said. "I have known that for about four years, from a man of fifty-five who was doing something to a pipe in a basement in another part of this city. I have never been down and I am not going today, and I am telling you that I am not going today so that it is in your book as a thing I said and not a thing you found out."
 
 ---
 
@@ -50,27 +50,27 @@ The sheet went into the ring file and the ring file went into the cupboard, and 
 
 Then she said the thing that is the price.
 
-"**You know what happens to that pencil,**" she said. "**In about four weeks a woman of thirty-six is going to come into that office and do the sheets up, because that is her job and she has done it for about nine years and she does not know me and I do not know her. And she is going to pick up that sheet, and she is going to turn it over, because everybody turns it over, and she is going to see fourteen lines in pencil in the space where the conditions go, and she is going to bring it to me and ask me what the pencil is.**"
+"**You know what happens to that pencil,**" she said. "In about four weeks a woman of thirty-six is going to come into that office and do the sheets up, because that is her job and she has done it for about nine years and she does not know me and I do not know her. And she is going to pick up that sheet, and she is going to turn it over, because everybody turns it over, and she is going to see fourteen lines in pencil in the space where the conditions go, and she is going to bring it to me and ask me what the pencil is."
 
 "What will you say."
 
-"**I am going to say that there was a discrepancy and that I wrote it down in pencil on my own sheet and that it has not been actioned,**" said Ines Kolar, "**and that is true and it is not enough and it does not help her, because she is going to have to decide what to do with fourteen lines that a woman of forty-six wrote on the back of a sheet instead of in a column, and there is no column, and she will do whatever she does and I will not know.**"
+"**I am going to say that there was a discrepancy and that I wrote it down in pencil on my own sheet and that it has not been actioned,**" said Ines Kolar, "and that is true and it is not enough and it does not help her, because she is going to have to decide what to do with fourteen lines that a woman of forty-six wrote on the back of a sheet instead of in a column, and there is no column, and she will do whatever she does and I will not know."
 
 "**And then what happens when somebody asks you about it.**"
 
-"**Then I am going to have to say that a man of twenty-two asked me a question in a corridor in the week of forty-seventh that my sheet could not answer,**" said Ines Kolar. "**And that is your name, and it is the only place your name is going to be in this city as a result of anything I have done, and you did not ask me to write anything down and I want you to know that I worked that out on the Monday and not tonight.**"
+"**Then I am going to have to say that a man of twenty-two asked me a question in a corridor in the week of forty-seventh that my sheet could not answer,**" said Ines Kolar. "And that is your name, and it is the only place your name is going to be in this city as a result of anything I have done, and you did not ask me to write anything down and I want you to know that I worked that out on the Monday and not tonight."
 
 ---
 
 He said the thing he had been carrying for a week, out loud, on a landing, to a woman with a trolley.
 
-"Three weeks," he said. "**Three weeks since the box went on the counter and since the plate turned out to be a company's and since a woman of thirty-four told me a column has not got a person in it, and the whole of what has changed in this city in three weeks is a sheet with pencil on the back of it, and about eleven people a week are still going to be taught that a release waits for a man in a lanyard, and I am still that man, and I did that on purpose in a room with nine people in it in the Monday of week forty-two.**"
+"Three weeks," he said. "Three weeks since the box went on the counter and since the plate turned out to be a company's and since a woman of thirty-four told me a column has not got a person in it, and the whole of what has changed in this city in three weeks is a sheet with pencil on the back of it, and about eleven people a week are still going to be taught that a release waits for a man in a lanyard, and I am still that man, and I did that on purpose in a room with nine people in it in the Monday of week forty-two."
 
 "Yes," said Ines Kolar.
 
 "**I am not asking you to make it into more than it is.**"
 
-"**I am not going to, and I am not going to pretend either,**" she said. "**Here is what it is worth, and I have had three weeks to work out what it is worth, and it is worth this. Three weeks ago a man in this city could stand in that corridor and say the door and the wall do not agree, and about four people in four buildings would have told him he was talking nonsense. And in about four weeks there is a piece of paper in a ring file in a cupboard on a ground floor that says fourteen times, in a hand, that the door and the wall do not agree. And it is not a form and it is not a column and it is not signed as anything and nobody has asked for it and nobody is going to.**"
+"**I am not going to, and I am not going to pretend either,**" she said. "Here is what it is worth, and I have had three weeks to work out what it is worth, and it is worth this. Three weeks ago a man in this city could stand in that corridor and say the door and the wall do not agree, and about four people in four buildings would have told him he was talking nonsense. And in about four weeks there is a piece of paper in a ring file in a cupboard on a ground floor that says fourteen times, in a hand, that the door and the wall do not agree. And it is not a form and it is not a column and it is not signed as anything and nobody has asked for it and nobody is going to."
 
 She shifted the trolley.
 
@@ -96,13 +96,13 @@ Nobody has said so.
 
 *163. Thursday of week 50, ten at night in a repair shop in Lattice Ward, and this entry is the back of a sheet, and fourteen, and a woman of forty-six telling me what the pencil is going to cost, and a corridor on Thursday of next week that I am not going to be able to be quiet in.*
 
-*Sources, because an entry that only says what happened is a diary and not a record.* **One condition sheet, the week of week fifty, one building in Bower Street, three buildings walked behind a trolley on a Thursday morning, one ring file in a cupboard on a ground floor in another part of this city, one drawer on a hook in a basement nobody has stood in front of since the spring, and a man of fifty-five who told her about the drawer about four years ago while he was doing something to a pipe.** She has been doing the round since she was twenty-seven. It has been forty-one doors a week for nineteen years. She cleans about four hundred of the nine hundred plates. She has signed about a thousand sheets, one a Thursday, for nineteen years.
+*Sources, because an entry that only says what happened is a diary and not a record.* **One condition sheet, the week of week fifty, one building in Bower Street, three buildings walked behind a trolley on a Thursday morning, one ring file in a cupboard on a ground floor in another part of this city, one drawer on a hook in a basement nobody has stood in front of since the spring, and a man of fifty-five who told her about the drawer about four years ago while he was doing something to a pipe.** She has been doing the round since she was twenty-seven. It has been forty-one doors a week for nineteen years. She cleans about four hundred of the nine hundred plates. She has signed about a thousand condition sheets, one a Thursday, for nineteen years.
 
-*The fourteen.* **Nine in the building in Bower Street, one of those nine being the room everybody has been talking about, where the plate says 2-14 and the list says 2-07.** Three in the second building. Two in a stairwell in Saltmarket that is not one of the four buildings, which she has only ever been in because the lift in the second building was out and the stairs go through it. She counted them herself. She read the doors against the list herself. She told nobody that she was going to.
+*The fourteen.* **Nine in the building in Bower Street, one of those nine being the room everybody has been talking about, where the plate says 2-14 and every leaflet in the rack says 2-07.** Three in the second building. Two in a stairwell in Saltmarket that is not one of the four buildings, which she has only ever been in because the lift in the second building was out and the stairs go through it. She counted them herself. She read the doors against the list herself. She told nobody that she was going to.
 
 *The two in Saltmarket, in her words.* **A company doing exactly what it was told, and she put them on the sheet anyway, because a condition is a thing and this is a thing, and if she does not write it down then in about four years there will be one number left in her head and she will be fifty and she will have moved house twice and one of them was to a smaller flat.** She said that is not a threat. It is a fact about how she would remember things. The fourth building came up with nothing on any of its doors and it is the first building in nineteen years that has come up with nothing.
 
-*Why the back of a sheet and not the front.* **The back goes into the same ring file as the front. There is no column for a discrepancy, no box on it, and no form in this city that takes one.** She has been a person with somewhere to put a thing for nineteen years. Four weeks ago the somewhere was nowhere and she told me that in a corridor on the Thursday of week forty-seven and said she had not slept since the Tuesday. What has changed in four weeks is the somewhere, and it is the back of a sheet.
+*Why the back of a sheet and not the front.* **The back goes into the same ring file as the front. There is no column for a discrepancy, no box on it, and no form in this city that takes one.** She has been a person with somewhere to put a thing for nineteen years, and until this morning the somewhere was nowhere, and she has never put that in writing anywhere, because there is nowhere to put it. Three weeks ago she told me on a landing that she was going to think about it for a week and would not say what it was until the Thursday after, and she has not said it. What has changed in three weeks is that the somewhere exists, and it is the back of a sheet.
 
 *Why I did not go down.* **I did not ask, and the reason is in this book and it is not clever: nobody in this case has earned a basement, and the case is about records, and a basement is the room where the records are, and if I am the first person through that door then I am the man who went through a door, and about eleven people a week are being taught to wait for that.** She stood at the top of the stairs with the trolley and looked down for about four seconds, and said she had never been down and was not going that day, and asked me to write it down as a thing she said and not a thing I found out. I wrote it down because she asked.
 

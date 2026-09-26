@@ -10,7 +10,7 @@ There is no fee and there is no membership and there is a counter with a bell on
 
 Wendla Ossick is forty-one and she works Mondays, Wednesdays and Fridays and she has worked in the building for thirty-one years and in that room for nine, and she told him the rule in the first four minutes because she says it to everybody in the first four minutes and she is not going to make an exception of him.
 
-"**A box does not come down without a slip, and a slip is a piece of paper and a person,**" she said. "**That is the rule. I have not had it in writing and I do not need it in writing and if you ask me whether it is a rule or whether it is how I feel, it is a rule, and it was a rule before I came, and I would be very surprised if you found a box in this room that came down without one.**"
+"**A box does not come down without a slip, and a slip is a piece of paper and a person,**" she said. "That is the rule. I have not had it in writing and I do not need it in writing and if you ask me whether it is a rule or whether it is how I feel, it is a rule, and it was a rule before I came, and I would be very surprised if you found a box in this room that came down without one."
 
 "I am not going to argue with it."
 
@@ -30,7 +30,7 @@ The bell went and she looked at it and did not touch it.
 
 He waited for the rest of it and there was not any.
 
-"**I have been in this room nine years and I have never once heard a person ask for the Marrow Falls material and say that and get told there is no box,**" said Wendla Ossick, "**and I want to say the next part properly, because you have got a docket in your hand like a man who is going to be in a hurry about it, and I am not going to be hurried by a docket.**"
+"**I have been in this room nine years and I have never once heard a person ask for the Marrow Falls material and say that and get told there is no box,**" said Wendla Ossick, "and I want to say the next part properly, because you have got a docket in your hand like a man who is going to be in a hurry about it, and I am not going to be hurried by a docket."
 
 "Go on."
 
@@ -44,7 +44,7 @@ She squared the slip against the marble and left her hand on it.
 
 "And the line is sealed."
 
-"Nothing is sealed," said Wendla Ossick. "**I am going to say that twice and I am going to say it the same way both times, and the second time is for your face, because I can see you doing it.**"
+"Nothing is sealed," said Wendla Ossick. "I am going to say that twice and I am going to say it the same way both times, and the second time is for your face, because I can see you doing it."
 
 She said it again.
 
@@ -52,7 +52,7 @@ She said it again.
 
 "Then why does nobody do it."
 
-"Because nobody has been in a hurry," said Wendla Ossick. "**And because it is a page of a register with a date on it and a hand on it, and to most people a hand on a register is a thing that means there is a person to ask, and there is not one, and that is the whole of what is in front of you.**"
+"Because nobody has been in a hurry," said Wendla Ossick. "And because it is a page of a register with a date on it and a hand on it, and to most people a hand on a register is a thing that means there is a person to ask, and there is not one, and that is the whole of what is in front of you."
 
 ---
 
@@ -62,17 +62,17 @@ He asked the question that turned the morning.
 
 She picked the slip up and read it and put it back down at an angle.
 
-"It does not go in the tray," she said. "**There is no tray for a piece of paper. It goes back to you. I have had this conversation with a librarian in Crown Terrace and with a man from a trade paper and with a woman who wanted a bundle and did not know what a bundle was, and nobody has ever asked me what happens, and the answer is that a slip with a person on it is a request and a slip without one is a piece of paper, and I have not got a tray for pieces of paper, and that is not me being difficult, that is nine years of a room with a counter and a bell on it, and I have worked in this building for thirty-one years and there was a room upstairs with a bell in it for the other twenty-two and I did not like that one either.**"
+"It does not go in the tray," she said. "There is no tray for a piece of paper. It goes back to you. I have had this conversation with a librarian in Crown Terrace and with a man from a trade paper and with a woman who wanted a bundle and did not know what a bundle was, and nobody has ever asked me what happens, and the answer is that a slip with a person on it is a request and a slip without one is a piece of paper, and I have not got a tray for pieces of paper, and that is not me being difficult, that is nine years of a room with a counter and a bell on it, and I have worked in this building for thirty-one years and there was a room upstairs with a bell in it for the other twenty-two and I did not like that one either."
 
 "Do you want one to go in the tray."
 
-"No," said Wendla Ossick. "**I want you to understand what you are about to do and I am not going to help you do it quietly.**"
+"No," said Wendla Ossick. "I want you to understand what you are about to do and I am not going to help you do it quietly."
 
 ---
 
 He stood at the counter for a while with the docket on it.
 
-"**There is no name in this city that ought to be on that slip for this,**" he said, "**and I am the name that would go on it if I let it, because I have got a job title in about four hundred pay packets and I have been in a room in Crown Terrace with a microphone pointed at me, and the correct answer is that I put my own name on it, and I have spent a term and a half not doing that.**"
+"**There is no name in this city that ought to be on that slip for this,**" he said, "and I am the name that would go on it if I let it, because I have got a job title in about four hundred pay packets and I have been in a room in Crown Terrace with a microphone pointed at me, and the correct answer is that I put my own name on it, and I have spent a term and a half not doing that."
 
 "Then do not do it."
 
@@ -80,7 +80,7 @@ He stood at the counter for a while with the docket on it.
 
 Wendla Ossick looked at him for longer than was comfortable.
 
-"**I am going to say one thing and I am not going to say it as a favour and I am not going to say it twice,**" she said, "**and it is that you are the first person who has come in here in about four years who has told me what is actually at the end of it. They all want a date. You have told me a corridor and a counter and a woman of thirty-eight, and I have been sitting at this counter for nine years and I would like you to notice that that is a thing about you and not about me.**"
+"**I am going to say one thing and I am not going to say it as a favour and I am not going to say it twice,**" she said, "and it is that you are the first person who has come in here in about four years who has told me what is actually at the end of it. They all want a date. You have told me a corridor and a counter and a woman of thirty-eight, and I have been sitting at this counter for nine years and I would like you to notice that that is a thing about you and not about me."
 
 ---
 
@@ -92,7 +92,7 @@ He wrote down six of the shelf numbers on the margin of a docket, because he wan
 
 He got one of the six wrong, and he did not find out for about three weeks, and when he found out he had a bad half hour about it, and the reason it mattered was not the number.
 
-It was that a room like this one is built out of about four hundred cards in four drawers, and every one of them has got a person who put it there written on it in a shorthand, and the reason anybody can find anything in here is that the finding is a card in a drawer and the card is not hidden and the card is not locked and the card is in a building that anybody can walk into, and **nobody has ever asked her to think about that, and he did not think about it either until about six weeks later, and by then it was in a book in an inside pocket on a chair and it had cost somebody a name.**
+It was that a room like this one is built out of about four hundred cards in four drawers, and every one of them has got a person who put it there written on it in a shorthand, and the reason anybody can find anything in here is that the finding is a card in a drawer and the card is not hidden and the card is not locked and the card is in a building that anybody can walk into, and nobody has ever asked her to think about that, and he did not think about it either until about six weeks later, and by then it was in a book in an inside pocket on a chair and it had cost somebody a name.
 
 The name at the bottom of the slip was blank.
 

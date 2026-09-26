@@ -20,7 +20,7 @@ She is forty-six and she has a cardigan with pens in the pocket and a clipboard 
 
 She looked at the sheet on the board under her arm.
 
-"**There is no visitor column,**" she said, "**and that is not mine, and I have never once broken it, and I have been asked that by two men in nineteen years and both of them were annoyed.**"
+"**There is no visitor column,**" she said, "and that is not mine, and I have never once broken it, and I have been asked that by two men in nineteen years and both of them were annoyed."
 
 ---
 
@@ -50,7 +50,7 @@ Eleven weeks of the second floor of the second building, and the room on the end
 
 "And the plates."
 
-"I clean them," said Ines Kolar, "**because the round is a cleaning round and the sheet comes off the cleaning round, and I have cleaned about four hundred of them in nineteen years and I have never once been asked what a plate is for.**"
+"I clean them," said Ines Kolar, "because the round is a cleaning round and the sheet comes off the cleaning round, and I have cleaned about four hundred of them in nineteen years and I have never once been asked what a plate is for."
 
 ---
 
@@ -60,11 +60,11 @@ She watched him do it, and at the ninth of them she said: "**That one is wrong.*
 
 "They are all the same."
 
-"**That one is 2-11 and it has been 2-11 since the summer and you have written two fourteen because the one before it was two fourteen,**" said Ines Kolar. "**You are not bad at numbers. You are bad at nine of the same thing in a row.**"
+"**That one is 2-11 and it has been 2-11 since the summer and you have written two fourteen because the one before it was two fourteen,**" said Ines Kolar. "You are not bad at numbers. You are bad at nine of the same thing in a row."
 
 "How did you know I had got it wrong."
 
-"**Because I have been putting that sheet in a ring file for nineteen years and I have never had to look at a plate to know what it says,**" she said, "**and you are the first person in nineteen years who has wanted to write them down, and I am telling you that about myself and not as a criticism of you, and I would like it noticed that I said it.**"
+"**Because I have been putting that sheet in a ring file for nineteen years and I have never had to look at a plate to know what it says,**" she said, "and you are the first person in nineteen years who has wanted to write them down, and I am telling you that about myself and not as a criticism of you, and I would like it noticed that I said it."
 
 ---
 
@@ -82,7 +82,7 @@ He asked her the question after that, and he asked it well, which was the mistak
 
 Ines Kolar looked at him for four seconds.
 
-"Say that again in a different order," she said, "**because you have just asked me a question my sheet cannot answer, and I have been asked a lot of questions in nineteen years and I have never had one of those, and I am going to think about it for a week.**"
+"Say that again in a different order," she said, "because you have just asked me a question my sheet cannot answer, and I have been asked a lot of questions in nineteen years and I have never had one of those, and I am going to think about it for a week."
 
 ---
 
@@ -96,13 +96,13 @@ Then she told him about the plates, and it took four minutes, and it came out in
 
 "Which one is on the door of that room."
 
-"**That is a service plate,**" said Ines Kolar. "**It has been a service plate for as long as I have been cleaning it. It is not a building plate and it never was. I have known that for nineteen years and I have never once said it, and I have never once been asked, and if I had been asked I would not have been sure, because I did not know there were two kinds until a man of fifty-five told me in a basement four years ago while he was doing something to a pipe.**"
+"**That is a service plate,**" said Ines Kolar. "It has been a service plate for as long as I have been cleaning it. It is not a building plate and it never was. I have known that for nineteen years and I have never once said it, and I have never once been asked, and if I had been asked I would not have been sure, because I did not know there were two kinds until a man of fifty-five told me in a basement four years ago while he was doing something to a pipe."
 
 ---
 
 He said: "So there is no building number on that door."
 
-"**There is no building number on about nine hundred doors in four buildings,**" said Ines Kolar, "**and the room behind the door is 2-07 and it has been 2-07 since before I came, and the number on the door is 2-14 because somebody in a company in another part of this city printed it and put it up, and both of those are true about themselves and neither of them is the building's.**"
+"**There is no building number on about nine hundred doors in four buildings,**" said Ines Kolar, "and the room behind the door is 2-07 and it has been 2-07 since before I came, and the number on the door is 2-14 because somebody in a company in another part of this city printed it and put it up, and both of those are true about themselves and neither of them is the building's."
 
 Somebody on the second floor opened a door and shut it again.
 
@@ -116,7 +116,7 @@ She carried the bucket down.
 
 "I said there was no visitor column."
 
-"**There is no visitor column and you are not coming on the round,**" said Ines Kolar. "**I am going to walk four buildings with a trolley on Thursday mornings and you are going to walk four buildings with me on Thursday mornings, and on the sheet it will say one name because the sheet says one name, and if anybody asks you why you were in the second building you are going to say you were waiting for a door to open, and that will be true, and it will be a worse answer than the truth and it is the one that keeps you out of a file.**"
+"**There is no visitor column and you are not coming on the round,**" said Ines Kolar. "I am going to walk four buildings with a trolley on Thursday mornings and you are going to walk four buildings with me on Thursday mornings, and on the sheet it will say one name because the sheet says one name, and if anybody asks you why you were in the second building you are going to say you were waiting for a door to open, and that will be true, and it will be a worse answer than the truth and it is the one that keeps you out of a file."
 
 ---
 
@@ -126,11 +126,11 @@ Twice she stopped. Both times she put the clipboard down on a windowsill and sto
 
 "I saw that," he said.
 
-"**You did and you are not going to ask me about it,**" she said. "**I will tell you next Thursday and not before. And I am telling you now that there is a thing, so that you know it is coming and so that you do not go and look for it, and the reason I am not saying it tonight is that I have not worked it out and I do not want to be told about it by anybody.**"
+"**You did and you are not going to ask me about it,**" she said. "I will tell you next Thursday and not before. And I am telling you now that there is a thing, so that you know it is coming and so that you do not go and look for it, and the reason I am not saying it tonight is that I have not worked it out and I do not want to be told about it by anybody."
 
 "That is a long time to hold something."
 
-"**I have held sheets in a ring file for nineteen years,**" said Ines Kolar. "**I can hold one thing until Thursday.**"
+"**I have held sheets in a ring file for nineteen years,**" said Ines Kolar. "I can hold one thing until Thursday."
 
 ---
 

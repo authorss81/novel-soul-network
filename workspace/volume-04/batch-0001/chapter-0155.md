@@ -8,7 +8,7 @@ She reads it out. If you want a line, she will read you a line, and she said tha
 
 The register is bound in a canvas cover and the pages are ruled into four columns and there are about nine hundred lines in it going back fourteen years to the week of week thirty-eighth.
 
-"**It is not a book of secrets, it is a book of Tuesdays,**" said the woman of thirty-four. "**Somebody took something out of a room somewhere in this city and somebody wrote it down, and that is all a register is.**"
+"**It is not a book of secrets, it is a book of Tuesdays,**" said the woman of thirty-four. "Somebody took something out of a room somewhere in this city and somebody wrote it down, and that is all a register is."
 
 "Who is allowed to read it."
 
@@ -18,11 +18,11 @@ The register is bound in a canvas cover and the pages are ruled into four column
 
 Marek Senn asked for the six lines and the woman of thirty-four read him the column headings instead, which she said she always did first, and then she read him the fourth one twice.
 
-"Date. Place. Hand. Authority," she said. "**And I will tell you what is in the authority column, because you have not asked and everybody asks eventually. Every one of about nine hundred lines in that column is a job title.**"
+"Date. Place. Hand. Authority," she said. "And I will tell you what is in the authority column, because you have not asked and everybody asks eventually. Every one of about nine hundred lines in that column is a job title."
 
 "Not one of them is a person."
 
-"Not one of them has ever been a person," said the woman of thirty-four. "**I have been in front of that table for four years and I have never once seen a name in that column and I have asked twice, the first time four months in, and I was told it is how the register is written, and the second time I did not ask because the first time was enough.**"
+"Not one of them has ever been a person," said the woman of thirty-four. "I have been in front of that table for four years and I have never once seen a name in that column and I have asked twice, the first time four months in, and I was told it is how the register is written, and the second time I did not ask because the first time was enough."
 
 ---
 
@@ -52,25 +52,25 @@ Marek Senn said: "**Because the card in the catalogue in Lattice Ward says four 
 
 Iven Sore looked at him for a moment and then sat down on a chair that was not meant for sitting on.
 
-"That is the first honest sentence anybody has said to me in this corridor since the spring," he said, "**and I am going to reward it by refusing you, and I am going to tell you why, and I am not going to tell you the count first because you will then think it is a negotiation.**"
+"That is the first honest sentence anybody has said to me in this corridor since the spring," he said, "and I am going to reward it by refusing you, and I am going to tell you why, and I am not going to tell you the count first because you will then think it is a negotiation."
 
 ---
 
-"In the first two years after the outage, about nine people in this city read those pages who were not asked to," he said. "**Four of them wrote to me. Three of those letters were printed. And the thing those three letters wanted was for the pages themselves, all of them, everywhere, at once, and every one of those three letters was correct on the facts and wrong about a single thing, which is that the pages are not a route. A route has a person on it who can say no. A set of pages is a set of pages, and the third of those letters went to about four hundred premises, and there are about nine people in this city who are still getting letters about it, and I have never once been able to say to any of them that the reason they cannot have the pages is that the pages are a set of pages.**"
+"In the first two years after the outage, about nine people in this city read those pages who were not asked to," he said. "Four of them wrote to me. Three of those letters were printed. And the thing those three letters wanted was for the pages themselves, all of them, everywhere, at once, and every one of those three letters was correct on the facts and wrong about a single thing, which is that the pages are not a route. A route has a person on it who can say no. A set of pages is a set of pages, and the third of those letters went to about four hundred premises, and there are about nine people in this city who are still getting letters about it, and I have never once been able to say to any of them that the reason they cannot have the pages is that the pages are a set of pages."
 
 "That is a reason."
 
-"**It is a good reason and I have had fourteen years to notice that it is also a door, and the door is: a person comes to a corridor and says the thing is a set of pages, and then the person has to be findable, because a person who has said that is a person who can be asked whether they said it.**" He put his hands on his knees. "**You have spent a term and a half being difficult to find. You have come to a building where the only useful thing anybody can do is be found, and that is the same problem with a different door on it, and I am not going to pretend the two are different because you have come in here with a better coat on than the last four people who stood where you are standing.**"
+"**It is a good reason and I have had fourteen years to notice that it is also a door, and the door is: a person comes to a corridor and says the thing is a set of pages, and then the person has to be findable, because a person who has said that is a person who can be asked whether they said it.**" He put his hands on his knees. "You have spent a term and a half being difficult to find. You have come to a building where the only useful thing anybody can do is be found, and that is the same problem with a different door on it, and I am not going to pretend the two are different because you have come in here with a better coat on than the last four people who stood where you are standing."
 
 ---
 
 "**There is a woman of thirty-four at that table who has read that register out to strangers for four years and who has never been asked what she thinks of the fourth column,**" he said.
 
-"No," said Iven Sore. "**Nobody has asked her because nobody has ever stood in this corridor long enough to see that there is a fourth column.**"
+"No," said Iven Sore. "Nobody has asked her because nobody has ever stood in this corridor long enough to see that there is a fourth column."
 
 "I am asking you for six lines."
 
-"I am giving you a count," said Iven Sore, "**and I am giving it to you because a count is not a line and a count is not a person, and because the number of lines in that register that relate to the binder in question is six, and the number of lines in that register where the hand column is filled in rather than blank is two, and the number of those two whose author is still in this city is one, and I am not going to tell you which one and I am not going to tell you why not, and if you write that down and put it in front of a district, nobody will be able to do anything with it and it will be a piece of paper about a man in a coat.**"
+"I am giving you a count," said Iven Sore, "and I am giving it to you because a count is not a line and a count is not a person, and because the number of lines in that register that relate to the binder in question is six, and the number of lines in that register where the hand column is filled in rather than blank is two, and the number of those two whose author is still in this city is one, and I am not going to tell you which one and I am not going to tell you why not, and if you write that down and put it in front of a district, nobody will be able to do anything with it and it will be a piece of paper about a man in a coat."
 
 "That is the hand column. The authority column is a different column."
 
@@ -84,17 +84,17 @@ Iven Sore looked at him for a moment and then sat down on a chair that was not m
 
 He stood up, and then stopped, and looked at the register on the table from the other end of it.
 
-"**There is one thing I will do and it is not in my gift to give and I have thought about it for nine minutes while you were standing here,**" he said, "**and I am going to do it and I am not going to call it an opening. The register stays on that table. It has been on that table for fourteen years. I have been offered, in writing, by two separate offices, to have it moved into a locked room upstairs, and I have declined both, and the reason I declined is that a locked room would have been the correct decision about the pages and it would have been the end of the corridor, and I would rather have a corridor that does not work than a locked room that does.**"
+"**There is one thing I will do and it is not in my gift to give and I have thought about it for nine minutes while you were standing here,**" he said, "and I am going to do it and I am not going to call it an opening. The register stays on that table. It has been on that table for fourteen years. I have been offered, in writing, by two separate offices, to have it moved into a locked room upstairs, and I have declined both, and the reason I declined is that a locked room would have been the correct decision about the pages and it would have been the end of the corridor, and I would rather have a corridor that does not work than a locked room that does."
 
 "That is not an opening."
 
-"No," said Iven Sore. "**That is a man of fifty-eight saying in a corridor that he has spent fourteen years declining two offers and has told nobody, and you can do what you like with that, and one of the things you can do with it is walk out and come back with a piece of paper, and I am not going to tell you what on the piece of paper would be acceptable, because the first person who comes in here and tells me what is acceptable on a piece of paper is the last person I will ever be able to say yes to anything.**"
+"No," said Iven Sore. "That is a man of fifty-eight saying in a corridor that he has spent fourteen years declining two offers and has told nobody, and you can do what you like with that, and one of the things you can do with it is walk out and come back with a piece of paper, and I am not going to tell you what on the piece of paper would be acceptable, because the first person who comes in here and tells me what is acceptable on a piece of paper is the last person I will ever be able to say yes to anything."
 
 ---
 
 The woman of thirty-four read him out to the door herself, because the bell had nothing to do with it, and she said one thing at the threshold that she had not said in the room.
 
-"You did not ask me what I think of the fourth column," she said. "**You asked what was in it, which is the same question and it is not the same question, and about four people in four years have asked the first one and I have said the second one's answer every time and neither of them has ever noticed.**"
+"You did not ask me what I think of the fourth column," she said. "You asked what was in it, which is the same question and it is not the same question, and about four people in four years have asked the first one and I have said the second one's answer every time and neither of them has ever noticed."
 
 "What is your answer."
 
