@@ -1,0 +1,97 @@
+# Chapter 120 — About Nine Hundred Rooms
+
+The Friday was a Friday. Eleven jobs, about nine in date, four not, a man of thirty-one with a card issued in four seconds who could do the work and could not be on the board, and a woman of twenty-nine who could be on the board and had been since the Friday of week thirty-one because her employer pays for it.
+
+He said the eleven parts eleven times. The word came at nine, ten and eleven a minute between about ten past nine and about two o'clock and he counted it on the back of a docket because counting is the one thing in his own head it has not managed to put a different end on. On the last job, at about four o'clock, in a yard in Nine Bridges, a woman of twenty-nine looked at him for a second and a half across a load and neither of them said one word, and that was the entire extent of it, and it had cost her about a fortnight.
+
+He wrote the docket out on the back of a job sheet at half past five, in a hand he could read in the morning, and then he sat with the pen on his knee for about four minutes and did not start the van, and then he started the van.
+
+---
+
+The envelope came with the post on the Friday morning and it was not the post, it was a district internal distribution, and it was one leaflet to about nine hundred rooms.
+
+Corin Vasska's office had gone to print on the Wednesday. **The fourth of eleven sessions: *Supervised confirmation and a technician's own judgement*, the Thursday of the week of the thirty-six, a room in Crown Terrace, eleven folding chairs, a microphone, admission free. Panel: district practice assurance officer in the chair; district service manager; district practitioner, release callout; independent practitioner; independent practitioner. Fee paid.**
+
+**Panel listed by job, all five of it, including the two places that are people, which are printed as a job as well. Not one name on it, and there was no way to tell from the leaflet which job was his and which was Wyn Dunleavy's, and there were about four hundred pay packets in this district with one of those jobs in them, and about eleven thousand premises in this city that pay a levy that bought the sentence on page one.**
+
+Marek Senn read it standing in a corridor outside the parts cage with a leaflet in each hand, and the one in his left hand was the one he had taken from a table by a door in Crown Terrace on the Friday of week thirty-three, and it was the same leaflet apart from the date.
+
+Nobody had signed it. There was nothing to sign. **A programme with a name on it is a programme that can be removed, and a programme with a job on it is a programme that happens**, and a man of forty-four had said that in a yard in the week of the thirty-first and had said he had read it in somebody else's document in the week of the twenty-eighth, and Marek Senn had said it first in a parts cage five weeks before that and had not thought about it for one second in terms of a leaflet, and here was the leaflet, on about nine hundred pieces of A4, one of which was in a plastic holder in a corridor outside the parts cage of a depot on the far side of the city from his own bench.
+
+---
+
+The telephone rang at about eleven and it was Corin Vasska, and he said his name first, and he said he was ringing as an officer of a levy and not as a friend, because he did not appear to have friends in this case and had decided to be clear about it.
+
+"**Two names,**" he said. "That is all. I have a panel of five and three of them are jobs and two of them have to be people, and on the leaflet the two of them are printed as a job as well, which is what I have been sitting with since Wednesday, and I have said in public for three weeks that a programme with a name on it can be removed, and I am not going to do the thing I have said out loud is a bad thing on my own series."
+
+"You want two people who do this work."
+
+"**I want two people who do what the session is about. A supervised confirmation and a technician's own judgement, in a room, in front of forty people. I have written to four districts and I have had two replies and both replies have given me a name and a surname and neither of the names is a person who has ever had to decide anything.**" He did not sound pleased. "So I have written to yours, and your district has told me that it holds no list of people who confirm releases, and I believe that entirely, and it is the reason I am ringing you instead of ringing a manager."
+
+"Does the district have nothing at all."
+
+"**The district has job sheets.**"
+
+Marek Senn stood in the corridor and looked at the corridor.
+
+"**Job sheets,**" said Corin Vasska. "Which is what a district holds instead of a list, and which is a piece of paper with a date and a reference and a name on it, and there are about nine hundred of them in a year, and I have asked for two and the district has sent me two, and they came on a form from a district service manager who signed it, and I have not asked him why there is no list, because he has told me why in about nine words and it is the same nine words as everybody else."
+
+"Which two."
+
+"**I am not going to tell you that,**" said Corin Vasska, "because you would then be able to tell the other one, and because the honest answer is that I did not choose them and that is exactly the problem and it is the problem the session is about."
+
+He put the phone down.
+
+---
+
+Wyn Dunleavy rang at half past one, from a corridor, and he did not say his office.
+
+"**I sent two job sheets,**" he said. "I want to say the whole of it before you say anything, and then I am going to go and do my day."
+
+"Go on."
+
+"**A man of forty-four from a levy rang me on the Wednesday and asked me for two names, and I told him we do not hold a list, and he said that he believed me, and he said thank you, and then he said that he had asked for two names and not two job sheets and would I send two names, and I said that I would look.**" There was a pause. "And I looked, and the two that are on the sheets I sent are yours, both of them, from the same Friday, and the only reason they are yours is that you are the only person on every sheet in that week, and I did not choose them, and he did not choose them, and a system chose them."
+
+"You signed the covering note."
+
+"**I signed the covering note,**" said Wyn Dunleavy. "And the covering note has your course reference on it, and the course reference is an exception, and the exception is in a company's system in this building, and the reason box on that exception says *No reason given by holder*, and it said that on the Friday of week thirty-two, and as of half past one this afternoon it is a thing that a district service office can read, and a district practice assurance officer can read it, and a man of forty-four from a levy can read it, and I promised you in that corridor that I would write the same thing again in ten weeks and I would like you to know, before you find out some other way, that I now know what that promise costs, and the cost is that it stops being between two people in a corridor."
+
+"You could have told them no."
+
+"**I could have told them no, and if I had told them no then a levy officer would have written *declined to supply* on a form, and I have read that phrase somewhere in this city and I do not know where, and I have spent a fortnight thinking about it, and I have decided that the reason I have not written it is that I have got a form with a box on it that is true and I would be trading it for a box that is also true and worse.**" He did not apologise and he did not offer anything. "That is four times this term and I have stopped counting and I would like you to know that I have stopped counting."
+
+---
+
+**And here is the whole of what was left, and it was left at two o'clock on the Friday afternoon of week thirty-four in a corridor outside a parts cage on the far side of the city from his own bench.**
+
+He had about a fortnight in which he could have put two numbers in the same sentence out loud, in a room, with no name on it.
+
+**About eleven people a week are going to be taught that a release waits for a man in a lanyard. About eleven thousand premises pay a levy that bought one line in the middle of last term and a second line a fortnight after it, and a third line is going to be said out loud on the Thursday of the week of the thirty-six by a man of fifty-one who has a notebook and a hundred and forty pounds and a wife's boiler.**
+
+He had worked out how to do it in four seconds, standing in a corridor, on a Friday, and it is worth writing down because it is the closest he has come in three volumes and because nobody will ever know except this book.
+
+**You do not need a room. You need a wall, a sheet of paper nine feet long, two figures on it and no name, and about nine people in a corridor who do a trade, and you say the first figure and then the second figure and then you stop talking and let a man of thirty-one in Nine Bridges say the next sentence.** That is the whole of it. It takes eleven seconds and there is no form and there is no minute and there is no reference and there is no company, and in about four years a foreman somewhere would have a sentence in his head that he did not get off a card, and no district could produce a document about him, because the document would be eleven people in a corridor and there is no such thing as a document made of eleven people in a corridor.
+
+He did not do it.
+
+**And the reason he did not do it, which he wrote down in four lines on the back of a docket in a cab, is that about eleven people in a corridor is eleven people, and that a sentence that reaches eleven people in a corridor reaches them because he said it, and that a man of twenty-two who has spent a term and a half being the fourth thing in about eleven rooms a week does not get to also be the reason eleven people remember him, and that if he says the two numbers in a corridor on a Friday then in about four years a woman of twenty-nine with a bus to catch is going to be asked about it, and that is how he found out what the thing costs, and it cost her about a fortnight, and she did not choose it.**
+
+He drove home. Roy Amiss was at home with a frame against a chair and a leaflet on a table that he had put there himself. Tess Anley had nine forms with a box on each one that said *room* and a number, and a district system said *nominal contact* and nothing else, and a woman of thirty-four with a hip had said yes in four seconds to a girl of twenty-nine on a table speaker. A plate in a cupboard in Bower Street was not the plate that was on that wall in the spring, and the district office had said *in eleven weeks*, and eleven weeks is the week of the thirty-seven.
+
+In a hut on the Meridian corridor a man of sixty-one had a bit of pale card in his pocket with nine words on it and a Saturday on it that was somebody's mother's date to the day. In a yard on the same contract a man of fifty-eight had a diary with ten lines in pencil in it, and a card with a name on it, and nine people who had written a fifth line of their own.
+
+And in about nine hundred rooms in this district there was a leaflet with a stylised open hand on it and a thumb and a forefinger about a millimetre apart, and eleven session titles, and a fee, and a panel listed by job, and a date in five weeks.
+
+---
+
+*123. Friday of week 34, ten at night in a repair shop in Lattice Ward with the shutter up and the lamp on over the bench, and this entry is about me, and it is the last one of this movement, and the reason it is about me is that this is the week the two numbers met and it was not in a room.*
+
+*The Friday.* **Eleven jobs, nine in date, four not, one of them a man of thirty-one with a card issued in four seconds in a corridor in Lattice Ward in the middle of last term, and one of them a woman of twenty-nine on the board because her employer pays for it. Eleven parts, about eleven times, the word at nine, ten and eleven a minute, counted on a docket.** On the last job at four o'clock she looked at me across a load for a second and a half and neither of us said one word, and that is the entire extent of it, and it has cost her about a fortnight, and I am the cause of that fortnight and there is nothing in this book that fixes it.
+
+*And the leaflet, which is the thing that cannot be walked back.* **About nine hundred district rooms, one each, on a Wednesday print run, from an office of forty-four who has read every word he is paid to say.** The fourth of eleven sessions, the Thursday of the week of the thirty-six, *Supervised confirmation and a technician's own judgement*, a room in Crown Terrace, eleven folding chairs, a microphone, admission free, **fee paid**, and a panel listed by job and not one name on it. **Nobody signed it. There was nothing to sign. A programme with a name on it can be removed and a programme with a job on it happens, and a man of forty-four said that in a yard in the week of the thirty-first and had read it in somebody else's document in the week of the twenty-eight, and I said it in a parts cage five weeks before that and did not think about it for one second in terms of a leaflet.** It is now on nine hundred pieces of A4, one of which is in a plastic holder in a corridor outside the parts cage of a depot on the far side of the city from my own bench, and about four hundred pay packets in this district have got one of those jobs in them, and there is no way to tell from the leaflet which of them is me.
+
+*And the two names, which is the mechanism and is not anybody's fault.* **A levy officer rang and wanted two people for a panel, because a programme with a name on it can be removed and he is not going to do the thing he has said out loud is a bad thing on his own series. He wrote to four districts and got two names and neither was a person who has ever had to decide anything. He asked ours for two names and was told we do not hold a list, and he believed it, and he asked for two names and we sent him two job sheets.** **The two names on those two job sheets are mine, both of them, from the same Friday, and the only reason they are mine is that I am the only person on every sheet in that week, and nobody chose them.** A district service manager of fifty-two signed the covering note and told me the whole of it in a corridor at half past one and did not apologise and did not offer anything, and said the reason he did not write *declined to supply* on the form is that he has got a box on a form that is true and he would be trading it for a box that is also true and worse. **And he said, which is the sentence of this week: the cost of writing *No reason given by holder* in a corridor to a man of fifty-two is that it stops being between two people in a corridor, and he has known that since the Friday of week thirty-two and did not tell me, and I am not going to decide tonight whether that was cowardice or a job.** He offered me *it checked and I cannot do anything about it* four times this term and has stopped counting and told me he has stopped counting.
+
+*And what I had, and did not do, and this is the entry.* **About eleven people a week are going to be taught that a release waits for a man in a lanyard. About eleven thousand premises pay a levy that bought one line in the middle of last term and a second line a fortnight after it, and a third line is going to be said out loud on the Thursday of the week of the thirty-six by a man of fifty-one with a notebook and a hundred and forty pounds and a boiler.** I worked out how to put those two numbers into one sentence out loud in four seconds, standing in a corridor, on a Friday, and it needs no room and no form and no minute and no reference and no company: **a wall, a sheet nine feet long, two figures on it with no name on it, and nine people in a corridor who do a trade, and you say the first figure and then the second figure and then you stop talking.** In four years a foreman somewhere would have a sentence in his head that he did not get off a card, and no district could produce a document about him, because the document would be eleven people in a corridor. **I did not do it, and I want the reason written down in the order I actually got it and not in the order it sounds.** The reason is that eleven people in a corridor is eleven people, and a sentence that reaches eleven people in a corridor reaches them because I said it, and a man of twenty-two who has spent a term and a half being the fourth thing in eleven rooms a week does not get to also be the reason eleven people remember him. And the second half of it is the half that is actually about a person and not about me: **if I say the two numbers in a corridor on a Friday, then in about four years a woman of twenty-nine with a bus to catch is going to be asked about it, and that is how I found out what that costs, and it cost her about a fortnight, and she did not choose it.** Nine words for the whole of three volumes: I do not know. I have said that out loud twice this term and it is still the only one I have got.
+
+*And the two numbers, which have now been in the same sentence, and it was not in a room.* **They have never been in the same sentence in thirty-one weeks, in a book in a drawer, in a market, in a hall of about four hundred and six, in a corridor, in an office, in a yard, on a form, in a company, or in a voice — and on the Friday of week thirty-four they were in the same sentence, in a document, in about nine hundred rooms, and the sentence was written by a clerk and by an officer of a levy and by a chair whose office signs about eleven of those a year, and the number on it is not my name.** About eleven people a week. About eleven thousand premises. Four hundred pay packets. About nine hundred rooms. Four numbers, none of them mine, in a document with a fee on it and a hand a millimetre apart, and a man of twenty-two somewhere in the middle of all of it holding a job title that four hundred people hold and that one of them is not allowed to have a card for. **I am the only person in this city who could have put those two numbers in the same sentence with no name on it, and I had about a fortnight, and I used the fortnight on a docket in a cab, and the docket is in a pocket, and the pocket is on a chair in this room, and the book is at forty-three lines and will not be opened for another three weeks.** Entry 123. The tray on the Meridian corridor goes in about ten weeks and a number goes with it and I am the only person holding it. A plate in Bower Street is not the plate that was on that wall in the spring and the office has said eleven weeks, which is the week of the thirty-seven, which is the week the committee meets. A man of sixty-one has a card in his pocket and a man of fifty-eight has ten lines in a diary. And somewhere in about nine hundred rooms there is a leaflet with my job on it and no name on it and a fee, and on the Thursday of the week of the thirty-six a man of fifty-one is going to say the third line out loud to forty people who do not know that I have known it since the Friday of week thirty-two, and I am going to be in eleven rooms that day, at grade three, on a rota, in a company's system, saying eleven parts in eleven seconds, and there is nobody in this city who can tell those two facts apart, and there is nobody in this city who could, and that is the thing the money has bought, and it is not going to be walked back.
