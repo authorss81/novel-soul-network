@@ -46,7 +46,7 @@ Rafi Pell did not say anything.
 
 "Right."
 
-"Two days. A Tuesday and a Wednesday. Eight to four both days, on the clock, and the card is typed and issued at the end of the second day and you need to bring a form of identity and you will not get it without one." She read something off a screen. "I have got a Tuesday of week twenty-four. That is ten days. And I have got a Wednesday of week twenty-four but I have got eleven people on it and about four of them will not turn up, so do not plan around the Wednesday."
+"Two days. A Tuesday and a Wednesday. Eight to four both days, on the clock, and the card is typed and issued at the end of the second day and you need to bring a form of identity and you will not get it without one." She read something off a screen. "I have got a Tuesday of week twenty-four. That is eleven days. And I have got a Wednesday of week twenty-four but I have got eleven people on it and about four of them will not turn up, so do not plan around the Wednesday."
 
 "I'll do the Tuesday and the Wednesday."
 
@@ -152,4 +152,4 @@ He wrote the entry from about nine and the lamp was on and it is a short one and
 
 *And the state, which I was holding for him.* **He released it. He named the minute: about four minutes past six this evening, when a woman read three questions off a sheet and then stopped reading and asked one off her own head. He said he is not doing it because of me. He said it because he has said yes to a Tuesday and he cannot be a man who is not asked for anything and is on a list.** I have kept that state for about two weeks and never used it, and he released it in a doorway, in the first person, with his name at the end, and he did it in the way he did it in a market in week sixteen and he told me he has never once done it to make a room go quiet.
 
-*And I have got nothing.* That is the entry. **I have got a Tuesday of week twenty-four in my calendar and I have not got a sentence, and I have not got a sentence because there is no sentence in this city that is true and that does not come out of a man's mouth as a company's, and the only other thing available is to be a good man at a bench, and I have been a good man at a bench for five weeks and it has turned out that is a way of being a man who is not in the room, and I was extremely comfortable in it.
+*And I have got nothing.* That is the entry. **I have got a Tuesday of week twenty-four in my calendar and I have not got a sentence, and I have not got a sentence because there is no sentence in this city that is true and that does not come out of a man's mouth as a company's, and the only other thing available is to be a good man at a bench, and I have been a good man at a bench for five weeks and it has turned out that is a way of being a man who is not in the room, and I was extremely comfortable in it.**

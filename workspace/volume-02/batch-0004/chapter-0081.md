@@ -104,7 +104,7 @@ The man told him. There was a long pause on the line.
 
 He put the phone down and sat in the van with the engine running.
 
-That was the fourth thing that had arrived in that building in five weeks without anybody planning it, and he had been one of the four, and the rota had a name on it for a man who had not been answering it and the rota was still going out with his name on it in about eleven days' time, which meant that in about eleven days a man was going to be phoned at home by a company because of a piece of paper that a fitter had decided was the correct thing to do.
+That was the fourth thing that had arrived in that building in five weeks without anybody planning it, and he had been one of the four, and the rota had a name on it for a man who had not been answering it and the rota was still going out with his name on it in about three weeks' time, which meant that in about three weeks a man was going to be phoned at home by a company because of a piece of paper that a fitter had decided was the correct thing to do.
 
 He wrote nothing down. That was the correct decision and he made it in about a second. Her name, the lock-up, the shutter, the nine minutes — it goes in a book in a market, and a book in a market gets read out in four minutes in front of about nine people, and a shutter in the Saltmarket is not a site and a shutter is not a technique, and if it is ever a technique then somebody in four years is going to want to know how many of these there were.
 

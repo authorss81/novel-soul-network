@@ -44,7 +44,7 @@ Marek Senn stood at the bench and worked out, in about two seconds, which page s
 
 "That will happen. There is a letter going out to all eleven that says the note we hold about them is destroyed at the end of the term on request in writing, and I have read it, and it is not a policy and the woman who wrote it knows it is not a policy and has been told to expect a question about it from a man with a line manager."
 
-"Thank you." Nothing for a second. "Two. **I want somebody to tell me why it said NONE.** Not you. I have read the box and I know what NONE means in it and what I do not know is whether it is a true thing or a lazy thing, and if it is a lazy thing then somebody in that company is typing NONE into a box on a form for a person they have not spoken to, and that is not a data breach, that is somebody not doing a job, and I would like to know which one it is.**"
+"Thank you." Nothing for a second. "Two. **I want somebody to tell me why it said NONE.** Not you. I have read the box and I know what NONE means in it and what I do not know is whether it is a true thing or a lazy thing, and if it is a lazy thing then somebody in that company is typing NONE into a box on a form for a person they have not spoken to, and that is not a data breach, that is somebody not doing a job, and I would like to know which one it is."
 
 He looked at the letter face down on the bench.
 
@@ -114,7 +114,7 @@ Marek Senn sat on a stool in his own shop with a district letter face down in fr
 
 "Fine."
 
-"**Do not be sorry at me.** That is not a thing I want. I have got eleven words and a blank line going to a regional office at eleven o'clock and you have given me the truth in one word in a second and a half, and it is the cheapest thing anybody has given me this month and I am not going to thank you for it and I am not going to be gracious about it and I am not going to ring you on Thursday to check you have not been talking.**"
+"**Do not be sorry at me.** That is not a thing I want. I have got eleven words and a blank line going to a regional office at eleven o'clock and you have given me the truth in one word in a second and a half, and it is the cheapest thing anybody has given me this month and I am not going to thank you for it and I am not going to be gracious about it and I am not going to ring you on Thursday to check you have not been talking."
 
 "That was not the first time."
 
