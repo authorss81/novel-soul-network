@@ -14,7 +14,7 @@ The lot is still a lot. A box number and a post town with four letters in it tha
 
 On the Tuesday a man of fifty-one came into the shop with a frame and a stick and a leaflet on his own table at home, and he put the leaflet on the counter face down, which people do, and then turned it up.
 
-He is Roy Amiss and he has a hip and about a fortnight of stairs left in him and he went into a building on the Thursday of week thirty-eight for a leg and came out on the Thursday afternoon with a leaflet and his employer in a list of things that went right.
+He is Roy Amiss and he has a hip and about a fortnight of stairs left in him, and he went into a building on a Thursday in week thirty for a leg, and he came out of it on the Thursday afternoon of week thirty-four with a leaflet and his employer in a list of things that went right.
 
 He asked one question and it was a good question and it was whether the thing on his table was about him.
 
@@ -94,13 +94,13 @@ He asked her, at two o'clock, whether the hundred and forty-one pounds could go 
 
 "**It sits there,**" she said, "**and I am fifty-eight and I have printed for about four hundred people on this street for nineteen years and in the spring I decided what a piece of paper was for, and the deciding is the part that goes in a file and the printing is the good part, and both of those are still true and neither of them has been put back.**"
 
-She is not thanked. There is an envelope under the till with a hundred and forty-one pounds in it and no name on it and no address on it and no mechanism in this city that can move it, and about nine places in one district still have a card out of that counter, and nobody in this city is going to do anything about it for about seven weeks.
+She is not thanked. There is an envelope under the till with a hundred and forty-one pounds in it and no name on it and no address on it and no mechanism in this city that can move it, and four hundred and thirty-two cards are in about nine places in one district, and nobody in this city is going to do anything about it for about seven weeks.
 
 ---
 
 On the Monday night the shutter was up and the lamp was on over the bench and there were five things in the drawer under it, four of them other people's sentences, and a letter in it that should not be produced without an office being asked first.
 
-A jacket was over the back of a chair.
+A jacket was over the back of a chair and the master was in the inside pocket of it, and nobody has asked him for it in a term and a half.
 
 On a shelf above the bench there was a grey transit sequence card in a plastic sleeve with a boy's handwriting in the fifth line, and it had two names against a review date in the spring, and one of the two had been taken off the whole row with a knife in a fish market at seven in the morning by a man of about sixty who read the front of it and said take me off, and the taker's name was in the fourth column because that is where the person who changes a card puts their name, and it is his name and it is not going to be taken out.
 

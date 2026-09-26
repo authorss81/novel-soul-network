@@ -1,6 +1,6 @@
 # Volume 03 Close — *The Unquiet House* (Chapters 101–150)
 
-Phase: writer, batch 0005, completed. **No prose in this document and none is required.** Volume 03 ran from `batch-0001/chapter-0101.md` to `batch-0005/chapter-0150.md` — **182,399 words in fifty chapters** (batch 0001 37,745, batch 0002 41,593, batch 0003 38,873, batch 0004 34,343, batch 0005 29,845), from the Monday of week thirty-one to the Monday night of week forty-six. The whole of it sits inside one term. This file closes the volume against `outline/volume-03.md`, records what the prose actually delivered, confirms the guardrails, and hands Volume 04 a dated set of open questions.
+Phase: writer, batch 0005, completed. **No prose in this document and none is required.** Volume 03 ran from `batch-0001/chapter-0101.md` to `batch-0005/chapter-0150.md` — **182,422 words in fifty chapters** (batch 0001 37,745, batch 0002 41,593, batch 0003 38,873, batch 0004 34,343, batch 0005 29,868), from the Monday of week thirty-one to the Monday night of week forty-six. The whole of it sits inside one term. This file closes the volume against `outline/volume-03.md`, records what the prose actually delivered, confirms the guardrails, and hands Volume 04 a dated set of open questions.
 
 It is not a re-outline and it is not a plan for the next volume. Where it says something is missing from the world, the correct sentence is *there is not one of those in this city*, which is a fact of Volume 03 and not an invitation to design one.
 
