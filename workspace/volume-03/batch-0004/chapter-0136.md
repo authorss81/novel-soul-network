@@ -1,203 +1,183 @@
-# Chapter 136 — The Courier Stopped It
+# Chapter 136 — The Carrier
 
-Eleven jobs, nine in date, four not, the word at nine, at ten and at eleven on a docket, and the seventh of them was in Crown Terrace from about eleven until about one and the eight of them is where it happened, at about twenty past one, in a service road, sitting in a van with the doors open.
+The Friday release callout runs at grade three and there were nine jobs in date and two that were not, and the word came at nine, at ten, and at eleven a minute for most of it, and the count is on the back of a docket, and at about half past two in the afternoon Marek Senn stood in a yard off a service road and asked a woman of thirty-nine to carry something for him.
 
-He had never done it before. There is no procedure for it in this city and there is not one in this book, and the reason there is not one is that he has spent a term and a half refusing to write things down that other people would have to be taught, and the moment somebody asks him to teach it, the thing stops being his.
-
----
-
-Rafi Pell is twenty-one and he is a courier and he has a round of about nine addresses on a Tuesday and a Thursday and he is a member of a wagon share, and he has a practice of his own on a grey card with two named people who can end it and **neither of them is Marek Senn**.
-
-He came into the service road at about ten to two because Marek Senn telephoned him at one and asked him to come and sit in a van for nine minutes and Rafi Pell said yes on the telephone before he asked what it was, and then said, on the telephone, in the same call, in these words:
-
-"**I am going to say the rest of the drive and I am going to want to know what it costs before I start, and I am not saying that to be difficult, I am saying it because the last time somebody put a thing in my head in a van I did not know that was what it was, and I was about nineteen, and it took me about a year to be able to say no to things, and I have not been able to say no to things as well since.**"
+He had never done it. There is no procedure for it in any book in his bag and there is not one in a company system and there is no line on a form anywhere in this city, and the reason there is no line on a form is that the thing he was about to do requires a person to be willing, and willingness is not a field.
 
 ---
 
-Marek Senn said the seven headings out loud in a service road, in order, off a card he had in his coat, and Rafi Pell listened with his hands on the wheel.
+Marta Selby is thirty-nine and she has run a round in Nine Bridges and the Saltmarket for eleven years for an outfit of three vans, and she is the third driver, and about nine people on that round wait for her on a particular afternoon and one of them has done so since the spring.
 
-Purpose. Duration. What stays. Who may stop it. Who it is for. When it ends. How it ends.
+He asked her in the yard and she said no for the first four seconds and then said the thing that made him write it on the docket afterwards.
 
-"**That is the whole of it,**" said Rafi Pell. "**That is the card. I have got one at home on the shelf with the same seven on it and mine is in my own handwriting and two people who are not you can take it off me.**"
+"**Say what it is first,**" she said, "**and then say what it costs, and if you cannot tell me what it costs then I am not going to be the one who works it out in a van.**"
 
-"**Yes.**"
+"**I do not know what it costs.**"
 
-"**And the fourth condition is still the fourth condition. You cannot hold a practice alone on their equipment, you cannot teach it, you cannot assess it, and you cannot assist anybody in one, and it is not limited to hours and it is not limited to their building.**"
+"**Then we are not doing it.**"
 
-"**It stands. It is not a technicality and it is not being renegotiated, and I have not come here to ask you to help me do anything on anybody's premises and I have not come here to be shown anything.**"
+"**I have not said that.**"
 
----
-
-"**Right. Here is what it is. It is one observation and it is about four sentences long and I am going to give it to you and I am not going to be able to give it to you again for about a fortnight, and the reason I am not going to be able to give it to you again is that I have never done this and I have got about four minutes of it in me before I lose it, and that is not a figure of speech, it is what happened on the Tuesday of the week of the twenty-nine and I have not been able to make it into a figure of speech since.**"
-
-"**Then do it now.**"
-
-"**No. Because I have to tell you the cost first and I have not.**"
+"**You have not said it either,**" said Marta Selby. "**I have known for about eleven years what it costs to be the thing somebody sends a thing through, and I have watched two men find out, and I am not one of them, and I have got a round on Monday.**"
 
 ---
 
-Rafi Pell turned the engine off.
+She let him explain it on the back of a van, standing up, with the engine off, and it took about nine minutes and it is worth doing properly because the two things he said are the whole of what happened afterwards.
 
-"**Go on.**"
+The first thing: **there is a rack of about four hundred leaflets in a room in Bower Street and about forty-one people are on a thing that cannot be ended, and the three places that could open a route for those forty-one are four miles apart from each other and four miles from him, and there is no document in this city that can be taken to that rack, and there is no form anywhere that gets taken to a load.**
 
-"**The cost is that it arrives with you on it.**" Marek Senn said it to the middle of the van. "**Not with my name. With yours. A courier arrives at a door at a time and a courier has a bag and a van and a uniform and a round and about nine addresses in a sequence and a way of standing in a doorway that you have had for two years. Whatever I say to you in this van is going to come out of your mouth in a doorway and the person on the other side is going to be able to tell exactly how it got to them, not because of anything I say but because of when you turn up and how you are holding the bag and the fact that you are the only round in this district that is on that street at ten past six on a Tuesday.**"
+The second thing: **what was in the rack is not a fact he can write down. It is a shape. It is what forty-one dates that are not leaflet dates look like when you have stood in front of them, and the only way a nurse, a repairer and a courier in three buildings can each recognise their own version of a cupboard in Bower Street is if somebody carries the shape of it between them, and the carrying is the only thing there is.**
 
-"**Right.**"
+"**So it is a thing I would know,**" said Marta Selby. "**Not a fact. A thing I would know. Like a smell.**"
 
-"**And then there is the second part and it is worse, and I have worked out the second part in about four seconds and I should have worked it out before I telephoned you.**"
+"**Like a smell.**"
 
-"**Say it.**"
-
-"**The reason it will have you on it is me. There is no other reason. I cannot put a thing down a road and have it arrive without somebody's hands on it, and your hands on it is not a disguise, and there is no version of this where you are a pipe. And if I say a thing to you and you stop in a doorway and repeat it, then somebody can tell that the thing was said by somebody who was not there, and the only such somebody is a person in a van, and there is one of those and he is twenty-two and he is on a programme.**"
+"**Right. And what do you want me to do with it.**"
 
 ---
 
-Rafi Pell looked at him for about four seconds.
+"**There are seven headings,**" said Marek Senn. "**There have been seven headings on it since the spring and there are four people in this city who can end it by word and I am not going to say the seven out loud to you because they are not the point and because if I say the seven out loud to a person I have known for four minutes then in about four years there is a document with the seven in it and a name next to it, and I have been watching that exact thing happen to other people for four months.**"
 
-"**Then why are you doing it.**"
+"**So you want one thing per heading.**"
 
-"**Because the question that tells a fifth line apart from a hinge only works at one place, and there is no form in this city that gets taken to a load, and I have known that for about a month and I have not been able to do anything about it, and you are the only person I know who goes into rooms that I am not allowed to stand in.**"
+"**One thing per heading, bounded, and no more, and the seven together are about as much as will go through anybody, and I do not know that for a fact because I have never done it, which is the part you are entitled to object to.**"
 
-"**You are not allowed to stand in about nine of them a week on your own condition.**"
-
-"**Yes.**"
-
-"**And you have asked me to go into them for you.**"
-
-"**Yes.**"
-
-Rafi Pell started the engine again, and then turned it off again.
-
-"**No,**" he said. "**Not yet. Say the seven headings again and say them slower, and then say the thing, and I will tell you when.**"
+"**I do object to it,**" said Marta Selby, "**and I am going to object to it and then say yes, and I want that on the same page, because I have found out the hard way twice that a person who agrees first sounds braver than a person who agrees second.**"
 
 ---
 
-He said them again. He got the fourth one wrong the first time — *who may stop it* came out as *who stops it* — and stopped and went back, and Rafi Pell said **again**, and he went back again.
+Then he said the part that the share requires, and the share requires it because four of the people in it can end it by saying one word, and he got it wrong, and the person he was about to use got it right.
 
-Then he gave the observation, and it is four sentences and it is bounded, and it is the only thing in this volume that has ever gone through him from one place to another.
+"**The cost is that you will be able to feel it,**" he said. "**And that is why the four of them can end it, because a person who is carrying can stop it.**"
 
-"**One. In a first-floor room in Bower Street there is a list on a shelf with about four hundred lines in it going back about four years, and eleven of those lines have a date and a tick on them and none of them has a name on them.**"
+"**That is not the cost,**" said Marta Selby. "**That is the mechanism. Try again.**"
 
-"**Go on.**"
+"**I do not know what the cost is.**"
 
-"**Two. The eleven ticks were drawn by eleven different people on nine different days and every one of them was right, and there is a one-page district instruction that says a person holding a share who no longer wishes to hold it does not require a reason and does not require a form, and it is the best document anybody has produced in this city about six weeks.**"
+"**Then I will tell you what the cost is, because I have been a person who carries things for eleven years and I know exactly what a person who carries things is, and you have never asked me and I am going to notice that for the rest of my life.**"
 
-"**Go on.**"
+She put her hands on the back of the van.
 
-"**Three. There is a second one-page instruction now that says the twenty-nine people who are still off the list have to be put back on it before the next review, and it says a person on the floor has to do it, and the twenty-nine were never on the floor. It has four fields. One of them is a tick.**"
-
-"**Go on.**"
-
-"**Four. Nobody is waiting for a man in a lanyard in that building and there never has been, and that is the reason the room did what it did, and it is also the reason nobody in that building is able to say out loud what happened, because the thing that broke is the only way about twenty-nine people had of getting off, and it broke correctly.**"
+"**Nobody knows what a carrier is. That is the whole of it. A relay is somebody you can send a thing through, and the moment you use a person as a relay then that person is a place. And a place can be found.**"
 
 ---
 
-Rafi Pell said, **right**, and then said, **I have got it**, and then he did it wrong.
+"**I have got a round that runs Monday to Friday, about nine stops, and I have got it because eleven years ago a woman in an office decided I was reliable, and she is not a villain and she was not being cruel, she was doing her Friday.**" She turned round and looked at the yard. "**If a district nurse in Crown Terrace can feel a road tonight then next month there is a woman in this city who knows my name and my round and what I am good for, and she will not be a villain about it either, and there is nothing she will be doing that anybody can call anything. And I will be a place. And about nine people on that round wait for me because I am a person and not a place.**"
 
-He did it wrong on purpose, or he did it wrong because of what it is. He said the first two sentences standing in a doorway on a street in Crown Terrace at about ten past six to a woman of about thirty-four who had come to the door and had not asked him for anything, and he said them well, and then he said the third and fourth sentences at about twice the speed and looked at his feet while he did it.
+"**You are saying no.**"
 
-The woman of thirty-four is a district nurse and she has a file with her name at the top of it and she was not disciplined and she is the one who filled in a form in about four thousand pockets on her own initiative and put her own name in the box that says completed by.
-
-She did not say anything for about four seconds.
-
-"**That came off a person,**" she said.
+"**I am not finished.**" She held a finger up. "**I am going to say it in a corridor instead, because that is where I do my thinking, and then you can ask me again properly, and I am telling you now that I am going to say yes because a man of fifty-one is going into a hospital this week with a thread he cannot end, and because I have been eleven years being the person who comes and I would like one Friday in eleven years where coming was worth something.**"
 
 ---
 
-"**Yes.**"
+She said it in a corridor for about nine minutes and she said yes.
 
-"**Not off a document. Off a person, standing in my doorway, about ten past six on a Tuesday, with a bag, saying a thing that is not mine, too fast, at the end.**" She did not move. "**I want to tell you what I can tell and then I want to tell you why I can tell it.**"
+"**What you are forgetting,**" she said, "**and I am not being brave, I am being a courier, is that you have not told me what the seven are, and I have just said yes to a thing I cannot picture. So I am going to do it the way I do a round. I am going to do it in order, out loud, at the places, one at a time, and I am going to say the name of the place every time so that if it turns into a location then the location is written in a courier's voice and not in yours.**"
 
-"**Go on.**"
+"**Say stop any time.**"
 
-"**There is one round in this district that is on this street at ten past six on a Tuesday. I know that because I have watched it come past for about four years from a first-floor window and it is the only one and it is always about ten minutes late. You are four minutes late and you have been four minutes late every week for about four years, and I know your van, and there are two of you on the round now and one of you does not slow down at this corner.**" She looked at the bag. "**And you are slowing down at this corner. I have never seen anybody slow down at this corner.**"
-
-Rafi Pell said, "**That is fair.**"
-
-"**And the second thing I can tell, and it is the one that matters, and I am not going to be the one who says it out loud on my own step.**" She did not step back. "**You have said it to me four times, which is about the number of times somebody says a thing they have been told once. You have got no second copy. You have got a bag and a van and a round and you are going to have to say this again to about nine people on this round, and the ninth one is a man in a district fleece and he counts, and he will write it down, and then it is not yours and it is his, and he is fifty-eight and he has got a mortgage.**"
-
----
-
-Rafi Pell did not say the fifth, the sixth, the seventh and eighth addresses.
-
-He stood on the step for about four seconds and then he said:
-
-"**Stop.**"
-
-"**That is your word, not mine.**"
-
-"**It is my word and it is in the card.**" He had not moved. "**I want to say what I am doing so that it is not a mystery. I am stopping it. I have got four sentences in my head and I have just said them once, badly, at the end, to a woman who works out the carrier from how he slows down at a corner, and I have got eight more to go on this round, and every one of them is going to be a person in a doorway, and by the fourth one of those it will not be my voice any more, it will be a thing I have been given, and I am twenty-one and I cannot carry a thing that is not mine without becoming the thing's owner, and in about four years the only way to find out who carried this is to find a round sheet, and the round sheet has nine addresses on it and one of the nine is a man's brother's place of work and I have told you that I do not want to be found.**"
-
-Marek Senn said, "**You have four addresses.**"
-
-"**I have got four addresses and I have said no, and I am going to say no to the other four as well and I am telling you that before I do it so that you cannot say afterwards that I did not have a choice.**"
-
----
-
-He did it in a stairwell, about four minutes later, sitting on a step with his bag between his feet.
-
-"**I am stopping it and I want the four of you that are left on this round to hear why, because I would rather four people think I am a coward for a month than one of them end up with a thing in their head that they did not choose.**"
-
-"**Stop,**" said Marek Senn. "**I am not going to argue with you. The card says you can end it and you are ending it and that is the whole of what that heading is for, and I have used it twice today and I am not going to use it a third time in a van.**"
-
-"**You are not going to argue?**"
-
-"**No. I want to. I have wanted to for about four minutes.**" He was not looking at him. "**I am twenty-two and I have spent nine weeks building a thing that is mine by refusing to give it to anybody, and about four days ago I worked out that refusing to give it to anybody is the same as keeping it, and this week I gave it to a man in a service road because the alternative was a room in Crown Terrace with a microphone and forty chairs and my job title on a leaflet, and that was a better reason than my own and I have been using better reasons than my own for a term and a half and I know exactly what that is.**"
+"**I have been going to say stop any time since the third sentence,**" said Marta Selby. "**That is not a favour to you. That is the only part of this that is mine.**"
 
 ---
 
 * * *
 
-The line is possible. It is not proof.
+This one is a person, not a line.
 
-It will arrive with the shape of whoever carried it.
+You can say stop at any point and she will hear it.
+
+She has not been asked yet.
 
 * * *
 
----
+He asked her. It took about eleven seconds and he had to ask it twice, and the first time he asked it as a question about the practice and the second time he asked it as a question about her, and the second one was the correct one and a woman of thirty-nine told him so before he got to the end of it.
 
-Nobody told Rafi Pell he was right to stop it. That is the sentence he has been carrying since the Wednesday of the week of the thirty-four and he has had it out about four times, and it is the same sentence every time and it is a thing about him and not about anybody else.
+And then, because the four headings that matter are not the four that are comfortable, he told her what he knew about the aftertaste, which is that a person who carries something for somebody else carries a piece of it afterwards, and that on a Monday morning in about three weeks she is going to feel a cupboard in Bower Street and a rack of four hundred leaflets and a date that is not a leaflet date, in a place where none of that is, and that it will pass, and that it is not nothing.
 
-"Nobody took a vote about me," he said. "**That is the actual cost and I want it in the right place. Not the van and not the four addresses and not the woman on the step. Nobody took a vote about me. I have been in a wagon share since I was eighteen and I have never asked anybody to be in it and nobody has ever asked me, and there are about nine of us and one of us is a woman of forty-four who does Tuesdays and one of us is a man who is not good with the second address, and I have never once been asked whether I want to be in it, and I have never once been asked whether I want to be out of it, and that is the best thing about the wagon share and I am not giving it up.**"
+"**How long,**" said Marta Selby.
 
----
+"**About three weeks. It might be a bad one.**"
 
-"**And the other cost.**"
-
-"**The other cost is that a district nurse of thirty-four can work out who I am from how I drive past a corner, and I did that to her, and I did it to her in about four seconds without thinking about it, which means I have been that shape for about four years and I never once thought about being that shape to a person standing in a doorway.**" He put his hands behind his head. "**And she told me the ninth address is a man who counts, and that is now in my head, and it is in my head because I said four sentences out loud in a doorway, and the sentence I said about the man who counts is now sitting in the head of a man on a round, and I have to go and say four sentences to that man in about nine minutes or I have to tell him I nearly did, and I have not got a third option and I did not have one in the van either.**"
-
-"**You could have stopped it before the first door.**"
-
-"**Yes.**"
-
-"**You did not.**"
-
-"**No, and I want that written down somewhere with my name on it and I know there is nowhere to put it, and that is about the ninth time this term.**" He got up. "**I am going to deliver the other four. And on the Thursday I am going to say nothing to anybody about this at all, and in about a fortnight I am going to find out whether the man who counts wrote any of it down, and if he did, then I have become a document, and if he did not, then I have got away with it, and I do not know which of those two I would rather have and I have not got time to work it out on a round.**"
+"**Right.**" She wrote on the back of her hand with a biro, on the side without the route, and tore the skin off it doing it. "**Then that is the cost and you did not know it and I did, and that is the ninth of April and I have got nine stops and I am going to do them in order.**"
 
 ---
 
-He stood in the doorway of a repair shop in Lattice Ward for about a second and a half before the roller shutter came down, and he said one more thing and it was not to Marek Senn.
+The rack is in a room on the first floor of a building in Bower Street and it took her about four minutes to stand in front of it, and she counted nothing, because counting is somebody's job and it had already been done by a woman of twenty-nine with a pen.
 
-"**I have got a thing left and I am not going to give it to you, and I want you to be the one who is left holding it, because I have decided that is the safer arrangement for both of us, and I am aware that it is also the arrangement that means I am the only one in this city who knows about the man who counts.**"
+There are seven headings and there were seven things and she said them in a corridor, in a yard, in a car park, on a service road, and in the back of a van, at about four minutes apart, and her voice got about half a beat flatter each time and by the sixth one she was reading them off her own hand.
 
-Then the shutter came down, and the docket in the inside pocket had a word count on it and two lines under it, and a new line at the bottom that said *not again this fortnight*, and he had not written that word count in about four years.
+And on the seventh one she stopped.
+
+"**No,**" she said.
 
 ---
 
-*139. Friday of week 39, ten at night in a repair shop in Lattice Ward, and this entry is about a courier of twenty-one who came to a service road because he was asked, and who said no four times in a doorway and once in a van, and who did not say no to the first one.*
+"**I have not said it.**"
 
-*What it was.* **Eleven jobs, nine in date, four not, the word at nine, ten and eleven, and the seventh of them in Crown Terrace from eleven until one, and it happened in a service road at about twenty past one with the doors open.** I have never done it and there is no procedure for it in this city and there is not one in this book, and the reason there is not one is that I have spent a term and a half refusing to write down things other people would have to be taught, and the moment somebody asks me to teach it, it stops being mine.
+"**I know you have not, and I can feel where it is going to be.**" She was standing at a set of lights on a service road with the bag in her hand and a van thirty feet behind her. "**That is the thing nobody tells you about and I have worked it out about eleven years too late and that is the whole of my education: the sixth one came out of me as a road.**"
 
-*The seven headings, out loud, in a service road, off a card.* **Purpose, duration, what stays, who may stop it, who it is for, when it ends, how it ends.** And the fourth condition, said by him and not by me: I cannot hold a practice alone on their equipment, I cannot teach it, I cannot assess it, I cannot assist anybody in one, it is not limited to hours and it is not limited to their building. I said it stands and it is not a technicality and I did not come to be shown anything. **I got the fourth heading wrong the first time — who may stop it came out as who stops it — and stopped and went back, and he said again, and I went back.** That is what not being able to do it looks like from the outside and I want it written down.
+"**Say it again.**"
 
-*What I told him the cost would be, before it started.* **It arrives with you on it.** Not my name — his van, his bag, his uniform, his round, about nine addresses in a sequence, and a way of standing in a doorway he has had for two years. And then: **the reason it will have him on it is me. There is no version of this where you are a pipe. If I say a thing to you and you stop in a doorway and repeat it, somebody can tell that the thing was said by somebody who was not there, and the only such somebody is a man of twenty-two on a programme.** He asked why I was doing it and I said the question that tells a fifth line apart from a hinge only works at one place, there is no form in this city that gets taken to a load, and he is the only person I know who goes into rooms I am not allowed to stand in. He said **then why are you doing it.** I said that. I did not say the other thing, which is that I had worked out four days ago that refusing to give it to anybody is the same as keeping it.
+"**The sixth one came out of me as a road. Not a fact, a road. There is a line in it that is a road and a corner and about four stops, and it is not a shape any more, it is a place, and I can feel it going in me and I am about to give it to a woman in Crown Terrace and she is going to keep it.**"
 
-*The observation, four sentences, bounded, and the only thing in this volume that has gone through me from one place to another.* **A list on a fourth shelf in Bower Street with about four hundred lines in it, eleven with a date and a tick and no name. Eleven ticks drawn by eleven different people on nine days, all right, and a one-page district instruction that says a person holding a share who no longer wishes to hold it does not require a reason and does not require a form. A second one-page instruction that says the twenty-nine have to be put back on the list by a person on the floor, and the twenty-nine were never on the floor, and it has four fields and one of them is a tick. And nobody in that building is waiting for a man in a lanyard and never has been, which is why the room did what it did and also why nobody in it can say out loud what happened.**
+"**Say stop.**"
 
-*And how badly it was carried.* **He said the first two sentences standing in a doorway at about ten past six on a Tuesday and said them well, and then said the third and fourth at about twice the speed with his eyes on his feet.** And a district nurse of thirty-four with a file with her name at the top of it that she was not disciplined over, standing in her own doorway, said: that came off a person. And she was right, and she gave both halves. **There is one round in this district on that street at ten past six on a Tuesday, seen from a first-floor window for about four years, always about ten minutes late, and he is four minutes late and has been for four years, and she has never once seen anybody slow down at that corner, and he slowed down at that corner.** And the second half, which was worse: **you have said it four times, which is about the number of times somebody says a thing they have been told once; you have no second copy; you have a bag and a van and eight more people on this round, and the ninth one is a man who counts, and he will write it down, and then it is not yours and it is his, and he is fifty-eight and he has got a mortgage.**
+"**I am saying stop.**"
 
-*And the stopping.* **Stop. That is my word and it is in the card.** He did not say why at first and then he did, standing on a step with his bag between his feet: four sentences said once, badly, at the end, to a woman who works out the carrier from how he slows down at a corner, and eight more to go, and by the fourth it would not be his voice any more, it would be a thing he had been given, and in about four years the only way to find out who carried it is a round sheet, and the round sheet has nine addresses and one of the nine is a man's brother's place of work. **I want you to say afterwards that I had a choice.** And then he did say why, and the reason is the sentence he has been carrying for about four weeks: **nobody took a vote about me. I have been in a wagon share since I was eighteen and I have never asked anybody to be in it and nobody has ever asked me, and that is the best thing about the wagon share and I am not giving it up.** Then the second cost, named by him and not by me: a district nurse of thirty-four can work out who he is from how he drives past a corner, he did that to her in about four seconds without thinking, he has been that shape for about four years and never thought about being that shape to a person in a doorway, and the ninth address is a man who counts, and that is now in his head because he said four sentences out loud. **And she told me, and I did not give it to anybody, and I want you to be the one who is left holding it, because I have decided that is the safer arrangement for both of us, and I am aware it is also the arrangement that means I am the only one in this city who knows about the man who counts.**
+---
 
-*The one System thing in this volume, which did not help.* It said three things. The line is possible. It is not proof. **It will arrive with the shape of whoever carried it.** It did not tell me what to do, it did not tell me it was possible to do it twice, it did not name a solution, and it was right, and being right is what it does.
+And she said it, and it stopped, and it was four minutes and about a minute's drive and the whole of the seven, and it was not a technique and nobody learned anything and the word *confirmed* was not said once, and afterwards he was sick behind a wall on a service road for about four minutes because that is what it costs him, and he wrote nine words about it on a docket in a car park at about half past four and the nine words were: **I do not know if it worked and I will not know for about three weeks.**
 
-*What I am not.* **I cannot teach it, I cannot demonstrate it, I cannot assess it and I cannot assist anybody in one, and I did not do any of those four things and I am not going to be able to.** I used the fourth heading twice in nine minutes and I was going to use it a third time in a van and I did not. He stopped it and nobody in this city is going to tell him he was right to, and I wanted to, for about four minutes, and **I know exactly what it is to want a person to keep something because keeping it is useful, and I have been doing that to about nine people for nine weeks, and the only difference in this case is that I have said it out loud in a service road to the man it was about.** Entry 139. The book is at forty-four lines and is opened on the Wednesday of the week of the forty, which is five days from now. A relay exists and it cost a courier and it was stopped by the courier and it will not be done again this fortnight.
+Nobody watched him and nobody asked him to explain and there was no panel after it and there was nothing in a company's system and no exception in a box marked *reason*.
+
+---
+
+Sinead Corrigan is thirty-four and she has a file with her name at the top of it and she is not disciplined, and she was in a clinic in Crown Terrace at about a quarter to five on the Friday with a clipboard and about nine forms, and something arrived that she had not put in and could not take out.
+
+"**You came off a bag,**" she said, before he had got to the door. "**You came off a road. There is a corner in it and a kerb on the outside of the corner and about four stops and a Thursday, and I have been on the other end of this for eleven years and I would know that in a corridor with the lights off.**"
+
+"**That is not an attack on anybody.**"
+
+"**No,"** said Sinead Corrigan. "**That is exactly why it is a problem. I cannot say where it came from, so I can only say what shape it is, and what shape it is is a woman who drives. And that is not enough to use and it is enough to know.**" She put the clipboard down. "**And I want to say the other half, because you are twenty-two and you have not had this before. It stopped. Do you understand that it stopped? Something came through a person and it stopped halfway, and I have spent four years on a form about nine fields with a box on it that says *if available*, and there is not one field on it, and there is not one field on any of them, for a thing that arrived in my head at a quarter to five on a Friday and stopped halfway because a woman of thirty-nine at a set of lights did not want to be a road.**"
+
+---
+
+The paying is in her own words and it is on a Monday of the week of forty and it is not in a van.
+
+Marta Selby's round was re-cut on the Monday at about half past six in the morning. The man in the yard is about forty-nine and he is not a villain and he was not unkind and he did the thing in about four seconds.
+
+"**Somebody rang,**" he said. "**A woman. She did not give a name and I did not ask her for one because you do not ask at that end of a yard. She asked for the route and she asked who is good at carrying and she said small and she said careful, and that is about nine stops, and I have got two other vans.**"
+
+Marta Selby said: "**Did she say a name.**"
+
+"**No.**"
+
+"**Then I want you to write down the time and the fact that it was a woman and I do not want the time in a file, I want it in the book in the cab, and I want to be the one who writes it.**"
+
+---
+
+"**I have been on that round for eleven years,**" she said, at about half past seven, on the kerb, with a bag. "**I have got about nine people on it and one of them has been waiting for me on that particular afternoon since the spring. And there is now a woman in this city who knows my name and my round and that I am careful with small things, and she did not do anything wrong, and I am not going to stand in a room and say that somebody took my round, because nobody took it. Somebody used it.**"
+
+"**You are not angry at me.**"
+
+"**I told you the cost in a corridor and I told you a cost that was wrong,**" said Marta Selby. "**I told you a place could be found. What has happened is not that a place was found. What has happened is that about nine of my stops are about a route now, and if I have to be a route then I have to be a route for people who can be found, and I do not want to be that, and I have no idea how to say no to it in about four years, and I am thirty-nine and I am standing on a kerb at half past seven in the morning and I have got a rail pass in my pocket and about four stops and no van.**"
+
+She looked at him.
+
+"**I am not going to do it again. Not for you, not for a district, not for a woman in Crown Terrace with a clipboard. And I am not going to say stop twice, because saying it once was enough and I would rather it had been enough the first time and it was not, and that is on me and I have decided it is on me, and if I ever decide it is on somebody else I will come and tell you and you will not be able to do anything with it.**"
+
+---
+
+*139. Friday of week 39, ten at night in a repair shop in Lattice Ward, and this entry is about a woman of thirty-nine with a bag and eleven years on a round, and about four minutes in a corridor and a yard and a car park and on a service road, and about the six words I got wrong.*
+
+*The yard, and the asking, and the four seconds.* **Nine jobs in date and two that were not, the word at nine and at ten and at eleven, and at about half past two in the afternoon I asked a woman of thirty-nine to carry something for me and she said no for four seconds and then said: say what it is first, and then say what it costs, and if you cannot tell me what it costs then I am not going to be the one who works it out in a van.** And I said I do not know what it costs, and she said then we are not doing it, and I did not say that, and she told me: **you have not said it either, I have known for about eleven years what it costs to be the thing somebody sends a thing through and I have watched two men find out.** I have never done it. There is no procedure for it in any book in my bag and no line on any form in this city, **and the reason there is no line on a form is that the thing requires a person to be willing and willingness is not a field.**
+
+*The two things I said on the back of a van, with the engine off.* **That there is a rack of about four hundred leaflets in a room in Bower Street and about forty-one people on a thing that cannot be ended, and three places four miles apart that could open a route, and no document in this city that can be taken to that rack, and no form anywhere that gets taken to a load. And that what is in the rack is not a fact I can write down but a shape: what forty-one dates that are not leaflet dates look like when you have stood in front of them, and the only way a nurse, a repairer and a courier in three buildings can each recognise their own version of a cupboard in Bower Street is if somebody carries the shape of it between them.** She said: **so it is a thing I would know, not a fact, a thing I would know, like a smell.** And she asked me to say the seven out loud and I said no, **because if I say the seven to a person I have known for four minutes then in about four years there is a document with the seven in it and a name next to it, and I have been watching that exact thing happen to other people for four months.** One thing per heading, bounded, and I do not know that will go through anybody because I have never done it.
+
+*Where I got it wrong, and she corrected it.* **I said the cost was that she would be able to feel it, and she said: that is the mechanism, try again, and that is a thing I had to write on the docket afterwards because it is the thing I would have said in front of a room.** Then she told me the cost and it was not the one she had been asked for: **nobody knows what a carrier is, a relay is somebody you can send a thing through, and the moment you use a person as a relay that person is a place, and a place can be found.** A round that runs Monday to Friday, about nine stops, got because eleven years ago a woman in an office decided she was reliable, **and she was not a villain and she was doing her Friday.** And: **if a district nurse in Crown Terrace can feel a road tonight then next month there is a woman in this city who knows my name and my round and what I am good for, and she will not be a villain about it either, and about nine people on that round wait for me because I am a person and not a place.** She said no, and then said she would say it in a corridor because that is where she does her thinking, and said yes, **and wanted the no and the yes on the same page, because a person who agrees first sounds braver than a person who agrees second.**
+
+*The seven, and the sixth one, and the stopping.* **One thing per heading, out loud, in order, at the places, about four minutes apart, saying the name of the place every time so that if it turned into a location the location would be in a courier's voice and not in mine.** And on the seventh she stopped, before I said it: **no, I can feel where it is going to be.** She said: **the sixth one came out of me as a road, not a shape, a place, and I can feel it going in me and I am about to give it to a woman in Crown Terrace and she is going to keep it.** I said say stop. She said I am saying stop. And she said it, and it stopped, four minutes and about a minute's drive, and it was not a technique, nobody learned anything, the word was not said once, and I was sick behind a wall on a service road for about four minutes and wrote nine words on a docket at half past four: **I do not know if it worked and I will not know for about three weeks.** Nobody watched me and nobody asked me to explain and nothing went into a company's system and no exception got a line in a box marked reason.
+
+*Downstream, in a quarter of five, a woman of thirty-four who had not put it in.* **She said I came off a bag and I came off a road, and that there is a corner in it and a kerb and about four stops and a Thursday, and she has been on the other end of this for eleven years and would know it in a corridor with the lights off. And then the half that matters: **I cannot say where it came from so I can only say what shape it is, and what shape it is is a woman who drives, and that is not enough to use and it is enough to know.** And: **it stopped. Do you understand that it stopped. Something came through a person and stopped halfway because a woman of thirty-nine at a set of lights did not want to be a road.**
+
+*And the paying, on a Monday, in her own words.* **The round was re-cut at half past six by a man of forty-nine who is not a villain and was not unkind and did it in about four seconds: a woman rang, gave no name, asked who is good at carrying, and said small, and said careful, and that is about nine stops and he has got two other vans.** She made him write the time and the fact that it was a woman in the book in the cab, in her own hand, **because she does not want it in a file.** And then on the kerb at half past seven: **nobody took my round. Somebody used it. About nine of my stops are about a route now, and if I have to be a route then I have to be a route for people who can be found, and I do not know how to say no to that in about four years.** And: **I am not going to do it again, not for you, not for a district, not for a woman in Crown Terrace with a clipboard, and I am not going to say stop twice, and if I ever decide it was on somebody else I will come and tell you and you will not be able to do anything with it.** Entry 139. The book is at forty-four lines. About forty-one people are still on a thing that cannot be ended, and I have learned one thing this term and it is not a technique: **the fourth of the seven headings went through a person and came out as a road, and I did not know that when I asked, and I am not going to be able to ask again.**

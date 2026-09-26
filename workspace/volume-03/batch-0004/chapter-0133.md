@@ -1,125 +1,109 @@
-# Chapter 133 — A Word Nobody Asked For
+# Chapter 133 — The Friday Nobody Asked Him Anything
 
-Eleven jobs, nine in date, four not because the district runs its course on a Monday and a Tuesday, and the word came at nine, at ten and at eleven a minute between ten past nine and two o'clock, and it is all of it on the back of a docket, and the docket is in an inside pocket next to a piece of card about two inches by three.
+A Friday is a Friday. There were eleven jobs on this one and nine of them were in date, and he said the eleven parts eleven times, and the word came at nine, at ten, and at eleven a minute between about ten past nine and two o'clock, and the count is on the back of a docket in his own pocket next to a piece of card about two inches by three, which is the only other thing he carries and is not on a docket.
 
-Nobody asked him for the word.
-
-That is the whole of the Friday and it took about three hours to work out and he did not work it out until the eleventh job, and then he went and sat in the car park at a place in Nine Bridges for about twenty minutes with the engine off.
+**The drawer under the bench holds five things and has held five things since the term started. Four of the five are other people's sentences and the fifth is an envelope with nothing written on it.**
 
 ---
 
-Job one was a shopfront shutter in Lattice Ward and the man who had booked it was on the phone the whole time and said *yes* at about four seconds past the word and did not take his hands off the phone.
+The depot is on the far side of the city from his own bench and the rota board is in the corridor by the parts cage, and the Friday list is on the Friday list and not on the Monday list, and there are eleven names on it, and about four of the eleven are not on anybody's rota at all, because a company does not hold a course on a Friday and has not had one for eleven years.
 
-Job two was a frame at a school and a woman of about twenty-six was standing in front of it with a card on the bench beside her, and he said the word, and she said *fine*, and did not look up, and he said the word again because the procedure has two of them and the second one is a confirmation and not a repeat, and she said *yes, fine*, in the way of a person who has said yes fine a lot.
+Wyn Dunleavy is fifty-two and he is a district service manager and he has said *it checked and I cannot do anything about it* four times this term and he has told Marek Senn that he has stopped counting, which was on the Monday, and he said it standing in front of the board rather than in an office, which was new.
 
-The card on the bench was the size of a credit card and she had four printed steps on one side and a line on the back in a hand that got smaller towards the end.
-
----
-
-Job four was the one that did it.
-
-A man of about thirty-one on a roof edge in Crown Terrace, agency, two years, and he had been in a canteen about four weeks ago with a man of forty-one making conversation, and he was not the man of thirty-one with the hand. He had a card in his back pocket and he got it out halfway through and turned it over and looked at the back of it while the word was still going, and then he said:
-
-"**Do I need it.**"
-
-"**You need the second one.**"
-
-"**That is not what I asked.**" He was not being difficult. He had the card in his hand and he was reading the back of it. "**Because on here it says if the word does not come, withdraw and report. And you have got a word.**"
-
-"**Yes.**"
-
-"**So what happens if somebody stops saying it.**" He turned the card round and round. "**Because my lad has one of these and he is on nights and he is sixteen and he has asked me twice what it is for and I have not got an answer and I have been not getting an answer for about a fortnight and I would rather have the answer than not have the card.**"
-
----
-
-"**You keep the card,**" said Marek Senn. "**It is not a permission and it is not an instruction and it does not know your name. If the word does not come on a night and you are on your own, you put the load down and you say so to whoever is in the building, and that is all it has ever meant. That is the line in your hand, the one your lad has, and it is true, and it is the best thing anybody has handed anybody in this city this term.**"
-
-The man of thirty-one looked at him.
-
-"**Then why does it sound like a set of instructions for a job nobody does.**"
-
-"**Because somebody wrote it down that way. It was written on the back of a photocopy by a person who is not a company and not a movement and has never been found, and it got put in a printer's shop in the Quiet Quarter and four hundred and thirty-two of them went out of a mailbox in six weeks into about nine places in one district.**"
-
-"**And it is right.**"
-
-"**It is right in a room with a person in it and it is wrong in a corridor with nobody thirty feet away, and the difference is not in the words.**"
-
----
-
-The man of thirty-one put the card in his pocket.
-
-"**My lad is not going to be told the answer by me,**" he said. "**He is sixteen. I have had about four years of being told things and I am not going to be the one who tells him. He can work it out at twenty like the rest of us.**"
-
-Then he said the thing that went into the docket, and it was not a question and it was not an opinion.
-
-"**You are the third one.**"
-
-"**I am what.**"
-
-"**You are the third person in about six weeks who has come into a job and said a thing about thirty feet. The first was a man at a canteen and he had a hand. The second was a bloke on a session panel and he had a microphone.**" He got on the ladder. "**I do not know what you are and I am not going to find out, and I would like to say that the four correct steps on that card are the same four steps as the company's card, because my lad has got the company's card as well and he has got the two of them in a drawer at home and he has asked me which one he is supposed to use.**"
-
-"**Neither. The one on the card in your hand is the safe one. That is the whole of it and it is four seconds long and I am sorry it is that short.**"
-
----
-
-Six jobs after that, in a workshop in Nine Bridges, a canteen in Ashfields, two stairwells, a shop in Crown Terrace and a lock-up with a man in it who wanted a second opinion and did not want one.
-
-Nobody asked him for the word. Nobody asked him whether it mattered. Nobody asked him to repeat it, or to slow it down, or to say it louder, or to come back on the Tuesday, or to check that the second person had heard it. On the seventh job a woman of about forty said *thanks love* before he had said it, which is a thing people do. On the ninth, a man of about fifty-one said nothing at all, and stood there, and looked at the frame, and that was the whole of his participation.
-
-**About eleven people a week are going to be taught to wait for a man in a lanyard and nobody in eleven rooms asked a man in a lanyard a single question, and both of those were true on the same Friday in the same district, and it took him until the eleventh job to understand that the second one is the good news.**
-
----
-
-He understood it in a car park at twenty past two because of a ring at eleven minutes past one.
-
-A man of thirty-three whose name is not in this book, on a woman's instruction, telephoned to say that he had thought about the thirty feet.
-
-"**I have thought about it,**" he said, "**and I want to say first that I have got nine of them and one is in my kitchen drawer and my wife asked me again on Sunday and I have told her it is on the wall and she has told me it is on the wall, and we have both said it twice now, which is about where we started.**"
+"**There is a thing I have not said to you and I am going to say it at a board and not in an office,**" he said, "**because in an office it is a conversation and at a board it is a fact and I have got nine of you on a Friday and I would rather you all had the same fact.**"
 
 "**Go on.**"
 
-"**I have thought about it and the thirty feet is a person who can hear you.**" He said it the way you say a thing you have worked out on a bus. "**That is all it is. If there is a person within about thirty feet who can hear you say it, then the line is true, because if nothing comes back you put it down and you say so and you are a man who put a load down and said so. And if there is nobody, then the line is telling me to walk away from a thing that would have held, and there is no person in it at all, and it is just a piece of card telling me to be careful.**"
+"**A man of twenty-one came in on Monday and asked me whether his Friday was going to be a Friday next term. Not whether it was safe, not whether the course existed, whether the Friday was going to be a Friday. And I said I did not know, and he said that is all right, and he went back to the cage, and I have been a manager for nineteen years and I have had about nine hundred people ask me whether a thing is safe and not one of them ask me whether the thing is going to be there.**" He put his thumb on the list. "**That is not a safety problem. I would like somebody in this corridor to write down that it is not a safety problem, because I have watched about nine things turn into a safety problem in four months and none of them was one.**"
 
-"**That is right.**"
-
-"**Then here is the part I have not got.**" He was quiet for about four seconds. "**I gave nine of them away and every single one of them I gave to somebody who was on their own. I gave one to a woman who does four nights in a cold flat and she said it was the first thing anybody had given her that year that told her she was allowed to stop. I gave one to a lad in a stairwell on a Sunday. I have got one on a landing behind a fire door and there is one on the wall of a kitchen and the wall of the kitchen is mine and I am on it.**"
-
-"**That is not a failure.**"
-
-"**It is not a failure and it is the whole of the reason I rang, and it took me a fortnight to be able to say it in one go, so I am going to say the rest and then I am going to hang up.**" He took a breath. "**I have been telling nine people that they can stop, and I have not got a person in any of those nine rooms. And the woman on four nights has now got no word either, because her firm has not got one and mine has not got one and she has been using a card with a line on the back to decide whether to go to work, and I gave her that, and I did not know I was doing it.**"
+Nobody wrote it down. There was a bench and a kettle and eleven men and a Friday.
 
 ---
 
-"**What are you going to do.**"
+And then he did the eleven jobs.
 
-"**I am going to take the one off the kitchen wall and I am going to put it in a drawer, and it is going to be in a drawer and not on a wall, and I am going to be the person in my kitchen, and if the thing ever needs saying I will say it to a face, and I have a face.**" He laughed at himself for about a second. "**And I am not giving the other eight back, because eight people have got it in their heads now and taking it off them would be doing the same thing again from the other end.**"
+He waited for it nine or ten times and it did not come. That is the whole of the morning. A man of about forty in a workshop in Nine Bridges asked him whether the card was in date. A woman of thirty-five asked him to sign for a part. Two men on a landing asked him to wait. A man of about fifty in a yard asked him, at about half past eleven, whether the company had put his name on anything, and he said no, and the man said right, and went back to a van.
 
-"**That is the best answer anybody has given me this month and I am not going to pretend otherwise.**"
+**Nobody asked him anything at all about a fifth line. Nobody asked him whether it was safe. Nobody asked him who they should wait for. Nobody said the word.**
 
-"**Do not tell anybody that,**" said the man of thirty-three. "**I have been in about nine places with a card I do not know the maker of and I have not got a name and my wife's brother works at the company that sells the other one and I would like to keep it that way. You have not got my name and I am not going to give you it, and I am telling you that so that you do not spend a fortnight trying.**"
+At about half past twelve he stood in a canteen in a building off the Meridian corridor for eleven minutes with a tray he was not eating off, and he was aware, the whole eleven minutes, of waiting to be asked.
 
-"**You are unnamed on purpose and I have not written it down anywhere.**"
-
-"**Good.**" And then, before he rang off: "**The first one I gave away was to a woman who does four nights and I did not know that was what I was doing either. That is the bit I wanted to say. I have been handing out permission and I did not have any.**"
+He has never in his life had to wait to be asked.
 
 ---
 
-The word was at nine, at ten and at eleven again on jobs ten and eleven, and the docket is in the inside pocket, and next to it is a piece of card about two inches by three that did not come out of that pocket all day, and a docket with a word count on it, and a piece of A4 with five things on it in his own hand from a night about six weeks ago.
+The reason is in a print shop four feet wide on a street in the Quiet Quarter, and it has been in about nine places in one district for six weeks and about four days, and it says: *if the word does not come, withdraw and report.*
 
-At about four o'clock he was in a canteen in Nine Bridges with a bad coffee in front of him and a man of about forty-four in a district fleece two tables away who said, out loud, to nobody, to the man of about thirty-one sitting with him, "**It is not the same thing. I know it is not the same thing.**"
+**About nine people a week have been handed that card and nobody has had to teach them anything. They have worked it out. The word does not come, therefore the line applies, therefore you stop and you tell somebody. That is the correct conclusion and it took a woman of fifty-eight nine minutes on a Friday afternoon in the spring to arrive at it and it is better than anything the programme has ever paid anybody for.**
 
-The man of about thirty-one said, "**You keep saying that and I keep nodding and neither of us has ever seen the other one.**"
+And about eleven people a week are taught the other thing on a Friday, by him, from a card in a plastic sleeve on a lanyard, and the other thing is that the release waits for a person.
+
+**Both of those are the same lesson in the wrong building.** One of them is in a wet bay in the Saltmarket with nine men in it and a man thirty feet away. The other one is in about eleven rooms a week and the man is him, and the man is thirty feet away, and the eleven are being taught that the reason there is a person thirty feet away is that the person is required.
 
 ---
 
-*136. Friday of week 37, half past nine at night in a repair shop in Lattice Ward, and this entry is about a man of thirty-three with nine cards and a drawer, and about a woman of twenty-six who did not look up.*
+He was in a car park off a service road at about half past three with a job sheet in his hand and a person came across four rows of vans to him, which nobody does.
 
-*The Friday, and the eleven jobs, and what did not happen.* Nine in date, four not, eleven parts eleven times, the word at nine, ten and eleven, on a docket in a pocket next to a piece of card about two inches by three that did not come out all day. **Nobody asked me for the word. Not one person in eleven rooms asked me for it, or asked me to repeat it, or asked me to come back on the Tuesday, or asked whether the second person had heard it.** On the seventh a woman of forty said thanks love before I had said it. On the ninth a man of fifty-one said nothing at all and looked at the frame, and that was the whole of him. **About eleven people a week are going to be taught that a release waits for a man in a lanyard, and nobody in eleven rooms asked a man in a lanyard a question, and both of those were true in the same district on the same day, and the second one took me until the eleventh job to see.**
+He is about thirty-three. He works in a building opposite a café in the Quiet Quarter with a launderette in the street. He has given out about nine of them and he is not paid by anybody and he does not know who printed them and there is one in a kitchen drawer with the takeaway menus, and his wife asked him on Sunday why it is in there and he said *it is on the wall* and she said *it is on the wall*.
 
-*The card on a bench in a school.* **A woman of twenty-six and a credit-card-sized card, four printed steps and a line on the back in a hand that got smaller towards the end, and she said fine and did not look up, and the procedure has two words and the second one is a confirmation and not a repeat, and I said it twice and she said yes, fine, in the voice of somebody who has said yes fine a great deal.** A line about her own lad on nights at sixteen and about the answer.
+He is not named in Marek Senn's book on a woman's instruction and he is not named here either, and it is the fifth time he has been in a chapter and it is the first time he has opened his mouth.
 
-*The man of thirty-one on a roof edge, and the question that was the real one.* **Do I need it. He had the card in his hand and he was reading the back of it. If the word does not come on a night and you are on your own, you put the load down and you say so to whoever is in the building, and that is all it has ever meant, and it is the best thing anybody has handed anybody in this city this term.** And then: **then why does it sound like a set of instructions for a job nobody does.** He has the company's card as well and his lad has got the two of them in a drawer at home and has asked which one he is supposed to use. I said neither, and the safe one is the one on the card in your hand, and the four correct steps are the same four steps and I was sorry it was that short. Then: **you are the third one, the third person in about six weeks who has come into a job and said a thing about thirty feet**, and the first had a hand and the second had a microphone, and I am not going to find out who you are.
+"**I have thought about the thirty feet,**" he said.
 
-*The telephone at eleven minutes past one, and a fortnight of thinking about the thirty feet.* **A man of thirty-three, unnamed on a woman's instruction, who has given out nine of them and is not paid and does not know who printed them.** The thirty feet is a person who can hear you. If there is somebody within about thirty feet who can hear you say it, the line is true, because if nothing comes back you put the load down and say so. If there is nobody, the line is telling him to walk away from a thing that would have held, and there is no person in it at all. And then the part he had not got, and he took a fortnight to be able to say in one go: **I gave nine of them away and every one went to somebody who was on their own. A woman on four nights in a cold flat said it was the first thing anybody had given her that year that told her she was allowed to stop. I have been telling nine people that they can stop and I have not got a person in any of those nine rooms, and her firm has not got a word and my firm has not got a word and she has been using a card with a line on the back to decide whether to go to work, and I did not know I was doing that.** He is going to take the one off the kitchen wall into a drawer, because the wall was doing the work the person should do, and he is not giving the other eight back. He told me not to tell anybody, and said he has not got a name and is not going to give me it, and that is why.
+"**Good.**"
 
-*And a canteen at four o'clock with about nine people in it.* A man of about forty-four in a district fleece two tables away, out loud, to a man of about thirty-one: **it is not the same thing, I know it is not the same thing.** And the man of thirty-one: **you keep saying that and I keep nodding and neither of us has ever seen the other one.** Entry 136. The book is at forty-four lines. A committee met yesterday and settled nothing and one number in its minute belongs to a man in a fleece. A district officer wrote *declined* on a line with her name under it and the wall in Bower Street is still a schedule. Nine people in this city have been told by a man with a drawer that they can stop, and there are not one of them who has been told by a person.
+"**I have been in a bay.**"
+
+---
+
+"**I went to the Saltmarket on Wednesday, in my lunch, and the nine men were on and I stood in the wet bay for about four minutes and I did not say anything and nobody asked me what I was doing and a man of about fifty-eight walked past me twice.**"
+
+He put his hands in his pockets and then took one out again.
+
+"**And I have worked out what it is. The thirty feet is not a distance. The thirty feet is a man standing there. And I can have a card in a bag, or I can have a man thirty feet away on a Wednesday lunchtime, and I have worked out that I cannot have both, because if I am standing thirty feet away I am a man standing thirty feet away and I am not a man with a bag, and the moment somebody in that bay is frightened they will ask me, and I will not be able to say the thing you said in the stairwell, and if I cannot say the thing then the card goes back in the bag and the thirty feet goes with it.**"
+
+He said it like a man who had thought about it on a bus and got it largely right.
+
+"**So I have priced it. It is one round, on a Wednesday, once a fortnight, in my own time, and I cannot do it in winter, and if I do it then I have told about nine people in this district that I am a person you stand near, and I have not been paid for any of it and there is no form and there is no way back to being a man with a bag.**"
+
+---
+
+"**That is right,**" said Marek Senn.
+
+"**I did not come here to be told that.**"
+
+"**Then what did you come here for.**"
+
+The man of thirty-three took a folded piece of card out of his pocket and gave it to him. It was a fifth line, and a hand, and the hand was not the hand on the printed four hundred and thirty-two.
+
+"**That was on the counter of the café on Wednesday night,**" he said. "**Not off a man. On the counter, face down, next to the leaflets for the bread, which is where they go when somebody has finished with them and cannot be bothered to take them away, and I have been in that café every weekday morning for about nine days in a row this month and I have seen the same handwriting on about three of them, and I have not got anything else, and I have not been paid, and I do not know anybody's name and I am telling you that so that you know what I am giving you, which is a card off a café table from a person who does not clean up.**"
+
+Marek Senn looked at the fifth line for a while.
+
+*If nobody comes, put it down and say so.*
+
+**Five words. The same five words as the other one and not the same sentence. And a man of fifty-eight wrote that one in the summer because he cannot spell, in a site diary in a hut on the Meridian corridor, and the author of it has never met the author of the one that is a photocopy of a photocopy, and the author of this third one is a man of thirty-three who works in a building opposite a café and who is not going to tell him whose handwriting it is, because he does not know and because a woman of thirty-five told him once that a name is a thing she will not put in a book.**
+
+He put the card in the drawer under the bench. It made six.
+
+---
+
+"**You have given me three things,**" he said. "**A card, a Wednesday, and the price of it. All three of them are worth more than anything I have been given in a fortnight and I am not going to thank you for them, and I want you to hear the reason, and it is the same reason a woman of thirty-four gave me in a corridor two weeks ago, which is that a man with a lanyard thanking a man for a card in a car park is a man with a lanyard who has been thanked in a car park, and in about four years there is a document about that.**"
+
+"**Fine,**" said the man of thirty-three. "**I have got a round.**"
+
+He got in a van and went.
+
+---
+
+*136. Friday of week 37, ten at night in a repair shop in Lattice Ward, and this entry is about a man of thirty-three in a car park off a service road who has thought about the thirty feet and priced it, and is not named in this book, and about eleven men in a corridor who were told a thing and did not write it down.*
+
+*The Friday, and nobody.* **Eleven jobs, nine in date, the eleven parts eleven times, the word at nine and at ten and at eleven, on a docket in my own pocket. And I waited to be asked about nine or ten times between seven and half past three and it did not come once.** A man of about forty asked whether the card was in date. A woman of thirty-five asked me to sign for a part. A man of about fifty in a yard asked whether the company had put my name on anything. **Nobody asked whether it was safe. Nobody asked who they should wait for. Nobody said the word.** And at half past twelve I stood in a canteen off the Meridian corridor for eleven minutes with a tray I was not eating off and I was aware the whole eleven minutes of waiting to be asked, and I have never in my life had to wait to be asked.
+
+*Why nobody asked, and it is the best thing that has happened this term.* **The counterfeit's fifth line says if the word does not come, withdraw and report, and it has been in about nine places in one district for six weeks and about four days, and about nine people a week have been handed it and nobody has had to teach them anything.** The word does not come, therefore the line applies, therefore you stop and you tell somebody. **That is the correct conclusion and a woman of fifty-eight arrived at it in nine minutes on a Friday afternoon in the spring, and it is better than anything the programme has ever paid anybody for.** And about eleven people a week are taught the other thing on a Friday by me, from a card in a sleeve on a lanyard, and the other thing is that the release waits for a person. **Both are the same lesson in the wrong building. One is in a wet bay with nine men and a man thirty feet away. The other is in about eleven rooms and the man is me and I am thirty feet away.**
+
+*The corridor at a board.* **A man of fifty-two stopped counting four times this term and said it at the board and not in an office, on purpose, because at a board it is a fact and in an office it is a conversation.** A man of twenty-one came in on the Monday and asked whether his Friday was going to be a Friday next term, and he did not ask whether it was safe, and Wyn Dunleavy said I did not know and the boy said that is all right and went back to the cage. **Nineteen years and about nine hundred people asking whether a thing is safe and not one of them asking whether the thing is going to be there, and that is not a safety problem, and I would like somebody in that corridor to have written it down and nobody did, because there is a bench and a kettle and eleven men and a Friday.**
+
+*The man in the car park, and what the thirty feet is.* **He came across four rows of vans, which nobody does, and he said he had been in the bay, and that he stood in the Saltmarket wet one for about four minutes on the Wednesday in his lunch and a man of fifty-eight walked past him twice and nobody asked him what he was doing.** And then: **the thirty feet is not a distance, the thirty feet is a man standing there, and I can have a card in a bag or I can have a man thirty feet away on a Wednesday lunchtime, and I cannot have both, because the moment somebody in that bay is frightened they will ask me and I will not be able to say the thing you said in a stairwell, and if I cannot say it the card goes back in the bag and the thirty feet goes with it.** One round, on a Wednesday, once a fortnight, in his own time, not in winter, and no form and no way back to being a man with a bag. **He priced it and he came to tell me he had priced it and not to be told he was right, and I told him he was right, and he said fine, I have got a round.**
+
+*And the card off the café table, which is the third of them and is not a copy of the other two.* **Face down on a counter beside leaflets for a charity that gives away bread, which is where they go when somebody has finished with them and cannot be bothered to take them away, in a café he has been in every weekday morning for about nine days this month, in a hand he has now seen three times.** It says *if nobody comes, put it down and say so.* Five words, the same five words, not the same sentence. **And he told me exactly what he was giving me, which is a card off a café table from a person who does not clean up, unpaid, unnamed, and he is not going to tell me whose hand it is because he does not know and because a woman of thirty-five told him once that a name is a thing she will not put in a book.** The drawer under the bench holds six things now and it held five for four months and four of the five are other people's sentences, **and the master is in a pocket on a chair four feet from where I am sitting and it is going to stay there, and a woman of fifty-eight told me on Monday how to give it away when the moment comes and I have not decided whether I agree with her and I have not got to it.** The café card went in tonight. One of the two fifth lines in this city is a photocopy of a photocopy in a pocket and one of them is a man of fifty-eight who cannot spell in a hut four miles from this bench, and neither of those two men has ever met the other and neither of them is going to. Entry 136. The book is at forty-four lines. A committee met on Wednesday and settled nothing and minuted a third line that nobody noticed, and a man of fifty-eight put a plate on a wall in Bower Street in the same afternoon, and on Friday not one person in this city asked me a single question about any of it.

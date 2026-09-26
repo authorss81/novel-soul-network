@@ -1,143 +1,109 @@
-# Chapter 135 — What The Room Is
+# Chapter 135 — A Person Who Can Say What It Is
 
-The man of fifty-one has been in that building for nine years and he has a key to every door in it except one, and the one he has not got a key to is a cupboard on the first floor that has been locked since before he started, and he asked about it once in his second year and was told it is the gas.
+Talia Venn's clinic is a converted shop unit in Lattice Ward with a folding screen at the back, about nine chairs, a table, a kettle, and a district leaflet on a pinboard that she has never taken down, and she does Thursdays, and he is four miles from his own bench, and they are on a Thursday about nine weeks after a bench in a different month in which neither of them said one word about any of it.
 
-His name is Denby Ault and he is a caretaker and a fitter and he is on the district's schedule for that building, which is a different schedule from the one that has the plate on the wall in it, and he knows that it is a different schedule and he has never once been asked whether it is.
-
-He said four things in a corridor in Bower Street on the Thursday of the week of the thirty-eight and about nine of them were wrong and the other four were not.
+She was on the fourth chair with a man of fifty-one and his leg out in front of him, and there were about nine people in the unit and none of them knew who he was except two of them.
 
 ---
 
-"**That is a bench,**" he said. "**That is all that is in there. It is a bench, it is a box on a shelf, and it has got about four hundred lines in it going back about four years, and it is not a computer and it is not a machine and it is not a room that anybody sits in, and if you have come down here to be told that something has gone wrong with a computer then you have come to the wrong building and I would rather you went now than at six o'clock.**"
+He said the thing out loud at about eleven o'clock, in a corridor outside a converted shop unit, before the kettle, in about nine words, and she had the answer ready before he got to the end of the third one.
 
-"**What do you mean it is not a computer.**"
+"**No,**" said Talia Venn. "**And I am telling you before you ask, and I want it written down that I told you first, because the last four times this happened I let you ask and I was wrong about that twice.**"
 
-"**I mean it is a card in a holder.**" He was not being grand about it. He was a man showing a thing to a fitter. "**It has got a reader under the shelf and a cable that goes down the outside of the wall and down two floors and across a yard, and the cable goes to a box the size of a paperback on the third floor, and I have painted round that box about six times and the man who comes when it stops working is not a man who comes when it stops working.**"
+"**You have not heard the plan.**"
 
-"And what does it do."
-
-"**It holds up the list.**" He said it as though the question had been badly formed. "**Nobody in this building is in it. It is not a monitor and it is not a tracker and it is not a system. It is a list of about forty addresses with a tick beside the ones that somebody has looked at, and the tick is put on by a person with a pen walking round a ward, and the list goes on a shelf.**"
+"**I have heard the plan. You have had it since Tuesday night and you have said about four sentences of it in a corridor in the last nine minutes and one of them was a nurse's and it was a plural, and a plural is the tell, because there is only one nurse in this city who is going to be asked and it is me.**" She did not stop. "**Say the rest of it and then do not argue with me, because if you argue with me in a corridor outside my own clinic then in about four years there is a woman in a corridor refusing a man, and a refusal in a corridor is a thing people repeat, and I did not spend a term and a half being the person who says things out loud so that I can be the person in the story where somebody's partner says no.**"
 
 ---
 
-"**Then what has gone wrong.**"
+"**Go on then,**" he said. "**Tell me why, so that I have got the reason and not just the word.**"
 
-"**Nothing has gone wrong. I want that in whatever you are writing. The list is still on the shelf. The list has been on the shelf every day for four years and it is on the shelf now.**" He looked past Marek Senn at the door. "**What has gone wrong is that eleven ticks came off in nine days, and the woman who draws the ticks comes in on a Monday and a Thursday, and she is not here, and when she comes back on the Monday she is going to draw eleven more ticks because that is what she is for, and about twenty-nine people are going to be put back on a list they came off.**"
+"**Because a door has to be a practice that can be refused, and a refusal has to cost the person refusing it something, and there is nothing about this clinic that can be refused, and that is not a compliment, it is a design fault and it is mine.**" She folded her arms. "**A mobile clinic has a list and a kettle and about nine chairs and a woman of twenty-nine who comes on her own time and a district leaflet on a pinboard I have never taken down. There is no post above me. There is no account. There is no rota. If I put forty-one people's endings through this unit then in about four years there is a document in this city with a resonance nurse's name on it as the way forty-one people got out, and everybody in it will be glad of it, and the document will be true, and the document will be the only sentence anybody has about me.**"
 
-"**Somebody took them off.**"
+"**That is not a small thing to give up in nine seconds.**"
 
-"**A woman of thirty-eight in a clinic in Crown Terrace took one off in four seconds on the Monday of the week of the thirty-six using a card out of a drawer, and she was right, and there is a form with her name in the first box of it, and there are ten more like it and I have read about nine of them in a minute on the district's own circular.**" He stopped. "**And I have known since about the Wednesday, because she rang the caretaker's number because that is the number in the box, and the number in the box is the only number in the whole of this that is a person.**"
-
----
-
-"**You could have said that on the Tuesday.**"
-
-"**I did say it on the Tuesday, to the woman with the diary. On the telephone, at about four in the afternoon, and she wrote it in the book, and I did not hear her write it, and I did not ask her to read it back.**" He was not enjoying this. "**I am a man with a key to every door in this building except one and I have been here nine years and I do not have a job that says anything about what is on a shelf, and the day I start saying it out loud in a corridor is the day I have said it out loud, and then somebody will write it down, and then there will be a piece of paper about a room, and then this building will be a thing that has happened.**"
-
-"**That is a refusal.**"
-
-"**That is a refusal and you did not ask me for it, and I would like that noticed, and I have noticed it myself.**"
+"**It is about nine seconds and it has been nine seconds for two weeks and I have known since the Tuesday of week thirty-five and I have been waiting for you to say the plural.**" She put her hand on the door frame. "**I have got two hundred and six pages in a building in Bower Street of which sixty-one are mine and I have not added a page in a term and a half, and I am not starting in a fortnight because a man with a lanyard is frightened and because I am the person who would be standing in the room when somebody says *you said it could go through you*.**"
 
 ---
 
-He would not give it in writing. That was the whole of the receipt and it took about four seconds.
+Then she said the other half of it, and it is why the whole of Movement IV works.
 
-"**No. I am not writing any of that down and I am not sending it to anybody and I am not putting it on a form, and the reason is that the moment it is on paper it is a document about that room, and there is then a document about that room in a district file with a reference on it, and in about four years somebody reads it and asks which room, and the answer is a first-floor room in a building with about four hundred flats on it, and after that the room is the thing.**" He put his hand on the door frame. "**Right now it is a bench. In about four years it will be an asset, and an asset has an owner, and I have watched a thing in this district go from a bench to an asset in about nine days twice.**"
+"**And here is what the room is, and you have not asked me and I am going to tell you, and I am not being kind, I am being the only person in this building who has been in eleven of them.**"
 
-"**And you have spent it.**"
+She looked past him down the corridor.
 
-"**I have spent it,**" said Denby Ault. "**That is the receipt. I have said out loud in a corridor to a technician from a company that the room is a bench and the list is a card, and there are now about four people in this city who know that, and I am the only one of the four who has been in it every day for nine years, and in about four years the only way to check any of it is to find me, and I have a job and a flat and a mortgage and I am not going to be the man who can be found from a piece of card in a drawer.**"
+"**Room 2-07 is not a room. It is eleven dates and a telephone number. It is a rack of about four hundred leaflets that are not consents, it is a table, it is one chair, it is a plate, and it is a woman of thirty-one with a diary that nobody reads and a telephone that only rings if she is standing next to it.**" She turned round. "**If that room is out then what is out is a number on a piece of card on a wall, and I have been in eleven rooms like that in eleven years and a piece of card on a wall has never once done anything to anybody. Not once. The card is a receipt.**"
 
-Nobody thanked him. He said so himself, at the stairs, without being asked.
+"**Then what has happened.**"
 
----
-
-The district came back on the Thursday with a second document, and it is better than the first one, and it is still not going to work.
-
-It is one page and it is called a **resumption instruction**, and it says: *A person who has been returned to a monitored list by default, and who was not returned by a person on the floor, is to be returned by a person on the floor before the next review. The reason a person was returned may be given and is not to be required. The date, the room and the tick are to be recorded. The name of the person who drew the tick is not a required field.*
-
-Four fields. One of them is a tick. **And it says the right thing, and it says it in the second sentence, and nobody anywhere in this city is going to be able to act on it, because the whole difficulty is that the twenty-nine were taken off by people who were not on the floor and never will be, and the page is asking a person with a pen to put a tick beside a name that the page has just told them they do not have to have.**
+"**What has happened is that a district has spent eleven weeks telling about forty-one people that the number on that plate is the difference between a share that can be ended and a share that cannot,**" said Talia Venn. "**And the plate was wrong before the plate was changed. That is the whole of it. Nobody in that building did anything. A man with a booking came up with a screwdriver and did the wall in four seconds and made a true sentence into a false one, and he will never know, and neither will the office, because a form is not a record of a wall.**"
 
 ---
 
-"**Say what it will say in about four years,**" said Ianthe Roke.
+Roy Amiss is fifty-one and he was in room 2-07 for eleven days in the spring and he is the man whose case is on page four of about four thousand copies of a six-sided handout under a heading about safety, and he has a leaflet on his own table at home that is the only copy of that page anybody has kept on purpose.
 
-She was standing in the corridor outside 2-07 with the page in her hand and she had read it in about a minute and a half.
+He had been in the unit since about half past nine and he had a bag packed and a frame and a stick and a list of three things on the back of his hand in biro.
 
-"**It will say: a monitored list in a first-floor room in Bower Street carried about forty people. Twenty-nine were returned to it on the Thursday of the week of the thirty-eight by a person on the floor. Twenty-nine people were all right. Nobody was hurt. The room was not at fault.**" She turned it over and put it back the right way up. "**And in about four years somebody will read that and work out that nobody was in the room at the time, because the page does not have a field for it and because the twenty-nine were not in the room, they were in their own front rooms and in their own beds, and the only person who was in the room was a bench.**"
+"**You are the one who has been in it,**" he said, before anybody introduced anybody. "**You are the man in the lanyard in about nine hundred leaflets, and you are in my daughter's kitchen drawer and you are in a leaflet on my table, and I am fifty-one and I am going into a building at about half past eleven this morning for a procedure on a leg that has been bad since the spring.**"
 
-"And you."
+"**Yes.**"
 
-"**And me, and a woman of twenty-nine with nine forms and a pen on a string, and about eleven people who are no longer on it and who cannot be found because there is no field for a person.**" She did not raise her voice. She has never once raised her voice. "**And in about four years there is going to be a page in a folder that says twenty-nine people came back onto a list with a person drawing ticks and no person on it, and the person drawing ticks will be about nine people whose names are on no document, and the only person in this city who can be asked is thirty-one and has a diary in a drawer, and I will remember, and I will be right, and whoever reads it will conclude that nobody was there.**"
-
-"**And there will be a woman of thirty-eight who was there,**" said Nkiru Obi, from the desk.
-
-Nobody had said it. It came out of a plastic wallet and a chair and about four years of being twenty-nine.
-
-"**There will be a woman of thirty-eight who was there,**" said Nkiru Obi, "**and about ten more, and one of them is at home with a frame and a stick, and every one of them did the right thing on the day they did it.**"
+"**Then I am going to tell you what that room is, and then you are going to go away, and I have thought about the order of those two things and the order matters.**"
 
 ---
 
-He went out to the Meridian corridor in the afternoon because a foreman of fifty-eight had a diary on a shelf in a hut and he had wanted to read one line of it for about a fortnight and had not asked, and asking is the thing he has been doing wrong for a term and a half.
+"**It is a cupboard with a table in it and a rack of four hundred leaflets and a woman with a diary,**" said Roy Amiss. "**I asked her on my second day what the thread was for and she told me in about nine words what it was and what it was not and when the review was, and I have never forgotten it because nobody has ever told me nine words in a fortnight. And I have been in about nine hospitals in eleven years and it is the only room I have ever been in that came with a date and a telephone number and nothing else, and I have thought about that every night since the spring and I have mostly liked it.**"
 
-Aurel Kosta's yard. A prefab office about ten feet by eight, a standpipe outside it, a kettle, a wall calendar with a company logo on it that is nine months old, and a site diary on a shelf with a spine of tape on it.
+He turned his leg about nine inches.
 
-He is fifty-eight and he has been on that yard for thirty-one years and he cannot spell, and his wife writes the entries he dictates, and there are two lines in the whole of the diary that are not hers.
+"**And I want to say the other half because you are about to go and try to fix it and I would rather you had it now. The week I was in there, a man came round with a clipboard and asked me to say yes on a form about a woman called Corrigan, and I said no, and he said that is fine, and I found out in the summer that the case was on page four of about four thousand leaflets with my employer in a list of things that went right.**"
 
-They are in pencil, and they are in the middle of the summer's pages, and they are the only lines in the book that are not a date and a name and a count.
+Somebody in the unit said his name.
 
-*If nobody answers, put it down and say so.*
-
----
-
-"**Who is that.**"
-
-"**That is my wife's hand and it is my sentence.**" He did not get up. "**It is the third of July, page about forty, and it is between a fuel delivery and a lighting inspection, and I put it in there because there was a lift on the north side of the yard with a man in it in it for about four minutes and nobody came, and I put it down and I said so, and about four people were standing there and about four people can remember it.**"
-
-"**You have never met the person who wrote the one on the card.**"
-
-"**Which card.**"
-
-"**The card in my pocket.**"
-
-He looked at the pocket, and then at the man's face, and did not ask, and Marek Senn told him, in about nine words, what was in it.
+"**That is the whole of what I know how to say about a form, and it took a clipboard and about nine weeks, and I am not going to be in about four thousand more.**" He put the biro hand flat on his knee. "**You are going to want me to stand in a room and say what that room was while somebody writes it down. I am telling you no now so that you have had the no before the ask, which is what the woman with the diary does, and she taught it to me on my second day in about four words: say the thing before you do it.**"
 
 ---
 
-Then Aurel Kosta did the thing that has happened in this case about nine times in six weeks, and he did it before he was asked, and he was right, and it cost him the only thing he had left to give.
+The district's answer came back on the Monday of week thirty-six in twenty-five hours and it is one page and it is the best document anybody has produced in this case in six weeks, and it was on the counter of that unit folded in half under a kettle-weight because somebody had put it there to keep it flat.
 
-"**No,**" he said. "**I am not going to say whose hand that is, and I am not going to say who printed it, and I am not going to say what I think of it, and I have not got a name and I am not going to be given one, and I am going to tell you why so that you can write it down and stop asking me twice.**"
+*Withdrawal of a narrow share. A narrow share may be ended at the request of the person it concerns, or at the request of the person holding it. A person holding a narrow share who no longer wishes to hold it does not require a reason and does not require a form. Where a share is ended other than at the request of the person it concerns, the attending service is to record the date and the time, and the reason if one is offered, and is not to require one.*
 
-"**I did not ask you.**"
+Four fields. One of them a tick. And no box anywhere on the page for the person who removed it.
 
-"**You have not asked me yet and you are going to, and that is what people do in this yard, and I am telling you now.**" He put his hand flat on the diary. "**A fifth line with a name on it is a technique. A technique with a name on it is the thing that gets pointed at. I have been on this yard for thirty-one years and I have watched about nine things get pointed at, and every one of them was in a clipboard, and every one of the clipboards had a name on it, and the names are all in a building in Crown Terrace and I have got a mortgage on a flat in Nine Bridges and I am sixty-one when I retire.**"
-
-"**That is the argument of the case and you have never heard anybody make it.**"
-
-"**I have heard it four times this term**," said Aurel Kosta, "**in a canteen, on a session, and in a repair shop, and I have said the same thing to about four different people in a yard and in a hut and on a standpipe and none of them have ever been in the same room and that is not an accident, that is how it works, and if you put us in a room then in about four years there is a document with nine of us in it and about nine of us cannot get work.**"
+"**That is the best page anybody in this city has written in six weeks,**" said Talia Venn, "**and it is addressed to an attending service, and the attending service is a room, and the room is on a shelf.**"
 
 ---
 
-Nobody put him in a room. He had said so himself, twice, and he had said it in a hut with a kettle on, and there was a page in a district's own minute three streets away with a group's name in a box in it, and neither of them knew the other existed.
+"**What do you want to do,**" said Marek Senn.
 
-He asked one question at the standpipe and it was the question he has been carrying since the third of July.
+"**I want you to go and ask a district nurse of thirty-four who is not disciplined and a lead repairer of forty-five with eleven men in a building and a courier, and I want all three of them to say no to you individually, and I want it on their own paper and not on a piece of paper, and I want nobody's name in a column anywhere.**" She picked the district page up off the counter. "**And I want you to go and ask the woman of thirty-four first, and I want you to go to the repairer second, and I want you to do it in that order and not in a corridor.**
 
-"**What is it waiting for.**"
+"**Why that order.**"
 
-"**Nobody.**"
-
-"**Aye,**" said Aurel Kosta. "**That is the first answer I have had in about eleven weeks and I did not get it from the people who want me to have it, and I am going to put it in the diary tonight in my wife's hand and I am not going to put your name next to it, and if you tell me not to I will put it in anyway.**"
+"**Because the nurse will say no and mean it and the repairer will say nothing and then open one, and if you do the repairer first you will go in there with the nurse's no still in your pocket and you will hear it as agreement, and you have been doing that since the spring.**"
 
 ---
 
-*138. Thursday of week 38, half past ten at night in a repair shop in Lattice Ward, and this entry is about a caretaker of fifty-one with a key to every door except one, and about a foreman of fifty-eight on a yard for thirty-one years with a line in a site diary in his wife's hand.*
+And then the two of them were alone in the corridor for about four minutes, and neither of them said one word about any of it.
 
-*What the room is, said in a corridor by the only person who has been in it every day for nine years.* **A bench, a box on a shelf, about four hundred lines going back about four years, a reader under the shelf, a cable down the outside of the wall and across a yard to a box the size of a paperback on the third floor.** Not a computer and not a machine and not a room anybody sits in. **It holds up the list. Nobody in that building is in it. It is a list of about forty addresses with a tick beside the ones somebody has looked at, and the tick is put on by a person with a pen walking round a ward, and the list goes on a shelf.** And then the thing nobody had asked him and the thing that is the whole chapter: **nothing has gone wrong. The list is on the shelf now and it was on the shelf every day for four years. What has gone wrong is that eleven ticks came off in nine days, the woman who draws the ticks comes in on a Monday and a Thursday, and she is not here, and when she comes back she is going to draw eleven more ticks because that is what she is for, and about twenty-nine people are going to be put back on a list they came off.**
+He told her that he had a piece of card about two inches by three in an inside pocket on a chair four miles from where they were standing, that it is a photocopy of a photocopy, that a woman of fifty-eight in the Quiet Quarter had kept it in a drawer for six weeks in case somebody came, and that he had given a district officer the street of that shop on Monday and not the name and not the payer and not the card, and that the card was staying in the pocket.
 
-*The refusal with a receipt, given before the request.* **He will not put any of it in writing, and the reason is that the moment it is on paper it is a document about that room, and in about four years somebody reads it and asks which room, and the answer is a first-floor room in a building with about four hundred flats on it, and after that the room is the thing. Right now it is a bench. In about four years it will be an asset, and an asset has an owner, and he has watched a thing in this district go from a bench to an asset in about nine days, twice.** And then the receipt, named by him: **I have said out loud in a corridor to a technician from a company that the room is a bench and the list is a card, and there are now about four people in this city who know that, and I am the only one of the four who has been in it every day for nine years, and in about four years the only way to check any of it is to find me, and I have a job and a flat and a mortgage and I am not going to be the man who can be found from a piece of card in a drawer.** Nobody thanked him. He said so himself, at the stairs, without being asked.
+She told him that a leaflet with his job on it and no name on it had come into that unit in the week of the thirty-fourth, and that it was on a pinboard nine feet from where they were standing, and that she had read it, and that she had not mentioned it, and that she was mentioning it now because it was the only thing she had and the week had stopped being a normal week.
 
-*The second-best document, which is right, and which is worse.* **A resumption instruction. A person returned to a monitored list by default is to be returned by a person on the floor before the next review. The reason may be given and is not to be required. Date, room, tick. The name of the person who drew the tick is not a required field.** Four fields, one of them a tick, and the second sentence is the right sentence in this city, and it cannot be acted on, because the twenty-nine were taken off by people who were not on the floor and never will be. And what it will say in about four years: a monitored list carried about forty people, twenty-nine were returned by a person on the floor, twenty-nine people were all right, nobody was hurt, **the room was not at fault** — and then somebody works out that nobody was in the room, because the twenty-nine were in their own front rooms and their own beds and the only thing in the room was a bench. And the only person in this city who can be asked is thirty-one with a diary in a drawer, and she will remember and she will be right, and whoever reads it will conclude that nobody was there. And there will be a woman of thirty-eight who was there, and about ten more, and one of them is at home with a frame and a stick, and every one of them did the right thing on the day they did it, and that was said by a woman of twenty-nine out of a plastic wallet and nobody had asked her.
+He said: "**You should have said something in the spring.**"
 
-*The hut on the Meridian corridor, and the thirteenth refusal in about four weeks.* **A prefab office ten feet by eight, a standpipe, a kettle, a wall calendar with a company logo nine months old, and a site diary with tape on the spine. Thirty-one years on that yard and he cannot spell and his wife writes the entries he dictates, and there are two lines in the whole book that are not hers, in pencil, between a fuel delivery and a lighting inspection on the third of July: if nobody answers, put it down and say so.** He said it was his sentence and not hers, and it is the third fifth line in this city and it is the same shape as the two others. And then, before he was asked: **no, I am not going to say whose hand that is, and I am not going to say who printed it, and I am not going to say what I think of it, and I have not got a name and I am not going to be given one. A fifth line with a name on it is a technique. A technique with a name on it is the thing that gets pointed at. I have been on this yard for thirty-one years and I have watched about nine things get pointed at and every one of them was in a clipboard and every one of the clipboards had a name on it.** And then the line that is the case: **I have said the same thing to about four different people in a yard and a hut and on a standpipe and none of them have ever been in the same room, and that is not an accident, that is how it works, and if you put us in a room then in about four years there is a document with nine of us in it and about nine of us cannot get work.** Nobody put him in a room. There is a page in a district's own minute with a group's name in a box in it and neither of them knows the other exists.
+"**I should have said something in the spring,**" said Talia Venn, "**and so should a woman of fifty-eight in the Quiet Quarter, and so should a man of thirty-one at Civic Spine 7 with a braid in his pocket, and none of us did, and that is what four months of this is, and it is not going to be fixed in nine seconds in a corridor outside my own clinic on a Thursday morning, and you have got about nine minutes because that man's leg is going to be looked at at about eleven.**"
 
-*And the question, asked once, at a standpipe.* **What is it waiting for. Nobody.** And: that is the first answer I have had in about eleven weeks and I did not get it from the people who want me to have it, and I am going to put it in the diary tonight in my wife's hand and I am not going to put your name next to it, and if you tell me not to I will put it in anyway. Entry 138. The book is at forty-four lines and is opened on the Wednesday of the week of the forty. A woman of thirty-four wrote *declined* on a line with her name under it and got a plate with it. A woman of thirty-one is thirty-one and has a diary and a resumption instruction with four fields on it. A man of fifty-one has spent the only thing he had. A man of fifty-eight has a fifth line in a diary and a kettle and a daughter of about thirty who writes his sentences down.
+She went back in.
+
+---
+
+*138. Thursday of week 38, half past ten at night in a repair shop in Lattice Ward, and this entry is about a woman of twenty-four who said no to a plural before it was finished, and about a man of fifty-one with a frame and a stick and a list of three things on the back of his hand in biro, and about a page folded in half under a kettle-weight that is the best document in six weeks and does not work.*
+
+*Nine seconds, in a corridor, before the kettle.* **I got as far as the plural and she said no and said she had heard the plan and that I have had it since Tuesday night and that a plural is the tell, because there is only one nurse in this city who is going to be asked and it is her.** And then the reason, in nine seconds, and it is nine seconds because she has had it since the Tuesday of week thirty-five and has been waiting for me to say it: **a door has to be a practice that can be refused, and a refusal has to cost the person refusing it something, and there is nothing about this clinic that can be refused, and that is not a compliment, it is a design fault and it is mine.** A mobile clinic has a list and a kettle and about nine chairs and a district leaflet on a pinboard she has never taken down, and no post, no account, no rota. **If forty-one people's endings go through that unit then in about four years there is a document with a resonance nurse's name on it as the way forty-one people got out, and the document will be true, and it will be the only sentence anybody has about her, and she has got two hundred and six pages in Bower Street of which sixty-one are hers and has not added a page in a term and a half.** The plural cost her nine seconds and the two hundred and six pages cost her a term and a half and she said both in a corridor outside her own clinic and then said that if I argue with her in a corridor then in about four years there is a woman in a corridor refusing a man, and she did not spend a term and a half being the person who says things out loud to be the person in the story where somebody's partner says no.
+
+*What the room is, from the only person in that corridor who has been in eleven of them.* **Room 2-07 is not a room. It is eleven dates and a telephone number, a rack of about four hundred leaflets that are not consents, a table, one chair, a plate, and a woman of thirty-one with a diary nobody reads and a telephone that only rings if she is standing next to it. And if that room is out then what is out is a number on a piece of card on a wall, and in eleven years a piece of card on a wall has never done anything to anybody, and the card is a receipt.** And then the turn: **what has happened is that a district has spent eleven weeks telling about forty-one people that the number on that plate is the difference between a share that can be ended and a share that cannot, and the plate was wrong before the plate was changed, and nobody in that building did anything, and a man with a booking came up with a screwdriver and did the wall in four seconds and made a true sentence into a false one, and he will never know, and a form is not a record of a wall.**
+
+*The man of fifty-one, who said no before the ask.* **He is on page four of about four thousand leaflets under a heading about safety and he has kept the only copy anybody has kept on purpose on his own table at home, and he told me who I am before anybody introduced me, and then said he would tell me what the room is and then said I was to go away, and that the order matters.** The room is a cupboard with a table in it and a woman with a diary, and he asked her on his second day and she gave him nine words and what it was not and when the review was, and it is the only room he has been in in about nine hospitals in eleven years that came with a date and a telephone number and nothing else, and he has mostly liked it. And then the other half, given to me in advance on purpose: **in the week he was in there a man came round with a clipboard and asked him to say yes on a form about a woman called Corrigan, and he said no, and in the summer the case was on page four with his employer in a list of things that went right, and that is the whole of what he knows how to say about a form, and he is not going to be in about four thousand more.** And the no, before the ask, which he got off a woman with a diary on his second day in about four words: say the thing before you do it.
+
+*And the page under the kettle-weight, which is right and does not work.* **One page, four fields, one of them a tick, no box for the person who removed a share, and the best sentence anybody in this city has written in six weeks, and it is addressed to an attending service, and the attending service is a room, and the room is on a shelf.** And the order she gave me, in about nine words, and it is the only instruction anybody in this case has given me that I am going to follow exactly: **ask the nurse first and the repairer second, and do it in that order and not in a corridor, because the nurse will say no and mean it and the repairer will say nothing and then open one, and if I do the repairer first I will go in there with the nurse's no still in my pocket and I will hear it as agreement.** Entry 138. The book is at forty-four lines. A man of fifty-one went into a building at about half past eleven this morning with a list of three things on the back of his hand and a leaflet on his own table and the thread still on his side of a wall, and about forty-one people are still on a link that a man of thirty-four with a screen cannot confirm, and I have told a woman of twenty-four where a piece of card is and she has told me about a pinboard, and neither of us said one word about either of those two things.

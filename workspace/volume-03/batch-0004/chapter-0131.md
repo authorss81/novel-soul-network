@@ -1,191 +1,131 @@
-# Chapter 131 — Outstanding
+# Chapter 131 — The Boy On The Till
 
-The telephone went at eleven minutes past ten on the Monday morning, in a bay at the far end of the depot, and the woman on the other end gave her name before he gave his.
+The week the committee meets is the week Rosalind Toomes comes to Lattice Ward, and she says so on the telephone on the Monday morning at twenty to twelve, and she says it the way she said her name four weeks ago, which is first.
 
-"Rosalind Toomes. District practice assurance, Bower Street and Crown Terrace." She had a room in it, and the room was not the one she had told him about on the Friday a fortnight ago, which was the Saltmarket, and he noticed that and did not ask. "I have the handback. Eleven items, one side of A4, and the fourth box on the A4 says market office, and I have had four days to try to fill that box in and I have not managed it, and I am going to tell you what I am going to do and then you are going to tell me what you are going to do."
-
-"Go on."
-
-"**I am going to ask you for an itemised list and not for the eleven names. There is a difference and about nine people in this building do not know what it is.**"
+"I am not telephoning," she said. "**I have done the telephoning. There is a referral that goes to a committee on Wednesday and it has nothing in it, and I would rather it had something in it that a person said out loud than something in it that I filled in at half past eleven on a Monday.**"
 
 ---
 
-There were three questions in it and he had known there would be three since the Friday, and Fenna Rudd had known there would be three since about the Wednesday, and he had gone through them four times on a docket that already had a word count on it.
+The market office in the Saltmarket opens at four in the morning and closes at half past five, and a district practice assurance officer of thirty-four came into it at four o'clock on the Monday of the thirty-seventh week with a handbag and a coat over her arm and stood in the doorway while nine people went past her with boxes on shoulders.
 
-He answered the first two in about nine seconds.
-
-"**Four printed steps and a fifth line in a hand that got smaller towards the end. Four correct steps, and no version and no company anywhere on it. One of the eleven is a copy of a copy, paler along one edge, and it is a photocopy of a photocopy of something about the size of a postage stamp, and that is the only one of the eleven that I can put a description of in a file without a person in it.**"
-
-"And the third question."
-
-"**I am not going to answer the third question on a telephone.**"
-
----
-
-The third question was: *where was it printed.*
-
-She let four seconds go by, and then she said, "**All right. I am going to tell you what the third question is worth, and then you are going to tell me where I am going to make it.**"
-
-"**It is worth a file, and the file is worth a name, and the name is worth a person in a building who is fifty-eight.**"
-
-"That is an answer to a question I have not asked you yet."
-
-"**It is the answer to the one you were about to ask, and you were about to ask it in a corridor in a district office, and if you ask it there then the file gets a location and the location gets a shop and the shop gets a woman, and I have been in that shop and she has been in that shop for nineteen years and she has a boy on the till.**"
-
-"**Then where am I going to make it.**"
-
-"**Wherever you make it, it is not in a form, and it is not in an office, and I am not going to say it to a machine.**"
-
----
-
-She came at ten past ten that night.
-
-That is not a thing anybody from a district office does and there is no instruction that says they may or may not, and she said so on the step, before the shutter, in about eleven words, because she is the sort of officer who says things where they can be heard.
-
-"I am here on my own time and I have not booked a room and there is no minute of this and I want both of those said out loud now while my coat is still on."
-
-"**Both are said.**
-
-"And I have brought the file. It is one piece of paper with three lines on it and two of the lines are mine and one of them is a tick, and I am going to read you the tick because you are the only person I have ever met who has never once asked me to take a tick back."
-
----
-
-The tick said: *third item — outstanding.*
-
-"There are three items on the referral and I wrote them at half past ten on Friday night, and the third one is the one you have in your pocket, and I wrote *outstanding* because I could not think of the word for the thing that has happened, and then at about seven this morning I found the word and it is *declined*.*"
-
-"**Who declined.**"
-
-"**That is the question and it is why I am standing in a repair shop at ten past ten at night.**" She put the paper on the bench under the lamp, and squared it, and did not take her hand off it. "**You can say the shop. You can say who paid. Or you can give me the card. Those are the three and all three of them are true answers and I have known that since Friday and I have not slept particularly well and I would like it over with, and I would like it over with in a room and not on a form, and that is why I am here.**"
-
----
-
-He said the first one first, because it was the cheapest to refuse and the hardest to forget.
-
-"**I know the shop. It is four feet wide on a street in the Quiet Quarter with four printers on it and three of them have the same word twice on the sign, and it has been in the same four feet since before I was at college, and the woman who runs it printed four hundred and thirty-two of them in six weeks and two hundred on the first run and two hundred and thirty-two on the second because the first lot went in about eleven days.**"
-
-Toomes did not write anything down. She had a pen in her hand and she kept it in her hand.
-
-"**And I am not going to say her name, and I have not got a way of making you not need it, and if you have a power to compel it then you should use it and I would write it down.**"
-
-"**I have not got a power to compel anything.**"
-
-"**Then that is the end of that line and I have known it was since Friday.**"
-
----
-
-"The payer. **Eleven payments, eleven pounds, a hundred and forty-one out of a slot in a mailbox four streets away, on a Monday, every Monday, for six weeks and about four days. That is what I know and that is all I know and the slot does not want a name and the account is not hers and the person is not her.**"
-
-"**You are describing a person who cannot pay forty pounds at once.**"
-
-"**I am describing a person who paid eleven pounds eleven times instead of forty pounds once, and if that name is in your file then the name and the four hundred and thirty-two are the same thing to whoever opens it, and the woman who refused to give me that name has been right for six weeks and I have not once tried to make her wrong.**"
-
----
-
-"And the third."
-
-He took his hand out of the inside pocket of the coat that was on the back of the chair, and did not put anything on the bench.
-
-"**It is about two inches by three. It is a photocopy of a photocopy. It has got the fifth line on the back in the hand that got smaller towards the end, and it is the only copy of the master in this city, and the other copy of the master is in a drawer in that shop and belongs to a woman who told me to take it off her counter and not to bring it back into that building.**"
-
-"And will you give it to me."
+Fenna Rudd put the lid back on the box and said, before she was asked:
 
 "**No.**"
 
-"**Then say the next part.**"
+"I have not asked you for anything."
 
-"**And I am not going to say *I cannot* and I am not going to say *not now* and I am not going to hide it, and I want you to write down the reason and then I want you to say the reason back to me, because I have read the reason in about nine other people's files and I have never once heard a person say it in a room.**"
+"**You have come into my office in the fourth hour of the morning and you are a district officer and I have been the requirement since the Wednesday of week thirty-four, and there are two boxes in this room with a district thing on them and I have said no to both of them on two different Fridays, and I am saying it now so that we do not waste the fish.**"
 
-He looked at the piece of card where it was not.
+Rosalind Toomes put the handbag down on the counter and said: "**Then I will wait until you have finished, and I will say my piece in about nine words, and you can say no to it.**"
 
-"**A fifth line with a name on it is a technique. And a technique with a name on it is the original one. That is not my line, it is hers, and she said it in her shop and she has not met me since and she does not know I have it. I have been carrying it about a fortnight and I have said it out loud in about four rooms and every time I say it a woman of fifty-eight gets nearer to a file, and this week I am going to say it once more and then I am going to stop saying it, because in about four years there will be a document in this city with a print shop's name at the bottom of it and a description of a plate, and both of those are on the same page, and the plate is a wall in Bower Street.**"
+She said it in about nine words and Fenna Rudd listened with her hand on the lid.
 
----
+Then she said the thing that is this chapter.
 
-Toomes picked the paper up off the bench, and read the two lines that were hers, and then she read the tick out loud, which she had not been going to do.
-
-"**Third item. Declined. Not compelled, not withheld, not pending, not subject to review. Declined, on the record, by a person in a room, at ten past ten on a Monday, and the person is the person asking.**"
-
-"**That is going to cost you.**"
-
-"**I know exactly what it is going to cost me and I would like to say it out loud so that I have said it.**" She put the paper down and squared it again. "**I write a line and my name goes on it. In about four weeks somebody reads the line and asks me why I did not take it off a clerk who was standing in front of me with her hands on the counter, and there is no answer to that that does not put a name in a file, and I am going to say no in writing and be right about it and be the only officer in that office who has said no about a fifth line this year.**"
-
-"Then the wall."
-
-"**Then the wall stays as it is and the schedule stands and the room field says what it says.**" She said it without any weight at all, which was the worst way to say it. "**And there are eleven open narrow shares in that room four months past their review date, and one of them is a man of fifty-one who is at home with a frame and a stick and a leaflet he put on his own table, and he is not going to hear about this from me, and I am not going to ring him, because the district does not ring.**"
+"**I am not here for the eleven and I am not here for the sheet and you have never given me either and I have never wanted either. I am here because you told my office on the Tuesday of week thirty-six that one of the eleven was a copy of a sheet rather than a card, and I have spent a week with that sentence.**" She turned the handbag so that it was not facing anybody. "**And I have worked out that in about four years there is going to be a file with a print shop's name at the bottom of it, and the file is going to have got there because a woman told the truth to a stranger, and I have spent a week deciding whether I am going to be the stranger who writes it or whether somebody in this room is.**"
 
 ---
 
-Fenna Rudd had not been there for any of it. She came in at twenty to eleven, in her own coat, with a plastic wallet, and closed the door behind her with her heel, and stood there.
+Marek Senn was in that office at ten past four on the Monday and he was not holding a job sheet, and there is no form anywhere in this city that has a box for what he was doing there.
 
-"**I have been on the step for about four minutes**," she said. "**I want to say the thing I have come to say and then I want to go, because I have got a bus and the market opens at four.**"
+He said the three answers out loud because she had asked for them to be said out loud, and all three of them are true.
 
-"**Say it.**"
+"**Name the shop,**" he said. "That is true and I have got the street, the six weeks and about four days, the hundred and forty-one pounds, eleven payments, a mailbox four streets away, and a drawer with a master in it, and a woman on the till is nineteen. If I give you the shop then in about four years there is a file with a printer's name on it and everything I have said in about nine rooms this month is a man with a lanyard pointing at a shop in the Quiet Quarter."
 
-"**You did not need me for that and you knew it and I knew it, and I have been standing on that step for four minutes working out whether a market clerk is allowed to say the sentence a district officer has just written down, and I have decided that I am, and I am going to say it once, and then you can both put it in a file or not, and I am not going to be here next week.**"
+"**Name the payer.**" He put his hand flat on the counter, which is a thing he does. "That is also true, and I have not got it, and I have been asked for it by a better person than me and refused correctly, and the reason is that a person who pays eleven pounds eleven times is a person whose name is not going in a file. If I give you the payer then the payer and four hundred and thirty-two cards are the same thing to whoever opens the folder."
 
-"**Go on.**"
-
-"**I did not put those eleven cards in that box because anybody asked me to. I put them in a box because the box was there and it was mine, and then a woman in a district office rang me and asked me a good question and I gave her a good answer, and it has taken me eleven days to work out that a good answer from a person in charge of the middle of something is the most expensive thing anybody can hand a district office for free.**" She did not take the wallet out. "**And the box says *holding officer: market office*, and in about four years somebody will ask me who the holding officer was, and it will be me, and I will be a name at the bottom of a piece of paper, and I would like it to be on the record that I would have said it anyway.**"
-
-Toomes said, "**Thank you.**"
-
-"**Do not thank me,**" said Fenna Rudd. "**I am not a fact. I am the cost of your paragraph and you have just written me down as the cost of your paragraph, and that is fair, and I have been a cost to somebody since the Wednesday of the week of the thirty-four, and the thing I would like is that it is written as a cost and not as a cause.**"
+"**Produce the master.**" He did not touch the pocket. "That is the only one of the three that is about a piece of paper and it is the only one of the three that would be finished by Friday."
 
 ---
 
-She went at five to eleven and the shop was quiet for about four minutes.
+"And which one," said Rosalind Toomes.
 
-Then Marek Senn said, out loud, to a room with nobody in it, the thing he had decided on a Friday in a car park and had not said in nine rooms:
+"**That is not mine,**" said Marek Senn. "**You have spent a week on it and I have had a piece of card in a pocket for eleven days and a woman in a print shop told me to take it off her counter, and if I decide which one it is then a form has decided it and the whole of this case is that a form has decided it four times already.**"
 
-"**I am not going to say two figures in a corridor.**"
+Fenna Rudd had not moved her hand off the lid.
 
-And then he did not go to Bower Street at four in the afternoon, because the district had told him eleven weeks and eleven weeks was this week, and he went.
+"**Then who decides,**" she said.
 
----
+He looked at the two of them for four seconds.
 
-Room **2-07** is on a first-floor landing in a building in Bower Street and the plate beside its door says **2-14**, in a typeface that is not the building's, and it has said that since a Wednesday in the week of the thirty-two, and it came up in four seconds where it used to take eleven.
-
-Three of the four fixings have about eleven years of oxide on them. The fourth has a bright edge.
-
-There is a clean rectangle in the dust two inches wider than the plate, and the dust is from a summer that has been over for a while, and the rectangle has been there since the Wednesday, and the schedule that covers it has a room field in it that says 2-14, and the room is 2-07, and a man could come in about eleven weeks.
-
-Eleven weeks is this week. It is Monday of the thirty-seventh and nobody has come.
-
-Taped inside the door at eye height, on A4, is a printed slip with a room number in it and a slot, and a line at the bottom in a smaller type that says the visit will be carried out on the day shown, and the day shown is a day that has not happened yet, and the slip has a corner lifted at the top right where somebody has lifted it to look underneath it and put it back.
+"**A person, in a room, out loud, and it has to be somebody who is going to be in a file about it afterwards and not me.**"
 
 ---
 
-There is a desk in that corridor and a woman at it.
+That was decided at about half past four in a market office, and it took about nine minutes, and the person who decided it was a woman of thirty-one who had been the requirement for three weeks and had already put *market office* in a box three times.
 
-She is twenty-nine and she has nine forms in a plastic wallet and a pen on a string and she has been at that desk for about four years, and the fourth field on all nine of those forms is not a name.
+The answer was the shop.
 
-"**Room,**" she said, before he had said anything. "**It wants a room and a bed. Not a name. I have been putting the room in for four years and the room is not the thing anybody wants and it is the only thing I am allowed to put in.**"
+"**The street, and the six weeks, and not the payer,**" said Fenna Rudd. "**And here is my half and it is not free. If the street goes in a file then in about four years there is a woman of fifty-eight who has run four feet of that street for nineteen years in it, and she is not frightened and she will not be, and that is not the part. The part is the boy.**"
 
-"**You are not going to ask me who I am.**"
+Somebody at the back said what boy.
 
-"**No. I have been at this desk since about eleven and you have been standing at that wall for about four minutes, and there are two of you now who have stood at that wall since the spring, and one of you put a card on my desk in a week when I was not here and I found it in the drawer, and it had four steps on it and a line on the back.**"
-
-"**I was not here.**"
-
-"**I did not say you were.**" She turned the wallet over and did not open it. "**Room two oh seven has about forty people attached to it through that room and about nine of them are in the ward upstairs and the other thirty-one are on the street outside it, and the district says there is nothing on the link, and I have nine forms and none of them has got a room number for any of them, because a room number is not a person and there is no field for a person on any of the nine, and I have been trying to write somebody's name into a bed box since the Wednesday of the week of the thirty-four and I cannot do it and it is not allowed.**"
-
-"**What is allowed.**"
-
-"**The room, the bed, the date, and a tick.**" She put the pen down on the wallet. "**I am not complaining about it. I am telling you because you have got your hand on that plate like it is going to come off, and it is not going to come off, and it has a schedule, and about four days ago somebody came up and looked at it and wrote something on a clipboard and did not take it off and did not change it, and I watched him do it from this desk and I did not ask him what he was writing because he had a lanyard and I have a string.**"
+"**The boy on the till. He is nineteen. He has been on that till for about four months. He has never seen a card go through that machine in his life because I do the machine, and in about four years there is a file with an address on it and a woman of fifty-eight's name on it and a boy of nineteen who is in the room the address is in, and he did not write the line and he did not know in the spring what a fifth line was, and I am not going to be the woman who puts his name next to it.**" She took her hand off the lid. "**So say the street and not his name, and I will not stop you, and I want it written down that I did not stop you and that I said the price out loud first, because that is the only part of this I am ever going to get back.**"
 
 ---
 
-*134. Monday of week 37, half past eleven at night in a repair shop in Lattice Ward, and this entry is about a woman of thirty-four in a district office who came on her own time and left with a line in a file that is hers, and about a market clerk of thirty-one who would not be thanked.*
+He told her on the Monday evening, in a shop four feet wide on a street in the Quiet Quarter, at about ten past six, with a boy of nineteen on the till who was let out at half past five and who was not there, which she had arranged and did not say she had arranged.
 
-*The telephone at eleven minutes past ten, and three questions behind the one.* **An itemised list and not the eleven names, and there are about nine people in that building who do not know the difference, and she said so before she asked me for anything.** Four printed steps, a fifth line in a hand that got smaller towards the end, and one of the eleven that is a copy of a copy, paler along one edge, and it is a photocopy of a photocopy of something about the size of a postage stamp. And the third question, which is where it was printed, which I did not answer on a telephone, and the reason I did not is that a location in a file becomes a shop in a file and a shop in a file becomes a woman, and she has a boy on the till.
+Sunniva Bellhouse had a brown envelope with a **W** on it in biro on the counter and she did not open it.
 
-*And the decision, and who made it, and where.* **She came at ten past ten at night, on her own time, with no room booked and no minute, and said both of those out loud on the step before the shutter, and she is the sort of officer who says a thing where it can be heard.** Three items on a referral and she wrote *outstanding* on Friday night and found the word on Sunday morning and it is *declined*. All three answers are true. Name the shop: I know it, four feet wide, four printers on the street, three of them with the same word twice on the sign, nineteen years, four hundred and thirty-two in six weeks. Name the payer: a slot in a mailbox four streets away, eleven pounds a Monday, a hundred and forty-one, and a person who could not pay forty pounds at once, and if that name is in the file then the name and the four hundred and thirty-two are one thing to whoever opens it. Produce the master: it is in my coat and it is the only copy in this city and the other one is in a drawer in that shop.
+"**Say the whole thing,**" she said, "**and say it in the order you are going to say it in, and do not be kind about it.**"
 
-*And the reason, said out loud, in a room, for the first time.* **A fifth line with a name on it is a technique, and a technique with a name on it is the original one. It is not my sentence. It is hers, from her shop, and she does not know I have said it and she is never going to know.** I said it in four rooms in a fortnight and every time I said it a woman of fifty-eight got nearer to a file, and I am going to say it once more this week and then stop, because in about four years there is a document in this city with a print shop's name at the bottom of it and a description of a plate, and both are on the same page, and the plate is a wall in Bower Street.
+"**I have given a district practice assurance officer the street,**" said Marek Senn. "**Today, at about half past four, in a market office, with a market clerk in the room. I have not given her the payer and I have not given her your name and I have not produced the card, and what I have given her is a street, six weeks, about four days, a hundred and forty-one pounds, eleven payments, and a drawer.**"
 
-*And what it cost, and who paid.* **She read the tick out loud in my shop: declined. Not compelled, not withheld, not pending, not subject to review. Declined, on the record, by a person in a room, at ten past ten on a Monday, and the person is the person asking.** Her name goes on that line, and in about four weeks somebody asks her why she did not take it off a clerk standing in front of her with her hands on the counter, and there is no answer to that that does not put a name in a file, and she has said no in writing and is the only officer in that office who has said no about a fifth line this year. **And the wall stays, and the schedule stands, and the room field says 2-14, and there are eleven open narrow shares in that room four months past review, and one of them is a man of fifty-one at home with a frame and a stick and a leaflet he put on his own table, and the district does not ring.** The cost is on the page and it is not mine and I did not get to choose it and I chose anyway, and that is the first time in this case I have chosen something that put a person in front of it.
+"**A drawer.**"
 
-*And the clerk, on the step, and twenty minutes later in the room.* **Fenna Rudd, thirty-one, in her own coat, a plastic wallet she never opened, and four minutes on a step working out whether a market clerk is allowed to say the sentence a district officer has just written down.** She said: I did not put those eleven cards in that box because anybody asked me to. I put them in a box because the box was there and it was mine, and then somebody rang me and asked me a good question and I gave her a good answer, and it has taken me eleven days to work out that a good answer from a person in charge of the middle of something is the most expensive thing anybody can hand a district office for free. And: **I am not a fact. I am the cost of your paragraph, and you have written me down as the cost of your paragraph, and that is fair, and write it as a cost and not as a cause.** She was not thanked, because she asked not to be, and Toomes said thank you and was told not to.
+"**I have told her there is a master in a drawer in a shop on that street and I have not told her whose drawer and I have not told her what is written on it.**"
 
-*And the corridor in Bower Street at four in the afternoon.* **2-07, and the plate says 2-14 in a typeface that is not the building's. Three fixings with about eleven years of oxide and one with a bright edge. A clean rectangle in the dust two inches wider than the plate. A printed slip taped inside the door with a room number and a slot and a day that has not happened, with a corner lifted at the top right where somebody has looked underneath it.** Eleven weeks is this week and nobody came. A woman of twenty-nine at a desk in that corridor with nine forms in a plastic wallet and a pen on a string, and the fourth field on all nine is not a name: it wants a room and a bed. **Room 2-07 has about forty people attached to it through that room, about nine of them in the ward upstairs and the other thirty-one on the street outside it, and the district says there is nothing on the link, and there is no field for a person on any of the nine.** About four days ago a man came up with a clipboard and wrote something and did not take the plate down and did not change it, and she watched him from the desk and did not ask, because he had a lanyard and she has a string. Entry 134. The book is at forty-four lines and is not opened before the Wednesday of the week of the forty. A committee meets tomorrow. A man of fifty-eight is at home with a frame and a stick and has not been rung, and I have bought a plate with a sentence of mine.
+"**Right,**" said Sunniva Bellhouse. "**Then here is what that costs and I am going to say it in one go and then I am going to put the kettle on.**"
+
+She did not put the kettle on.
+
+"**Nineteen years I have had four feet of that street. Nineteen years I have had a sign with my name on it in a typeface I paid for. Nineteen years a district has sent a woman round twice about my bins and I have given her tea both times and there is not a file on me in this city and there has never been a file on me and that is not because I am careful, it is because there has never been anything to put in one.**" She put two fingers on the counter. "**And now there is, and it is going to have an address on it, and that is the shop and not me, and I can live with the shop. What I cannot live with is the boy.**"
+
+---
+
+"**He is nineteen and he has been on that till about four months and he has never run the machine and I have never let him run the machine, and the only reason a person would ever say his name is that a file wants a contact, and a file wants a contact because a file is about a place and a place needs a person, and I have been the person in that place for nineteen years and I have got away with it because nobody has ever needed a second name in it.**"
+
+She stopped and looked at the door.
+
+"**So here is what I want and it is the only thing I am going to ask anybody for this term. If a file comes with my shop's address in it, the boy is not in it. I do not care what the file says about the drawer. I do not care what it says about the machine. I care about a boy of nineteen.**"
+
+"**I cannot promise you that.**"
+
+"**No,**" she said. "**You cannot, and I have known that since about half past four yesterday afternoon and I asked you anyway because I am a woman who runs a shop and not a lawyer, and the asking has cost me about a fortnight of the only sleep I have had since the spring, and I would do it again in a shop four feet wide and I would like that written down as well.**"
+
+Then she said the thing that is the whole of Chapter 131.
+
+"**You are not going to hand me the card, and I have not asked you for it, and I want you to hear the reason, because I have worked it out since the Friday and I have not said it to a soul. The card is safe in a drawer in a shop. The card in a pocket is the worst of both, and it is the worst of both because a pocket is on a person, and a person can be in a room. Somebody will ask you for it in a room, and if you have got it you will have to say a thing, and if you have not got it you will have to say a different thing, and the second one is cheaper and it is also a lie about me.**" She squared the brown envelope. "**So keep it. And when the moment comes, do not give it to a district, and do not give it to me. Give it to a person in a room, in a hand, with no reference number, and let about nine people watch you hand it over. That is the only version of giving it that does not make it a document about you.**"
+
+---
+
+The third thing that happened in that week was at ten past two in the afternoon on the Wednesday, and it took about four minutes, and nobody in the building knew it had happened.
+
+Room 2-07 is a former store cupboard on the first floor of a building in Bower Street with the shelving brackets still in it, one chair, a table, a rack of about four hundred consent leaflets, and a plate on the wall that says **2-14** in a typeface that is not the building's.
+
+A man of about thirty came up at ten past two with a booking, and the booking carries a job and not a name.
+
+He did it in four seconds where it used to take eleven, and he put up a bigger plate.
+
+The new one is the right size for the wall and it is in the building's typeface, and it says **2-14**, and the room is 2-07, and the man had been gone for about nine minutes, and the three fixings that had eleven years of oxide in them are not the fixings that are on the wall now.
+
+Nobody in that building knew. Ianthe Roke was on a review at the far end of the street and did not get a telephone call, because the district's answer about a plate is that the plate is on a schedule, the schedule has a room field, a form is not a record of a wall, and somebody could come in about eleven weeks.
+
+**They came in about eleven weeks, and they wrote the same number.**
+
+---
+
+*134. Monday of week 37, ten at night in a repair shop in Lattice Ward, and this entry is about a district practice assurance officer of thirty-four who said her name first, and about a woman of fifty-eight with four feet of shop and a boy of nineteen on her till.*
+
+*Why she came instead of telephoning.* **A referral goes to a committee on the Wednesday and it has nothing in it, and she would rather it had a thing a person said out loud in it than something she filled in at half past eleven on a Monday morning.** She came into a market office at four o'clock in the morning, into a room that opens at four and closes at half past five, and stood in the doorway while nine people went past with boxes on shoulders, and Fenna Rudd said *no* before she was asked, because she is the requirement and there are two boxes in that room with a district thing on them and she has said no to both on two Fridays. Then she said the piece in nine words: **I am not here for the eleven and I am not here for the sheet, I am here because you told my office on the Tuesday of week thirty-six that one of the eleven was a copy of a sheet rather than a card, and in about four years there is going to be a file with a print shop's name at the bottom of it, and the file is going to have got there because a woman told the truth to a stranger, and I have spent a week deciding whether I am the stranger who writes it or whether somebody in this room is.**
+
+*The three answers, all true, none of them free, and none of them chosen by a form.* **Name the shop** — the street, six weeks and about four days, a hundred and forty-one pounds, eleven payments, a mailbox four streets away, a drawer, and a boy of nineteen on the till, and the cost is that a man with a lanyard becomes a man with a lanyard who points at a shop. **Name the payer** — refused, twice, correctly, and the reason is that a person who cannot pay forty pounds at once is a person whose name does not go in a file, and the payer and four hundred and thirty-two cards would then be the same thing to whoever opens the folder. **Produce the master** — the only one of the three that is about a piece of paper and the only one of the three that could be finished by Friday, and he said it out loud and did not touch the pocket. And then: **that is not mine. I have had a piece of card in a pocket for eleven days and a woman told me to take it off her counter, and if I decide which one it is then a form has decided it, and the whole of this case is that a form has decided it four times already.**
+
+*Who decided it, in a room, out loud.* **A woman of thirty-one who is the requirement and has been since the Wednesday of week thirty-four, in her own office, at about half past four, in about nine minutes.** The answer was the street and not the payer. And she said the price out loud before she gave it, which is the only part of this anybody is going to get back: **if the street goes in a file then in about four years there is a woman of fifty-eight in it, and she is not frightened and that is not the part. The part is the boy on the till, who is nineteen, who has been on it about four months, who has never run the machine, and who in about four years is in the room the address is in, and I am not going to be the woman who puts his name next to it.**
+
+*What it cost the woman of fifty-eight.* **She made him say it in one go and not be kind about it, and then she said it back in one go.** Nineteen years, a sign she paid for, a district woman round twice about her bins and tea both times, and no file on her in this city, and not because she is careful. **Now there is one, and it is going to have an address on it, and the address is the shop and not her, and she can live with the shop.** What she cannot live with is the boy, and what she asked for is the only thing she has asked anybody for this term: **if a file comes with my shop's address in it, the boy is not in it, I do not care what the file says about the drawer, I care about a boy of nineteen.** He said he cannot promise that. She said no, I know, I asked anyway because I am a woman who runs a shop and not a lawyer, and the asking has cost her about a fortnight of the only sleep she has had since the spring.
+
+*And the thing she told him about the pocket, which she had not said to a soul.* **The card is safe in a drawer in a shop. The card in a pocket is the worst of both, because a pocket is on a person, and a person can be in a room.** Somebody will ask him for it in a room; if he has got it he will have to say a thing, and if he has not got it he will have to say a different thing, and the second is cheaper and is also a lie about her. So keep it, and when the moment comes do not give it to a district and do not give it to her: **give it to a person in a room, in a hand, with no reference number, and let about nine people watch you hand it over, because that is the only version of giving it that does not make it a document about you.**
+
+*And the third thing in that week, in four minutes, with nobody watching.* **A man of about thirty came up at ten past two on the Wednesday with a booking, and the booking carries a job and not a name, and he did the wall in four seconds and put up a bigger plate.** The new one is the right size for the wall and in the building's typeface and it says 2-14, and the room is 2-07, and the three fixings with eleven years of oxide in them are not the fixings that are on the wall now. Nobody in that building knew, because the district's answer about a plate is that the plate is on a schedule and a form is not a record of a wall. **They came in about eleven weeks and they wrote the same number.** The card is in a pocket on a chair in this room, and the drawer under the bench still holds five things, four of them other people's sentences, and a committee meets in two days and I have got nothing for it. Entry 134. The book is at forty-four lines and will not be opened before the Wednesday of the week of the forty, and I have given a district officer a street.
