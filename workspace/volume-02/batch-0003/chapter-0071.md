@@ -16,7 +16,7 @@ The line did not go. There was a sound of a man moving a chair, and then nothing
 
 "No. You will not do that." A breath. "Listen to what I am about to do, because I have thought about it since Friday afternoon and I want you to have it in the order I have got it.
 
-"You are not being disciplined. Your wage is not affected and nobody at that depot has been told anything, because I have not told anybody anything. The clause is not being waived and I am not going to waive it, and if I did wave it I would be the man who wrote a clause he can wave, and I have never done that and I am not starting in the eighth month of a bad year."
+"You are not being disciplined. Your wage is not affected and nobody at that depot has been told anything, because I have not told anybody anything. The clause is not being waived and I am not going to waive it, and if I did wave it I would be the man who wrote a clause he can wave, and I have never done that and I am not starting now, in a bad year."
 
 "Then I would like to know the cost, because you have not given me one and you gave me the price of the rota in a shop in week eighteen before I signed."
 
@@ -34,7 +34,7 @@ The extractor came on. It was a Friday and it was on a timer and the timer does 
 
 "Now the part you are not going to like," said Oren Vey. "There is a course-exception record in our system, and it has got four fields, and one of them says reason, and I have to complete it, and I am going to ask you to write it. Not me. You.
 
-"If I write it, it is a manager's note and it will read like a manager's note, and in about two years somebody will take a view of a technician on a rota. If you write it, it is the only true sentence about this in the company, and it goes into a system in this building with a date on it and your handwriting on it, and I am not going to stand here and tell you that is nothing, because the last time you put a hand to a page on somebody else's wall it was a boy's pen and a box that had been empty for thirty-one years, and you have been carrying that for a week."
+"If I write it, it is a manager's note and it will read like a manager's note, and in about two years somebody will take a view of a technician on a rota. If you write it, it is the only true sentence about this in the company, and it goes into a system in this building with a date on it and your handwriting on it, and I am not going to stand here and tell you that is nothing, because the last time you put a hand to a page on somebody else's wall it was a boy's pen and a box that had been empty for thirty-one years, and you have been carrying that for nine days."
 
 He heard Vey open something. A keyboard, and then a mouse, and then nothing.
 
