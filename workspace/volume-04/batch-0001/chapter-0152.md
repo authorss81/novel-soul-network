@@ -56,7 +56,7 @@ Eleven weeks of the second floor of the second building, and the room on the end
 
 He got a pen out and wrote eleven lines of 2-14 down the margin of the docket.
 
-She watched him do it, and at the ninth line she said: "**That one is wrong.**"
+She watched him do it, and at the ninth of them she said: "**That one is wrong.**"
 
 "They are all the same."
 
