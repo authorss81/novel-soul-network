@@ -78,7 +78,7 @@ Rafi Pell looked at the card in his sleeve for the length of a breath.
 
 "You think you're wrong."
 
-"I think I am right and I think I have got about four per cent of it, and the four per cent is not a reason to stand up in a room with thirty people in it," said Marek Senn. "That's the honest position and I have never had it before and I did not expect to have it at a quarter to one on a Saturday."
+"I think I am right and I think I have got about four per cent of it, and the four per cent is not a reason to stand up in a room with forty people in it," said Marek Senn. "That's the honest position and I have never had it before and I did not expect to have it at a quarter to one on a Saturday."
 
 "Four per cent," said Rafi Pell. "That's a figure."
 

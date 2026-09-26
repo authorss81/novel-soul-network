@@ -4,7 +4,7 @@ The common room was on the first floor of the Ninth Street block, which was one 
 
 Marek Senn got to the door at about ten past nine and did not go in.
 
-He stood in the corridor for about forty minutes. There was a fire door at the end of it with a wired-glass panel and a bench, and he sat on the bench, and he could hear a girl talking, and at about two minutes to ten she stopped, and there was a silence of about ten seconds, and then somebody said *all right* and a chair went over, and eleven people came out into the corridor and went off in two directions.
+He stood in the corridor for about forty minutes. There was a fire door at the end of it with a wired-glass panel and a bench, and he sat on the bench, and he could hear a girl talking, and at about ten minutes to ten she stopped, and there was a silence of about ten seconds, and then somebody said *all right* and a chair went over, and eleven people came out into the corridor and went off in two directions.
 
 Asha Reed came out last, with her notebook, and she saw him on the bench from about six feet away and came over and sat down on the other end of it.
 
@@ -48,11 +48,11 @@ Asha Reed stood in the corridor and did not move for a second and a half.
 
 He said nothing, which was the right thing.
 
-"Good," said Asha Reed. "Now go to the Exchange, because it is ten past ten, the meeting is ten to eleven, you are forty minutes late, and I am not going to tell you what I think about that either." She went off down the corridor. "And I will tell you one thing free, since you have been on that bench the whole time and have not asked me a single question. A man of twenty-three put a sheet through the box at the post office on Weaver Street on the Tuesday and got a card back, and he has not told you, and he is going to tell you in about nine minutes in front of twelve people, and you are going to be late for that as well."
+"Good," said Asha Reed. "Now go to the Exchange, because it is ten past ten, the meeting is ten to eleven, you are ten minutes late, and I am not going to tell you what I think about that either." She went off down the corridor. "And I will tell you one thing free, since you have been on that bench the whole time and have not asked me a single question. A man of twenty-three put a sheet through the box at the post office on Weaver Street on the Tuesday and got a card back, and he has not told you, and he is going to tell you in about nine minutes in front of twelve people, and you are going to be late for that as well."
 
 ---
 
-Marek Senn got to the Saltmarket at ten past ten on the Wednesday morning, and the door of the back room was shut, and the tin was on the table behind it, and the meeting had started at ten and went to eleven, and there were about a dozen people in there, and he was outside.
+Marek Senn got to the Saltmarket at about ten past ten on the Wednesday morning, and the door of the back room was shut, and the tin was on the table behind it, and the meeting had started at ten and went to eleven, and there were about a dozen people in there, and he was outside.
 
 He stood in the corridor by the kitchen for about forty minutes and heard all of it through a door, which is a thing he had done twice before in a term in worse rooms, and he did not go in, because the first thing Bea Nunn had said to him in the twelfth week was that anybody could put a card in the tin and be in the room, and he had not put one in, and a man who is not in a room does not open the door to it.
 
@@ -86,7 +86,7 @@ Nobody said anything for a while, and then somebody said *that's the whole recor
 
 > *Right. I am saying it.*
 
-"Nobody take that card out of the book," said Bea Nunn, about nine seconds later, to a room that had heard her say it once already on the Thursday.
+"Nobody take that card out of the book," said Bea Nunn, about nine seconds later, to a room that had heard her say it once already on the Tuesday morning, in this room, with nobody from a college in it.
 
 **Five.** Reuben Daw's line, which he had written himself in block capitals on the Tuesday morning at about ten past eight and signed at the end of, and which Bea Nunn had written up as line thirty-eight with his own words and his own signature and her own name in the fourth column. She read it out in full — every line of it, all four hundred words — because she does not read the short ones in full either, and because reading it out is the opposite of taking it out.
 

@@ -70,7 +70,7 @@ Marek Senn sat in a chair on the first floor of a building on Cutter Street and 
 
 ---
 
-He wrote three lines in the load book that night at the bench with the door open, and three lines and no headings, because he had three things and three things do not need four headings.
+He wrote four lines in the load book that night at the bench with the door open, and four lines and no headings, because he had four things and four things do not need four headings.
 
 *56. Tuesday of week 15. I asked what a failed condition does, after fourteen weeks of writing down that I had not asked. It is not a punishment. Four of the six go on the Wednesday of week sixteen and two stay. The ledger stops being open to a department and a trust, the list comes off the wall, and the four hundred and eighty pounds stops at the end of the term either way.*
 
@@ -80,7 +80,7 @@ He wrote three lines in the load book that night at the bench with the door open
 
 *And the thing I did not see until I had shut the book, which is that six went with three. Six was the review. In person, at the end of the term, before a board that is not the panel, and I attend and I am examined. That is the only thing in this city anybody ever put in writing that was going to happen to me, and it was on a sheet in a folder in Cutter Street on a Thursday, and it has just lost the man who wrote it, and nobody in this city is going to convene that room now. I have got about fourteen weeks to find out whether a man walks into a room nobody has called. I am not going to write down what I hope the answer is.*
 
-He read the three back and shut the book and put it on the shelf, and left it, and did not add anything to it that week.
+He read the four back and shut the book and put it on the shelf, and left it, and did not add anything to it that week.
 
 ---
 

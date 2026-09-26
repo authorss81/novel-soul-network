@@ -80,7 +80,9 @@ Marek Senn did not say anything for a moment.
 
 "No," he said. "You have just offered me a way of being paid for somebody else's harm, and I have been looking for one of those all term, and I want you to know that it took me about four seconds to see it and about nine to be sure, and that the nine were because you said it out loud instead of putting it in a clause."
 
-"Then we are both doing the same job," said Oren Vey. "Now. The money. I am not going to pretend to know the reasons, and one of them is probably that you have not had a wage since the start of the term, and I am not going to say that one out loud twice."
+"I am not going to argue with that, and I am not going to stand here and pretend that letting you refuse it is a kindness. I said it out loud on purpose. If I had put it in a clause you would have signed it in this chair with this pen, because you have signed four sides tonight that you have not finished reading, and I would have had a boy behind a counter in a building a district office does not own for nothing, and I would have written it in the file as a secondment and signed it, and it would have been true on the form and false in the building. **A thing said out loud can be refused. A thing in a clause gets agreed to by men who are tired.** I could have kept that this morning. I did not keep it."
+
+"Now. The money. I am not going to pretend to know the reasons, and one of them is probably that you have not had a wage since the start of the term, and I am not going to say that one out loud twice."
 
 "And the fifth clause, which I have put in myself and which is not negotiable, is that you take the company's own 4-19 course, both modules, in your first month. It is two days, a Monday and a Tuesday, and it is the course the district has run for eleven years and it is the one on page nine of that pack your courier brought in on Wednesday. **To an employee it is on the clock and there is no fee, because it is a condition of the job. To anybody else it is four hundred and forty pounds for the two days, which is what the district charges and what I have no power to change.** And at the end of it you get a card with your name typed on it, and the card does not expire."
 
@@ -178,7 +180,7 @@ He wrote four lines at the bench at about ten past ten that night with the extra
 
 *How a person stops it.* I said no to a job and he took it as a fortnight rather than a refusal, and I said the reason out loud, and the reason was true, and it was also the best answer available to give a man whose cost is my delay, and I would like somebody to write down that I gave that answer knowing what it was.*
 
-*How many people have been put through it.* Three. Two of them are men who come into this shop and a third of them is a man of forty-one with four hundred courses behind him who has never once asked what fills in a box on a post.*
+*How many people have been put through it.* Three. Two of them are men who come into this shop and the third is a man of forty-one who came in on the Tuesday with four sides of paper and four hundred courses behind him, and he has never once asked why a line is on a sheet and not on the card.*
 
 *Do not know.* Whether I am going to say yes on the Friday of week eighteen. And I have worked out something about that and I am going to put it here because I have nobody to say it to. **If I say yes in week eighteen it will be because a man came into this shop on the Tuesday and did three things well, and not because I have worked out what the job is. And the two of those are not the same, and the second one is the only one of them I could defend to a board at the end of the term, and I have not done the second one, and I have a fortnight.*
 

@@ -1,5 +1,7 @@
 # Batch 0001 — Volume 02, Chapters 51–60 ("The Blank Field")
 
+> **SUPERSEDED INSTRUCTION DOCUMENT — READ `SUMMARY.md` INSTEAD.** This file is the record of what the writer was asked, kept unedited so the batch can be audited against it. **Three of its figures did not survive the two repair passes and must not be copied forward: it says the figure for the run is *thirteen* weeks (it is *fourteen* throughout Chapters 51–60, and the Volume 01 thirteen is the length of the term); it says *Ch 51 three lines and no headings* (the entry is four blocks, two of them numbered, and the fourth is written after he has shut the book); and it puts the four-and-two condition split and the week-30 review in a form the delivered chapters do not use.** The authoritative record is `SUMMARY.md`, `state/continuity.md` and `state/current.md`.
+
 This is the first batch of Volume 02. Write **Chapters 51 through 60** as complete finished scenes, in order. Movement I: **The Blank Field**, out of term, weeks 15–16. **Nothing in this batch resolves. The batch's job is to take eleven live clocks, four refusals, one blank field, one offer of a job, and one boy's silence, and move every one of them by a dated step, and to end on the sentence the volume is built out of.**
 
 ## Read first
