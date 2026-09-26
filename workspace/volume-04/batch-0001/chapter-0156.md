@@ -6,7 +6,7 @@ Four minutes an item, and what goes in is the caller's own sentence in the first
 
 The fortieth line is three years old. Line forty-four has a hole in it where a woman of sixty-eight in bay four should have been.
 
-There is a fifth chair against the wall. It has been empty since the spring and nobody has moved it.
+There is a fifth chair against the wall with nobody in it, and it has been empty since the spring, and nobody in this room moved it either, and two of them looked at it while the tin was being put down on the table.
 
 ---
 

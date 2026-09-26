@@ -1,10 +1,10 @@
 # Chapter 153 — Nine In Date
 
-A Friday is a Friday. There were eleven jobs on this one and nine of them were in date, and he said the eleven parts eleven times, and the word came at nine, at ten and at eleven a minute between half past nine and two o'clock, and the count is on the back of a docket in the inside pocket of a jacket over a chair in a repair shop in Lattice Ward.
+A Friday is a Friday. Eleven jobs on this one and nine of them in date, the eleven parts said eleven times, and the word at nine, at ten and at eleven a minute between half past nine and two o'clock. The count is on the back of a docket, in a jacket on a chair in the shop in Lattice Ward, and there is a piece of card about two inches by three in the same pocket which is not on the docket.
 
-Nobody asked him about a fifth line. Nobody asked him whether it was safe. Nobody asked him who they should be waiting for. Nobody said the word.
+Nobody asked him where a release was going to come from. Nobody asked him whether it was safe, or who a room ought to be standing by, or whether the card in their pocket was the right one. Nobody used the word.
 
-He had waited for it about eleven times by a quarter past one and it had not come.
+He waited for it about eleven times by a quarter past one and it did not come, and he had been on grade three since eight in the morning.
 
 ---
 
