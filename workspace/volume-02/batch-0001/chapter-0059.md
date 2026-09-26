@@ -36,13 +36,13 @@ He looked up.
 
 "Say it."
 
-"I have spent fourteen weeks refusing to make things exist, and I have been offered a job inside the company that made the thing, and I have not worked out why those two things are compatible, and if anybody in this case is in a position to notice that I am going to be the fourth thing in a different building, it is going to be the person who said the sentence to nine people on the first Wednesday of every month for a year without knowing how to fix it."
+"I have spent a term refusing to make things exist, and I have been offered a job inside the company that made the thing, and I have not worked out why those two things are compatible, and if anybody in this case is in a position to notice that I am going to be the fourth thing in a different building, it is going to be the person who said the sentence to nine people on the first Wednesday of every month for a year without knowing how to fix it."
 
 Asha Reed stood in the corridor and did not move for a second and a half.
 
 "Right," she said. "That's two things. One. You did not come in." She held up a finger. "You did not come in, and you have sat on that bench for forty minutes, and in about a year there is going to be a version of this where people say that a third-year sat outside a first-year common room, and I am going to have to correct it every time, and it is going to be tedious, and I want you to know that I noticed and that I am not going to be the one who says it out loud for you."
 
-"Marek—"
+"Marek," he started.
 
 "Two," said Asha Reed. "You are going to say *if anybody in this case is in a position to notice*, and you are going to keep saying it, and it is going to make me the fourth thing in a building that I have never been inside, and I have watched a woman of thirty-three say exactly that sentence to you at a bench in this city on the Monday of week fifteen." She put the notebook under her arm. "Do not do that. I am nineteen and I have got a room on the first Wednesday of the month and I have said out loud that I cannot fix it, and that is the whole of what I have got, and if you make it into a post in a company then in six months somebody in a depot will be able to come and find me, and they will find me because I will have been named somewhere by somebody who was trying to help."
 
@@ -54,9 +54,9 @@ He said nothing, which was the right thing.
 
 Marek Senn got to the Saltmarket at ten past ten on the Wednesday morning, and the door of the back room was shut, and the tin was on the table behind it, and the meeting had started at ten and went to eleven, and there were about a dozen people in there, and he was outside.
 
-He stood in the corridor by the kitchen for fifty minutes and heard all of it through a door, which is a thing he had done twice before in a term in worse rooms, and he did not go in, because the first thing Bea Nunn had said to him in the twelfth week was that anybody could put a card in the tin and be in the room, and he had not put one in, and a man who is not in a room does not open the door to it.
+He stood in the corridor by the kitchen for about forty minutes and heard all of it through a door, which is a thing he had done twice before in a term in worse rooms, and he did not go in, because the first thing Bea Nunn had said to him in the twelfth week was that anybody could put a card in the tin and be in the room, and he had not put one in, and a man who is not in a room does not open the door to it.
 
-**One.** Petar Vance, in his own hand, dated the Friday: his district has nine crews on the road and he wants the Saturday refresher to run again on a different day, because the Saturday is a working day for most of the men who come and he cannot get them there in daylight in a term, and he does not care which company runs it.
+**One.** Petar Vance, in his own hand, dated the Friday of week fifteen, and it is his second line in that book and the count is at thirty-nine: his district has nine crews on the road and he wants the Saturday refresher to run again on a different day, because the Saturday is a working day for most of the men who come and he cannot get them there in daylight in a term, and he does not care which company runs it.
 
 **Two.** A card from a woman in the Cordage about a boiler. It took two minutes and it was a boiler.
 
@@ -66,7 +66,7 @@ Nobody argued about it for two minutes, which was a new thing, and then Bea Nunn
 
 Through the door it sounded like this:
 
-"That room's shut, and it was shut in a car park by a woman who had the whole of the argument ready before anybody asked her a question, and I was in the lay-by. And I'll tell you the thing she asked, because it's the only question anybody's asked about a room in four years and it's the question I'd have asked. Not *who's responsible for it*. She asked **who would take the name out for them.** And every one of us in this room has a version of an answer, and Ines's is that a college is not a room, and Ines is right, and Ines's version is that a college should stop asking for rooms, and that's not an answer to the question she asked, that's an answer to a different one, and if somebody writes that down and files it, then in four years we've won and lost the same afternoon."
+"That room's shut, and it was shut in a lay-by by a woman who had the whole of the argument ready before anybody asked her a question, and I heard about it on the Saturday night, and I have not asked her one thing about it and I am not going to. And I'll tell you the thing she asked, because it's the only question anybody's asked about a room in four years and it's the question I'd have asked. Not *who's responsible for it*. She asked **who would take the name out for them.** And every one of us in this room has a version of an answer, and Ines's is that a college is not a room, and Ines is right, and Ines's version is that a college should stop asking for rooms, and that's not an answer to the question she asked, that's an answer to a different one, and if somebody writes that down and files it, then in four years we've won and lost the same afternoon."
 
 **Four.** Ruslan Petric. It was short and it had one question on it and he read it out himself, standing up, and he would not sit down afterwards.
 
@@ -86,9 +86,9 @@ Nobody said anything for a while, and then somebody said *that's the whole recor
 
 > *Right. I am saying it.*
 
-"Nobody take that card out of the book," said Bea Nunn, about nine seconds later, to a room that had heard her say it once already on the Monday.
+"Nobody take that card out of the book," said Bea Nunn, about nine seconds later, to a room that had heard her say it once already on the Thursday.
 
-**Five.** Reuben Daw's line, which he had written himself in block capitals on the Thursday morning at about ten past eight and signed at the end of, and which Bea Nunn had written up as line thirty-eight with his own words and his own signature and her own name in the fourth column. She read it out in full — every line of it, all four hundred words — because she does not read the short ones in full either, and because reading it out is the opposite of taking it out.
+**Five.** Reuben Daw's line, which he had written himself in block capitals on the Tuesday morning at about ten past eight and signed at the end of, and which Bea Nunn had written up as line thirty-eight with his own words and his own signature and her own name in the fourth column. She read it out in full — every line of it, all four hundred words — because she does not read the short ones in full either, and because reading it out is the opposite of taking it out.
 
 It took four minutes and eleven seconds, and the room did very well, and afterwards nobody asked a question about it, and that was the correct number of questions.
 
@@ -116,7 +116,7 @@ He did not argue about it, and she did not look up, and he went back down the co
 
 He wrote the page that night at the bench with the door open and the extractor on.
 
-*61. Wednesday of week 16. I sat on a bench in a corridor for forty minutes this morning and did not go into a room, and then I stood in a corridor outside another room for fifty minutes and did not go into that one either, and there is a rule on a wall in Lattice Ward with my name in the credit of it, and the rule is a rule for anybody who is named in a book, and I have not been in either room and I got nothing taken out and I said nothing and I could not have done either of those things in a room, and I have not decided yet what the two facts are.*
+*62. Wednesday of week 16. I sat on a bench in a corridor for forty minutes this morning and did not go into a room, and then I stood in a corridor outside another room for about forty minutes and did not go into that one either, and there is a rule on a wall in Lattice Ward with my name in the credit of it, and the rule is a rule for anybody who is named in a book, and I have not been in either room and I got nothing taken out and I said nothing and I could not have done either of those things in a room, and I have not decided yet what the two facts are.*
 
 *What touched it.* A boy of twenty-three put a sheet through a postbox on the Tuesday and got three words back, and read it out in a market in front of twelve people at about a quarter to eleven this morning, and somebody wrote it in a book with his name at the end of it, and I heard it through a door. And a woman of about sixty came into that room and said a thing about thirty chairs and a hand truck that she has not been thanked for, and I was the one who was asked about it and I answered it from a corridor because it was the true answer.*
 
@@ -134,7 +134,7 @@ At about ten past four in the afternoon of the Wednesday of week sixteen, at the
 
 She was sixty-one and the hip unit was thirteen weeks old and it had been ten weeks old on the Wednesday of week thirteen, when she had telephoned a repair shop at six in the morning and spoken for nineteen minutes and had been seen by a clinician at eleven.
 
-She got short of breath about four in the afternoon. Twice a day. It goes in ten minutes or a quarter of an hour. She has told one person, on a telephone, on a Wednesday morning in the middle of a term, and she has not told the woman she rang the number about, and she has not told the shop, because the shop is a shop and the man in it is a stranger, and she is perfectly clear about the difference and she said so on the telephone and meant it and would say it again.
+She got short of breath about four in the afternoon. Twice a day. It goes in ten minutes or a quarter of an hour. She has told one person, on a telephone, on a Wednesday morning in the middle of a term, and she has not walked into the shop about it, because a shop is a shop and a man behind a counter is a stranger however many times he has been kind to you on a telephone, and she is perfectly clear about the difference and she said so on the telephone and meant it and would say it again.
 
 She stood on the landing for about forty seconds.
 

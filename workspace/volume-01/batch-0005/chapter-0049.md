@@ -136,7 +136,7 @@ Item six, the licensor.
 
 "The panel further records that there are, on the counting of a field assessor of that office with a pencil, four thousand one hundred and six registered technique bundles in the district and nine hundred and forty with a blank upstream licensor field, and that tracing one is not possible for that office without tracing all of them, and that the office has four assessors.
 
-"The field is blank in the exhibit and the field is blank in this minute, and no member of this panel can fill it, and I would like that sentence in the minute in those words, because in about a year somebody is going to write a paragraph about the week of week eight and I would like one sentence of it to be right."
+"The field is blank in the exhibit and the field is blank in this minute, and no member of this panel can fill it, and I would like that sentence in the minute in those words, because in about a year somebody is going to write a paragraph about week eight and I would like one sentence of it to be right."
 
 Item seven, the trust.
 

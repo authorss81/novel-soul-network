@@ -58,7 +58,7 @@ Rafi Pell came into the shop at about half past eleven on the Wednesday morning 
 
 "You've got a Saturday somewhere," said Marek Senn.
 
-"I've got a Saturday on a yard off the Meridian and it is not the one I lost, and I want to be extremely clear about the order of those two sentences, because I have been sitting on a bus thinking about it for an hour and the order matters." He put the folded paper on the bench. "The one I lost, I lost. Six of them. It's gone. This is a new one, at eleven pounds, and it is a Saturday, and I am not going to pretend to somebody I got it back."
+"I've got a Saturday on a yard off the Meridian and it is not the one I lost, and I want to be extremely clear about the order of those two sentences, because I have been sitting on a bus thinking about it for an hour and the order matters." He put the folded paper on the bench. "The one I lost, I lost. Six of them. It's gone. This is a new one, at twelve pounds, and it is a Saturday, and I am not going to pretend to somebody I got it back."
 
 "Nobody's pretending anything."
 
@@ -100,7 +100,7 @@ He went out to the depot on the Wednesday afternoon because there was a valve on
 
 The visitor column was a carbon sheet on a spike by the gate, a bit of string through the corner, and it had about forty lines on it going back four months in a hard pencil, and Marek Senn stood at the gate and read forty lines in about three minutes and the words *deliveries north awaiting signature* were not on one of them.
 
-It was on eleven lines out of about four hundred, and two of the eleven are inside the last six weeks, which are the pair I have told you about, and the other nine are older than anybody can date from a spike. He counted them twice. The second of the two is on the Tuesday of week fourteen, about four minutes after a stock docket for one item and one unit had been signed in a hand that was not a driver's.
+There is about a sheet a week on that spike going back four months, and it was on eleven lines out of about four hundred, and two of the eleven are inside the last six weeks and the other nine are older than anybody can date from a spike. He counted them twice. The second of the two is on the Tuesday of week fourteen, about four minutes after a stock docket for one item and one unit had been signed in a hand that was not a driver's.
 
 He wrote nothing down. He stood at the gate and looked at the eleven lines, and then at the red brick, and then at the yard behind it where somebody's van was up on a ramp with its doors open, and he understood, standing there, exactly what Petar Vance had understood in a car park on the Sunday, and what it was worth.
 

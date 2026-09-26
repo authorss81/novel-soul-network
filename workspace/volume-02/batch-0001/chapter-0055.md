@@ -26,7 +26,7 @@ The woman doing it was called Yvette Kohl and she was forty-six and had a lanyar
 
 She did not start with a technique. She started with a photograph on a card, of a man's shoulder in a warehouse, and she asked who had loaded something heavy above their own head height in the last year, and about twenty hands went up, and she said *right, so we are all in the same room*, and she let that sit, and it was not a trick and it was not cheap and it worked.
 
-"Every one of you who put a hand up has made a decision in the last four seconds on a load you did not have all the information about, at a height, alone, with nobody behind you who could see your face. That is not a criticism. That is the job. I am not here to tell you that you are doing it wrong." She put the card down. "I am here because we have spent eleven months putting somebody else in that four seconds, and it has been the best eleven months of my working life, and there is a number, and the number is the reason I got the eleven months renewed, and I am not going to read it out in a room like this because I have watched what a number does to a room and it is not what people think it does."
+"Every one of you who put a hand up has made a decision in the last four seconds on a load you did not have all the information about, at a height, alone, with nobody behind you who could see your face. That is not a criticism. That is the job. I am not here to tell you that you are doing it wrong." She put the card down. "I am here because we have spent longer putting somebody else in that four seconds than I would have believed, and it has been the best of my working life, and there is a number behind it, and the number is the reason I got the last two budgets, and I am not going to read it out in a room like this because I have watched what a number does to a room and it is not what people think it does."
 
 There was a noise in the room that was not quite applause.
 
@@ -74,7 +74,7 @@ Rafi Pell looked at the card in his sleeve for the length of a breath.
 
 "Why not."
 
-"Because she has got thirty people in a room who took a Saturday to be told they are not stupid, and I have no licence, and four people who can end anything I say, and if I stand up in this room and say the word *hinge* she will ask me what a hinge is and I will have to explain it, and I will do it badly, and she is a better teacher than I will be in a car park, and she will go home tonight and think a twenty-two-year-old ruined her Saturday." He put the booklet back on the table. "And because I could be wrong. I have been wrong in a room before and there was a rail involved."
+"Because she has got forty people in a room who took a Saturday to be told they are not stupid, and I have no licence, and four people who can end anything I say, and if I stand up in this room and say the word *hinge* she will ask me what a hinge is and I will have to explain it, and I will do it badly, and she is a better teacher than I will be in a car park, and she will go home tonight and think a twenty-two-year-old ruined her Saturday." He put the booklet back on the table. "And because I could be wrong. I have been wrong in a room before and there was a rail involved."
 
 "You think you're wrong."
 
@@ -92,7 +92,7 @@ Rafi Pell looked at the card in his sleeve for the length of a breath.
 
 Kohl came past him on the way out with a box of booklets under her arm and stopped, because he was standing at the back and a woman with a box has to get past a man with a booklet.
 
-"Sorry. Are you waiting for a certificate? There's another six on the desk, they're doing the ones that didn't type."
+"Sorry. Are you waiting for a certificate? There's another six on the desk, they're the ones I didn't get to."
 
 "No. Thank you."
 
@@ -112,7 +112,7 @@ Kohl came past him on the way out with a box of booklets under her arm and stopp
 
 "I've asked you nothing at all."
 
-"I know. It's the other thing that is unusual." She picked the box up. "I'll tell you one thing for nothing, because you'll work it out in about a month and I'd rather you heard it in a Saturday. If you do this, you do it for the number, and the number will be for a room somewhere with a floor and a projector, and it will be the best two hours of my month and I will be pleased about it. And the thing that will happen in about fourteen months, in a room you will not be in, is that somebody who has been through a Saturday like this will stand at the top of some steps and wait for a voice, and the reason he is waiting is that this worked, and nobody will ever connect it back to a Saturday with coffee in it."
+"I know. It's the other thing that is unusual." She picked the box up. "I'll tell you one thing for nothing, because you'll work it out in about a month and I'd rather you heard it in a Saturday. If you do this, you do it for the number, and the number will be for a room somewhere with a floor and a projector, and it will be the best two hours of my month and I will be pleased about it. And the thing that will happen is not in a room you will be in either. It is that somebody who has been through a Saturday like this will stand at the top of some steps one day and wait for a voice, and the reason he is waiting is that this worked, and nobody will ever connect it back to a Saturday with coffee in it."
 
 "Then why are you here."
 
@@ -122,7 +122,7 @@ She went out through the kitchen and Dessa Kwan was standing in the doorway of i
 
 ---
 
-Dessa Kwan was behind the counter of a shop on a corner in Lattice Ward at about half past six on the Saturday evening with a box of washers in a carrier bag, and she made him say what it was for before she answered him, which is a thing she has done since the week of week fourteen, and which is not a rudeness.
+Dessa Kwan was behind the counter of a shop on a corner in Lattice Ward at about half past six on the Saturday evening with a box of washers in a carrier bag, and she made him say what it was for before she answered him, which is a thing she has done since the week of the fourteenth, and which is not a rudeness.
 
 "You gave forty people a Saturday."
 
@@ -154,13 +154,15 @@ She stopped, and then she said the true thing, which is the thing she had come t
 
 He did not go up the hill that evening. He sat on the wall at the top of the Weir road at about ten past eight with the load book shut on his knee, and he worked out what he had seen, and then he made himself write it down, in a way that could not be repeated in a room, and then he sat there for another forty minutes.
 
+*60. Saturday of week 15, and this one I wrote on a wall off the Weir road because it would not sit down anywhere else.*
+
 *It is the same design.*
 
 *It is in a card in a school with an instructor in it and in a card on a Saturday with a supervisor in it, and the third beat is the same third beat, and the fourth beat is the same fourth beat, and the eleven-page booklet's page four is the same sentence as page nine of a Saturday refresher in a room the Exchange's kitchen made the coffee for.*
 
 *I cannot name it in a room. There is a word for it and it is not a word anybody outside this case uses, and it is the wrong word for it anyway, because it is not a person. It is a shape. The shape is: somebody stands at the front of a hard thing and completes it with their voice, and the hard thing gets easier each time, and the getting-easier is the whole product, and the product is sold in a laminated card to a boy of sixteen and in a printed one to a man of forty.*
 
-*And the woman is good at it. That is the part I have been not writing for two hours. She was not doing it on purpose, any more than a man in a practical department said a word out of habit in week five, and the men in that room would have followed her into a river, and every one of them has a load he does not have all the information about and somebody else's hand on the decision, and they came out of that room lighter than they went in. I have been sitting on a wall for an hour trying to find the sentence where those two things stop being possible and I cannot find it, and I have got a feeling the sentence is going to be about a yard off the Meridian and not about this room, and I have got a worse feeling that the sentence is going to turn out to be about me.*
+*And the woman is good at it. That is the part I have been not writing for two hours. She was not doing it on purpose, any more than a man in a practical department said a word out of habit on the Tuesday of week fourteen, and the men in that room would have gone anywhere she asked them to go, and every one of them has a load he does not have all the information about and somebody else's hand on the decision, and they came out of that room lighter than they went in. I have been sitting on a wall for an hour trying to find the sentence where those two things stop being possible and I cannot find it, and I have got a feeling the sentence is going to be about a yard off the Meridian and not about this room, and I have got a worse feeling that the sentence is going to turn out to be about me.*
 
 He shut the book and did not go up the hill and did not telephone anybody.
 

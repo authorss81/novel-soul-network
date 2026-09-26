@@ -6,7 +6,7 @@ He came in on the Thursday evening of week sixteen at about ten past five with a
 
 "Right."
 
-"Two days. The Monday and the Tuesday of week twenty, which is a month off and about five working days after your forty-one, at a training place in Lattice off the roundabout, with the district's mark on it and a company's name on the door. It is 4-19. It is the whole thing, both modules, the card and the practical, and at the end of the second day there is a certificate with your name typed on it, and I have seen one, and there is a woman called Kohl who does the Saturday one at the Exchange and she does these as well." He put the bag down. "It is four hundred and forty pounds for the two days, which I have, and it is two days off the kitchen if the kitchen will have me, and the kitchen has had me off every board since the week I went in and I have told you that and I am not asking anybody to feel bad about it."
+"Two days. The Monday and the Tuesday of week twenty, which is three weeks and four days off and about two weeks after your forty-one, at a training place in Lattice off the roundabout, with the district's mark on it and a company's name on the door. It is 4-19. It is the whole thing, both modules, the card and the practical, and at the end of the second day there is a certificate with your name typed on it, and I have seen one, and there is a woman called Kohl who does the Saturday one at the Exchange and she does these as well." He put the bag down. "It is four hundred and forty pounds for the two days, which I have, and it is two days off the kitchen if the kitchen will have me, and the kitchen has had me off every board since the week I went in and I have told you that and I am not asking anybody to feel bad about it."
 
 "The Monday and the Tuesday of week twenty."
 
@@ -22,7 +22,7 @@ Marek Senn put the extractor down and did not say anything for a while.
 
 "It's not fair either." He pulled the paper bag open and there was a folded sheet in it, and he did not take it out. "Column two is *things I am going to let happen*, and I wrote at the top of it, in biro, that the hand is going to be told what to do this, and I am the one who is going to let it, and I was not telling anybody for a fortnight, and I have had five days past the fortnight now and I have not told anybody and I have not been told that anybody knows, and I wanted that on the record as well, because the next bit is that you already know."
 
-"I worked it out on the Wednesday of week fourteen in a repair shop and I put my own name next to it," said Marek Senn. "And Asha knew on the Wednesday of week fourteen and did not say. Nobody said anything to you."
+"I worked it out on the Wednesday of week fourteen in a repair shop and I put my own name next to it," said Marek Senn. "And Asha had known since the Monday morning of that week and carried it two days and then told me on the Wednesday, and I have said nothing to you about it since, and the not saying is mine and not hers. Nobody said anything to you."
 
 "Everybody's known for a fortnight and nobody's said a word, and the reason nobody's said a word is that it's mine and everybody's been decent about it." He took the sheet out of the bag and did not open it. "So. Four hundred and forty pounds, two days, and a certificate with my name typed on it, and a middle finger that hasn't moved since the week before the term began, and a transcript line that's going to be standing in nine years, and a kitchen that's had me off every board since I went in the ward, and the word I got used about me in a corridor by a woman at Deb's. That's the whole decision and I have had it in my head since the Saturday and I have not written to any of them."
 
@@ -58,17 +58,17 @@ Tam Arrick stood at the bench with a folded sheet in a paper bag and did not loo
 
 "Go on."
 
-"Because if I go and see her, then it is a thing about the three of us." He said it carefully. "She is a woman I have been in a room with. You are a man I have been in a room with. And in about four days there will be three of us and a piece of paper, and it will be a thing about the three of us, and I have been a thing about three people since the sixth week of September and I have had a term of it, and I would rather have a certificate than that."
+"Because if I go and see her, then it is a thing about the three of us." He said it carefully. "She is a woman I have been in a room with. You are a man I have been in a room with. And in about twelve days there will be three of us and a piece of paper, and it will be a thing about the three of us, and I have been a thing about three people since the sixth week of September and I have had a term of it, and I would rather have a certificate than that."
 
 "That is a real reason."
 
-"It's the reason I have got," said Tam Arrick. "I'm not saying it's a good one. I could have said *I'd rather not* and I did not say that, and I want that noticed as well, because I have been told *I'd rather not* by about four professionals in a term and every one of them wrote it down, and I have thought about it every time and I have never once been asked what the underneath bit was." He put the sheet back in the bag. "If somebody rings me at work in six weeks and asks me to do a release, I'm going to be the only man in the room who's got a card. That's the underneath bit."
+"It's the reason I have got," said Tam Arrick. "I'm not saying it's a good one. I could have said *I'd rather not* and I did not say that, and I want that noticed as well, because I have been told *I'd rather not* by about four professionals in a term and every one of them wrote it down, and I have thought about it every time and I have never once been asked what the underneath bit was." He put the sheet back in the bag. "If somebody rings me at work in four weeks and asks me to do a release, I'm going to be the only man in the room who's got a card. That's the underneath bit."
 
 Marek Senn took that for about four seconds without moving at all, and then he said, "Say that again."
 
 "You heard it."
 
-"I want to hear it again because I have been trying to get a thing into a room for fourteen weeks and I have never got it in that cleanly." He got up off the stool. "That is the whole of it. That is the entire fourth beat in one sentence from a man who cannot hold a kettle. Everything I have said in thirteen weeks and two hundred pages of somebody else's load book is the *shape* of that sentence, and you have just said it in eleven words and you have said it in a shop at ten past five on a Thursday and you did not use any of my vocabulary and you did not know you were doing it."
+"I want to hear it again because I have been trying to get a thing into a room for fourteen weeks and I have never got it in that cleanly." He got up off the stool. "That is the whole of it. That is the entire fourth beat in fourteen words from a man who cannot hold a kettle. Everything I have said in fourteen weeks and two hundred pages of somebody else's load book is the *shape* of that sentence, and you have just said it in fourteen words in a shop at ten past five on a Thursday and you did not use any of my vocabulary and you did not know you were doing it."
 
 Tam Arrick looked at him for a second.
 
@@ -90,7 +90,7 @@ Tam Arrick looked at him for a second.
 
 The shop was quiet.
 
-"Fourteen weeks," he said. "I have got a page in this book on a bench with three names against a review date and a boy's handwriting gummed in at the top of it, and the fifth line of that card has four sentences in your hand in a blue biro and no full stop at the end of the third one, and it is the only sentence in this entire case that anybody has ever finished a thing with, and it is yours, and you made me take the full stop off it and neither of us will ever know that either." He shut the door of the ledger and put it back on the shelf. "So if you had asked me what the fourth beat is, I would have had to stand here and read you your own handwriting out of a book in a repair shop, and then I would have had to write it down again to give it to you, and the writing down is the part that is the machine. That is the whole of what I have learned in fourteen weeks, and I have never been able to put it in a sentence until about a minute ago, and you got it out of me by accident in a bag of paper."
+"Fourteen weeks," he said. "I have got a page in this book on a bench with two names against a review date and my own on it twice and a boy's handwriting gummed in at the top of it, and the fifth line of that card has four sentences in your hand in a blue biro and no full stop at the end of the third one, and it is the only sentence in this entire case that anybody has ever finished a thing with, and it is yours, and you made me take the full stop off it and neither of us will ever know that either." He shut the door of the ledger and put it back on the shelf. "So if you had asked me what the fourth beat is, I would have had to stand here and read you your own handwriting out of a book in a repair shop, and then I would have had to write it down again to give it to you, and the writing down is the part that is the machine. That is the whole of what I have learned in fourteen weeks, and I have never been able to put it in a sentence until about a minute ago, and you got it out of me by accident in a bag of paper."
 
 "You are not going to tell me what to write in the *employer* box."
 
@@ -100,17 +100,17 @@ The shop was quiet.
 
 "No."
 
-"Right," said Tam Arrick. He picked the bag up. "That's it, then. The Wednesday of week twenty, I'll post it. And you'll be at the bench, and I'll post it, and if you say one word about it I will do it again and buy a different one."
+"Right," said Tam Arrick. He picked the bag up. "That's it, then. I'll post it on the Monday of week nineteen and it will sit in a box for a week, because I am not posting a thing on a Friday and finding out on the Tuesday, and you'll be at the bench, and if you say one word about it I will buy a different one."
 
 He got to the door and then stopped, with his back to the room, which he had done once before in this shop.
 
-"I'll post it on the Monday of week nineteen and it will sit in a box for a week, because I am not posting a thing on a Friday and finding out on the Tuesday," said Tam Arrick. "And you'll be at the bench, and I'll post it, and if you say one word about it I will buy a different one. That's it, then. And there's about three weeks between now and then, and on the Monday of week nineteen there's forty-one people being taught off a book that says a different thing to the card, and Deb's got me on a list for a Saturday, and the round's on the Monday at ten past six, and the woman who does the certificate does them at that yard on a Monday, and there's a van."
+"And that's the whole of what I have got," said Tam Arrick. "There's about a fortnight between now and then, and on the Monday of week nineteen there's forty-one people being taught off a book that says a different thing to the card, and Deb's got me on a list for a Saturday, and the round's on the Monday at ten past six, and the woman who does the certificate does them at a yard on a Monday, and there's a van."
 
 ---
 
-The load book was on the bench at about ten to ten that night with the door open and the extractor on and the shutters down, and Marek Senn turned to a clean page and wrote a date at the top of it, which he had not done since the Monday of week fifteen, and then wrote the first line.
+The load book was on the bench at about ten to ten that evening with the door open and the extractor on and the shutters down, and Marek Senn turned to a clean page and wrote a date at the top of it, which he had not done since the Monday of week fifteen, and then wrote the first line.
 
-*62. Thursday of week 16. He told me. Five days past a fortnight and he told me, and nobody had told him that anybody knew, and everybody had known. Asha had known since the Monday morning of week thirteen and had carried it two days and had told me on the Wednesday of week fourteen, and I have said nothing since, and the not saying is mine and not hers.*
+*63. Thursday of week 16. He told me. Five days past a fortnight and he told me, and nobody had told him that anybody knew, and everybody had known. Asha had known since the Monday morning of week fourteen and had carried it two days and told me on the Wednesday, and I have said nothing since, and the not saying is mine and not hers.*
 
 Then he stopped, and read what he had written, and put the pen down for about a minute, and then picked it up again.
 
@@ -118,18 +118,16 @@ Then he stopped, and read what he had written, and put the pen down for about a 
 
 *What he said, and I am putting it in his words and not mine, because he said it in a shop and did not know he had said anything, and if I put it in mine it will come out sounding like a thing I have been working on.*
 
-*"If somebody rings me at work in six weeks and asks me to do a release, I'm going to be the only man in the room who's got a card."*
+*"If somebody rings me at work in four weeks and asks me to do a release, I'm going to be the only man in the room who's got a card."*
 
 *Do not know. Whether the fourth beat is a thing that can be written down at all, or whether it is only ever a person who is in the room. I have spent fourteen weeks saying that a rule that governs a page cannot govern a mouth, and I have had that on the inside cover of a book for eight days, and I have never once put it next to a certificate, and a certificate is the exact opposite of a mouth. It is a page that says a mouth happened.*
 
-* * *
+---
 
-Not the word you would use. Something closer.
-
-* * *
+*And the sentence for it, which I have not got and have been circling for three days: it is not the word you would use, because the word you would use is a word for a person and this is not a person. It is a shape. It is a thing that a place does to a hard thing while a man is standing at the front of it saying words, and the place is about nine hundred rooms and a street, and the man is about forty of them, and there is no word in this city for that and I have looked, and the not-looking is the only thing I have done about it.*
 
 *And the thing I have not written down in fourteen weeks and am writing down tonight, and I have gone over this four times before I have put pen to paper, and it is one line and it is the only thing on this page that is mine.*
 
 *On the Tuesday of week fourteen, in a room with about thirty plastic chairs in it that belong to a nursery two floors away, the reason the last line of that card is going to have a boy's handwriting on it and not mine is that I am the fourth thing in the room, and I got there without asking, and there is no register anywhere in this city on which a man can be struck off for it, and a boy of twenty is now going to buy a card off the company that made the room.*
 
-He shut the book on the ten past one without reading it back, which he had not done on a page in three months, and put it on the shelf by the day book, and it was the first page in that book since the Thursday of week one that was not about a debt he had incurred, and he noticed that on the shelf on his way past it at about half past six, and did not write it down anywhere, because there was nowhere to write it that was not the ledger and the ledger was not for that.
+He shut the book on the ten past one without reading it back, which he had not done on a page in three months, and put it on the shelf by the day book, and it was the first page in that book since the Thursday of week one that was not about a debt he had incurred, and he noticed that on the shelf on his way out at about ten past seven, and did not write it down anywhere, because there was nowhere to write it that was not the ledger and the ledger was not for that.

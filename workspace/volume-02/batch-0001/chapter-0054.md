@@ -1,6 +1,6 @@
 # Chapter 54 — Withheld Pending Notice
 
-Talia Venn's answer was on the Friday morning of week fifteen and she gave it in a room on the first floor of a building in Bower Street to a man whose title was *continuity and returns*, and Marek Senn was not in that room and has never been in that building and has never seen the inside of it, and there is a reason for that which she put in a car park eight days ago in four sentences and one of them was *not to be helpful*.
+Talia Venn's answer was on the Friday morning of week fifteen and she gave it in a room on the first floor of a building in Bower Street to a man whose title was *continuity and returns*, and Marek Senn was not in that room and has never been in that building and has never seen the inside of it, and there is a reason for that which she put in a lay-by on the Saturday of week fourteen, seven days ago, in four sentences and one of them was *not to be helpful*.
 
 She telephoned him at about ten past one from the corridor outside it and she said four things in the order she had said them in the room, which is a thing she does.
 
@@ -24,15 +24,15 @@ She telephoned him at about ten past one from the corridor outside it and she sa
 
 "You will be asked for the count to be evidenced and you will say no again, and I am not going to turn up."
 
-"Good. Now the other thing." Her voice changed about a quarter of an inch, which after thirteen weeks he could hear and could not explain to anybody. "I want a line out of the ledger."
+"Good. Now the other thing." Her voice changed about a quarter of an inch, which after fourteen weeks he could hear and could not explain to anybody. "I want a line out of the ledger."
 
 ---
 
-He did not say anything for about four seconds, and the shop was empty, and it was one o'clock in the afternoon on a Friday in the fourth week out of term.
+He did not say anything for about four seconds, and the shop was empty, and it was one o'clock in the afternoon on a Friday in the third week out of term.
 
 "Which line."
 
-"The R. Ancrum line. The one in the twelfth week, on the Tuesday, when a man of fifty-six rang the Exchange about a number on a wall." She was not walking now. "It is in a book on a nail in a market and it is in his own words and it ends with his name and it is the only place in this city where a man who works Mondays has written down in his own hand that he asked a question about a college drill and was told no. And on the Wednesday of week seventeen a woman from the district is going to ring me and ask me for a statement about the practice on the round, and I am going to have to say that I have not seen a round, and that is not true, and I was on Fell Road on the Friday of week twelve and I asked three people and one of them is fifty-six and works Mondays."
+"The R. Ancrum line. The one in the fourteenth week, on the Tuesday, when a man of fifty-six rang the Exchange about a number on a wall." She was not walking now. "It is in a book on a nail in a market and it is in his own words and it ends with his name and it is the only place in this city where a man who works Mondays has written down in his own hand that he asked a question about a college drill and was told no. And on the Wednesday of week seventeen a woman from the district is going to ring me and ask me for a statement about the practice on the round, and I am going to have to say that I have not seen a round, and that is not true, and I was on Fell Road on the Friday of week twelve and I spoke to three people off the top of it, and one of them is fifty-six and works Mondays and he is the one who rang."
 
 "You want the row out of Bea's book."
 
@@ -44,7 +44,7 @@ He looked at the shelf, where the book was, with the shop's name on the front an
 
 "Marek."
 
-"No. And I want to give you the reason, because you have been decent about reasons all term." He put the phone against his forehead for a second, which she could not see and could probably hear. "You are asking the wrong man, and that is the half of it that is your fault and not mine. It is not my book. It is Bea Nunn's, and she wrote the rule, and she has never once asked me about a line in it, and if I walked in there on Friday and asked her to take out a row she wrote in her own hand, then in about four years there is a book in a market with a hole in it and a column of names of people who asked for holes, and that is exactly the machine you have been telling me about in a lay-by for a fortnight."
+"No. And I want to give you the reason, because you have been decent about reasons all term." He put the phone against his forehead for a second, which she could not see and could probably hear. "You are asking the wrong man, and that is the half of it that is your fault and not mine. It is not my book. It is Bea Nunn's, and she wrote the rule, and she has never once asked me about a line in it, and if I walked in there on Friday and asked her to take out a row she wrote in her own hand, then in about four years there is a book in a market with a hole in it and a column of names of people who asked for holes, and that is exactly the machine you have been telling me about in a lay-by since Saturday."
 
 "That is not an argument against the rule."
 
@@ -58,7 +58,7 @@ He looked at the shelf, where the book was, with the shop's name on the front an
 
 There was a pause on a telephone between a shop in Lattice Ward and a first-floor corridor in Bower Street.
 
-"Right," said Talia Venn. "Right. And I have asked three people in thirteen weeks to take a thing out of a record and all three of them have said no to me in a way I could argue with, and this is the first one where I have been told that the question is badly put rather than that the answer is no."
+"Right," said Talia Venn. "Right. And I have asked three people in fourteen weeks to take a thing out of a record and all three of them have said no to me in a way I could argue with, and this is the first one where I have been told that the question is badly put rather than that the answer is no."
 
 "It is badly put."
 
@@ -78,7 +78,7 @@ There was about a minute of line noise on the connection from a first floor in B
 
 "That was fast."
 
-"You did not tell me what it was for, and you have never once asked me for a thing in thirteen weeks, and I would have said yes to a page." He was aware of how that sounded and left it. "So. What is it for."
+"You did not tell me what it was for, and you have never once asked me for a thing in fourteen weeks, and I would have said yes to a page." He was aware of how that sounded and left it. "So. What is it for."
 
 "Rhoda Ilesanmi. Not Rowan. Nineteen. First year, maintenance track, the forearm." She did it in one breath, the way you do a thing you have done a hundred times. "She had a review yesterday, in a clinic, four stitches out on the ninth day, and there is a district return to complete, and Roisin Keogh has read the return and telephoned the woman who will read it back, in advance, which she told us she would do in a corridor on the Wednesday. And the woman who has to sign her off has asked, in writing, in a form, whether the candidate completed a practical under the supervision of a licensed holder during the assessment on the Tuesday of week fourteen. And there was no licensed holder. There was a door, a key, a determination, a panel and a repair crew, and Rusk said a word out of habit on the Tuesday morning and a rail went across her arm, and there is no name in that a form can take."
 
@@ -100,7 +100,7 @@ He stood at the bench for about a minute.
 
 There was a pause.
 
-"That is the best thing anybody has offered me in thirteen weeks," said Talia Venn. "Including you, on the Saturday, in a lay-by, with the light gone, and I am not going to say the rest of it and you are not going to write it down."
+"That is the best thing anybody has offered me in fourteen weeks," said Talia Venn. "Including you, on the Saturday, in a lay-by, with the light gone, and I am not going to say the rest of it and you are not going to write it down."
 
 He did not write it down.
 
@@ -114,7 +114,7 @@ That night he wrote the load book, and it was a full page with four headings on 
 
 *How a person stops it.* A man stops me by writing a page. That is the whole mechanism and it has been the whole mechanism since the Thursday of week one and I did not have the words for it until this afternoon at twenty past one.
 
-*How many people have been put through it.* Two. One of them is a woman of twenty-four who has just been told by a man in a repair shop that she has been asking the wrong question since the seventh week. One of them is a man of forty-five who has twenty-two years in a room and has never been asked for anything.
+*How many people have been put through it.* Two. One of them is a woman of twenty-four who has just been told by a man in a repair shop that she has been asking the wrong question since the seventh week. One of them is a woman of forty-five who has run the same eleven Thursday classes for nineteen years and has never once been asked by anybody in a department what is in them.
 
 *Do not know.* Whether telling somebody no for the right reason is the same as telling them no because I am afraid of what happens if I do not. I have written in this book since week four that the answer is always the first one. I have not been able to test it once. She asked me for a page and I said no in under two seconds, and two seconds is not long enough to be a principle. Two seconds is long enough to be a door I do not want opened.*
 

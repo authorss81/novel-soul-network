@@ -30,7 +30,7 @@ Marek Senn wrote a date at the top of the second page, and a time, which was a n
 
 "Fine."
 
-"And it costs you something and I am not going to pretend it does not." He looked up. "It is the only page in this book that has got three names on it, and the three are you and a boy and a man, and the four of you were named by yourselves and not by me, and one of you in his own hand on a sheet he wrote himself. And Reuben Daw is not on the page. He asked to be a named stopper in the week of week thirteen and there is a name for him in the department’s file, and what he said at the time was *I have got no form*, and I wrote that down, and that is the whole of why he is not on this page, and it is a better reason than yours." He turned the ledger a quarter round. "And when your row comes off there is a page in a book in a shop with two names on it, and the two are a boy and a man, and the third one is the person who could cook a hot pass without talking to anybody, and that person made the coffee in a back room on Saturday morning while a company gave out certificates on the other side of a wall."
+"And it costs you something and I am not going to pretend it does not." He looked up. "It is the only page in this book that has got three names on it, and the three are you and a boy and a man, and the three of you were named by yourselves and not by me, and one of you in his own hand on a sheet he wrote himself. And Reuben Daw is not on the page, and he is one of the four in the department’s document and not one of the three on this page. He said no to me in a market on the Sunday of week thirteen and gave three conditions, and the third of them was *I have got no form*, and I wrote that down, and that is the whole of why he is not here, and it is a better reason than yours." He turned the ledger a quarter round. "And when your row comes off there is a page in a book in a shop with two names on it, and the two are a boy and a man, and the third one is the person who could cook a hot pass without talking to anybody, and that person made the coffee in a back room on Saturday morning while a company gave out certificates on the other side of a wall."
 
 Dessa Kwan took her hands out of her pockets and put them flat on the bench, which is a thing people do in repair shops and almost nowhere else.
 
@@ -46,13 +46,13 @@ He turned the ledger round and read the rule out, and she read it over his shoul
 
 He read the whole row out loud in an empty shop — *D. Kwan, 9 sec, hot pass, tested, no name for the practice* — and then put his hand flat over it, which is a child's gesture and was not lost on either of them, and wrote across it in the small upright hand, one stroke, in a pen, not a pencil.
 
-Then he wrote under it, in the same hand: *Row removed at the request of the person named in it, Monday of week 16, 11:20. Rule above. Taker: M. Senn. No copy made and none kept. The row is not written down anywhere else in this city. It was written once, in this book, off what she said in about nine seconds in a market in the week of week thirteen, and it is not on a card, and it is not in a form, and there is no second place to go to and ask for it to be taken out of.*
+Then he wrote under it, in the same hand: *Row removed at the request of the person named in it, Monday of week 16, 11:20. Rule above. Taker: M. Senn. No copy made and none kept. The row is not written down anywhere else in this city. It was written once, in this book, off what she said in about nine seconds in a market on the Sunday of week thirteen, and it is not on a card, and it is not in a form, and there is no second place to go to and ask for it to be taken out of.*
 
 "You have just written that there is nowhere else to ask," said Dessa Kwan.
 
 "Yes."
 
-"Then you have just made my row permanent, and I would like you to notice that, because I have been in a repair shop for eleven years and nobody has ever made one of my rows permanent by refusing me a copy of it."'''
+"Then you have just made my row permanent, and I would like you to notice that, because I have been in a repair shop for eleven years and nobody has ever made one of my rows permanent by refusing me a copy of it."'
 
 "That's a good line."
 
@@ -64,15 +64,15 @@ She went to the door and stopped with her bag.
 
 "Go on."
 
-"One. There were forty-one people on that list and there were forty in my employer's back room on Saturday morning and one of the forty-one never came, and I have counted both numbers twice and I have made forty cups of coffee and I did it in a kitchen and not in a room, and there is not one thing I can put in the Exchange book about it, because what I would be putting down is that thirty-one people in this city took a Saturday off work to be told by a woman with a lanyard that they are allowed to ask, and I have written that sentence out about nine times since Saturday and every version of it is an accusation, and I have got about two days of not saying anything left."
+"One. There were forty-one names on that sheet in the practical department and there were forty-one people in the back room off our kitchen on Saturday morning and they are not the same forty-one, and I have counted both numbers twice and I have made forty cups of coffee and I did it in a kitchen and not in a room, and there is not one thing I can put in the Exchange book about it, because what I would be putting down is that thirty-eight people in this city took a Saturday off work to be told by a woman with a lanyard that they are allowed to ask, and I have written that sentence out about nine times since Saturday and every version of it is an accusation, and I have got about two days of not saying anything left."
 
 "Three days, maybe."
 
-"Two." She shifted the bag. "Two. That woman's number is real. Sixty per cent, eleven months, and she said it out loud in a room and did not put the second number away, and I have been furious about that all weekend because she was decent about it and it did not help, and if I had been you I would have gone up to her and I have been waiting since Saturday to find out whether you did."
+"Two." She shifted the bag. "Two. That woman has got a number. She would not say it out loud in that room and she would not say it to you afterwards either, and I have watched about nine people walk out of there lighter than they went in, and I have been furious about it all weekend because she was decent about it and it did not help, and if I had been you I would have gone up to her and I have been waiting since Saturday to find out whether you did."
 
 "No," said Marek Senn.
 
-"Right," said Dessa Kwan. "I will write the thirty-one down in a notebook, which is not a book and does not go anywhere, and if I ever do hand it over I will ring you first and you can say no before it is a thing."
+"Right," said Dessa Kwan. "I will write the thirty-eight down in a notebook, which is not a book and does not go anywhere, and if I ever do hand it over I will ring you first and you can say no before it is a thing."
 
 He wrote that down too, with a date, and she watched him do it and did not object, and then she went out into Lattice Ward in her own coat at about twenty past eleven in the morning of the Monday of week sixteen.
 
@@ -98,7 +98,7 @@ There was a pause of about two seconds, and then Bea Nunn said, "That's not how 
 
 "That's the only one."
 
-"Right." He heard her put something down. "Then you can tell whoever it is that Bea Nunn's name is in a repair shop in Lattice Ward, and that there is a line in it in his own hand about a man of fifty-six ringing the Exchange in the twelfth week about a number on a wall, and that it says *R. Ancrum*, and that's all it says, and no, I have not read it, and no, I would not take it out if I had."
+"Right." He heard her put something down. "Then you can tell whoever it is that Bea Nunn's name is in a repair shop in Lattice Ward, and that there is a line in it in his own hand about a man of fifty-six ringing the Exchange in the fourteenth week about a number on a wall, and that it says *R. Ancrum*, and that's all it says, and no, I have not read it, and no, I would not take it out if I had."
 
 "It's in her own words. It's the rule. She signed the end of it herself."
 
@@ -114,7 +114,7 @@ There was a pause of about two seconds, and then Bea Nunn said, "That's not how 
 
 ---
 
-The book stayed on the bench, and the Monday reading finished at about ten past twelve, and there were four names in it: the boy, Rafi Pell, and Marek Senn twice, once for taking a row out and once for writing down where a card is in a kitchen.
+The book stayed on the bench, and the Monday reading finished at about ten past twelve, and after the telephone call there were five names in it: the boy, Rafi Pell, a line in the fourth column that said *B. Nunn, first call in this city*, and Marek Senn twice, once for taking a row out and once for writing down where a card is in a kitchen.
 
 ---
 
@@ -152,11 +152,11 @@ He rang the last one last, and it took two of the eleven minutes, and the boy wa
 
 "What."
 
-"Wednesday of week fifteen. I took a row out of the ledger in the shop this morning. Somebody's row, not yours. Their own request. There's a date and a time and a stroke and my name at the bottom, and there's no copy and nobody is named in it, and I am ringing you because you are one of the four names in the book and I did not think it was mine to do that without telling you."
+"It is the Monday of week sixteen. I took a row out of the ledger in the shop this afternoon. Somebody's row, not yours. Their own request. There's a date and a time and a stroke and my name at the bottom, and there's no copy and nobody is named in it, and I am ringing you because you are one of the four names in the book and I did not think it was mine to do that without telling you."
 
 There was a long silence, and then:
 
-"Don't ring me about the book," said Tam Arrick. "I don't mind. Ring me about the thing on Monday and Tuesday. That's the only one I've got and it's on a Wednesday of week twenty, so you've got about eleven days." The line went.
+"Don't ring me about the book," said Tam Arrick. "I don't mind. Ring me about the course. That's the only one I've got, and it's the Monday and the Tuesday of week twenty, so you've got about four weeks, and I am not ringing you about it either." The line went.
 
 He wrote none of the three calls in the load book, and wrote the date of them on the inside cover of the ledger under the line about the first reading, in the small upright hand, with a time, and put the book back on the shelf.
 

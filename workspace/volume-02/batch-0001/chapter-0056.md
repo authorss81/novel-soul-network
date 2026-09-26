@@ -4,7 +4,7 @@ Reuben Daw telephoned the shop at about ten past ten on the Sunday morning of we
 
 "How do you know that."
 
-"Because you have never once telephoned me on a Sunday and because on Friday you said the word *college* came up in a doorway and that the thing about a doorway is that you cannot get anybody to write it down. So either you've found somewhere it can be written down, or you want to show me something." He put the extractor down. "And I'm not being clever. I'm asking because I don't want to be the man who turns up."
+"Because you have never once telephoned me on a Sunday and because on the Wednesday you said the word *college* came up in a doorway and that the thing about a doorway is that you cannot get anybody to write it down. So either you've found somewhere it can be written down, or you want to show me something." He put the extractor down. "And I'm not being clever. I'm asking because I don't want to be the man who turns up."
 
 "Pull-off off the Meridian," said Reuben Daw. "The big one, past the grain terminal where the road bends. Yard office with a kettle in it and a door that opens at six, and about forty of us on there Monday to Thursday."
 
@@ -20,33 +20,33 @@ Reuben Daw telephoned the shop at about ten past ten on the Sunday morning of we
 
 "How do you know that."
 
-"He stood in the doorway of this shop in the ninth week for twenty minutes and would not come in, and he has been on that yard for thirty-one years, and he knows what is on that post better than anybody in this city, and I have been sitting here since Wednesday trying to think of a second person who would." Marek Senn put the extractor down. "Is he on today."
+"He stood in the doorway of this shop in the twelfth week for twenty minutes and would not come in, and he has been on that yard for thirty-one years, and he knows what is on that horn better than anybody in this city, and I have been sitting here since Wednesday trying to think of a second person who would." Marek Senn turned the radio off instead, which is not a thing he had done all morning. "Is he on today."
 
 "He's on today. He's the one with the hose."
 
 ---
 
-The yard was two hundred yards long with four sets of steps up to a wagon and a control post at the top of the middle one with a plastic horn in a cage on the wall, and a blue card bent at the corner on the post, and Marek Senn read it standing up, in the wind, with Aurel Kosta working a hose four feet behind him.
+The yard was two hundred yards long with four sets of steps up to a wagon and a control post at the top of the middle one with a plastic horn in a cage on the wall. The yard office was a prefab at the near end with the door propped open and a kettle on a ring inside it, and there was a blue card on the wall by the window, and Marek Senn read it standing in the doorway in the wind with Aurel Kosta working a hose four feet behind him.
 
-The card had the district's mark on it and it said **LOAD MOVEMENT — SIGNALLED RELEASE — SUPERVISED**, and underneath, in a small print he had to put his glasses on for, it said *the named holder will not proceed until a supervisor has given the release signal*.
+The card said **LOAD SECURED — RELEASED BY YARD CONTROL**, and under that, where there would have been a line for a name and a time, there was nothing at all, and under the nothing there was a rule, and the rule said **RELEASE ON HORN**.
 
-The corner was bent about an inch and a half from the bottom, and it had been bent a very long time, because the crease had gone white on both sides and the printing had cracked across it.
+The top corner was bent about an inch and a half where somebody had sat on it, and it had been bent a very long time, because the crease had gone white on both sides and the printing had cracked across it.
 
-"That is my card," said Aurel Kosta, over the hose, without turning round. "That is not a new card. Nobody in this building is going to tell you how old that is, because I have never once asked and I am not going to start on a Sunday. It was on that post when I started. It was bent when I started. I have driven a shunter for twenty-six years and I have been on that yard thirty-one and nobody has ever once told me how to read a card, because you do not need to be told, you are a grown man on a wagon."
+"That is my card," said Aurel Kosta, over the hose, without turning round. "That is not a new card. Nobody in this building is going to tell you how old that is, because I have never once asked and I am not going to start on a Sunday. It was on that wall when I started. It was bent when I started. I have driven a shunter for twenty-six years and I have been on that yard thirty-one years and nobody has ever once told me how to read a card, because you do not need to be told, you are a grown man on a wagon."
 
 "Somebody would have had to write it."
 
-"Somebody did, once, a long time ago, in an office, with a typewriter." Kosta shut the hose off. "And there is a copy of it in the office on the wall next to the kettle and it is older than the one on the post, and it is not a district document and it is not a school document, and I have never asked where it came from, and that is the last sentence I am going to say about it in my life."
+"Somebody did, once, a long time ago, in an office, with a typewriter." Kosta shut the hose off. "And there is a sheet on the wall next to the kettle, and it has got a box on it for a name and a time, and the box has not been filled in in the thirty-one years I have been standing in this room, and it is not a district document and it is not a school document, and I have never asked where it came from, and that is the last sentence I am going to say about it in my life."
 
 "You do not have to say that."
 
 "No," said Aurel Kosta. "I know I do not. That is why I said it."
 
-Reuben Daw had been standing on the top step with his hands in his pockets the whole time and had not interrupted, which is a thing about a man who has been on a yard for thirty-one years: he can hear four sentences in and know whether they are going to be trouble.
+Reuben Daw had been standing in the office doorway with his hands in his pockets the whole time and had not interrupted, and it took Aurel Kosta about half of it to work out that a boy of twenty-two standing on a yard is not being polite, he is being the one who does not speak first.
 
 Marek Senn looked at the card for a while.
 
-"It says the holder waits for a supervisor's signal. Is that a district rule, or a yard rule."
+"There is no name on it anywhere. Not on the card and not in the box. Is that a district rule, or a yard rule."
 
 "It is *that's the card*," said Aurel Kosta. "That is the phrase. Thirty-one years and there is about forty men on that yard and I could not tell you one that does not do it that way, and the new ones ask about it, and the answer is *that's the card*." He wound the hose onto the standpipe. "And there is no school in that. I want that said. That is a yard thing and a district thing, and it is not one of your college things, and if you go in there and say it came out of a college you will be wrong, and every man on that yard will know you are wrong inside a week, because we all know the difference."
 
@@ -86,9 +86,9 @@ Kosta stopped with the hose in his hand.
 
 "But the office has got a report."
 
-"Now that," said Kosta, "is where I've been for eleven weeks and that is what I said to the young man here, and it is the only time in my life I have said a thing like it out loud to a stranger. A foreman's report went in that year. It is a form, it got a number off the district, it says *manual handling*, and it is in a drawer in an office in this city with a number on it." He looked at the ground. "So a shoulder went in the front of the office and a shoulder went in the front of a box, and the one in the office is a piece of paper about nothing, and the one in the box is a piece of A4 with a man's name on it, and neither of them says a fella of fifty-eight got hurt on a wagon, because the first one does not and the second one never got a number and it is in a box in the office with the tea bags in it. That is the whole of it. And I have had eleven weeks to work that out and I have not told anybody, because the second I ask about two things I am a man with a notebook, and then I am a man with a complaint, and then I am the man that comes and asks you things." He picked the hose up. "So I have asked about one thing, and it was that, and every man on that yard knows I asked about one thing and what it was."
+"Now that," said Kosta, "is where I've been since the Tuesday of week twelve, and that is what I said in a shop in Lattice Ward, and it is the only time in my life I have said a thing like that out loud to a stranger. A foreman's report went in that year. It is a form, it got a number off the district, it says *manual handling*, and it is in a drawer in an office in this city with a number on it." He looked at the ground. "So a shoulder went in the front of the office and a shoulder went in the front of a box, and the one in the office is a piece of paper about nothing, and the one in the box is a piece of A4 with a man's name on it, and neither of them says a fella of fifty-eight got hurt on a wagon, because the first one does not and the second one never got a number and it is in a box in the office with the tea bags in it. That is the whole of it. And I have had three weeks to work that out and I have not told anybody, because the second I ask about two things I am a man with a notebook, and then I am a man with a complaint, and then I am the man that comes and asks you things." He picked the hose up. "So I have asked about one thing, and it was that, and every man on that yard knows I asked about one thing and what it was."
 
-Reuben Daw had not said anything at all through any of it, which was the correct thing for a man of twenty-two to do standing next to a man of fifty-eight who has been keeping a sentence in a shed for eleven weeks.
+Reuben Daw had not said anything at all through any of it, which was the correct thing for a man of twenty-two to do standing next to a man of fifty-eight who has been keeping a sentence in a shed for three weeks.
 
 A lorry came through the gate and the man at the control post moved out of its way and then came back and stood in exactly the same place.
 
@@ -130,7 +130,7 @@ Reuben Daw took a small notebook out of his coat and looked at it and shut it ag
 
 ---
 
-They put it in on the Thursday morning of week fifteen at about ten past eight, in the back room of the Exchange, with Bea Nunn in the chair and no meeting, because the tin is not a meeting and the chair takes cards in the back room on any morning she happens to be in there, which is why that book has thirty-eight lines and there have only ever been about twenty people in that room.
+They put it in on the Tuesday morning of week sixteen at about ten past eight, in the back room of the Exchange, with Bea Nunn in the chair and no meeting, because the tin is not a meeting and the chair takes cards in the back room on any morning she happens to be in there, which is why that book has thirty-eight lines and there have only ever been about twenty people in that room.
 
 It is line thirty-eight.
 
@@ -138,7 +138,7 @@ Reuben Daw wrote it himself, in block capitals, and signed the end of it in capi
 
 > *Line 38. I am on the yard off the Meridian Mondays to Thursdays. I went on the Sunday of week fifteen because a man is coming Thursday for the horn and there is four of us who can get there on a Sunday and none of us can get there on a Wednesday.*
 >
-> *There is a card on the control post at the top of the middle set of steps and it is bent at the corner and it is older than me and it says the holder will not go until a supervisor gives the release. Aurel Kosta has been on that yard thirty-one years and he says it was on that post when he started and he has never once been told how to read it, because you do not need to be told, you are a grown man on a wagon. He says there is no school in it and he is right, it is a yard thing and a district thing, and he has never asked where it came from and he does not want to be asked either.*
+> *There is a card on the wall in the yard office by the window and it is bent at the top corner where somebody has sat on it and it is older than me. It says a load is released by yard control and it says release on horn, and where there would be a line for a name and a time there is not one, there is a rule. There is a sheet on the wall next to the kettle with a box on it for a name and a time and the box has not been filled in in thirty-one years. Aurel Kosta has been on that yard thirty-one years and he says it was on that wall when he started and he has never once been told how to read it, because you do not need to be told, you are a grown man on a wagon. He says there is no school in it and he is right, it is a yard thing and a district thing, and he has never asked where it came from and he does not want to be asked either.*
 >
 > *Aurel Kosta had a bad shoulder in 2019. Third wagon, shunt went in crooked. He was off for two years and he has never been right and he never went to anybody, because you are on the Saturday list and if you go to anybody about a shoulder you come off the list. There is no form for it anywhere. There is a foreman's report from that year with a district number on it that says manual handling and it is in a drawer in an office and it is about nothing. There is a piece of A4 in a box in the office at the yard with his name on it and no number on it and it has been in that box since 2019 and nobody has read it, and the tea bags are in the same box.*
 >
