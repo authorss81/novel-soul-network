@@ -16,7 +16,7 @@ The man in the hut was sixty-one or about it and had been in the hut for four ye
 
 The visitor book was on the shelf by the window with a rubber band round it. It was about four hundred lines deep and it was a hardback ledger with a printed column for company, a printed column for name, a printed column for purpose and a printed column for the time in.
 
-Marek Senn read the last four months of it in about four minutes standing up, in the way you read a thing, and Steve Akers watched him do it and did not offer a chair and did not stop him, and at about the two-minute mark the man moved the book about four inches to the left so that his own arm was in front of the bottom half of it, and did it without looking down.
+Marek Senn read the last four months of it in four minutes standing up, in the way you read a thing, and Steve Akers watched him do it and did not offer a chair and did not stop him, and at about the two-minute mark the man moved the book about four inches to the left so that his own arm was in front of the bottom half of it, and did it without looking down.
 
 "About a fortnight back," said Steve Akers. "A gentleman. Very polite. He was on the site list, so I let him in and I wrote him in, and he had a notebook and a phone and he asked me a question about the card on the card reader."
 
@@ -30,7 +30,7 @@ It was nine words. He had read a copy of the description of it twice and it did 
 
 "Who put that up?"
 
-"**Not me. Came with the building. The contractor before, they took it down when they finished and then somebody — not a contractor, a man in a van — put it back up about four years ago and I did not ask him to and I did not stop him and that is the whole of my involvement.**"
+"**Not me. Came with the building. The contractor before, they took it down when they finished and then somebody — not a contractor, a man in a van — put it back up four years ago and I did not ask him to and I did not stop him and that is the whole of my involvement.**"
 
 "Do you know what it means?"
 
@@ -44,7 +44,7 @@ Marek Senn stood in a warehouse aisle about nine metres from a chair and a kettl
 
 "Who was the gentleman," he said.
 
-"About fifty. Fifty-one, maybe." Steve Akers's face did not change at all. "**Grey jacket. Took him about four minutes to get that out. He said there is no district, there is a practice being handed about, and he asked me if the card on that post was on the company list, and I said I did not know what company list meant and I have never been given one.**"
+"About fifty. Fifty-one, maybe." Steve Akers's face did not change at all. "**Grey jacket. Took him four minutes to get that out. He said there is no district, there is a practice being handed about, and he asked me if the card on that post was on the company list, and I said I did not know what company list meant and I have never been given one.**"
 
 "And then."
 
@@ -100,7 +100,7 @@ Steve Akers said, "Then what has happened to me, then. Because the book has not 
 
 He got the bus back and then walked the last stretch, because a bus would have got him in at a quarter past and he did not want to be in at a quarter past.
 
-It was about twenty past two in the afternoon and the yard at the depot was empty in the way a yard is at twenty past two on a Wednesday, and he sat on the bumper of a pallet truck for about nine minutes and worked out what he had done.
+It was twenty past two in the afternoon and the yard at the depot was empty in the way a yard is at twenty past two on a Wednesday, and he sat on the bumper of a pallet truck for nine minutes and worked out what he had done.
 
 He had gone to a second gate and had found a man who had been willing, and who had been willing right up until about two minutes before Marek Senn asked him anything, and who had been told, kindly, that he did not need a copy of anything.
 
@@ -128,7 +128,7 @@ Marek Senn took the leaflet out of the plastic pocket, folded it in half, and pu
 
 ---
 
-*106. Wednesday of week 31, about twenty past two in a yard, and this entry is about a man of sixty-one at a gate for four years who handed a stranger the reason he has never asked a question in about nine seconds, and then asked me what he should do with a bit of card, and then did not want me to see him move his own book.*
+*106. Wednesday of week 31, twenty past two in a yard, and this entry is about a man of sixty-one at a gate for four years who handed a stranger the reason he has never asked a question in about nine seconds, and then asked me what he should do with a bit of card, and then did not want me to see him move his own book.*
 
 *The card, and the two hundred and forty.* Nine words, in biro, on a bit of pale card off his own pad, with his mother's date on the top of it that he has never been asked about and that nobody in this case is ever going to hear. **The four that matter are not on the post, they are in the book, and they are AWAITING RELEASE, and there are about two hundred and forty of them in about four hundred lines going back four years, two or three times a week on the days the contractors come, in a different hand every time, and there will be another one on the next contractors' day and he will stamp it, because that is the job. And about eleven hundred yards away there is a book of about four hundred lines with eleven of them in it, and nobody on earth can tell me today why one gate has eleven and the other gate has two hundred and forty, and I have written that down and I am not going to resolve it this week.** So the second half of what the man of fifty-two said in week 24 is now in two buildings and not one, and I have got it in about eleven minutes in a hut with a kettle in it, and it took nine minutes of a woman's job to go round a corner for me, which is about the same as it takes anywhere. **And the thing that is worse than the book, and which nobody is going to put in a leaflet: he has moved the book four inches to the left twice this afternoon and did not want me to see him do it.** I asked him about the sheet and he said nothing has happened to the book, and he is right, and I have spent a term with a blank field on three documents in three buildings and this is the same shape exactly — **a record of an absence, a record of an absence is the easiest thing in the world for somebody to fill in wrongly** — and what has gone missing in this case is not four hundred lines. **What has gone missing is a man of sixty-one who would have told a stranger exactly what he knows, which is nothing, in about nine seconds, and there are about nine of those left in this city and I have just met one and used him.**
 
@@ -136,4 +136,4 @@ Marek Senn took the leaflet out of the plastic pocket, folded it in half, and pu
 
 *And what I did not do.* **I did not say which gate. I did not say the man's name and I did not say the company and I did not write any of it down, and the reason is not protection, it is arithmetic: a sheet with two gates on it is a sheet about two men, and neither of them was asked.** And the man who has been at that gate for six years, who has stamped it eleven times out of about four hundred lines and has never asked what any of the nine words mean, does not know that this exists today and he is not going to know this term, and I have had a whole afternoon to decide whether that is a kindness or a theft and I have got no answer and I have decided to carry it as unanswered, because answering it either way would have been for me and not for him. **He has got a lanyard and a card and a job and a woman with a diary, and he did not know any of that either until a woman in a sling read out his own words in a room in week twenty-eight, and the whole of what I have learned in a term and a half is that the fourth thing in a room is the person who gets found.**
 
-*And the leaflet, which is new, and is the reason this entry is about him and not about me.* **Four in a plastic pocket by the parts cage door, first time in this building.** A stylised open hand with a thumb and a forefinger about a millimetre apart, a first line that is the line out of a specification word for word, a list of eleven session titles, and a man's name on a Wednesday in Crown Terrace with a microphone, and **fee paid**. There are going to be about four thousand of these. I put mine in my pocket at about twenty past two on the Wednesday afternoon and it was still in my pocket on the Wednesday morning of the week after, and that is seven days, and I have not decided yet what that is, and I am writing it down before I decide so that whatever I decide is not the first thing I thought.
+*And the leaflet, which is new, and is the reason this entry is about him and not about me.* **Four in a plastic pocket by the parts cage door, first time in this building.** A stylised open hand with a thumb and a forefinger about a millimetre apart, a first line that is the line out of a specification word for word, a list of eleven session titles, and a man's name on a Wednesday in Crown Terrace with a microphone, and **fee paid**. There are going to be about four thousand of these. I put mine in my pocket at twenty past two on the Wednesday afternoon and it was still in my pocket on the Wednesday morning of the week after, and that is seven days, and I have not decided yet what that is, and I am writing it down before I decide so that whatever I decide is not the first thing I thought.

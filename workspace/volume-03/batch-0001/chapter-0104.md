@@ -6,7 +6,7 @@ It came through the letterbox of a repair shop in Lattice Ward on the Thursday a
 
 "It is flickering."
 
-"It is flickering because it is a lamp in a stairwell and it is about eleven years old and it has a starter in it that costs about nine pounds." She had a child on her hip who was asleep and had been asleep through the whole argument. "**You have told me twice that you would order it and I have come back twice and it is still flickering and the child has had about an hour and a half of sleep in daylight so I would like to be able to say that I came.**"
+"It is flickering because it is a lamp in a stairwell and it is about eleven years old and it has a starter in it that costs nine pounds." She had a child on her hip who was asleep and had been asleep through the whole argument. "**You have told me twice that you would order it and I have come back twice and it is still flickering and the child has had an hour and a half of sleep in daylight so I would like to be able to say that I came.**"
 
 "I have not ordered it."
 
@@ -80,7 +80,7 @@ And under them, in the ballpoint:
 
 *Five. If the word does not come, do it anyway. The load is yours.*
 
-He looked at it for about four minutes.
+He looked at it for four minutes.
 
 Somebody had written that. Not a company — the type was the type of a form, but the four steps had been photocopied onto a photocopied sheet, and the fifth line had been written by hand, on the back, in a hand that had got impatient with the ballpoint, and the last full stop had gone through the paper.
 
@@ -126,9 +126,9 @@ The drawer had four things in it. A letter with a reference number in the corner
 
 ---
 
-He opened the shop at about half past four and the telephone on the bench went at about ten past five, and it was the depot.
+He opened the shop at half past four and the telephone on the bench went at ten past five, and it was the depot.
 
-"**Forty-one,**" said Nia Bramhall. "**It is forty-one and it is Thursday and it is about ten to six, and they go out at midnight.**"
+"**Forty-one,**" said Nia Bramhall. "**It is forty-one and it is Thursday and it is ten to six, and they go out at midnight.**"
 
 "Replies to the letter."
 
@@ -142,7 +142,7 @@ The yard outside went on happening.
 
 "Nia—"
 
-"**No, because I know what the answer is going to be for about nine of them, and I know it because I have the rota and I have the site and I have got a woman's induction date, and I am not going to read them to you on a Thursday at ten past five so that you can find out which nine.**" Paper. "**And I am not saying no because I think you would misuse it. I am saying no because about four of them are going to be a person of about thirty-four who has never had an injury and is now going to spend the rest of the year wondering, and I am not the person to tell her, and there is not a person in this city to tell her, and I have known that since the middle of last term.**"
+"**No, because I know what the answer is going to be for about nine of them, and I know it because I have the rota and I have the site and I have got a woman's induction date, and I am not going to read them to you on a Thursday at ten past five so that you can find out which nine.**" Paper. "**And I am not saying no because I think you would misuse it. I am saying no because about four of them are going to be a person of thirty-four who has never had an injury and is now going to spend the rest of the year wondering, and I am not the person to tell her, and there is not a person in this city to tell her, and I have known that since the middle of last term.**"
 
 "Then who do they think will tell them."
 
@@ -152,7 +152,7 @@ The yard outside went on happening.
 
 "**I have not told them anything. I told a woman in Crown Terrace with a template that there were replies and she said thank you and closed the mail merge.**" Nia Bramhall's voice did not change. "**And then she said, in about eleven words, that it would be good to send them a short covering note, that it would save people ringing, and I said, and then we would be telling them, and she said, no, we would be acknowledging them, and then she went to somebody else.**"
 
-The line was quiet for about four seconds.
+The line was quiet for four seconds.
 
 "Write that down," said Marek Senn.
 
@@ -160,7 +160,7 @@ The line was quiet for about four seconds.
 
 ---
 
-*107. Thursday of week 31, about ten past six in a shop, and this entry is about a woman of thirty-one with a child asleep on her hip who came three times to a man about a lamp, and about a woman of thirty-one with an inbox and a reason for not reading it out loud, and about a hand with impatient ballpoint in it that I am not going to describe again.*
+*107. Thursday of week 31, ten past six in a shop, and this entry is about a woman of thirty-one with a child asleep on her hip who came three times to a man about a lamp, and about a woman of thirty-one with an inbox and a reason for not reading it out loud, and about a hand with impatient ballpoint in it that I am not going to describe again.*
 
 *What came through the letterbox.* Four sheets, stapled, no name, no date, no stamp, a second account of the same thing that has been on six tables since the Wednesday of week 21. **And the crime is the layout.** Somebody tidied it. Somebody sat down and made the boxes line up and the NONE entries read down the page like a column of type so that a stranger glancing at it would see a document and not a mess. A leak is a piece of paper somebody lost. **A statement is a piece of paper somebody made, and the making of it is the whole crime, and the tidying is how you can tell.** That is the whole of what I have added in a fortnight and I have not said it out loud to anybody.
 

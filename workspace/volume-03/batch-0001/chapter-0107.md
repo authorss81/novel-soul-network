@@ -1,8 +1,8 @@
 # Chapter 107 — The Review Date
 
-The exchange room was on the first floor of a building in Bower Street in a room that had been a store cupboard until about four years ago and still had the shelving brackets in it, and it had good bones, and the plate on the wall was the kind that takes about eleven seconds to come up and a person standing in the room to hold, and there was one chair in it and a table and a rack of about four hundred consent leaflets in a plastic box with a rubber band on it.
+The exchange room was on the first floor of a building in Bower Street in a room that had been a store cupboard until four years ago and still had the shelving brackets in it, and it had good bones, and the plate on the wall was the kind that takes about eleven seconds to come up and a person standing in the room to hold, and there was one chair in it and a table and a rack of about four hundred consent leaflets in a plastic box with a rubber band on it.
 
-The woman who had it was thirty-one and her name was Ianthe Roke and she had a diary open on the table and about nine sheets of paper with columns on them, and she said, before he had got the door shut, "**If you are here about the leaflets, they are new and I have not read them yet and you can have a bundle.**"
+The woman who had it was thirty-one and her name was Ianthe Roke and she had a diary open on the table and nine sheets of paper with columns on them, and she said, before he had got the door shut, "**If you are here about the leaflets, they are new and I have not read them yet and you can have a bundle.**"
 
 "I am not here about the leaflets."
 
@@ -34,7 +34,7 @@ She put the pen down.
 
 "And how many reviews are in the last four months."
 
-"**Four.**" She said it levelly. "**And I want to be exact, because you are a technician and you are going to do arithmetic. Four of the eleven have gone past their review date. One of them went past it in the middle of last term. One went past it in the week of the twenty-fourth. Two went past it before the summer and I inherited them, and one of those two is four months past, and it is not his, and I found it on the back of a form in about four seconds and I have not rung anybody and I am not going to ring anybody today.**"
+"**Four.**" She said it levelly. "**And I want to be exact, because you are a technician and you are going to do arithmetic. Four of the eleven have gone past their review date. One of them went past it in the middle of last term. One went past it in the week of the twenty-fourth. Two went past it before the summer and I inherited them, and one of those two is four months past, and it is not his, and I found it on the back of a form in four seconds and I have not rung anybody and I am not going to ring anybody today.**"
 
 "Then four of eleven."
 
@@ -52,7 +52,7 @@ Ianthe Roke did not ask which one the eleventh was. She said, "**The man who lif
 
 Roy Amiss was in a bed by a window on the second floor with a frame on the left leg and a catheter bag on a hook and a chart on the end of the bed that Marek Senn did not read, because that is not a thing a man in a lanyard reads in a ward.
 
-He was pleased to see somebody from outside. That was the first thing and it was a completely ordinary thing and it took Marek Senn about four seconds to understand that a man of fifty-one who has been in a bed for eleven days is pleased to be spoken to by anybody whose job is not to bring him a pillow.
+He was pleased to see somebody from outside. That was the first thing and it was a completely ordinary thing and it took Marek Senn four seconds to understand that a man of fifty-one who has been in a bed for eleven days is pleased to be spoken to by anybody whose job is not to bring him a pillow.
 
 "You are the fourth one," said Roy Amiss.
 
@@ -102,7 +102,7 @@ Marek Senn did not say anything.
 
 ---
 
-"He wants to see it," said Ianthe Roke. "He is standing outside the door and I have known he was going to say that within about a minute of him standing there, so I am going to say the answer first, and then you can decide what you want to do with your face."
+"He wants to see it," said Ianthe Roke. "He is standing outside the door and I have known he was going to say that within a minute of him standing there, so I am going to say the answer first, and then you can decide what you want to do with your face."
 
 "Go on."
 
@@ -120,11 +120,11 @@ Marek Senn did not say no and did not say yes.
 
 "**And I want to be straight with you, because I have spent a term telling people things and then not telling them the other half, and that is the reason I have not got the fourth beat back.** I cannot tell you why I asked."
 
-"**I did not think you were going to.**" She picked the diary up. "**You asked because a thing went wrong somewhere and you have a hole in your head about a fourth beat and you have decided that a care-link is where the next one is going to be. And I will tell you the thing nobody tells you, which is that it is not, and it is not because care-links are good. It is not because a care-link is a copy of a bad thing. It is because a care-link is the only piece of paper in this city that is built out of a date and a phone call, and both of those are made by a person, and neither of them is stored anywhere, and so it rots from both ends at once and the rotting is invisible, and in about four months the only trace that a man of fifty-one was ever connected to anything in this room is that somebody remembered to ring him.**"
+"**I did not think you were going to.**" She picked the diary up. "**You asked because a thing went wrong somewhere and you have a hole in your head about a fourth beat and you have decided that a care-link is where the next one is going to be. And I will tell you the thing nobody tells you, which is that it is not, and it is not because care-links are good. It is not because a care-link is a copy of a bad thing. It is because a care-link is the only piece of paper in this city that is built out of a date and a phone call, and both of those are made by a person, and neither of them is stored anywhere, and so it rots from both ends at once and the rotting is invisible, and in about six weeks the only trace that a man of fifty-one was ever connected to anything in this room is that somebody remembered to ring him.**"
 
 "What happens if you ring him and he says no."
 
-"**Then I take it off, and it comes off in about four seconds, and the room goes back to what it was, and I write one line in the diary with the date on it and nobody ever reads it.**"
+"**Then I take it off, and it comes off in four seconds, and the room goes back to what it was, and I write one line in the diary with the date on it and nobody ever reads it.**"
 
 "And if you do not ring."
 
@@ -132,7 +132,7 @@ Marek Senn did not say no and did not say yes.
 
 ---
 
-He stood in the corridor outside for about four minutes afterwards and then went back in, because he had a question and it was the only one he had come for.
+He stood in the corridor outside for four minutes afterwards and then went back in, because he had a question and it was the only one he had come for.
 
 "Mr Amiss. When you came in. How did they decide it was you?"
 
@@ -140,7 +140,7 @@ He stood in the corridor outside for about four minutes afterwards and then went
 
 "Which company."
 
-"**Mine.**" He said it in the tone of a man who has been surprised twice this year by the same fact. "**It is in my contract. I have been an engineer at the same firm for nine years and I have never read it and I signed it in about nine minutes, and it turns out it says that in an emergency the firm may connect to me, and I have thought about that every day since and I have got two things.**"
+"**Mine.**" He said it in the tone of a man who has been surprised twice this year by the same fact. "**It is in my contract. I have been an engineer at the same firm for nine years and I have never read it and I signed it in nine minutes, and it turns out it says that in an emergency the firm may connect to me, and I have thought about that every day since and I have got two things.**"
 
 "What are they."
 
@@ -156,7 +156,7 @@ He stood in the corridor outside for about four minutes afterwards and then went
 
 ---
 
-Marek Senn said goodbye and went down two flights and out into Bower Street and stood on the pavement for about a minute and a half, and he did not go back up.
+Marek Senn said goodbye and went down two flights and out into Bower Street and stood on the pavement for a minute and a half, and he did not go back up.
 
 He had five things in a drawer under a bench. Four of them were other people's sentences. The fifth was about two hundred people and a woman of thirty-nine who had read the original six times and had a page of her own that she had given to nobody.
 
@@ -164,15 +164,15 @@ He did not add a sixth, and he wrote down on the back of a docket, in his own ha
 
 *Ianthe Roke, 31, was right.*
 
-And then, because he had begun a list and had about nine minutes before his bus, he added underneath it, in the same hand, in the same ink:
+And then, because he had begun a list and had nine minutes before his bus, he added underneath it, in the same hand, in the same ink:
 
 *She asked me why and I did not say. Fifth. Do not make it six.*
 
 ---
 
-*110. Tuesday of week 32, about half past one on a pavement in Bower Street, and this entry is about a man of fifty-one in a bed with a frame on his leg who found out that the answer to a question he asked in a market about a fortnight ago is that there is no single person, and about a woman of thirty-one with a diary who said no to me before I asked, and got both halves right, and about a form with a box on it that says patient identifiers, if available.*
+*110. Tuesday of week 32, half past one on a pavement in Bower Street, and this entry is about a man of fifty-one in a bed with a frame on his leg who found out that the answer to a question he asked in a market about a fortnight ago is that there is no single person, and about a woman of thirty-one with a diary who said no to me before I asked, and got both halves right, and about a form with a box on it that says patient identifiers, if available.*
 
-*The room.* A cupboard with shelving brackets in it and good bones, a plate, a chair, a table, and about four hundred consent leaflets in a plastic box with a rubber band on it. **Eleven open shares and four past their review date, and I am not going to call that a rate and I said so out loud to a woman I had known for nine minutes, because there is a room with a girl of twenty-nine in it who started in the middle of last term and there is no sample and a number without a sample is a complaint.** One of the four dates was the middle of last term, one was the week of the twenty-fourth, and two were inherited from before the summer, and **one of those two is four months past, and I have put that number in this book and I have not put the name on it, and the name is the thing I am not going to do today.** **And the answer to a care-link, said by a woman of thirty-one in about nine words: it is the only piece of paper in this city built out of a date and a phone call, and neither of those is stored anywhere, and so it rots from both ends at once and the rotting is invisible, and in about four months the only trace that a man of fifty-one was ever connected to anything in that room is that somebody remembered to ring him.** That is the third time this term somebody has handed me the whole of a thing in nine words and I have been the fourth thing in the room each time and I have not been in the room in any of the other two.
+*The room.* A cupboard with shelving brackets in it and good bones, a plate, a chair, a table, and about four hundred consent leaflets in a plastic box with a rubber band on it. **Eleven open shares and four past their review date, and I am not going to call that a rate and I said so out loud to a woman I had known for nine minutes, because there is a room with a girl of twenty-nine in it who started in the middle of last term and there is no sample and a number without a sample is a complaint.** One of the four dates was the middle of last term, one was the week of the twenty-fourth, and two were inherited from before the summer, and **one of those two is four months past, and I have put that number in this book and I have not put the name on it, and the name is the thing I am not going to do today.** **And the answer to a care-link, said by a woman of thirty-one in about nine words: it is the only piece of paper in this city built out of a date and a phone call, and neither of those is stored anywhere, and so it rots from both ends at once and the rotting is invisible, and in about six weeks the only trace that a man of fifty-one was ever connected to anything in that room is that somebody remembered to ring him.** That is the third time this term somebody has handed me the whole of a thing in nine words and I have been the fourth thing in the room each time and I have not been in the room in any of the other two.
 
 *And the man.* **Fifty-one, nine years with one firm, installed and maintained lifting equipment, and the fourth one in about six rooms a week for six years, and a card for six of them and nine courses and never once asked.** He told me in a bed, with some satisfaction, that he has been the fourth one in this ward every day for eleven days and is the only person on the ward with a card, and that he cannot tell me he does not like doing it, because it is the most useful thing anybody in the building has asked him to do since he came in. **And the second half. He signed a form on the Friday that says his firm may connect to him in an emergency, in nine minutes, without reading it, and he did not know it was in his contract, so nobody in that room could have said he agreed to it — and he would have agreed to it if anybody had asked him, and that is the part he has been stuck on for eleven days, and it took him about nine seconds to say it and it is the truest sentence anybody has said to me this term.** He asked his question again, in front of me, and then answered it himself: **it is not one person, it is a form and a room and a firm and a girl with a diary and about nine days, and if it had been you with the plate I would have been the fourth one for you and you would not have asked me a single thing.** He is not a hinge and he is not a victim and he is the best critic of the case I have met and he is lying in a bed and I am not going to be able to do one single thing about any part of it.
 

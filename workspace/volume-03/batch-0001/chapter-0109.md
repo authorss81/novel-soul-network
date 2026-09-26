@@ -1,6 +1,6 @@
 # Chapter 109 — Not Mine
 
-The shutter was up and the lamp was on and the light had gone about an hour, and Marek Senn had a meter bag open on the bench and about nine pounds' worth of nothing in it, when the bell on the door went and a woman of about thirty-five came in and looked at the door, at the shutter, at the drawer under the bench, at the list in the plastic sleeve on the wall and at the shelf above the bench, in that order, in about nine seconds.
+The shutter was up and the lamp was on and the light had gone an hour, and Marek Senn had a meter bag open on the bench and nine pounds' worth of nothing in it, when the bell on the door went and a woman of about thirty-five came in and looked at the door, at the shutter, at the drawer under the bench, at the list in the plastic sleeve on the wall and at the shelf above the bench, in that order, in about nine seconds.
 
 "**I am not here to buy anything,**" she said, "**and I would rather say that in the first eleven seconds than have you offer me something.**"
 
@@ -20,13 +20,13 @@ Marek Senn put the meter bag lid down.
 
 "No."
 
-"**Right,**" said Leo Marr. "**That is faster than I expected and I am going to leave it there and not ask twice, and I want to be very clear that I am not going to tell you I will not ask a third time.**"
+"**Right,**" said Leo Marr. "That is faster than I expected and I am going to leave it there and not ask twice, and I want to be very clear that I am not going to tell you I will not ask a third time."
 
 "Ask whatever you want. I am not giving you it."
 
 ---
 
-"I have been called a lot of things in nine years," she said. "**Cell, group, movement, and about four years ago somebody in a district office wrote a name into a field on a form and after that it was a name.**"
+"I have been called a lot of things in nine years," she said. "**Cell, group, movement, and four years ago somebody in a district office wrote a name into a field on a form and after that it was a name.**"
 
 "Not by you."
 
@@ -46,7 +46,7 @@ Marek Senn did not say anything.
 
 "Who showed you."
 
-"**A woman of about thirty-nine who has read six copies of a bundle and has a page of her own that she has not given to anybody and is never going to, and who telephoned me on the Monday morning, which she has never done, and who asked me one question: is that one of ours.**" Leo Marr said it evenly. "**And I said no. And then I asked her for four days to find out who it is, and she said yes, and on the Wednesday she rang back and said she was not going to help me, and she was right not to, and I have been angry about it for about two days and I have stopped.**"
+"**A woman of about thirty-nine who has read six copies of a bundle and has a page of her own that she has not given to anybody and is never going to, and who telephoned me on the Monday morning, which she has never done, and who asked me one question: is that one of ours.**" Leo Marr said it evenly. "And I said no. And then I asked her for four days to find out who it is, and she said yes, and on the Wednesday she rang back and said she was not going to help me, and she was right not to, and I have been angry about it for about two days and I have stopped."
 
 "Why is it not one of yours."
 
@@ -70,13 +70,13 @@ She said it as though it was a fact about plumbing.
 
 "Why."
 
-"**Because a hinge is broken. That is the whole of what a hinge is, and I have spent nine years telling people that a hinge is a thing with a hole in it, and you can point at the hole, and a frightened room will accept a hole.**" She put her finger on the bench. "**And that is a card with four correct steps and a fifth line that says you are a person who acts, and it is not broken, and it is not going to frighten anybody, and in about four months it is going to be on a table in a ward in Bower Street and a man of fifty-one is going to read it and think, that is right, that is what I would have said, and he is going to be right about himself, and he is going to be wrong about a thing he cannot see.**"
+"**Because a hinge is broken. That is the whole of what a hinge is, and I have spent nine years telling people that a hinge is a thing with a hole in it, and you can point at the hole, and a frightened room will accept a hole.**" She put her finger on the bench. "**And that is a card with four correct steps and a fifth line that says you are a person who acts, and it is not broken, and it is not going to frighten anybody, and in about three weeks it is going to be on a table in a ward in Bower Street and a man of fifty-one is going to read it and think, that is right, that is what I would have said, and he is going to be right about himself, and he is going to be wrong about a thing he cannot see.**"
 
 "And three."
 
 "**Three. It is much better than the company's card and I hate that and I have not been able to get round it and I have tried for four days.**" She almost laughed. "**A company card says wait eleven seconds for a supervisor and a woman's card made at a kitchen table says if the word does not come put it down and say so, and both of those are correct, and this one says do not wait, and on the plain numbers this one is safer, because a person who acts on their own judgement and knows it is their own judgement is doing a fourth beat, and the whole of your case, all of it, the term and a half, is that the fourth beat is a person deciding on their own.**"
 
-The room was quiet for about four seconds. Outside, a shutter went down somewhere down the hill.
+The room was quiet for four seconds. Outside, a shutter went down somewhere down the hill.
 
 "Marek Senn," said Leo Marr.
 
@@ -102,7 +102,7 @@ He did not say anything.
 
 ---
 
-"**If I cut it, the two days go, and then the district has eleven men in about nine hundred bookings a week and nobody at the end of the telephone, and in about five weeks a man falls off something on a Friday at half past four and the finding is that the district attended nine hundred and one jobs and the nine hundred and second was not one of them, because a woman with a knife had been in a depot office.**"
+"**If I cut it, the two days go, and then the district has eleven men in about nine hundred bookings a week and nobody at the end of the telephone, and in about three weeks a man falls off something on a Friday at half past four and the finding is that the district attended nine hundred and one jobs and the nine hundred and second was not one of them, because a woman with a knife had been in a depot office.**"
 
 "That is a good reason."
 
@@ -114,7 +114,7 @@ He did not say anything.
 
 ---
 
-The bell went again and a woman of twenty-four came in with a case and a folder and put them on the bench, and she said, "**You are the man who was in the hall,**" and Marek Senn said, "Yes," and Talia Venn said, "**I am not, I am the woman who telephoned you, and I am in here for about nine minutes and then I have got a thing at four.**"
+The bell went again and a woman of twenty-four came in with a case and a folder and put them on the bench, and she said, "**You are the man who was in the hall,**" and Marek Senn said, "Yes," and Talia Venn said, "**I am not, I am the woman who telephoned you, and I am in here for nine minutes and then I have got a thing at four.**"
 
 She put the case down and looked at Leo Marr, and Leo Marr looked at her, and neither of them said hello, and Marek Senn stood behind the bench and had the specific feeling of being in a room that had been built for him by two other people.
 
@@ -130,7 +130,7 @@ She put the case down and looked at Leo Marr, and Leo Marr looked at her, and ne
 
 "Go on," said Leo Marr.
 
-"**Ianthe Roke's ward. The man of fifty-one. A care-link set up on the Friday because he was brought in on the Thursday and could not answer anybody and there was nobody in the room with him, and the party on the other end of the narrow share is his firm, because he signed something in about nine minutes in a previous life and did not read it.**" Talia Venn put her hands in her pockets, which she did instead of folding them. "**A firm is a party. That is the whole of what I came to say. It is not a disagreement, it is a fact and it is in his file.**"
+"**Ianthe Roke's ward. The man of fifty-one. A care-link set up on the Friday because he was brought in on the Thursday and could not answer anybody and there was nobody in the room with him, and the party on the other end of the narrow share is his firm, because he signed something in nine minutes in a previous life and did not read it.**" Talia Venn put her hands in her pockets, which she did instead of folding them. "**A firm is a party. That is the whole of what I came to say. It is not a disagreement, it is a fact and it is in his file.**"
 
 "**Name a person,**" said Leo Marr. "**One name and one number and he can end it.**"
 
@@ -148,7 +148,7 @@ She put the case down and looked at Leo Marr, and Leo Marr looked at her, and ne
 
 "I have noticed," said Talia Venn.
 
-And then Marek Senn, who had been standing behind a bench for about four minutes, said the only sentence available, which was the true one, and which neither of them wanted.
+And then Marek Senn, who had been standing behind a bench for four minutes, said the only sentence available, which was the true one, and which neither of them wanted.
 
 "**There is no list because counting them is a register, and a register finds the people in it. That is the same argument from the other end, and it is the argument a woman of forty-five made to me in a corridor on Monday, and I would say you are both wrong except that I have been trying to explain it for a term and a half and I have not got anywhere, so one of you is closer than the other and I do not know which.**"
 
@@ -178,7 +178,7 @@ Leo Marr went to the shelf above the bench before she went to the door.
 
 "A man of about sixty with a knife, in a fish market, at seven in the morning, about a week after it was written, and he wrote his own removal in the fourth column, and the reason is a clearance in about four years and a daughter of thirty-one."
 
-Leo Marr looked at it for about four seconds.
+Leo Marr looked at it for four seconds.
 
 "**Then the whole of it is a room of eleven with a card in a tin and a name in a drawer and a man on a Friday rota, and none of it is in a system, and one of you has been taken off the row with a knife.**"
 
@@ -194,11 +194,11 @@ She put the second card on the shelf the way she had found it, which was the lef
 
 "Go on."
 
-"**You are going to be the reason a room stops,**" said Leo Marr. "**Not in a market. In about four months, in a building, with a form, and it is going to be somebody else's form, and about nine hundred people are going to be told that the danger is a group of people, and the group is going to be a name on a leaflet, and there is going to be a man of about forty-four with a microphone and a man of about fifty-one with a fee, and the whole thing is going to be true in about nine words and none of the nine words is going to be about you.**"
+"**You are going to be the reason a room stops,**" said Leo Marr. "**Not in a market. In about a month, in a building, with a form, and it is going to be somebody else's form, and about nine hundred people are going to be told that the danger is a group of people, and the group is going to be a name on a leaflet, and there is going to be a man of about forty-four with a microphone and a man of about fifty-one with a fee, and the whole thing is going to be true in about nine words and none of the nine words is going to be about you.**"
 
 "Yes."
 
-"**And when it happens you are going to be the most findable person in the city, and you are twenty-two, and you have got a lanyard and a drawer and about eleven people a week, and I have been in nine rooms this year where somebody like you was standing with a clipboard and a card, and every one of those nine rooms got quieter in about four seconds, and not one person in any of them knew they had done it.**" She put her hand on the door. "**I have come to say it to your face while there are about nine witnesses who would not take my word for it, and I have got a woman of twenty-nine in a taxi rank who heard me say about half of it, and that is the only advantage I have and I am not giving it up.**"
+"**And when it happens you are going to be the most findable person in the city, and you are twenty-two, and you have got a lanyard and a drawer and about eleven people a week, and I have been in nine rooms this year where somebody like you was standing with a clipboard and a card, and every one of those nine rooms got quieter in four seconds, and not one person in any of them knew they had done it.**" She put her hand on the door. "**I have come to say it to your face while there are nine witnesses who would not take my word for it, and I have got a woman of twenty-nine in a taxi rank who heard me say about half of it, and that is the only advantage I have and I am not giving it up.**"
 
 The door went.
 
@@ -206,12 +206,12 @@ The lamp was on over the bench and the shutter was up and outside it had started
 
 ---
 
-*112. Thursday of week 32, about ten past six at night, and this entry is about a woman of thirty-five who has never called anything a house, and about a woman of twenty-four who came in for nine minutes and left with a case, and about a man of thirty-nine who telephoned a stranger on the Monday and telephoned her back on the Wednesday and said no.*
+*112. Thursday of week 32, ten past six at night, and this entry is about a woman of thirty-five who has never called anything a house, and about a woman of twenty-four who came in for nine minutes and left with a case, and about a man of thirty-nine who telephoned a stranger on the Monday and telephoned her back on the Wednesday and said no.*
 
-*The paper.* **Four sheets, stapled at the top left, a rota with about two hundred names and a box beside every one, eleven medical notes, and one paragraph.** I have got it in an envelope with nothing written on it in a drawer under this bench and I am not giving it to her and I did not hesitate. **And the reason is not that she is a stranger and not that she is right, and I want the actual reason written down because I have noticed myself producing reasons in this term that are about how I look.** The reason is that a sheet with about two hundred names on it and eleven medical notes cannot be destroyed by a person, because there is no post in this city whose job it is to take a name out of a file about a person, and a movement is not a person, and a movement cannot be made to promise anything, and the only way a movement destroys a document is by admitting that it had it, which is the opposite. **She said: then you are the drawer. I said: yes. That is the whole of that transaction and it took about four seconds and it is the fifth time this term that the correct answer has been nobody and the cost has been mine.**
+*The paper.* **Four sheets, stapled at the top left, a rota with about two hundred names and a box beside every one, eleven medical notes, and one paragraph.** It is in an envelope with nothing written on it in a drawer under this bench and I am not giving it to her and I did not hesitate. **And the reason is not that she is a stranger and not that she is right, and I want the actual reason written down because I have noticed myself producing reasons in this term that are about how I look.** The reason is that a sheet with two hundred names and eleven medical notes cannot be destroyed by a person, because there is no post in this city whose job it is to take a name out of a file about a person, and a movement is not a person and cannot be made to promise anything, and the only way a movement destroys a document is by admitting that it had it, which is the opposite. **She said: then you are the drawer. I said: yes. That is the whole of that transaction, it took four seconds, and it is the fifth time this term that the correct answer has been nobody and the cost has been mine.**
 
-*And the fifth line, and the three things she said about it.* **We say leave. That is the whole of the position and it is the reason half of them will not come into a hospital with a person, and it is the reason a great many people in this city think they are a threat, and it is the only sentence they have said to a clinic or a district office in nine years.** And then three things, none of them reassurance: **one, it is somebody who was in a gap with a load on and nobody came and the load came down and they thought, I do not need that, and I am not going to stand in front of a man in a lanyard and tell him it is wrong when I do not know how it came out. Two, it is more dangerous than the four words on a laminated sheet, and here is the reason and I have not been able to get round it in a day and a half: a hinge is broken, and a broken thing you can point at, and a frightened room will accept a hole, and this is a card with four correct steps and a fifth line that says you are a person who acts, and it is not broken, and it is not going to frighten anybody.** And three: **it is much better than the company's card and she hates that.** A company card says wait eleven seconds. A woman's card from a kitchen table says if the word does not come, put it down and say so. That one says do not wait, and on the plain numbers it is safer, because a person who acts on their own judgement and knows it is their own judgement is doing a fourth beat, and the whole of this case is that the fourth beat is a person deciding on their own. **I have not got a single argument against that and I have had two days and I am going to have a great deal longer, and the batch of things I have written in this book in a term and a half is a wall of paper about a hole, and this is a thing with no hole in it.**
+*And the fifth line, and the three things she said about it.* **We say leave.** She gave me three reasons why that line is dangerous and not one of them was reassurance, and the second is the one I have not been able to get round in a day and a half: **a hinge is broken, a broken thing you can point at, and a frightened room will accept a hole — and that is a card with four correct steps and a fifth line that says you are a person who acts, and it is not broken, and it is not going to frighten anybody.** And the third: **it is much better than the company's card and she hates that.** A company card says wait eleven seconds. A woman's card from a kitchen table says if the word does not come, put it down and say so. That one says do not wait, and on the plain numbers it is safer, because a person who acts on their own judgement and knows it is their own judgement is doing a fourth beat, and the whole of this case is that the fourth beat is a person deciding on their own. **I have not got a single argument against that, and I have had two days and I am going to have a great deal longer. The whole of what I have written in this book in a term and a half is a wall of paper about a hole, and this is a thing with no hole in it.**
 
-*And what she said to me, and she is right.* **You are the hinge now.** Grade three, two days, the release rate, from last Friday, about eleven times on a Friday, in a company's system, on a plastic sleeve with a form in it and an empty reason box and a strip of tape somebody else put there, and the condition of the rota is that same course exception and a manager of fifty-two who has undertaken in writing to leave it empty. **And in about four years a foreman is going to tell a boy of twenty-one that the correct procedure is to wait for the technician, and the boy will be right, and I will be the reason, and she says there is no lanyard in this city big enough for her to be angry about it, and she is right, and I said so out loud in about two words and I have not got a single one of the eleven sentences I said to that manager in an office to give back.** She then said the thing I did not know anybody outside this case knew: **she cuts the wire. About eleven times in nine years, and never once hit anybody, and that is why half of them will not come into a hospital with a person and why a great many people in this city think they are a threat.** And she has not cut it, and I asked why, and the answer is about nine days and a woman in the Quiet Quarter with a photocopier, and if the wire goes first then the person doing the photocopying hears about it from a district notice and stops, and is right to, and a frightened woman becomes cautious. **So: for now. And I am not to thank her, because if I thank her she has done a week of work in a shop for nothing.**
+*And what she said to me, and she is right.* **You are the hinge now.** Grade three, two days, the release rate, a plastic sleeve with a form in it and an empty reason box, and a manager of fifty-two who has undertaken in writing to leave it empty — and in about four years a foreman is going to tell a boy of twenty-one that the correct procedure is to wait for the technician, and the boy will be right, and I will be the reason. **She is right, and I said so out loud in two words, and I have not got a single one of the eleven sentences I said to that manager in an office to give back.** She also told me the one thing I did not know anybody outside this case knew, which is that she cuts the wire, and has not cut it, and the reason is nine days and a woman in the Quiet Quarter with a photocopier: **if the wire goes first then the person doing the photocopying hears about it from a district notice and stops, and is right to, and a frightened woman becomes cautious.** **So: for now. And I am not to thank her, because if I thank her she has done a week of work in a shop for nothing.**
 
-*And the shelf.* She went and looked at a grey card on the left-hand end in front of a box of washers and said three things about it in about four seconds without picking it up: **it is a sequence card, there are three names along the bottom, one has been taken off the whole row with something sharp, and there is a name written in a fourth space with a line drawn under it.** She did not ask who wrote the fifth line and she did not ask who the two remaining names are, and she did not ask whether it is a share. **And then she said: then the whole of it is a room of eleven with a card in a tin and a name in a drawer and a man on a Friday rota, and none of it is in a system, and one of you has been taken off the row with a knife. And I said two, and neither of them is me. And she said: that is more than most.** I have written that down because it is the first time anybody outside this case has looked at a shelf in a shop and counted what was on it correctly, and counted it as a room and not as a system, and the difference between those two words is the whole of what I have been trying to say in about nine hundred pages of a book in a drawer.
+*And the shelf.* She counted it in four seconds without picking it up — a sequence card, three names along the bottom, one taken off the whole row with something sharp, and a name written in a fourth space with a line under it — and then said the whole of it out loud: **a room of eleven with a card in a tin and a name in a drawer and a man on a Friday rota, and none of it in a system, and one of you taken off the row with a knife.** I said two, and neither of them is me, and she said: that is more than most. **I have written that down because it is the first time anybody outside this case has looked at a shelf in a shop and counted what was on it correctly, and counted it as a room and not as a system, and the difference between those two words is the whole of what I have been trying to say in nine hundred pages of a book in a drawer.**

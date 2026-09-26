@@ -1,8 +1,8 @@
 # Chapter 108 — Forty-Three
 
-The back room of the Saltmarket Exchange was a room behind a room and it held about eleven people and a table that about eleven people had been putting their elbows on since before any of this, and the books were on a shelf in a wooden box and Bea Nunn had a key to the box on a length of string round her neck and about nine other people in the city knew that.
+The back room of the Saltmarket Exchange was a room behind a room and it held about eleven people and a table that they had been putting their elbows on since before any of this, and the books were on a shelf in a wooden box and Bea Nunn had a key to the box on a length of string round her neck and about nine other people in the city knew that.
 
-She stood up at twenty minutes to one, because it has always been about twenty minutes to one, and she said the two things she says.
+She stood up at twenty minutes to one, because it has always been twenty minutes to one, and she said the two things she says.
 
 "**Nobody has minutes.**"
 
@@ -10,13 +10,13 @@ She stood up at twenty minutes to one, because it has always been about twenty m
 
 "**Then sit down, and the tin is by the door, and if you have not got a card and you want one, write it and put it in the tin and do not tell anybody else in this room that you have, and if you do not want one then come in and say so and put that in the tin and that is the same tin.**"
 
-Nobody put anything in the tin for about four minutes, which is normal, and then one person did, and it was a man of about fifty-eight who had been in three times and had not written anything.
+Nobody put anything in the tin for four minutes, which is normal, and then one person did, and it was a man of about fifty-eight who had been in three times and had not written anything.
 
 "Item one," said Bea Nunn. "**A boiler.**"
 
-It was a boiler. It took four minutes and eleven seconds and it was about a man of about seventy and a valve and a company that had stopped answering in the middle of last term, and about nine people said nothing useful and one person knew somebody, and it ended the way those things end.
+It was a boiler. It took four minutes and eleven seconds and it was a man of about seventy and a valve and a company that had stopped answering in the middle of last term, and about nine people said nothing useful and one person knew somebody, and it ended the way those things end.
 
-"**Second item. Written on the back of a docket in pencil, unsigned, in block capitals, four sentences about a man's shoulder, in about a minute and a half, on the back of a docket in a kitchen, by a man of thirty-nine who asked not to be named and then named himself inside four seconds, which is the third time this term that somebody in this case has refused a thing and taken it back in the same room.**"
+"**Second item. Written on the back of a docket in pencil, unsigned, in block capitals, four sentences about a man's shoulder, in a minute and a half, on the back of a docket in a kitchen, by a man of thirty-nine who asked not to be named and then named himself inside four seconds, which is the third time this term that somebody in this case has refused a thing and taken it back in the same room.**"
 
 "**It is me,**" said Denny Molloy.
 
@@ -24,13 +24,13 @@ He had a site diary under his arm and he did not open it and he did not sit down
 
 *Fitter said wait and went for a tea. Old lady on a stair about eleven minutes. Nobody was in danger. I am not saying it was wrong.*
 
-"That is it," he said. "**And I have read it out in a room above a shop on the Wednesday of week thirty and I did not say it there, I said about nine words, and a man wrote four sentences for me and I would not let him, and then I wrote them myself, and this is the same four sentences and I have thought about it for about a fortnight and I am going to read them out because they are mine and I wrote them in about a minute and a half.**"
+"That is it," he said. "**And I have read it out in a room above a shop on the Wednesday of week thirty and I did not say it there, I said about nine words, and a man wrote four sentences for me and I would not let him, and then I wrote them myself, and this is the same four sentences and I have thought about it for a fortnight and I am going to read them out because they are mine and I wrote them in a minute and a half.**"
 
-Nobody said anything for about four seconds.
+Nobody said anything for four seconds.
 
-"**Right,**" said Bea Nunn. "**It is in the fourth column that I put a name, and the fourth column is the person who took the entry, and a man who has read four sentences out in a room where I did not minute them is a man who has taken the entry. It is a rule I made in about the fourth year and the reason I made it is that a thing that changes has to have somebody's name on it or in about four years it is a story.**"
+"**Right,**" said Bea Nunn. "It is in the fourth column that I put a name, and the fourth column is the person who took the entry, and a man who has read four sentences out in a room where I did not minute them is a man who has taken the entry. **It is a rule I made in about the fourth year and the reason I made it is that a thing that changes has to have somebody's name on it or in about four years it is a story.**"
 
-She wrote. It took her about a minute and a half. Nobody read it upside down.
+She wrote. It took her a minute and a half. Nobody read it upside down.
 
 "**That is forty-three,**" she said.
 
@@ -48,7 +48,7 @@ Nine or eleven seconds of quiet.
 
 "You have something else," said Bea Nunn.
 
-"**I have. I have been asked about a room five times in four weeks, and one of the five was the same person twice, and three of the five were older than me. And I have said no five times and the sixth person to be asked in four weeks is me, and nobody has asked me, and I have been waiting since the Wednesday of week twenty-eight to see whether I am a person who gets asked or whether I am a person who organises.**" She did not put her hands in her pockets. "**I am nineteen. I am a student. I am not a body in a room for anybody, and I have decided that in about a second, and I would like somebody else to make sure I do not forget it, because in about four years there is going to be a document with a group of people on it and I am going to be the one who holds the pen.**"
+"**I have. I have been asked about a room five times in four weeks, and one of the five was the same person twice, and three of the five were older than me. And I have said no five times and the sixth person to be asked in four weeks is me, and nobody has asked me, and I have been waiting since the Wednesday of week twenty-eight to see whether I am a person who gets asked or whether I am a person who organises.**" She did not put her hands in her pockets. "**I am nineteen. I am a student. I am not a body in a room for anybody, and I have decided that in a second, and I would like somebody else to make sure I do not forget it, because in about four years there is going to be a document with a group of people on it and I am going to be the one who holds the pen.**"
 
 "**That is item three,**" said Bea Nunn, "**and it is not an item, and I am not writing it in the book, and I am going to say why, and the why is about four years.**"
 
@@ -76,13 +76,13 @@ The woman in the doorway put her head round.
 
 "There is a difference—"
 
-"**There is no difference and I am going to give you the whole of it in about eleven words because you have come at about twenty past one and there is a man with a shoulder in here and he has not been in a room since the Wednesday before last.**" Bea Nunn did not get up. "**About two hundred people have come through that door in nine years and not one of them has ever asked to listen. They come in, they say their thing, they go out, and the reason the room still works is that nobody can come twice as somebody else.**"
+"**There is no difference and I am going to give you the whole of it in about eleven words because you have come at twenty past one and there is a man with a shoulder in here and he has not been in a room since the Wednesday before last.**" Bea Nunn did not get up. "**About two hundred people have come through that door in nine years and not one of them has ever asked to listen. They come in, they say their thing, they go out, and the reason the room still works is that nobody can come twice as somebody else.**"
 
 "So I cannot come at all."
 
 "**You can come on the first Wednesday, and you can say your thing in four minutes, and you can put a card in the tin, and if you come back the second time and you say a different thing then I will know it is you, because I know about two hundred voices and I would know one.**" She picked up the pen. "**Write your name on that and I will put the date beside it, and then you are a person who came, and not a person who listened, and there is not one single thing you can hear in here that I would not say in front of a stranger in a coffee queue, and the only reason I do not say it in a coffee queue is that in a coffee queue somebody can put a cup down next to you.**"
 
-The woman wrote her name and went out and shut the door and about four people in the room looked at the ceiling.
+The woman wrote her name and went out and shut the door and four people in the room looked at the ceiling.
 
 "**Right,**" said Bea Nunn. "**Item four.**"
 
@@ -90,7 +90,7 @@ The woman wrote her name and went out and shut the door and about four people in
 
 Item four was a man of about sixty who had been in the room twice before and had never written anything, and who had been to the second of the evening talks, a week ago, and had come out with less than he had gone in with.
 
-"They asked us to say who we would trust," he said. "**And I sat there for about an hour and a half with about ninety of us in it and I did not have one, and I have been installing and maintaining lifting equipment for about thirty-one years and I have a card and I have been on about eleven courses and there is a foreman I work under who is fifty-four and there is a girl of twenty-nine who is better than both of us, and I could not put either of them in front of ninety people who do not know what a boundary is.**"
+"They asked us to say who we would trust," he said. "**And I sat there for an hour and a half with ninety of us in it and I did not have one, and I have been installing and maintaining lifting equipment for thirty-one years and I have a card and I have been on about eleven courses and there is a foreman I work under who is fifty-four and there is a girl of twenty-nine who is better than both of us, and I could not put either of them in front of ninety people who do not know what a boundary is.**"
 
 "So what do you want out of this room."
 
@@ -148,9 +148,9 @@ Marek Senn stood in a corridor over the Saltmarket with about nine people going 
 
 "**That is a new one.**"
 
-"It is the only one I have got, and I have had it since the Friday of week thirty at about one o'clock in a canteen, and I have said it to one person and she is thirty-four and she has not read a leaflet yet and I am not going to be able to explain to her what your sentence did to me, and I have tried about nine times in five weeks and I can get about half of it out and the half that comes out is the part where I am a man who says interesting things in rooms, and that is the part that stops the room, and I cannot get the other half out, and I have told the truth about that twice this term and both times to a person who was owed something.**"
+"**It is the only one I have got, and I have had it since the Friday of week thirty at one o'clock in a canteen, and I have said it to one person and she is thirty-four and she has not read a leaflet yet and I am not going to be able to explain to her what your sentence did to me, and I have tried nine times in five weeks and I can get half of it out and the half that comes out is the part where I am a man who says interesting things in rooms, and that is the part that stops the room, and I cannot get the other half out, and I have told the truth about that twice this term and both times to a person who was owed something.**"
 
-Asha Reed looked at him for about four seconds.
+Asha Reed looked at him for four seconds.
 
 "**Okay,**" she said. "**That is an answer and I am not going to make you say more and I am not going to thank you for it, and I am going to do the thing I have been wanting to do since the Wednesday of week twenty-eight, and that is put my name in the tin.**"
 
@@ -164,12 +164,12 @@ Nine people went past. He counted them, because it was Wednesday, and it was not
 
 ---
 
-*111. Wednesday of week 32, about twenty past two in a corridor over the Saltmarket, and this entry is about a woman of sixty-one with a key on a string who declined her own item for the third time and said the reason out loud in a room of about eleven people, and about a man of thirty-nine who read out four sentences in pencil that he had written in a kitchen in about a minute and a half, and about a woman of thirty-four with a notebook who was not let in.*
+*111. Wednesday of week 32, twenty past two in a corridor over the Saltmarket, and this entry is about a woman of sixty-one with a key on a string who declined her own item for the third time and said the reason out loud in a room of eleven people, and a man of thirty-nine who read out four sentences in pencil that he had written in a kitchen in a minute and a half, and a woman of thirty-four with a notebook who was not let in.*
 
-*Forty-three.* **A boiler, then the shoulder, then a first-year's sentence, then a man of sixty who could not name a person he would trust, then nothing.** I have not been in that room since the Wednesday of week twenty-eight and I have counted the entries in the book for about a term and a half from a distance, and the count is now forty-three and it did not move for six weeks and then it moved for a man's shoulder, **and the fourth column has my neighbour's name in it and not mine, and the reason is about four years and it is that a thing that changes has to have somebody's name on it or it is a story, and I want that on the record because I have spent a term arguing that a name in a room is a terrible thing and a woman of sixty-one has just told me that it is only a terrible thing in the columns that are about other people.** That is a correction and it is right and I have not got an answer to it yet.
+*Forty-three.* **A boiler, then the shoulder, then a first-year's sentence, then a man of sixty who could not name a person he would trust, then nothing.** I have not been in that room since the Wednesday of week twenty-eight and I have counted the entries in the book for a term and a half from a distance, and the count is now forty-three and it did not move for six weeks and then it moved for a man's shoulder, **and the fourth column has my neighbour's name in it and not mine, and the reason is that a thing that changes has to have somebody's name on it or in four years it is a story, and I want that on the record because I have spent a term arguing that a name in a room is a terrible thing and a woman of sixty-one has just told me that it is only a terrible thing in the columns that are about other people.** That is a correction and it is right and I have not got an answer to it yet.
 
-*And the woman at the door, who is not a plot and is not anybody.* **A nurse, thirty-four, district clinic in Crown Terrace, four lines written down at the back of a sheet and none of them about a person, and a stated intention to listen and not say anything.** Four minutes of the most efficient reasoning anybody has done to me in a term and a half, in about eleven words: **about two hundred people have come through that door in nine years and not one of them has ever asked to listen, and the reason the room still works is that nobody can come twice as somebody else.** She was told: you can come on the first Wednesday and say your thing in four minutes, and if you come twice the room will know you, **and I have been building a room in my head for a term and a half in which you can hear things and cannot be named, and it does not exist, and this is the closest any of us has come to saying so out loud, and it was said by a woman of sixty-one to a stranger on a Wednesday afternoon, and I have not got round it and I have had about an hour.**
+*And the woman at the door, who is not a plot and is not anybody.* **A nurse, thirty-four, district clinic in Crown Terrace, four lines written down at the back of a sheet and none of them about a person, and a stated intention to listen and not say anything.** Four minutes of the most efficient reasoning anybody has done to me in a term and a half, in eleven words: **about two hundred people have come through that door in nine years and not one of them has ever asked to listen, and the reason the room still works is that nobody can come twice as somebody else.** She was told: you can come on the first Wednesday and say your thing in four minutes, and if you come twice the room will know you, **and I have been building a room in my head for a term and a half in which you can hear things and cannot be named, and it does not exist, and this is the closest any of us has come to saying so out loud, and it was said by a woman of sixty-one to a stranger on a Wednesday afternoon, and I have not got round it and I have had an hour.**
 
-*And the first-year.* **Six times, unchanged, and the sixth was harder because she was no longer frightened. Five asks in four weeks and the sixth is her, and she is nineteen, and she is not a body in a room for anybody, and she has decided she will not be the one holding the pen on a document with a group of people's names on it in about four years.** And then the other half, which I did not know was coming: **she is not cross that I did not say I had heard it. She is cross that I did not say the other half.** As long as it is Senn's, nobody has to look at it. She has been carrying that for five weeks on her own and I have let her, and I could have stopped it on the Wednesday afternoon by saying nine words, and I did not, **because nine words from me would have become a thing a room knows about a man, and so I chose the protection of the seven and the four and the not-telling, and it cost a girl of nineteen five weeks of standing on her own in a sentence she did not write.** I said I do not know. She said that is a new one, and she is right, it is the only one I have got, and I have had it since the Friday of week thirty at about one o'clock in a canteen with a notice in my hand, and I have said it out loud to one person in five weeks and she was owed something both times.
+*And the first-year.* **Six times, unchanged, and the sixth was harder because she was no longer frightened. Five asks in four weeks and the sixth is her, and she is nineteen, and she is not a body in a room for anybody, and she has decided she will not be the one holding the pen on a document with a group of people's names on it in about four years.** And then the other half, which I did not know was coming: **she is not cross that I did not say I had heard it. She is cross that I did not say the other half.** As long as it is Senn's, nobody has to look at it. She has been carrying that for five weeks on her own and I have let her, and I could have stopped it on the Wednesday afternoon by saying nine words, and I did not, **because nine words from me would have become a thing a room knows about a man, and so I chose the protection of the seven and the four and the not-telling, and it cost a girl of nineteen five weeks of standing on her own in a sentence she did not write.** I said I do not know. She said that is a new one, and she is right, it is the only one I have got, and I have had it since the Friday of week thirty at one o'clock in a canteen with a notice in my hand, and I have said it out loud to one person in five weeks and she was owed something both times.
 
 *And the tin.* **She put her own name in it and she has never done that in nineteen years of being in rooms, and the card is about a room and not about a practice, and the person she has named who can end it is a woman of sixty-one with a key on a string, and I am not on it on purpose.** I have spent two volumes telling people that a name on the front of a card becomes a company's document about a practice, and a girl of nineteen has taken the same idea and put it on a card about a room instead, and she has done it better than I have ever done it, **and the reason it is better is that the thing she is protecting is not a practice at all, it is eleven people in a room, and I have been treating the two as the same for a term and a half.**

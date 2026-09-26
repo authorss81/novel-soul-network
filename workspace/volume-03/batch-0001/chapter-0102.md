@@ -1,6 +1,6 @@
 # Chapter 102 — Six Weeks Late
 
-The lamp was on over the bench and the shutter was up and it was about ten past ten on the Tuesday night of the first week of the new term, and Marek Senn rang the number and it rang twice and was answered by a woman who said his name in a way that meant she had been holding the telephone for about four minutes and had decided not to make that part of the conversation.
+The lamp was on over the bench and the shutter was up and it was ten past ten on the Tuesday night of the first week of the new term, and Marek Senn rang the number and it rang twice and was answered by a woman who said his name in a way that meant she had been holding the telephone for four minutes and had decided not to make that part of the conversation.
 
 "I am late," he said.
 
@@ -74,13 +74,13 @@ He heard her put her hands flat on whatever was in front of her, which is a thin
 
 "**You have a card exception, and the condition on the rota is a card in date or an exception recorded, and you are going to be standing in about eleven rooms a week confirming a release to people who will be taught, by the practice itself, that a release waits for you.**" Her voice did not rise. "**How long has that rota been agreed.**"
 
-"Since the Friday of week thirty at about ten past five in the afternoon. In a chair. He asked me to say the argument first and I said it and it was a good argument and I said yes anyway in one syllable, and I said I would like it written down that I said the argument before I said yes, and he wrote that down."
+"Since the Friday of week thirty at ten past five in the afternoon. In a chair. He asked me to say the argument first and I said it and it was a good argument and I said yes anyway in one syllable, and I said I would like it written down that I said the argument before I said yes, and he wrote that down."
 
 "**Was it a good argument.**"
 
 "It was the best argument I have got. It is the argument that a certificate is a portable dependency and that in about four years a boy of twenty-one with a count of his own is going to be told that the correct procedure is to wait for the technician. And it is correct. And I am not able to hold it against a wage."
 
-There was nothing in the line for about four seconds.
+There was nothing in the line for four seconds.
 
 "**Do you want me to say the thing you have not said,**" said Talia Venn.
 
@@ -92,9 +92,9 @@ There was nothing in the line for about four seconds.
 
 "**Ask me anyway.**"
 
-He looked at the wall in Lattice Ward. The list in a plastic sleeve was on it, and the initials at the bottom of the fifth line meant *not done*, and there was no longer any document in this city that required it to be there, and he had looked at it about eleven times since the Friday and had not taken it down.
+He looked at the wall in Lattice Ward. The list in a plastic sleeve was on it, and the initials at the bottom of the fifth line meant *not done*, and there was no longer any document in this city that required it to be there, and he had looked at it eleven times since the Friday and had not taken it down.
 
-"I have done it nine times since the Friday of week thirty-one," he said. "**Nine times, and about nine hundred of those have been done by people who have never been asked, and none of the nine is written down anywhere, and I have not written mine down either, and I did not know until about four seconds ago what that was.**"
+"I have done it nine times since the Friday of week thirty-one," he said. "**Nine times, and about nine hundred of those have been done by people who have never been asked, and none of the nine is written down anywhere, and I have not written mine down either, and I did not know until four seconds ago what that was.**"
 
 "Then what happens," he said, "on a shift when the word does not come."
 
@@ -174,11 +174,11 @@ Marek Senn looked at the lamp.
 
 Click.
 
-He sat on the bench for about eleven minutes afterwards with the dead telephone in his hand and did not turn the lamp off, and he did not open the drawer, and the list on the wall was still there with his initials at the bottom of the fifth line meaning *not done*, and the fifth line in the original in the fourth pocket of the tool roll was still blank, and outside the shutter there was a man in a district jacket walking up Lattice Ward at about ten past ten at night with a notebook, and Marek Senn counted the exits of a room he was alone in, and the number was one, and he has known that since he was nineteen.
+He sat on the bench for about eleven minutes afterwards with the dead telephone in his hand and did not turn the lamp off, and he did not open the drawer, and the list on the wall was still there with his initials at the bottom of the fifth line meaning *not done*, and the fifth line in the original in the fourth pocket of the tool roll was still blank, and outside the shutter there was a man in a district jacket walking up Lattice Ward at ten past ten at night with a notebook, and Marek Senn counted the exits of a room he was alone in, and the number was one, and he has known that since he was nineteen.
 
 ---
 
-*105. Tuesday of week 31, about ten past ten at night, and this entry is about a woman of thirty-one with a care-link diary who is not in this story and is not going to be thanked for it, and about a woman of twenty-four four miles away who made me say a number out loud so that I would stop pretending I had not been counting.*
+*105. Tuesday of week 31, ten past ten at night, and this entry is about a woman of thirty-one with a care-link diary who is not in this story and is not going to be thanked for it, and about a woman of twenty-four four miles away who made me say a number out loud so that I would stop pretending I had not been counting.*
 
 *I said the three words were not said.* I have not written down what the three words are, on purpose, in this book, for the first time, and the reason is not integrity. **The reason is that if I write them down here then there are two copies, and one of them is in a shop in a drawer under a bench, and a copy in a shop is a copy a person can be found by, and I have had that argument out loud with a man of forty-four in a yard and I cannot now go and do the other thing.** So: not said, in a room, at half past ten, on the last Friday of week 30, and correct, and I have not written it down. That is the fourth time this term I have declined to put a true sentence in a document and the third time this term I have declined to put it in a document with anybody's name on it. **Somebody will read this entry in about four years and think I am building something. I am not building anything. I am refusing to hand over a person, and the person is a member of staff of twenty-two years who said out loud in a room of four hundred and six that the fourth beat is the safest piece of engineering he has ever been taught, and he is right, and I could have corrected him, and correcting him would have ended his career, and so I have said nothing for a term and I will go on saying nothing and that silence is now the most expensive thing I own and it is not going to get any cheaper.**
 

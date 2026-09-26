@@ -2,7 +2,7 @@
 
 The notice on the door of Civic Spine 7 was a single A4 in a plastic sleeve at chest height with a clip at the top, and it had been there since about eleven o'clock on the Monday morning of week thirty-two, and by ten past nine there were four men standing in front of it not saying anything to each other.
 
-Marek Senn read it twice from about nine feet back, which is how you read a thing that is about somebody else.
+Marek Senn read it twice from nine feet back, which is how you read a thing that is about somebody else.
 
 *Service arrangements, Meridian corridor. From the Monday of week 33 the district will not be represented at customer sites where attendance falls to the attending contractor. Queries to the district service office.*
 
@@ -20,7 +20,7 @@ Nobody said good morning.
 
 ---
 
-Sera Quill came out of the back about four minutes later with a tool braid in one hand and a rag in the other and read the notice from about eleven inches away without touching it, and then went back in, and then came out again and said:
+Sera Quill came out of the back four minutes later with a tool braid in one hand and a rag in the other and read the notice from about eleven inches away without touching it, and then went back in, and then came out again and said:
 
 "Inside."
 
@@ -52,7 +52,7 @@ She listened with her arms folded.
 
 "Which means the crew on a Friday—"
 
-"**Means that if a rigging job goes wrong at half past four on a Friday afternoon, and there is a card in the cab and no booking with a name on it, then there is nobody there. Not us. Not them. Nobody.**" She said it without any weight at all. "**And in about four months somebody is going to fall off something, and somebody is going to say to a newspaper that the district pulled out of customer sites, and that will be true, and it will be a lie, and I will be able to prove it in about nine words and I will not be able to prove it in nine words to anybody who was not in that room in the spring.**"
+"**Means that if a rigging job goes wrong at half past four on a Friday afternoon, and there is a card in the cab and no booking with a name on it, then there is nobody there. Not us. Not them. Nobody.**" She said it without any weight at all. "**And in about three weeks somebody is going to fall off something, and somebody is going to say to a newspaper that the district pulled out of customer sites, and that will be true, and it will be a lie, and I will be able to prove it in about nine words and I will not be able to prove it in nine words to anybody who was not in that room in the spring.**"
 
 ---
 
@@ -68,7 +68,7 @@ He sat down on the bench, which he does not do at Spine 7, and looked at the job
 
 "I am not going to wait."
 
-"You were going to wait. I have watched you wait about nine times in a term and a half and it is your best trick and it works on about four people in this city and I am one of them and I have got about four minutes before I stop being one."
+"You were going to wait. I have watched you wait nine times in a term and a half and it is your best trick and it works on four people in this city and I am one of them and I have got four minutes before I stop being one."
 
 "Fair."
 
@@ -98,13 +98,13 @@ She went and got two mugs and did not ask him whether he wanted one, and poured 
 
 "Then the manual."
 
-"**The manual is 3-08. It is the revision before the card and before the company and it has got a boundary in it printed at the bottom of the page in a box, and I have read it about nine times, and it is the safest document in this city and it is completely useless, and I will tell you why.**"
+"**The manual is 3-08. It is the revision before the card and before the company and it has got a boundary in it printed at the bottom of the page in a box, and I have read it nine times, and it is the safest document in this city and it is completely useless, and I will tell you why.**"
 
 "Because a printed boundary is a claim and not an action."
 
 "Because **a printed boundary is the same in every room.**" She said it fast. "**3-08 says the same thing on page forty-one in a bay in Nine Bridges and on page forty-one in a ward in Bower Street and on page forty-one in a house in Lattice Ward, and the risk on page forty-one in each of those is a different risk, and a document that cannot tell the difference between them is a document that gets followed in the one where it is wrong.**"
 
-Marek Senn looked at the wall of handwritten notes above the bench, about four hundred of them, in about nine hands, none of them printed, none of them signed.
+Marek Senn looked at the wall of handwritten notes above the bench, about four hundred of them, in nine hands, none of them printed, none of them signed.
 
 "Then what is it."
 
@@ -112,7 +112,7 @@ Marek Senn looked at the wall of handwritten notes above the bench, about four h
 
 "And how many of those are there."
 
-"**In this city? At this minute? I have no idea and neither do you and that is the entire problem and I have been trying to explain it to about four people for a term and a half and I have got nowhere, and I have got nowhere because the only way to count them is to know all of them.**"
+"**In this city? At this minute? I have no idea and neither do you and that is the entire problem and I have been trying to explain it to four people for a term and a half and I have got nowhere, and I have got nowhere because the only way to count them is to know all of them.**"
 
 ---
 
@@ -168,13 +168,13 @@ The four men had gone off the step and the notice was still in its clip.
 
 ---
 
-*109. Monday of week 32, about half past ten in a workshop in Lattice Ward, and this entry is about a woman of forty-five with a tool braid and about four men who stood in front of a door at ten past nine and did not say good morning to each other, and about a man of about twenty-six who read a four-sentence notice correctly in a doorway in about eleven seconds.*
+*109. Monday of week 32, half past ten in a workshop in Lattice Ward, and this entry is about a woman of forty-five with a tool braid and four men who stood in front of a door at ten past nine and did not say good morning to each other, and a man of about twenty-six who read a four-sentence notice correctly in a doorway in about eleven seconds.*
 
-*The notice, and the four words that do the work.* **The attending contractor.** Nobody decided it. A service level got rewritten in the spring, a schedule of about nine pages, and a procurement officer in a district office did it in a fortnight because the alternative on her desk was eleven men being on eleven sites for a company that had not bought the cover. **Nobody is a villain in this and I want that written down in her favour, because a man of forty-four taught me in a yard last week that a line in a document can be true and still be the worst sentence anybody has read, and the reverse is also true, and a true sentence in a schedule is worse than a lie in a schedule, because a lie gets argued about on a Tuesday and a schedule gets implemented on a Monday.** In about four months somebody is going to fall off something at half past four on a Friday and a newspaper is going to say the district pulled out, and that will be true and it will be a lie, and she can prove it in about nine words to about four people in this city and I am one of them and that is the entire audience.
+*The notice, and the four words that do the work.* **The attending contractor.** Nobody decided it. A service level got rewritten in the spring, a schedule of about nine pages, and a procurement officer in a district office did it in a fortnight because the alternative on her desk was eleven men being on eleven sites for a company that had not bought the cover. **Nobody is a villain in this and I want that written down in her favour, because a man of forty-four taught me in a yard last week that a line in a document can be true and still be the worst sentence anybody has read, and the reverse is also true, and a true sentence in a schedule is worse than a lie in a schedule, because a lie gets argued about on a Tuesday and a schedule gets implemented on a Monday.** In about three weeks somebody is going to fall off something at half past four on a Friday and a newspaper is going to say the district pulled out, and that will be true and it will be a lie, and she can prove it in about nine words to four people in this city and I am one of them and that is the entire audience.
 
 *And the refusal, and the boundary.* **She gave me half a reason and kept the other half and told me she was going to tell me she was not giving it, in advance, and then she used it on me and did not apologise, and I did not ask her to.** That is the fourth time this term somebody has drawn a line with me and not apologised for it and I have now been on the receiving end of more boundaries in a term and a half than I have drawn, and I do not know whether that is growth or whether I have simply run out of people to be careful with. **I am not going to write down what the other half is. I have a feeling about it and it is about a card and a typeface and about a year in which somebody was very careful, and she has never said a name out loud in this building in eleven years and neither have I, and a man of forty-four taught me last week that a name is a person in a room, and so I have written nothing and I have written here that I have written nothing, which is a compromise I am not proud of and is the only one available to me tonight.**
 
-*And the thing she said to me in a room with about four hundred handwritten notes on the wall, which is the sentence this whole volume is going to be about.* **The answer to a hinge is not a louder voice, it is a second exit.** And then the second half of it, which I had not got, and which took her about four seconds: **a second exit is a person in the room who is allowed to say go and put the load down and go home, and nobody has to answer anybody and there does not have to be a form, because there is not going to be a report and there is not going to be a document with a date on it in about four years.** And the count. **There is no way to count them and that is the whole problem and I have been failing to explain it to four people for a term and a half, and the reason I have been failing is that the only way to count a second exit is to know all of them, and knowing all of them is a register, and a register finds the people in it.**
+*And the thing she said to me in a room with about four hundred handwritten notes on the wall, which is the sentence this whole volume is going to be about.* **The answer to a hinge is not a louder voice, it is a second exit.** And then the second half of it, which I had not got, and which took her four seconds: **a second exit is a person in the room who is allowed to say go and put the load down and go home, and nobody has to answer anybody and there does not have to be a form, because there is not going to be a report and there is not going to be a document with a date on it in about four years.** And the count. **There is no way to count them and that is the whole problem and I have been failing to explain it to four people for a term and a half, and the reason I have been failing is that the only way to count a second exit is to know all of them, and knowing all of them is a register, and a register finds the people in it.**
 
 *And the manual, which is still 3-08 and which she read in about nine seconds and told me why it is worthless.* **A printed boundary is the same in every room.** Page forty-one in a bay and page forty-one in a ward and page forty-one in a house, and three different risks, and a document that cannot tell them apart is a document that gets followed in the one where it is wrong. That is the best argument against every piece of paper in this case that I have heard from anybody who has to sign her own name, and it is better than mine, and I have had a term and a half to find a better one and I have not.
 
