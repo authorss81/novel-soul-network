@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: **Volume 02, Batch 0001 complete (Chapters 51–60, "The Blank Field"). Batch 0002, Movement II (*The First Term*), is the only pending phase and is created.** Batch 0001 runs ~35,200 words across ten chapters after two writer repair passes, one independent review pass and one mechanical sweep, totalling eighty-seven items; **the review is recorded in `reviews/volume-02-batch-0001.md`.** **No System panel appears anywhere in it.** The hinge was identified by a man looking at a piece of card, in a shop, at ten past five on a Thursday, and it was identified by a boy of twenty who does not know he said it.
+Current phase: **Volume 02, Batch 0001 complete (Chapters 51–60, "The Blank Field"). Batch 0002, Movement II (*The First Term*), is the only pending phase and is created.** Batch 0001 runs ~35,200 words across ten chapters after five passes — three writer repair passes, one independent review, and one further repair pass on that review's findings — totalling ninety items, **of which the last three were a wrong date, a duplicated pair of load-book numbers and a parity claim that was recorded as clean and was not; the review is recorded in `reviews/volume-02-batch-0001.md`.** **No System panel appears anywhere in it.** The hinge was identified by a man looking at a piece of card, in a shop, at ten past five on a Thursday, and it was identified by a boy of twenty who does not know he said it.
 
 Current volume: 2 — *Threadline* (**in progress; Movement I complete at Chapter 60**)
 
@@ -9,6 +9,8 @@ Current batch: 1 complete; 2 is Movement II, Chapters 61–70
 Last completed chapter: 60 — "Column Two"
 
 Last batch summary: `workspace/volume-02/batch-0001/SUMMARY.md`
+
+Load-book run: **continuous 50 → 63, no duplicate and no gap.** 50, 51 and 52 in Ch 39; **53, 54 and 55 in Ch 43, Monday of week 14**; a date written at the top of a clean page in Ch 50, Thursday of week 14, that carries **no number**; 56 and 57 Tue wk 15; 58 Wed; 59 Fri; 60 Sat, on a wall; 61 Tue wk 16; 62 Wed; 63 Thu. **Ch 61's entry is 64.**
 
 Manuscript: `volume-01/batch-0001` through `batch-0005` (Chapters 1–50, ≈231,400 words), `volume-01/batch-0006` (the volume close, no prose), and `volume-02/batch-0001/chapter-0051.md` through `chapter-0060.md` (~35,200). Volume 02 so far ≈ 35,200 words. **Total manuscript ≈ 266,600 words across sixty chapters.**
 

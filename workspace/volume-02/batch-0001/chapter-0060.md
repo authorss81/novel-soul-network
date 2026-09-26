@@ -108,7 +108,7 @@ He got to the door and then stopped, with his back to the room, which he had don
 
 ---
 
-The load book was on the bench at about ten to ten that evening with the door open and the extractor on and the shutters down, and Marek Senn turned to a clean page and wrote a date at the top of it, which is what he had done on the Monday of week fifteen, and on that day he had put the pencil down and read the date for a while and shut the book, and this time he wrote the first line underneath it.
+The load book was on the bench at about ten to ten that evening with the door open and the extractor on and the shutters down, and Marek Senn turned to a clean page and wrote a date at the top of it, which is what he had done on the Thursday of week fourteen, and on that day he had put the pencil down and read the date for a while and shut the book, and this time he wrote the first line underneath it.
 
 *63. Thursday of week 16. He told me. Five days past a fortnight and he told me, and nobody had told him that anybody knew, and everybody had known. Asha had known since the Monday morning of week fourteen and had carried it two days and told me on the Wednesday, and I have said nothing since, and the not saying is mine and not hers.*
 

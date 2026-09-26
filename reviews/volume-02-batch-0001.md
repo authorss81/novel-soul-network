@@ -1,12 +1,12 @@
 # Review — Volume 02, Batch 0001 (Chapters 51–60, "The Blank Field")
 
-**Reviewed:** four times. Three adversarial passes on plot, arithmetic and canon (two writer passes and one independent review), and a fourth mechanical sweep for claims about the past that the surrounding pages contradict. **Fifteen items, all fixed. No plot moved, no scene cut, no ending altered, no canon reversed, no batch restarted.**
-**Manuscript:** `workspace/volume-02/batch-0001/chapter-0051.md` … `chapter-0060.md`, ~35,200 words.
-**Full item list and reasoning:** `workspace/volume-02/batch-0001/SUMMARY.md`, sections *Repairs applied after the writer's pass*, *Second repair pass*, *A third pass* and *A fourth pass*.
+**Reviewed:** five times. Four passes on plot, arithmetic and canon — two writer passes, one independent review, and a mechanical sweep for claims about the past that the surrounding pages contradict — and a fifth that checked the fourth pass's own repair and measured its parity claims instead of restating them. **Fifteen items, all fixed: 31 + 41 + 14 + 1 + 3. No plot moved, no scene cut, no ending altered, no canon reversed, no batch restarted.**
+**Manuscript:** `workspace/volume-02/batch-0001/chapter-0051.md` … `chapter-0060.md`, ~35,200 words, with three numerals corrected in `workspace/volume-01/batch-0005/chapter-0043.md` in the fifth pass.
+**Full item list and reasoning:** `workspace/volume-02/batch-0001/SUMMARY.md`, sections *Repairs applied after the writer's pass*, *Second repair pass*, *A third pass*, *A fourth pass* and *A fifth pass*.
 
 ## What the review checked
 
-Prose for internal contradiction, seam and voice; every dated figure in Chapters 51–60 against Chapters 30, 48, 49, 50 and against each other; quotation-mark parity; the state files against the prose they describe; and the next phase prompt against both.
+Prose for internal contradiction, seam and voice; every dated figure in Chapters 51–60 against Chapters 30, 43, 48, 49, 50 and against each other; the load-book entry numbers as a single continuous run and not chapter by chapter; quotation-mark and asterisk parity; the state files against the prose they describe; and the next phase prompt against both.
 
 ## Blocking — contradictions inside the delivered prose
 
@@ -33,7 +33,15 @@ Prose for internal contradiction, seam and voice; every dated figure in Chapters
 
 ## Fourth sweep — a class the first three passes did not look for
 
-15. **Chapter 60 contradicted its own two previous load-book entries.** It turned to a clean page and wrote a date *which he had not done since the Monday of week fifteen*; entries 61 and 62, on the Tuesday and the Wednesday of week 16, are both headed with a weekday. The sentence was reaching for Chapter 50's closing image and the reach was worth keeping, so it now carries the contrast instead of a false gap. **The batch's real novelty is the page, not the date**, and the fix stops the opening line contradicting the closing one.
+12. **Chapter 60 contradicted its own two previous load-book entries.** It turned to a clean page and wrote a date *which he had not done since the Monday of week fifteen*; entries 61 and 62, on the Tuesday and the Wednesday of week 16, are both headed with a weekday. The sentence was reaching for Chapter 50's closing image and the reach was worth keeping, so it now carries the contrast instead of a false gap. **The batch's real novelty is the page, not the date**, and the fix stops the opening line contradicting the closing one. **The repair introduced a date of its own and the fifth pass corrected it — see item 13.**
+
+## Fifth pass — the fourth pass's repair, and its claims, measured
+
+An independent review of the fourth pass. **Three items.** It confirmed the target defect was real — entries 61 and 62 are both weekday-headed, so the old sentence did contradict them — and then found that the sentence written to replace it was dated from the state files rather than from Chapter 50, that a numbering collision the first pass created was still in the delivered prose and had been inherited by the next prompt, and that a sweep recorded as clean was not.
+
+13. **The new anchor day is a day Chapter 50 does not contain.** `chapter-0060.md` dated the reach back to **the Monday of week 15**. The beat occurs once, at `chapter-0050.md:378`, and Chapter 50 is set on the **Thursday afternoon of week 14**; its Monday of week 15 scene is the maintenance ledger opening, and the load book is not opened in it. **The anchor is the Thursday of week fourteen.** Root cause, unfixed at the time and now fixed in both places: `state/continuity.md` carried *55 Mon wk 15 (Ch 50)* and the batch summary repeated it, so the pass read a state figure as the chapter's own.
+14. **Load-book entries 56 and 57 were in the prose twice; 53 and 54 were in it nowhere.** `chapter-0043.md` numbered its three Monday-of-week-14 entries 55, 56 and 57, and Chapter 51's Tuesday-of-week-15 entries are also 56 and 57. **Chapter 39's last entry is 52, which is what fixes it: Chapter 43's entries are 53, 54 and 55**, and the run is continuous from 50 to 63. The state table did not show it because it was headed *Chapter 50 to Chapter 63*. **`batch-0002/PROMPT.md` was carrying the broken run forward and has been corrected; Chapter 61's entry is still 64.**
+15. **"Bold-mark parity in all ten" was false, and counting only `**` is the wrong test.** Chapters 58 and 59 were odd: each had a load-book entry whose closing bold was a single `*`, so the bold ran on past its own entry — in Chapter 58 into the next paragraph, in Chapter 59 through the scene break into Delia Frost's opening. **Counting every `*` per line found six more of the identical construct** at Chapters 54, 58 and 59, where a label-style entry ends in a lone `*` that opens an italic nothing closes; Chapter 54 has the correct form three lines above one of them. All eight are closed, and no line in the batch now carries an odd number of `*`. **Only asterisks moved.**
 
 ## Confirmed correct, and left alone
 
@@ -42,8 +50,11 @@ Prose for internal contradiction, seam and voice; every dated figure in Chapters
 - **The cut of Kohl's eleven months, fourteen months and the river** as premature spends of the Chapter 75 midpoint, and the removal of the year from Chapter 58.
 - **The four-and-two condition split and the re-dating of the review to the week of week 30**, which are forced by the arithmetic and were propagated into the outline instead of being left to contradict it.
 - **No System panel in any of the ten chapters**, and the interface has spoken three times in sixty.
+- **The quotation-mark parity claim is true, and was not disturbed by this pass.** Chapters 51, 57 and 60 are odd; every odd line is a multi-paragraph speech opener under the manuscript's convention, and each closes on its last paragraph. Checked again and left alone.
+- **The hard rules hold by name:** zero occurrences of *Crown Clause*, *Iona*, *Leo Marr*, *Nell*, *Solo Seal* and *Quiet House*, and zero `* * *` panel markers.
+- **The canon start date holds:** the book has been in the flat above the laundrette since the Thursday of week one, at `chapter-0018.md:125` and `:188` and `chapter-0050.md:378`. The fifth pass's correction is a different Thursday and does not touch it.
 
 ## Flagged, controller-owned, not touched
 
 - `state/phase-ledger.json` still reads `phase-000-bootstrap`, `planned`, `attempts: 0` after nine phases. Off limits to this phase.
-- Two next-phase prompts exist: the specific `workspace/volume-02/batch-0002/PROMPT.md` and the generic `workspace/continuation/next/PROMPT.md` seeded in `dbbec94`. **The generic one is left in place**, because deleting a phase directory the dispatcher may already be pointing at would strand the pipeline. The specific prompt is the correct one and is the one referenced from `state/current.md`.
+- Two next-phase prompts exist: the specific `workspace/volume-02/batch-0002/PROMPT.md` and the generic `workspace/continuation/next/PROMPT.md` seeded in `dbbec94`. **The generic one is left in place**, because deleting a phase directory the dispatcher may already be pointing at would strand the pipeline. The specific prompt is the correct one and is the one referenced from `state/current.md`. **The hazard is live and recurring rather than a one-off:** sorted-path dispatch selects `continuation/next` before `volume-02/batch-0002`, so the generic prompt will be executed first, and `state/current.md` carries an instruction telling the writer to ignore it and work from the specific prompt instead. The dispatch order and the marker files are controller-owned and were not touched.
