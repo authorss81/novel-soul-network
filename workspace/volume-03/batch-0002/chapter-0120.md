@@ -2,7 +2,7 @@
 
 The Friday was a Friday. Eleven jobs, about nine in date, four not, a man of thirty-one with a card issued in four seconds who could do the work and could not be on the board, and a woman of twenty-nine who could be on the board and had been since the Friday of week thirty-one because her employer pays for it.
 
-He said the eleven parts eleven times. The word came at nine, ten and eleven a minute between about ten past nine and about two o'clock and he counted it on the back of a docket because counting is the one thing in his own head it has not managed to put a different end on. On the last job, at about four o'clock, in a yard in Nine Bridges, a woman of twenty-nine looked at him for a second and a half across a load and neither of them said one word, and that was the entire extent of it, and it had cost her about a fortnight.
+He said the eleven parts eleven times and the count came out at nine, ten and eleven a minute between about ten past nine and about two o'clock, and it is on the back of a docket, and the docket is the only page of a Friday that has not lied to him. On the last job, at about four o'clock, in a yard in Nine Bridges, a woman of twenty-nine looked at him for a second and a half across a load and neither of them said one word, and that was the entire extent of it, and it had cost her about a fortnight.
 
 He wrote the docket out on the back of a job sheet at half past five, in a hand he could read in the morning, and then he sat with the pen on his knee for about four minutes and did not start the van, and then he started the van.
 

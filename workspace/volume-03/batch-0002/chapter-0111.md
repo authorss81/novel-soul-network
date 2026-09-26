@@ -152,7 +152,7 @@ And then he sat there, because the thing he had learned in a term and a half is 
 
 He thought about a girl of seventeen on a piece of paper on a tailboard in Nine Bridges, who had told everybody at school for two years that her father was the district man, and who on Monday had acquired, from four adults who were all being reasonable, a sentence that was not true: that the district pulled out.
 
-And the sentence could not be taken back, because there was no meeting at which to take it back, no letter to issue, no form to complete, no committee until the week of week thirty-seven, and the four people in this city who could prove in about nine words that nobody pulled out were four people in a corridor on a far side of the city, and one of them had a tool braid and had already said it out loud to nine men, and one of them was him.
+And the sentence could not be taken back, because there was no meeting at which to take it back, no letter to issue, no form to complete, no committee until the week of the thirty-seven, and the four people in this city who could prove in about nine words that nobody pulled out were four people in a corridor on a far side of the city, and one of them had a tool braid and had already said it out loud to nine men, and one of them was him.
 
 ---
 

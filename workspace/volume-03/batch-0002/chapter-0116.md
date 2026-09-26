@@ -1,6 +1,6 @@
 # Chapter 116 — A Fifth Line
 
-The stoppage started at twenty past eight in the morning and by nine it had cost the market about four hundred pounds an hour and nobody could have told a committee what it was about.
+The stoppage started at half past nine in the morning and was over inside two hours and it had cost eleven men about nine hundred pounds between them, and nobody could have told a committee what it was about.
 
 There is a gantry on the west berth at the Saltmarket and a wet bay under it and about nine men who work pallets and ice on the Friday and the Saturday and the Sunday. On the Friday evening a man of fifty-eight called Fenn Pryce, whom the whole berth had called the other way round for thirty years, had a load on a hook in a wet bay and a man of thirty-one on the other end of a bar and no card in the room, and he put the load down in nine seconds and said *nobody is coming, I am putting it down, tell somebody*, and about nine people saw him do it, and it was correct.
 
@@ -46,7 +46,7 @@ That was correct, and Marek Senn conceded it out loud, and it was the seventh ti
 
 ---
 
-Then she read the fifth line out loud, which she did because she had to, and it took a minute, and it is worth doing properly because it is the whole of the chapter and the whole of this week.
+Then she read the fifth line out loud, which she did because she had to, and it took a minute, and it is worth doing properly because it is the whole of the morning and the whole of this week.
 
 Nine of the eleven had a fifth line.
 
@@ -68,7 +68,7 @@ Nine of the eleven had a fifth line.
 
 *If I do not come back, do it anyway. It is only a pallet.*
 
-Marek Senn stood in a market office in the Saltmarket and read nine fifth lines in nine different hands on the back of nine cards, and eight of them were true, and every one of them was written by the person whose name was on the front, and the ninth belonged to Fenn Pryce and had been copied out four times on the Friday night, and two of the four had been copied with the same pen.
+Marek Senn stood in a market office in the Saltmarket and read nine fifth lines in nine different hands on the back of nine cards, and seven of the nine had been written by the person whose name was on the front, and one of the seven belonged to Fenn Pryce, whose wife had put the words down for him because he cannot spell, and the other two were in one hand.
 
 "There," said Fenna Rudd. "That is what the box is for. That is the danger on the leaflet, that is the bit where somebody is being told they do not need anybody, and now they are all in one room on my counter with their names on them."
 
@@ -76,7 +76,7 @@ Marek Senn stood in a market office in the Saltmarket and read nine fifth lines 
 
 And here is the thing that nobody in that room could get past, and Marek Senn got it at about eleven and could not get anybody else to.
 
-**Two of the eleven are copies of the same sheet with the same fifth line in the same hand, in the same pen, on paper that is not the same paper as the other nine, and nobody in this city can say whose box they came out of.** Eight of the nine fifth lines were written by their owners and cannot be traced to anybody. Two came off a sheet. And the shape of a fifth line does not tell you which is which, and there is no question you can ask a fifth line that will answer it.
+**Two of the eleven are copies of the same sheet with the same fifth line in the same hand, in the same pen, on paper that is not the paper the other cards are on, and those two are two of the nine that have a fifth line, and the other two of the eleven have no fifth line at all, and nobody in this city can say whose box they came out of.** Seven of the nine fifth lines were written by the people whose names are on them and cannot be traced to anybody. Two came off one sheet. And the shape of a fifth line does not tell you which is which, and there is no question you can ask a fifth line that will answer it.
 
 "That is the whole of my trade," said Fenna Rudd. "I sell fish. I can tell you whether a crate came off a boat or off a van and I cannot tell you who cut a label off a bottle."
 
@@ -168,7 +168,7 @@ The man of thirty-one looked at him for four seconds and then went back to the i
 
 *The box.* **A notice on the board and a box by the door, and both of them the market clerk's, and nobody told her to do it. Four men were in that office before nine o'clock and every one of them was frightened of a piece of card and not one of them was frightened of a person.** The leaflet went round with the quarterly levy note, and she rang the number on it, and the fund is honest and the fund does not know anything about a box in her office. **Eleven cards by ten, and a sheet of A4 with a date, a source and a yes or no against a fifth line, and she read about eleven names off eleven cards in four minutes and was extremely clear that reading a name off a card is not asking a person for it, and I said that was the correct distinction and I was not going to be given the sheet, and she gave me the reason before I asked and she was right on both halves.** Seventh refusal in a fortnight, all of them correct, all of them eleven seconds.
 
-*The nine fifth lines.* **Nine of the eleven have a fifth line and eight of them wrote it themselves and cannot be traced to anybody and the ninth belongs to a man of fifty-eight whose wife wrote the words because he cannot spell, and two of the eleven are copies of the same sheet in the same hand with the same pen, on different paper.** That is the whole of the finding and it took four minutes: **a fifth line is a shape and a shape does not tell you who cut it.** If I have ever needed the sentence for a reason this is the reason. **A crate off a boat and a crate off a van are the same crate and you can only tell by the label, and a label is a thing somebody has to write, and about nine people in this city have written one, and two of them copied one off somebody, and there is no question you can ask a fifth line that will answer it.** She said she can tell whether a crate came off a boat or off a van and cannot tell who cut a label off a bottle, and she was right and she was right faster than me.
+*The nine fifth lines.* **Nine of the eleven have a fifth line and seven of them wrote it themselves and cannot be traced to anybody, and one of the seven belongs to a man of fifty-eight whose wife wrote the words because he cannot spell, and the other two of the nine are copies of the same sheet in the same hand with the same pen on two different kinds of paper, and the other two of the eleven have no fifth line at all.** That is the whole of the finding and it took four minutes: **a fifth line is a shape and a shape does not tell you who cut it.** If I have ever needed the sentence for a reason this is the reason. **A crate off a boat and a crate off a van are the same crate and you can only tell by the label, and a label is a thing somebody has to write, and about nine people in this city have written one, and two of them copied one off a sheet, and there is no question you can ask a fifth line that will answer it.** She said she can tell whether a crate came off a boat or off a van and cannot tell who cut a label off a bottle, and she was right and she was right faster than me.
 
 *And the panic, and where it came from.* **Not from the four words. The four words are behind a gate on the Meridian corridor and nobody in the Saltmarket has been within nine miles of it and nobody ever will be.** It came from the fifth line, because the fifth line is the one that says *you do not need anybody*, and seventy people sat in a room on Friday night and nine of them do lifts, and a foreman of forty-five stood in a wet bay at half past nine on Monday morning and told nine men that nobody was to work a lift over two hundred kilos on their own card until the district had said something, **and he was right, and there is no version of him being wrong, and it cost eleven men about nine hundred pounds and a stoppage of two hours, and a man is going to have to explain a gap on a timesheet in four weeks and he will not be able to say a leaflet.** The leaflet has a name on it, and a fee, and a first line that is word for word the line in the specification, and a man of thirty-one at the ice machine said *somebody is paying somebody*, and I said the fee is the fund's fee for Friday's session, and I said it in eleven words, and he looked at me for four seconds and went back to the ice, **and I stood in that doorway for nine seconds afterwards and let it stand, and the reason is that the alternative was nine minutes in a market office and that I have now used that sentence four times this term and believed it once.**
 

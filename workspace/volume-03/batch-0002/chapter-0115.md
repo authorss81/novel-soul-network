@@ -40,7 +40,7 @@ Nobody objected.
 
 He shut the notebook.
 
-"**That is the whole of it. That is what I said in a market in the week of the twenty-fourth, in a district I am not going to name, to about nine people, and eleven of them went two seconds quieter, and I have been getting letters about it since and about four of those letters are from people I have never met.**"
+"**That is the whole of it. That is what I said in a market in the week of the twenty-fourth, in a district I am not going to name, to about nine people, and I have been saying eleven ever since and only noticed it while I was standing here saying it, and all nine of them went two seconds quieter, and I have been getting letters about it since and about four of those letters are from people I have never met.**"
 
 "And is it true," said somebody in the fourth row.
 
@@ -80,7 +80,7 @@ He looked up for the first time.
 
 "Why are you telling us this in a room you are being paid for," said a woman in the second row.
 
-"**Because the specification is honest,**" said Peter Amado. "That is the difficulty and it is the whole difficulty and I want it in a minute. About about eleven thousand premises pay a levy into a fund and the fund is run by nine people and the money is counted and the money is real and the officer who has written that line into section four has never once been in a bay in his life and has told me so himself, twice."
+"**Because the specification is honest,**" said Peter Amado. "That is the difficulty and it is the whole difficulty and I want it in a minute. About eleven thousand premises pay a levy into a fund and the fund is run by nine people and the money is counted and the money is real and the officer who has written that line into section four has never once been in a bay in his life and has told me so himself, twice."
 
 "That is a compliment," said Corin Vasska.
 
