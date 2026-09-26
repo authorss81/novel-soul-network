@@ -1,9 +1,8 @@
 # Review — Volume 02, Batch 0001 (Chapters 51–60, "The Blank Field")
 
-**Reviewed:** after two writer repair passes, by an independent review of the delivered prose and the state files it describes.
+**Reviewed:** four times. Three adversarial passes on plot, arithmetic and canon (two writer passes and one independent review), and a fourth mechanical sweep for claims about the past that the surrounding pages contradict. **Fifteen items, all fixed. No plot moved, no scene cut, no ending altered, no canon reversed, no batch restarted.**
 **Manuscript:** `workspace/volume-02/batch-0001/chapter-0051.md` … `chapter-0060.md`, ~35,200 words.
-**Outcome:** fourteen items fixed. No plot moved, no scene cut, no ending altered, no canon reversed, no batch restarted.
-**Full item list and reasoning:** `workspace/volume-02/batch-0001/SUMMARY.md`, section *A third pass, fourteen items*.
+**Full item list and reasoning:** `workspace/volume-02/batch-0001/SUMMARY.md`, sections *Repairs applied after the writer's pass*, *Second repair pass*, *A third pass* and *A fourth pass*.
 
 ## What the review checked
 
@@ -31,6 +30,10 @@ Prose for internal contradiction, seam and voice; every dated figure in Chapters
 ## Pre-existing error the passes walked past
 
 11. **Chapter 59's clock did not close.** Ten past nine at the door, forty minutes on the bench, and the room emptying at two minutes to ten; and *you are forty minutes late* said at ten past ten for a ten o'clock meeting, against Bea Nunn's *forty-five minutes late* at a quarter to eleven, which was right. **Both now exact.**
+
+## Fourth sweep — a class the first three passes did not look for
+
+15. **Chapter 60 contradicted its own two previous load-book entries.** It turned to a clean page and wrote a date *which he had not done since the Monday of week fifteen*; entries 61 and 62, on the Tuesday and the Wednesday of week 16, are both headed with a weekday. The sentence was reaching for Chapter 50's closing image and the reach was worth keeping, so it now carries the contrast instead of a false gap. **The batch's real novelty is the page, not the date**, and the fix stops the opening line contradicting the closing one.
 
 ## Confirmed correct, and left alone
 

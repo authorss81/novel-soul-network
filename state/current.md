@@ -1,6 +1,6 @@
 # Current State
 
-Current phase: **Volume 02, Batch 0001 complete (Chapters 51–60, "The Blank Field"). Batch 0002, Movement II (*The First Term*), is the only pending phase and is created.** Batch 0001 runs ~35,200 words across ten chapters after two writer repair passes and one independent review pass, totalling eighty-six items; **the review is recorded in `reviews/volume-02-batch-0001.md`.** **No System panel appears anywhere in it.** The hinge was identified by a man looking at a piece of card, in a shop, at ten past five on a Thursday, and it was identified by a boy of twenty who does not know he said it.
+Current phase: **Volume 02, Batch 0001 complete (Chapters 51–60, "The Blank Field"). Batch 0002, Movement II (*The First Term*), is the only pending phase and is created.** Batch 0001 runs ~35,200 words across ten chapters after two writer repair passes, one independent review pass and one mechanical sweep, totalling eighty-seven items; **the review is recorded in `reviews/volume-02-batch-0001.md`.** **No System panel appears anywhere in it.** The hinge was identified by a man looking at a piece of card, in a shop, at ten past five on a Thursday, and it was identified by a boy of twenty who does not know he said it.
 
 Current volume: 2 — *Threadline* (**in progress; Movement I complete at Chapter 60**)
 
