@@ -186,7 +186,7 @@ Marek Senn put the receiver back on its cradle and stood in the corridor for abo
 
 ---
 
-Micky Faul said it on the Thursday, at the site, off the corridor, and he said it as though it were nothing and it was the reason this chapter is in the book.
+Micky Faul said it on the Thursday, at the site, off the corridor, and he said it as though it were nothing and it is the reason I have written this entry about a man on a ladder and not about a boy in a booth.
 
 "The girl has got one of them."
 
