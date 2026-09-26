@@ -2,7 +2,7 @@
 
 A block of flats on a street with a launderette in it in the Quiet Quarter has four hundred and nine of the sort of card that nobody in the building's management is going to see, and on the Wednesday afternoon of week thirty-five there were two of them wedged behind the fire door on the first landing, and one of them had been there since about the middle of last week.
 
-A man of thirty-three who works in the building opposite and who has not been named in this book and is not going to be came up the stairs at four o'clock with nine cards in his coat, and the ninth one he put behind the fire door, and it was the first time anybody had put one there on that landing, and he did it because it is the landing people actually use.
+A man of thirty-three who works in the building opposite and who has not been named in this book and is not going to be came up the stairs at four o'clock with the last of them in his coat, and he put it behind the fire door, and it was the first time anybody had put one there on that landing, and he did it because it is the landing people actually use.
 
 A woman of thirty-nine came down at ten past four with a washing bag over her shoulder and stopped, and read it, which took her eleven seconds, and Marek Senn, who had been in the stairwell for twenty minutes and had not come up, came up.
 
@@ -76,7 +76,7 @@ Marek Senn looked at the card behind the fire door for a while and then he said:
 
 ---
 
-And that was the whole of the conversation, and it lasted nine minutes, and the ninth refusal of a fortnight happened at the bottom of a flight of stairs six minutes in, when he said, without deciding to:
+And that was the whole of the conversation, and it lasted nine minutes, and the eleventh refusal of a fortnight happened at the bottom of a flight of stairs six minutes in, when he said, without deciding to:
 
 "**Can I see the page of your own.**"
 
@@ -140,7 +140,7 @@ She typed it in at ten past five because the form will not submit without it, an
 
 *126. Wednesday of week 35, eleven at night in a repair shop in Lattice Ward, and this entry is about a woman of thirty-nine with a washing bag on a landing who has said not mine four times, and about a woman of forty-six with a pair of boxes on a screen who picked the one that fitted.*
 
-*Not mine.* **Four times in a fortnight. A man of twenty-six with a printout on the Monday, three people in a room last week, a woman of thirty-five on the Tuesday, and me at ten past four on a Wednesday in a stairwell.** And the finding is the one I have not got a use for: it is the first sentence in about four years that a frightened room would take from a person, and it is no use at all, and both halves of that have to be said in the same breath or one of them is a lie. She is one of the eleven and she has read six copies and she has never given anybody her page, and the page of her own is the only thing she has got that is hers, and when I asked she said the reason, which is that I am the second person this term to ask and a man of twenty-six was the first, and a thing that has been asked for twice is a thing that will be asked for three times, and a thing that has been asked for three times is in a file. She did not say I would not use it. She said the other two will. That is the ninth refusal of a fortnight and every one of the nine has been correct and I have not been able to make one of them less correct by trying.
+*Not mine.* **Four times in a fortnight. A man of twenty-six with a printout on the Monday, three people in a room last week, a woman of thirty-five on the Tuesday, and me at ten past four on a Wednesday in a stairwell.** And the finding is the one I have not got a use for: it is the first sentence in about four years that a frightened room would take from a person, and it is no use at all, and both halves of that have to be said in the same breath or one of them is a lie. She is one of the eleven and she has read six copies and she has never given anybody her page, and the page of her own is the only thing she has got that is hers, and when I asked she said the reason, which is that I am the second person this term to ask and a man of twenty-six was the first, and a thing that has been asked for twice is a thing that will be asked for three times, and a thing that has been asked for three times is in a file. She did not say I would not use it. She said the other two will. That is the eleventh refusal of a fortnight and every one of the eleven has been correct and I have not been able to make one of them less correct by trying.
 
 *The card behind the fire door, and the fourth of the four.* The leaflet on the levy note. The bundle through the letterbox. A man in a district fleece with a printout. And a printed card on a fire door. She has said no to all four and she is keeping to it, and she said the thing I have not been able to get out of a month of looking: the fourth is the only one of the four that has been printed. The other three travelled one person at a time. That is what a leaflet and a letterbox and a printout do. **A fourth thing that has been printed is a different object and the difference is that the other three could be traced to whoever was frightened, and this one cannot, and that is why it is the one that frightens people.**
 
