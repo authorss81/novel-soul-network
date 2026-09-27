@@ -18,27 +18,29 @@ The woman of sixty is Aurelia Sopp. She has been a practice standards officer in
 
 She had a page in front of her with four fields on it and one of the fields was a tick, and she turned it round so that the other person could read it, and the other person did not look at it.
 
+She was Talia Venn, who is twenty-four, and the woman of sixty knew her name and did not use it once in that room and gave no reason for that, and the reason is not on anything.
+
 ---
 
-"**I am going to ask you the whole thing and then I am going to ask you a smaller one, and I want the whole one first because the small one only makes sense after it.**"
+"I am going to ask you the whole thing and then I am going to ask you a smaller one, and I want the whole one first because the small one only makes sense after it."
 
-"**Go on.**"
+"Go on."
 
 "**Can a person take a share back without a form.**"
 
 "**Yes.**"
 
-"**In this city.**"
+"In this city."
 
 "**In this city, yes, and in about four buildings, and in one of those four by hand, and the hand is a clerk's, and it is a box ruled in pencil with three words over it in her own writing.**"
 
 Aurelia Sopp wrote one word down and then put the pen down.
 
-"**Say the rest of it.**"
+"Say the rest of it."
 
 "**About forty-one people in one district can be brought out of a thing that was closed on a Tuesday about twenty-two weeks ago. The page exists because somebody put a form in about four years ago. It cannot be closed from the outside. There is no job in this city whose work it is to telephone those people. About nine of them were telephoned before anything happened to them. One of the nine did not happen, and that one is a man of fifty-one and he was safe, and the woman who rang him afterwards found out that she could have rung him on the Friday and did not, because the number in front of her was a man's list of buildings and not a page.**"
 
-"**And the box.**"
+"And the box."
 
 "**The box is the only one in this city for the person who took a share off. It has one name in it. It has no reference number, it is not on a system, it is not a form, and it may not take a second name, and nobody in this city has ever asked the clerk for it and she is fifty-three and has nineteen years behind her and does not want it.**"
 
@@ -48,13 +50,13 @@ Aurelia Sopp wrote one word down and then put the pen down.
 
 ---
 
-"**I am going to say the figures and you are going to stop me if I have them wrong.**"
+"I am going to say the figures and you are going to stop me if I have them wrong."
 
-"**Go on.**"
+"Go on."
 
 "**Four hundred and one replies went into one company's general enquiries box in about four weeks, of which about nine of the first forty-one got the company answer, which means there are about three hundred and sixty letters in a building in this city that a man in that building has not read and that a clerk of forty-four has read. Nine hundred doors in four buildings carry a number off a different line of the same company's list. A room in a corridor says two-fourteen and is two-oh-seven, and about four hundred leaflets in a rack on that floor are all printed two-oh-seven, and the ticket for it was closed with the right number written on it in the right typeface by a man doing the job properly.**"
 
-"**That is a fault report that was answered correctly.**"
+"That is a fault report that was answered correctly."
 
 "**That is a fault report that was answered correctly and it changed nothing, and the plate is still on the wall, and the room is still on a shelf, and the ticket is closed.**"
 
@@ -66,7 +68,7 @@ Aurelia Sopp did not write that down. She looked at the four fields for about fo
 
 "**I do not have the reference in my head and I am not going to read a reference out loud in a room.**"
 
-"**Then tell me what it says.**"
+"Then tell me what it says."
 
 "**It says a practice card is not to be issued unless the card carries a beat that performs the boundary. It has been in that binder since before I came here. It has a date on it, and the date is when it was last looked at properly, and the date is eleven years old.**"
 
@@ -76,7 +78,7 @@ Aurelia Sopp did not write that down. She looked at the four fields for about fo
 
 She turned the chair about a quarter of a turn and said: "**That is the whole of it. That is the thing your campaign is against, and it is not a conspiracy and there is nobody in it to catch. It is a rule, in a binder, on a wall, that eleven competent people in this district invoke every year, correctly, and it stops a card going out that would leave a learner with a boundary written on it and nothing that performs it.**"
 
-"**And it is right.**"
+"And it is right."
 
 "**It is right. It is completely right. I would be worried if it were not.**"
 
@@ -84,15 +86,15 @@ She turned the chair about a quarter of a turn and said: "**That is the whole of
 
 The door was open about nine inches and the man of twenty-two was in the corridor and had been for about four minutes, and he had heard the last part of it and not the rest, and Aurelia Sopp turned and saw him and did not ask him to come in and did not ask him to go away.
 
-"**You have a room,**" she said.
+"You have a room," she said.
 
-"**I have been in a room.**"
+"I have been in a room."
 
-"**Have you ever seen one of these.**"
+"Have you ever seen one of these."
 
-"**No.**"
+"No."
 
-"**Would you know if somebody put one in front of you.**"
+"Would you know if somebody put one in front of you."
 
 "**No.**"
 
@@ -100,9 +102,9 @@ The door was open about nine inches and the man of twenty-two was in the corrido
 
 He said: "**There is a thing on a wall where I have been, and it is a hardboard on two nails, and it has thirteen lines on it, and the first one is a cook's, and every one of them was written by the person it is about, and it is not a form, and it is not enforceable against anybody who did not write it, and any of them can be rubbed off with a thumb.**"
 
-"**Then I have no use for it and I am not going to pretend otherwise.**"
+"Then I have no use for it and I am not going to pretend otherwise."
 
-"**You could photograph it.**"
+"You could photograph it."
 
 "**Somebody did, in a prospectus, about four hundred people have read it, and I am not going to do it again.**"
 
@@ -112,15 +114,15 @@ Then she asked the smaller one, and it took about nine seconds, and it was the t
 
 "**Are you going to say this again.**"
 
-"**Yes.**"
+"Yes."
 
 "**Why.**"
 
 "**Because I want it, and wanting it is not a reason, and I have known that since about two minutes ago and I am saying it anyway because I would rather be told than have it noticed later.**"
 
-"**You are the first person in nineteen years to have said that sentence to me in this room,**" said Aurelia Sopp, "**and about nine of the last eleven said no and gave a reason, and two of those nine reasons were better than yours.**"
+"**You are the first person in nineteen years to have said that sentence to me in this room,**" said Aurelia Sopp, "and about nine of the last eleven said no and gave a reason, and two of those nine reasons were better than yours."
 
-The man of twenty-two said: "**She is not the only one of them who is going to say it.**"
+The man of twenty-two said: "She is not the only one of them who is going to say it."
 
 "**No. She is not. I am going to have to find out whether the other one says it in the same room, and I would rather find that out from you than from a chair.**"
 

@@ -44,7 +44,7 @@ He did not say that he wanted to read it. He stood at the counter for about four
 
 That is nine words. He did not argue with it and he did not improve on it and he has not improved on it since.
 
-"**Manners are not why,**" she said, without looking up. "**It is that four of us were watching you and if you do it then you are a person who reads other people's pages, and that is a thing you can do again.**"
+"Manners are not why," she said, without looking up. "It is that four of us were watching you and if you do it then you are a person who reads other people's pages, and that is a thing you can do again."
 
 "**I know.**"
 
@@ -58,7 +58,7 @@ He put his hands in his pockets, which he does not do, and said: "**What do I do
 
 It holds eight things, and it cannot be emptied, and nobody who wrote in it can be found in it, and a man of about thirty-one who had never been in the room read the whole of it standing up for about nine minutes a fortnight ago and put it back on the shelf and said one sentence on his way out that four people heard and nobody wrote down.
 
-**Anybody may take it off that shelf and read it. If you are the person who wrote one of the things in it you may take that page out, and nobody will stop you, and nobody will be told.**
+Anybody may take it off that shelf and read it. If you are the person who wrote one of the things in it you may take that page out, and nobody will stop you, and nobody will be told.
 
 Nobody has taken a page out. There are eight things in it and it was seven on Friday.
 
@@ -68,7 +68,7 @@ At about a quarter to four a cook of twenty-seven came out of the back and washe
 
 Somebody said, not unkindly, that it is the heat, and that there is a form for the heat, and that a man of thirty-eight in a district jacket said so in this room in the first week of the fortnight and was right that there is.
 
-"**I have asked three times,**" she said, to the sink. "**Three. I am not going to ask a fourth and I want that written on something if anybody in this city ever writes anything down.**"
+"I have asked three times," she said, to the sink. "Three. I am not going to ask a fourth and I want that written on something if anybody in this city ever writes anything down."
 
 Nobody wrote anything down.
 

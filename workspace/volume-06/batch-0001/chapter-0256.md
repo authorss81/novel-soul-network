@@ -12,7 +12,7 @@ The word was at nine and ten. The heating in that room was on its fifty-first da
 
 It took about nine seconds and there is no part of the account anybody would argue with.
 
-"**PS-3-11(c).**" she said. "**Dated eleven years. Not withdrawn. A practice card is not to be issued unless it carries a beat that performs the boundary.**"
+"**PS-3-11(c).**" she said. "Dated eleven years. Not withdrawn. A practice card is not to be issued unless it carries a beat that performs the boundary."
 
 "**Who says that.**"
 

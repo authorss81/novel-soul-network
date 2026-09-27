@@ -1,6 +1,6 @@
 # Chapter 260 — A Line Is Not A Rule
 
-The fourteenth line went on the hardboard on the Thursday evening of week ninety-one in the hand of a woman of twenty-four, who named the cost out loud before she made the mark, and the cost was that her name is now on a surface in a building with a plate on the outside of it, and that she has said no to being findable three times in a term and a half, and about nine people heard the whole of it and nobody thanked anybody, and the heating was on its fifty-ninth day and nobody had paid for it and nobody was going to.
+The fourteenth line went on the hardboard on the Thursday evening of week ninety-one in the hand of Talia Venn, who is twenty-four, who named the cost out loud before she made the mark, and the cost was that her name is now on a surface in a building with a plate on the outside of it, and that she has said no to being findable three times in a term and a half, and about nine people heard the whole of it and nobody thanked anybody, and the heating was on its fifty-ninth day and nobody had paid for it and nobody was going to.
 
 ---
 
@@ -16,7 +16,7 @@ The board over the door carried four words in chalk in the hand of a woman of ab
 
 Underneath it, on two nails, a piece of hardboard the size of a tea tray carried thirteen lines in seven hands and eight names, and the first of the thirteen was a cook's and was still the first, and the thirteenth was a first-year of nineteen's and was about five weeks old and was an opt-out, and the hardboard is not the board over the door and is not the wall list in its plastic sleeve in a repair shop four districts away, and there are three objects and none of them has ever been merged with either of the others.
 
-The woman of twenty-four had been in the room for about two hours and had not sat down once.
+Talia Venn had been in the room for about two hours and had not sat down once.
 
 ---
 
@@ -50,7 +50,7 @@ A first-year of nineteen, from the end chair with her boots off, said:
 
 "**Then say the other thing out loud, because in about four years there is going to be somebody in this room who has not been here and they are going to read that and think it is a rule, and it is not, and the only reason they will think it is a rule is that nobody said the difference. A rule has got a number and a date on it and it hangs on a wall in a building with a lot of paper in it, and any competent person in this city can pick it up on a Monday and use it without asking anybody, and that one has been in force for eleven years and nobody has ever withdrawn it. That has two hands and one of them is yours. Yours is a line somebody wrote on a piece of hardboard, and it costs you the thing you just said, and it does not bind one person including you, and you can take it off with a thumb in front of nine people, and it is evidence of nothing in any proceeding, there being none.**"
 
-The woman of twenty-four said: "**I did not know that on Wednesday. I thought they were the same thing and I have been in this room a term and a half and I thought they were the same thing, and I want it entered that I did not know that on Wednesday.**"
+Talia Venn said: "**I did not know that on Wednesday. I thought they were the same thing and I have been in this room a term and a half and I thought they were the same thing, and I want it entered that I did not know that on Wednesday.**"
 
 "**Nobody is entering anything.**"
 
@@ -100,7 +100,7 @@ He said one thing out loud on a service road at about ten, standing up, in the w
 
 **a rule has a number and a date and hangs on a wall in a building with a great deal of paper in it, and any competent person may pick it up on a Monday and use it without asking anybody, and that one has been in force eleven years and has never been withdrawn; a line on a hardboard costs its writer something said out loud, binds nobody including its writer, can be lifted with a thumb in front of nine people, and is evidence of nothing in any proceeding, there being none.**
 
-**The woman of twenty-four then said that she did not know the difference on Wednesday, that she had believed for a term and a half that the two were the same thing, and asked that it be said rather than entered, and was told that it had been said and that would do. The word rule is on the page in both senses in the same minute and neither sense was explained by the narrator.**
+**Talia Venn then said that she did not know the difference on Wednesday, that she had believed for a term and a half that the two were the same thing, and asked that it be said rather than entered, and was told that it had been said and that would do. The word rule is on the page in both senses in the same minute and neither sense was explained by the narrator.**
 
 *What he did not do.* **He did not go to the board. He was at the counter with a docket for the whole of it and did not come within four feet of the hardboard, which is the first time in a term and a half that a line has gone on it and he has not been near it; about four people noticed and he did not explain it and was not asked. He did not sign it and was not asked to and nobody asked anybody to sign anything.**
 
