@@ -102,7 +102,7 @@ He did not thank her, and she had told him on a half landing at twenty past midn
 
 ---
 
-There is a register in Crown Terrace with about nine hundred lines in it and the fourth column has not had a person's name in it in fourteen years, and four hundred people have had that column read out to them, and one of them has ever been asked what she thought of it.
+There is a register in Crown Terrace with about nine hundred lines in it and the fourth column has not had a person's name in it in fourteen years, and four hundred people have had that column read out to them, and not one of them has ever been asked what she thought of it.
 
 She said it, and it is in nobody's file, and there is no distribution for it and no reference on it and no district it can be put in front of, and the only copy of it is in a head in a cardigan, by a counter, on a Wednesday and a Friday and a Monday.
 
