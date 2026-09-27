@@ -1,5 +1,21 @@
 # Character State
 
+# VOLUME 06 MOVEMENT IV (Chapters 281–290) — THE REVIEW REPAIR PASS, AND WHERE EVERYBODY STILL IS
+
+**A REVIEW REPAIR PASS RAN OVER MOVEMENT IV AFTER THE BATCH WAS WRITTEN AND ALL FIVE OF ITS FINDINGS ARE APPLIED. It is written up in full at section 8 of `workspace/volume-06/batch-0004/SUMMARY.md`, which is the dated account and which also carries the corrected measurement table. Nothing was restarted: no chapter was replaced, no scene rewritten, no beat moved, no day of the day map moved, and the load-book run is still 284 to 293 with no duplicate and no gap.**
+
+**Nobody moved. No character's position, choice, refusal, cost or debt changed, and no relationship in these ten chapters changed by a single word. The pass was a bookkeeping and wording repair and the character state at the close of Movement IV stands as the block above states it.**
+
+**Three entries in that block above are corrected by this pass, and they are corrections of description and not of anybody's position:**
+
+1. **Marek Senn — Chapter 289's reason for saying the word out loud is unchanged and is still a valve.** The sentence that carries it now says **the whole of the improvement in about four years** is a thing one man did on a Saturday in about four minutes, where it said *in six volumes*. **What he said, to whom, at what length, and the four seconds of not checking are all exactly as the block above records them.** Nobody in that room learned anything new and nobody's estimate of him changed.
+2. **The cook of twenty-seven — her count is unchanged and is still five sentences of one shape against a promise of six.** The prose no longer measures that count in a span, and no state of hers is affected by it. **She is still a person who says nothing at all in a run of days in which about four people in this case are keeping the count and nobody in that room is.**
+3. **The room's age is now attached to the room and not to the heating, in all ten chapters and in this block's own use of the figure.** **This block's account of who is in which room, and of what is owed by whom, is unaffected: the woman of about thirty is still in the chair nearest the door, the day room next door is still shut, and the fortnight of unpaid heating is still unpaid.**
+
+**The characters the pass did not touch, named here so that the next writer does not go looking for a change:** Talia Venn is still the person the word was said to and is still named only by the narrator; the clerk of forty-four is still findable on purpose and holds nothing; Iven Sore is still not a villain and has agreed to nothing; the Continuity Office is still not defeated; Oren Vey is still owed no second fact; the man of fifty-eight with a bad hip is still not the person who says the word and still wants it written down; the instructor of thirty-six is still not standing in that room on the last Friday; and Bea Nunn is still the holder of a book she did not open. **The one nineteen-year-old in this case is still Asha Reed, and the words *we*, *our* and *us* are still in no sentence about the two of them.**
+
+---
+
 # VOLUME 06 MOVEMENT IV (Chapters 281–290) — WHERE EVERYBODY IS AT THE CLOSE
 
 **This block is the live character state. It sits above the `VOLUME 06 MOVEMENT III` material, which stands. Canon detail lives in `state/continuity.md`; this file tracks movement.**

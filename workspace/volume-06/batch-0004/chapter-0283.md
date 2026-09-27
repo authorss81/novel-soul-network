@@ -6,7 +6,7 @@ The Friday of week ninety-eight was the first Friday rota of this run of days, a
 
 Grade three, twenty to eight, on a card in date, with the exception for the term recorded and renewed in a system in a box that says *No reason given by holder*. Eleven on the Friday list for the week and about four of the eleven not on it.
 
-The word was at nine and ten. The heating in that room was on its hundred and ninth day and it is two hundred and fourteen days old.
+The word was at nine and ten. The heating in that room was on its hundred and ninth day. The room is two hundred and fourteen days old.
 
 ---
 
@@ -62,7 +62,7 @@ He was not asked for anything else and he did not offer anything else and he has
 
 ---
 
-At about half past nine in the room off a service road there were about nine people and the heating was on its hundred and ninth day and a woman of about thirty was in the chair nearest the door with a cup of tea in front of her and had been since about two, and a cook of twenty-seven was at the sink and has said five sentences of one shape in two volumes and has said she will not say a sixth and about four people in this case are keeping the count.
+At about half past nine in the room off a service road there were about nine people and the heating was on its hundred and ninth day and a woman of about thirty was in the chair nearest the door with a cup of tea in front of her and had been since about two, and a cook of twenty-seven was at the sink and has said five sentences of one shape and has said she will not say a sixth and about four people in this case are keeping the count.
 
 Nobody thanked anybody at the end of the Friday and nobody has rung anybody since and the room is not going to be rung about a gap in a company training room at the end of a passage.
 

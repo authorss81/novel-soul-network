@@ -6,7 +6,7 @@ The Monday of week one hundred was the afternoon a man of forty-one came back to
 
 Ten on the docket and nine in date, and a lamp ballast in a stairwell in Lattice Ward was attended at about two and was not a fault and the description box says so.
 
-The word was at nine and ten. The heating in the room off the service road is on and it is two hundred and twenty-four days old.
+The word was at nine and ten. The heating in the room off the service road is on. The room is two hundred and twenty-four days old.
 
 ---
 

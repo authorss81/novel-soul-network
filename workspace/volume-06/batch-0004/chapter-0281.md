@@ -6,7 +6,7 @@ On the Wednesday morning of week ninety-eight, in a room in Crown Terrace with a
 
 Ten on the docket and nine in date, and the stair fire door in Nine Bridges was not reported since the Monday and has not been chased, and the entry records that and attributes it to nothing.
 
-The word was at nine and ten. The heating in that room was on its hundred and seventh day and it is two hundred and twelve days old.
+The word was at nine and ten. The heating in that room was on its hundred and seventh day. The room is two hundred and twelve days old.
 
 ---
 
@@ -100,7 +100,7 @@ Nobody thanked her. Nobody said the nine sentences were good. About four people 
 
 At about half past six there were about nine people in a cold room off a service road and a woman of about thirty was in the chair nearest the door with a cup of tea in front of her and had been since about two, and nobody in that room knew what had happened in a building in Crown Terrace and nobody was told and nobody will be.
 
-A cook of twenty-seven had said nothing all day. She has said five sentences of a shape in two volumes and has said she will not say a sixth, and about four people in this case are keeping the count and nobody in that room is.
+A cook of twenty-seven had said nothing all day. She has said five sentences of one shape and has said she will not say a sixth, and about four people in this case are keeping the count and nobody in that room is.
 
 He wrote one thing on a service road, in the wind, at about ten.
 

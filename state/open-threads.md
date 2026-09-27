@@ -1,5 +1,23 @@
 # Open Threads
 
+# VOLUME 06 — MOVEMENT IV (Chapters 281–290) — THE REVIEW REPAIR PASS, AND WHAT IT DID TO THIS LIST
+
+**A REVIEW REPAIR PASS RAN OVER MOVEMENT IV AFTER THE BATCH WAS WRITTEN AND ALL FIVE OF ITS FINDINGS ARE APPLIED. It is written up in full at section 8 of `workspace/volume-06/batch-0004/SUMMARY.md`, which is the dated account and which also carries the corrected measurement table. Nothing was restarted: no chapter was replaced, no scene rewritten, no beat moved, no day of the day map moved, and the load-book run is still 284 to 293 with no duplicate and no gap.**
+
+**No thread on the list above is resolved by the pass, closed by it, or weakened by it. The pass removed a duplicated draft, corrected a figure's noun, and removed a manuscript-structural unit from the narration. None of that is a plot event and none of it moves a debt.**
+
+**What it did change, in the list's own terms:**
+
+- **The word was said out loud once, to one person, and that stands exactly as the list above has it.** Chapter 289's prose is unchanged in that scene, in that room, in that exchange, and in what she said and did not say afterwards. **The one line the pass re-worded in that chapter is the narrator's sentence about why he said it on that afternoon, and it now says *in about four years* where it said *in six volumes*.** The reason it was a valve is the reason it was a valve.
+- **The heating is on and it costs more, and the fortnight is still unpaid.** Nothing in the pass touched the heating, the four names, the notice, or the money. **The pass corrected the one sentence in these ten files that attached the room's age to the heating, which is a bookkeeping repair and not an event, and the series of days it was off still ended on the Wednesday of week ninety-nine and is still not an interval.**
+- **The standing question is still not stated, still carries no number, and is still owed to Movement V.** The pass added no question and answered none.
+
+**One new thread is added by the pass and it is owed to the volume close, not to Movement V:**
+
+- **THE DRAFTING-REFERENCE RULE WAS A PHRASE LIST, AND IT WAS FIXED FOR THE PROSE AHEAD OF THIS VOLUME AND NOT FOR THE PROSE BEHIND IT.** The word *volume* was counting things in six of this batch's ten files, ten times, and is now in none of them. **The same construction is in the chapter prose of Chapters 251, 257, 273, 276, 277 and 278, in the summaries of Movements I, II and III, and in this batch's own prompt, which is where the prose got it.** Those chapters are closed and this phase did not and may not reopen them. **The rule in the Movement V prompt is now a rule about the unit rather than the phrase, so the prose ahead of the volume is protected and the prose behind it is not.** **Owner: the Volume 06 close, or a pass over Volumes 04 and 05. Movement V must not re-import it and its own prompt now says so in the terms that would have caught it.**
+
+---
+
 # VOLUME 06 — MOVEMENT IV (Chapters 281–290) — OPEN, UNPAID, AND CARRIED
 
 **These sit above the `VOLUME 06 — MOVEMENT III` block and are the live thread list. Nothing in this list is resolved. Five of them are carried whole from Movement III and the loudest thing in this movement is that the heating is on and it costs more.**

@@ -6,7 +6,7 @@ The Wednesday morning of week one hundred was the fourteenth sitting of that Exc
 
 Eleven on the docket and eleven in date. Four jobs attended, and the stair fire door in Nine Bridges was not among them and has not been chased.
 
-The word was at nine and ten. The heating in the room off the service road is on and it is two hundred and twenty-six days old.
+The word was at nine and ten. The heating in the room off the service road is on. The room is two hundred and twenty-six days old.
 
 ---
 
