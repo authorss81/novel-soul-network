@@ -157,6 +157,18 @@ The rota, the levy, the funded third line of a specification, the counterfeit hi
 
 
 
+
+## The review repair pass on batch 0001, and the four things it fixed in the record
+
+**A review of Chapters 251 to 260 returned ten findings, four of them blocking. All four blocking findings were figures or delimiters and all four are fixed. No canon decision, no scene, no beat, no character, no age, no day and no load-book entry number changed, and the visible prose of all ten chapters is byte-identical to the checkpoint apart from the six corrected card figures. Full finding list at section 6 of `workspace/volume-06/batch-0001/SUMMARY.md`. Four things a later writer needs from it:**
+
+1. **THE CARD-IN-A-RAIL COLUMN IS CORRECTED IN EVERY FILE THAT PRINTED IT, NOT ONLY IN THE CHAPTERS.** The corrected invariant is that the card is always exactly **four days older** than the room, and the corrected series for all fifty chapters of Volume 06 is: 151, 153, 154, 155, 158, 160, 162, 165, 167, 168 at Chapters 251 to 260; 172, 174, 175, 176, 179, 181, 183, 186, 188, 189 at 261 to 270; 193, 197, 200, 202, 203, 204, 207, 209, 210, 214 at 271 to 280; 216, 217, 218, 221, 223, 225, 228, 230, 231, 232 at 281 to 290; 235, 237, 239, 242, 244, 245, 246, 249, 258, 284 at 291 to 300. **A later writer quotes this list and does not re-derive it, and does not derive it from the chapter beside it.**
+2. **THE ROOM'S OWN FIGURES ARE UNCHANGED AND WERE THE CHECK.** 147, 149, 150, 151, 154, 156, 158, 161, 163, 164 at Chapters 251 to 260, and the card is the room plus four in every row. The check is the Chapter 250 pair from Volume 05's own corrected series, where the room is 142 and the card 146.
+3. **THE BOLD FIGURE FOR THIS BATCH IS 312 SPANS AT 11.47 PER THOUSAND, NOT 306 AT 11.26.** The superseded table was low on eight chapters of ten because the rule it was taken under was never written down. **The matcher is now printed at section 2 of the batch summary: `\*\*(?!\s)(.+?)(?<!\s)\*\*`, one line at a time, and the non-overlapping-pair, `count('**') // 2` and `re.S` variants all agree with it span for span on these ten files.** The batch is over the 10.75 ceiling and the whole of the excess is Chapters 252, 253 and 255, which are dialogue-emphasis problems and are not a trimming problem.
+4. **TWO FINDINGS ARE FLAGGED AND DELIBERATELY NOT FIXED, AND BOTH ARE CONTROLLER-OWNED.** The reviewer agent is declared `mode: subagent` and is invoked as a primary, so review phases run as the writer with `edit: allow`; and `state/phase-ledger.json` still reads `phase-000-bootstrap` and `planned` at Chapter 260 and has never been written by a phase. **Neither is a fiction, bible, outline, chapter, summary, continuity, character or open-thread file and neither is edited by a writing or review pass. They are recorded here so that the debt is visible in the manuscript and not only in a log.**
+
+---
+
 ---
 
 # VOLUME 05 — MOVEMENT V (Chapters 241–250), "Three Districts", AND VOLUME 05 IS COMPLETE ON THE PAGE

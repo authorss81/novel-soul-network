@@ -40,18 +40,18 @@ Weeks 89 to 91. **No day number, no month-name, no month-date, no day-date and n
 
 | Ch | The room, from the Monday of week 68 | The card in a rail, from the Thursday of week 67 | Days the heating has been off, from the Monday of week 83 | The twelve lines, from the Thursday of week 79 | The thirteenth line, from the Thursday of week 86 |
 | --- | --- | --- | --- | --- | --- |
-| 251 | 147 | 11 | 42 | 67 | 18 |
-| 252 | 149 | 13 | 44 | 69 | 20 |
-| 253 | 150 | 14 | 45 | 70 | 21 |
-| 254 | 151 | 15 | 46 | 71 | 22 |
-| 255 | 154 | 18 | 49 | 74 | 25 |
-| 256 | 156 | 20 | 51 | 76 | 27 |
-| 257 | 158 | 22 | 53 | 78 | 29 |
-| 258 | 161 | 25 | 56 | 81 | 32 |
-| 259 | 163 | 27 | 58 | 83 | 34 |
-| 260 | 164 | 28 | 59 | 84 | 35 |
+| 251 | 147 | 151 | 42 | 67 | 18 |
+| 252 | 149 | 153 | 44 | 69 | 20 |
+| 253 | 150 | 154 | 45 | 70 | 21 |
+| 254 | 151 | 155 | 46 | 71 | 22 |
+| 255 | 154 | 158 | 49 | 74 | 25 |
+| 256 | 156 | 160 | 51 | 76 | 27 |
+| 257 | 158 | 162 | 53 | 78 | 29 |
+| 258 | 161 | 165 | 56 | 81 | 32 |
+| 259 | 163 | 167 | 58 | 83 | 34 |
+| 260 | 164 | 168 | 59 | 84 | 35 |
 
-**The room was 142 days old at Chapter 250 and the card 146, and the heating 37, and the twelve lines 62 and the thirteenth 13. The room is always a hundred and thirty-six days older than the card and that is a check, not a licence.**
+**The room was 142 days old at Chapter 250 and the card 146, and the heating 37, and the twelve lines 62 and the thirteenth 13. THE CARD IS ALWAYS EXACTLY FOUR DAYS OLDER THAN THE ROOM AND NEVER YOUNGER, because the card went to its rail on the Thursday of the week before the room opened, and that is a check and not a licence. This sentence and the card column of the table above are CORRECTED; both originally read that the room was a hundred and thirty-six days older than the card and the column read 11, 13, 14, 15, 18, 20, 22, 25, 27 and 28, which is the same error with the sign inverted and is a hundred and forty days low. The corrected figures are confirmed against Volume 05's own corrected series, where the room is 105 and the card 109 at Chapter 241 and the room 142 and the card 146 at Chapter 250, and both pairs are four days apart. The first six chapters of this batch printed the wrong column into their load books before the correction was found; the prose now carries the corrected figures.**
 
 **THE FOURTEENTH LINE IS WRITTEN IN CHAPTER 260 AND IS ZERO DAYS OLD AT CHAPTER 260, WHICH IS A DIFFERENCE AND NOT AN INCLUSIVE COUNT, AND NOBODY IN THAT ROOM HAS ANY IDEA HOW OLD ANYTHING IS. From Chapter 260 the wall is fourteen lines and the two older series are both superseded and a later writer carries three figures for it.**
 

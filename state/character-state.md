@@ -228,6 +228,14 @@ Updated after every batch. Tracks where each character is at the end of the last
 
 # VOLUME 06 — MOVEMENT I (Chapters 251–260), "A Rule In Print" — Character state at the end of Chapter 260
 
+## The review repair pass on batch 0001, and why this section is four lines long
+
+**A review of Chapters 251 to 260 returned ten findings, four of them blocking, and all four blocking findings were a figure in a document or a delimiter in the markup. Not one of them was a person. This repair pass therefore moved no character: no want, no refusal, no cost, no relationship, no age, no injury, no silence broken and no silence filled. Marek is still twenty-two, still not a licence holder, still at eleven for about four minutes on the Friday of week ninety and still telling nobody. Talia Venn is still the first refusal of this volume and still has not been asked to be the person who reads the standard aloud. Asha Reed still has her two nine-word sentences and still has not learned what the second one cost anybody, because nobody has found out yet and this pass did not find out.**
+
+**The four things that did change are all in `state/continuity.md` under *The review repair pass on batch 0001*, and they are the card-in-a-rail series, the batch's bold figure and its now-printed matcher, and the two controller-owned findings that are flagged and not fixed. A character file that changed in a repair pass whose findings were all arithmetic would be a worse file than one that says nothing changed, and the standing instruction for this file is that it tracks movement.**
+
+
+
 **`outline/volume-06.md` governs. He is in all ten load-book entries and he is the subject of none, and that is now seven movements running. Nobody thanked him in any of the ten chapters.**
 
 ## Marek Senn, 22 — where he is and what this movement cost him

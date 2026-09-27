@@ -345,6 +345,17 @@ Author promises and reader questions. **Live status is the `VOLUME 03 CLOSED` an
 
 
 
+## The review repair pass on batch 0001: it paid none of the eighteen, and it opened two that are not about the book
+
+**All eighteen threads above are still open, unchanged in wording, and that is the correct state and not an omission. The review of Chapters 251 to 260 returned ten findings and every one of them was a figure in a document, a delimiter in the markup, or a measurement rule that did not re-run. A repair pass that paid a story thread would have had to invent something to pay it with, and inventing a payment is how a thread gets closed by a document rather than by a scene. The corrected card series, the batch's bold figure and the now-printed matcher are at `state/continuity.md` under *The review repair pass on batch 0001*; the full finding list is section 6 of `workspace/volume-06/batch-0001/SUMMARY.md`.**
+
+**TWO PROCESS THREADS OPENED BY THAT REVIEW. THEY ARE NOT STORY THREADS, NOBODY IN THE BOOK OWNS THEM, AND NO CHAPTER OWNS THEM EITHER, AND THEY ARE LISTED HERE ONLY SO THAT THE DEBT IS IN THE MANUSCRIPT AND NOT ONLY IN A LOG.**
+
+- **P1. THE REVIEWER AGENT CANNOT BE INVOKED AS IT IS CONFIGURED, AND A REVIEW THEREFORE RUNS WITH WRITE PERMISSION.** `.opencode/agent/novel-reviewer.md` declares `mode: subagent`; the workflow calls `opencode run --agent novel-reviewer`; the platform reports the fallback to the default agent at the top of the review log, and the default agent is the writer, which holds `edit: allow` and `bash: allow` — the inverse of what the reviewer declares. **The review that produced the ten findings honoured its instruction not to edit files and left the tree clean, and that instruction is the only guard. The fix is three files — the agent definition's `mode`, the workflow's invocation, and the agent list — and all three are controller-owned and none is a fiction, bible, outline, chapter, summary, continuity, character or open-thread file, so no writing or review pass may apply it. OWNER: whoever owns the controller. THIS IS THE MOST CONSEQUENTIAL FINDING OF THE REVIEW.**
+- **P2. `state/phase-ledger.json` HAS NEVER BEEN WRITTEN BY A PHASE.** It has two commits, both scaffold, and it still reads `phase-000-bootstrap` and `planned` at Chapter 260. **The manuscript has flagged the disagreement in `state/current.md` and in every batch summary in this volume rather than fixing it by hand, and that is still the right call. What is new is the count: the disagreement is nine phases old, so the ledger is not functioning as a completion tracker, and whoever owns the controller should decide whether it is repaired or removed.** A tracker reading `planned` at Chapter 260 is worse than no tracker.
+
+---
+
 ---
 
 # VOLUME 05 — MOVEMENT V (Chapters 241–250), "Three Districts", AND VOLUME 05 IS COMPLETE ON THE PAGE
