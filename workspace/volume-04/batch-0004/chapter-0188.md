@@ -42,7 +42,7 @@ He did not say why he was there. He ordered a tea and put it down and then he pu
 
 "You have put your nine words on a leaflet."
 
-"I have put my nine words on a leaflet of about four hundred that a man of twenty-two printed in the spring for a company and did not write, and **it is in the bin behind that door, and it will be in a skip by Wednesday, and that is the only place in this city where a sentence of mine is written down and it is going to be in a skip on Wednesday.**"
+"I have put my nine words on a leaflet of about a hundred and forty that a man of twenty-two printed in the spring for a company and did not write, and **it is in the bin behind that door, and it will be in a skip by Wednesday, and that is the only place in this city where a sentence of mine is written down and it is going to be in a skip on Wednesday.**"
 
 He did not sound like a man who minded.
 
