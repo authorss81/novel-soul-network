@@ -72,7 +72,7 @@ Four feet of shop, a sign a woman paid for out of her own money in her first yea
 
 And the woman who printed them is the one who decides what they are for, and there is no way in this city for her not to be, and nobody has given her one.
 
-Nobody has said so.
+Nobody is going to tell her that she is the one who decides what a card is for, because telling her would also be a request, and she is not going to ask him for one, and in about four years about four hundred and thirty-two cards will still have her postcode on them and four hundred more will still have her name on the back.
 
 ---
 

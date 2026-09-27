@@ -102,7 +102,7 @@ Nobody in this city can point at a lock, because there is no lock. What a person
 
 Petar Vance went down the stairs with the roll under his arm and said nothing at the bottom of them. Ines Kolar did forty-one doors. And a man of twenty-two stood in a corridor with a docket he had not written anything on.
 
-Nobody has said so.
+There is nobody in this city to ask about a schedule of doors, a schedule of title, or a line at the bottom of a form, and all three of them have gone home for the night, and not one of the three knows that it is the answer.
 
 ---
 

@@ -2,7 +2,7 @@
 
 The ninth of the eleven was on the Friday of week fifty-six, four weeks after the eighth, in the same room in Crown Terrace, and the stack by the door had been made again.
 
-He was four rows from the back with a docket flat on his knee and a lanyard round his neck he had not asked for, and the microphone on its stand at the front of the room had nobody behind it, and the leaflet on the front of the stack had the fee on it and the session title and five jobs, and two of the five jobs are him, and a piece of software picked those two out of two job sheets in the week of the thirty-fourth and nobody in the room picked anything.
+He was four rows from the back with a docket flat on his knee and a lanyard round his neck he had not asked for, and the microphone on its stand at the front of the room had nobody behind it, and the leaflet on the front of the stack had the fee on it and the session title and five jobs, and two of the five jobs are him, and a system chose those two out of two job sheets in the week of the thirty-fourth and nobody in the room chose anything.
 
 ---
 
@@ -18,7 +18,7 @@ The woman who types things was at her table by the wall and she did not stand up
 
 He stood up in the fourth row at half past nine. It was the second time in four weeks that he had put the condition into the first person with his own mouth, and the seventh time it had been said in public in this city, and the microphone on its stand had not been asked to go off, and nobody in this city is able to ask.
 
-"**There is a condition on my share. I may not demonstrate, teach, assess or assist at any practice in that department, on its premises, under its insurance, at any time, unlimited by hours, and the department may put four names in front of any of them.**"
+"**There is a condition on my share. I may not demonstrate, teach, assess or assist at any practice in this department, on its premises, under its insurance, at any time, unlimited by hours, and the department may put four names in front of any of them.**"
 
 He stopped there and nobody in that room put a hand up.
 

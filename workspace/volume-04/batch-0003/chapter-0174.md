@@ -86,7 +86,7 @@ Then he asked the other thing, at the top of the stairs, with the light still of
 
 "I did not say a room."
 
-"You said a room with a microphone on it and that is the same sentence with the volume turned up," Marek Senn said. "**I have a condition on my share and it says I may not demonstrate, teach, assess or assist at any practice in that department, on its premises, under its insurance, at any time, and what you have just asked me for is none of those four words, and the reason I can do it is that this is a landing and I am a repairer and there is a fault on my docket. The day somebody asks me to say it twice, or to say it to somebody who was not standing on the landing, that is a different thing and I am not going to do it.**"
+"You said a room with a microphone on it and that is the same sentence with the volume turned up," Marek Senn said. "**I have a condition on my share and it says I may not demonstrate, teach, assess or assist at any practice in this department, on its premises, under its insurance, at any time, unlimited by hours, and the department may put four names in front of any of them, and what you have just asked me for is none of those four words, and the reason I can do it is that this is a landing and I am a repairer and there is a fault on my docket. The day somebody asks me to say it twice, or to say it to somebody who was not standing on the landing, that is a different thing and I am not going to do it.**"
 
 ---
 

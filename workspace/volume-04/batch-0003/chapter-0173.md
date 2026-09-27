@@ -72,7 +72,7 @@ Nobody went with her. A foreman of fifty-eight stood at the top of those stairs 
 
 A man of twenty-two wrote in his own book in the week of week fifty that nobody in this case has earned a basement, and that a basement is the room where the records are, and that if he is the first person through that door then he is the man who went through a door.
 
-He stood at the top of the stairs and did not go down and did not say that he had written that down, and it was the eleventh day since he wrote it.
+He stood at the top of the stairs and did not go down and did not say that he had written that down, and it was five weeks since he wrote it.
 
 ---
 
@@ -86,7 +86,7 @@ The two records have not been in the same room since before a service contract e
 
 ---
 
-She came up the stairs and put her hand on the rail and said nine words and then did not say anything for a while.
+She came up the stairs and put her hand on the rail and said twenty words and then did not say anything for a while.
 
 "Roll of plans, one. A date in ink. Nineteen years on it and the ink is older than the plates." Sera Quill picked the braid up off the step. "**That is what is in it. I am not going to be asked what I think of that and I have not been asked and I am not going to volunteer it.**"
 
@@ -104,13 +104,13 @@ The foreman of fifty-eight was still at the top of those stairs and he had not m
 
 "It is a guess. **I have not been down and I have said so in a public room and I am not going to start now, and if that is what is down there then the man who wrote it on a plan in nineteen years is a person and he is not me and he is not you and I would like the whole of this corridor to notice that I have just said the useful thing and then refused to be the one who uses it.**"
 
-"He said that on the Wednesday and he said it again on the Thursday," said Ines Kolar, from the landing, without turning round. "**That is twice in about nine days and neither time was in the same room, and there is a version of this case in which that is the only thing anybody does all term.**"
+"He said that on the Wednesday and he said it again on the Thursday," said Ines Kolar, from the landing, without turning round. "**That is twice in a fortnight and neither time was in the same room, and there is a version of this case in which that is the only thing anybody does all term.**"
 
 ---
 
 The plan went back in the drawer and the drawer went on the hook and the door was shut and a key turned a lock that four people in this city hold, and nothing in the case moved by one inch, and a foreman of fifty-eight has still not used his, and a woman of forty-six did what she said on the Thursday of week fifty and has not gone down, and a man of twenty-two was not the first person through that door and is not going to be.
 
-Nobody has said so.
+A set of plans is nineteen years old and says 2-07 about a room whose plate says 2-14, and both of those are right about themselves, and there is one of each in this city and neither of them is in charge of the other.
 
 ---
 
@@ -122,6 +122,6 @@ Nobody has said so.
 
 *Why the fourth person went down, given before anybody asked.* **A basement is a room and she goes into rooms; eleven hundred basements in eleven years, every one with a pipe in it somebody had to look at. She left the braid on the top step. Six minutes.** She said the cost first, in full, in a corridor: that in about four years somebody can say a woman of forty-five went into a basement in this city on a Thursday and did it for a man she has said no to seven times, and that there is no version of that which stays a fact about a drawer, and that she is not going to be thanked.
 
-*What was in the drawer, as a record.* **One hook, one drawer, no lock and nothing on it ever to lock. One roll of plans with a date in ink on the outside. Nineteen years old, and the ink older than any manufacturer's line on any plate in the building, and the service contract four years old. The room is 2-07 on the plan; the plate on its door says 2-14; the company printed the plate exactly as it was instructed and has told a foreman so twice. The two records have not been in the same room since before a service contract existed.** She came up with the braid and gave nine words and would not be asked what she thought of it.
+*What was in the drawer, as a record.* **One hook, one drawer, no lock and nothing on it ever to lock. One roll of plans with a date in ink on the outside. Nineteen years old, and the ink older than any manufacturer's line on any plate in the building, and the service contract four years old. The room is 2-07 on the plan; the plate on its door says 2-14; the company printed the plate exactly as it was instructed and has told a foreman so twice. The two records have not been in the same room since before a service contract existed.** She came up with the braid and gave twenty words and would not be asked what she thought of it.
 
-*What did not move.* **The plan went back in the drawer and the drawer went on the hook. Nobody went down with her. The foreman said in a corridor that he had said it in a public room and was not going to be a different man on a Thursday. My own book has carried a line since the week of the forty-seventh that nobody in this case has earned a basement, and it is the eleventh day, and I did not say it out loud and did not go down.** Entry 176. The book is at forty-four lines and does not move before the Wednesday of the week of fifty-six, and a set of plans in this city is nineteen years old and correct about itself, and about nine hundred doors are the correct age of a contract.
+*What did not move.* **The plan went back in the drawer and the drawer went on the hook. Nobody went down with her. The foreman said in a corridor that he had said it in a public room and was not going to be a different man on a Thursday. My own book has carried a line since the week of week fifty that nobody in this case has earned a basement, and it is five weeks, and I did not say it out loud and did not go down.** Entry 176. The book is at forty-four lines and does not move before the Wednesday of the week of fifty-six, and a set of plans in this city is nineteen years old and correct about itself, and about nine hundred doors are the correct age of a contract.
