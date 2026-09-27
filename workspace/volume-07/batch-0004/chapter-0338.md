@@ -1,6 +1,6 @@
 # Chapter 338 — Nobody Rung
 
-The Monday morning of week one hundred and twenty was the morning a woman of twenty-four said one thing in a room and it was not improved on and it is not written down anywhere, and it was the morning three people in this city did not telephone a man of twenty-two that they had rung every week for about a month, and one of the three rang him and the question was smaller than the one she would have rung about a fortnight before, and he finished all eleven jobs on his docket and he was still behind, and **he is behind for the first time in this volume and the reason is visible to about four people who are not him and is not visible to him at all.**
+The Monday morning of week one hundred and twenty was the morning a woman of twenty-four said one thing in a room and it was not improved on and it is not written down anywhere, and it was the morning three people in this city did not telephone a man of twenty-two that they had rung every week for about three weeks, and one of the three rang him and the question was smaller than the one she would have rung about three weeks before, and he finished all eleven jobs on his docket and he was still behind, and **he is behind for the first time in this volume and the reason is visible to about four people who are not him and is not visible to him at all.**
 
 ---
 
@@ -20,7 +20,9 @@ It is paid work and it is not a post and she is owed nothing. A woman of twenty-
 
 And at about eleven on the Monday morning, at a table, in a room, she said one thing.
 
-She was asked, by a person of about twenty-eight with a clipboard, how a person who could not remember which list they were on would be matched back to the list on the paper, and she looked at the clipboard for about four seconds and then she said it once.
+She was asked a question about the list on the paper by a person of about twenty-eight with a clipboard, and she looked at the clipboard for about four seconds and then she said it once.
+
+"Patient identifiers, if available."
 
 Nobody improved on it. The person with the clipboard wrote it on the back of their own hand, in their own words, and the back of that hand has been washed and the sentence is not on anything.
 
@@ -54,13 +56,13 @@ What he thinks happened on Friday night, if anybody had put it to him, is that f
 
 He was not told. Nobody told him. Four people have not told him and are not going to, and about four other people have told nobody at all, and one of those four is him.
 
-**He has had about four days and he has not seen any of it, and the four days are the whole of this chapter and the whole of what is left of this week, and at the end of them he is going to be further behind and not less.**
+**He had about four days in front of him and he has not seen one hour of any of them, and the four of them are up, and he is behind now, and at the end of this week he is going to be further behind and not less.**
 
 ---
 
 A room off a service road was warm at about half past six that evening and about nine people were in it.
 
-A cook of twenty-seven was at the sink and said nothing at all. A man of fifty-one with a tool bag said nothing and has said nothing to anybody about a doorway, and about four people know about the doorway, and it is a fortnight old.
+A cook of twenty-seven was at the sink and said nothing at all. A man of fifty-one with a tool bag said nothing and has said nothing to anybody about a doorway, and about four people know about the doorway, and it is about a fortnight old.
 
 **A first-year of nineteen was at the counter and said one thing, in about four seconds, to nobody, and it was about a list, and it was not about any of this, and nobody improved on it and nobody thanked her, and she has not asked one question in this case in about a fortnight and the reason is in her mouth and is not recorded in her mouth and is not to be asked for.**
 
@@ -76,6 +78,6 @@ Nobody thanked anybody. The shutter came down at about ten.
 
 *Three calls withheld, and the four who read the withholding.* **First. Thirty-three, desk and gate, second district: a question of the same kind as each of the three previous Mondays; no call made; about nine minutes with a woman of thirty-four in another building; about twenty minutes of additional elapsed time; identical result. Second. Thirty-four, nine hundred doors: two buildings' worth on that Monday, done that Monday, no call made;  the stated grounds are neither necessity nor forgetfulness and no other ground is on this record. Third. Thirty-one, a telephone in Crown Terrace, about four hundred calls a week: rung four times that morning on three subjects; no caller raised the Friday night in that building; she noticed and has told nobody that she noticed. Not required to and not recorded to be owed. Two others carrying unspent material: a man of fifty-one with a tool bag, a doorway; a man of about fifty-nine, four units, one word. Neither is owed a question by anybody. Aggregate: about nine hours, about twenty minutes slower, zero resentments, zero rivalries, no fall-off of any kind; and about four people in this city can see the shape of it and not one of them has said a word about it to anybody. Owner: the case.**
 
-*The shortfall, itemised, and the four who can see it.* **Attended: eleven of eleven. Finished on the day: eleven of eleven. Outstanding on any docket: none.  Outstanding and visible to him: nothing. Outstanding and visible to about four people: (a) a door in a dark building with a coin under it; (b) a car between two floors from about half past four on a Friday; (c) a table on a ground floor that did not happen on the Friday or the Saturday, and work that was not moved into the dark, because a person holding light cannot also ask a question; (d) a fever on a fourth floor known to one person and reported to nobody; (e) a bell of undetermined cause; (f) nine people descending four flights; (g) nine numbers read by one person, of which one is wrong and two holders are unaware; (h) about four calls a week, for a month, that are not being made.  Not told: by anybody. Withheld by: four people, deliberately. Unaware: one, namely him, and he has not asked and nobody has offered. Time in which he does not see it: about four days, at the end of which the gap is larger and not smaller. Owner: the case.**
+*The shortfall, itemised, and the four who can see it.* **Attended: eleven of eleven. Finished on the day: eleven of eleven. Outstanding on any docket: none.  Outstanding and visible to him: nothing. Outstanding and visible to about four people: (a) a door in a dark building with a coin under it; (b) a car between two floors from about half past four on a Friday; (c) a table on a ground floor that did not happen on the Friday or the Saturday, and work that was not moved into the dark, because a person holding light cannot also ask a question; (d) a fever on a fourth floor known to one person and reported to nobody; (e) a bell of undetermined cause; (f) nine people descending four flights; (g) nine numbers read by one person, of which one is wrong and two holders are unaware; (h) about six calls a week, for about three weeks, that are not being made.  Not told: by anybody. Withheld by: four people, deliberately. Unaware: one, namely him, and he has not asked and nobody has offered. Time in which he does not see it: about four days, which are up; the gap at the end of them was larger and not smaller. Owner: the case.**
 
 *What the day did not touch.* **Nothing was taught, demonstrated, assessed or assisted, and a room off a service road is not a practice in that department and the reason is not that he is the exception. Nothing was run by him, forwarded, or compared.  No name was attached to anything that happened in that room or in that building on the Friday. The printed rule was not invoked and was named in no mouth. The Exchange did not sit. The secondment stands and the chair of forty-nine has still not been told. Heating on, costs more, the fortnight unpaid. The hardboard was not written on. The woman's page is unread.  His appointment carries a reference, a count, a reason and no date, and no date was put on it, and the sentence about a standard adopted as temporary with no date on it was not said and was not needed. The standing question is not stated. The question written once on a service road in an earlier week is not answered, is in nobody's mouth, and its sentence is not printed here. No message arrived from anybody. Nobody died. Nobody thanked anybody. Entry 341.**
