@@ -6,7 +6,7 @@ He is about sixty. He is not in this and he does not become anybody, and nobody 
 
 ---
 
-The board is a piece of hardboard about the size of a tea tray, four letters high, and it goes inside by the door at about the height of a person's shoulder, and it is not screwed to anything.
+The board is a piece of hardboard about the size of a tea tray with the letters four inches high, and it goes inside by the door at about the height of a person's shoulder, and it is not screwed to anything.
 
 "There is a proper plate," he said. "Fascia, aluminium, about forty pound, a fortnight, and it has a name on it and it comes with a telephone number whether you want one or not."
 
