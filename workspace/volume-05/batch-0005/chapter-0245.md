@@ -38,7 +38,7 @@ A first-year of nineteen said it back in nine words and nobody improved on her e
 
 ---
 
-A first-year of nineteen took the door. The plate on the outside of that unit carries a telephone number and no name, and about five calls have gone into that room in nine weeks and the woman who took the first four of them says the word *hold on*, and the first-year said her piece in the plainest sentence anybody had used in that room in a term.
+A first-year of nineteen took the door. The plate on the outside of that unit carries a telephone number and no name, and about six calls have gone into that room in about twelve weeks and every one of the six began with a woman in another building saying the word *hold on*, and the first-year said her piece in the plainest sentence anybody had used in that room in a term.
 
 "**I will answer it. I will not ask anybody who they are and I will not write anything down and I will say where the dry ground is, and if it is me on it I will be the one saying it, and if it is somebody else at two in the morning they are going to say it badly, and I am not going to be angry about that on Wednesday.**"
 

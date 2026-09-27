@@ -90,7 +90,7 @@ He said: "**I am not going to be angry with you about the day and a half. I woul
 
 ---
 
-And then she went and washed up, which is the same work and the same room, and the gas ring was on because she had put it on and nobody had asked her to, and the kettle was on because a cook of twenty-seven had put it on for a cup of tea for a woman of about thirty who was in the chair nearest the door with a bag on her lap and had been in that room on every working day since the Friday of week sixty-nine, and nobody has said anything to that woman in fifteen days, and nobody was going to, and a cook of twenty-seven put a cup of tea in front of her and said nothing at all.
+And then she went and washed up, which is the same work and the same room, and the gas ring was on because she had put it on and nobody had asked her to, and the kettle was on because a cook of twenty-seven had put it on for a cup of tea for a woman of about thirty who was in the chair nearest the door with a bag on her lap and had been in that room on every working day since the Friday of week sixty-nine, and nobody has said anything to that woman in the fourteen days since the heating went off, and nobody was going to, and a cook of twenty-seven put a cup of tea in front of her and said nothing at all.
 
 ---
 

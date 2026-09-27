@@ -1,6 +1,6 @@
 # Chapter 242 — A Sump Pump That Was Not The Fault
 
-The first Friday of the third movement of this room ran on the Friday of week eighty-three, four days into a fortnight in which the heating in a converted shop unit off a service road in the Lower Wards was off and nobody had paid for it, and by that Friday it had rained for four days and the tally on a scrap of kitchen paper beside a kettle had gone from eleven down to seven and back up to eight, and the eight was not eight people who wanted to be there.
+The first Friday rota of this movement ran on the Friday of week eighty-three, four days into a fortnight in which the heating in a converted shop unit off a service road in the Lower Wards was off and nobody had paid for it, and by that Friday it had rained for four days and the tally on a scrap of kitchen paper beside a kettle had gone from eleven down to seven and back up to eight, and the eight was not eight people who wanted to be there.
 
 ---
 
@@ -56,7 +56,7 @@ The tally on the scrap said eight cups on the Friday and seven on the Monday and
 
 ---
 
-The shutter came down at about ten and the room was cold and had been cold for two days and would be cold for twelve more, and the man of twenty-two was not there, and the ring binder had seven things in it and the counter had nothing on it, and the board over the door still had four words in a sign-writer's hand and eight in a cook's, and the eight were untrue.
+The shutter came down at about ten and the room was cold and had been cold for four days and would be cold for ten more, and the man of twenty-two was not there, and the ring binder had seven things in it and the counter had nothing on it, and the board over the door still had four words in a sign-writer's hand and eight in a cook's, and the eight were untrue.
 
 He wrote one thing, on a service road in the wet, at about ten, standing under a downpipe.
 
