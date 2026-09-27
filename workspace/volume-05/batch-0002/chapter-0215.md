@@ -78,7 +78,7 @@ Then she asked him a question, and he was nine feet away with a docket, and he h
 
 "**Can you tell me?**"
 
-And what he said was nine words, and they were counted on the page, and they are not an improvement on the nine words he said in a market ten days ago and he said so himself before anybody else could say it.
+And what he said was nine words, and they were counted on the page, and they are not an improvement on the nine words he said in a market nine days ago and he said so himself before anybody else could say it.
 
 "**I could not tell you what happens in there.**"
 

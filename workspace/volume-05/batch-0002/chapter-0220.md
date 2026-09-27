@@ -96,7 +96,7 @@ He said: "Goodnight."
 
 ---
 
-He got back to Lattice Ward at about ten. The lamp was on, the shutter was up, the docket had three job numbers on it, the drawer under the bench still had five things in it, and on the chair at the back was a coat with a corner of card about two inches by three in the inside pocket of it, and the original was in the fourth pocket of the tool roll with a fifth line on it that has been blank for a term and a half and that nobody has ever asked him to fill in and that nobody decided anything about tonight.
+The lamp in Lattice Ward was still on when he got back at about ten. The shutter was up, the docket had three job numbers on it, the drawer under the bench still had five things in it, and on the chair at the back was a coat with a corner of card about two inches by three in the inside pocket of it, and the original was in the fourth pocket of the tool roll with a fifth line on it that has been blank for a term and a half and that nobody has ever asked him to fill in and that nobody decided anything about tonight.
 
 He wrote one thing, and it is the last line of the run and the run does not end here.
 
