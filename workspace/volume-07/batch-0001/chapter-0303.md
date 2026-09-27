@@ -1,6 +1,6 @@
 # Chapter 303 — The Standing Instruction
 
-The Thursday morning of week one hundred and nine was the morning a lead repairer of forty-five told about nine crews that the standing instruction was wrong, and then told them she was not changing it, and both halves were said in the same four minutes and about four of the eleven crews went anyway; and a man of twenty-two carried a true thing about a lift to that room and was told in about four seconds that a lift is not a practice, and he was right and she was right, and about four crews sent nine people into a building in the Lower Wards where nothing at all was wrong.
+The Thursday morning of week one hundred and nine was the morning a lead repairer of forty-five told about nine crews that the standing instruction was wrong, and then told them she was not changing it, and both halves were said in the same four minutes and about four of the eleven crews did not send anybody out; and a man of twenty-two carried a true thing about a lift to that room and was told in about four seconds that a lift is not a practice, and he was right and she was right, and two crews sent nine people into a building in the Lower Wards where nothing at all was wrong.
 
 ---
 
@@ -22,7 +22,7 @@ Nobody said anything for about four seconds.
 
 ---
 
-He said, from the middle of the bay, that she had said the first half and not the second.
+A man in the second bay said, from the middle of it, that he had heard the first half and not the second, and asked her for the second half in words she could put on the back of a form.
 
 "**The second half is that the standing instruction is: if a release does not come, you hold, and you telephone, and you hold until a person answers, and if no person answers you hold until one arrives on site, and the person who arrives is the one who owns the release, and you do not finish somebody else's practice for them.**"
 
@@ -38,7 +38,11 @@ A woman of about thirty-eight at the end of the bench said the thing that the re
 
 Somebody in that bay said that phones come back in about four hours. She said phones come back in about four hours, and that these had been off since Tuesday. The fault, she said, was somebody else's, and she was not standing in a bay about it on a Thursday.
 
-Somebody at the back said, in about nine words, that about eleven people a week in this city were still going to be taught that a release waits for a man in a lanyard, and said it the way you say something you have said before, and then said that he had been one of the eleven for about four years and that he had never once known what the man in the lanyard was going to do, and that on Tuesday the man in the lanyard was in Lattice Ward and the lift came and went and he pressed the button and nothing came, and that if the lanyard had been in the building it would have been the same.
+Somebody at the back said, in about nine words, that about eleven people a week in this city were still going to be taught that a release waits for a man in a lanyard, and said it the way you say something you have said before.
+
+He said that he had been one of the eleven for about four years, and that he had never once known what the man in the lanyard was going to do, and that on Monday the man in the lanyard had not been in that building at all, and that a lift in it had gone up and down all morning and had stopped where it always stops.
+
+He said that if the lanyard had been in the building it would have been the same.
 
 Nobody improved on it. Sera looked at the man for about four seconds and then looked at the bench.
 
@@ -90,15 +94,15 @@ The second was Sera, at about half past five, and she took the four lines and re
 
 "**I do not know. If I knew it I would not be standing here.**"
 
-He put the four lines back in his book and she went to the door and he stood there for about four seconds and then she said, without turning round, that about four of her people had gone out this morning against her, and that two of them were in the Lower Wards, and that if he wanted to be useful he could go and be useful to them and not to her.
+He put the four lines back in his book and she went to the door and he stood there for about four seconds and then she said, without turning round, that about four of her people had not gone out that morning, and that two of the other crews were in the Lower Wards, and that if he wanted to be useful he could go and be useful to them and not to her.
 
 He said they did not need him. She said then do not go.
 
 ---
 
-The two crews that went came back at about half past four.
+The two crews that went out to that building came back at about half past four.
 
-About nine people in one building in the Lower Wards had finished their shifts early and had been on the pavement since about half past eleven with nothing to do, and the building has about four tenants and two of them are a workshop and one is a kitchen and one is a stairwell with a bench in it, and the bench was full at about two in the afternoon.
+About nine people in one building in the Lower Wards had finished their shifts early and had been on the pavement since about half past eleven with nothing to do, and the building has about four tenants, and one of them is a workshop and one is a kitchen and one is a stairwell with a bench in it, and the bench was full at about two in the afternoon.
 
 Nothing in that building was broken. The lift worked. The plant ran. The meters were all where meters are. Two of the nine had a headache and one of them had not slept and one of them was crying outside a shop and one of them was about sixty-two and had walked to the wrong district and was still there.
 
