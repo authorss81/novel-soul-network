@@ -38,17 +38,17 @@ Marek Senn had written six letters on a sheet of A4 on the Monday night in the r
 
 The argument took about half an hour and it happened in three positions and the man of twenty-two was not the strongest of them, which is the whole of that morning and is not a thing he enjoyed.
 
-**His was the simplest.** The room has a shutter that goes up at seven and down at ten, and a door with a bell-push on it that is not connected to anything, and somebody is going to have to be able to open that door on a Sunday when nobody is in the building. **A room with a key and a bell-push in it is the same object as a card in a rail. It is the same argument at a bigger scale and it took me a term and a half to see the small one and I can see this one from the doorway.**
+His was the simplest. The room has a shutter that goes up at seven and down at ten, and a door with a bell-push on it that is not connected to anything, and somebody is going to have to be able to open that door on a Sunday when nobody is in the building. A room with a key and a bell-push in it is the same object as a card in a rail. It is the same argument at a bigger scale and it took me a term and a half to see the small one and I can see this one from the doorway.
 
-**Talia Venn did not agree.** She stood with her back to the wall that is four feet from the window and she said the thing that has been the argument of this whole case in nine words and then said it again in forty.
+Talia Venn did not agree. She stood with her back to the wall that is four feet from the window and she said the thing that has been the argument of this whole case in nine words and then said it again in forty.
 
 "**A room anybody can walk into is a description, and a description is the only way anybody finds out it exists, and you are describing it to yourself and to about four people and to a woman with a ring file who has said the same sentence to four sets of people and is not going to be thanked for it.**" She did not raise her voice. "**And a first-year of nineteen has been trying to get ordinary people into a room with a kettle in it for two years, and the whole difficulty of that is that the people who need it most are the people who have never heard of it, and a room that cannot be found is a room for the people who already know.**"
 
-**Dessa Kwan did not agree either, and her reason was about a kitchen.**
+Dessa Kwan did not agree either, and her reason was about a kitchen.
 
 "Twice. **Twice in nine years a kitchen of mine has been found by a man with a clipboard, and both times there was a name on the door and both times the name was the name of the man who owned it, not mine, and it did not make any difference to the man with the clipboard and it made a great deal of difference to me, and I am not putting anything with a person's name on it on a wall because I have been on the other end of that twice.**"
 
-**Asha Reed agreed with him and she agreed in one sentence and then said the sentence she had said on a floor a week ago, and she said it because it was hers and it was true, and the first half of it is a board on a wall in the Lower Wards and the second half of it is about four months off and he does not know it is coming.**
+Asha Reed agreed with him and she agreed in one sentence and then said the sentence she had said on a floor a week ago, and she said it because it was hers and it was true, and the first half of it is a board on a wall in the Lower Wards and the second half of it is about four months off and he does not know it is coming.
 
 "**Nobody in a room has to say anything to be described by the person who has the room, and you have just described that room, and you are the person who has it.**"
 
@@ -74,11 +74,11 @@ He wrote them in about four minutes and he got the *o* in *do* about a millimetr
 
 Nobody thanked him. He was paid four pounds, which is what he quoted, and he took it, and he went, and the board went on the wall inside by the door at about the height of a person's shoulder, and it is not screwed to anything.
 
-**And it is still there, and it has been written over once, by a person who was not the man of twenty-two, and the top line is not the top line any more, and that is about four months off and nobody in that room is told.**
+And it is still there, and it has been written over once, by a person who was not the man of twenty-two, and the top line is not the top line any more, and that is about four months off and nobody in that room is told.
 
 ---
 
-**The key is the other object of that Wednesday and it is a key like every other key in this case.**
+The key is the other object of that Wednesday and it is a key like every other key in this case.
 
 A woman of thirty-nine brought it at about eleven in the morning of the Wednesday and put it on the counter and said it was one key and there was one of them and it was not a set.
 
@@ -92,7 +92,7 @@ A woman of thirty-nine brought it at about eleven in the morning of the Wednesda
 
 Marek Senn put the key in his pocket and it was the first object he has carried in this case that somebody else could ask him about at a door.
 
-**A key is not a post. That is a thing a woman of thirty-one with a diary said in a corridor in Crown Terrace about nine weeks ago, in one go and without stopping, and he had written it down at the time, and the sentence was that a person with a key is not a post until in about four years a person with a key is a post, and that there is no post in this city whose job it is to decide who goes in a room, and that the difference between those two is whether the people who gave you the key can take it back, and there is one key and it is his and the people who gave it to him are a letting agent with a ring file who will not necessarily be there in a year.**
+A key is not a post. That is a thing a woman of thirty-one with a diary said in a corridor in Crown Terrace about nine weeks ago, in one go and without stopping, and he had written it down at the time, and the sentence was that a person with a key is not a post until in about four years a person with a key is a post, and that there is no post in this city whose job it is to decide who goes in a room, and that the difference between those two is whether the people who gave you the key can take it back, and there is one key and it is his and the people who gave it to him are a letting agent with a ring file who will not necessarily be there in a year.
 
 ---
 

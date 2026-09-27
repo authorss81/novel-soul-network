@@ -8,11 +8,11 @@ That is the only document the Practice Commons has and it is not enforceable aga
 
 Two things had happened in that room in the seventeen days it had been open and neither of them was planned.
 
-**The first was a woman of about thirty who had been in on the Friday, and who came back on the Tuesday, and again on the Wednesday, and again on the Thursday, and across those three she had been in the room for about six hours and she had not asked for anything on any of the three days and had not been asked for anything on any of the three days.**
+The first was a woman of about thirty who had been in on the Friday, and who came back on the Tuesday, and again on the Wednesday, and again on the Thursday, and across those three she had been in the room for about six hours and she had not asked for anything on any of the three days and had not been asked for anything on any of the three days.
 
-**The second was a market.** Eleven people stopped at a trestle in Saltmarket on the Wednesday and about four of the eleven were spoken to and about seven ate a piece of something and went on their way, and a leaflet went out with a first-year of nineteen's name at the bottom of it in her own hand, and by Thursday morning a woman had telephoned the number on the plate outside the unit and had been put through to a letting clerk of thirty-nine who has said the same sentence about a vacant frontage to four sets of people and to a fifth set who did not know that was what she was doing.
+The second was a market. Eleven people stopped at a trestle in Saltmarket on the Wednesday and about four of the eleven were spoken to and about seven ate a piece of something and went on their way, and a leaflet went out with a first-year of nineteen's name at the bottom of it in her own hand, and by Thursday morning a woman had telephoned the number on the plate outside the unit and had been put through to a letting clerk of thirty-nine who has said the same sentence about a vacant frontage to four sets of people and to a fifth set who did not know that was what she was doing.
 
-Nobody had sent anybody anywhere. **The room had acquired a person in it and a market had acquired a sentence, and both of those things had happened the way a leak happens.**
+Nobody had sent anybody anywhere. The room had acquired a person in it and a market had acquired a sentence, and both of those things had happened the way a leak happens.
 
 ---
 
@@ -26,7 +26,7 @@ Asha Reed said the wall was needed and gave the reason in one go before anybody 
 
 ---
 
-**And then they wrote them, one at a time, out loud, and a line was not a line until the person who had lived it said it.**
+And then they wrote them, one at a time, out loud, and a line was not a line until the person who had lived it said it.
 
 The first one was the cook's and it was the first thing on the wall and it is the sentence the whole of that room is standing on, and she said it with her hands in a bowl of water and did not stop what she was doing to say it.
 
@@ -34,11 +34,11 @@ The first one was the cook's and it was the first thing on the wall and it is th
 
 Somebody said that was the obvious one and the cook said the obvious one is the one everybody agrees to in a room and this is the one that is true.
 
-Nine lines went on the piece of hardboard in about an hour and a half and about eleven of them were argued about and the nine are what survived. **Two are in the hand of a woman of twenty-seven: that it will not keep anything it cannot take back, and that it will not be warm only when one of us is in it.** Two are in the hand of the first-year of nineteen, who is Asha Reed and is the woman who said the wall was needed: that it will not say that anybody has got better at anything, and that it will not put a promise on a wall. Two are in the hand of a woman of thirty-one with a diary and a key: that it will not be the only place a person has to come, and that it will not be open because one person in it decided to open it. One is in the hand of a man of fifty-eight who inspects buses: that it will not keep a copy of a thing nobody asked to keep. One is in the hand of a man of twenty-nine who works on lifts: that it will not ask anybody to come back. And one is in the hand of a printer of fifty-eight with a shop four feet wide, who asked out loud who was going to print it, and who wrote **it will not be printed** and then said the reason for that line out loud to about eight people, and it was a hundred and forty-one pounds in an envelope under her till that has no name on it and cannot be sent back and has been there since the spring.
+Nine lines went on the piece of hardboard in about an hour and a half and about eleven of them were argued about and the nine are what survived. Two are in the hand of a woman of twenty-seven: that it will not keep anything it cannot take back, and that it will not be warm only when one of us is in it. Two are in the hand of the first-year of nineteen, who is Asha Reed and is the woman who said the wall was needed: that it will not say that anybody has got better at anything, and that it will not put a promise on a wall. Two are in the hand of a woman of thirty-one with a diary and a key: that it will not be the only place a person has to come, and that it will not be open because one person in it decided to open it. One is in the hand of a man of fifty-eight who inspects buses: that it will not keep a copy of a thing nobody asked to keep. One is in the hand of a man of twenty-nine who works on lifts: that it will not ask anybody to come back. And one is in the hand of a printer of fifty-eight with a shop four feet wide, who asked out loud who was going to print it, and who wrote it will not be printed and then said the reason for that line out loud to about eight people, and it was a hundred and forty-one pounds in an envelope under her till that has no name on it and cannot be sent back and has been there since the spring.
 
 ---
 
-**And the person who was not asked is a woman of about thirty who was in the room for about six hours across three days.**
+And the person who was not asked is a woman of about thirty who was in the room for about six hours across three days.
 
 Asha Reed said the reason out loud in the room, which she did on purpose, and it is in the entry because she said it in front of people.
 
@@ -54,7 +54,7 @@ Nobody asked her twice and nobody argued and the pen went past her.
 
 And then Marek Senn was asked to sign it, and he had written none of the nine, and he signed it with a pen off the counter, and he is the seventh name on a piece of hardboard and he is the only one anybody can find.
 
-**He said the reason out loud, once, and it was not a reason anybody improved, and there were about eight people in that room and the woman of about thirty was one of them and had not been asked for anything.**
+He said the reason out loud, once, and it was not a reason anybody improved, and there were about eight people in that room and the woman of about thirty was one of them and had not been asked for anything.
 
 "**A card went into a rail in Lattice Ward on the Thursday of week sixty-seven with my name on it in my own hand and a week at the bottom left and nothing on the back of it, and that is the last thing I had after a term and a half of not being findable, and an officer of a fund of forty-four told a room that the reason I gave for it did not help, and he was right.**" He put the pen down. "**So I am the only one of these seven that anybody in this city has learned how to find in about three weeks. The other six are at a counter, a shop four feet wide, a depot, a first floor with a key in it and a kitchen, and one of the six is on nine Fridays a week across four employers and is not in the same place on two Fridays running. You would have to already know them. If my name is not on this wall then somebody has to be in this room every day of the week, and I have not met the person who does that, and neither has the woman with the ring file, and she has said so to about five sets of people in ten days.**"
 
@@ -64,7 +64,7 @@ Somebody said that was a reason and he said: "**It is a reason and it is the onl
 
 Nobody thanked him for the three weeks and nobody asked him what a name on a wall is for, and about eleven people a week in this city are still going to be taught that a release waits for a man in a lanyard, and about four of the eleven are not even on a rota, and the number is on the back of a woman's own card and is not on a form and is not a rate.
 
-**A rack is not a rota, and a name on a wall by a door is not a rota either, and nobody in that room said otherwise.**
+A rack is not a rota, and a name on a wall by a door is not a rota either, and nobody in that room said otherwise.
 
 ---
 
@@ -74,13 +74,13 @@ And then the last thing said in that room in week seventy was said by a first-ye
 
 ---
 
-He got back to the shop in Lattice Ward at ten on the Thursday night. The lamp was on over the bench, the docket had four job numbers on it in a shorthand nobody else in this city can read, and the drawer underneath still held five things, four of which are sentences other people wrote. **On the chair at the back was a coat, and in the inside pocket of it was a corner of card about two inches by three, and the original had lain in the fourth pocket of the tool roll for a term and a half with nothing written on its fifth line.**
+He got back to the shop in Lattice Ward at ten on the Thursday night. The lamp was on over the bench, the docket had four job numbers on it in a shorthand nobody else in this city can read, and the drawer underneath still held five things, four of which are sentences other people wrote. On the chair at the back was a coat, and in the inside pocket of it was a corner of card about two inches by three, and the original had lain in the fourth pocket of the tool roll for a term and a half with nothing written on its fifth line.
 
 He wrote one thing down. It is a piece of hardboard about the size of a tea tray with nine lines on it in six hands and seven names, and it is not screwed to anything.
 
 *213. Thursday of week 70, ten at night in a repair shop in Lattice Ward, and this entry is nine lines on a board, in six hands, and a seventh name.*
 
-*The board, as an object, and the two objects on one wall kept apart.* **Hardboard, about the size of a tea tray, inside by the door, under a board four letters high in a sign-writer's hand that reads *Bring what you do* and can be taken off with a thumb. The list is not screwed to anything and neither is the board above it, and they are two objects with two owners and they are not to be put in a sentence with each other. Nine lines, six hands, no date, no number, no reference, no signature block, and nothing at the top. It is not a form, a minute, notice, report, committee paper, leaflet, registration or constitution. It is not enforceable against anybody who did not write it, it can be rubbed off, and it is not evidence of anything in any proceeding, and all four of those were said out loud in the room and the last of them by the printer.**
+*The board, as an object, and the two objects on one wall kept apart.* **Hardboard, about the size of a tea tray, inside by the door, under a board with letters four inches high in a sign-writer's hand that reads *Bring what you do* and can be taken off with a thumb. The list is not screwed to anything and neither is the board above it, and they are two objects with two owners and they are not to be put in a sentence with each other. Nine lines, six hands, no date, no number, no reference, no signature block, and nothing at the top. It is not a form, a minute, notice, report, committee paper, leaflet, registration or constitution. It is not enforceable against anybody who did not write it, it can be rubbed off, and it is not evidence of anything in any proceeding, and all four of those were said out loud in the room and the last of them by the printer.**
 
 *What the room would not do, as a count of hands and not as a list of sentences.* **Six hands, nine lines, eleven proposed. Two from a cook of twenty-seven, and the first of the nine is hers and is the sentence this volume is standing on, and she said it with her hands in a bowl of water. Two from a first-year of nineteen, and the second of hers is the reason a first-year is in the room at all, which is that a promise is one of the two things people come into rooms for. Two from a woman of thirty-one with a diary and a key, and both of hers are about the room not becoming the only one, which is a finding made in a corridor in Crown Terrace in an earlier volume. One from a man of fifty-eight who inspects buses. One from a man of twenty-nine who works on lifts, and his is four words long. One from a printer of fifty-eight with a shop four feet wide, and the cost she named out loud in front of about eight people for that one line being a hundred and forty-one pounds in an envelope under a till with no name on it that cannot be sent back and has been there since the spring. The nine lines are on the board and this entry does not copy them out a second time, because the board is the document and a record that repeats its own object is not a record.**
 

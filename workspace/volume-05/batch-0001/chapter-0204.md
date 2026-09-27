@@ -34,7 +34,7 @@ It took about forty minutes.
 
 It is a lighting circuit, and the fault is a ballast in a cupboard that is the size of a bread bin, and the man of thirty-four showed him where it was eleven weeks ago by writing it on the back of his own hand with a biro and then washing it off, which is the only method anybody on that floor has found for passing information in a building where about nine people have keys to a cupboard.
 
-**Marek Senn did the whole thing and it worked the first time and he signed the docket, and while he had the cupboard open he counted the tubes, because he counts, and there were nine working and one not, and the one that was not had a new fitting in it about four months ago, and the new fitting is the fault, and it is on a different contractor's order, and the order is correct.**
+Marek Senn did the whole thing and it worked the first time and he signed the docket, and while he had the cupboard open he counted the tubes, because he counts, and there were nine working and one not, and the one that was not had a new fitting in it about four months ago, and the new fitting is the fault, and it is on a different contractor's order, and the order is correct.
 
 He wrote that on the docket. He did not write anybody's name on the docket. He wrote *see order, third party* in the box where a job gets described, and *third party* is a thing that about nine thousand job sheets in this city contain and it means a company whose name is on an invoice somewhere and which is not the company that is coming.
 
@@ -46,7 +46,7 @@ Then he shut the cupboard and the woman of twenty-six said, "That is that then,"
 
 ---
 
-**He did not ask her what the thing was, and that is the correct decision and it is also the reason there is a card in a rail in Lattice Ward with his name on it, and he made it in about a second and a half without thinking about it, which is the whole of what a person gets from a term and a half of this.**
+He did not ask her what the thing was, and that is the correct decision and it is also the reason there is a card in a rail in Lattice Ward with his name on it, and he made it in about a second and a half without thinking about it, which is the whole of what a person gets from a term and a half of this.
 
 He said instead: "About eleven people a week get taught that a release waits for a man. That's across about four of your employers. It's not on any form. I know the number because a woman of twenty-nine has it on the back of her own card and she has never given it to anybody."
 
@@ -62,9 +62,9 @@ Nobody had asked her. She looked at the shut cupboard for a while.
 
 At about one the word went from nine to ten and stayed at ten for the rest of the day, and he noticed it at about one and there was nothing to be done about it then or at any other time, and he has never told anybody and is not going to.
 
-The sixth and seventh jobs were a lift call and a lift call. **The eighth job was a fault on a fire door in the same block as the third one and the door was on a closer that a different contractor had put in in the spring, and the fault was a strip of plastic about four inches long that had been fitted between the leaf and the frame, and it was not a fault, it was a packer, and it was doing what a packer does, and he took it out and put the closer back and the fault came back in about nine minutes, and he put the packer back in and signed the docket and wrote *not reproducible* in the box.**
+The sixth and seventh jobs were a lift call and a lift call. The eighth job was a fault on a fire door in the same block as the third one and the door was on a closer that a different contractor had put in in the spring, and the fault was a strip of plastic about four inches long that had been fitted between the leaf and the frame, and it was not a fault, it was a packer, and it was doing what a packer does, and he took it out and put the closer back and the fault came back in about nine minutes, and he put the packer back in and signed the docket and wrote *not reproducible* in the box.
 
-**That is a correct action, it changed nothing, and it is the fourth one in four days, and nobody in this case has any way of counting them except a man with a docket.**
+That is a correct action, it changed nothing, and it is the fourth one in four days, and nobody in this case has any way of counting them except a man with a docket.
 
 The ninth, tenth and eleventh jobs were a light in a stair, a light in a stair, and a light in a stair.
 

@@ -34,7 +34,7 @@ Dessa Kwan put the knife down, which she does not do in the middle of anything.
 
 ---
 
-**And that was the first time anybody said the rule out loud in that room, and it was not said by the man of twenty-two and it was not a rule anybody had decided on.**
+And that was the first time anybody said the rule out loud in that room, and it was not said by the man of twenty-two and it was not a rule anybody had decided on.
 
 Asha Reed put her pen on the page.
 
@@ -50,7 +50,7 @@ Asha Reed put her pen on the page.
 
 ---
 
-**That is the cost, and he gave it out loud, and he gave it before anybody asked him for anything, and it is the reason he had brought a timetable.**
+That is the cost, and he gave it out loud, and he gave it before anybody asked him for anything, and it is the reason he had brought a timetable.
 
 "I have watched it go wrong once," said the man of fifty-eight. "**That is not the year I started and I am not going to give you the year, because the year is the only part of it that a person can check and it is the part that is wrong. A lad of nineteen on my round had written his four steps out in a book because he was proud of them, and a man came off another route and read it, and within about two years that depot had a poster with three steps on it and a photograph of a man in a lanyard at the bottom, and the fourth step had come off it entirely, and they were not doing it wrong. They were doing it three-quarters of the thing, faster, and it worked, and about eleven people a week went on waiting for a man, and the fourth step did not go missing in that depot. It went missing in about four hundred depots and there was no man standing in any of them who knew which one they had lost it in.**"
 
@@ -60,7 +60,7 @@ He put his cap back on.
 
 ---
 
-**And then a line cook of twenty-seven said nine words, and she said them once, and she did not improve them, and she did not explain them afterwards, and the man of fifty-eight did not argue.**
+And then a line cook of twenty-seven said nine words, and she said them once, and she did not improve them, and she did not explain them afterwards, and the man of fifty-eight did not argue.
 
 "**You have taught a door to need a person.**"
 
@@ -80,13 +80,13 @@ The man of fifty-eight said: "Then I will take it back to the depot and it will 
 
 ---
 
-**And then the schedule came round, and it is the sixth correct action in ten chapters that changed nothing and it is the one with the most people in the story.**
+And then the schedule came round, and it is the sixth correct action in ten chapters that changed nothing and it is the one with the most people in the story.
 
 A woman of about twenty-six came in at about half past twelve with a folder, and she works for the company whose number is on the plate outside, and the folder was a schedule of items for that unit and it is done twice a year and it is a true document.
 
 The bell-push was on it again.
 
-**It was on it as a defect, with a new number, because the item on the schedule is the item on the schedule.** The item reads *external push, serviceable*. It has read that since a man fitted a sounder in about forty minutes on the Friday three days ago, and the sounder is on the wall and it works, and nobody has changed the wording of the item, because a schedule is not a document anybody improves and the man who fills it in the boxes has eleven other units and about four hundred other items.
+It was on it as a defect, with a new number, because the item on the schedule is the item on the schedule. The item reads *external push, serviceable*. It has read that since a man fitted a sounder in about forty minutes on the Friday three days ago, and the sounder is on the wall and it works, and nobody has changed the wording of the item, because a schedule is not a document anybody improves and the man who fills it in the boxes has eleven other units and about four hundred other items.
 
 The woman of about twenty-six said, out loud, in the room, to nobody in particular: "**It is the same number twice. I have written the same number twice on two different days and both of them were true on the day.**"
 
@@ -120,8 +120,8 @@ The room shut at ten and Marek Senn ate in a canteen off a service road where th
 
 *The cost, in the man's own words, and it is the cost of a page and not of a refusal.* **He has watched it go wrong once and he would not give the year, and the reason he gave is that the year is the only part of it a person can check and it is the part that is wrong. A lad of nineteen on his round wrote his four steps into a book; a man off another route read it; within about two years that depot had a poster with three steps on it and a photograph of a man in a lanyard at the bottom; the fourth step came off it entirely; they were not doing it wrong, they were doing three quarters of it, faster, and it worked. **The fourth step did not go missing in that depot. It went missing in about four hundred depots and there was no man in any of them who knew which one they had lost it in.** He keeps it on a timetable because a timetable goes out of date on a Sunday and nobody has ever been proud of a timetable.**
 
-*What is and is not on a page, as a count.* **Five people have brought something to that room in ten days. Two things are written, both in the words of the person who does the thing: eleven items in a cook's hand, and a first-year's four words about what will not be called a technique in that room. Three are not written, for three different reasons, and this entry counts them because nobody else can: a millimetre off the top edge of a door, done by a man of twenty-nine nobody asked and nobody paid; twenty minutes and a cup of tea, which would have put a category in a binder; and four steps of which the fourth is a person, which would have put a leaflet in a room.**
+*What is and is not on a page, as a count.* **Five people have brought something to that room in eleven days. Two things are written, both in the words of the person who does the thing: eleven items in a cook's hand, and a first-year's four words about what will not be called a technique in that room. Three are not written, for three different reasons, and this entry counts them because nobody else can: a millimetre off the top edge of a door, done by a man of twenty-nine nobody asked and nobody paid; twenty minutes and a cup of tea, which would have put a category in a binder; and four steps of which the fourth is a person, which would have put a leaflet in a room.**
 
-*The schedule, as a mechanism and not as a story.* **A folder belonging to a woman of about twenty-six who works for the company whose telephone number is on the plate outside. Six items for that unit, twice a year, boxes filled in by a person with about four hundred other items. The bell-push is on it again as *external push, serviceable*, on a new number, and has read that since a sounder was fitted on the Friday four days before and works, and nobody changed the wording, because a schedule is not a document anybody improves. She said out loud, in the room, that it is the same number twice and that both of them were true on the day.** **This is the sixth correct action in ten chapters that changed nothing, and it is the only one of the six that anybody said out loud, and she said it to nobody in particular.**
+*The schedule, as a mechanism and not as a story.* **A folder belonging to a woman of about twenty-six who works for the company whose telephone number is on the plate outside. Six items for that unit, twice a year, boxes filled in by a person with about four hundred other items. The bell-push is on it again as *external push, serviceable*, on a new number, and has read that since a sounder was fitted on the Friday three days before and works, and nobody changed the wording, because a schedule is not a document anybody improves. She said out loud, in the room, that it is the same number twice and that both of them were true on the day.** **This is the sixth correct action in ten chapters that changed nothing, and it is the only one of the six that anybody said out loud, and she said it to nobody in particular.**
 
-*What the entry deliberately does not contain.* **No performance, no demonstration, no teaching, no assessment and no assistance, by anybody, in that room or anywhere else on that day. The fourth step was refused and the three were not recorded and nothing was written about the refusal. No standing problem and no number on one; the four names on a lease are four days old and are not referred to. No name on the front of anything, no leaflet in a market — **that is Chapter 209 and the market is on a Wednesday and this entry does not put him there.** No share, no relay and no page implying one is available. The master is in an inside pocket on a chair and the card in a rail is in a building with a plate on the outside of it and neither object is in a sentence with the timetable. Entry 211.**
+*What the entry deliberately does not contain.* **No performance, no demonstration, no teaching, no assessment and no assistance, by anybody, in that room or anywhere else on that day. The fourth step was refused and the three were not recorded and nothing was written about the refusal. No standing problem and no number on one; the four names on a lease are seven days old and are not referred to. No name on the front of anything, no leaflet in a market — that is Chapter 209 and the market is on a Wednesday and this entry does not put him there. No share, no relay and no page implying one is available. The master is in an inside pocket on a chair and the card in a rail is in a building with a plate on the outside of it and neither object is in a sentence with the timetable. Entry 211.**

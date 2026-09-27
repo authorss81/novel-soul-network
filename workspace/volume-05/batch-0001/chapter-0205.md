@@ -24,7 +24,7 @@ She read the seven sentences. They were ordinary and every one of them was true:
 
 ---
 
-**They asked her about the rent four times in about nine minutes and she gave the same true sentence four times, and the fifth time she gave a different one.**
+They asked her about the rent four times in about nine minutes and she gave the same true sentence four times, and the fifth time she gave a different one.
 
 "The first year is at no rent."
 
@@ -50,7 +50,7 @@ She put her hand flat on the lease.
 
 Then they signed it, and it took about four minutes, and it is the first document in this case with four names on it.
 
-**Dessa Kwan signed first and gave the reason before she signed, unprompted, and the reason is about a business.**
+Dessa Kwan signed first and gave the reason before she signed, unprompted, and the reason is about a business.
 
 "My work is registered to a kitchen in Saltmarket and if I put this address on a lease then in about four years the two are the same address to a licensing man with a clipboard, and I will not be able to cook somewhere without the room being the place I cook. I have had that before. I am signing anyway."
 
@@ -74,7 +74,7 @@ Then everybody signed and the woman of thirty-nine dated it and initialled the c
 
 ---
 
-**That is the whole of what happened on the Monday afternoon of week sixty-nine and he and she left at about half past three and walked to the service road and he said, out loud, on a pavement, four words.**
+That is the whole of what happened on the Monday afternoon of week sixty-nine and he and she left at about half past three and walked to the service road and he said, out loud, on a pavement, four words.
 
 "That is a mistake."
 
@@ -96,6 +96,6 @@ At ten at night in a repair shop in Lattice Ward the docket had three job number
 
 *The reason for the nil rent, in the only form it was given in.* **A sentence about a vacant frontage, given four times and not improved. On the fifth asking, a different sentence, which is the whole of what she has: the unit has been a void for four years, a void has been on a weekly list since the spring before last, a void on a list is visible to somebody above her, she has never been told to do anything about it and has never asked, and the reason she has never asked is that the last time she asked, a manager explained to her for about nine minutes that a question about a void is a problem for whoever wrote it and not for whoever asked it. The rent is free because the unit is empty, and the unit is empty, and the person who sets that in motion is a woman in an office she has never been in, looking at a column on a Friday.** **The four years of this unit and the eleven years of the frontage on one side of the row are two different numbers and this entry does not merge them.**
 
-*Four names, and four costs, each in the signatory's own words before signing.* **A cook of twenty-seven, whose registered work address and this address becoming one address to a licensing man with a clipboard is the cost, and who named the risk and signed. A nurse of twenty-four, for whom a home address on a lease attached to a part-time certificate is four years of making sure nothing anybody can look up has her name at the top of it, and who gave as her own reason that a room with two names on it is a man's room. A first-year of nineteen, for whom it is the first thing she has signed with an address on it, out of two years of being careful, and who said she would rather stop being careful in a room with a bell-push in it than in a common room with a kettle in it. And a man of twenty-two, who named the card in the rail, eight days old, and the second document in four days with his name and an address on it, and who said the reason the card's reason does not help, and who said the word *mistake* about four times on a pavement afterwards to a woman who told him the arithmetic was one name and not four and then told him it was her signature that had proved it.** Nobody thanked the woman with the ring file and she left before anybody could.
+*Four names, and four costs, each in the signatory's own words before signing.* **A cook of twenty-seven, whose registered work address and this address becoming one address to a licensing man with a clipboard is the cost, and who named the risk and signed. A nurse of twenty-four, for whom a home address on a lease attached to a part-time certificate is four years of making sure nothing anybody can look up has her name at the top of it, and who gave as her own reason that a room with two names on it is a man's room. A first-year of nineteen, for whom it is the first thing she has signed with an address on it, out of two years of being careful, and who said she would rather stop being careful in a room with a bell-push in it than in a common room with a kettle in it. And a man of twenty-two, who named the card in the rail, eleven days old, and the second document in eleven days with his name and an address on it, and who said the reason the card's reason does not help, and who said the word *mistake* about four times on a pavement afterwards to a woman who told him the arithmetic was one name and not four and then told him it was her signature that had proved it.** Nobody thanked the woman with the ring file and she left before anybody could.
 
 *What the entry deliberately does not contain.* **No register, no minute, no notice, no form, no committee, no lease register and no entry anywhere of who holds this tenancy — the document exists twice, in the letting agent's file and in a folder on a counter in the Lower Wards, and the clerk said in four years somebody would have to look at it again and that she might not be the one. No key and no keyholder: that is Chapter 206. No board and no sign-writer. No name over the door, which is the thing four people refused to do and did not know they were refusing. No share, no relay, no practice, and nobody taught, demonstrated, assessed or assisted anything by anybody. No public argument and no leaflet, and the leaflet from the Thursday is still in the folder face up where he left it. The box in pencil in Bower Street is not referred to and was not touched and still has one name in it that cannot come out. Entry 208.**

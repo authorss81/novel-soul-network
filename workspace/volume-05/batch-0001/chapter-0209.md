@@ -10,7 +10,7 @@ The company has a stall-holder's licence for two pitches in that market and uses
 
 A first-year of nineteen wrote to that company in the second week of week sixty-eight. She wrote a letter of one paragraph and she did not sign it with a room or a name, and the company said yes in about eleven days, and the answer came back on a piece of paper with a job title on it and no name, and the piece of paper is in a folder in a room off a service road and it is a different object from a lease and from a card in a rail, and no two of the three are in a sentence together on any page.
 
-**The name at the bottom of the leaflet is Asha Reed's, in her own hand, because she put it there on purpose, on the Tuesday, having been told twice by two other people that a description of a room is a description of the people in it.**
+The name at the bottom of the leaflet is Asha Reed's, in her own hand, because she put it there on purpose, on the Tuesday, having been told twice by two other people that a description of a room is a description of the people in it.
 
 She did not consult anybody. She wrote to the woman of thirty-four with the clipboard on the Monday morning and said one sentence — *you are right about the sentence and I am putting my name under it anyway, and if that is stupid then it is on me and not on the room* — and the woman of thirty-four read it and did not reply and has not mentioned it since.
 
@@ -18,11 +18,11 @@ Nobody can take it off. There is no form on which to take a name off a leaflet a
 
 ---
 
-**He was not a speaker and nobody introduced him as one.**
+He was not a speaker and nobody introduced him as one.
 
 He was at the depot until about half past two on grade two, and he came to the market at about ten to three with a bag of cable ties in it because the bag was in the van and the van was parked in a market car park, and Asha Reed was on the end of the trestle with a flask, standing the way a first-year of nineteen stands, which is with both feet, and Dessa Kwan was behind the trestle with a plate of something cut into nine pieces because there is a health rule about a plate and she has never broken one in her life.
 
-**A woman of thirty-four with a district jacket and a clipboard had put the trestle there.** She is a district nurse and her name is Sinead Corrigan and she is not a post and she is not on any list of anybody and she told two people at the end of that table that she had put it there and had not told anybody why, and the reason she gave was one sentence: *the people who need a room like that are the people who are already standing in a market with a bag, and none of them is going to be told about a room off a service road.*
+A woman of thirty-four with a district jacket and a clipboard had put the trestle there. She is a district nurse and her name is Sinead Corrigan and she is not a post and she is not on any list of anybody and she told two people at the end of that table that she had put it there and had not told anybody why, and the reason she gave was one sentence: *the people who need a room like that are the people who are already standing in a market with a bag, and none of them is going to be told about a room off a service road.*
 
 She has a card in a plastic wallet with eleven names on it, and she has never once given that card to anybody, and she was on the end of a table for about an hour and turned about four people away from a leaflet by saying one thing to each of them, which was that she was busy until four.
 
@@ -38,7 +38,7 @@ A woman of about fifty-two came at about half past three with a carrier bag of f
 
 Asha Reed did not say anything to that and did not look at anybody, and the microphone on its stand was four feet away with a lead in it, and the amplifier was on, and the lead was in.
 
-**What happened next took about eleven seconds and the woman of thirty-four with the clipboard was standing at the end of the table and heard every word of it and has never written any of it down.**
+What happened next took about eleven seconds and the woman of thirty-four with the clipboard was standing at the end of the table and heard every word of it and has never written any of it down.
 
 "Who is that on the bottom of the paper."
 
@@ -60,7 +60,7 @@ He was nine feet away with a bag of cable ties in it and he came over because so
 
 He could have said a great deal. He had a term and a half of it in his head and a card in a rail with his name on it and about nine hundred doors behind it, and there are three lines in a specification that eleven thousand premises pay for, and a rule in a public room three shelves down from a folder on a high shelf that nobody has ever withdrawn, and a woman's name in a box in pencil four miles away that cannot come out.
 
-**And what he said was nine words, and the nine words were true, and the nine words did not answer her, and he has never found a way to make them do both.**
+And what he said was nine words, and the nine words were true, and the nine words did not answer her, and he has never found a way to make them do both.
 
 "Nobody in that room can promise you that today."
 
@@ -91,11 +91,11 @@ Nothing followed it. He had heard it five times before and it had never once tol
 
 It was true. It was exactly true and it was the whole of the standing problem in two lines, and it was the worst thing that had happened to him in this case, and the reason is that it was a rule and a rule is the one thing in this case that nobody in this city has ever been able to ask a question about.
 
-**And he looked at it. He looked at the rule instead of at her face, and the reason he looked at it is that the rule was true and it was the most useful sentence anybody had put in front of him in about eleven days, and the woman of fifty-two was four feet away and had stopped talking and had her hands on a paper napkin.**
+And he looked at it. He looked at the rule instead of at her face, and the reason he looked at it is that the rule was true and it was the most useful sentence anybody had put in front of him in about eleven days, and the woman of fifty-two was four feet away and had stopped talking and had her hands on a paper napkin.
 
 ---
 
-**That is the thing that cost and it is the whole of what the movement's private price is, and it is not a new thing about him and it is the first time it has happened to a person who was not on a floor at ten past four in the morning.**
+That is the thing that cost and it is the whole of what the movement's private price is, and it is not a new thing about him and it is the first time it has happened to a person who was not on a floor at ten past four in the morning.
 
 In his first year at the institute, in the autumn, he did not hear a person in a corridor and it cost the case a fact, and about three terms ago he talked over three people in three rooms in a fortnight and failed to hear one, and the one he failed to hear is the reason a thing in this city happens, and he wrote down in his own book that he is not a reliable witness to his own ears, and nobody has argued with him about it, and on the Monday of week seventy in a canteen off a service road he had been thinking about it for a term and a half.
 
@@ -121,7 +121,7 @@ Talia Venn was nine feet away and had been for about eleven minutes and she did 
 
 Nobody took anything off the trestle and the amplifier went off at about four because the socket is on a pillar and somebody else's kettle went on, and about forty people went past that table in the hour and about eleven of them stopped and four of the eleven were spoken to by the woman of thirty-four and seven of the eleven ate a piece of something and went on their way without saying anything.
 
-**A man of fifty-eight with a flat cap stopped at about ten to four, having gone past that table about nine times in four years and never stopped, and he looked at the leaflet and at the name at the bottom of it and at the man of twenty-two standing nine feet away with a bag of cable ties.**
+A man of fifty-eight with a flat cap stopped at about ten to four, having gone past that table about nine times in four years and never stopped, and he looked at the leaflet and at the name at the bottom of it and at the man of twenty-two standing nine feet away with a bag of cable ties.
 
 "**Right,**" he said, out loud, to nobody. "**That is a sentence somebody has already printed, and there is a name under it, and there is no form in this city that takes a name off a piece of paper.**"
 

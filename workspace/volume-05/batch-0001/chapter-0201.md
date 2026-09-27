@@ -20,7 +20,7 @@ The woman with the key is thirty-nine and she is a lettings clerk and she has a 
 
 ---
 
-**Nobody wrote anything down.**
+Nobody wrote anything down.
 
 That was the first thing that happened in that room and it happened at about ten past ten and it happened because Marek Senn had a pen out.
 

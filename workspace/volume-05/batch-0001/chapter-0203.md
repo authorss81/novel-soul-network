@@ -20,7 +20,7 @@ She is twenty-four. She works out of a mobile clinic and is part way through a c
 
 The four lists are these and they are given here in the order they were made and not in the order anybody would have chosen.
 
-**Dessa Kwan's list has eleven things on it and they are the eleven things she cooks.**
+Dessa Kwan's list has eleven things on it and they are the eleven things she cooks.
 
 A pot of water that comes to the boil and does not go past it. A hot plate with a mark on it that means off. Bread. A light left on. A chair somebody can sit down in. A knife that is sharp and a board that is not. Salt, and knowing which kind. A window open an inch. A towel that is dry. Somebody standing in a doorway who is not asking you anything. And, last, in a different hand because she asked somebody else to write it, a person's own name, spelled the way they spell it.
 
@@ -32,7 +32,7 @@ A pot of water that comes to the boil and does not go past it. A hot plate with 
 
 ---
 
-**Asha Reed's list has four things on it and they are the four things that will not be called a technique in that room.**
+Asha Reed's list has four things on it and they are the four things that will not be called a technique in that room.
 
 A cure. A promise. A result. An improvement.
 
@@ -44,7 +44,7 @@ A cure. A promise. A result. An improvement.
 
 ---
 
-**Talia Venn's list is about what the room has to refuse to do and she wrote it last and in a hand that went smaller towards the end of it, and it has five things on it.**
+Talia Venn's list is about what the room has to refuse to do and she wrote it last and in a hand that went smaller towards the end of it, and it has five things on it.
 
 Hold anything it cannot take back. Put a person's name on the front of anything. Answer a question about a person who is in it. Be the only place a person has to come. Keep anything overnight.
 
@@ -54,7 +54,7 @@ Hold anything it cannot take back. Put a person's name on the front of anything.
 
 ---
 
-**Marek Senn's list has one line on it and it is the shortest of the four and it is the one everybody in that room argued about for the longest.**
+Marek Senn's list has one line on it and it is the shortest of the four and it is the one everybody in that room argued about for the longest.
 
 *A person runs a practice, with a boundary, and a fourth step, and somebody watches the fourth step happen.*
 
@@ -98,7 +98,7 @@ He read it out.
 
 They did not settle it. That is what happened in the two hours and forty minutes and it is worth being exact about, because the alternative is a lie about who was in the room.
 
-**He did not drop the leaflet. He said she was right about the sentence and wrong about the conclusion, and he said that a room nobody can describe is a room that only works for people who already know about it, and she said that was true and that it was the reason for doing it carefully and not the reason for doing it badly, and he said there was no version of careful that also got out of the door, and she said there was, and that it was slower, and that he had not tried it, and that she had watched four years of people not try it.**
+He did not drop the leaflet. He said she was right about the sentence and wrong about the conclusion, and he said that a room nobody can describe is a room that only works for people who already know about it, and she said that was true and that it was the reason for doing it carefully and not the reason for doing it badly, and he said there was no version of careful that also got out of the door, and she said there was, and that it was slower, and that he had not tried it, and that she had watched four years of people not try it.
 
 Nobody took a vote. Nobody wrote down a decision. Asha Reed wrote down four lists and that was all she wrote, and when he asked her at about half past one whether the lists were the room's or hers, she said they were hers and she would let anybody take them off the wall, and that was the end of that and it was the correct answer.
 
@@ -112,7 +112,7 @@ The master was in the inside pocket of a jacket on the back of a chair and it wa
 
 *The four lists, as objects and not as positions.* **One is eleven items in a cook's hand with the eleventh in a second hand, and the eleven are a pot of water brought to the boil and not past it, a hot plate with a mark that means off, bread, a light left on, a chair somebody can sit down in, a sharp knife and an unsharp board, salt and which kind, a window open an inch, a dry towel, a person in a doorway not asking you anything, and a name spelled as its owner spells it. One is four items: a cure, a promise, a result, an improvement. One is five items: it does not hold anything it cannot take back; it does not put a name on the front of anything; it does not answer a question about a person in it; it is not the only place a person has to come; and it does not keep anything overnight. The fourth is one line, and it is about a person running a practice with a boundary and a fourth step and somebody watching the fourth step happen, and it cannot be done by the man who wrote it and he said so out loud in about nine seconds and gave the reason.**
 
-*On the writing.* **Four lists, about nine sheets, and one ring binder. The first writing in that room since it was a room, and it was done four days after a letting clerk of thirty-nine stopped a pen with a sentence about a page being able to be carried, and the argument for it was made by a woman of twenty-seven and against it by nobody, and the person who put the pen in her hand was a first-year of nineteen and she wrote her own four and the cook's eleven and the nurse's five and she did not write the fourth, because the fourth was one line and the man who wrote it had read it out loud and could remember it.** No decision was written down. No vote was taken and nobody asked for one.
+*On the writing.* **Four lists, about nine sheets, and one ring binder. The first writing in that room since it was a room, and it was done three days after a letting clerk of thirty-nine stopped a pen with a sentence about a page being able to be carried, and the argument for it was made by a woman of twenty-seven and against it by nobody, and the person who put the pen in her hand was a first-year of nineteen and she wrote her own four and the cook's eleven and the nurse's five and she did not write the fourth, because the fourth was one line and the man who wrote it had read it out loud and could remember it.** No decision was written down. No vote was taken and nobody asked for one.
 
 *On the condition.* **The whole of it, in the order it has to be said in, said out loud once in this movement by the man it is on, in about nine seconds, and it was not paraphrased anywhere and it is not paraphrased here. It is the only time in this case that the whole of it has been said out loud by the man it is on, and the first time it has been said in a room with a door and a bell-push in it. The sentence that followed it, in his words: he cannot teach it and he cannot watch somebody do it and say whether it was right, and if he stands at the front of that room and shows four people how to put a boundary in, he is doing the thing the condition exists to stop, and the reason the condition exists is a man of twenty whose forearm has two cut tendons in it and who is not a story and is a person who is alive and has a kitchen. No names beyond that one and no consent is recorded in this entry and none was asked for, and the man is not in this room.**
 
