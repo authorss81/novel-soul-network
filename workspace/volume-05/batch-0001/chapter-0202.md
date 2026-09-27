@@ -32,17 +32,17 @@ The first item was a man of forty-four who wanted to know whether a thing he had
 
 "I said I had been told about it."
 
-"Then I have told you the same thing you were told and no more, and I have done that to about four hundred people in nineteen years, and in about four years somebody is going to want to know which of the four hundred of us was the first to say a thing in a corridor, and I am not going to be able to help with that, and neither will you.**"
+"**Then I have told you the same thing you were told and no more, and I have done that to about four hundred people in nineteen years, and in about four years somebody is going to want to know which of the four hundred of us was the first to say a thing in a corridor, and I am not going to be able to help with that, and neither will you.**"
 
 ---
 
-The second item was a woman of about thirty who wanted to know whether a person who telephoned her in the spring could be found, and Bea Nunn said no, and gave the reason in about nine words, and then gave the other half of the reason because a clerk of fifty-three in a different building had taught her in the spring that a person will forgive a no and will not forgive a thing that is merely true.
+The second item was a woman of about thirty who wanted to know whether a person who telephoned her in the spring could be found, and Bea Nunn said no, and gave the reason in one sentence, and then gave the other half of the reason because a clerk of fifty-three in a different building had taught her in the spring that a person will forgive a no and will not forgive a thing that is merely true.
 
 "**A page that never went into a system has nothing in it that could answer. It is in a stack of about two hundred on a counter in another building and there is no number on it and no copy and no copy of the copy, and the person whose name is in it is the only person who could put it right, and she cannot, and neither can I, and neither can the man who wrote it.**"
 
 She put her hand on the tin and took it off.
 
-"That is nine words and I have said nine words about this for a term and a half, and every one of them has been the same nine words, and the reason they are the same nine words is that the answer has not changed. **What I have not said, because I have not been asked it, is that the reason I keep saying it in exactly the same shape is so that nobody in this room can build a better answer out of the two of us having a conversation about it.**"
+"That is the shape I say it in and I have said it in that shape for a term and a half, and every time it has come out the same length, and the reason it comes out the same length is that the answer has not changed. **What I have not said, because I have not been asked it, is that the reason I keep saying it in exactly the same shape is so that nobody in this room can build a better answer out of the two of us having a conversation about it.**"
 
 ---
 

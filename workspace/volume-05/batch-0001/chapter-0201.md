@@ -30,7 +30,7 @@ He had a docket in the left hand and a pen in the right and he had been standing
 
 "I am writing the chairs down."
 
-"**I know which chairs you are writing down.** There are nine. I counted them when I opened the place and there were nine then and there are nine now and nobody has come in and taken one, which in this street in this weather is closer to a miracle than it sounds.**" She did not move her hands off the file. "**Put it this way. If four people write down what they decided in a room with a door in it, then in about four years that page is the room. Not the room — the page. And the page is a thing that can be carried, and a thing that can be carried is a thing that can be shown to somebody who was not in the room, and then the four of you are the four people who decided it, for ever, in a flat, with no way to say you were young.**"
+"**I know which chairs you are writing down.** There are nine. I counted them when I opened the place and there were nine then and there are nine now and nobody has come in and taken one, which in this street in this weather is closer to a miracle than it sounds." She did not move her hands off the file. "**Put it this way. If four people write down what they decided in a room with a door in it, then in about four years that page is the room. Not the room — the page. And the page is a thing that can be carried, and a thing that can be carried is a thing that can be shown to somebody who was not in the room, and then the four of you are the four people who decided it, for ever, in a flat, with no way to say you were young.**"
 
 "The chairs are chairs."
 
@@ -72,7 +72,7 @@ They walked it, because a room cannot be understood by four people talking about
 
 At about eleven the woman of thirty-nine put her ring file under her arm and said the thing she had come to say, which is that she is not a landlord and there is no landlord in the room.
 
-"The freehold is an entry on a schedule of title. I can describe the entry to you. I cannot describe the person who owns the entry, because I have never met them and I have never been introduced and I did not ask, because when I asked in my second year a manager explained to me for about nine minutes why asking was the same as not renewing, and he was right about the second half of it.**"
+"**The freehold is an entry on a schedule of title. I can describe the entry to you. I cannot describe the person who owns the entry, because I have never met them and I have never been introduced and I did not ask, because when I asked in my second year a manager explained to me for about nine minutes why asking was the same as not renewing, and he was right about the second half of it.**"
 
 "Is there anything wrong with the place."
 
@@ -86,15 +86,13 @@ She looked at the door when she said it, and the bell-push is about four inches 
 
 ---
 
-At ten at night in a repair shop in Lattice Ward the shutter was up and the lamp was on over the bench and there was nothing on the docket from that day, because he had spent a day in a room with a plug socket and a door that sticks.
+It was ten at night on the Monday, and the bench in the shop in Lattice Ward had a lamp over it and the shutter down, and the docket was clean, because a day spent standing in a room with a plug socket and a door that sticks does not produce a job number.
 
 The word had been at nine all afternoon and at ten by the time he sat down.
 
 He wrote down one thing, because he writes things down.
 
-*204. Monday of week 68, ten at night in a repair shop in Lattice Ward, and this entry is a room, a woman with a ring file, and a pen that went back in a pocket.*
-
-*204, Monday of week 68, ten at night in a repair shop in Lattice Ward, and this entry is four rooms off a service road, nine chairs, a counter, a ring binder on a shelf, two plug sockets of which one works, a bell-push that is not connected to anything, a window onto a wall about four feet away, a floor that is not level, and a door that wants about a millimetre off the top edge and nothing else.*
+*204. Monday of week 68, ten at night in a repair shop in Lattice Ward, and this entry is four rooms off a service road, nine chairs, a counter, a ring binder on a shelf, two plug sockets of which one works, a bell-push that is not connected to anything, a window onto a wall about four feet away, a floor that is not level, and a door that wants about a millimetre off the top edge and nothing else.*
 
 *The room, as an inventory and not as an offer.* **Four rooms and a back one. Nine chairs, counted twice on the same morning by two people who did not know each other were counting. A counter. A ring binder with nothing in it. A kettle belonging to the woman of twenty-seven. A plate on the outside carrying a company's telephone number and no name. A freehold that is an entry on a schedule of title. A first year at no rent, no second-year price on the page, a vacant frontage of eleven years in one direction and a plan in a council file that the clerk read and would not describe, and four years empty.**
 

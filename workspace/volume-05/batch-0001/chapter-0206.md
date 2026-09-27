@@ -88,11 +88,11 @@ A woman of thirty-nine brought it at about eleven in the morning of the Wednesda
 
 "And if I am on a Friday in Nine Bridges and it is a Sunday."
 
-"Then it is shut," said the woman of thirty-nine, "and that is not a thing I can fix and I have been asked it twice this week by two different people and I am telling both of them the same thing, which is that a room in this city that is open every day of the week is a room that somebody is in every day of the week, and I do not know anybody who is in a room off a service road every day of the week and I have not met the person who is.**"
+"**Then it is shut," said the woman of thirty-nine, "and that is not a thing I can fix and I have been asked it twice this week by two different people and I am telling both of them the same thing, which is that a room in this city that is open every day of the week is a room that somebody is in every day of the week, and I do not know anybody who is in a room off a service road every day of the week and I have not met the person who is.**"
 
 Marek Senn put the key in his pocket and it was the first object he has carried in this case that somebody else could ask him about at a door.
 
-**A key is not a post. That is a thing a woman of thirty-one with a diary said in a corridor in Crown Terrace six weeks ago, in about nine words, and he had written it down at the time, and the sentence was that a person with a key is not a post until in about four years a person with a key is a post, and that there is no post in this city whose job it is to decide who goes in a room, and that the difference between those two is whether the people who gave you the key can take it back, and there is one key and it is his and the people who gave it to him are a letting agent with a ring file who will not necessarily be there in a year.**
+**A key is not a post. That is a thing a woman of thirty-one with a diary said in a corridor in Crown Terrace about nine weeks ago, in one go and without stopping, and he had written it down at the time, and the sentence was that a person with a key is not a post until in about four years a person with a key is a post, and that there is no post in this city whose job it is to decide who goes in a room, and that the difference between those two is whether the people who gave you the key can take it back, and there is one key and it is his and the people who gave it to him are a letting agent with a ring file who will not necessarily be there in a year.**
 
 ---
 
