@@ -6,7 +6,7 @@ Nobody was thanked. A letting clerk of thirty-nine said one sentence and a man o
 
 ---
 
-The room was ninety-eight days old. The hardboard had been on its two nails for eighteen days with nothing going near it, and a sheet of paper with eleven lines in it was in a drawer in a kitchen that opens in the afternoon, and a piece of a company's paper was face up on the counter where it had been for ten days.
+The room was ninety-eight days old. The hardboard had been back on its two nails for four days with nothing going near it, and the twelve lines on it were eighteen days old, and a sheet of paper with eleven lines in it was in a drawer in a kitchen that opens in the afternoon, and a piece of a company's paper was face up on the counter where it had been for eleven days.
 
 There were seven people in it at about ten past ten and about eleven by eleven, and the difference is the kettle and the hours people work.
 
@@ -100,7 +100,7 @@ He wrote one thing.
 
 *241. Monday of week 82, at about ten at a bench in Lattice Ward, the roll shut beside the lamp and the docket face up, and this entry is one list in a company and about eleven names a week that are not in that room.*
 
-*Position.* **Ninety-eight days old. The board back on its nails for eighteen days with nothing added. The kitchen-paper leaf with eleven lines in a drawer in a kitchen that opens in the afternoon, the sixth of them showing daylight where a thumb went. The company's page still face up on the counter after eleven days, read entire by four people and looked at by everybody through the door. Seven present at about ten past ten, eleven by eleven, the difference being the kettle and the hours people keep. A district nurse of thirty-four sat beside the counter with a clipboard, drank one cup of tea, asked nothing, and is thanked by nobody then or on any of her visits.**
+*Position.* **Ninety-eight days old. The board back on its nails four days, after one evening off them, and the twelve lines on it eighteen days old, with nothing added. The kitchen-paper leaf with eleven lines in a drawer in a kitchen that opens in the afternoon, the sixth of them showing daylight where a thumb went. The company's page still face up on the counter after eleven days, read entire by four people and looked at by everybody through the door. Seven present at about ten past ten, eleven by eleven, the difference being the kettle and the hours people keep. A district nurse of thirty-four sat beside the counter with a clipboard, drank one cup of tea, asked nothing, and is thanked by nobody then or on any of her visits.**
 
 *The clerk's single sentence.* **A letting clerk of thirty-nine with a ring file took a call at about eleven. On the Friday a man from her own floor rang, asked whether the unit was still vacant, received the standing answer she has now given five times, and then said the unit is not vacant and that he had been so informed by somebody who had read it out of a record. He could give the street and the day. He could not give the name of one person in the room. She informed him that this was the correct state of affairs; he replied that it was not his business; she replied that it was hers, being the one who tells him. Her one sentence, and the only one she spoke that day: she is not thanked, will not be, keeps a sheet bearing four calls, and is still not bringing it there. Nobody raised the sheet. It has been raised three times.**
 

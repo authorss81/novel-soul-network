@@ -72,7 +72,7 @@ Then the first-year of nineteen found the thing that is actually wrong with the 
 
 "That is clause four."
 
-"**Yes. And in about four years somebody in your building is going to have to put a number on a piece of paper to get that money into a bank, and the number is going to be ours, because yours already exists and ours does not, and you have not thought about that and neither would I if I had your job.**"
+"**Yes. And somebody in your building is going to have to put a number on a piece of paper to get that money into a bank, and the number is going to be ours, because yours already exists and ours does not, and you have not thought about that and neither would I if I had your job.**"
 
 "Go on."
 

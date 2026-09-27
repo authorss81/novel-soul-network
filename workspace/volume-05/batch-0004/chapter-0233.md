@@ -2,17 +2,17 @@
 
 The ninth sitting of that Exchange fell on the Wednesday morning of week eighty, four weeks to the day after the eighth, and the book did not open, and the reason it did not open was about one person and had nothing whatever to do with how many people were in the room.
 
-A woman of sixty-one said the number out loud before she said anything else about anything, and she had said it fourteen times, and the fourteenth saying was hers and not a count of anything.
+A woman of sixty-one said two things that nobody had asked her for, and the second of them was a number, and she had said that number fourteen times, and the fourteenth saying was hers and not a count of anything.
 
 ---
 
 The shutters went up at about half past nine and the room was hot by eleven the way it is hot by eleven, and at eleven a hand went to the shutter and that is the signal and it has not changed in nineteen years, and the tin went into a drawer with no lock on it.
 
-There are nine chairs round the table. The ninth has stood against the wall facing away from the room since the sitting before last, put there by a young woman of nineteen who has been coming to that room since she was fifteen and who has never once been asked to move it and has never once been named in it, and nobody has moved it back and nobody has said why it is where it is.
+There are nine chairs round the table. The ninth has stood against the wall facing away from the room since the sitting before last, put there by a young woman of twenty-one who has been coming to that room since she was fifteen and who has never once been asked to move it and has never once been named in it, and nobody has moved it back and nobody has said why it is where it is.
 
 There have been nine sittings. There have been eight gaps of four weeks. The most recent gap is the only interval in that room a person can check without a calendar, and it is exactly four weeks, and it is the fourth time in a row that anybody has said so out loud.
 
-The rule is given in one go at every sitting of that room. It is not abridged. It is not improved upon. It is not shortened for the length of a morning.
+The rule is given in one go at every sitting of that room. It is not abridged. It is not improved upon. It is not shortened for the length of a morning. It has been given nine times and asked for eight, and the ninth was given to a room that had not asked for it, which is the sitting this is.
 
 "**A book of what a caller said cannot be written by the people who did not call.**"
 
@@ -108,9 +108,9 @@ He wrote one thing.
 
 *236. Wednesday of week 80, at a bench in Lattice Ward at about ten, lamp out, shutter up, rain over, and this entry is a four-column book that stayed shut at its ninth sitting for a reason concerning one individual.*
 
-*The arithmetic of the room.* **Nine sittings. Eight intervals. Every interval four weeks; the newest is checkable without a calendar and is the fourth checkable one in a row. Of the first eight, six passed with the book closed, the seventh added a line, and the last two are closed, which makes the number of sittings at which nothing was added eight and a half. The book stands at forty-five lines and has four columns. The tin carries no lock, was carried to a drawer with no lock at about eleven, and stayed shut. The signal for the shutter is nineteen years old and is not a decision anybody takes. Nine chairs. The ninth has been turned to face the wall since the previous sitting, moved there by a young woman of nineteen who began coming to that room at fifteen, who has never been asked to move it and never named in it; nobody has turned it back and nobody has given a reason.**
+*The arithmetic of the room.* **Nine sittings. Eight intervals. Every interval four weeks; the newest is checkable without a calendar and is the fourth checkable one in a row. Of the first eight, six passed with the book closed, the seventh added a line, and the last two are closed, which makes the number of sittings at which nothing was added eight and a half. The book stands at forty-five lines and has four columns. The tin carries no lock, was carried to a drawer with no lock at about eleven, and stayed shut. The signal for the shutter is nineteen years old and is not a decision anybody takes. Nine chairs. The ninth has been turned to face the wall since the previous sitting, moved there by a young woman of twenty-one who began coming to that room at fifteen, who has never been asked to move it and never named in it; nobody has turned it back and nobody has given a reason. She is not the first-year of nineteen in the other room and is not that person, and there is one nineteen-year-old in this case and it is the other one.**
 
-*The rule.* **Delivered entire at that room, as at every one of its sittings, and neither abridged nor improved nor shortened for the length of a morning: a book of what a caller said cannot be written by the people who did not call.**
+*The rule.* **Delivered entire at that room, as at every one of its sittings, given nine times and asked for eight, the ninth having been given to a room that had not asked, and neither abridged nor improved nor shortened for the length of a morning: a book of what a caller said cannot be written by the people who did not call.**
 
 *The supplier, and the three facts beneath it.* **Uttered by the woman of sixty-one before sitting down and before any person present had raised a company or a sum of money: that the question has been put to her before, by a supplier. The occurrences were eleven years back and about four years back, and there has been none since, because she has told nobody in that room what is in that room since she came into it and the single person who knew is dead. The supplier brought a figure to the door, asked if the book could be bought, received the standard refusal, asked again on his way out, received it again, and did not return. Her reason, given unasked and not improved: she was not rude, was not clever, and was not right; there is simply nothing there to buy and she declined to be the instrument of his finding that out, and it took him about a week to establish it from four words. She claimed in the same breath to be the person who decides what has been earned in that room.**
 

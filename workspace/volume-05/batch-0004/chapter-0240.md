@@ -8,7 +8,7 @@ Nobody was thanked. A woman of about thirty sat in a chair near the door for the
 
 Grade three from twenty to eight, nine on the docket and nine in date, and he has had a night when every one of them was in date and he has not thought about that night since it happened.
 
-A bin store timer that is not the fault, a tap, a landing light, a fitting in a stair of a type nobody has made since before his apprenticeship, two lift calls, an emergency pack, a cupboard light off a service road, and a fire door on a second landing in Nine Bridges whose closer he adjusted on the Wednesday, again on the Friday, and again this evening, which is three times in a fortnight and a bit, and which came up this evening for a third time with a stamped number in the description box that he did not write and that a man of thirty-eight in a district jacket had copied out of a frame about four feet up with a step-ladder.
+A bin store timer that is not the fault, a tap, a landing light, a fitting in a stair of a type nobody has made since before his apprenticeship, two lift calls, an emergency pack, a cupboard light off a service road, and a fire door on a second landing in Nine Bridges whose closer he adjusted on the Wednesday of last week, again on the Friday, and again this evening, which is three times in nine days, and which came up this evening for a third time with a stamped number in the description box that he did not write and that a man of thirty-eight in a district jacket had copied out of a frame about four feet up with a step-ladder.
 
 He went and looked at the frame. It is as he wrote it. He adjusted the closer a third time and wrote the word *frame* in the box again, and it will be back on the Monday, and he will not be the person anybody asks.
 
@@ -82,7 +82,7 @@ The man at the door went away and nobody asked him who he was and nobody wrote h
 
 ---
 
-And then somebody looked at the board over the door, which has four words on it in a sign-writer's hand, and above those four words there were seven more.
+And then somebody looked at the board over the door, which has four words on it in a sign-writer's hand, and above those four words there were eight more.
 
 It is warmer in here than out there.
 
