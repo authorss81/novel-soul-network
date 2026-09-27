@@ -86,7 +86,7 @@ A woman of about twenty-six came in at about half past twelve with a folder, and
 
 The bell-push was on it again.
 
-**It was on it as a defect, with a new number, because the item on the schedule is the item on the schedule.** The item reads *external push, serviceable*. It has read that since a man fitted a sounder in about forty minutes on a Friday nine days ago, and the sounder is on the wall and it works, and nobody has changed the wording of the item, because a schedule is not a document anybody improves and the man who fills it in the boxes has eleven other units and about four hundred other items.
+**It was on it as a defect, with a new number, because the item on the schedule is the item on the schedule.** The item reads *external push, serviceable*. It has read that since a man fitted a sounder in about forty minutes on the Friday three days ago, and the sounder is on the wall and it works, and nobody has changed the wording of the item, because a schedule is not a document anybody improves and the man who fills it in the boxes has eleven other units and about four hundred other items.
 
 The woman of about twenty-six said, out loud, in the room, to nobody in particular: "**It is the same number twice. I have written the same number twice on two different days and both of them were true on the day.**"
 

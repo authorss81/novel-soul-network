@@ -64,7 +64,7 @@ That left him, and he did not do it quickly, and the woman of thirty-nine with t
 
 "Go on," she said. "You have got a face on you and I have read four leases this month."
 
-"**A card went into a rail in a room off a street in Lattice Ward on the Thursday of the week before last and it has my name on it and a week at the bottom left and nothing on the back of it. That was eight days ago. This is an address and a landlord's name and four dates in a row, and a lease is a document anybody can hold, and I put the card in myself and I said the reason out loud in a room with five people in it and an officer of a fund of forty-four told me the reason does not help.**"
+"**A card went into a rail in a room off a street in Lattice Ward on the Thursday of the week before last and it has my name on it and a week at the bottom left and nothing on the back of it. That was eleven days ago. This is an address and a landlord's name and four dates in a row, and a lease is a document anybody can hold, and I put the card in myself and I said the reason out loud in a room with five people in it and an officer of a fund of forty-four told me the reason does not help.**"
 
 "Does it help?"
 
@@ -78,13 +78,13 @@ Then everybody signed and the woman of thirty-nine dated it and initialled the c
 
 "That is a mistake."
 
-"That is a signature," said Talia Venn. "**You have signed a document with an address on it and you are correct that it is a mistake, and I have signed one too, and the reason we both signed it is that a room with two names on it is not a room. So the arithmetic is not four names, it is one name, and you have been doing that arithmetic since the spring before last and it is the only arithmetic you have ever been sure of.**"
+"That is a signature," said Talia Venn. "**You have signed a document with an address on it and you are correct that it is a mistake, and I have signed one too, and the reason it is signed twice is that a room with two names on it is not a room. So the arithmetic is not four names, it is one name, and you have been doing that arithmetic since the spring before last and it is the only arithmetic you have ever been sure of.**"
 
 "Then somebody else should have to be findable as well."
 
 "**Yes. And they are. I have just signed. You have just watched me.**"
 
-He did not have an answer to that and he said so, which is a thing he has done four times in five volumes and about nine times in this one.
+He did not have an answer to that and he said so, which is a thing he has done four times in the whole of this and about nine times in a term and a half.
 
 ---
 

@@ -60,7 +60,7 @@ Nobody had asked her. She looked at the shut cupboard for a while.
 
 ---
 
-At about one the word went from nine to ten and stayed at ten for the rest of the day, and he noticed it at about one and there was nothing to be done about it then or at any other time, and he has never told anybody and is not going to in this volume.
+At about one the word went from nine to ten and stayed at ten for the rest of the day, and he noticed it at about one and there was nothing to be done about it then or at any other time, and he has never told anybody and is not going to.
 
 The sixth and seventh jobs were a lift call and a lift call. **The eighth job was a fault on a fire door in the same block as the third one and the door was on a closer that a different contractor had put in in the spring, and the fault was a strip of plastic about four inches long that had been fitted between the leaf and the frame, and it was not a fault, it was a packer, and it was doing what a packer does, and he took it out and put the closer back and the fault came back in about nine minutes, and he put the packer back in and signed the docket and wrote *not reproducible* in the box.**
 

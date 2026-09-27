@@ -2,7 +2,7 @@
 
 There is a sign-writer in this city who comes on a Wednesday with a stool and a box of colours and who has been doing this for about forty-one years, and on the Wednesday morning of week sixty-nine he was in the front room of a converted shop unit off a service road in the Lower Wards with a board under his arm and four pounds on a counter.
 
-He is about sixty. He is not a character in this and he does not become one, and nobody thanks him and nobody remembers his name, and the reason the reader is told any of that is so that it is not in doubt.
+He is about sixty. He is not in this and he does not become anybody, and nobody thanks him and nobody remembers his name, and the reason any of that is written down is so that it is not in doubt.
 
 ---
 
@@ -36,7 +36,7 @@ Marek Senn had written six letters on a sheet of A4 on the Monday night in the r
 
 ---
 
-The argument took about half an hour and it happened in three positions and the man of twenty-two was not the strongest of them, which is the whole of Chapter 206 and is not a thing he enjoyed.
+The argument took about half an hour and it happened in three positions and the man of twenty-two was not the strongest of them, which is the whole of that morning and is not a thing he enjoyed.
 
 **His was the simplest.** The room has a shutter that goes up at seven and down at ten, and a door with a bell-push on it that is not connected to anything, and somebody is going to have to be able to open that door on a Sunday when nobody is in the building. **A room with a key and a bell-push in it is the same object as a card in a rail. It is the same argument at a bigger scale and it took me a term and a half to see the small one and I can see this one from the doorway.**
 
@@ -48,7 +48,7 @@ The argument took about half an hour and it happened in three positions and the 
 
 "Twice. **Twice in nine years a kitchen of mine has been found by a man with a clipboard, and both times there was a name on the door and both times the name was the name of the man who owned it, not mine, and it did not make any difference to the man with the clipboard and it made a great deal of difference to me, and I am not putting anything with a person's name on it on a wall because I have been on the other end of that twice.**"
 
-**Asha Reed agreed with him and she agreed in one sentence and then said the sentence she had said on a floor four days ago, and she said it because it was hers and it was true, and the first half of it is this chapter and the second half is Chapter 225.**
+**Asha Reed agreed with him and she agreed in one sentence and then said the sentence she had said on a floor a week ago, and she said it because it was hers and it was true, and the first half of it is a board on a wall in the Lower Wards and the second half of it is about four months off and he does not know it is coming.**
 
 "**Nobody in a room has to say anything to be described by the person who has the room, and you have just described that room, and you are the person who has it.**"
 
@@ -74,11 +74,11 @@ He wrote them in about four minutes and he got the *o* in *do* about a millimetr
 
 Nobody thanked him. He was paid four pounds, which is what he quoted, and he took it, and he went, and the board went on the wall inside by the door at about the height of a person's shoulder, and it is not screwed to anything.
 
-**And it is still there, and it has been written over once, in Movement V of this volume, by a person who was not the man of twenty-two, and the top line is not the top line any more.**
+**And it is still there, and it has been written over once, by a person who was not the man of twenty-two, and the top line is not the top line any more, and that is about four months off and nobody in that room is told.**
 
 ---
 
-**The key is Chapter 206's other object and it is a key like every other key in this case.**
+**The key is the other object of that Wednesday and it is a key like every other key in this case.**
 
 A woman of thirty-nine brought it at about eleven in the morning of the Wednesday and put it on the counter and said it was one key and there was one of them and it was not a set.
 
@@ -100,7 +100,7 @@ Marek Senn put the key in his pocket and it was the first object he has carried 
 
 *The board, as an object.* **Hardboard, about the size of a tea tray, letters four inches high, six letters on a sheet of A4 written on a Monday night and torn up and written again on the Tuesday morning and read by a first-year of nineteen off a counter face up and put in a folder without a question. Four words, not the six letters, and the six letters were a name and the four words are *Bring what you do*, and the first-year's is the four words. Not screwed to anything, inside by the door at the height of a person's shoulder. Four pounds to a sign-writer of about sixty who has done about four thousand of these, of whom about three thousand nine hundred are the same six words in a different order, and who has never had anybody ask for the removable version and who said that a name cannot be taken off aluminium with anything and a word can be taken off a board with a thumb, and left a piece of sandpaper on the counter, and was not thanked.** The board is still on that wall at the end of this volume and it has been written over once and the top line is not the top line.
 
-*The argument, as three positions and one of them not being the protagonist.* **A man of twenty-two: a room with a key and a bell-push is the same object as a card in a rail, the same argument at a larger scale, and he can see the larger one from the doorway. A woman of twenty-four, against, twice and in about nine words and then in forty: a description is the only way anybody finds out a room exists, a room that cannot be found is a room for people who already know, and she had said the reverse of that on a Thursday four days earlier and had been told by the same man that the conclusion was wrong, and the two of them have now got one each. A cook of twenty-seven, against on a different ground: a kitchen of hers was found twice in nine years by a man with a clipboard and both times there was a name on the door and both times the name belonged to the man who owned it and it made no difference to the clipboard and a great deal of difference to her. A first-year of nineteen, agreeing, in one sentence, and then saying her sentence of the Wednesday, and then saying one sentence too many about people ringing him, which is a fact about a room with a key in it and not about a person.**
+*The argument, as three positions and one of them not being the protagonist.* **A man of twenty-two: a room with a key and a bell-push is the same object as a card in a rail, the same argument at a larger scale, and he can see the larger one from the doorway. A woman of twenty-four, against, twice and in about nine words and then in forty: a description is the only way anybody finds out a room exists, a room that cannot be found is a room for people who already know, and she had said the reverse of that on the Thursday six days earlier and had been told by the same man that the conclusion was wrong, and the two of them have now got one each. A cook of twenty-seven, against on a different ground: a kitchen of hers was found twice in nine years by a man with a clipboard and both times there was a name on the door and both times the name belonged to the man who owned it and it made no difference to the clipboard and a great deal of difference to her. A first-year of nineteen, agreeing, in one sentence, and then saying her sentence of the Wednesday, and then saying one sentence too many about people ringing him, which is a fact about a room with a key in it and not about a person.**
 
 *The key, as an object and as a thing four people in this case already know three things about.* **One key, one holder, not a set, handed over on a counter at about eleven in the morning on the Wednesday by a woman of thirty-nine who has said the same sentence to two people in one week. What three people already know about a key: a woman of thirty-one with a diary said in a corridor in Crown Terrace that a person holding a key is not a post, and that in about four years a person with a key is a post, and that the whole of the difference is whether the people who handed it to you can take it back; a clerk of fifty-three said in nineteen years at a counter that being told makes her a person who knows and a person who knows is the beginning of a record; and a man of thirty-four who works nights has a key to a cupboard and writes the location on the back of his own hand in a biro and washes it off, which is the only method anybody on that floor has found. The first of those is the sentence this volume is built on. **It has not been tested, because there is one key and no second one and the people who gave it over are a company with a ring file, and a company is not a person and cannot be asked to take anything back.** That is Movement II's problem and it is not solved in this chapter.**
 

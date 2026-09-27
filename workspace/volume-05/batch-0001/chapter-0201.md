@@ -2,7 +2,7 @@
 
 The unit at the back of four rooms off a service road in the Lower Wards has a shutter, a counter, nine chairs, a ring binder on a shelf, a kettle, two plug sockets of which one works, and a bell-push by the door that does not ring by itself.
 
-Nothing about it has been anybody's for four years. There is a plate on the outside of it with a letting agent's telephone number on it and no name, and the number is the number of a company, and the company is not a character in this and does not appear again.
+Nothing about it has been anybody's for four years. There is a plate on the outside of it with a letting agent's telephone number on it and no name, and the number is the number of a company, and the company is nobody's friend and nobody's problem and is not on any list anybody in this case is on.
 
 ---
 
@@ -82,7 +82,7 @@ At about eleven the woman of thirty-nine put her ring file under her arm and sai
 
 "Because the frontage has been empty," said the woman of thirty-nine. "**That is the whole of the reason I have been given and I have given it to four sets of people and two of them are the ones I can name.**"
 
-She looked at the door when she said it, and the bell-push is about four inches to the left of it, and it is a brass thing on a short stalk and it has never been connected to anything and it is not a fault, and nobody in that room fixed it, and nobody in that room will.
+She looked at the door when she said it, and the bell-push is four inches to the left of it, and it is a brass thing on a short stalk and it has never been connected to anything and it is not a fault, and nobody in that room fixed it, and nobody in that room will.
 
 ---
 
