@@ -1,5 +1,7 @@
 # Arithmetic and calendar — Volume 05
 
+**`workspace/volume-05/ARITHMETIC-AND-CALENDAR.md`, at the volume root, beside `batch-0005/` and not inside any phase directory. It is a volume-level working file and not a phase: it holds no `PROMPT.md` and no marker, so the controller's selection rule — the first directory under `workspace/` holding a `PROMPT.md` and no `.done` — is unaffected by it. `workspace/volume-04/ARITHMETIC-AND-CALENDAR.md` is the precedent and sits in the same place.**
+
 **This file exists because four state files and five batch summaries in Volume 05 said the volume's calendar lived in a document that did not exist, and this is the seventh time a state file in this repository has pointed at a missing one. It is a table and a set of series. It is not a prompt, it plans nothing, and it derives nothing.**
 
 **Four rules, and they are the same four as Volume 04's file.**
