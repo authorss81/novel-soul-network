@@ -72,7 +72,7 @@ None of that is a rule and none of it is anybody's job and nobody in that room w
 
 ---
 
-At ten at night the docket was on the bench under the lamp with nine job numbers in his own shorthand, and the word had been at nine a minute until about one and at ten after one, and there is a piece of card about two inches by three in the inside pocket of a jacket on the back of a chair, and the original has lain in the fourth pocket of the tool roll for a term and a half with nothing on its fifth line, and nobody has ever held out a hand for it.
+Nine job numbers were on the docket under the lamp and the word had been at nine a minute until about one and at ten after one, and there is a piece of card about two inches by three in the inside pocket of a jacket on the back of a chair, and the original has lain in the fourth pocket of the tool roll for a term and a half with nothing on its fifth line, and nobody has ever held out a hand for it.
 
 A drawer under that bench has five things in it and has never once held anything a person could produce in a room. Four of the five are sentences other people wrote. The fifth carries a reference number and a closing line asking that it not be produced unless somebody asks that office first, and nobody has ever asked. Nobody has asked him a question in a room with a microphone on it for four weeks and he is not going to miss it.
 

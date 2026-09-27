@@ -2,7 +2,7 @@
 
 The back room has the shutters up, a table in the middle of it, a tin on that table with no lock on it, and a book lying open in front of the woman who runs it: four columns, forty-four lines.
 
-This is the fifth Wednesday in a row the book has not been opened, counting from the Wednesday of week forty-eight, and there are four Wednesdays in between those five rather than five. The sixth falls four weeks from tonight. Nobody has asked her about it and she has not asked anybody.
+This is the fifth Wednesday on which the book has not been opened, counting from the Wednesday of week forty-eight, and the sittings are four weeks apart, so that there are three Wednesdays in between those five and four gaps between them. The sixth falls four weeks from tonight. Nobody has asked her about it and she has not asked anybody.
 
 Four minutes an item, and nobody in that room has a vote, and nobody in that room is on the payroll of anybody who wanted an item out of them.
 
@@ -68,7 +68,7 @@ Bea Nunn moved the fifth chair back against the wall herself, at the front, with
 
 *195. Wednesday of week 64, ten at night in a back room with the shutters up, and this entry is forty-four lines, a fifth chair, and a number of telephone calls that did not move.*
 
-*The book, as a count.* **Four columns, forty-four lines, four minutes an item, no vote for anybody, a tin with no lock. Fifth sitting shut, counting the sittings in the run from the Wednesday of week forty-eight and not the four Wednesdays between them. The fortieth line is three years old. Line forty-four has a hole in it where a woman of sixty-eight in bay four should be. The book did not open.**
+*The book, as a count.* **Four columns, forty-four lines, four minutes an item, no vote for anybody, a tin with no lock. Fifth sitting shut. The sittings are the Wednesdays of weeks forty-eight, fifty-two, fifty-six, sixty and sixty-four, counted as five and not as the four intervals since week forty-eight, and there is no Wednesday in the run that is not four weeks from the one before it. The fortieth line is three years old. Line forty-four has a hole in it where a woman of sixty-eight in bay four should be. The book did not open.**
 
 *The number, said out loud, and the reason it had not moved.* **Twenty-nine at the spring, twenty on the Wednesday of week fifty-six, twenty-nine on the Wednesday of week sixty, twenty-nine on this Wednesday, and four weeks with no movement. Ten people in the room and two of the twenty-nine in it. Her own account of the stillness: that she has not telephoned anybody in four weeks, that the second time she rang anybody it was a frightened woman and she told her it was all right to feel frightened and that she was the only person in the city who knew the woman had rung, and that she cannot tell whether the second call was a habit or the third was the thing she was afraid of. She offered to ring one and did not.**
 

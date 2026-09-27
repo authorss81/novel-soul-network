@@ -106,7 +106,7 @@ There was nothing to be said to that and he did not pretend otherwise, and she s
 
 At ten at night the docket was on the bench under the lamp and there was nothing on it from that day, because a lamp ballast in Nine Bridges had taken two hours and a tunnel had taken the rest.
 
-Under the bench there is a drawer with five things in it, four of them sentences other people wrote, and the original is in the fourth pocket of the tool roll with the fifth line blank, and a jacket is on the back of a chair with a photocopy of a photocopy in the inside pocket of it, and the decision about it is exactly where it was before the summer and it was not made today by anybody.
+The five things in the drawer under that bench are four sentences other people wrote and nothing of his own except a decision he has not made. The original is in the fourth pocket of the tool roll with the fifth line blank. A jacket is on the back of a chair with a photocopy of a photocopy in the inside pocket of it, and the decision about that one is exactly where it was before the summer, and it was not made tonight by anybody.
 
 He wrote down one thing, because he writes things down.
 

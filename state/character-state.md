@@ -213,6 +213,19 @@ Updated after every batch. Tracks where each character is at the end of the last
 
 ---
 
+## The state this block was measured in, and what the review repair pass changed in it
+
+**This block was re-read after batch 0005's review repair pass. The repair moved nobody's state: it fixed a duplicated paragraph, a duplicated description, a miscounted gap and three stale figures, and none of those is a thing a character did.**
+
+- **Iven Sore, 58 — two entries below in this block, and the one correction that touches a person.** In the first version of Chapter 197 he was described twice in the same corridor, once as the man speaking and once as the man being spoken to, both fifty-eight and both in a coat that has never been in a workshop. **He is now named in the chapter where he speaks, and the man he speaks to is the field service engineer of fifty-one with a tool bag.** Every entry about him below stands, including the third written declination with the count and the reason, the date of the next round given away at the door, the authorisation of the round in the first person, and the one sentence with a count in it in the corridor on the Monday of week sixty-seven.
+- **Petar Vance, the field service engineer, 51 — is the man in the corridor in Chapter 197 and not a man of fifty-eight.** He is the one who came down forty steps to watch a round go out of a building, and he is the one who took a canvas bag off a landing rail, checked that it was not his, and carried it out through a service door, and said nothing about it then or afterwards in a corridor, a canteen or a yard. **He is a mechanic and not a villain and not a carrier, and the carrying out belongs to him and to a records clerk and not to Marek Senn.**
+- **Halla Rennick, the records clerk, 41 — unchanged.** She was asked in a corridor on the Friday before and said yes and said at the same time that she did not want to, and both were true on the same morning. She read the ledger with a lead repairer and said out loud that the blank fifth column was the first column she had read in twenty-two years where the whole column was the point. She stopped on a second landing and gave one reason of five words and nobody asked her who.
+- **Sera Quill, the lead repairer, 45 — unchanged, and the repair sharpened a sentence about her rather than her.** **The name that is not said in Chapter 195 is the name on the page and not hers. She is named in the chapter, she has always been named, and her nine words are the same nine words she has said for a term and a half.**
+- **Talia Venn — unchanged, and the repair did not touch Chapter 200.** She is named in Chapter 195 and in no other chapter of the batch, she refused in nine words, and the refusal is about the record. **Milestone 4 stays paid once, in Chapter 195, and Chapter 200 does not touch the relationship.**
+- **Marek Senn — unchanged.** The batch is 26,053 words and the repair added 158 of them across six chapters and took none out of a decision. His state at the end of Chapter 200 is the state in the entry below this one.
+
+---
+
 # VOLUME 04 — MOVEMENT V (Chapters 191–200), "The Ledger". Character state at the end of Chapter 200, and Volume 04 is closed
 
 **This block is the state at the end of Volume 04's fifth and last movement and at the end of the volume. It supersedes nothing in the `VOLUME 04 — MOVEMENT IV` block below it and it inherits every line of it and of the `MOVEMENT III`, `MOVEMENT II` and `MOVEMENT I` blocks and of the `VOLUME 03 CLOSED` block. The batch's own account is `workspace/volume-04/batch-0005/SUMMARY.md`, the volume's plan is `outline/volume-04.md`, and the dated hand-off to Volume 05 is `workspace/volume-04/batch-0005/VOLUME-CLOSE.md`, which supersedes this block for anything about what Volume 05 inherits.**

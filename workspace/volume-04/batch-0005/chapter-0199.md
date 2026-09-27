@@ -76,7 +76,7 @@ The Office agreed to nothing on the Monday morning of week sixty-seven. It refus
 
 ---
 
-At ten at night the docket was on the bench under the lamp and the word had been at nine all afternoon, and there is a jacket on the back of a chair and a piece of card about two inches by three in the inside pocket of it, and the original has lain in the fourth pocket of the tool roll for a term and a half with nothing on its fifth line, and a drawer under the bench holds five things.
+The docket was face up under the lamp with the word still on it from nine in the morning, and there is a jacket on the back of a chair and a piece of card about two inches by three in the inside pocket of it, and the original has lain in the fourth pocket of the tool roll for a term and a half with nothing on its fifth line, and a drawer under the bench holds five things.
 
 He wrote down one number, which was three, because there were three people on that floor, and he wrote down no names, because he has been doing that for a term and a half.
 
