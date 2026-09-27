@@ -1275,3 +1275,28 @@ About nine years buying about four hundred photographs and a course for a compan
 **THE CLERK OF FORTY-FOUR, NOOR VASZARY, named in Chapters 255 and 271.** She is the person whose job it is to ask questions and the person who produced a printed rule and was right about it, and she is seconded to the secretariat of the standing committee and the chair of forty-nine has never been told, and about four people in this case can now find her at a building she was never told she was in. **She is a person with an ordinary job and is not a post, and she said so out loud in a room in Chapter 290, and nobody improved on it.** She was a typist in a room in Crown Terrace fourteen years ago and has remembered one sentence of a recording for fourteen years and said it once, in nine words, in Chapter 275, and nobody improved on it. Being right cost her about nine hundred cards that were somebody else's cards, four days of a man's leave that were a man's, and one secondment that is hers.
 
 **THE MAN OF FIFTY-ONE WITH A TOOL BAG**, who said the about four hundred lines out loud in about nine seconds in Chapter 268 and is the fourth room he has said it in, and who said the number of doors and is not thanked. **The man of fifty-eight with a bad hip, who is a different man and is not merged with him, and who will not say the thing about the paper a sixth time.** The two men of fifty-eight are the one with the bad hip and the one who inspects buses, and they have never been merged. The man of fifty-one with a bad wrist and the man of fifty-one with a tool bag are two people. **Oren Vey reaches the reader as one word, in his own mouth, in Chapter 287 — *He was Vey. He gave his name, which nobody wrote down* — and his forename is not in any of the fifty chapters.** **Petula Fenn, thirty-four, named in Chapters 266, 271 and 272, is not in `outline/volume-06.md` and is new to this manuscript; she checks about nine hundred doors on her own time and is owed nothing.**
+
+---
+
+# VOLUME 06 CLOSE — REVIEW REPAIR PASS, and the one object in this volume whose age was wrong
+
+**No character changed. One figure attached to an object changed, and it is recorded here because the object is the wall and the wall is the most persistent object in six volumes.**
+
+## THE WALL IN THE ROOM OFF THE SERVICE ROAD, at Chapter 300, with the corrected age
+
+**At the close of Volume 06 the wall is eighteen lines in twelve hands and thirteen names, no line removed and none rubbed off, the first line still a cook's.** The lines were written on these days and this pass walked every one of them against the day map, and **every day is right and one age was wrong.**
+
+| Line | Written | Day | Age at Chapter 300 (day 644) |
+| --- | --- | --- | --- |
+| The first nine | superseded by the twelve | the Thursday of week 70 | no series survives them |
+| **The twelve** | Chapter 251's volume, the Thursday of week 79 | **442** | **202** |
+| **The thirteen** | the Thursday of week 86, an opt-out, in the hand of a first-year of nineteen | **491** | **153** |
+| **The fourteen** | Chapter 260, a woman of twenty-four, in her own hand, after naming the cost aloud | **526** | **118** |
+| **The fifteen** | Chapter 270 | **547** | **97** |
+| **The sixteen** | Chapter 280 | **572** | **72** |
+| **The seventeen** | Chapter 290, the clerk of forty-four, signed, about being findable | **590** | **54 — was printed fifty-two, now corrected** |
+| **The eighteen** | Chapter 300, the holder of the Exchange, sixty-one, nineteen words, signed | **644** | **0, that evening** |
+
+**The correction is one word in each of the ten chapters from 291 to 300 and nothing else changed, and the reason is the same day number that has now caused five separate errors in this volume.** Day 644 minus day 590 is fifty-four, and the fifty-two was 644 minus 592, and **the whole seventeen-line series across Movement V was computed from 592 and every one of its ten values was two days low: 3, 5, 7, 10, 12, 13, 14, 17, 26 and 54 are now the ages for Chapters 291 to 300, and they were 1, 3, 5, 8, 10, 11, 12, 15, 24 and 52.** **Every one of the ten stands in that chapter's load book and none is in the body, so a wall age in this series is apparatus with no second witness.** Each of the ten chapters is unchanged in word count and in bold-span count, Movement V stands at 36,463 words, the volume at 155,086, and the load-book overlap moved by 0.0 in every movement and 0.0 for the volume.
+
+**No other character state moved in this pass. The thirteen live clocks stand as the close left them, the relationship is not resolved, Talia Venn is in nobody's mouth in any of the fifty chapters, the standing question is unstated, and the Exchange's four figures are forty-eight, fifty-four, fifty-seven and twenty-one with none of them convertible into another.**
