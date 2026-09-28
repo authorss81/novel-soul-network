@@ -1,0 +1,99 @@
+# Chapter 464 — The Third Friday Of Ten, A Post Bare Forty Weeks, And A Figure That Equals Itself
+
+**The Friday of week one hundred and seventy-two was spent at a bench in Lattice Ward until about two and he was not in Crown Terrace and the shop did not know and would not have known, and the one thing that is true of it is that about eleven people were in a room on a second floor for about nine minutes and the post by the corridor end has now been bare for forty weeks, and on that same Friday the fifteen lines on a hardboard in a room off a service road were five hundred and forty-seven days old, and five hundred and forty-seven is the day those fifteen lines were written, and that is the only figure on that board that is its own birthday.**
+
+---
+
+Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is seven hundred and thirty-two days old and is warm, and about four people came in on the Friday evening for the temperature and none of them was asked anything.
+
+The card in the rail is seven hundred and thirty-six days old, which is four days more than the room is, and the rail holds two, and it is in a building on the other side of this city from a second floor in another building and nothing on that Friday joins the two and nobody crossed it.
+
+---
+
+The room is the same room. About eleven chairs out of a cupboard and a table at the front and a laptop on it connected to nothing in this case.
+
+It is the same corridor and the same stair and the same stairwell light and the same fire door at the far end with the same folded sheet of paper propping it, and the grey mark on the floor under that sheet has not moved and has not been cleaned and nobody has ever asked about it.
+
+The chairs were stacked against the wall when the first person came and were unstacked by the first person who came, and that is the third week running that two different people have done the two halves of that.
+
+**Nobody has ever asked who is meant to stack them and nobody has ever asked who is meant to unstack them, and about four people on that floor have worked out that they are the one who does it and have not said so.**
+
+About eleven people came, which is the same figure as the two Fridays before and is a figure and not a rate, and about four of the eleven are on no rota at all, and that has been the case in this city for a long time and is not on a form and is not a form.
+
+
+The fire door at the far end has a folded sheet of paper propping it and it has been the same folded sheet of paper for as long as about four people on that floor can remember, and the grey mark on the floor under it is the shape of the fold and not the shape of the door.
+
+**Nobody has ever replaced the sheet of paper and nobody has ever moved the mark, and the mark is not on any cleaning list in that building, and there is no list of cleaning in that building that anybody has read.**
+The woman of about thirty-one who works nights was there and had been at the back three Fridays running. The man of about twenty-six who works in a canteen four days a week was there, having not been the Friday before, and nobody mentioned it, and about four people on that floor noticed and none of them said anything.
+
+**Three Fridays is not a run. It is three Fridays, and anybody who wants a run out of it has to wait, and there are seven more Fridays after this one of which this case has seen none.**
+
+The post by the corridor end is bare forty weeks, which is two hundred and eighty days from the Friday of week one hundred and thirty-two, and nobody in that room knows either of those figures.
+
+**The card is still in it and the number on the card is still the number and nobody has replaced either of them, and the box is at the same height on the same wall and has not been repainted round, and the paint round it is a different colour from the paint above it.**
+
+---
+
+The man of about thirty-nine who buys training sat at the back and asked a question this week that he had not asked in either of the two weeks before it.
+
+He asked whether a room in another building was still being used on a Wednesday evening, and he did not say which building and he did not say which room, and the person who supplies the training said that she did not know either, in about nine seconds, and he accepted that.
+
+**He had asked something different each of the three Fridays. Nobody on that floor has ever kept a note of what he asks, and the three questions are not about the same subject, and the woman who supplies the training has answered three different questions with the same length of answer and has not been asked to make them different.**
+
+He wrote nothing on the back of his hand. About four people on that floor have noticed that he did not, and about four people on that floor have not noticed anything.
+
+A man of about twenty-three who comes to all three and has never asked anything sat two rows in front of him and asked one ordinary question about the box on a form, and got an ordinary answer of about nine seconds, and wrote nothing down and asked no second question and said nothing at all.
+
+**Nobody in that room thanked anybody, and the only word of thanks said in that building in the last three weeks was said three weeks ago by a man who was in this room that week and is in it again tonight and has not said anything else.**
+
+The material for that week went out on the Monday in one envelope with four names on it, one for each of four places, and one of the four was spelled wrong, and the person who sends it has not been told and nobody in that room noticed and nobody in this case ever will.
+
+**Three of the four names are spelled the way the places spell them. The fourth is not, and the spelling is not a stranger's spelling, and it is the kind of mistake a person makes who has been writing a name from memory and not from a list.**
+
+The man of about twenty-six who works in a canteen four days a week sat in the same seat as the Friday before, which is the second time he has sat in it, and nobody assigned it and nobody has ever mentioned that it is the same one.
+
+He did not ask anything this week. About four people on that floor have noticed the two Fridays now and none of them has said anything, and one of them has worked out that he comes on the weeks he does not work and has not said that either.
+
+---
+
+**The fifteen lines on the hardboard in the room off that service road are five hundred and forty-seven days old on that Friday, and five hundred and forty-seven is the day the fifteen lines were written on that same board.**
+
+The two halves of that are one figure and not two. It is an age and it is a day and they are the same number, and a person reading it is holding the age of a line and the day it went on in one token and there is no second number to hold it against.
+
+**The fourteen lines are five hundred and sixty-eight days old on the same Friday, and five hundred and sixty-eight is not a day anything on that board was written and is not a figure about any other series, and the two lines above and below it are five hundred and twenty-two and five hundred and three, and neither of those is anybody's day either.**
+
+The sixteen lines are five hundred and twenty-two days old and the seventeen lines are five hundred and four days old and the eighteen lines are four hundred and fifty days old and the nineteen lines are four hundred and twenty-eight days old, and the thirteen lines are six hundred and three, and the twelve are six hundred and fifty-two, and none of those seven is a day that anything on that board was written.
+
+**Five hundred and forty-seven is the only one of the eight on that board that equals the day its own line was written, and it does so on a Friday, and nobody who put the line there in an earlier year knew that and would not have cared and this case knows it and nobody else does.**
+
+---
+
+He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing. About four people came in for the temperature and the man of about fifty-one had his tool bag at his feet and it was at his feet on the Friday before and on the Thursday before that.
+
+In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Friday.
+
+A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-eight weeks and two days. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room and is not in this city, and his hold went on for about fifty-two weeks and one day without anything being asked of him and without anything being given to him.
+
+**He had been at the bench in Lattice Ward from about half past seven until about two and at that counter from about two until about six on the Friday, and the shop did not know that a man of about thirty-nine had been given a nine-second answer in another building, and nobody in the room off that service road knew that a post on a second floor had been bare for forty weeks.**
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+About four of the nine who came in said nothing and stood by the door and then left, and nobody asked them why.
+
+**The post by the corridor end is a wall in a second floor and the rail along the front of that counter is a counter in another district, and the two have never been in one sentence in front of anybody, and the card in the rail is not the card in the box and no sentence in this case may make the two of them one.**
+
+The middle one is the one that fills and about four people came in on the Friday evening for the temperature and about four went out again inside twenty minutes, and the kettle went on twice and one cup was made and it was not made for anybody in particular.
+
+The man of about fifty-one put his tool bag down at about half past six and picked it up again at about ten, and between those two times it was not on the floor, and nobody has ever asked where it went and it went where it always goes and that is not in this case.
+
+**Nobody in that room knew that about eleven people had been in a room on a second floor for about nine minutes, and about four people in that room have said since that Fridays are quiet, and Fridays in that building are the loudest of the week.**
+
+*467. Friday of week 172, at about ten on a service road, and this entry is about eleven people in a room on a second floor for about nine minutes, a post by the corridor end bare forty weeks which is two hundred and eighty days, one ordinary question from a man of about twenty-three and no second question, a woman of about twenty-six in a room she was not in last week, fifteen lines on two nails five hundred and forty-seven days old on a day that is five hundred and forty-seven, a rail holding two cards in a shop on the other side of this city, and nobody thanked anybody.*
+
+*Conditions and docket.* **Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and his day was a bench in Lattice Ward from about half past seven until about two and a counter from about two until about six, and then a room from about half past six. He was not in Crown Terrace on the Friday and the shop did not know and would not have known. That floor: about eleven chairs out of a cupboard, a table at the front, a laptop on it connected to nothing in this case, and a black post box on the wall by the corridor end with a card in it and a number on the card and no list anywhere of what the number is for. People in that room: about eleven, of whom about four are on no rota at all, and the figure is not a rate and is not on a form. How long it ran: about nine minutes. Who called them in: a woman of about thirty-six with a lanyard, one word and a point at the chairs, and no statement of length and no statement of what it was. Who was there on this Friday and was not on the Friday before: a man of about twenty-six who works in a canteen four days a week, and nobody mentioned it. Who asked: a man of about thirty-nine who buys training, for the third Friday running, and his question this week was whether a room in another building was still being used on a Wednesday evening, and he named neither the building nor the room, and the answer was that she did not know either, in about nine seconds. Who else asked: a man of about twenty-three who has never asked anything, one ordinary question about a box on a form, one ordinary answer, nothing written, no second question, and no word of thanks. Whether anybody said thank you: no, and the only one in the last three weeks was said three weeks ago by the man in the canteen, who is in the room and has said nothing else. The post: bare forty weeks, which is two hundred and eighty days, and the figure is not in that room and not on a form. Rate: nine and ten, uncorrected, told to nobody, and said out loud to one person once in all of it. Heating: on, dearer, four names on a lease dearer still, a fortnight a cook laid out that nobody has repaid and that is not resolved. Room off that service road: seven hundred and thirty-two days, and warm, and about four people came in on the evening for the temperature. Card: seven hundred and thirty-six days, four days more than the room, in a rail of about forty slots, and the rail holds two, and nothing on that Friday joined the two buildings. Two nails, nineteen lines, and no twentieth: the twelve six hundred and fifty-two, the thirteen six hundred and three, the fourteen five hundred and sixty-eight, the fifteen five hundred and forty-seven, the sixteen five hundred and twenty-two, the seventeen five hundred and four, the eighteen four hundred and fifty, and the nineteen four hundred and twenty-eight. FIVE HUNDRED AND FORTY-SEVEN IS THE DAY THE FIFTEEN LINES WERE WRITTEN, so on that Friday the age of the fifteen is the day the fifteen went on, and the two are one figure, and it is an age and not a date, and it is the only one of those eight that is its own day. Nothing was added to that board and nothing was removed from it and nothing was rubbed off it. Ring binder: eight things, the woman's page the eighth of the eight, unread. Master's original: fourth pocket, fifth line blank, drawer shut. Exchange: did not sit this week again, and stands at fifty-five lines, seventy-three in the tin, thirty-seven announced of which thirty-two correspond, nineteen years, and none of the four was turned into another one on this day. Man of about thirty-three's hold: three hundred and sixty-five days, which is fifty-two weeks and one day, and nothing was asked of him and nothing was given to him in it. Man of about fifty-one: three hundred and thirty-eight days, which is forty-eight weeks and two days, and nobody has renewed the asking and nobody stopped it. Nine hand copies: two hundred and ninety-eight days, which is forty-two weeks and four days, about eight of the nine unfinished, and the first disagreement in the fourth line not found. Ask: four hundred and twenty-two days, which is sixty weeks and two days, counted from the day it was asked and not from any sitting since. Separation: four months and nineteen weeks and four days, not shorter and not ended, and told to nobody. Times anybody improved on anything: none. Times anybody stood up: none. Times anybody thanked anybody: none. Entry 467.**
+
+*The forty weeks, as a record of a figure nobody in the room has.* **What it is: a black box on a wall by a corridor end on a second floor, with a card in it and a number on the card. What the number is for: on nothing, and there is no list anywhere of what it is for, and the man who buys the training and the man who supplies the training have between them asked about it three times in forty weeks and have got the same one-line answer each time. How long it has been bare: forty weeks, which is two hundred and eighty days, counted from the Friday of week one hundred and thirty-two and from no other day. How many in that room know that figure: none, and it is not in the room and is written down nowhere and is not on a form. Why the box is still there: nobody knows, and the reason it has not been taken down the wall is not in this case and is not going to be. Whether anything has been put in it: no, and nothing has been taken out of it, and the card has been in the slot longer than the box has been empty. Whether a card in that box is a card in a rail: no, and the two are in different buildings in different districts and no sentence in this case may make them one. Owner: a wall, and nobody.**
+
+*The figure that is its own day, as a record of one number doing two jobs on a Friday.* **What it is: the age in days of the fifteen lines on a hardboard in a room off that service road, on the Friday of week one hundred and seventy-two. What it is also: the day, in an earlier year, that those same fifteen lines were written on that same board. Whether the two are the same number: they are, and that is the finding, and it has happened once on that board and once before that in an earlier year and the earlier one was found by somebody going back over old figures and not by anybody looking for pleasure. Which of the two is being held: both, and there is no second figure to check it against. Whether either of them is about the room on a second floor: no, and the two are on different pieces of hardboard and in different buildings and different districts and about nine people were in one of them for about nine minutes on that Friday and none of them knows what the other one is. Whether anyone said either number out loud: no, and nobody in either building has ever said either of them. Owner: a board on two nails, and nobody.**
+
+*What the day did not touch.* **Nobody read the ninth line in a ring binder and the folded page at the bottom of that binder is where it was on Friday, and the woman's page is the eighth of the eight and is unread. A drawer stayed shut, a pencil box in a street in another district was not opened, and a folder in a weighbridge hut in the working Ashfields was not turned over. The four rooms in four districts of this city have still never met, and the sheet of about nine lines in a room in the second of the four districts is still not on anything and has not been adopted by anybody. The four rooms in four towns have still not been introduced to each other, and one of the four has answered and the other three have not, and a card in one of them is waiting on a price. Nine keys are needed and two exist, and the first of the nine still cannot be asked back. Nine doors on a road on the far side of this city are still hanging by one hinge and no wage pays for a mender, and a week that about eleven people lost has not come back to them, and a bar across the inside of a door in each of four buildings in four towns is on nothing and appears in no list of anything. The fortnight a cook laid out is still on nobody's account. The Exchange did not sit again this week, its book did not grow, and no number was given into its tin. Nobody died. Nobody thanked anybody. Entry 467.**

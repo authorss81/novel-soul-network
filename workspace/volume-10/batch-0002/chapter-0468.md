@@ -1,0 +1,89 @@
+# Chapter 468 — A Crate That Was Light On The Ticket, And A Card That Went And Settled Nothing
+
+**The Monday of week one hundred and seventy-four was spent at a bench in Lattice Ward until about two and at a counter until about six, and the one thing that is true of it is that a man of about fifty-two who drives the line twice a week had a crate that was four kilos light on a ticket because about four people had taken things out of it on the Friday, and he said so once, which he had not done the last time, and the fare came down, and the card went in a coat pocket at the crate price, and about nine people in four towns still cannot send a thing for nothing, and nobody improved on any of it and nobody thanked anybody.**
+
+---
+
+Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is seven hundred and forty-two days old and is warm, and about nine people came in on the Monday evening for the temperature and none of them was asked anything.
+
+The card in the rail is seven hundred and forty-six days old, which is four days more than the room is, and the rail holds two, and a piece of card the size of a nail box went four days of bus travel away in a coat pocket on the Tuesday and came back and is not the card in that rail and is a different object and no sentence in this case may make them one.
+
+---
+
+The crate had been ready since the Friday and it was about nine kilos on the ticket and it was about five kilos on the scales at the other end on the Tuesday morning.
+
+Nobody had done anything wrong. About four people had taken things out of it on the Friday because they had come in on the Friday and collected, and the ticket is written at the other end by a person who is not on the bus and does not see what comes off it.
+
+**The man of about fifty-two who drives the line weighed it himself, and the two figures were on the same piece of paper, and the difference was about four kilos, and about nine people's things are in a crate that is not the crate on the ticket.**
+
+The last time this happened he did not say anything. He has driven the line for a long time and the last time he did not say anything and the fare was charged on the ticket, and the company was paid for about four kilos of air, and nobody in this case ever found that out.
+
+**This time he said so. He said it once, at the shop at the other end, on the Tuesday morning, in about nine seconds, and the ticket was made up lighter and the fare came down by a figure that is not anybody's wage.**
+
+---
+
+Nobody thanked him.
+
+He did not expect to be thanked and nobody at that shop thanked him and nobody has ever said anything to him about it since. The person at the shop who made up the ticket said the ticket was the ticket, which was true and was not a thank you, and about four people on that shop floor heard the exchange and none of them has said a word about it since.
+
+**Nobody improved on it. Nobody copied it. Nobody has been told how to do it and there is no procedure and it is not a rule anybody has written down, and the next time a crate is light on a ticket on that line it may go the other way and the man who drives it will be a different man or the same one and nobody is going to write it down either way.**
+
+
+He did it in about nine seconds and he did it while the engine was running and he did it to a person who had about four other people waiting, and the person wrote the new figure down without arguing and without asking why it was different this time.
+
+**About four people on that shop floor have said since that the ticket was lighter than usual, and about four of them have said it in a tone, and none of them has said the reason out loud and none of them knows it.**
+**And it changed nothing. The card went at the crate price and the crate price is the crate price. The about nine people in four towns still cannot send a thing for nothing and did not know they could not before the fare came down and do not know it now. Nothing was adopted and nothing was agreed and nobody improved on the other three of anything.**
+
+---
+
+The card went in the inside pocket of a coat at about ten past nine on the Tuesday, and it came back on the Wednesday of the same week on the same bus, and it was not folded and it had nothing new on it.
+
+It was put in the pocket by the driver himself on the Tuesday, without being asked, and it was not weighed and it was not put in the hold with the crate, and about four people at the shop at the other end saw him do it and none of them said anything.
+
+**The card that came back said the same thing it said when it went out, which is a number and the word not after it, and the number is not this city's number and the room that wrote it has not been told that a card arrived anywhere.**
+
+Nobody told the room. Nobody in that town knows the card went and came back in four days and cost a crate price, and the woman who keeps the only written record in that town has not been told either, and she carried the question and she lost two days of work over the price and neither of those facts has changed.
+
+The card came back in the inside pocket of the same coat and it was put on the counter of that shop in the four places at about ten past two on the Wednesday, and it was left there until the Friday, and it is still there.
+
+**Nobody has written anything about it. There is no docket in that town and no book and no sheet and no column, and a card on a counter in a shop four days of bus travel away is not a record of anything and is not going to become one.**
+
+---
+
+He was at a bench in Lattice Ward from about half past seven until about two and at a counter from about two until about six, and about nine people came to that counter and about four of them were told no to something and one of them was told a thing could be had on Thursday and not before.
+
+Nobody at that counter knows that a crate was weighed at a shop four days of bus travel away on the Tuesday morning. Nobody at that counter was told and nobody asked and the docket says nothing about it.
+
+**A correct thing, done with an ordinary job, by a person who is not owed anything and is owed nothing and is not thanked, and the whole of what it changed was a figure on a ticket that about four people in a shop wrote down correctly.**
+
+He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature.
+
+In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Monday.
+
+A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-nine weeks and five days. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room and is not in this city, and his hold went on for about fifty-three weeks and four days without anything being asked of him and without anything being given to him.
+
+**Nobody in that room knew about the scales at the other end, or the coat pocket, or the four kilos of air that was not charged for, and nobody in that room is owed anything by anybody in it, and the fortnight the cook of twenty-seven laid out is on nobody's account and is not going to be on anybody's.**
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+About four of the eleven came in on that Tuesday morning at the other end while the driver was saying it, and about four of them were waiting for a bus of their own, and about four of them have since said that the man on the bus was talking to somebody and they did not know who.
+
+**Nobody has ever asked him who he was talking to and nobody in that shop has ever seen him before, and the fare that came down is on a ticket and the ticket is in a book and the book is in a cab.**
+
+About four of the nine who came in said nothing and stood by the door and then left, and nobody asked them why.
+
+**A fare that came down on a ticket four days of bus travel away and a card that went in a coat pocket at a crate price are the same journey and not the same fact, and nobody at that counter has ever been told either of them.**
+
+The middle one is the one that fills and about nine people came in on the Monday evening for the temperature and about four went out again, and the cook of twenty-seven washed about nine things and made no cup and did not say anything.
+
+**Nobody in that room knew that a fare had come down four days of bus travel away, and about four people in that room have said since that a correct thing is rarer than a wrong one, and the two of them have not been in the same sentence and this one is not going to be.**
+
+*471. Monday of week 174, at about ten on a service road, and this entry is a crate about four kilos light on a ticket said out loud once on a Tuesday morning when it had not been said the last time, a fare that came down, a card gone in a coat pocket last Tuesday and back on the Wednesday with nothing new on it, a price that is still a crate price, a rail holding two cards, nineteen lines on two nails with the newest of them four hundred and thirty-eight days old, and nobody thanked anybody.*
+
+*Conditions and docket.* **Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and his day was a bench in Lattice Ward from about half past seven until about two and a counter from about two until about six, and then a room from about half past six. That shop: a bench, a parts cage with a man who works with his back to the room all day, a shutter, a tool roll with a fourth pocket, a wall list in a plastic sleeve, a shelf of finished work along the far wall, and a rail of about forty card slots along the front of the counter holding two cards. People who came to that counter: about nine, of whom about four were told no to something. The day's work: eleven things, four of them no, and one thing that could be had on Thursday and not before. The dispute, closed on neither side: a card the size of a nail box, a crate of about nine kilos on a ticket, and about five kilos on the scales at the other end, the difference being about four kilos and about four people having collected on the Friday. What the driver did: weighed it himself, and said so once, in about nine seconds, at the shop at the other end, on the Tuesday morning, having not said anything the last time it happened. What that changed: a figure on a ticket, which about four people on that shop floor wrote down correctly, and nothing else. Whether anybody thanked him: no, and the person at that shop said the ticket was the ticket, which was true and was not a thank you. Whether anybody copied it: no, and there is no procedure and it is not a rule and the next time may go the other way. Whether it changed anything for anybody in four towns: no, and the card still went at the crate price and about nine people there still cannot send a thing for nothing. The card: put in the inside pocket of a coat at about ten past nine on the Tuesday, not weighed, not in the hold, and back on the Wednesday with nothing new on it. Rate: nine and ten, uncorrected, told to nobody, and said out loud to one person once in all of it. Heating: on, dearer, four names on a lease dearer still, a fortnight a cook laid out that nobody has repaid and that is not resolved. Room off that service road: seven hundred and forty-two days, and warm, and about nine people came in on the evening for the temperature. Card: seven hundred and forty-six days, four days more than the room, in a rail of about forty slots, and the rail holds two, and the card that travelled is a different object and no sentence in this case may make the two of them one. Two nails, nineteen lines, and no twentieth: the twelve six hundred and sixty-two, the thirteen six hundred and thirteen, the fourteen five hundred and seventy-eight, the fifteen five hundred and fifty-seven, the sixteen five hundred and thirty-two, the seventeen five hundred and fourteen, the eighteen four hundred and sixty, and the nineteen four hundred and thirty-eight. Nothing was added to that board and nothing was removed from it and nothing was rubbed off it. Ring binder: eight things, the woman's page the eighth of the eight, unread. Master's original: fourth pocket, fifth line blank, drawer shut. Exchange: did not sit this week, and stands at fifty-five lines, seventy-three in the tin, thirty-seven announced of which thirty-two correspond, nineteen years, and none of the four was turned into another one on this day. Man of about thirty-three's hold: three hundred and seventy-five days, which is fifty-three weeks and four days, and nothing was asked of him and nothing was given to him in it. Man of about fifty-one: three hundred and forty-eight days, which is forty-nine weeks and five days, and nobody has renewed the asking and nobody stopped it. Nine hand copies: three hundred and eight days, which is forty-four weeks, about eight of the nine unfinished, and the first disagreement in the fourth line not found. Ask: four hundred and thirty-two days, which is sixty-one weeks and five days, counted from the day it was asked and not from any sitting since. Separation: four months and twenty-one weeks, not shorter and not ended, and told to nobody. Times anybody improved on anything: none. Times anybody stood up: none. Times anybody thanked anybody: none. Entry 471.**
+
+*The short crate, as a record of a correct thing done with an ordinary job.* **What it was: a crate of about nine kilos on a ticket and about five kilos on the scales at the other end, the difference being about four kilos, and nobody having done anything wrong, about four people having collected on the Friday. Who found it: the man of about fifty-two who drives the line, who weighed it himself. What he did: said so once, in about nine seconds, at the shop at the other end, on the Tuesday morning. What the last time was: he said nothing, and the company was paid for about four kilos of air, and nobody in this case ever found that out until he said so. What it changed: one figure on a ticket, written down correctly by about four people on a shop floor, and a fare that came down by a figure that is not anybody's wage. What it did not change: the price a card goes at, which is a crate price, and the fact that about nine people in four towns cannot send a thing for nothing, and the fact that nobody in any of those four towns has been told any of this. Whether anybody thanked him: no, and nobody copied it, and there is no procedure and it is not a rule anybody has written down, and the next time a crate is light on that line it may go the other way. Whether he is owed anything: nothing, and nobody in this case has agreed what he is owed. Owner: a set of scales at the other end, and nobody.**
+
+*The card, as a record of an object that went and came back and settled nothing.* **What it is: a piece of card about the size of a nail box with a figure and the word not on it, from a room four feet of shop deep in one of the four towns, which said eleven where the only number written down about any of this says nine. When it went: about ten past nine on the Tuesday of the week before this one, in the inside pocket of a coat, by the driver's own hand, without being asked. Whether it was weighed: no. Whether it went in the hold: no, and about four people at the shop at the other end saw it go into the pocket and none of them said anything. What it cost: a crate price, and the crate price is a price for a crate and not for a card, and the price did not come down because a fare came down on a different ticket. Whether it came back: yes, on the Wednesday of the same week, on the same bus, and it was not folded and it had nothing new on it. Whether anything has been said to the room that wrote it: no, and the room does not know it went and does not know it came back, and the woman who keeps the only written record in that town has not been told and has not asked. Owner: an inside pocket, and nobody.**
+
+*What the day did not touch.* **Nobody read the ninth line in a ring binder and the folded page at the bottom of that binder is where it was on Monday, and the woman's page is the eighth of the eight and is unread. A drawer stayed shut, a pencil box in a street in another district was not opened, and a folder in a weighbridge hut in the working Ashfields was not turned over. The four rooms in four districts of this city have still never met, and the sheet of about nine lines in a room in the second of the four districts is still not on anything and has not been adopted by anybody. The four rooms in four towns have still not been introduced to each other, and three of the four have answered and the fourth has not, and the three answers disagree with each other and one of them is a question. Nine keys are needed and two exist, and the first of the nine still cannot be asked back. Nine doors on a road on the far side of this city are still hanging by one hinge and no wage pays for a mender, and a week that about eleven people lost has not come back to them, and a bar across the inside of a door in each of four buildings in four towns is on nothing and appears in no list of anything. The fortnight a cook laid out is still on nobody's account. The Exchange did not sit this week, its book did not grow, and no number was given into its tin. Nobody died. Nobody thanked anybody. Entry 471.**
