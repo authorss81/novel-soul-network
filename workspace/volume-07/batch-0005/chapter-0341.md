@@ -1,6 +1,6 @@
 # Chapter 341 — Four Hundred Small Decisions
 
-The Monday morning of week one hundred and twenty-two was eleven days after a man of about thirty-three said yes in about four seconds to four buildings and about nine hundred doors, and he has done the work every working day since and he knows what it weighs, and **about nine people in this city can now see that a man of twenty-two is behind, where four of them could see it before this morning, and one of the nine is a person this case has never met and he is not a protagonist of anything.**
+The Monday morning of week one hundred and twenty-two was eleven days after a man of about thirty-three said yes in about four seconds to four buildings and about nine hundred doors, and he has done the work every working day since and he knows what it weighs, and **about nine people in this city can now see that a man of twenty-two is behind, where four of them could see it before this morning, and one of the nine is a person this case has never met and is not a part of any of it.**
 
 ---
 
