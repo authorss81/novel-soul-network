@@ -1,0 +1,88 @@
+# Chapter 479 — Asked To Coordinate, Refused In About Four Seconds, And A Woman Who Named The Price
+
+**The Wednesday of week one hundred and seventy-seven was spent at a bench in Lattice Ward until about two and at a counter until about six, and the one thing that is true of it is that a woman of about thirty-nine who lets offices in the second of the four districts asked him to be the one place four rooms in four towns could put their answers, and he said no in about four seconds with no reason and no condition and no request to come back, and she named the cost out loud, once, to the counter and not to the man, and nobody improved on it and nobody thanked her.**
+
+---
+
+Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and his day was a bench in Lattice Ward until about two and a counter until about six, and then a room from about half past six, and the Exchange did not sit this Wednesday because it sat four days ago and it sits four weeks apart and there was nothing to sit about. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is seven hundred and sixty-five days old and is warm, and about nine people came in on the Wednesday evening for the temperature and none of them was asked anything.
+
+The card in the rail is seven hundred and sixty-nine days old, which is four days more than the room is, and the rail holds two, and a letting office in the second of the four districts is a fifteenth object and is not the card and is not a rail and is not a list of anything.
+
+---
+
+The woman has let offices above four shops in that district for about eleven years. She has a book with the keys in it and a book with the rents in it and neither of those books has a page for anything else, and she has never offered either of them to anybody.
+
+**She said that two of the four rooms in four towns had asked her, separately, over about a month, whether she would be the one place their answers went, and that she had said she would think about it, and that she had thought about it and had come to a counter in this city to ask a third person whether he would do it instead.**
+
+She said that she had not got a name for him and had not wanted one. She said that she had got the address of the shop from a form that one of the four rooms had sent to a company in this city, and that the company had put the address on it, and that this is how she came to be standing at that counter on a Wednesday afternoon.
+
+**Nobody at that counter read the form and nobody asked to, and the man of about fifty-three at that end with a tray has never seen it and has never been asked to.**
+
+She asked him to be the one place. She said it in one sentence and she said it as a practical thing and not as a favour, and what she wanted was for four rooms in four towns to have one address to put things at.
+
+**He said no in about four seconds. He gave no reason and he offered no condition and he did not ask her to come back and he did not say when he might, and about nine seconds of the whole of it were hers and the four were his.**
+
+Nobody said that was reasonable. Nobody said that was not the point. Nobody at that counter has said since that he ought to have said yes and about four people there have said since that he was right to say no, and neither of those groups has said it to him.
+
+**He is not owed anything. Nobody in this city has agreed what he is owed and nobody has asked him and he has not asked, and a refusal of a thing is not a refusal of a person and about four people in that room were there and know the difference and have not said so out loud.**
+
+---
+
+**She named the cost out loud, once, at the end of the counter, to the counter and not to the man, and it was about four sentences long and she said it after the answer and not before it.**
+
+She said that she will do it herself. She said that it is two evenings a week on the top of a full week and that she will do it in the office above the fourth shop because the office is warm and the shop is not. She said that she is not going to raise the rent on any of the four rooms to pay for it, and that the four rooms have not been asked whether they can pay anything at all.
+
+**She said that nobody is going to thank her for it and that she is not asking anybody to, and she said it in the same four sentences and not as a separate thing, and about four people at that counter heard all of it.**
+
+The office above the fourth shop has one window, a desk, a heater that works, and about nine years of rent books on a shelf, and she has said that she will do the two evenings in there and not at home because at home there is somebody else, and she did not say who, and nobody asked.
+
+Nobody at that counter asked her how long she had been doing the letting, and she has been doing it about eleven years, and about four people at that counter have worked in that district their whole lives and had never once thought about where any of the offices above the shops came from.
+
+Nobody at that counter said she was right. Nobody said it was a lot. Nobody offered to do any part of it, and nobody has offered since, and about four people at that counter have said since that a letting office is a strange place for it to land and that it is not strange once you say it out loud.
+
+**She left about ten minutes later with the form in her hand, having put it back in the same envelope, and she did not ask for it back and nobody offered to keep it, and it is on about nine tables in this city and in one of those nine it is in an envelope that has been to a counter in this city and put back.**
+
+---
+
+The fourth of the four towns has a school in it and a room at the end of a corridor in that school, and it is not the school where nine words were said on the Friday in the first of the four towns, and the two schools are about nine miles apart and about four buses apart and nobody has ever been in both.
+
+There were about four people in that room on the Wednesday evening at about seven and a man of about thirty-three who works at the weighbridge in that town was in it and had a weighbridge docket rolled up in his hand because it was still in his pocket from the afternoon.
+
+He said it once, and what he said was nine words long, and what he said was this:
+
+**"Nine minutes and nine seconds are not two answers."**
+
+**He said it while putting the docket down on the table, and about four of the four heard all of it, and one of them has since said that she thought he was talking about the weighbridge, and he has not corrected her.**
+
+Nobody in that room wrote it down. About four people in that school know that room is used on a Wednesday and about nine do not, and the door is not locked and has never been locked.
+
+The room has a noticeboard on the wall with about four notices on it, all of them about the school, and about nine of them have never noticed the board at all, and one of the notices has been up since before anybody in that room was born and is about a lost cat.
+
+**Nobody in that town knows that about nine rooms in four towns have said the same nine words in a fortnight, and the man at the weighbridge has weighed about nine hundred loads in that town and has never once written down how many people are in any of the places the loads came from.**
+
+---
+
+The man of about thirty-seven came in at about half past three and said that the form was on a shelf in a shop in the first of the four districts, on its side, under a box, and that he had put it there in about four seconds and that he did not know why he had told anybody.
+
+**Nobody at that counter said anything about that, and about four people there have said since that a man who does not know why he told you something has not yet decided anything, and none of them has said it to him.**
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature.
+
+In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
+
+A man of about fifty-one with a tool bag was at the wall and had said nothing for about fifty-three weeks. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room and is not in this city, and his hold went on for about fifty-six weeks and six days without anything being asked of him and without anything being given to him.
+
+
+**Nobody in that room knew that a letting office in the second of the four districts is going to be the one place four rooms put their answers, and nobody knew that the man who was asked to be it said no, and neither of those two people has been introduced to any of the four rooms and is not going to be.**
+
+*482. Wednesday of week 177, at about ten on a service road, and this entry is a request to coordinate refused in about four seconds, a cost named out loud by the person who asked, a letting office above a fourth shop that will be the one place, nine words said once in a corridor in a school four buses away, a rail holding two cards, nineteen lines on two nails with the newest of them four hundred and sixty-one days old, and nobody thanked anybody.*
+
+*Conditions and docket.* **Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and his day was a bench in Lattice Ward until about two and a counter until about six, and then a room from about half past six. That shop: a bench, a parts cage with a man who works with his back to the room all day, a shutter, a tool roll with a fourth pocket, a wall list in a plastic sleeve, a shelf of finished work along the far wall, and a rail of about forty card slots along the front of the counter holding two cards. People who came to that counter: about nine, of whom about four were told no to something, and one of the nine was refused something else. The day's work: eleven things, four of them no, and one thing said to a counter and not to a man. The rate: nine and ten, uncorrected, told to nobody. The heating: on, dearer, four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved. The room off that service road: seven hundred and sixty-five days old, four rooms and a back one, warm. The card in the rail: seven hundred and sixty-nine days old, four days more than the room, in a rail that holds two, and it does not leave the rail. The hardboard, two nails: the twelve lines six hundred and eighty-five, the thirteen six hundred and thirty-six, the fourteen six hundred and one, the fifteen five hundred and eighty, the sixteen five hundred and fifty-five, the seventeen five hundred and thirty-seven, the eighteen four hundred and eighty-three, and the nineteen four hundred and sixty-one, and the nineteen is the only line on that board that has ever had a zero and it has none now. The wall: unchanged, no line added, no line rubbed off, no twentieth line. The ring binder: on a shelf in that room, taken down and put back without being opened. The woman's page: the eighth of eight things in that binder, unread, and nobody has asked her a question about it and nobody has apologised to her. The master's fifth line: blank. The Exchange: the book at fifty-six lines and the tin at seventy-three and a count announced of thirty-eight of which thirty-third correspond, nineteen years, and none of the four is convertible into another and the difference between the first two is not a number, and it did not sit this Wednesday because it sat four days ago and it sits four weeks apart. The hold: three hundred and ninety-eight days, which is fifty-six weeks and six days. The man of about fifty-one: three hundred and seventy-one days, which is fifty-three weeks. The nine hand copies: three hundred and thirty-one days, which is forty-seven weeks and two days, and about eight of the nine are unfinished and the first disagreement in the fourth line has not been found. The ask: four hundred and fifty-five days, which is sixty-five weeks, counted from the day it was asked and never from any sitting since. The separation: four months and twenty-four weeks and two days, not shorter and not ended. The woman of about thirty-nine: asked, was refused in about four seconds with no reason and no condition and no request to come back, and named the cost out loud once, to the counter and not to the man, being that she will do it herself, that it is two evenings a week on the top of a full week, that she is not raising the rent on any of the four rooms, and that nobody is going to thank her and she is not asking anybody to. Whether the four rooms in four towns have been introduced to each other: no. Whether anybody thanked anybody: no. Owner: a Wednesday, and nobody.**
+
+*A request refused, as a record of four seconds and a cost named afterwards by the person who asked.* **Who asked: a woman of about thirty-nine who lets offices above four shops in the second of the four districts, who has a book of keys and a book of rents and has never offered either to anybody, and who had been asked separately by two of the four rooms in four towns to be the one place their answers went. How she came to the counter: off a form that one of the four rooms had sent to a company in this city, and the company put the address on it, and she did not get a name and did not want one. What she asked for, in one sentence: for four rooms in four towns to have one address to put things at. What he said: no, in about four seconds, with no reason and no condition and no request to come back, and about nine of the seconds of the whole of it were hers. What she named out loud, once, at the end of the counter, to the counter and not to the man, after the answer: that she will do it herself, that it is two evenings a week on the top of a full week, that she will do it in the office above the fourth shop because the office is warm, that she is not going to raise the rent on any of the four rooms to pay for it, and that the four rooms have not been asked whether they can pay anything at all, and that nobody is going to thank her and she is not asking anybody to. Whether anybody said she was right: no, and nobody said it was a lot, and nobody offered to do any part of it. Whether anybody thanked her: no. Where the form went: back in its envelope, and it is on about nine tables in this city. Owner: an office above a fourth shop, and nobody.**
+
+*Nine words in a corridor four buses away, as a record of a sentence said once and heard wrongly.* **Where: a room at the end of a corridor in a school in the fourth of the four towns, on the Wednesday evening at about seven, with about four people in it. Who said it: a man of about thirty-three who works at the weighbridge in that town, with a docket still rolled up in his hand. How many words: nine. What they were: nine minutes and nine seconds are not two answers. How many heard all of it: about four. What has happened since: one of the four has said that she thought he was talking about the weighbridge, and he has not corrected her, and she is the only one of the four who has said anything. Whether it was written down: no, and the door is not locked and has never been locked. Whether that room knows about the room at the end of a corridor in the school in the first of the four towns: no, and the two schools are about nine miles apart and about four buses apart and nobody has been in both. Whether anybody improved on it: no. Owner: a corridor, and nobody.**
+
+*What the day did not touch.* **Nobody read the ninth line in a ring binder and the folded page at the bottom of that binder is where it was on Wednesday, and the woman's page is the eighth of the eight and is unread. A drawer stayed shut, a pencil box in a street in another district was not opened, and a folder in a weighbridge hut in the working Ashfields was not turned over. The four rooms in four districts of this city have still never met, and the sheet of about nine lines in a room in the second of the four districts is still not on anything and has not been adopted by anybody. The four rooms in four towns have still not been introduced to each other, and two of the four have now separately asked one letting office to be a place, and that office has not been introduced to the other two rooms and has not told either of them. Nine keys are needed and two exist, and the first of the nine still cannot be asked back. Nine doors on a road on the far side of this city are still hanging by one hinge and no wage pays for a mender, and a week that about eleven people lost has not come back to them, and a bar across the inside of a door in each of four buildings in four towns is on nothing and appears in no list of anything. A printed form is on about nine tables in this city and its second column is empty in every one of them, and one of those nine is on a shelf under a box in a shop and the man who put it there does not know why he told anybody. The fortnight a cook laid out is still on nobody's account. The Exchange did not sit this week, its book did not grow, and no number was given into its tin. Nobody died. Nobody thanked anybody. Entry 482.**
