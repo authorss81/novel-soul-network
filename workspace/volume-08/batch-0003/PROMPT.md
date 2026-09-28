@@ -42,7 +42,7 @@
 | 359 | 131 | Wednesday | 805 | 362 |
 | 360 | 131 | Thursday | 806 | 363 |
 
-**Chapter 351 to Chapter 360 is seventeen days. Chapter 350 to Chapter 351 is five. Chapter 354 is four days after Chapter 353 and Chapter 355 is three days after Chapter 354. Chapter 360 is two days before the Monday of week one hundred and thirty-two, which is Chapter 361 and is not this movement's.**
+**Chapter 351 to Chapter 360 is seventeen days. Chapter 350 to Chapter 351 is five. Chapter 354 is one day after Chapter 353 and Chapter 355 is three days after Chapter 354. Chapter 360 is four days before the Monday of week one hundred and thirty-two, which is Chapter 361 and is not this movement's.**
 
 **THE COLLISION REGISTER, AND ONE OF ITS FOUR ENTRIES IS IN THIS MOVEMENT.** At Chapter 357, day 800: **the card in a rail is 442 days old, which is the anchor day of the twelve lines, and the twelve lines are 358 days old, which is the anchor day of the card.** Both figures are printed in the calendar's section 5.3 with the arithmetic. **In prose both are spelled out in words and neither may be printed in a form that could be read as a date, and no chapter in this volume prints a day number at all.**
 
