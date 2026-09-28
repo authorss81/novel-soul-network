@@ -1,4 +1,14 @@
-# VOLUME 10 — BATCH 0005 — CONTINUITY AFTER MOVEMENT V, CHAPTERS 491 TO 500, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
+# LIVE — CONTINUITY AT CHAPTER 500, COMPACT, DATED AFTER EVERYTHING BELOW
+
+**Volume 10 is closed. The next phase is `workspace/volume-11/batch-0001/PROMPT.md`. Everything below the figures is history and is kept for the arithmetic, not for the state.**
+
+- **The four free series, at day 1204:** the room **842** (anchor 362, card − room = {4}); the card in the rail **846** (anchor 358, the rail holds two of about forty slots, and the card never left it on any of the fifty days); the hardboard's nineteen lines **538** (anchor 666, the only line on that board that has ever had a zero and has none now); the hold of the man of about thirty-three **475** (anchor 729, and man-of-fifty-one − hold = {−27}).
+- **The ask:** 532 days, seventy-six weeks, counted from the day it was asked and never from any sitting since.
+- **The Exchange:** the book at fifty-eight lines, the tin at seventy-three, the count announced at forty-one of which thirty-six correspond, nineteen years, on four-week Wednesday spacing. The chair against the wall did not move and its mover is not named. No conversion of the four figures, and the difference between the book and the tin is never printed as a number.
+- **Untouched and to stay untouched:** the licensor, the field and the master's fifth line; the ring binder and the woman's page in it, which is the eighth of eight and unread; the folder face up in a weighbridge hut; the pencil box in a street in another district; the four rooms in four districts of this city, which have never met; three rooms in four towns, which have never met; the four hand copies of nine lines, none ever compared with any other.
+- **Repaired during the review, and the reason the next writer needs it:** `outline/volume-10.md` carried a week table five days out from week 172 onward, which contradicted its own rule 6 and would have put the thirty-sixth sitting in week 187. It is repaired, the superseded text is quoted in the line, and the detector above is the authority.
+
+# VOLUME 10 — BATCH 0005 — CONTINUITY AFTER MOVEMENT V, CHAPTERS 491 TO 500, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK — SUPERSEDED BY THE COMPACT LIVE BLOCK ABOVE, KEPT AS HISTORY
 
 **Ten chapters at `workspace/volume-10/batch-0005/chapter-0491.md` to `chapter-0500.md`, entries 494 to 503, days 1153 to 1204, weeks 181 to 188, in which weeks 185, 186 and 187 carry no chapter and that is the map. VOLUME 10 IS CLOSED at Chapter 500 and its close is `workspace/volume-10/batch-0005/VOLUME-CLOSE.md`. The plan of record is `outline/volume-10.md` and the day map and the fourteen series are `workspace/volume-10/ARITHMETIC-AND-CALENDAR.md`, whose section 6 is now written.**
 

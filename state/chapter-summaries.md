@@ -1,4 +1,23 @@
-# VOLUME 10 — BATCH 0005 — MOVEMENT V (Chapters 491–500) — CHAPTER SUMMARIES, ENTRIES 494 TO 503, DAYS 1153 TO 1204, WEEKS 181 TO 188 — DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
+# LIVE — CHAPTERS 491 TO 500 IN ONE LINE EACH, COMPACT, DATED AFTER EVERYTHING BELOW
+
+**Volume 10 is closed. The next phase is `workspace/volume-11/batch-0001/PROMPT.md` and its first chapter is 501, the Thursday of week 188, day 1205, entry 504. The eight-column rows are below in the house form; the one-line version is here so that a writer can find a day without scrolling a 192 KB file.**
+
+| Ch | Day | Week | Entry | The one thing that makes the day that day |
+| --- | --- | --- | --- | --- |
+| 491 | 1153 | 181 | 494 | three people in a kitchen read three things out loud and write none of them down |
+| 492 | 1155 | 181 | 495 | a company offers one address for a form with a second column and a Friday morning |
+| 493 | 1156 | 181 | 496 | a haulier names the cost of her no out loud; a rent-book keeper is asked a third time |
+| 494 | 1157 | 181 | 497 | the ninth Friday, about nine minutes, and a van driver's question about the second column |
+| 495 | 1160 | 182 | 498 | a floor comes up over a cold pipe and finds a plate of iron with four bolts in it |
+| 496 | 1162 | 182 | 499 | the same three things in three rooms in one morning, and a fourth thing said once |
+| 497 | 1164 | 182 | 500 | thirty-six hours refused in nine seconds, and a name on a sheet in a drawer in a van |
+| 498 | 1167 | 183 | 501 | a right number said out loud that will change nothing, and nine words about a key |
+| 499 | 1176 | 184 | 502 | the thirty-fifth sitting, and a line goes into the book about a cold tap |
+| 500 | 1204 | 188 | 503 | the thirty-sixth sitting, and a line goes into the book about a wet bench |
+
+**Weeks 185, 186 and 187 carry no chapter. That is the map and not a gap, and Volume 09's map has the same shape in the same place. The chapter-by-chapter account of what the review repair changed in each of the ten, and what it cost the lead, is at `workspace/volume-10/batch-0005/SUMMARY.md` section C.**
+
+# VOLUME 10 — BATCH 0005 — MOVEMENT V (Chapters 491–500) — CHAPTER SUMMARIES, ENTRIES 494 TO 503, DAYS 1153 TO 1204, WEEKS 181 TO 188 — DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK — SUPERSEDED BY THE COMPACT LIVE BLOCK ABOVE, KEPT AS HISTORY
 
 **Ten rows at `workspace/volume-10/batch-0005/chapter-0491.md` to `chapter-0500.md`, in the eight-column form its neighbours use. The plan of record is `outline/volume-10.md` and the day map and the fourteen series are `workspace/volume-10/ARITHMETIC-AND-CALENDAR.md`. Every figure in the fifth column is `day − anchor` from that section 1 and was walked against the load-book rows and against the narration after the files were written; 140 of 140 reproduce. VOLUME 10 IS CLOSED at Chapter 500.**
 
