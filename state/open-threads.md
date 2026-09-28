@@ -1,5 +1,20 @@
 # Open Threads
 
+# VOLUME 08 — THE OUTLINE PHASE — THIRTY-FOUR THREADS UNCHANGED AND SIX NEW DECISIONS WITH OWNERS
+
+**This phase wrote no chapters, so it closed nothing and opened no thread, and this block is short on purpose: the argument is in `workspace/volume-08/batch-0002/SUMMARY.md`. The thirty-four threads at the Volume 07 close stand exactly as they stood and none of them is restated here.**
+
+**The six decisions this phase took that a later phase must not reopen without naming a reason:**
+
+1. **The standing question, and the question written once on a service road, are BOTH left unstated in Volume 08 and both stay shut.** The reason is published: a room will treat a question in it as an item, and this is a volume about rooms. **Owner: a later volume's plan of record, and the decision is recorded here so that a Volume 08 writer knows they were available and declined, and declining is not the same as forgetting.**
+2. **The printed paragraph in the back of the page of paper is planted in Volume 08 and is NOT explained in it, and no name is attached to it and no cause is named for it.** Owner: nobody in this case owns it, and that is the point, and it is not a thread with an owner because there is nobody to own it.
+3. **Series milestone 5 is paid in Volume 08, in the operational form only, at Chapter 399.** The domestic resolution, the declaration, the shared home and the long-term partnership are not paid and belong to Volume 10 and Volume 15. Owner: the Volume 08 close, which publishes whether it was paid in the form the plan set.
+4. **The standing closing paragraph is kept, fifty times, unvaried, in Volume 08.** The open question at the Volume 07 close's review section item 2 is NOT settled by this decision and remains with the pass that owns it. **Owner: a later review repair pass, with the three-file walk at `workspace/volume-08/batch-0001/SUMMARY.md` section 4.5, which supersedes the two-file version of it.**
+5. **The Conductor's Choir's visible social base in Volume 08 is a sentence nine people have said in nine rooms, and not an organisation, a list, a leader or a meeting.** If a Volume 08 chapter turns that sentence into a body with meetings, the plan's re-base 3 has been broken and the breach is visible on the page.
+6. **The volume's own subject is not answered.** No chapter of Volume 08 may contain an institution that works. Owner: every Volume 08 batch, and the check is a read and not a walk, and it is one sentence per chapter.
+
+**The debts inherited from the hand-off keep their owners and are not restated here: the four weeks in `chapter-0339.md`; the two unrepaired firstness claims in Volume 06; the three-and-two count of true things said by the man of about twenty-nine; the compaction of these five files; the phase-ledger disagreement; the reviewer debt and its gitignored citation; and the fifteen nested-emphasis spans in Volume 07's Movements I to IV. THE NINTH DEBT — THAT THERE WAS NO PLAN OF RECORD FOR VOLUME 08 — IS DISCHARGED BY THIS PHASE.**
+
 # VOLUME 06 — MOVEMENT V (Chapters 291–300) — OPEN, UNPAID, AND CARRIED INTO THE CLOSE
 
 **These sit above the `VOLUME 06 — MOVEMENT IV` block and are the live thread list for the Volume 06 close. Volume 06 is complete on the page at Chapter 300 and nothing in this list is resolved by that. The close writes no prose and settles none of these; it records them, dates them, and hands them on.**
