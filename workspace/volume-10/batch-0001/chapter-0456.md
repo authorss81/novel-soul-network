@@ -1,4 +1,4 @@
-# Chapter 456 — A Woman Of About Forty-One Who Counted The Counter Herself
+# Chapter 456 — A Woman Of About Forty-Nine Who Counted The Counter Herself
 
 The Wednesday of week one hundred and seventy was spent at a bench in Lattice Ward until about two and at a counter until about six, and the one thing that is true of it is that **a woman of about forty-nine came off the morning bus with a shopping list in her hand, counted about nine people at a counter in about six hours on her own without asking anybody, wrote it on the back of the list, was refused the names of everybody in this case in about nine seconds, and said out loud that a room of about nine people would read that as contempt, and nobody improved on it and nobody thanked her.**
 
