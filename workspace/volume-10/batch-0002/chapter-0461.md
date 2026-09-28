@@ -48,7 +48,6 @@ The only number that has ever been written down about any of this is the nine. I
 
 He said nothing about it to anybody. He did not write it down. The docket is the only account of the day and it is not sent to anybody and it has no column for what a piece of paper is about.
 
-
 The eleven words are the same eleven words in all four places and they are not the eleven words on the ninth line of the sheet, and the two sets of eleven were arrived at separately by people who have never spoken and never will.
 
 **The question on the ninth line of that sheet asked how many. The eleven words ask how many and who it is that you would like to be able to say it to, and the second half of them is the part that nobody in any of the four towns has ever heard before.**
@@ -79,7 +78,6 @@ Nobody at that counter enjoys it. There is nothing in this case to enjoy and nob
 Nobody said that was generous. Nobody said that was not the point. Nobody named a person who should have asked him and nobody named a person who should have answered him, because there is nobody in this case who can be named as the person to ask.
 
 **He went back to his van and the four vans went to the four places on the Thursday and he told nobody anything and he has not mentioned it since and is not going to.**
-
 
 Nobody said that four vans going to four places is a network and nobody said that it is not one either, and the four places are places his vans go and not rooms anybody has introduced him to, and he has never been inside any of the four and he was not asked to be.
 

@@ -22,7 +22,6 @@ The card would weigh nothing. The card would go in a coat pocket. The card would
 
 The man of about fifty-two who drives the line knows this and has never had to explain it before, because nothing has ever come off one of those buses that was lighter than a crate and wanted to go in the other direction.
 
-
 The telephone call was about four minutes long and it was made from a call box because the room has no line, and the woman who made it read the eleven words off a piece of paper and then read the number on the price card out of a book, and neither of those two things is on anything.
 
 **She did not know what a crate price was. She knew the figure because somebody in that town had told her the figure, and nobody in that town knows who told her, and the figure had been a figure in a book in a cab in this city since long before anybody made that call.**
@@ -51,7 +50,6 @@ What he said about the crate, once, at the end of the counter, to the counter an
 Nobody said that a card was more important than a part. Nobody said that a part was more important than a card. Nobody said that a bus is not the place to carry either.
 
 **Nobody said the price was fair and nobody said the price was not fair, and about four people at that counter over the day have formed an opinion about it, and none of the four has said it out loud and none of the four is going to.**
-
 
 He counted his stops on the back of his hand at about half past four while he was talking and nobody asked him what he was counting and he did not say, and it was nine, and it is nine on a Tuesday and it is not nine on a Thursday because he does not run a Thursday.
 

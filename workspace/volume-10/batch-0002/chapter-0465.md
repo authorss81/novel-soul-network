@@ -20,7 +20,6 @@ The eight lines on the front of it are a list a room made for itself. The ninth 
 
 **And the two lines that came back on the front of it in a different hand say four hundred of them, and, in a second line underneath, four hundred rooms.**
 
-
 The drawer it is in is the second drawer under a table in a kitchen and it is not locked and there are about nine other things in the drawer that are not it, and nobody in that kitchen has ever asked why a piece of paper is in with the string and the fuses.
 
 **About nine people have read that sheet and about four of them have read it more than once, and one of those four has read the back of it and not the front and thinks the whole thing came out in a burst of handwriting rather than three people at a month apart.**
@@ -51,7 +50,6 @@ The room has about nine people in it. That is what about four people who have be
 Nobody in that room has been asked to count. Nobody in that room was told that anybody wanted a number. The person who asked the question waited about nine seconds and wrote down what was said and neither of them knows that the nine words came out of this city.
 
 **The first room counted and said eleven. The second room read and said nine. They are in two towns and neither of them has heard of the other, and the second one is the only one of the four that is right, and it is right because of a piece of paper and not because of anything anybody in it did.**
-
 
 The person who put the question in that room waited about nine seconds and wrote down what was said and put a full stop after it, and did not ask it a second time, and did not say where the words had come from, and was not asked.
 

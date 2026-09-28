@@ -20,7 +20,6 @@ The chairs were stacked against the wall when the first person came and were uns
 
 About eleven people came, which is the same figure as the two Fridays before and is a figure and not a rate, and about four of the eleven are on no rota at all, and that has been the case in this city for a long time and is not on a form and is not a form.
 
-
 The fire door at the far end has a folded sheet of paper propping it and it has been the same folded sheet of paper for as long as about four people on that floor can remember, and the grey mark on the floor under it is the shape of the fold and not the shape of the door.
 
 **Nobody has ever replaced the sheet of paper and nobody has ever moved the mark, and the mark is not on any cleaning list in that building, and there is no list of cleaning in that building that anybody has read.**
@@ -60,7 +59,7 @@ He did not ask anything this week. About four people on that floor have noticed 
 
 The two halves of that are one figure and not two. It is an age and it is a day and they are the same number, and a person reading it is holding the age of a line and the day it went on in one token and there is no second number to hold it against.
 
-**The fourteen lines are five hundred and sixty-eight days old on the same Friday, and five hundred and sixty-eight is not a day anything on that board was written and is not a figure about any other series, and the two lines above and below it are five hundred and twenty-two and five hundred and three, and neither of those is anybody's day either.**
+**The fourteen lines are five hundred and sixty-eight days old on the same Friday, and five hundred and sixty-eight is not a day anything on that board was written and is not a figure about any other series, and the two lines either side of it are six hundred and three and five hundred and forty-seven, which are the days those two were written, and five hundred and sixty-eight is neither of them.**
 
 The sixteen lines are five hundred and twenty-two days old and the seventeen lines are five hundred and four days old and the eighteen lines are four hundred and fifty days old and the nineteen lines are four hundred and twenty-eight days old, and the thirteen lines are six hundred and three, and the twelve are six hundred and fifty-two, and none of those seven is a day that anything on that board was written.
 

@@ -28,10 +28,10 @@ He did not expect to be thanked and nobody at that shop thanked him and nobody h
 
 **Nobody improved on it. Nobody copied it. Nobody has been told how to do it and there is no procedure and it is not a rule anybody has written down, and the next time a crate is light on a ticket on that line it may go the other way and the man who drives it will be a different man or the same one and nobody is going to write it down either way.**
 
-
 He did it in about nine seconds and he did it while the engine was running and he did it to a person who had about four other people waiting, and the person wrote the new figure down without arguing and without asking why it was different this time.
 
 **About four people on that shop floor have said since that the ticket was lighter than usual, and about four of them have said it in a tone, and none of them has said the reason out loud and none of them knows it.**
+
 **And it changed nothing. The card went at the crate price and the crate price is the crate price. The about nine people in four towns still cannot send a thing for nothing and did not know they could not before the fare came down and do not know it now. Nothing was adopted and nothing was agreed and nobody improved on the other three of anything.**
 
 ---
@@ -42,11 +42,11 @@ It was put in the pocket by the driver himself on the Tuesday, without being ask
 
 **The card that came back said the same thing it said when it went out, which is a number and the word not after it, and the number is not this city's number and the room that wrote it has not been told that a card arrived anywhere.**
 
-Nobody told the room. Nobody in that town knows the card went and came back in four days and cost a crate price, and the woman who keeps the only written record in that town has not been told either, and she carried the question and she lost two days of work over the price and neither of those facts has changed.
+Nobody told the room. Nobody in that town knows the card went on the Tuesday, came back on the Wednesday, and cost a crate price, and the woman who keeps the only written record in that town has not been told either, and she carried the question and she lost two days of work over the price and neither of those facts has changed.
 
-The card came back in the inside pocket of the same coat and it was put on the counter of that shop in the four places at about ten past two on the Wednesday, and it was left there until the Friday, and it is still there.
+The card came back in the inside pocket of the same coat and it was put on a counter in this city at about ten past two on the Wednesday, and it was left there until the Friday, and it is still there.
 
-**Nobody has written anything about it. There is no docket in that town and no book and no sheet and no column, and a card on a counter in a shop four days of bus travel away is not a record of anything and is not going to become one.**
+**Nobody has written anything about it. There is no docket in that town and no book and no sheet and no column, and a card on a counter in this city is not a record of anything and is not going to become one.**
 
 ---
 

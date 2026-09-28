@@ -18,7 +18,6 @@ It was asked the same eleven words by a person with an ordinary job who had been
 
 That is the whole of the third of the four answers. It is not a number and it is not a refusal and it is not a joke, and the person who put the question wrote it down and carried it back, and the nine words are the only one of the four sets of nine words that is made of a question.
 
-
 The corridor at the end of that school is about nine doors long and about four of the nine are classrooms on a Wednesday evening and the room at the end is the one with the outside door, and about four people are in it and about nine come in a term.
 
 **The person who put the question there stands in that corridor and says the eleven words to whoever opens the door, and has done it once, and did not go back, and about four people in that town know it was asked and none of them knows what the answer was.**
@@ -53,7 +52,6 @@ She said about nine.
 Nobody said nine what. Nobody said the room. Nobody said that a room off a service road in this city has about nine people in it on a Monday evening, and the woman who said it was not asked to explain where she had heard it and did not explain.
 
 **He did not thank her. She did not wait to be thanked. Neither of them said the word, and about four people at that counter over the day did not know the exchange had happened, and the parts cage man worked with his back to the room the whole of it.**
-
 
 She has been on that round for about four years and she takes in about nine doors on that service road and one of the nine is a converted shop unit with a door that does not close in the wet, and she has knocked on that door about nine times a week for four years and has never been past the second one.
 

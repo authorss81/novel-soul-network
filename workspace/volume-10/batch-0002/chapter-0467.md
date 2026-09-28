@@ -22,7 +22,6 @@ The post by the corridor end is bare forty-one weeks, which is two hundred and e
 
 **The card is still in it and the number on the card is still the number and the box is at the same height on the same wall, and the second box at the near end of the same corridor is still not empty, and the two are about nine feet apart and nobody in that building has ever been asked whether they are a set.**
 
-
 The second box is a different colour and it is a different make and it is about nine feet from the first, and it has something in it most Fridays, and nobody in that building has ever put anything in the first one while somebody was standing there.
 
 **About four people on that floor have looked at the first box in passing for years and about four of them have looked at the second one and thought about the first one, and none of the four has ever said the thought out loud to anybody.**
@@ -41,7 +40,6 @@ The woman who supplies the training said one word at the front and pointed and d
 Nobody has ever asked him for either number. Nobody has ever asked him which room either of them is for. Nobody has ever asked him why he wrote them down at all, and about four people on that floor have wondered since what the two figures are, and none of them has said anything to him and none of them is going to.
 
 **The two figures have been in the same breath once and they have never been in the same sentence, and the person holding both of them does not know which of them is which room, and the person who gave them does not know that anybody does not know. Two counts of the same eleven is a fact about a Friday and not about a company, and this case has no instrument for the difference and says so rather than making one up.**
-
 
 The woman of about thirty-six who gave them is about four feet from him when she gives them and she does not lean in and she does not lower her voice, and about nine people are in the room and about four of them are close enough to have heard.
 
@@ -76,7 +74,7 @@ The middle one is the one that fills and about four people came in on the Friday
 
 Nobody in that room knew that a man had stopped asking questions in a building in another district, and about four people in that room have said since that a quiet week is a week somebody has had, and nobody has asked who.
 
-**The rail at the end of that counter holds two cards and has held two for about eight years, and the man of about fifty-three at that end of it does not know that a post four days of bus travel away has been bare for forty-one weeks, and has never asked what the cards in that rail are for.**
+**The rail at the end of that counter holds two cards and has held two for about eight years, and the man of about fifty-three at that end of it does not know that a post in another building in this city has been bare for forty-one weeks, and has never asked what the cards in that rail are for.**
 
 *470. Friday of week 173, at about ten on a service road, and this entry is about eleven people in a room on a second floor for about nine minutes, a post by the corridor end bare forty-one weeks which is two hundred and eighty-seven days, a man of about thirty-nine who asked nothing for the first time in four Fridays, two figures in biro on the back of a left hand that have never been next to anything, a rail holding two cards in a shop on the other side of this city, and nobody thanked anybody.*
 

@@ -18,10 +18,10 @@ The woman of about thirty-four who keeps the only written record in one of the f
 
 She did not argue. She did not ask it a second time and she did not ask a different question instead, and about four people who were in that room have said since that the woman was not rude and was not trying to be clever, and about four people in it have said that they would have said the same thing.
 
-
 The room is at the back of a hall and the hall is used for something else on a Wednesday and the room is the room you get when you take the corridor past the kitchen, and about four people are in it and the other about nine of the year are the same four.
 
 **The person who spoke for that room is not its secretary and holds no post and has never been asked to speak for it and was speaking because the woman was standing in the doorway and the question was asked at her and not at anybody else.**
+
 **Nobody said she was wrong. Nobody said the room was being difficult. Nobody said it would come round. Nobody wrote down what the room said and nobody repeated it to anybody, and the woman who heard it has not told the other three rooms and has not been asked to and will not.**
 
 ---
@@ -34,14 +34,13 @@ The second is about nine of us, one room, Wednesday evenings, only, in about nin
 
 The third is who is asking, nobody has said who is asking, in about nine words, from a room at the end of a corridor in a school, and it is the only one of the four that is a question.
 
-The fourth is no, nobody counts us and we are not a number, in about nine words, from a room at the back of a hall on a Thursday, and it is the only one of the four that is a refusal.
+The fourth is no, nobody counts us and we are not numbers, in about nine words, from a room at the back of a hall on a Thursday, and it is the only one of the four that is a refusal.
 
 **One of the four counted. One of the four read. One of the four asked. One of the four said no. The only one of the four that anybody in this case can say is right is the one that did not count, and the only one of the four that has never produced a figure at all is the one that said no.**
 
 ---
 
 **No two of the four rooms knows that the other three exist. Two of them have spoken, in one direction only, and the other two have not spoken to anybody. Nobody has introduced them. There is no list, no sheet, no address, no envelope, no telephone number held by anybody who has called it, and there is no column anywhere for four.**
-
 
 There is one woman who has been to three of the four and she has kept the only written record in the town she lives in for about two years, and the record is a hardback notebook with about nine things in it that are about that room and not about the other three.
 
@@ -64,7 +63,7 @@ In the chair nearest the door was a woman of about thirty whom nobody asked a qu
 
 A man of about fifty-one with a tool bag was at the wall and had said nothing for about fifty weeks. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room and is not in this city, and his hold went on for about fifty-three weeks and six days without anything being asked of him and without anything being given to him, and it is going to go on.
 
-**The woman of about thirty in the chair nearest the door has been in that room on every one of the ten days of this fortnight and has not been asked a question on any of them, and the page that is hers is the eighth of eight things in a ring binder and it is unread, and the fortnight the cook of twenty-seven laid out is on nobody's account and has not been mentioned in that room since the last time it was mentioned, which is not this week.**
+**The woman of about thirty in the chair nearest the door has been in that room on every one of the nine days since the Monday of the week before last and has not been asked a question on any of them, and the page that is hers is the eighth of eight things in a ring binder and it is unread, and the fortnight the cook of twenty-seven laid out is on nobody's account and has not been mentioned in that room since the last time it was mentioned, which is not this week.**
 
 Nobody thanked anybody. The shutter came down at about ten.
 
