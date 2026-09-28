@@ -1,0 +1,67 @@
+# Chapter 435 — A Telephone In A Corridor, Nine Seconds, And What It Cost To Stay Late
+
+The Monday of week one hundred and fifty-nine was spent at a bench in Lattice Ward until about two and in a corridor in Crown Terrace at about five and from about half past six in one room off a service road, and the one thing that is true of it is that **a telephone rang in a corridor and a voice he did not know said one sentence in about nine seconds about a man and an answer, and nobody in that corridor heard it, and about four people in this case have since been told that somebody said something and none of the four knows what it was, and a man of about thirty in overalls named what staying late has cost him.**
+
+---
+
+Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and thirty-seven days old and is warm, and about nine people came in on the Monday evening for the temperature and none of them was asked anything.
+
+The card in the coat pocket is six hundred and forty-one days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card’s age does not stop because a card has been picked up, and the rail at the end of the counter in the other building holds one card where it held two before that Wednesday.
+
+---
+
+The corridor is on the second floor with about nine doors along it and a window at the far end and a telephone on the wall by the stair. The light in it is the same stairwell light a man once mentioned on a Friday.
+
+He had gone up to leave a note for the man of about thirty-nine who buys training and found the floor empty. The run was not on and the chairs were against the wall.
+
+At about five the telephone rang. Nobody else was in the corridor. The doors along it were shut.
+
+He lifted it and said nothing. A voice he did not know spoke, and the voice was not young and not old and not from this city as far as he could tell, and it said one sentence and stopped.
+
+"**A man who cut himself in half to stop one answer going through is the argument for one answer going through.**"
+
+It took about nine seconds. The voice did not give a name and did not say where it was calling from and did not ask for anything to be written down. It did not sign.
+
+**Nobody in that corridor heard it. The doors stayed shut. The stair was empty. About four people in this city use that stair in a week and none of them was on it.**
+
+He put the receiver back and stood there for about four minutes. He did not write the sentence down. He did not telephone anybody about it.
+
+---
+
+At about half past six he walked four miles to the room. A cook of twenty-seven was at the sink saying nothing. In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Monday.
+
+A man of about fifty-one with a tool bag was at the far end of the room and had said nothing for about thirty-four weeks and five days, and nobody had renewed the asking and nobody had stopped it. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp and no reference and no date, was not in that room on Monday, and his hold went on for about thirty-eight weeks and four days without anything being asked of him and without anything being given to him.
+
+A man of about thirty in overalls who works on a floor in Crown Terrace was in that room on Monday, which is not his usual evening, and he had stayed late on the Friday before to put the chairs up after the run and had missed his bus and paid for a car home.
+
+Then he said it, unasked, in about nine seconds, to nobody in particular, in his own words, and it was about the car and not about anything else in that room.
+
+"**I stayed to put the chairs up and I missed my bus and the car was on me.**"
+
+Nobody asked him about it. Nobody thanked him. Nobody said he should not have stayed. Nobody improved on it.
+
+**He is owed nothing and he is not in anybody’s case and the car home is his to have paid for and nobody in that room asked him to pay it.**
+
+---
+
+He told about four people in this case that somebody said something on a telephone in a corridor on Monday. He told the cook at the sink and the man at the far end of the bench and two others on the way home. He did not tell any of the four what it was.
+
+About four people have been told that somebody said something and none of the four knows what it was, and the two groups have not met to compare, because there is only one group and it knows only that something was said.
+
+**He is not going to be asked what it was and nobody has asked him, and a person who has been told that somebody said something has not been told anything.**
+
+Two nails in that room carried nineteen lines and the newest of them is a lift mechanic’s, eleven words, signed, about the middle, and it is the only promise on that board and it is three hundred and thirty-three days old, and nothing was added to it and nothing was removed from it and nothing was rubbed off it.
+
+**A card in a coat pocket is a piece of card about the size of a playing card with a place-name on one side and a week-number with nothing after it on the other, in a hand that is not the hand of the man carrying it, and it is not a ticket and it is not a key and it opens nothing and it has no title and no office and nothing on the back of it. The wall list in its plastic sleeve in the repair shop in Lattice Ward is a fourth object and has never been on two nails. The hardboard is a fifth. The master’s original is in a fourth pocket in a tool roll with a blank fifth line and a drawer that is shut. The page of paper with about eleven lines in it is a sixth, in a fourth building. The sheet of about nine lines in a room in the second of the four districts is not any of the others. The telephone on a wall in a corridor is not any of the six and no sentence said on it was written down.**
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+*438. Monday of week 159, at about ten on a service road, and this entry is a telephone in a corridor in about nine seconds and a sentence about a man and an answer, nobody in the corridor who heard it and about four told that somebody said something, a car home paid for by a man in overalls, nineteen lines on two nails with the newest of them three hundred and thirty-three days old and still the only promise on that board, and nobody thanked anybody.*
+
+*Conditions and docket.* **Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and his day was a bench in Lattice Ward from about half past seven until about two and a counter until about six, and a corridor in Crown Terrace at about five, and then a room from about half past six. That corridor: a second floor, about nine doors along it shut, a window at the far end, a telephone on the wall by the stair. Who was in it at five: one man of twenty-two and nobody else. What rang: a telephone. How long the call took: about nine seconds. Who spoke: a voice he did not know, not young and not old. What was said: one sentence about a man and an answer, addressed to no city and to nobody in a room off a service road. Whether it signed: no. Whether anybody else in the corridor heard it: nobody. Rate: nine and ten, uncorrected, told to nobody, and it has been said out loud to one person, once in all of it. Heating: on, dearer, four names on a lease dearer still, a fortnight a cook laid out that nobody has repaid and that is not resolved. Room off that service road: six hundred and thirty-seven days, and warm, and about nine people came in on the evening for the temperature. Card: six hundred and forty-one days, four days more than the room, in a coat pocket, and the rail in the other building holds one card. Two nails, nineteen lines, and no twentieth: the twelve five hundred and fifty-seven, the thirteen five hundred and eight, the fourteen four hundred and seventy-three, the fifteen four hundred and fifty-two, the sixteen four hundred and twenty-seven, the seventeen four hundred and nine, the eighteen three hundred and fifty-five, the nineteen three hundred and thirty-three. None of those eight is an anchor on this date and none of them is a day. What is on two nails has not changed: nineteen lines, thirteen hands, about fourteen names, nothing added, nothing removed, nothing rubbed off, the first of them a cook’s and has never moved, the newest the only promise on it. A wall list in a plastic sleeve in that same shop is a fourth object and has never been on two nails. A ring binder on a shelf: eight things in it, the eighth of them a folded page that is unread and was not read, and the woman’s page is one of the eight and is shut in with them. Fifth pocket: empty, drawer shut, and nobody has ever asked him to fill it in. The nine hand copies of the front of a page of paper: begun in their twenty-nine weeks, about eight of the nine unfinished, and the first disagreement, a figure in the fourth line, right in six copies and wrong in three, not found and not going to be found by anybody in this case. Man of about fifty-one with a tool bag: at the far end of the room, and nobody has asked him about anything for about thirty-four weeks and five days, and nobody has renewed the asking and nobody has stopped it. Man of about thirty-three: not in the room and not in this city, holding four buildings and about nine hundred doors for about thirty-eight weeks and four days, given nothing and needed nothing, and nobody has asked him for anything and nobody has stopped it. The Exchange did not sit on this day; its last sitting, the twenty-eighth, was nineteen days ago, and its next, the twenty-ninth, is nine days from today; book fifty-four lines, telephone seventy-three, count announced thirty-three times of which twenty-eight correspond, nineteen years of it, and none of the four is convertible into another and the difference between the book and the tin is not a number and is not given as one. The ask: three hundred and twenty-seven days, that being forty-six weeks and five days, counted from the day it was asked at the seventeenth sitting and not from any sitting since. How many in this case have been told that somebody said something: about four, and none of the four knows what it was. Nobody died. Nobody thanked anybody. Entry 438.**
+
+*The call, as a record of nine seconds from a voice he did not know.* **Where: a corridor on a second floor in Crown Terrace, about nine doors shut, a telephone on the wall by the stair. When: at about five on Monday, nobody else in the corridor. Who called: a voice he did not know. How long: about nine seconds. What was said, in full: that a man who cut himself in half to stop one answer going through is the argument for one answer going through. Whether a name was said: no, and the sentence says a man and not a name. Whether it signed: no. Whether it was addressed to any city or to anybody in a room off a service road: no. Whether anybody in the corridor heard it: nobody. How many have since been told that somebody said something: about four. How many of the four know what it was: none. Whether the sentence was written down: no. Owner: a receiver, and nobody.**
+
+*The car, as a record of nine seconds said to nobody in particular.* **Who said it: a man of about thirty in overalls who works on a floor in Crown Terrace, owed nothing, not in anybody’s case. To whom: nobody in particular in a warm room. When: on Monday evening after the chairs. In his own words: that he stayed to put the chairs up and missed his bus and the car was on him. Times anybody thanked him: none. Times anybody improved on it: none. Times anybody asked him why he stayed: none. Whether anybody in this case asked him about the fare: no. Owner: a bus missed, and nobody.**
+
+*What the day did not touch.* **A hardboard on two nails carried the same nineteen lines and was not written on, nothing was added to it, nothing was removed from it and nothing was rubbed off it, and there is no twentieth line, and the card in a coat pocket is not that board and the wall list in a plastic sleeve in the repair shop is not that board and a tool roll with a fourth pocket in it is a fifth object and a page of paper with about eleven lines in it is a sixth in a fourth building and a sheet of about nine lines in a room in the second of the four districts is not any of the others. Nobody read the ninth line in a ring binder and the folded page at the bottom of that binder is where it was on Monday. A drawer stayed shut and a pencil box in a street in another district was not opened and a folder in a weighbridge hut was not turned over. The woman of about thirty in the chair nearest the door was not asked a question and was not thanked and was not apologised to, and her page is the eighth thing in that binder and is unread. The Exchange did not sit and its book did not grow and no number was given into its tin. A fortnight that a cook laid out is paid for by nobody. Nobody died. Nobody thanked anybody. Entry 438.**

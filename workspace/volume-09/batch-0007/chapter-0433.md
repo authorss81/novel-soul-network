@@ -1,0 +1,61 @@
+# Chapter 433 — A Shape In A Sequence In Netherbeck, Found By A Person And Not By A Device
+
+The Thursday of week one hundred and fifty-eight was spent on a bus and in the first of the four towns and from about half past six in one room off a service road, and the one thing that is true of it is that **a local hinge was found in a harvest practice in Netherbeck by a person with an ordinary job and not by a device, and the finding was a shape in a sequence and not a person, and about four people in a room can now do the thing it rewards and about four of them were taught it and nobody knows who taught them.**
+
+---
+
+Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and thirty-three days old and is warm, and about four people went in on the Thursday evening for the temperature and none of them was asked anything.
+
+The card in the coat pocket is six hundred and thirty-seven days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card’s age does not stop because a card has been picked up, and it went into Netherbeck in that pocket and came home in the same pocket and went into no rail.
+
+---
+
+Netherbeck has a market cross and about four stalls trading on a Thursday and a hall with the chairs stacked against the far wall six high and a building that was a shop with a kitchen in it.
+
+In a shed behind that building there is a harvest practice that has run for about nine years. Trays come in from the fields and are stacked four high and turned to the air, and a date is chalked on the top tray and nothing else is written down.
+
+A woman of about fifty-four who runs that kitchen and feeds about nine people a day was in the shed on Thursday because the shed shares a door with the kitchen. She is not a clerk and holds no post and is owed nothing.
+
+She noticed that every fourth stack stood cooler than the three beside it. Not the trays and not the hands that stacked them, but the place in the order where the air moved. Three warm and one cool and three warm again, through the whole shed.
+
+She said nothing at first and counted again after dinner. The shape held.
+
+About four people work that shed in the season and about four of them can now do the thing the shape rewards, which is to leave the cool stack to stand a day longer before it is sent. About four of them were taught it in the shed on Thursday by being shown the order and not by being told a rule. Nobody knows who taught it first and nobody in that shed asked.
+
+**Nobody thanked her for noticing it and nobody improved on it and nobody asked her to write it down and she did not.**
+
+---
+
+He had come on the bus with the card and no authority and had asked nothing on the way there. He stood in the shed for about three hours and watched the trays and the chalk and the door that is shared with the kitchen.
+
+"**That stack is cooler than the three beside it.**"
+
+"**It is. Every fourth one is.**"
+
+"**Who taught you to leave it?**"
+
+"**Nobody we can name. We were shown the order today.**"
+
+He wrote nothing down and asked for nothing to be written down. The hinge is not named after anybody and is not a device and does not appear on any surface in that shed.
+
+About four people in that room can now do the thing and about four were taught it on Thursday and nobody knows who taught them, and the two groups are the same people and nobody in this case has asked them to be different.
+
+---
+
+He came home on the bus and walked four miles to the room at about half past six. A cook of twenty-seven was at the sink saying nothing. In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Thursday.
+
+A man of about fifty-one with a tool bag was not in that room and nobody has asked him about anything for about thirty-four weeks and one day, and nobody has renewed the asking and nobody has stopped it. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp and no reference and no date, was not in that room on Thursday, and his hold went on for about thirty-eight weeks without anything being asked of him and without anything being given to him.
+
+Two nails in that room carried nineteen lines and the newest of them is a lift mechanic’s, eleven words, signed, about the middle, and it is the only promise on that board and it is three hundred and twenty-nine days old, and nothing was added to it and nothing was removed from it and nothing was rubbed off it.
+
+**A card in a coat pocket is a piece of card about the size of a playing card with a place-name on one side and a week-number with nothing after it on the other, in a hand that is not the hand of the man carrying it, and it is not a ticket and it is not a key and it opens nothing and it has no title and no office and nothing on the back of it. The wall list in its plastic sleeve in the repair shop in Lattice Ward is a fourth object and has never been on two nails. The hardboard is a fifth. The master’s original is in a fourth pocket in a tool roll with a blank fifth line and a drawer that is shut. The page of paper with about eleven lines in it is a sixth, in a fourth building. The sheet of about nine lines in a room in the second of the four districts is not any of the others. The chalk on a tray in a shed in the first of the four towns is not writing and is not any of the six.**
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+*436. Thursday of week 158, at about ten on a service road, and this entry is a bus to the first of the four towns, a shape in a sequence found by a person with an ordinary job, about four who can now do the thing and about four taught it and nobody knows who taught them, nineteen lines on two nails with the newest of them three hundred and twenty-nine days old and still the only promise on that board, and nobody thanked anybody.*
+
+*Conditions and docket.* **Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and his day was a bus to the first of the four towns and back and a room from about half past six. That town: a market cross, about four stalls trading on a Thursday, a hall with chairs stacked six high, a building that was a shop with a kitchen in it, and a shed behind it where trays are stacked four high and turned to the air with a date chalked on the top tray. What was found: a shape in a sequence, every fourth stack cooler than the three beside it, found by a woman of about fifty-four who runs that kitchen, and not by a device. What it rewards: to leave the cool stack a day longer before it is sent. How many can now do it: about four. How many were taught it on Thursday: about four, by being shown the order. Who taught it first: nobody knows and nobody in that shed asked. Rate: nine and ten, uncorrected, told to nobody, and it has been said out loud to one person, once in all of it. Heating: on, dearer, four names on a lease dearer still, a fortnight a cook laid out that nobody has repaid and that is not resolved. Room off that service road: six hundred and thirty-three days, and warm, and about four people came in on the evening for the temperature. Card: six hundred and thirty-seven days, four days more than the room, in a coat pocket, in Netherbeck and back, and the rail in the other building holds one card. Two nails, nineteen lines, and no twentieth: the twelve five hundred and fifty-three, the thirteen five hundred and four, the fourteen four hundred and sixty-nine, the fifteen four hundred and forty-eight, the sixteen four hundred and twenty-three, the seventeen four hundred and five, the eighteen three hundred and fifty-one, the nineteen three hundred and twenty-nine. None of those eight is an anchor on this date and none of them is a day. What is on two nails has not changed: nineteen lines, thirteen hands, about fourteen names, nothing added, nothing removed, nothing rubbed off, the first of them a cook’s and has never moved, the newest the only promise on it. A wall list in a plastic sleeve in that same shop is a fourth object and has never been on two nails. A ring binder on a shelf: eight things in it, the eighth of them a folded page that is unread and was not read, and the woman’s page is one of the eight and is shut in with them. Fifth pocket: empty, drawer shut, and nobody has ever asked him to fill it in. The nine hand copies of the front of a page of paper: begun in their twenty-eight weeks and three days, about eight of the nine unfinished, and the first disagreement, a figure in the fourth line, right in six copies and wrong in three, not found and not going to be found by anybody in this case. Man of about fifty-one with a tool bag: not in that room and not in that town, and nobody has asked him about anything for about thirty-four weeks and one day, and nobody has renewed the asking and nobody has stopped it. Man of about thirty-three: not in the room and not in this city, holding four buildings and about nine hundred doors for about thirty-eight weeks, given nothing and needed nothing, and nobody has asked him for anything and nobody has stopped it. The Exchange did not sit on this day; its last sitting, the twenty-eighth, was fifteen days ago, and its next, the twenty-ninth, is thirteen days from today; book fifty-four lines, telephone seventy-three, count announced thirty-three times of which twenty-eight correspond, nineteen years of it, and none of the four is convertible into another and the difference between the book and the tin is not a number and is not given as one. The ask: three hundred and twenty-three days, that being forty-six weeks and one day, counted from the day it was asked at the seventeenth sitting and not from any sitting since. Nobody died. Nobody thanked anybody. Entry 436.**
+
+*The hinge, as a record of a shape and not a person.* **Where: a shed behind a building that was a shop in the first of the four towns, trays stacked four high, a date chalked on the top tray. Who found it: a woman of about fifty-four who runs that kitchen, owed nothing, holds no post, not thanked. What it is: every fourth stack cooler than the three beside it, a shape in a sequence and not a person. What it rewards: to leave the cool stack a day longer. How many can now do it: about four. How many were taught it on Thursday: about four, by being shown the order and not by being told a rule. Who taught it first: nobody knows and nobody in that shed asked. Whether it is named after anybody: no. Whether it is a device: no. Whether it appears on any surface: no. Owner: moving air, and nobody.**
+
+*What the day did not touch.* **A hardboard on two nails carried the same nineteen lines and was not written on, nothing was added to it, nothing was removed from it and nothing was rubbed off it, and there is no twentieth line, and the card in a coat pocket is not that board and the wall list in a plastic sleeve in the repair shop is not that board and a tool roll with a fourth pocket in it is a fifth object and a page of paper with about eleven lines in it is a sixth in a fourth building and a sheet of about nine lines in a room in the second of the four districts is not any of the others. Nobody read the ninth line in a ring binder and the folded page at the bottom of that binder is where it was on Thursday. A drawer stayed shut and a pencil box in a street in another district was not opened. The woman of about thirty in the chair nearest the door was not asked a question and was not thanked and was not apologised to, and her page is the eighth thing in that binder and is unread. The Exchange did not sit and its book did not grow and no number was given into its tin. A fortnight that a cook laid out is paid for by nobody. Nobody died. Nobody thanked anybody. Entry 436.**

@@ -1,6 +1,10 @@
 # Continuity State
 
 
+# VOLUME 09 — BATCH 0007 — CONTINUITY AFTER MOVEMENT IV, CHAPTERS 431 TO 440, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
+
+**Run 434–443 continuous, offset {3}. Room 647, card 651 (+4), hold 280/40w, 51-series 253/36w1d (close 308/44w, not plan's 283), ask 337/48w1d, copies 213/30w3d, wall 567/518/483/462/437/419/365/343, nineteen still only promise, no twentieth. Book 55 after 29th opening on an overall man's face-spoken line (no name, not 27th man, not Friday-entry man); tin 73 (nothing given); count 34/29; nineteen years; no conversion. Panel + marker both at 437, agreeing with 436's unwilling-room sentence, not the signature. Call at 435 in nine seconds from unknown voice, `a man`, unheard, four told something-was-said knowing nothing. Hinge in Netherbeck (433) by ordinary job, shape not person, four can do it, four taught, teacher unknown. Condition heard second time and same done with four silent (438); collision 644/362 carried both ways with age-not-day stated. Care-link (431) nine lines, ninth empty, fourth day off named. Costs on 992/999, correct action on 994. Card in pocket throughout, rail holds one. Next: `workspace/volume-09/batch-0008/PROMPT.md` (441–450). Full account at `workspace/volume-09/batch-0007/SUMMARY.md`.**
+
 # VOLUME 09 — BATCH 0006 — CONTINUITY AFTER MOVEMENT III, CHAPTERS 421 TO 430, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
 
 **Ten chapters were written at `workspace/volume-09/batch-0006/chapter-0421.md` to `chapter-0430.md`, entries 424 to 433, days 971 to 988, weeks 155 to 157. No checkpoint existed and no chapter file existed on arrival; thirteen repairs were made in place across nine of the ten files, one of which was a row added to all ten, and a review repair pass has since made twelve more in place across nine of them, and across both passes no day, week, entry, anchor or interval the calendar fixes moved, and the two counts of eight that earlier drafts of this block and of `state/chapter-summaries.md` gave are both corrected here. The full account is `workspace/volume-09/batch-0006/SUMMARY.md`.**

@@ -1,6 +1,10 @@
 # Character State
 
 
+# VOLUME 09 — BATCH 0007 — WHERE EVERYBODY IS AT CHAPTER 440, AFTER MOVEMENT IV, DATED AFTER THE BLOCK BELOW
+
+**Ten chapters at `workspace/volume-09/batch-0007/chapter-0431.md` to `chapter-0440.md`; four repairs in place; full account at `workspace/volume-09/batch-0007/SUMMARY.md`. No age, job or relationship changed; no new names (volume one of two spent). He is in all ten load books, subject of none. He carries the pocketed card to Netherbeck (433) and Branstead (436) and it never leaves the pocket; bench/counter/room on 431–432, 435, 438, 440; corridor telephone at five on 435 (unknown voice, nine seconds, `a man`, unsigned, unheard, four told something-was-said); hears same condition second time and does same with four silent (438); at bench four miles off during 29th sitting (439). Van-driver 58 only on Friday floors 434/437; record-keeper 58 only at 436 (unwilling room, said-not-signed); Iven unasked; Lena/sink vacant all ten days. Full account at `workspace/volume-09/batch-0007/SUMMARY.md`.**
+
 # VOLUME 09 — BATCH 0006 — WHERE EVERYBODY IS AT CHAPTER 430, AFTER MOVEMENT III, DATED AFTER THE BLOCK BELOW, AND NO AGE AND NO JOB AND NO RELATIONSHIP CHANGED
 
 **Ten chapters were written at `workspace/volume-09/batch-0006/chapter-0421.md` to `chapter-0430.md`, thirteen repairs were made in place across nine of the ten files, and twelve further repairs were made in place by a review repair pass across nine of them, and the full account is `workspace/volume-09/batch-0006/SUMMARY.md`. **THE TOWN IS NAMED IN THIS BLOCK BY WHAT IS ON THAT ROAD AND NOT BY HOW FAR IT IS, after that pass removed the phrase *a town two hours of bus away* from this block, because the pages are forbidden to print a distance or a journey in hours for that town and nothing on the page supports two hours.** This block supersedes the block below and is what a Movement IV writer should read.**

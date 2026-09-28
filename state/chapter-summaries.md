@@ -1,3 +1,20 @@
+# VOLUME 09 — BATCH 0007 — MOVEMENT IV (Chapters 431–440) — CHAPTER SUMMARIES, ENTRIES 434 TO 443, DAYS 992 TO 1009, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
+
+**Ten rows. Panel + marker both at 437; 29th sitting opens at 439; public-body word once in a mouth at 440; collisions two rows at 438; costs on 992/999, correct action on 994. Full account at `workspace/volume-09/batch-0007/SUMMARY.md`.**
+
+| Ch | Entry | What the day is |
+| --- | --- | --- |
+| 431 | 434 | Van clinic: care-link in about nine lines, ninth empty (follow-up person absent); mother names fourth day off unasked, unthanked. Room 630/card 634/nineteen 326. Separation four months and five weeks. |
+| 432 | 435 | Woman (34) finds a stair door open, sets screw, shuts twice, logs it, says it changes nothing unasked, unthanked. 632/636/328. Correct action of the movement. |
+| 433 | 436 | Netherbeck: harvest-shed hinge, every fourth stack cool, found by kitchen woman (54), not a device; four can do it, four taught, teacher unknown. 633/637/329. |
+| 434 | 437 | Seventh Friday: run fifth week running, post 182/26w, sheet uncounted, all four off-list present. 634/638/330. |
+| 435 | 438 | Corridor call at five, unknown voice, nine seconds, `a man who cut himself in half…`, unsigned, unheard; four told something-was-said. Overalls man names car home. 637/641/333. Second cost. |
+| 436 | 439 | Branstead: 58 record-keeper tells unwilling room a thing two do is not a rule and he cannot make it one; signed line disagrees. 639/643/335. Panel agrees with said, not signed. |
+| 437 | 440 | Eighth Friday: run sixth week, post 189/27w, one off-list absent; two plain lines; `* * *`. 641/645/337. Volume's one panel + marker. |
+| 438 | 441 | Room 644/18 lines 362 stated both ways (age, not day); limit heard second time, same done, four silent; condition five times. 648/340. |
+| 439 | 442 | 29th sitting: six items, overalls man's face-spoken stairwell-light line opens book 54→55 (no name, not 27th man); tin 73; 34/29; ask 336/48w not Friday's 47w2d. 646/650/342. |
+| 440 | 443 | Day after: cook says one thing in nine seconds with the public-body word once in a mouth; book 55, tin 73, 34/29; last sitting yesterday, 28th twenty-nine back, 30th twenty-seven forward; separation four months and seven weeks and three days. 647/651/343. |
+
 # VOLUME 09 — BATCH 0006 — MOVEMENT III (Chapters 421–430) — CHAPTER SUMMARIES, ENTRIES 424 TO 433, DAYS 971 TO 988, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
 
 **THE THIRD SET OF TEN ROWS OF VOLUME 09 EXISTS. No checkpoint existed and no chapter file existed on arrival; ten chapters were written, thirteen repairs were made in place across nine of the files and a review repair pass has since made twelve more across nine of them, no scene was touched in either pass, and the full account is `workspace/volume-09/batch-0006/SUMMARY.md`. NO ROW PRINTS A DAY NUMBER INTO A CHAPTER BODY — the day number is a desk figure for this file and the calendar and appears in no chapter. This is the volume's midpoint and the tenth file in this table is the row that answers the volume's subject.**
