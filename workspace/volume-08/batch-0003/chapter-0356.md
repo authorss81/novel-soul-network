@@ -24,7 +24,7 @@ He is not named in any document in this city. He is not thanked. About four peop
 
 ---
 
-The woman of about thirty-four who checks about nine hundred doors came up the stairwell of the second building at about ten past four on the Wednesday with a list, and her job is to check about nine hundred doors, and it is the third of the three referents of about four hundred in this case and it is not the first one, and the other two are not in that building and are not in that stairwell and were not mentioned.
+The woman of about thirty-four who checks about nine hundred doors came up the stairwell of the second building at about ten past four on the Wednesday with a list, and her job is to check about nine hundred doors, and it is one of at least three figures in this case that carry about four hundred and nobody in this case has ever put them in an order, and the others are not in that building and are not in that stairwell and were not mentioned.
 
 She had a stair with nine of her doors on it. She had a pen and a list and about nine minutes before the lift she was not going to wait for.
 
