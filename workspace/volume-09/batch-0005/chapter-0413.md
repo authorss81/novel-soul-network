@@ -26,7 +26,7 @@ He went to the shoe stall first, because the shoe stall was the reason he had co
 
 ---
 
-The man at that stall mends shoes and has done for about forty years. He is about sixty-one. He is named in a narrator's sentence and on no surface and in no document and in nobody's mouth.
+The man at that stall mends shoes and has done for about forty years. He is about sixty-one. His name is Bert Sowerby, and it is in this sentence and on no surface and in no document and in nobody's mouth.
 
 "**Are you the maintenance.**"
 

@@ -6,7 +6,7 @@ The Friday of week one hundred and fifty-two was spent on a second floor in Crow
 
 Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is five hundred and ninety-two days old and is warm. The card is five hundred and ninety-six days old, four days more than that room is, and it is in a coat pocket and has been since the Wednesday before last, and a card's age does not stop because a card has been picked up.
 
-**No town and no place-name is named anywhere in this entry, and no distance between here and there is given in miles, and the day is described by what happened on a floor.**
+**The whole of that day was on that floor. About nine people came up that stair between about half past six and about nine and about nine went down it at about nine, and that is the whole of what is known about where anybody in this case was.**
 
 ---
 
@@ -32,7 +32,7 @@ At about nine the chairs went up and the stair emptied and a man of about twenty
 
 ---
 
-**The man of about thirty-nine who buys training for the company that runs that floor was not on it, and nobody said he was not coming, and nobody said he had been and had not.** He came once, on his own time, in about four years, and wrote it up in his own company's form, and said out loud that it changes nothing, and was not thanked, and that is the whole of what is known about him in that building. **Nothing said tonight says that he was ever on that floor, and nothing on that floor has ever said it either, and no reason is given tonight, and nobody asked for one, and the wall calendar that would have joined two Fridays to each other is not on the floor and is not in that building.**
+**The man of about thirty-nine who buys training for the company that runs that floor was not on it, and nobody said he was not coming, and nobody said he had been and had not.** He came once, on his own time, in about four years, and wrote it up in his own company's form, and said out loud that it changes nothing, and was not thanked, and that is the whole of what is known about him in that building. Nothing said tonight says that he was ever on that floor, and nothing on that floor has ever said it either, and no reason is given tonight, and nobody asked for one, and the wall calendar that would have joined two Fridays to each other is not on the floor and is not in that building.
 
 A man of about fifty-eight who drives that building's van was not in the corridor at about nine either. He put the paper there on the Friday before last and he has not been asked about it and nobody has asked him why not, and the paper is still there.
 
