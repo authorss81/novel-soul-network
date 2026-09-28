@@ -1,0 +1,89 @@
+# Chapter 364 — The Third Friday
+
+The Friday evening of week one hundred and thirty-two was the third Friday on which a company training room in Crown Terrace ran a floor and about eleven people were in it, and **nothing in that room was resolved on this Friday and nothing in it was rehearsed, and the one thing that changed is that the laminated sheet came off the post it has been on for four years, and the person who took it down said the cost out loud in about four seconds and nobody improved on it and nobody thanked her.**
+
+---
+
+Eleven on the docket and eleven in date; eleven attended, the last of them at about six in the evening, and there are no jobs of his after about six on a Friday. He was at the repair shop in Lattice Ward until about half past four and was not in Crown Terrace and knows nothing about a post.
+
+The word was at nine and ten. The room off a service road is four hundred and fifty-two days old and is warm, and about four people came in on the Friday for the temperature and nobody asked any of them anything.
+
+---
+
+The floor is the second floor of a building in Crown Terrace and has a corridor, a fire door at each end, a stair, and about nine doors that are not opened during the run.
+
+There are nine folding chairs in it and about eleven people. The post is by the corridor end and there is a laminated sheet on it that has been on that post for four years and has never been written on and has been read from twice, both times by a person who works there and neither time on a Friday.
+
+**The company buys the training. The company does not have anybody else on its own staff list in that room except the woman who calls it, and nobody in that room has ever been asked what the training is for, and nobody in that company has ever come to that room to look at it, and both of those facts have been true for four years and about nine people in that room know both of them.**
+
+The sheet says what a run is and who calls it. It does not say who is expected. **Seven of the about eleven that Friday are on the company's list and four are on no list of any kind, and the four are not missing on any particular Friday and are not chased, and nobody in that building has ever been asked to say.**
+
+---
+
+**A floor has been run on three Fridays in four months in a room that has a post in it and nine folding chairs, and about eleven people came each time, and the three of them have never been compared by anybody, and the comparison is the only thing nobody in that room has done.**
+
+They are the same people, and here they are, and nobody has read this out. A man of fifty-eight who works in a depot at the far end of the city and who comes for the sake of coming. A man of about thirty-one who also works in that depot and who has been in the room for about two years. A woman of about thirty-four who has been in it for two years and who has not spoken in it for a long time. A man of about twenty-nine who comes on a Friday and who has not spoken in that room in four years. A woman of about thirty-eight who has been in it for two years and who has now not spoken in it for six Fridays running. A woman of thirty-six with a lanyard on who works there and who calls the run. A man of about forty-four who has been in it for four years and who does not speak in it. A woman of about thirty who is in it about twice a month. And a man of about twenty-seven who comes when he can get the hours and about whom nobody in that room knows anything except that he comes.
+
+**That is nine of about eleven, and the other two are not missing on any particular Friday, and nobody in that room has ever made a list of who was there, and the man of fifty-eight said nothing at all on this Friday and about four people in that room noticed that he had said nothing and about four did not.**
+
+---
+
+The run went at about half past seven. Nine people, one floor, about nine minutes, called from the front by the woman of thirty-six, and everybody did the thing they did in the last one, and the sheet on the post was not read from and nothing was handed to anybody and nobody counted for anybody and nobody prompted anybody.
+
+**Nobody in that room referred to any other Friday. Not one of the about eleven, and not the woman of thirty-six, and there is no way of knowing whether the four who noticed that nobody had noticed anything, and the four who noticed that nobody had and the four who did not have not spoken to each other and are not going to.**
+
+The woman of about thirty-four did the whole of it properly, without being told. The man of about twenty-nine who comes on a Friday sat down at the right moment without being told. Nobody said how long it took.
+
+---
+
+Then the woman of thirty-six took the sheet off the post.
+
+She did it in about four seconds, in front of about nine people, with a fingernail, and she folded it once and put it in the pocket of her coat, and nobody stopped her and nobody said anything and nobody asked her to read it out before she took it down.
+
+Then she said the cost, and it took her about four seconds, and it is about forty words, and nobody improved on it and nobody thanked her.
+
+"**It has been on that post for four years. About four of you could tell me what is on it and I could not tell you which four. It has never been on a list and it has never been on a form and nobody has ever been asked to have it, and I am not going to leave a piece of paper on a post for four years for nobody. That is the whole of the cost and I am not going to say it again.**"
+
+Nobody said anything.
+
+Nobody asked her whether the run would go next Friday. Nobody asked to see it. Nobody asked her to put it back. **A man of about forty-four who has been in that room for four years and who does not speak in it looked at the post for about four seconds and then looked at the floor, and about four people in that room noticed him do it and about four did not, and neither group has said anything since.**
+
+The post is bare. The chairs go back on the stack afterwards the way they always have, four of the about eleven put them back and about four did not, and nobody has ever said anything about the chairs and nobody said anything about them tonight.
+
+A man of about twenty-seven who comes when he can get the hours said one thing about the bare post, in about four seconds, to a chair, and nobody improved on it and nobody answered him.
+
+"**It is better without it. I want to say that to somebody and there is nobody here I want to say it to, so I am saying it to a chair, and I do not know whether that is a thing I am allowed to do.**"
+
+Then a woman of about thirty-four, who has been in that room for two years and who has not spoken in it for six Fridays running, said one thing, in about four seconds, and it was not about the sheet.
+
+"**It is not this room. It is the two flights and the door and having nothing to say for two flights. I have not said that to anybody and I am saying it now and I am not going to be asked about it.**"
+
+Nobody asked her about it. Nobody improved on it, and about four people in that room heard it and about four did not, and she has not spoken in that room since and nobody has asked her to. **That is six Fridays for a woman who has spoken in that room in two years, and it is not on a hardboard and it is not on anything, and nobody in this case is going to make it a thing.**
+
+They go out through a lobby and up a ramp and onto a forecourt with about nine cars on it and a man in a booth who has never once been inside that building and who does not know any of the eleven and who has never been asked to and would not be told. **He is the only person in that building with a post, a stamp and a piece of paper, and none of the three has ever touched anything that happens on the second floor.**
+
+---
+
+About half past six the room off a service road was warm and about nine people were in it. A cook of twenty-seven was at a sink and said nothing at all. A woman of about thirty was in the chair nearest the door, and she was not asked anything and was not thanked and was not apologised to, and the reason she comes is the temperature, and the temperature costs more than it did, and both of those are correct.
+
+A first-year of nineteen was at the counter and said one small unasked thing in about four seconds, which was that a man in the room off a service road had said nine words on the Thursday night that four people had repeated exactly and four had not, and that the man of about twenty-seven who said a second thing after them had told about four people he had not improved on her. Nobody improved on that and nobody thanked her and nobody asked her which nine words.
+
+A man of fifty-one with a tool bag was in it and said nothing and has not been asked about anything for about eight weeks and two days. Nineteen lines and two nails, and the newest of the nineteen is eleven words a man of twenty-nine wrote about the middle, and it is the only promise on that board and is one hundred and forty-eight days old. The heating is on and costs more, the lease costs more for four names than it did, and the fortnight a cook paid for is paid for by nobody and is not resolved.
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+*367. Friday of week 132, at about ten on a service road, and this entry is about nine people, nine folding chairs, a post, a run of about nine minutes, a laminated sheet that came down, and about forty words said by a woman with a lanyard.*
+
+*Conditions and docket.* **Eleven on the docket and eleven in date; eleven attended, the last at about six in the evening, and there are no jobs of his after about six on a Friday. One company training room in Crown Terrace, the second floor, from about half past six until about nine; a corridor, a fire door at each end, a stair, and about nine doors that are not opened during the run. Nine folding chairs, about eleven people, seven of them on the company's list and four on none, and the four are not chased and have not been. One post, and a laminated sheet on it, on that post for four years, written on never, read from twice and neither time on a Friday. One run of nine people over one floor, about nine minutes, called from the front at about half past seven by a woman of thirty-six with a lanyard on who works there. One sheet taken off that post in about four seconds at about ten to nine and folded once and put in a coat pocket. One statement of about four seconds and about forty words by the person who took it down. Times anybody asked to see the sheet afterwards: none. Times anybody asked whether the run would go next Friday: none. One room off a service road from about half past six, about nine people. The rate held at nine and ten. The heating is on, dearer, four names on the lease dearer still, a fortnight a cook laid out that nobody has repaid. Room off a service road: four hundred and fifty-two days. Card in a rail in Lattice Ward: four hundred and fifty-six days, a third object in a third building, and the two have never been in one room. Hardboard, on two nails: twelve lines three hundred and seventy-two days, the thirteenth three hundred and twenty-three, the fourteenth two hundred and eighty-eight, the fifteenth two hundred and sixty-seven, the sixteenth two hundred and forty-two, the seventeenth two hundred and twenty-four, the eighteenth one hundred and seventy, the nineteenth one hundred and forty-eight. Wall unchanged: nineteen lines, thirteen hands, fourteen names, nothing added, nothing removed, nothing rubbed off. Line one is a cook's and is still the first line. Line nineteen is a lift mechanic's and is the only promise on that board. Eight things in a ring binder, unopened, unread, shut. The woman's page is unread and is shut with them. The master's fifth line empty, its drawer unopened. The Exchange did not sit on this day and does not sit on a Friday. Its last sitting was a Wednesday two days ago and its next one is a Wednesday twenty-six days from today, and the book is at fifty-one lines, the tin at seventy-three, the count announced twenty-seven times, and the business nineteen years old. All four printed, none converted.**
+
+*The room, as a record of a floor.* **Kind: the second floor of a building in Crown Terrace, a company training room with about nine people in it on a Friday evening. Corridor, two fire doors, a stair, and about nine doors that are not opened during the run. Folding chairs: nine. People: about eleven, of whom seven are on the company's list and four are on none. Post: one, by the corridor end, with nothing on it after about ten to nine on this evening. Anything on the walls: nothing, and there is no notice and there has never been a notice. Company staff in that room other than the woman who calls the run: none, in four years. Times the company has come to that floor to look at the run: none, in four years. Times anybody in that room has been asked what the training is for: none. Person in that building with a post, a stamp and a piece of paper: one, in a booth on a forecourt, who has never been inside the building, does not know any of the eleven, has never been asked to, and would not be told. Times that person has touched anything that happens on the second floor: none. Owner: the room, and the company that buys it, and the about eleven.**
+
+*The sheet, as a record of an object.* **Object: one laminated sheet, on a post, on that post for four years. Written on: never. Read from: twice, both times by a person who works there, and neither time on a Friday. What it says: what a run is and who calls it. What it does not say: who is expected. On a list: never. On a form: never. Asked for by anybody: never, in four years. Taken down: at about ten to nine on this evening, in about four seconds, with a fingernail, by the woman of thirty-six who works there and who calls the run. Folded: once. Put: in a coat pocket. Read out before it came down: no, and nobody asked for it to be. Replaced: no, and nobody has asked for it to be replaced and nobody has asked for it back. Times anybody has asked since whether the run will go next Friday: none. People in that room who could say what is on it: about four, and the person who took it down could not say which four. Improved on: by nobody. Thanked: by anybody, no. Owner: the woman of thirty-six, and her coat, and nobody else.**
+
+*The cost, as a record of four seconds and about forty words.* **Said by: a woman of thirty-six with a lanyard on who works there and who calls the run, in front of about nine people, at about ten to nine, immediately after taking the sheet down and unasked. Its points, in her order: that the sheet has been on the post for four years; that about four of the people in that room could say what is on it and she could not say which four; that it has never been on a list and has never been on a form; that nobody has ever been asked to have it; that she is not going to leave a piece of paper on a post for four years for nobody; and that that is the whole of the cost and she is not going to say it again. Whether she explained it afterwards: no. Whether anybody asked her a question about it: no. Whether anybody said she was right: no, and nobody said she was wrong, and about four people in that room thought she was right and about four thought nothing about it, and the two groups have not met. Improved on: by nobody. Thanked: by anybody, no. Owed: nothing. Owner: her, and the post, and nobody.**
+
+*The run, as a record of nine minutes.* **Called from the front at about half past seven by a woman of thirty-six with a lanyard on. People on the floor: nine. Length: about nine minutes. Sheet read from: no. Anything handed to anybody: no. Anybody counting for anybody: nobody. Anybody prompting anybody: nobody. Times the run has been referred to as a rehearsal by anybody in that room: none. Times it has been described by anybody in that room as a resolution of anything: none. People who did the whole of it properly without being told: about four, and about four of them have been doing it that way for years. People who sat down at the right moment without being told: about four. Whether anything about this run was compared with any other run by anybody: no, and it is the third Friday on which that room has been run in the four months this has been going on, and nobody in that room has ever put the three of them next to each other, and neither group has. Owner: the eleven, and the room, and the company.**
+
+*The six Fridays, as a record of a person not speaking.* **Person: a woman of about thirty-four who has been in that room for two years. Fridays on which she has not said anything: six, and this one is the sixth. Why, in her own words, in about four seconds, said to nobody in particular and not about the sheet: that it is not the room, that it is the two flights and the door and having nothing to say for two flights. Whether anybody asked her about it: no, and nobody has since and nobody is going to. Whether anybody improved on it: no. Whether she has spoken in that room since: no. Whether anybody noticed that she had not spoken on the four before: about four people, on each of the four, and the same four, and they have not spoken to each other about it. Thanked: by anybody, no. Owed: nothing. Owner: her, and two flights, and nobody.**
+
+*What the day did not touch.* **A floor was run and nothing about it was measured, named, or put on a surface, and the second and the third of these Fridays neither one referred to the first. Four of about eleven in that room are on no list and nobody in that building has been asked to say so and nobody said so tonight. A hardboard on two nails was not written on, a card in a rail did not move, a drawer stayed shut, and the folded page at the bottom of a ring binder was not read. Nobody died. Nobody thanked anybody. Entry 367.**

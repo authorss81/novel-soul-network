@@ -1,5 +1,17 @@
 # Continuity State
 
+# VOLUME 08 — MOVEMENT II (Chapters 361–370), *The Rota That Fails On A Thursday* — COMPLETE
+
+**Short on purpose; the argument, the measured table and the arithmetic are in `workspace/volume-08/batch-0004/SUMMARY.md`.**
+
+- **Opened at Chapter 361, day 810, the Monday of week one hundred and thirty-two, entry 364, and closed at Chapter 370, day 827, the Thursday of week one hundred and thirty-four, entry 373.** Four days from Chapter 360, twenty-one days to the close of this movement, seventeen days across it. The load-book run is 364 to 373, continuous.
+- **The Exchange sat once, at Chapter 362, day 812, and the book did not open.** The four figures printed and none converted: fifty-one lines, seventy-three in the tin, twenty-seven announced of which twenty-two correspond, nineteen years. **The tin moved from seventy-two to seventy-three because one number was given into it at the second-to-last item and for no other reason; no other sitting falls in this movement.**
+- **The ask stands at 812 − 672 = 140 days, which is twenty weeks, recomputed from the anchor and not carried from Chapter 360.**
+- **The wall carried nineteen lines at Chapter 361 and nineteen at Chapter 370. The newest is a man of twenty-nine's and was one hundred and forty-four days old at the open of this movement and one hundred and sixty-one at its close.** Eight wall series, no twentieth line, no heating figure anywhere in the ten files.
+- **Marek was in all ten entries and is the subject of none, and this is seventeen movements running.** He said no in about nine seconds at Chapter 361 to a fifth night, heard a limit at Chapter 366 and did not turn it into a job, and taught, demonstrated, assessed and assisted nobody in any of the ten.
+- **No chapter of this movement contains an institution that works.** The rota failed, the refusal cost four people a day, the disconnection cost a woman four hours and a child a Monday, and the four rooms are four rooms at Chapter 370.
+- **The panel budget is one and it is Chapter 387. This movement placed neither the panel nor the marker, quoted no part of the fourth condition, staged no relay and no chain, and named no new person.**
+
 # VOLUME 08 — MOVEMENT I (Chapters 351–360), *Nine Copies Of One Page* — COMPLETE, AND IT IS THE FIRST TEN CHAPTERS OF THE VOLUME
 
 **`outline/volume-08.md` governs and `workspace/volume-08/ARITHMETIC-AND-CALENDAR.md` is the day map; this block is short on purpose and the argument, the measured table and the arithmetic are in `workspace/volume-08/batch-0003/SUMMARY.md`.**
