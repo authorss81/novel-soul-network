@@ -12,7 +12,7 @@ The word was at nine and ten. The room off a service road is four hundred and si
 
 The water came in at the back. That is what a woman of about fifty-three who runs a hardware shop in the working Ashfields said at about seven, to nobody, to a floor with about four inches on it, and she has said it since to about four people and to nobody's face and she was not asked and will not be asked.
 
-A man of about forty-three who runs a laundrette in Saltmarket had machines running until ten. He said one thing at about ten, with his hands still wet, and nobody improved on it.
+A man of about forty-three who runs a laundrette in Saltmarket had machines running until ten. He said one thing at about ten, with his hands still wet, and nobody went further with it.
 
 "**I have got about four machines running on a floor that is under a foot of it and I am going to keep them running until they stop themselves, and I am not going to tell anybody how to do it, because I do not know.**"
 
@@ -28,7 +28,7 @@ Nobody heard him say it. A man of about forty-two who types in an office of abou
 
 "**I am letting you through because the door is open and not because anybody told me to, and if it shuts I am going to shut it, and you are all going to have to think of that yourself.**"
 
-Nobody improved on it and nobody thanked him.
+Nobody took it up and nobody thanked him.
 
 That is six of about nine. **Nobody told anybody else which of the nine would be open, because nobody knew, because there is no procedure in this city for saying in advance that a shop will be shut, and about three of the nine were shut by eight o'clock and one of them had no telephone in it at all and a fourth was open with nobody behind the counter.**
 
@@ -36,13 +36,13 @@ The woman of about thirty-nine in the pharmacy said one thing at eight, to a cus
 
 "**Take what you need off the bottom shelf and go up the stairs, and I am not saying that to get rid of you, and I am also not saying it because I have a plan.**"
 
-Nobody improved on it. Nobody asked her what the plan was, and she has not got one, and she said so afterwards to about four people and was not thanked.
+It was not improved on. Nobody asked her what the plan was, and she has not got one, and she said so afterwards to about four people and was not thanked.
 
 The woman of about thirty-two said one thing at about half past eight to nine people and it took her four seconds.
 
 "**I am open until about ten and after that the door is shut and the reason is the door, and if anybody asks me why I am going to say the door, and I am telling you now so that you know I am going to say the door.**"
 
-Nobody improved on it. Nobody said she was being clever.
+Nothing was added to it. Nobody said she was being clever.
 
 A woman of about thirty-five who works in a laundrette two doors from the hardware shop telephoned the room above a line in Saltmarket at ten past seven to say that about three of the nine were shut and did not say which, because she did not know which, and the person who took the call wrote nothing down and could not have told anybody the same thing twice.
 
@@ -54,7 +54,7 @@ About nine people came in before nine o'clock. A man of about fifty-three who dr
 
 **Nobody in that room was in charge of it. Four people in it said something about where people should go and four said something different, and the two groups have not spoken to each other about it, and about four of the nine noticed that they had disagreed and about four did not.**
 
-The man with the minibus said one thing, at ten past eight, standing at the table with his list in his hand, and it took him four seconds, and nobody improved on it.
+The man with the minibus said one thing, at ten past eight, standing at the table with his list in his hand, and it took him four seconds, and nobody said it back better.
 
 "**I have brought nine people here off a list I keep in my own head and I am telling you that the list is mine and not yours, and if any of them says they are going somewhere else I am the one who will have been wrong and not you.**"
 
@@ -76,7 +76,7 @@ Four feet of shop in the Quiet Quarter, a counter, a kettle, one window, a pull 
 
 **A woman of thirty-five who chose that room's dark for about eleven hours on purpose a week ago, and has not left, and has not been forgiven, and has not been told she has, was standing at the counter in it at ten o'clock on this Monday handing out tea. Nobody in that room said one word to her about the water and she said nothing about it, and four people in that room noticed her being there and four did not.**
 
-She said one thing at half past one, in nine seconds, to nobody, and nobody improved on it and nobody thanked her.
+She said one thing at half past one, in nine seconds, to nobody, and nobody said it back better and nobody thanked her.
 
 "**About nine people came in here today and none of them asked me anything and that is how this room works, and I am not going to start a different thing today because there is water outside.**"
 
@@ -102,9 +102,9 @@ A woman of about thirty-nine who works in a pharmacy in Saltmarket said one thin
 
 "**I have taken a sign off a door and put it in a bag and about four people have since told me that was the right thing, and about four have told me it was the wrong thing, and both of those groups have never met and neither of them has asked me.**"
 
-Nobody asked her. Nobody improved on it and nobody thanked her, and the sign is in a plastic bag and the bag is in a drawer.
+Nobody asked her. Nobody took it up and nobody thanked her, and the sign is in a plastic bag and the bag is in a drawer.
 
-A first-year of nineteen was at the counter of a repair shop in Lattice Ward from about half past eight and said one small unasked thing at about ten to four in the afternoon, in four seconds, and nobody improved on it and nobody thanked her.
+A first-year of nineteen was at the counter of a repair shop in Lattice Ward from about half past eight and said one small unasked thing at about ten to four in the afternoon, in four seconds, and nobody went further with it and nobody thanked her.
 
 "**There are three people in that building who cannot get down and about four people downstairs who have been saying for an hour that somebody will come, and nobody has come, and the man who came came on his own, and that is a different thing.**"
 
@@ -112,7 +112,7 @@ Nobody said anything. Nobody asked her which building. Nobody said that somebody
 
 A man of about fifty-one with a tool bag was in a warm room off a service road at half past six and said nothing, and has not been asked about anything for about ten weeks and five days, and the asking has not been renewed and nobody has stopped it.
 
-A man of fifty-four who came in out of the Ashfields said one thing at seven, in four seconds, and nobody improved on it and nobody thanked him.
+A man of fifty-four who came in out of the Ashfields said one thing at seven, in four seconds, and nothing was added to it and nobody thanked him.
 
 "**There is a room in the third of the four districts with about nine people in it and nine chairs and a table, and about four of those people have been in this room, and I am not saying they should have come here, I am saying that they are somewhere.**"
 
@@ -124,7 +124,7 @@ A woman of about thirty-two who runs a food shop in a building in the first of t
 
 "**I lost a morning and a half of trade in two days and nobody has said anything about it to me, and I would like somebody to say the days out loud, and about four people have said the days out loud to me and about four have not, and the two have not met.**"
 
-Nobody said the days out loud. Nobody improved on it and nobody thanked her, and about nine businesses in three districts lost days that week and only two of them have been said out loud.
+Nobody said the days out loud. It was not improved on and nobody thanked her, and about nine businesses in three districts lost days that week and only two of them have been said out loud.
 
 Nineteen lines on a hardboard on two nails, and the newest of the nineteen is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board and it is one hundred and sixty-five days old, and nothing about a lift that stopped between two floors in a building in the first of the four districts has made it more or less true.
 

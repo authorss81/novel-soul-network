@@ -54,7 +54,7 @@ A woman of about thirty-five who works in a laundrette in the working Ashfields 
 
 Nobody said anything. Nobody asked her whether she would run something in it, and about four people in that canteen have since asked her and about four have not, and the two groups have not met, and she has not said yes to anybody.
 
-A man of about forty-three who runs a laundrette in Saltmarket said one thing at about eleven, in four seconds, to about nine people in that canteen, and nobody improved on it.
+A man of about forty-three who runs a laundrette in Saltmarket said one thing at about eleven, in four seconds, to about nine people in that canteen, and nothing was added to it.
 
 "**I have been on that card and I have not been in that room and I have not been asked to be in that room, and about four people have told me to go, and nobody has told me what happens there, and I have not asked, and I am saying that I have not asked.**"
 
@@ -72,11 +72,11 @@ A woman of about thirty-nine who works in a pharmacy in Saltmarket saw it on the
 
 "**That is three rooms and one address. I have been to the three. I have driven past the one. I am not saying it is a lie, I am saying it is a card and it is the shape of a card and nobody has to have been in a room to print it.**"
 
-Nobody improved on it. Nobody asked her whether she thought it was a lie, and she was not asked, and she has not said whether it is one, and about four people in that pharmacy have since said the same thing to about four other people and the two groups have not met.
+Nobody took it up. Nobody asked her whether she thought it was a lie, and she was not asked, and she has not said whether it is one, and about four people in that pharmacy have since said the same thing to about four other people and the two groups have not met.
 
 ---
 
-A man of about twenty-eight who works nights and who was in a room in Saltmarket on the Monday said one thing at six in the evening to about nine people, in about nine seconds, and nobody improved on it and nobody thanked him.
+A man of about twenty-eight who works nights and who was in a room in Saltmarket on the Monday said one thing at six in the evening to about nine people, in about nine seconds, and it was not improved on and nobody thanked him.
 
 "**I have been in nine rooms in this city over about four years and I have never seen a card with a number at the foot, and a number at the foot means somebody can be asked to produce it, and about four people in this room have now looked at that number and about four have not.**"
 
@@ -108,13 +108,13 @@ A man of about fifty-five who drives for a firm that has nothing to do with the 
 
 "**I have been in about nine buildings in this city over four years and four of them are on that card and five of them are not on anything, and I am not saying one of those groups is better, I am saying that I have been in both and nobody has ever asked me which.**"
 
-Nobody asked him which. Nobody improved on it and nobody thanked him, and he is owed nothing.
+Nobody asked him which. Nothing was added to it and nobody thanked him, and he is owed nothing.
 
 A woman of about thirty-five who runs a laundrette in the working Ashfields was in that warm room on the Monday for about half an hour and said one thing in four seconds, to nobody.
 
 "**About four people have told me this week that a card is not a promise, and I have said yes to all four, and about four people have told me it is not a promise and I have said yes to those four as well, and I have not said yes to anybody who has said it is.**"
 
-Nobody said anything. Nobody improved on it and nobody thanked her, and nobody has told her anything since.
+Nobody said anything. Nobody said it back better and nobody thanked her, and nobody has told her anything since.
 
 A man of about fifty-one with a tool bag was in that room and said nothing, and has not been asked about anything for about twelve weeks and five days, and nobody in that room has mentioned a card to him.
 

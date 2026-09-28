@@ -20,7 +20,7 @@ There is a light. There is a floor. There is a smell of cold plaster. And there 
 
 ---
 
-A woman of about twenty-two who cleans offices in the second of the four districts was one of the eleven, and she said what it had cost her on the Wednesday, in nine seconds, at a counter in a building in that district, and nobody improved on it and nobody thanked her.
+A woman of about twenty-two who cleans offices in the second of the four districts was one of the eleven, and she said what it had cost her on the Wednesday, in nine seconds, at a counter in a building in that district, and took it up and nobody thanked her.
 
 "**I got the bus for it. That is the whole of it. It is a bus each way and I do not get paid for being somewhere and I am not saying I am owed anything, I am saying I got two buses for a room with a light on in it.**"
 
@@ -30,7 +30,7 @@ She is not owed anything. Nobody in this city has a line a person can be paid on
 
 ---
 
-A man of about thirty-two who works in a canteen in the first of the four districts put the card up, and he was one of the eleven, and he said what it had cost him on the Wednesday in nine seconds, to nobody, in a warm room off a service road, and nobody improved on it and nobody thanked him and nobody said he had caused it.
+A man of about thirty-two who works in a canteen in the first of the four districts put the card up, and he was one of the eleven, and he said what it had cost him on the Wednesday in nine seconds, to nobody, in a warm room off a service road, and nobody went further with it and nobody thanked him and nobody said he had caused it.
 
 "**I put it up. I am not going to stand here and say I did not put it up, and I am also not going to stand here and say I put up a lie, because I did not know it was one and I still do not know whether it is one, and about four people have told me since that it is not my fault and about four have told me nothing at all.**"
 
@@ -40,7 +40,7 @@ Nobody said either. Nobody said he had done the right thing and nobody said he h
 
 ---
 
-A man of about thirty-five who rents the upper floor of that canteen's building said one thing at about one in the afternoon on the Wednesday, in four seconds, to nine people in that canteen, and nobody improved on it and nobody thanked him.
+A man of about thirty-five who rents the upper floor of that canteen's building said one thing at about one in the afternoon on the Wednesday, in four seconds, to nine people in that canteen, and it was not improved on and nobody thanked him.
 
 "**I have eaten in that canteen every day for about four years and four people read that card and four of them asked the man who put it up where it came from, and I have eaten there every day and I have not asked, and I would like somebody to decide whether that makes me part of it.**"
 
@@ -58,7 +58,7 @@ A woman of about thirty-five who works in a laundrette in the working Ashfields 
 
 "**About nine people went up a stair on Monday night to a floor with a light on and I have been thinking about the light for two days, and I am not saying it was a lie and I am not saying it was not, I am saying the light was on before anybody got there and that is the whole of what I have.**"
 
-Nobody said anything. Nobody improved on it and nobody thanked her, and nobody has rung the man who put the card up, and the light is still on.
+Nobody said anything. Nobody went further with it and nobody thanked her, and nobody has rung the man who put the card up, and the light is still on.
 
 A man of about fifty who owns a garage in the Lower Wards stopped outside that building on the Wednesday at about eight and looked up at the top floor and said one thing to nobody, in about four seconds.
 
@@ -86,7 +86,7 @@ A woman of about thirty-nine who works in a pharmacy in Saltmarket said one thin
 
 "**I have been in a pharmacy for nine years and in about nine buildings in this city, and about four of the nine have a card on a wall and about five do not, and I have been in both kinds and nobody has ever asked me which one I would send a person to.**"
 
-Nobody asked her. Nobody improved on it and nobody thanked her, and about four people in that room have since said that neither kind is better and about four have said nothing.
+Nobody asked her. It was not improved on and nobody thanked her, and about four people in that room have since said that neither kind is better and about four have said nothing.
 
 Nineteen lines on a hardboard on two nails, and the newest of them is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board and it is one hundred and eighty-one days old, and a light on a pull switch on an empty floor has not made it more or less true.
 

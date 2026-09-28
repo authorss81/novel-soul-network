@@ -42,7 +42,7 @@ He has not been asked about anything since. He has not been asked about the gate
 
 Nobody asked him because there is no minute and there are no minutes of anything here. A man of about fifty-one with a tool bag can say how many buildings in this city he can get into that a person cannot get out of, and that is the second of the three things anybody in this case can point at, and neither of the three has ever been resolved and none of them is going to be.
 
-A man of about thirty-one who drives one of the nine lorries said the cost out loud at half past two, standing in the cab with the door open, in nine seconds, and nobody improved on it and nobody asked him a question about it.
+A man of about thirty-one who drives one of the nine lorries said the cost out loud at half past two, standing in the cab with the door open, in nine seconds, and took it up and nobody asked him a question about it.
 
 "**I am paid by the hour and I have been here since about seven and it is now half past two, and none of that is mine, and I am not saying somebody should be fired, and I am saying I would like somebody to say the hours out loud.**"
 
@@ -58,7 +58,7 @@ A man of about forty-eight who drives one of the other lorries came back from a 
 
 Nobody wrote it down. Nobody said they would remember it, and nobody has, and about four of the other drivers have since said that they did not mind either and four have said nothing, and the two groups have not met.
 
-A man of about twenty-seven who is a checker in that yard said one thing at about half past three, to about nine people, in about four seconds, and nobody improved on it and nobody thanked him.
+A man of about twenty-seven who is a checker in that yard said one thing at about half past three, to about nine people, in about four seconds, and it was not improved on and nobody thanked him.
 
 "**I have checked lorries in and out of that gate for about two years and the only thing that has ever stopped a lorry is a form, and there is no form today, and I have been standing at this window since about seven with nothing to check.**"
 
@@ -68,13 +68,13 @@ A man of about forty-seven who drives a refuse lorry came past that gate at abou
 
 "**I have turned round in that road for about nine years and I have never once done it because of nine lorries, and I am not saying I am against them and I am not saying I am for them, I am saying it was a Wednesday that was not a Wednesday.**"
 
-Nobody improved on it. Nobody asked which Wednesday, and there is no Wednesday in it.
+Nothing was added to it. Nobody asked which Wednesday, and there is no Wednesday in it.
 
 A woman of about thirty-nine who works in a pharmacy in Saltmarket drove past that gate at about four on the Monday and said one thing to nobody, in four seconds.
 
 "**I have been in this city for about nine years and I have never seen a thing happen at a gate that nobody could explain, and I am not saying this one is the first, because I have not been watching every gate in this city and I am not going to start.**"
 
-Nobody improved on it. Nobody asked her which gate she meant and she would not have said.
+Nobody said it back better. Nobody asked her which gate she meant and she would not have said.
 
 The gate was opened at ten past six in the evening by the man in the office, with his own key, and about nine lorries went out through it over about forty minutes, and nobody has asked whether that was the first time it had been opened that day.
 
@@ -84,15 +84,15 @@ A woman of about fifty-three who runs a hardware shop in the working Ashfields d
 
 "**I am shut because of the water and I have been shut since Monday, and I have come here because it is the only thing going on this road, and that is not a reason and I know it is not a reason.**"
 
-The driver said all right. Nobody improved on it. Nobody asked her what she wanted, and she did not want anything, and she drove on, and about four people in that yard have said since that a shopkeeper stood at a gate for about five minutes and about four have said nothing.
+The driver said all right. Nobody said it back better. Nobody asked her what she wanted, and she did not want anything, and she drove on, and about four people in that yard have said since that a shopkeeper stood at a gate for about five minutes and about four have said nothing.
 
-A woman of about forty-two who is the office manager in that building and who has the key to the gate said one thing at about half past four, standing in the yard, in nine seconds, to nine people, and nobody improved on it.
+A woman of about forty-two who is the office manager in that building and who has the key to the gate said one thing at about half past four, standing in the yard, in nine seconds, to nine people, and nobody took it up.
 
 "**I have been asked about that gate eleven times this afternoon and I have told all eleven of them that the key is in the office and that I am not the person who decides, and I have said that eleven times and not one of the eleven has asked me who is.**"
 
-Nobody asked her who is. Nobody improved on it, nobody thanked her, and four of the nine drivers have since said that somebody is and four have said nothing.
+Nobody asked her who is. Nobody went further with it, nobody thanked her, and four of the nine drivers have since said that somebody is and four have said nothing.
 
-A first-year of nineteen was at a counter in Lattice Ward and said one small unasked thing at about five in the afternoon, in four seconds, and nobody improved on it and nobody thanked her.
+A first-year of nineteen was at a counter in Lattice Ward and said one small unasked thing at about five in the afternoon, in four seconds, and nothing was added to it and nobody thanked her.
 
 "**Nine lorries were stood outside a gate for about eleven hours and about nine people drove past them and about four of those nine said the same sentence about it, and none of the four has ever met the other three.**"
 
@@ -102,23 +102,23 @@ A woman of about thirty-one who does building maintenance was in that warm room 
 
 "**I have been standing outside that gate since about eleven and four people have come up to me and asked me whether I knew anything, and I have said no four times, and I have not said no to anybody who did not ask.**"
 
-Nobody improved on it. Nobody asked her whether she knew anything, and she is owed nothing, and four people in that yard have said she should have been told more and four have said nothing.
+It was not improved on. Nobody asked her whether she knew anything, and she is owed nothing, and four people in that yard have said she should have been told more and four have said nothing.
 
 A man of fifty-one with a tool bag was in a warm room off a service road at half past six and said nothing, and has not been asked about anything for about eleven weeks and five days.
 
 At a sink was a cook of twenty-seven who said nothing at all. In the chair nearest the door was a woman of about thirty whom nobody asked anything, nobody thanked and nobody apologised to, and the reason she is in that room is the temperature, and the temperature costs more than it did.
 
-A man of about thirty-one who drives one of the nine lorries said one thing at about seven in that warm room, in four seconds, to nobody, and nobody improved on it and nobody thanked him.
+A man of about thirty-one who drives one of the nine lorries said one thing at about seven in that warm room, in four seconds, to nobody, and nobody went further with it and nobody thanked him.
 
 "**I have been in a yard in this city every working day for about nine years and I have never once been asked why we stop, and today I have stopped and about four people have asked me why and about four have not, and I have not told either of them and I am telling nine strangers instead.**"
 
-Nobody asked him why in that room. Nobody improved on it, and nobody has rung him since, and he has not told anybody else.
+Nobody asked him why in that room. Nobody said it back better, and nobody has rung him since, and he has not told anybody else.
 
 A woman of about forty-two who is the office manager in that building said one thing in that warm room at about half past seven, in four seconds, to nobody.
 
 "**Eleven people have asked me about that gate since about five and I have told all eleven of them that the key is in the office, and not one of the eleven has asked me who decides, and about four of them are still standing in my yard at eight o'clock.**"
 
-Nobody asked her who decides. Nobody improved on it and nobody thanked her, and about nine lorries went out of that gate over about forty minutes and about four of the drivers have said since that the office manager should have been told more and about four have said nothing.
+Nobody asked her who decides. Nothing was added to it and nobody thanked her, and about nine lorries went out of that gate over about forty minutes and about four of the drivers have said since that the office manager should have been told more and about four have said nothing.
 
 Nineteen lines on a hardboard on two nails, and the newest of them is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board, and it is one hundred and seventy-two days old, and nine lorries at a gate have not made it more or less true.
 

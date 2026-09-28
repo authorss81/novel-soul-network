@@ -30,7 +30,7 @@ Nothing about the Thursday was spent. Nobody in that shop said the word. Nobody 
 
 ---
 
-A man of about twenty-eight who works nights said one thing at about ten in the morning, in four seconds, to a customer, and nobody improved on it.
+A man of about twenty-eight who works nights said one thing at about ten in the morning, in four seconds, to a customer, and it was not improved on.
 
 "**I work nights and I went home through it at two this morning and about four of the streets were already under and nobody was on any of them, and I did not stop and nobody has asked me why I did not stop.**"
 
@@ -42,11 +42,11 @@ A woman of about thirty-two who runs a food shop in a building in the first of t
 
 "**I am shutting at four and I have told nobody that I am shutting at four, and about four people have already walked past me and gone on, and I would like it known that I did not shut early for fun.**"
 
-He said all right. Nobody improved on it and nobody asked her why she was shutting early and nobody has since.
+He said all right. Nothing was added to it and nobody asked her why she was shutting early and nobody has since.
 
 ---
 
-A man of about fifty-three who drives a minibus brought about nine people into the room above a line in Saltmarket at about four in the afternoon, which is when that room usually empties, and he said one thing at the table with his hand on the back of a chair, and nobody improved on it.
+A man of about fifty-three who drives a minibus brought about nine people into the room above a line in Saltmarket at about four in the afternoon, which is when that room usually empties, and he said one thing at the table with his hand on the back of a chair, and nobody said it back better.
 
 "**I have brought the same nine people here three days running and I have never been asked to and I have never been asked to stop, and about four of them have stopped coming and I have noticed and I have not asked them, and I am saying it out loud because nobody else is going to.**"
 
@@ -56,7 +56,7 @@ A man of about thirty-two who works in a canteen in a building in the first of t
 
 "**I have got a floor above me with about nine people in it who are all from the same building as me and not one of them is in my canteen, and I have been on that floor eleven times and I have never once been asked, and I have stopped minding, and I am telling you that I have stopped minding.**"
 
-Nobody improved on it. Nobody said he had better not mind, and nobody has asked him about it since.
+Nobody said it back better. Nobody said he had better not mind, and nobody has asked him about it since.
 
 A woman of about thirty-four who checks about nine hundred doors in four buildings was in that room on the Thursday for about twenty minutes and did not say what she had come for and has not said since.
 
@@ -84,7 +84,7 @@ The woman of about thirty-four who checks about nine hundred doors in four build
 
 Nobody asked her. Nobody said she should have telephoned. She has not telephoned and is not going to, and about four doors out of about nine hundred were shut for two days and nobody in this case has a figure for that.
 
-A first-year of nineteen was at the counter of a repair shop in Lattice Ward and said one small unasked thing at four in the afternoon, in about four seconds, and nobody improved on it and nobody thanked her.
+A first-year of nineteen was at the counter of a repair shop in Lattice Ward and said one small unasked thing at four in the afternoon, in about four seconds, and nobody went further with it and nobody thanked her.
 
 "**A woman came in at about ten and asked for one name and he said no, and about four of us heard it, and about four of the nine people in that room upstairs have got somebody's name and it is not his.**"
 
@@ -94,7 +94,7 @@ A woman of about thirty-nine who works in a pharmacy in Saltmarket was in that w
 
 "**I have taken a sign off a door and four inches of water through the back of a shop and I have not been asked for anything by anybody in four days, and that is the correct arrangement and I would like it recorded that I think it is correct.**"
 
-Nobody improved on it. Nobody said they thought it was correct. Nobody has rung her to say either.
+Nothing was added to it. Nobody said they thought it was correct. Nobody has rung her to say either.
 
 A woman of about twenty-four who works as a resonance nurse at a mobile clinic was in that warm room for half an hour on the Thursday and said nothing at all, and she has not said anything in a room off a service road since a Thursday in an earlier week, and nobody asked her about that and nobody is going to.
 
@@ -106,13 +106,13 @@ A woman of about thirty-one who does building maintenance said one thing at abou
 
 "**I have been out since Monday and I have watched four floors of water go up and down a street that I have swept every morning for nine years, and nobody has asked me whether the water was clean, and I have not asked either.**"
 
-Nobody asked. Nobody improved on it and nobody thanked her, and about four people in that room have since said that they would not have asked either and about four have said nothing.
+Nobody asked. It was not improved on and nobody thanked her, and about four people in that room have since said that they would not have asked either and about four have said nothing.
 
 Nineteen lines on a hardboard on two nails, and the newest of them is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board, and it is one hundred and sixty-eight days old, and a Thursday is a Thursday.
 
 The heating is on and costs more, four names on the lease cost more than they did, and a fortnight a cook paid for is unpaid by anybody and is not resolved and is not going to be.
 
-A woman of about thirty-one who does building maintenance said one thing at about six in the evening to about nine people, in nine seconds, and nobody improved on it.
+A woman of about thirty-one who does building maintenance said one thing at about six in the evening to about nine people, in nine seconds, and nobody went further with it.
 
 "**I have been out since Monday and nobody has rung me and nobody has blamed me and that is the correct arrangement, and I have worked out that I would rather be telephoned by somebody and told to stay at home, and there is nobody to telephone.**"
 

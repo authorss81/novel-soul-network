@@ -2,7 +2,7 @@
 
 # VOLUME 08 — MOVEMENT III (Chapters 371–380), *The Paragraph In The Back* — COMPLETE
 
-**Short on purpose; the argument, the measured table and the arithmetic are in `workspace/volume-08/batch-0005/SUMMARY.md`. No review repair pass has yet run over these ten files.**
+**Short on purpose; the argument, the measured table and the arithmetic are in `workspace/volume-08/batch-0005/SUMMARY.md`. Two review repair passes have run over these ten files, at section 7b and section 7c of that summary, and every figure below still walks: the second pass revoiced the prose of Chapter 376, restored the conditions opening the prompt of record requires, and rotated a speech frame, and it changed no number on the page. The day map, the interval series, the load-book run, the four Exchange figures and the twenty-four weeks of the ask are all as they were before either pass.**
 
 - **Opened at Chapter 371, day 831, the Monday of week one hundred and thirty-five, entry 374, and closed at Chapter 380, day 848, the Thursday of week one hundred and thirty-seven, entry 383.** Four days from Chapter 370, twenty-one days to the close of this movement, seventeen days across it. The load-book run is 374 to 383, continuous, one entry per chapter, offset by three at every row.
 - **A flood came into three of the four districts and was in them for four days, and nobody died.** About nine ordinary businesses, six of them nameable. Four rooms in four districts, three of them in the water, stood between it and a night of it. **The four days is longer than a man in the middle would have taken and nobody in those three districts has said so and nobody is going to.**

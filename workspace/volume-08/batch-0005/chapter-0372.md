@@ -36,7 +36,7 @@ A man of about twenty-nine who works on lifts was in a building in the first of 
 
 There were about eleven people above the ground floor and about four of them could not use a stair. He got nine of the eleven down over the course of the day, in about four goes, and the eleventh person is over eighty and was not got down and was not got down on Thursday either and nobody has said why not and the answer is that he would not come.
 
-He said one thing, at about half past two, in a lobby, to about nine people, in about nine seconds, and nobody improved on it and nobody thanked him.
+He said one thing, at about half past two, in a lobby, to about nine people, in about nine seconds, and took it up and nobody thanked him.
 
 "**I have been in this building three times since Monday and neither of the other two times was because anybody asked me, and about four of you have already decided that I am the answer to something, and I am not the answer, I am the person who came.**"
 
@@ -46,7 +46,7 @@ Nobody said anything. Nobody asked him what the answer would have been. Nobody t
 
 ---
 
-A man of about twenty-nine who works on lifts said one more thing at about half past four, in a lobby, to about nine people, and nobody improved on it.
+A man of about twenty-nine who works on lifts said one more thing at about half past four, in a lobby, to about nine people, and nobody went further with it.
 
 "**I have been in four buildings this week on my own account and not one of the four sent for me, and about four people have said thank you to me and about four have not, and neither of those is the thing I would want.**"
 
@@ -66,11 +66,11 @@ A woman of about thirty-nine who works in a pharmacy in Saltmarket said one thin
 
 "**You stood in that doorway on Monday and let eleven people past you and you have not mentioned it since, and about four of those eleven have told me that you did, and I am telling you that they told me, and I am not asking you for anything.**"
 
-He said all right. Nobody improved on it. Nobody asked her which four, and she has not said, and he has not asked since and is not going to.
+He said all right. Nobody said it back better. Nobody asked her which four, and she has not said, and he has not asked since and is not going to.
 
 ---
 
-The woman of thirty-five who chose that room's dark in the Quiet Quarter said one thing at about eleven on the Wednesday, to nobody, in nine seconds, and nobody improved on it and nobody thanked her.
+The woman of thirty-five who chose that room's dark in the Quiet Quarter said one thing at about eleven on the Wednesday, to nobody, in nine seconds, and nothing was added to it and nobody thanked her.
 
 "**I was wrong about this room on the day I put the light out and I have not been wrong about it since, and I am not going to be asked to say that again, and about nine people came in here today and none of them was asked anything by me.**"
 
@@ -82,41 +82,41 @@ The eighty-year-old in the first of the four districts was not got down on the W
 
 About four people went and looked at him over two days. Nobody said he was being awkward. Nobody said he should come down and nobody has asked him again, and he is still in that room on the Friday, and about four people in that building have decided between them that somebody ought to go on going and nobody has been chosen.
 
-A woman of about thirty-two who runs a food shop in a building in the first of the four districts said one thing at about nine in the morning, in four seconds, to a customer, and nobody improved on it.
+A woman of about thirty-two who runs a food shop in a building in the first of the four districts said one thing at about nine in the morning, in four seconds, to a customer, and it was not improved on.
 
 "**I was shut on Monday and I was shut on Tuesday and I am open now, and I have not worked out whether the water has stopped or whether I have, and I am not going to be the one who decides that today.**"
 
-Nobody improved on it. Nobody told her which of the two it was.
+Nobody took it up. Nobody told her which of the two it was.
 
 A woman of about fifty-seven who works in a laundrette in Saltmarket said one thing at about five, standing in a doorway, in four seconds, and it was to nobody.
 
 "**There is a line on the floor of my shop that is nine years old and it was at the skirting on Tuesday and it is four inches up the door today, and about four people have told me that is normal, and not one of them has a shop.**"
 
-Nobody noted it. Nobody improved on it. She went home and reopened on the Thursday and has not said any of it again.
+Nobody noted it. Nothing was added to it. She went home and reopened on the Thursday and has not said any of it again.
 
-A first-year of nineteen was at the counter of a repair shop in Lattice Ward from half past eight and said one small unasked thing at about three in the afternoon, in four seconds, and nobody improved on it and nobody thanked her.
+A first-year of nineteen was at the counter of a repair shop in Lattice Ward from half past eight and said one small unasked thing at about three in the afternoon, in four seconds, and nobody said it back better and nobody thanked her.
 
 "**Four people telephoned that weighbridge office this morning and about four of them were asking which room was open, and none of them were asking for anything for themselves, and that is four people who did not have anywhere to put a person.**"
 
 Nobody said anything. Nobody asked her what she meant by a person. Nobody said that the four rooms were not for putting people in.
 
-A man of about forty-three who runs a laundrette in Saltmarket said one thing at six in the evening to four people who had come into the room off a service road out of the Ashfields, and nobody improved on it and nobody thanked him.
+A man of about forty-three who runs a laundrette in Saltmarket said one thing at six in the evening to four people who had come into the room off a service road out of the Ashfields, and nobody went further with it and nobody thanked him.
 
 "**I have been shut for two days and I am opening on the Thursday whatever anybody says, and I am telling four strangers in a warm room about it, and I would like somebody to write it down and nobody is going to.**"
 
 Nobody wrote it down. Nobody said they would remember it and nobody has, and the laundrette opened on the Thursday.
 
-A man of about thirty-two who works in a canteen in a building in the first of the four districts said one thing at about seven, in four seconds, to nobody, and nobody improved on it.
+A man of about thirty-two who works in a canteen in a building in the first of the four districts said one thing at about seven, in four seconds, to nobody, and it was not improved on.
 
 "**Nine people came up my stairs on Tuesday who were not on my stairs on Monday, and I have not asked any of them why, and about four of them have come back and about four have not, and I have not asked about that either.**"
 
-Nobody asked him about either. Nobody improved on it and nobody thanked him, and he is owed nothing.
+Nobody asked him about either. Nobody went further with it and nobody thanked him, and he is owed nothing.
 
 A man of about thirty-eight who drives a van said one thing in that warm room at about half past six, in four seconds, to nobody.
 
 "**Nine people have been up my stairs in a van this week and four of them tipped me and four did not, and four of the four that did not told me they could not, and I have not asked the other four at all.**"
 
-Nobody asked the other four. Nobody improved on it and nobody thanked him, and he is owed nothing and nobody is going to pay him for the two he was not tipped for.
+Nobody asked the other four. Nobody took it up and nobody thanked him, and he is owed nothing and nobody is going to pay him for the two he was not tipped for.
 
 A man of about fifty-one with a tool bag was in a warm room off a service road at about half past six and said nothing, and has not been asked about anything for about eleven weeks, and the asking has not been renewed and nobody has stopped it.
 
