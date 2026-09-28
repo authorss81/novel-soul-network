@@ -6,6 +6,10 @@
 
 **AND THE TWO FIGURES A VOLUME 09 WRITER NEEDS THAT THE CHAPTER SUMMARIES CARRY AND THE CALENDAR DOES NOT: the room off a service road is 567 days old at Chapter 401 and the card in a rail is 571 and the difference is four on every row, and the load-book run is 404 to 453 with no duplicate and no gap.** The full fourteen-series table is at `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` sections 2 and 3 and the collision register at its section 5.3, and a writer who wants a figure reads there and never here, because this file is a list of what happened and that file is a list of what a day is.
 
+# VOLUME 09 — BATCH 0001 — STILL NO CHAPTER SUMMARIES, AND WHY, IN ONE PARAGRAPH
+
+**No chapter of Volume 09 exists and none was written by this phase, which is a hand-off that creates no chapter. The next phase, `workspace/volume-09/batch-0002/`, is the cards phase and it also writes no chapters, so this file's Volume 09 block will still be written by the phase that writes Chapter 410 and not before it. A writer who wants Volume 08's fifty summaries and cannot find them in this file is looking in the wrong place: all fifty are in `workspace/volume-08/batch-0003/SUMMARY.md` through `batch-0007/SUMMARY.md`, which carry the day, the load-book entry and the entry's own subject for every chapter. The fourteen-series table and the collision register for the whole of Volume 09 are at `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` sections 2, 3 and 5.3, and the ten Movement I rows are now published at `workspace/volume-09/batch-0002/PROMPT.md` section 1. The full account of the phase that wrote none of this is at `workspace/volume-09/batch-0001/SUMMARY.md`.**
+
 # SUPERSEDED AND KEPT AS HISTORY — NOT A DIRECTIVE, AND COMPACTED BY THE VOLUME 08 AUDIT
 
 # ARCHIVE INDEX — EVERY SUPERSEDED BLOCK BELOW THE LIVE BLOCK IN THIS FILE, COMPACTED

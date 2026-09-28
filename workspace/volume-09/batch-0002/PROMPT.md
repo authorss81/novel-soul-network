@@ -1,0 +1,140 @@
+# VOLUME 09 — BATCH 0002 — THE CARDS PHASE, WHICH FINISHES AN OUTLINE PHASE THAT ARRIVED ALMOST FINISHED, AND WHICH WRITES NO CHAPTERS
+
+**THIS PHASE IS NOT A WRITING BATCH AND IT WILL WRITE NO CHAPTERS. It is the middle of the three Volume 09 assumes, and the two things it was created to write are already on disk, so it must begin by establishing that and must not spend the phase re-doing work that has been done well.** `outline/volume-09.md` is the plan of record, ninety-five thousand three hundred and nine bytes, written by the Volume 08 volume audit before Chapter 401 existed. `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` is the calendar, sixty-one thousand four hundred and forty-six bytes, written with it, carrying a fifty-row day map, fourteen interval series, the Exchange line, the panel budget, a collision register of thirteen rows and the detector. Both were read by the phase before this one and both were confirmed, claim by claim, at `workspace/volume-09/batch-0001/SUMMARY.md` section 2. **The third thing an outline phase owes was not written by anybody, and that third thing is this phase's entire job: TEN CHAPTER CARDS FOR CHAPTERS 401 TO 410, one per day, each with the eight fields `PHASE_SYSTEM.md` names.** `PHASE_SYSTEM.md` requires of a batch outline that it define chapter-by-chapter cards, and `outline/volume-09.md` carries five movement cards and no chapter cards, and the calendar's own section 1 forward-references a Movement I batch prompt that does not exist. **A Volume 09 Movement I written against five movement cards is a movement whose ten chapter boundaries are invented at the desk, and that is the condition under which this repository has produced a wrong interval nine times in seven volumes.**
+
+**Read, in this order, and stop when you have them:**
+
+1. **`workspace/volume-09/batch-0001/SUMMARY.md`** — the hand-off that dispatched this phase. Section 5 is why this phase exists and is not `batch-0003`, section 4 is a matcher defect you will inherit, and section 6 carries the two debts this phase must not pay.
+2. **`workspace/volume-09/batch-0001/PROMPT.md`** — the hand-off itself. Its sections 1 to 5 are the inheritance: the matchers, the six things Volume 09 may not spend, the people and the spent ages, the four Exchange figures and the ask, and the form with its row set and its cap. **Its section 7 is marked as made, and its section 6 is fourteen debts with owners and none of them is this phase's.**
+3. **`outline/volume-09.md`** — the plan of record. Its eight re-bases, its five movement cards, its *Starting state*, its *Starting relationships*, its six things the volume may not spend, its sixteen canon guardrails and its *And four instructions to the writer* are the boundaries of what you may decide. **Where this prompt and the plan disagree, the plan is right.**
+4. **`workspace/volume-09/ARITHMETIC-AND-CALENDAR.md`, sections 0 to 5** — the chain, the day map, the fourteen series, the wall, the Exchange line, the panel budget, the closed series, the collision register, and the limits at 5.5. **Section 6 is reserved for the Volume 09 close and is empty and is not yours.**
+5. **`state/current.md`, `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`** — the Volume 09 live blocks, which are short on purpose.
+
+**This prompt governs ten cards. It does not govern the volume.**
+
+---
+
+## 1. The ten days, and the ten entries, and where they came from
+
+**Printed here so that a card never computes an interval and never carries a figure from the card beside it. These ten rows are read out of section 1 of the calendar and are not re-derived here, and the calendar governs any difference between this table and that file. `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` section 1 says these ten rows are duplicated verbatim in the Movement I batch prompt, and the Movement I batch prompt is `batch-0003` and not this one; this copy exists so that the cards can be written against it, and `batch-0003` must print its own from the calendar and not from this file.**
+
+| Ch | Week | Day | Day no. | Entry |
+| --- | --- | --- | --- | --- |
+| 401 | 149 | Monday | 929 | 404 |
+| 402 | 149 | Wednesday | 931 | 405 |
+| 403 | 149 | Thursday | 932 | 406 |
+| 404 | 149 | Friday — the first Friday rota of Volume 09 | 933 | 407 |
+| 405 | 150 | Monday | 936 | 408 |
+| 406 | 150 | Wednesday | 938 | 409 |
+| 407 | 150 | Friday — the second Friday rota of Volume 09 | 940 | 410 |
+| 408 | 151 | Monday | 943 | 411 |
+| 409 | 151 | Wednesday | 945 | 412 |
+| 410 | 151 | Thursday | 946 | 413 |
+
+**No day number, no week number, no month-name, no month-date and no mileage appears in any chapter these cards govern, and no card may write a requirement that depends on one being printed.** The volume's territory is Chapters 401 to 450 and no chapter falls outside those days, and the four weeks with no chapters are 161, 165, 166 and 167, and a writer who finds the gap should check the weeks before concluding a row is wrong.
+
+---
+
+## 2. The fourteen series at those ten days, published, and the rule that governs all of them
+
+**Every figure below is the chapter's day in section 1 minus a named anchor, read out of sections 2 and 3 of the calendar. A card that needs one of these figures copies it from this table. A card that computes one is a card that has already lost a figure, and the subtraction is the anchor and the invariant is only the check, and the invariant is the better check because it can fail.**
+
+| Series | Anchor | 401 | 402 | 403 | 404 | 405 | 406 | 407 | 408 | 409 | 410 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| The room off the service road | 362 | 567 | 569 | 570 | 571 | 574 | 576 | 578 | 581 | 583 | 584 |
+| The card in a rail in Lattice Ward | 358 | 571 | 573 | 574 | 575 | 578 | 580 | 582 | 585 | 587 | 588 |
+| The man of about thirty-three's hold | 729 | 200 | 202 | 203 | 204 | 207 | 209 | 211 | 214 | 216 | 217 |
+| The man of about fifty-one's series | 756 | 173 | 175 | 176 | 177 | 180 | 182 | 184 | 187 | 189 | 190 |
+| The ask | 672 | 257 | 259 | 260 | 261 | 264 | 266 | 268 | 271 | 273 | 274 |
+| The nine hand copies | 796 | 133 | 135 | 136 | 137 | 140 | 142 | 144 | 147 | 149 | 150 |
+| The twelve lines | 442 | 487 | 489 | 490 | 491 | 494 | 496 | 498 | 501 | 503 | 504 |
+| The thirteenth line | 491 | 438 | 440 | 441 | 442 | 445 | 447 | 449 | 452 | 454 | 455 |
+| The fourteenth line | 526 | 403 | 405 | 406 | 407 | 410 | 412 | 414 | 417 | 419 | 420 |
+| The fifteenth line | 547 | 382 | 384 | 385 | 386 | 389 | 391 | 393 | 396 | 398 | 399 |
+| The sixteenth line | 572 | 357 | 359 | 360 | 361 | 364 | 366 | 368 | 371 | 373 | 374 |
+| The seventeenth line | 590 | 339 | 341 | 342 | 343 | 346 | 348 | 350 | 353 | 355 | 356 |
+| The eighteenth line | 644 | 285 | 287 | 288 | 289 | 292 | 294 | 296 | 299 | 301 | 302 |
+| The nineteenth line | 666 | 263 | 265 | 266 | 267 | 270 | 272 | 274 | 277 | 279 | 280 |
+
+**THE CARD-MINUS-ROOM INVARIANT HOLDS ON ALL TEN ROWS AND IT IS THE CHEAPEST CHECK IN THIS REPOSITORY: the set of distinct values of (day − 358) minus (day − 362) is {4}, on every one of these ten days, because the card went to its rail on the Thursday of the week before the room opened. Run it on your ten cards before you write the next prompt. The man of about fifty-one's series is printed in weeks and days where the file is a load book and never in days alone, and Chapter 401's one hundred and seventy-three is twenty-four weeks and five days.**
+
+**THE NINETEENTH LINE IS THE ONLY PROMISE ON THAT HARDBOARD AND IT IS TWO HUNDRED AND SIXTY-THREE DAYS OLD ON CHAPTER 401 AND TWO HUNDRED AND EIGHTY AT THE CLOSE OF THE MOVEMENT, and no line is added, removed or rubbed off in Movement I, and the plan of record opens no twentieth line, and the reason it opens none is printed: a twentieth line would be a new anchor and a new column, and a volume that adds a promise to a board in order to have something to publish has added a promise and not a line.**
+
+---
+
+## 3. The three collisions inside these ten days, and one of them is the most dangerous row in the volume
+
+**The calendar's register at section 5.3 is a sweep over all seven hundred of the volume's interval values and it returns thirteen collisions at seven chapters. Three of them fall in Movement I and every card must know all three, because a figure that equals an anchor is the figure most likely to be read as a date.**
+
+- **Chapter 404, day 933: the twelve lines are 491, and 491 is the anchor of the thirteenth line; and the thirteenth line is 442, and 442 is the anchor of the twelve lines.** The two figures in this one chapter are each other's anchors, and both members of the pair are printed because a writer arriving at Chapter 404 needs to see both and needs to know that each is also the day the other was written. **This is the same collision Volume 08 found at Chapter 357, and it lands on a different day because the two series were never separated by a day this volume controls.** The card for 404 must say which figure is an age and which is the other line's anchor, in that chapter, in prose and not in a note.
+- **Chapter 408, day 943: the room off a service road is 581, and 581 is a CLOSED anchor — the day a landlord put the heating on.** The heating is the only closed series in this manuscript, it went off on day 467 and a landlord put it on on day 581, it has no column in the calendar and is not to be given one, and a chapter that says the room is five hundred and eighty-one days old is saying, in the same word, a thing about a building and a thing about a fortnight of heating that a cook paid for and that nobody repaid. **This is one of only two such rows in the whole volume and the other is at Chapter 443 in Movement V, and the calendar says in terms that a writer who reaches either must say in the same breath that the figure is an age and not a date. The card for 408 must carry that requirement explicitly, and no card may put a days-off figure for the heating anywhere.**
+
+---
+
+## 4. What the plan of record has already decided about Movement I, and what is left for the cards
+
+**The plan's Movement I card is titled *Two Cards In A Rail*, runs Chapters 401 to 410 across weeks 149 to 151 and days 929 to 946, and names a pressure type: work, discovery, and the first time in nine volumes that the object the case is about is a thing somebody left and not a thing somebody printed. All four of its beats are decided and are not yours to re-decide. What is yours is the ten-day allocation of them and the ten sets of eight fields.**
+
+1. **A second card is in the rail and it has a place-name on it and nobody has looked at it in two years because it is not his and the rail is not a register.** The rail is at the end of a counter in a repair shop in Lattice Ward; it holds two cards from Chapter 401 onwards and held one for the previous eight volumes. **The finding of the movement is not the place-name. It is that a rail of card slots has no order and a card in it is not a document and is not findable by anybody who is not looking, and the man of about thirty-three, who holds four buildings and about nine hundred doors and is at two hundred days on Chapter 401, says one thing in a room and nobody writes it down and it is about a rail.**
+2. **Rafi Pell, 21, is given a chair in this city, at a table that is not the one in Volume 08, and he is on it, and it is not a reward and nobody took a vote about him.** Guardrail 8: he is not forgiven the word *variant* and does not become a yes, and both of those things are true at once. **Leo Marr is in no chapter of this movement and is not in this volume at all, and that is a decision and not an oversight: the most expensive nine seconds in this manuscript does not get a second volume to be interesting.**
+3. **The first Friday rota of Volume 09, about eleven people in a company training room in Crown Terrace, the post bare for about ten weeks, the laminated sheet in a drawer, and nobody has asked for either.** The run goes and nobody says how long it took and nobody asks. **The standing sentence about a release and a lanyard is not said by anybody, the four seconds of Volume 08's first Friday are not reopened and are not referred to, and no sheet and no form and no line on any hardboard and no narrator's sentence in any of these ten files says what any Friday was.** Movement I has **two** Friday rotas and they are at Chapters 404 and 407.
+4. **The close, at Chapter 410: a person with an ordinary job does a correct thing that changes nothing, says so out loud in about nine words, is owed nothing and is thanked by nobody, and it is the fifth of at least five such people in this volume.** No new line is written on the hardboard, the plan of record opens no new series, and the nineteenth line stands and is two hundred and eighty days old at the close of the movement.
+
+**AND ONE RELATIONSHIP MILESTONE, WHICH IS AT CHAPTER 403, WHICH IS A DAY YOU HAVE A FIGURE FOR.** A limit is said out loud to him about a small thing and he takes it, and it is the fifth time in two volumes that a limit in a room has not become a task. Nothing is resolved and the series milestone is not touched. **It is the condition on the page, it is met four times in Volume 08 at Chapters 353, 366, 373 and 388, and it was paid once at Chapter 399, and nobody in any room remarked on either fact and neither fact is on anything, and a card must not let a reader think this is the chapter it is paid.**
+
+**A QUESTION THE CARDS MUST SETTLE DAY BY DAY, AND IT IS NOT SETTLED BY THE PLAN. `outline/volume-09.md` says at *Starting relationships* that Evan Senn "is named in Volume 01 at Chapter 4, in the tool roll, in a card; named once more at Chapter 12. That is two mentions in eight hundred pages and this volume is about the other forty-eight."** Those two mentions are in Volume 01 and not in this volume, and this volume has fifty chapters, and the phrase does not reconcile with either number, and **no card may treat that figure as a count of chapters available to him.** Guardrail 14 is the operative instruction: Evan Senn is not a device, is not a secret, and is not a reason for anything; no living character is a relative of his, no living character has his authority, and no document confers anything. **Each of your ten cards states plainly whether Evan's name is on the page that day, and a card that leaves it unstated has pushed the decision onto a writer.**
+
+---
+
+## 5. The eight fields, and what this repository means by each of them
+
+**`PHASE_SYSTEM.md` names a chapter card's fields. This repository has learned what each one costs, and the cost is printed here so that a field is not filled with a restatement of the plan.**
+
+- **Chapter number** — one of 401 to 410, and the day, the week, the day number and the load-book entry from the table at section 1 above, and the entry is the one after 403 and is continuous with Volume 08's run.
+- **POV and location** — one place, named as a building and a room, from the plan's *Major locations*. **A location is not a district and a district is not a town and a bus is a bus, and no card may use the word for a town's meeting, because a town council is a room of about nine people with the same furniture and the word is a way of not looking at the furniture.**
+- **Immediate goal** — one thing the point-of-view person wants on that day, in their own terms. **Not a theme, not a discovery about the case, and not an arc.**
+- **Resistance** — a person, a building, a rule somebody wrote by hand, or the protagonist's own limitation. **Never a mechanism and never a device, and a person with an ordinary job is a valid resister and is not a villain and is owed nothing.**
+- **Major turn** — the thing that changes, said in one sentence, and it must be checkable against the ending hook or it is the same beat twice.
+- **Emotional or practical consequence** — what it costs, and **the cost is named out loud in somebody's own words, not summarised by the narrator**, and this is one of the two countable obligations at section 6 below.
+- **Required continuity facts** — the series figures this chapter must carry, copied from the table at section 2 and not computed, and the day-map row, and the entry.
+- **Ending hook or completed beat** — **most of these ten are completed beats and this movement is not a cliffhanger movement.** A card that ends on a cut-away in the middle of a sentence has written a chapter that will be cut away in the middle of a sentence.
+
+---
+
+## 6. The obligations that bind Movement I, and the two of them are countable
+
+**Most of the plan's guardrails bind every chapter of the volume and are restated at `outline/volume-09.md`. These are the ones that bind Movement I specifically, and a card that does not carry them is a card that will lose them at the desk.**
+
+1. **NO PANEL AND NO MARKER.** The volume's one panel and one `* * *` marker are both at Chapter 437 and the balance is zero everywhere else. **Movement I places neither, and no chapter of this volume may use the words *panel* or *apparatus* in any form, and the last use of that apparatus in this manuscript was Chapter 387 and the volume is closed.**
+2. **THE WORD NAMING THE PUBLIC BODY IS SPENT NOWHERE IN MOVEMENT I.** It is spent at Chapter 430 and at Chapter 440, in a mouth, by a person with a job, never in a narrator's sentence, never in a load book and never on a surface. A card may not place it before 430.
+3. **THE FOURTH CONDITION IS NOT QUOTED IN MOVEMENT I AT ALL.** It is quoted at most once in the whole volume, whole and word for word and never softened, and it is not quoted here and it is not paraphrased. He teaches, demonstrates, assesses and assists nobody in any of these ten chapters, he says no to every request to, and no page may imply that the room off a service road is not a practice in that department.
+4. **SERIES MILESTONE SIX IS NOT TOUCHED, AND NOT HALF TOUCHED.** The separation is four months old on Chapter 401 and is not shorter and is not ended, and nothing in these ten chapters may let a reader believe the domestic resolution is close.
+5. **NO SCENE, NO DECLARATION AND NO KISS** in Movements I, II, III or IV.
+6. **THE LEARNING-TO-WAIT INJURY IS NOT MEASURED, NOT NAMED AND NOT PUT ON A SURFACE**, and the standing sentence about a release and a lanyard is not said by anybody in any of these ten chapters, and its absence is not reported in any load book.
+7. **THE LICENSOR, THE FIELD, THE MASTER'S FIFTH LINE, THE PENCIL BOX, THE NINTH CHAIR AND THE WOMAN'S PAGE ARE ALL UNTOUCHED**, and the standing question and the forward question are stated in none of the ten chapters and answered in none.
+8. **NO LOAD BOOK IN ANY OF THESE TEN CHAPTERS REPORTS THE ABSENCE OF ANY PROHIBITED THING.** The standard heading is kept, ten times, and its subject is the day's work and not the volume's prohibitions. The record of a guardrail's holding belongs in your summary and in a state file and not in a chapter.
+9. **NO NAME IS ATTACHED TO ANYTHING THAT HAPPENS**, including the thing at the far end of the road, of which there is none in this movement. A person whose job it is to look at a stranger's wrist does not exist in this manuscript and may not be invented, and neither may any office on the far side of the road that would let a stranger be examined by a stranger.
+10. **THE SIX SURFACES ARE NOT MERGED IN A SINGLE CLAUSE IN ANY OF THE TEN CHAPTERS.** The card in the rail in Lattice Ward, the wall list in its plastic sleeve in that same shop, the hardboard on two nails in the room off a service road, the master's original in the fourth pocket, the page of paper with about eleven lines in it, and the sheet of about nine lines in a room in the second of the four districts. A card that puts two of them in one clause has written a chapter that a reader will misread, and this is the failure the volume's whole climax turns on.
+11. **THE THREE SPENT AGES.** Forty-one, forty-four and forty-six were spent across Volume 08 and may not be attached to anybody new in Volume 09. **There are two of the forty-fours in Volume 08, one in the company training room in Crown Terrace and one who put a question to the holder of the Exchange, both canon, never in one room.** The company training room in this movement has a man of about thirty-nine who buys training for the company that runs it, and he is not a replacement for the spent forty-four. **The identity class is keyed on sex and age and job and not on age and job alone, and keying it on age and job is what let a woman of thirty-six be written as a man of thirty-six in Chapter 394 of Volume 08 with two female pronouns in the same sentence.**
+
+**AND THE TWO COUNTABLE OBLIGATIONS, WHICH A CARD MUST ALLOCATE TO NAMED DAYS AND WHICH YOUR NEXT PROMPT MUST BE ABLE TO COUNT.** Guardrail 12 requires that in **at least two chapters of this movement** a cost be named out loud in somebody's own words in at least two chapters per movement, and that **a correct action that changes nothing be on the page at least four times, performed by a person who is not a villain and is owed nothing.** These are floors and not targets, they are per movement, and **the plan's own Movement I close is the fifth of at least five such people in this volume**, so the four are already partly specified and your cards must name which days carry them. State the count in your summary in the form *n chapters with a named cost on days x and y; m correct actions that changed nothing on days a, b, c and d*.
+
+---
+
+## 7. What this phase must not do
+
+**It writes no chapter. It does not edit `outline/volume-09.md`; where the plan is wrong, the plan is a document with an owner and a repair pass owns it and the repair carries the superseded text beside it.** It does not re-derive the chain, does not re-base the two-day offset from the Monday of week thirty-one, and does not move a day, a week or an entry. It does not extend `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` above section 5 and it does not write section 6, which belongs to the phase that writes Chapter 450. It does not add a twentieth line to the hardboard, and therefore does not add a nineteenth series. It does not fix the volume's telephone count, which is a count of what will be said into a tin on days that have not happened. **It does not pay any of the fourteen debts in the hand-off's section 6, or either of the two the hand-off's summary added, or either of the two this prompt has just found; every one of those is owed by a repair pass over somebody else's file, and a batch phase is forbidden from paying a repair debt in the same run as a writing pass.**
+
+**AND THE INSTRUMENT YOU MUST NOT REUSE AS DESCRIBED. The hand-off's summary at section 4 found that the apparatus boundary has been described in prose since Volume 05 as *the italic entry line that opens each load book*, and that on a file carrying the `* * *` marker a matcher written as *the first line beginning with an asterisk* silently swallows the marker and every word above it, and returned 40.412 in aggregate against a published 39.982. The boundary is the pattern `^\*\d+\. ` and not a description, and every instrument you run on these ten cards uses the pattern.**
+
+---
+
+## 8. What this phase owes its own summary
+
+Every batch summary in this manuscript has named its three suspect things before the pass and not after it, and **no batch in this manuscript has ever claimed that its three came back clean.** Name three, before you run anything. Then publish: the ten cards and where each of the ten lives; the figure count you copied and the figure count you computed and the second number should be zero; the card-minus-room invariant on all ten rows; the collision sweep re-run on your own ten days and whether it returns the three rows the calendar predicts or a row the calendar does not carry, **because the last one of those is how Volume 08's close found a collision its own register did not have**; the two counts at section 6 item 12 in the form given there; which of the ten days name Evan and which do not; and the debts you inherited and paid none of.
+
+---
+
+## 9. The one next phase, and it is a writing movement and not a hand-off
+
+**`workspace/volume-09/batch-0003/PROMPT.md`, and it is Movement I: Chapters 401 to 410, load-book entries 404 to 413, days 929 to 946, the first Friday rota and the second, the rail with two cards in it, and no panel and no marker. It is not this phase's to create and this phase creates nothing after it.** Your prompt must print the ten day-map rows from section 1 of the calendar, and the calendar's row governs them.
