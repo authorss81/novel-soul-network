@@ -64,7 +64,7 @@ The drawer under the till was not opened and the form in the envelope is still o
 
 ---
 
-He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature and the middle one filled.
+He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature and one of the four said the word warm and said it to the room and not to him.
 
 In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Monday.
 

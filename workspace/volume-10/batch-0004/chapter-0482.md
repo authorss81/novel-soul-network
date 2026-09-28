@@ -48,7 +48,7 @@ The chopping board is on a shelf above the kitchen boiler in a kitchen in the se
 
 ---
 
-The woman of about thirty-four who keeps the only written record was in this city on the Wednesday morning and was in her own town on the Wednesday night and was in this city again on the Friday, and nobody in this city asked her anything on the Wednesday morning and the man at the counter in Lattice Ward was behind the bench and did not look up.
+The woman of about thirty-four who keeps the only written record was in this city on the Wednesday morning and was in her own town on the Wednesday night, and she has not been in this city since the Wednesday morning, and nobody in this city asked her anything on the Wednesday morning and the man at the counter in Lattice Ward was behind the bench and did not look up.
 
 Nobody told the man at that counter that nine lines had been said out loud twice in four days of bus travel away and that a second copy existed, and he has not been told, and he was not on a rota for it and would not have been told if he had been.
 
@@ -56,7 +56,7 @@ Nobody told the man at that counter that nine lines had been said out loud twice
 
 ---
 
-He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature and the middle one filled.
+He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature and the middle one filled and he watched it fill and did not think about it.
 
 In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
 

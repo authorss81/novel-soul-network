@@ -20,11 +20,15 @@ He said, first, in about four seconds, that he was going to tell the three rooms
 
 She said no. She said it in about nine seconds and she said it once and she did not raise her voice and about four people in that corridor looked up and about five did not.
 
+He had not moved when she began and he moved about half way through it, one step sideways, to get out of the line between the window and the nine chairs, and stopped there and stayed there. She had a plastic bag in her hand and she put it down on the windowsill before she said anything and picked it up again after, and the radiator under that window was going and about four of the nine could hear it over her and about five could not, and nobody in that corridor has asked her what was in the bag.
+
 She said, and this is the whole of her side of it:
 
 **"If three rooms are told that a fourth came out, then every one of those three now knows it can come out, and the next thing anybody in this city says to them is a number, and a number is a thing that is easier to say to a room that has already been told one room left. Nobody is owed a list of who is in. A room that nobody has told anything about is the only kind there is that cannot be counted twice."**
 
 **She was right about that and he took it, and he took it in about four seconds, and nobody improved on her and about four of the nine in that corridor have said since that she was right and about four have said nothing and neither group has said it to her and he has not said it to her either.**
+
+Neither of them said anything for about four seconds after that. They stood about three feet apart in a corridor with nine people in it, and about four of the nine looked at the floor and about four looked at the door and about one looked at him, and that one has not said so to anybody and has not been asked.
 
 He did not argue the point. He has argued points with people in this case for about nine years and about four of those arguments were about method and two of them were wrong and he took those two as well, and this one took about four seconds and a sentence and he did not offer a reason, because a reason would have been a second argument and she was not going to win one.
 
@@ -34,7 +38,7 @@ She went into the room at about twenty to four. He went back to Lattice Ward and
 
 Nobody thanked anybody. Nobody apologised to anybody. Nobody in that corridor said either of their names and about four of the nine could not have said either of their names if they had been asked.
 
-**Nobody in that corridor knew that the man who was talking to the nurse had once answered a room of about nine people in a town with a figure of about nine, and nobody in that corridor knew that the nurse had been in a room in another district at a counter about a month ago and refused in about nine seconds to write a second number down, and neither of those two facts has ever been in the same sentence in front of either of them.**
+**Nobody in that corridor knew that the man who was talking to the nurse had once answered a room of about nine people in a town with a figure of about nine, and nobody in that corridor knew that the nurse had been in a room in another district at a counter in the week one hundred and seventy-first and refused in about nine seconds to write a second number down, and neither of those two facts has ever been in the same sentence in front of either of them.**
 
 **There is a rack of leaflets on the wall of that corridor about nine of them deep** and about four are about a company and none of the four has anything to do with either of the people who were in that corridor, and about nine people in that corridor have taken one in the last year and about four have never taken one and about four have taken four of them over four years and kept them in a bag, and none of that has ever come up in a sentence in that corridor.
 
@@ -44,7 +48,7 @@ Nobody thanked anybody. Nobody apologised to anybody. Nobody in that corridor sa
 
 ---
 
-He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature and the middle one filled.
+He went to the room at about half past six and did not stay long. A cook of twenty-seven was at the sink saying nothing and about four people came in for the temperature and about four seconds after he came in he stopped being able to hear what he had said in a corridor that afternoon and did not try to hear it again.
 
 In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
 
