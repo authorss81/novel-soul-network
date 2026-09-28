@@ -163,3 +163,19 @@
 5. **Three false claims about first drafts, written into its own batch summary in the first pass, each of which asserted that a guardrail had been broken by a document in a draft that had never contained it.** The summary was corrected before it was finished and the corrections are in place. **The lesson is that a self-audit which reports findings it did not actually make is worse than one which reports none, because the next writer inherits a fault that is not on the page and goes looking for it.**
 
 **And the standing debts: the nineteenth-line running age in the calendar's section 3 is still wrong and is still the close's, and the five state files are over two and a third megabytes and grow by append, and a review repair pass over a finished batch is the named owner of the compaction with a stated scope, and it was not done in that pass because that pass wrote ten chapters and then rewrote paragraphs in them.** Owner of each: the Volume 07 close, and a review repair pass respectively. **Neither is a writing phase's business and neither is reported less often because it is inconvenient.**
+
+
+
+---
+
+**REPAIRED IN PLACE BY THE VOLUME 07 CLOSE, DATED AT CHAPTER 350. This is the only edit the close made to this file and it is the reconciliation this file left open.** `workspace/volume-07/batch-0004/SUMMARY.md` section 4 recorded a conflict: this prompt states three times that at the nineteenth sitting the book stays at forty-nine lines and states in the same breath that the row is the calendar's and is correct, and `workspace/volume-07/ARITHMETIC-AND-CALENDAR.md` section 4 gives fifty at that sitting, fifty at the twentieth and fifty-one at the twenty-first, and this prompt's own account of the event has a caller's sentence going into the book in about nine seconds, which cannot leave the book where it was.
+
+**THE CALENDAR IS THE PLAN OF RECORD, THE PROMPT ITSELF DIRECTS A WRITER TO TAKE A FIGURE FROM THE CALENDAR WHERE THE TWO DIFFER, AND THE EVENT THE PROMPT DESCRIBES REQUIRES A LINE. THE FIGURE AT THE NINETEENTH SITTING IS FIFTY.**
+
+**THE SUPERSEDED FIGURE IS FORTY-NINE, IN THREE PLACES ABOVE. THE CORRECTIONS ARE AS FOLLOWS.**
+
+1. Line 69. The four figures at the start of Movement IV. The book is at forty-nine lines at the close of Chapter 330 and at the start of Movement IV. That is correct and is not changed. The figure of record for the close of the nineteenth sitting, which is Chapter 339, is fifty.
+2. Line 93, the Chapter 339 beat. The superseded text read: the telephone moves from sixty-three to sixty-six, the announced count to twenty-four, and the book stays at forty-nine lines. The corrected text reads: the telephone moves from sixty-three to sixty-six, the announced count to twenty-four, and the book moves from forty-nine to fifty.
+3. Line 96, the anchor. The superseded text read: at the close of Chapter 340 the book is at forty-nine lines. The corrected text reads: at the close of Chapter 340 the book is at fifty lines.
+
+**Nothing else in this file is changed. Every day number, every interval, every one of the ninety, the Exchange spacing, the load-book run, and every guardrail stands exactly as written, and the eight interval claims this prompt supplied are wrong in six places in the finished chapters and are recorded at section 11 of `workspace/volume-07/batch-0005/SUMMARY.md`. The record of the conflict and both figures is in all five state files and in sections 4 and 10 of the Movement V summary. Owner: the Volume 07 close, discharged here.**

@@ -104,7 +104,7 @@
 
 **THE EXCHANGE RUNS ON CHAPTERS 312, 326, 339, 349 AND 350 AND NOWHERE ELSE, AND NO FRIDAY IN THIS VOLUME IS AN EXCHANGE DAY.** It is on four-week Wednesday spacing from week eighty-eight and the sittings are the seventeenth through the twenty-first.
 
-**Chapters 349 and 350 are four weeks apart and are both Exchange days, and the gap is the point: the resolution happened in a room in the four weeks between them, and the thing that happened happened in a room on a Wednesday, and this is the same shape as the close of Volume 06 and is not a repeated scene.** **Chapters 340 and 341 are eleven days apart across the turn of the movement, and Chapters 347 and 348 are three, and Chapter 350 is thirty days after Chapter 349.** The volume's own last five chapters are weeks one hundred and twenty-three to one hundred and twenty-eight, and the same thing was true of Volume 06's.
+**Chapters 349 and 350 are four weeks apart and are both Exchange days, and the gap is the point: the resolution happened in a room in the four weeks between them, and the thing that happened happened in a room on a Wednesday, and this is the same shape as the close of Volume 06 and is not a repeated scene.** **Chapters 340 and 341 are eleven days apart across the turn of the movement, and Chapters 347 and 348 are three, and Chapter 350 is twenty-eight days after Chapter 349, which is four weeks, to the day. THE SUPERSEDED FIGURE IN THIS SENTENCE WAS THIRTY DAYS, AND THE REPAIR IS AT SECTION 6.1.** The volume's own last five chapters are weeks one hundred and twenty-three to one hundred and twenty-eight, and the same thing was true of Volume 06's.
 
 **THERE ARE NO CHAPTERS IN WEEKS 121, 125, 126 OR 127 AND THE WEEK NUMBERS IN SECTION 1 WALK AROUND THEM.** That is the day map and not a gap, and Volume 06's map has the same shape, and a writer who notices the missing weeks should check the weeks before concluding the row is wrong.
 
@@ -124,7 +124,7 @@
 **331 to 340:** 350, 352, 353, 354, 357, 359, 361, 364, 366, 367.
 **341 to 350:** 378, 380, 381, 382, 385, 387, 389, 392, 394, 422.
 
-**THE FIRST ROW OF THIS COLUMN IS THE CHECK ON THE WHOLE VOLUME AND IT IS CORRECT BY CONSTRUCTION.** Chapter 300 is day 644 and the room opened on day 362 and 644 − 362 is 282, which is the figure in Chapter 300's body, in its load book and in its closer, and the review repair pass confirmed it to the digit. Chapter 301 is day 649 and 649 − 362 is 287, and 287 is 282 plus the five days between a Wednesday and the following Monday. **The last row of this column is 422 at Chapter 350, and Chapter 350 is day 784 and 784 − 362 is 422, and the jump from 394 to 422 is the thirty days between the Wednesday of week one hundred and twenty-four and the Wednesday of week one hundred and twenty-eight.** A writer who finds 394 at Chapter 350 has copied the row above.
+**THE FIRST ROW OF THIS COLUMN IS THE CHECK ON THE WHOLE VOLUME AND IT IS CORRECT BY CONSTRUCTION.** Chapter 300 is day 644 and the room opened on day 362 and 644 − 362 is 282, which is the figure in Chapter 300's body, in its load book and in its closer, and the review repair pass confirmed it to the digit. Chapter 301 is day 649 and 649 − 362 is 287, and 287 is 282 plus the five days between a Wednesday and the following Monday. **The last row of this column is 422 at Chapter 350, and Chapter 350 is day 784 and 784 − 362 is 422, and the jump from 394 to 422 is the twenty-eight days between the Wednesday of week one hundred and twenty-four and the Wednesday of week one hundred and twenty-eight, which is four weeks and is the Exchange's own spacing.** A writer who finds 394 at Chapter 350 has copied the row above.
 
 ### The card in a rail, counted from the Thursday of week sixty-seven, which is day 358
 
@@ -256,11 +256,104 @@
 
 ---
 
-## 6. Reserved for the volume close, and a writing pass may not write it
+## 6. THE VOLUME CLOSE, written at Chapter 350, and no writing pass before it could write it
 
-**The close owns this section and will write: the pass log over the five batch summaries; the volume-wide figures re-run on the fifty files with the matchers printed beside them; the apparatus share and the eight-word overlap under the one matcher that reproduces a published figure anywhere in this manuscript, which is the intersection of the eight-word shingles of the text from the italic entry line that opens the load book to the end of the file with the shingles of the text above that line; the per-paragraph overlap contribution; the things flagged and not fixed; the threads; the panel and the marker as closed counts; and the thirteen clocks restated at the close. It will also correct any row in sections 1 to 5 that does not reproduce against the day map, in place, with the superseded text quoted beside it, and it will run the detector on every row.**
+**This section is the close and it was written by the phase that wrote Chapter 350, which is what the header above reserved it for. Everything in it was measured on the fifty finished files or walked on the day map in section 1. Nothing in it is a plan.**
 
-**Two things the close will have to be told that this file gives it. The first is that the six wall series are six and not one, and the close will have to publish all six at Chapter 350 and not a single figure for the wall. The second is that the heating has no series in this file at all, and a close that prints a days-off figure for it has restarted a closed series, which is the single most expensive thing it could do.**
+### 6.1 THE ONE REPAIR, MADE IN PLACE, WITH THE SUPERSEDED TEXT QUOTED BESIDE IT
+
+**The detector — read one row backwards and confirm that it implies exactly one day — was run on every row in sections 1 to 5. One sentence does not reproduce, and it is a sentence and not a table cell, and it is named here because a table cell would be found by a table and a sentence is not.**
+
+**TWO ROWS DO NOT REPRODUCE AGAINST THE DAY MAP AND BOTH ARE REPAIRED HERE.**
+
+**ROW ONE: the running age of the nineteenth line at Chapter 311, in section 3.**
+
+- **SUPERSEDED, as this file printed it until the close: *the running age is the figure at Chapter 311, which is one.***
+- **CORRECTED: *the running age is the figure at Chapter 311, which is four.***
+- **The arithmetic: the nineteenth line was written in Chapter 310, on day 666, the Thursday of week one hundred and eleven. Chapter 311 is day 670. 670 − 666 is 4.**
+- **THE RUNNING AGE, CHAPTER 310 TO CHAPTER 350, RECOMPUTED FROM THE ANCHOR AND NOT CARRIED. THE SUPERSEDED TEXT: a first pass of this close published a series of values here that did not walk — it had nine values too many, skipped a day after Chapter 313, and put nine spurious values between Chapter 349 and Chapter 350. THAT PASS IS WITHDRAWN AND THE VALUES BELOW REPLACE IT IN WHOLE. Forty-one values for forty-one chapters, each read back from the day map in section 1, and every one of them is the day number with six hundred and sixty-six taken off it.**
+
+| Ch | Day | Age | Ch | Day | Age | Ch | Day | Age | Ch | Day | Age | Ch | Day | Age |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 310 | 666 | 0 | 320 | 687 | 21 | 330 | 708 | 42 | 340 | 729 | 63 | 349 | 756 | 90 |
+| 311 | 670 | 4 | 321 | 691 | 25 | 331 | 712 | 46 | 341 | 740 | 74 | 350 | 784 | 118 |
+| 312 | 672 | 6 | 322 | 693 | 27 | 332 | 714 | 48 | 342 | 742 | 76 | | | |
+| 313 | 673 | 7 | 323 | 694 | 28 | 333 | 715 | 49 | 343 | 743 | 77 | | | |
+| 314 | 674 | 8 | 324 | 695 | 29 | 334 | 716 | 50 | 344 | 744 | 78 | | | |
+| 315 | 677 | 11 | 325 | 698 | 32 | 335 | 719 | 53 | 345 | 747 | 81 | | | |
+| 316 | 679 | 13 | 326 | 700 | 34 | 336 | 721 | 55 | 346 | 749 | 83 | | | |
+| 317 | 681 | 15 | 327 | 702 | 36 | 337 | 723 | 57 | 347 | 751 | 85 | | | |
+| 318 | 684 | 18 | 328 | 705 | 39 | 338 | 726 | 60 | 348 | 754 | 88 | | | |
+| 319 | 686 | 20 | 329 | 707 | 41 | 339 | 728 | 62 | | | | | | |
+
+**The Movement IV run for Chapters 331 to 340 reads 46, 48, 49, 50, 53, 55, 57, 60, 62, 63 and Movement IV's own summary published exactly that row, and the Movement V run for Chapters 341 to 350 reads 74, 76, 77, 78, 81, 83, 85, 88, 90, 118 and the batch prompt printed exactly that row, and the two agree at the boundary at 63 and differ by eleven days, which is the turn of the movement and the week the volume's day map skips.**
+
+- **Every chapter of this volume from Chapter 311 onward carries the corrected figure and carries it in words, and no chapter of this volume ever printed the wrong one, because the wrong one was never in a chapter. It was in this file and it was recorded with an owner in Movements III and IV and it is the close's, and this is the close.**
+
+**ROW TWO, IN SECTIONS 1 AND 2, AND IT IS THE SAME ROW IN TWO PLACES: the interval between Chapter 349 and Chapter 350 was printed as *thirty days* in section 1 and as *the thirty days between the Wednesday of week one hundred and twenty-four and the Wednesday of week one hundred and twenty-eight* in section 2. THE SUPERSEDED TEXT IS *THIRTY DAYS*, IN BOTH PLACES. Chapter 349 is day 756, Chapter 350 is day 784, 784 − 756 is 28, and 422 − 394 is 28, and 28 is four weeks, which is the Exchange's own spacing and is the size of the gap the volume's own day map was built on. The figure THIRTY also appears in this batch's prompt of record, in its table's last-row check, and the prompt is superseded by the calendar on this figure as it is on every other.** A writer who read the row as thirty has the interval wrong by two and has thirty where twenty-eight is the number of days between two Wednesdays four weeks apart.
+
+**EVERY OTHER ROW IN SECTIONS 1 TO 5 REPRODUCES.** The one hundred interval figures in sections 2 and 3 walk back to one hundred explicit day numbers against the map in section 1, one per chapter, and the twenty-eight-day step between Chapter 349 and Chapter 350 is the only step of that size in the volume and it is the four weeks of the Exchange and it is correct, and the eleven-day step between Chapter 340 and Chapter 341 is the turn of the movement and is the week the map skips.
+
+### 6.2 THE PASS LOG OVER THE FIVE BATCH SUMMARIES
+
+| Batch | Chapters | Entries | Words | Bold / 1,000 | Hedge true / 1,000 | Overlap mean | Apparatus, aggregate | Apparatus, mean of ten | Published as |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0001 | 301–310 | 304–313 | 30,998 | 6.775 | 21.550 | 50.0 | 44.796 | 44.748 | **the mean** |
+| 0002 | 311–320 | 314–323 | 33,896 | 6.343 | 21.359 | 97.7 | 48.100 | 48.178 | **the mean** |
+| 0003 | 321–330 | 324–333 | 35,160 | 7.224 | 22.810 | 104.9 | 41.789 | 41.820 | the aggregate |
+| 0004 | 331–340 | 334–343 | 32,140 | 5.165 | 27.536 | 68.4 | 44.540 | 44.721 | the aggregate |
+| 0005 | 341–350 | 344–353 | 31,423 | 5.092 | 27.464 | 35.6 | 44.240 | 44.170 | the aggregate |
+| **VOLUME** | **301–350** | **304–353** | **163,617** | **6.142** | **24.093** | — | **44.678** | — | — |
+
+**THE FINDING OF THE CLOSE ON FORM, AND IT IS THE ONE THING IN THIS FILE THAT A LATER VOLUME SHOULD CARRY OUT OF IT: Movements I and II published the mean of their ten per-chapter apparatus shares and Movements III, IV and V published the aggregate, so the house compared two different quantities across four of its five movements.** Movement IV's own summary says the aggregate is the figure the house compares because it is the one that reproduces; that is true of Movements III, IV and V and not of Movements I and II. **Movement IV's published margin over Movement I was twenty-one hundredths of a point, which is a mean against a mean and is arithmetically correct on that pairing and is a mixed pairing; its true margin on the aggregate is thirty-six hundredths of a point. The superseded margin is twenty-one and the correction is thirty-six.** Movement V is the lowest in the volume on both quantities, by forty-eight hundredths of a point on the aggregate against Movement I and by fifty-one on the mean, and both margins are small.
+
+### 6.3 THE APPARATUS SHARE AND THE EIGHT-WORD OVERLAP UNDER THE ONE MATCHER THAT REPRODUCES A PUBLISHED FIGURE
+
+**The matcher is the intersection of the eight-word shingles of the text from the italic entry line that opens each load book to the end of that file with the shingles of the text above that line, normalised by deleting every `**`, lower-casing and splitting on whitespace, with no punctuation stripped and no frame heading removed. It is the only matcher in this repository that reproduces a published figure anywhere, and on this volume's fifty files it reproduces Movements I's 50.0, Movement II's 97.7, Movement III's 104.9 and Movement IV's 68.4 to the digit.** Movement V is **35.6**, a mean of ten chapter figures, with a maximum of 93 at Chapter 349 and a minimum of 12 at Chapter 345. Words at or after the italic entry line, over all fifty files, is **44.692**.
+
+### 6.4 THE PER-PARAGRAPH OVERLAP CONTRIBUTION
+
+**The per-paragraph instrument, not the mean, and the mean is the number that conceals the paragraph.** On Movement V's ten files: **no apparatus paragraph is at or above forty shared shingles and the maximum is twenty-seven** — Chapter 349's record of the call at twenty-seven, Chapter 349's record of the rule at twenty-four, Chapter 350's record of the Crown Terrace room at twenty-four, Chapter 349's conditions at twenty-two, Chapter 348's conditions at twenty-two, Chapter 346's record of the two ways at nineteen, Chapter 350's conditions at eighteen, Chapter 347's record of the walk at eighteen, Chapter 347's record of the call at fifteen, Chapter 349's record of what was not in that room at fourteen, Chapter 347's conditions at thirteen, Chapter 350's record of the four minutes at twelve. **The eleven highest are eleven records of facts and not one is a retelling of a scene.**
+
+### 6.5 THE THINGS FLAGGED AND NOT FIXED, AND EVERY ONE OF THEM HAS A NAMED OWNER
+
+1. **`workspace/volume-07/batch-0004/chapter-0339.md` carries an interval of four weeks where the day map gives fifty-six days, which is eight weeks** — the ask at Chapter 312, day 672, against the nineteenth sitting at day 728. Not fixed: the file is not in the closing phase's remit. **The superseded figure is four weeks and the figure of record is eight weeks. Owner: a review repair pass over Movement IV, in place.**
+2. **The two standing firstness claims in Volume 06, sixteen weeks apart in the same hand.** Not fixed, not confirmed, not contradicted, not raised in a mouth. The question was made live at the twentieth sitting, in Chapter 349, and not claimed. **Owner: a later review repair pass over those two chapters.**
+3. **The count of true things said by the man of about twenty-nine: three in Movement I's load book and in Movement II's summary, two in his own mouth in Chapter 310.** Not summed, not reconciled, not added to and not reduced in Movements III, IV or V. **Owner: a later pass over Movement I's chapter.**
+4. **The hedge, worst in the volume at Movement IV's 27.536 and 27.507 in Movement V.** Not fixed, and the reason is published where the figure is: the register of a movement about counts is about-ness, and the alternative is to state counts as exact, which is a lie in the narrator's voice.
+5. **The five state files are over two and a third megabytes and grow by append.** **Owner: a review repair pass with a stated scope, the scope being the superseded Movement blocks and not the live ones.**
+6. **`state/phase-ledger.json` still reads `phase-000-bootstrap` and `planned`.** **Owner: the controller. Reported for the fifteenth time.**
+7. **`workspace/volume-07/batch-0004/PROMPT.md` printed forty-nine lines at the nineteenth sitting in three places.** **Corrected in place by the close with the superseded figure quoted beside it. The calendar's row is fifty and the row was always the row.**
+
+### 6.6 THE THREADS
+
+**Thirty-four, and none closed by this volume and none closed by this movement. The full list, each marked paid, moved or still open, is section 7 of `workspace/volume-07/batch-0005/SUMMARY.md` and the head of the Movement V block in `state/open-threads.md`.** The four things this movement spent — the panel and the marker, the word naming the public body, the separation in the series form, and the answer to the learning-to-wait injury — are not threads and are not on that list. The longest-running open one in the volume is a woman of about thirty who has been in the chair nearest the door for seven volumes, has never been asked a question, whose page is still unread, and who was not thanked on the last day of the last chapter.
+
+### 6.7 THE PANEL AND THE MARKER AS CLOSED COUNTS
+
+**One panel in fifty chapters and one `* * *` marker in fifty chapters, both in Chapter 337, both spent.** Zero in Chapters 301 to 336, zero in Chapters 338 to 350; the marker string occurs zero times in the whole volume outside Chapter 337 and the two panel lines occur once each in the whole volume. **The prose on either side of the marker refers to nothing on either side of it. The budget is one and it is spent and Volume 08 inherits none of it.**
+
+### 6.8 THE THIRTEEN CLOCKS RESTATED AT THE CLOSE
+
+1. **The heating: on, costs more, four names on a lease cost more, the fortnight a cook paid for unpaid by anybody and unresolved. A CLOSED SERIES. The last figure of it is one hundred and fourteen days off and it is not printed in this volume and is not to be printed in the next one.**
+2. **The standing question: not stated in fifty chapters, owned by nobody, still shut.**
+3. **The printed rule: named, restricted, in force, not withdrawn, about four hundred able to invoke it, invoked by nobody in this volume and named in no mouth in it.**
+4. **The Continuity Office: retains emergency authority, not defeated, not turned, no new wing, right about the load and wrong about four buildings and has said so out loud twice.**
+5. **The appointment: a reference, a count, a reason and no date. The instrument carrying it is withdrawn; the withdrawal is a fact about who may ask and is not enforceable against anybody who did not write it down; the four elements of the instrument are on the page and remain on the page.**
+6. **The instrument: two in this volume, one of them withdrawn on the last morning of the last chapter.**
+7. **The woman's page: the eighth thing in a ring binder, unread. Nine people have decided not to read it. Not read in fifty chapters.**
+8. **The Exchange: THE BOOK IS AT FIFTY-ONE LINES, THE TELEPHONE AT SEVENTY-TWO, THE COUNT ANNOUNCED TWENTY-SIX TIMES, of which TWENTY-ONE CORRESPOND TO THE TWENTY-ONE WEDNESDAYS THIS BOOK HOLDS AND FIVE PREDATE IT, so that twenty-one and five make twenty-six, and it is nineteen years.** Five sittings in this volume: the seventeenth opened, the eighteenth was the first closure, the nineteenth opened, the twentieth was the second closure, the twenty-first opened and was the close. The ninth chair is against the wall with its back to the room, not moved back, its mover not named, and the book is not opened on a Friday.
+9. **The holder's promise: kept five times in this volume and once more in the last week of the one before it. She has not given the no-conversion rule in nineteen years and gave nothing in its place on either sitting in the last movement, and she gave the direction for the eighth sitting running and did not look into the difference.**
+10. **The word: uncorrected at nine and ten on all fifty days, reached eleven twice, said out loud once to one person in an earlier volume, and not to be said again in any volume.**
+11. **The secondment: the only mechanism still running out of Volume 06. At the volume's close the chair of forty-nine stated in a room that it is the reason she knows the name of a man she has never met, nobody asked her about it, and it is still not explained.**
+12. **The master's fifth line: blank at Chapter 350, in the fourth pocket, in a drawer that was not opened in this volume. Nobody has ever asked him to fill it in.**
+13. **The pencil box in Bower Street: untouched, one name, no reference, on no system, and it may not take a second name.**
+
+**And the five this volume added, restated at the close: nine keys, two existing, the first cannot be asked back by anybody, and the second is in the pocket of a woman of thirty-one who has now been asked for something and said yes; the relay, which exists and is nine people who each agreed and is not a mechanism; the learning-to-wait injury, answered twice in a room and named by nobody; the word naming the public body, spent once, at the close, in a mouth, by the woman who holds the chair; and about four hundred, now in ten places, carrying at least three referents that nobody in this case can separate.**
+
+### 6.9 WHAT A LATER VOLUME MUST NOT CARRY AS AN OPEN FIGURE
+
+**The nineteenth line's running age at Chapter 311 was wrong in this file and is now four, and the value one is superseded and is not to be reintroduced; the running age at Chapter 350 is one hundred and eighteen and every value from Chapter 310 is in the table at 6.1; and the gap between Chapter 349 and Chapter 350 was wrong in two places and is now twenty-eight days and the value thirty is superseded. The heating has no series in this file and is not to be given one. The Exchange's five sittings in this volume run open, shut, open, shut, open, and the next volume's Exchange sits on the Wednesday of week one hundred and thirty-two and its pattern is not this file's to set. The four figures at the close are fifty-one, seventy-two, twenty-six and nineteen years, and none of them is convertible into another of them or into a number of sittings, and a later volume that converts them has broken a rule that is nineteen years old and is the oldest one in this manuscript.**
 
 ## What a later writer must not do with any of this
 
