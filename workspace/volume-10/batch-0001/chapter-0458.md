@@ -78,7 +78,7 @@ A correct action that changes nothing, performed by a person who is not a villai
 
 He went to the room at about half past six. A cook of twenty-seven was at the sink saying nothing. In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Monday.
 
-A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-six weeks and four days. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room, and his hold went on for about fifty weeks and four days without anything being asked of him and without anything being given to him.
+A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-six weeks and five days. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room, and his hold went on for about fifty weeks and four days without anything being asked of him and without anything being given to him.
 
 Nobody thanked anybody. The shutter came down at about ten.
 

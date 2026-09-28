@@ -78,7 +78,7 @@ A cook of twenty-seven was at the sink saying nothing and had been at the sink b
 
 She washes up in a room where nobody has to eat, which is a thing about that room and not about her, and about four people a week come in and do not eat and go out again and she has never asked any of them to and has never been asked by any of them for anything.
 
-**A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-four weeks and six days, and nobody had renewed the asking and nobody had stopped it, and on that Wednesday nobody at the end of the second bench looked at him either.** In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
+**A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-five weeks, and nobody had renewed the asking and nobody had stopped it, and on that Wednesday nobody at the end of the second bench looked at him either.** In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
 
 A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room, and his hold went on for about forty-eight weeks and six days without anything being asked of him and without anything being given to him.
 

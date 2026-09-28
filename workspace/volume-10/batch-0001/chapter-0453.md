@@ -92,7 +92,7 @@ She washed about nine things and there were more than nine things, and the extra
 
 In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Thursday.
 
-A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-four weeks and six days. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room, and his hold went on for about forty-nine weeks without anything being asked of him and without anything being given to him.
+A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-five weeks and one day. A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room, and his hold went on for about forty-nine weeks without anything being asked of him and without anything being given to him.
 
 Nobody thanked anybody. The shutter came down at about ten.
 
