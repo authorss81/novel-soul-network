@@ -1,6 +1,6 @@
 # VOLUME 09 — BATCH 0006 — MOVEMENT III (Chapters 421–430) — CHAPTER SUMMARIES, ENTRIES 424 TO 433, DAYS 971 TO 988, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
 
-**THE THIRD SET OF TEN ROWS OF VOLUME 09 EXISTS. No checkpoint existed and no chapter file existed on arrival; ten chapters were written, thirteen repairs were made in place across eight of the files, no scene was touched, and the full account is `workspace/volume-09/batch-0006/SUMMARY.md`. NO ROW PRINTS A DAY NUMBER INTO A CHAPTER BODY — the day number is a desk figure for this file and the calendar and appears in no chapter. This is the volume's midpoint and the tenth file in this table is the row that answers the volume's subject.**
+**THE THIRD SET OF TEN ROWS OF VOLUME 09 EXISTS. No checkpoint existed and no chapter file existed on arrival; ten chapters were written, thirteen repairs were made in place across nine of the files and a review repair pass has since made twelve more across nine of them, no scene was touched in either pass, and the full account is `workspace/volume-09/batch-0006/SUMMARY.md`. NO ROW PRINTS A DAY NUMBER INTO A CHAPTER BODY — the day number is a desk figure for this file and the calendar and appears in no chapter. This is the volume's midpoint and the tenth file in this table is the row that answers the volume's subject.**
 
 | Ch | Week | Day | Day no. | Entry | The figure that makes this day this day | What the day is |
 | --- | --- | --- | --- | --- | --- | --- |

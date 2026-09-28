@@ -2,6 +2,8 @@
 
 **NO CHECKPOINT EXISTED AND NO CHAPTER FILE EXISTED WHEN THIS PASS BEGAN. This phase wrote ten chapters, walked every instrument the prompt of record names over the ten finished files, found thirteen defects in them, paid all thirteen in place with the superseded text quoted beside each repair, and publishes the counts the prompt of record owes. The full account of the movement before this one is `workspace/volume-09/batch-0005/SUMMARY.md` and the ten chapters that movement wrote are `workspace/volume-09/batch-0005/chapter-0411.md` to `chapter-0420.md`. The day map is `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` section 1 and the plan of record is `outline/volume-09.md`.**
 
+**AND A REVIEW REPAIR PASS HAS SINCE RUN OVER THIS PHASE AND PAID TWELVE FURTHER DEFECTS IN THE TEN FILES, TOGETHER WITH SIX IN THREE STATE FILES, ONE IN THIS MOVEMENT'S PROMPT OF RECORD AND TWO IN THE NEXT MOVEMENT'S, WHICH ARE AT SECTION 10.6 AND SIX IN THREE STATE FILES AND ONE SELF-CONTRADICTION IN THIS MOVEMENT'S PROMPT OF RECORD, ALL OF THEM IN PLACE, WITH THE SUPERSEDED TEXT QUOTED BESIDE EACH REPAIR, AND EVERY FIGURE IN SECTIONS 1, 2 AND 4 BELOW HAS BEEN RE-MEASURED SINCE. **THE THIRTEEN PLUS THE TWELVE ARE TWENTY-FIVE, ACROSS NINE OF THE TEN FILES, AND NONE OF THE TWELVE TOUCHED A SCENE, A CHARACTER, A BEAT, A DAY, AN ENTRY, AN ANCHOR OR AN INTERVAL THE CALENDAR FIXES. The two passes are not merged: the thirteen belong to the writing pass and are at section 3 items 1 to 13, and the twelve belong to the review pass and are at section 3 items 14 to 17, because a repair pass that folds its own work into the writing pass's list has made the writing pass look better than it was.
+
 **AND THE PROMPT OF RECORD NAMED THREE DECISIONS FOR THIS MOVEMENT AND TOOK NONE OF THEM, BECAUSE NO CARDS PHASE FOR MOVEMENT III EXISTS AND NONE IS TO BE WRITTEN. They were taken in section 11 of `workspace/volume-09/batch-0005/PROMPT.md`, carried into `workspace/volume-09/batch-0006/PROMPT.md` whole, and are discharged below day by day in the order the days run, against the rules that prompt gave them. Nothing in section 6 of that prompt was re-taken here. The one next phase is section 11 below and it is exactly one.**
 
 ---
@@ -27,17 +29,19 @@
 
 | Ch | Week | Day | Day no. | Entry | File | Words | Bold spans |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 421 | 155 | Monday | 971 | 424 | `workspace/volume-09/batch-0006/chapter-0421.md` | 3,974 | 18 |
-| 422 | 155 | Wednesday | 973 | 425 | `chapter-0422.md` | 3,702 | 16 |
-| 423 | 155 | Thursday | 974 | 426 | `chapter-0423.md` | 3,281 | 17 |
+| 421 | 155 | Monday | 971 | 424 | `workspace/volume-09/batch-0006/chapter-0421.md` | 3,975 | 18 |
+| 422 | 155 | Wednesday | 973 | 425 | `chapter-0422.md` | 3,720 | 16 |
+| 423 | 155 | Thursday | 974 | 426 | `chapter-0423.md` | 3,282 | 17 |
 | 424 | 155 | **Friday — the fifth Friday rota of Volume 09** | 975 | 427 | `chapter-0424.md` | 3,285 | 13 |
-| 425 | 156 | Monday | 978 | 428 | `chapter-0425.md` | 3,358 | 12 |
-| 426 | 156 | **Wednesday — the Exchange, the twenty-eighth sitting, THE BOOK DOES NOT OPEN** | 980 | 429 | `chapter-0426.md` | 3,995 | 17 |
-| 427 | 156 | **Friday — the sixth Friday rota of Volume 09** | 982 | 430 | `chapter-0427.md` | 3,297 | 16 |
-| 428 | 157 | Monday | 985 | 431 | `chapter-0428.md` | 3,185 | 10 |
-| 429 | 157 | Wednesday | 987 | 432 | `chapter-0429.md` | 3,424 | 19 |
-| 430 | 157 | **Thursday — the volume's midpoint reversal** | 988 | 433 | `chapter-0430.md` | 4,876 | 32 |
-| | | | | | **Total** | **36,377** | **170** |
+| 425 | 156 | Monday | 978 | 428 | `chapter-0425.md` | 3,359 | 12 |
+| 426 | 156 | **Wednesday — the Exchange, the twenty-eighth sitting, THE BOOK DOES NOT OPEN** | 980 | 429 | `chapter-0426.md` | 3,997 | 17 |
+| 427 | 156 | **Friday — the sixth Friday rota of Volume 09** | 982 | 430 | `chapter-0427.md` | 3,294 | 16 |
+| 428 | 157 | Monday | 985 | 431 | `chapter-0428.md` | 3,180 | 10 |
+| 429 | 157 | Wednesday | 987 | 432 | `chapter-0429.md` | 3,419 | 19 |
+| 430 | 157 | **Thursday — the volume's midpoint reversal** | 988 | 433 | `chapter-0430.md` | 4,871 | 32 |
+| | | | | | **Total** | **36,382** | **170** |
+
+**THE WORD COUNTS IN THAT TABLE WERE RE-MEASURED AFTER THE TWELVE REPAIRS OF SECTION 3.14 TO 3.17 AND FOUR OF THE TEN HAVE MOVED, by one word at Chapters 421 and 423, by eighteen at Chapter 422, by one at Chapter 425, by two at Chapter 426, by three at Chapter 427, by five at Chapter 428, by five at Chapter 429 and by five at Chapter 430, and the bold-span column is unchanged at 170 because none of the twelve repairs opened or closed a span. The eight-word overlap at section 2.2 and the two frame readings at section 2.3 are also unchanged, which is the one piece of good news in this paragraph: the repairs were made in the docket rows and in one clause of one chapter, and the apparatus rows that the overlap instrument measures word for word are the same rows either side of them.**
 
 **THE FIGURE COMPUTED AT THIS DESK IS ZERO, AND THE COUNT OF THE CHECK THAT PROVES IT IS ONE HUNDRED AND FIFTY-SEVEN CELLS.** Every figure of the room, the card, the eight wall ages, the hold, the man of about fifty-one's series and the ask was machine-checked as `day − anchor` on its own day, taken from `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` section 1 and never from the chapter beside it, and **0 mismatches in 157 cells**, after the two repairs at section 3 item 6 and the two additions at section 3 items 7 and 8. The two post figures were checked separately and each walks as `day − 814`: **161 at 424 and 168 at 427**, and each is also checked against its own weeks rendering, twenty-three and twenty-four.**
 
@@ -49,19 +53,21 @@
 
 **The matchers are patterns and not descriptions, and the apparatus boundary is `^\*\d+\. ` and not a description of it. A bold span is `\*\*(?!\s)(.+?)(?<!\s)\*\*` with DOTALL never in play, cross-checked against the raw token count of `**` halved. Raw hedge is `\babout\b`; prepositional hedge is `\babout\s+(?:it|what|the|which)\b`; true hedge is raw minus prepositional. The apparatus of a chapter is everything from the italic entry line to end of file. Words are whitespace-delimited tokens of the whole file.**
 
-| Quantity | This movement | Movement II, re-measured | Movement I, re-measured | Volume 08 all fifty |
-| --- | --- | --- | --- | --- |
-| Files | 10 | 10 | 10 | 50 |
-| Words | **36,377** | 35,311 | 32,970 | 179,445 |
-| Bold spans | **170** | 200 | 189 | 962 |
-| Bold per thousand | **4.674** | 5.664 | 5.732 | 5.361 |
-| Raw hedge | **828** | 761 | 776 | — |
-| Prepositional hedge | **89** | 77 | 78 | — |
-| True hedge | **739** | 684 | 698 | 4,700 |
-| True hedge per thousand | **20.315** | 19.371 | 21.171 | 26.192 |
-| Apparatus words | **20,783** | 18,031 | 14,093 | — |
-| Apparatus aggregate | **57.132** | 51.063 | 42.745 | 39.883 |
-| Mean of the ten per-chapter apparatus shares | **57.475** | 52.039 | 42.730 | 40.584 |
+| Quantity | This movement, re-measured after the twelve repairs | This movement, as first published | Movement II, re-measured | Movement I, re-measured | Volume 08 all fifty |
+| --- | --- | --- | --- | --- | --- |
+| Files | 10 | 10 | 10 | 10 | 50 |
+| Words | **36,382** | 36,377 | 35,311 | 32,970 | 179,445 |
+| Bold spans | **170** | 170 | 200 | 189 | 962 |
+| Bold per thousand | **4.673** | 4.674 | 5.664 | 5.732 | 5.361 |
+| Raw hedge | **829** | 828 | 761 | 776 | — |
+| Prepositional hedge | **89** | 89 | 77 | 78 | — |
+| True hedge | **740** | 739 | 684 | 698 | 4,700 |
+| True hedge per thousand | **20.340** | 20.315 | 19.371 | 21.171 | 26.192 |
+| Apparatus words | **20,778** | 20,783 | 18,031 | 14,093 | — |
+| Apparatus aggregate | **57.111** | 57.132 | 51.063 | 42.745 | 39.883 |
+| Mean of the ten per-chapter apparatus shares | **57.456** | 57.475 | 52.039 | 42.730 | 40.584 |
+
+**THE RE-MEASURED COLUMN IS THE LIVE ONE AND THE COLUMN BESIDE IT IS LEFT IN PLACE BECAUSE A REPAIR PASS THAT OVERWRITES ITS OWN EARLIER MEASUREMENT LEAVES NO WAY TO SEE HOW FAR THE REPAIRS MOVED IT, AND THE MOVEMENT IS FIVE WORDS AND TWENTY-ONE THOUSANDTHS OF A POINT, WHICH IS THE ANSWER TO WHETHER THE TWELVE REPAIRS WERE COSMETIC OR STRUCTURAL AND IT IS COSMETIC.** Two quantities did not move at all and are the two a reader is most likely to check: the eight-word overlap at 116.10 and the per-paragraph sum at 127.00, both at section 2.2, and the four frame and caption readings at section 2.3. The bench verdicts do not change: the movement is inside the words benchmark and on the bottom line of the bold-span benchmark and outside the apparatus-aggregate benchmark for the third time running.
 
 **EVERY FIGURE IN THE FIRST COLUMN WAS MEASURED ON THE TEN FINISHED FILES AFTER THE REPAIRS AT SECTION 3 AND NOT CARRIED FROM A SUMMARY, and the two middle columns are the published figures of the two movements before this one reproduced from their own summaries.**
 
@@ -69,12 +75,12 @@
 
 | Benchmark | The figure | Verdict |
 | --- | --- | --- |
-| 32,000 to 38,000 words | **36,377** | inside |
+| 32,000 to 38,000 words | **36,382** | inside |
 | 170 to 195 bold spans | **170** | **inside, and on the bottom line of the range** |
-| apparatus aggregate somewhere in the thirties or forties | **57.132** | **OUTSIDE, and sixteen and an eighth points above the forties** |
+| apparatus aggregate somewhere in the thirties or forties | **57.111** | **OUTSIDE, and seventeen and an eighth points above the forties** |
 | eight-word overlap, a mean per file, Movement I at 63.10, Movement II at 94.90, Volume 08 at 49.35 | **116.10** | **published, and not a benchmark that can be passed or failed** |
 
-**AND THE AGGREGATE IS THE THIRD IN A RISING ARC AND THE CAUSE IS THE SAME CAUSE THE MOVEMENT BEFORE THIS ONE PUBLISHED, PRINTED AGAIN BECAUSE IT HAS NOW MOVED TWICE.** 42.745, then 51.063, then 57.132. The narration in this movement carries a kitchen with eleven sentences in it, a town with a set of scales and a card in a plastic sleeve, a corridor with eleven men in it, two Fridays on one floor in Crown Terrace, a room above a line, an office in a third district and two people at a sink, and on four of the ten files the load book is carrying the day while the prose is one location with about four people in it. The register was not rotated in the load books and it was not rotated in the prose, which is what the prompt of record said this movement would not do, and the consequence is measurable and is the same consequence in both registers: a higher apparatus share and a higher eight-word overlap. **NO CHAPTER WAS PADDED AND NO CHAPTER WAS CUT TO REACH ANY OF THE FOUR, no record was corrected by shortening a scene, and the ten files average two and a half records against a cap of four.**
+**AND THE AGGREGATE IS THE THIRD IN A RISING ARC AND THE CAUSE IS THE SAME CAUSE THE MOVEMENT BEFORE THIS ONE PUBLISHED, PRINTED AGAIN BECAUSE IT HAS NOW MOVED TWICE.** 42.745, then 51.063, then 57.111, the last of the three re-measured after the twelve repairs at section 3.14 to 3.17 and 0.021 of a point lower than it was first published, which does not change the arc and is printed because a number that moves when the files move should be seen to move. The narration in this movement carries a kitchen with eleven sentences in it, a town with a set of scales and a card in a plastic sleeve, a corridor with eleven men in it, two Fridays on one floor in Crown Terrace, a room above a line, an office in a third district and two people at a sink, and on four of the ten files the load book is carrying the day while the prose is one location with about four people in it. The register was not rotated in the load books and it was not rotated in the prose, which is what the prompt of record said this movement would not do, and the consequence is measurable and is the same consequence in both registers: a higher apparatus share and a higher eight-word overlap. **NO CHAPTER WAS PADDED AND NO CHAPTER WAS CUT TO REACH ANY OF THE FOUR, no record was corrected by shortening a scene, and the ten files average two and a half records against a cap of four.**
 
 **AND THE TWO HUNDRED AND SIXTY-ONE DAY POST AT CHAPTER 424 AND THE TWO HUNDRED AND SIXTY-EIGHT DAY POST AT CHAPTER 427 ARE THE TWO FIGURES THE HIGH APPARATUS SHARE MOST EXPENSIVELY CARRIES, because both of them are in a record that also carries the reason no separate count is printed for the sheet in the drawer, and that reason is forty words long.**
 
@@ -111,27 +117,35 @@
 
 **THE WHOLE-TEXT AND IN-SPAN FIGURES DIFFER ON BOTH QUANTITIES IN THIS MOVEMENT AND THE DIFFERENCE IS PUBLISHED RATHER THAN RESOLVED. The reason is the shape of these ten files and not a defect: the house's frame literals live in the *narration* on a movement whose scenes are in a room, and the house's captions live in the *records* because a record is where this manuscript puts how long something took. Movement II's three frames and one in-span frame were one record hit and two narration hits, and the same instrument on a movement with more narration returns more of both. THE TWO IN-SPAN EXTRACTIONS AGREE WITH EACH OTHER ON BOTH FIGURES, WHICH IS PUBLISHED BECAUSE IT IS THE THIRD MOVEMENT RUNNING AND IT IS NOT A RESOLUTION OF THE INSTRUMENT.**
 
-### 2.4 THE CROSS-FILE RUN WALK, AND IT IS THE FINDING THAT MATTERS MOST IN THIS SECTION
+### 2.4 THE CROSS-FILE RUN WALK, RE-MEASURED BY A REVIEW REPAIR PASS, AND THE TABLE THIS FILE PUBLISHED AGAINST IT WAS WRONG ON THE PAGE WHEN IT WAS WRITTEN
 
-**All ten files, normalising by deleting every `**`, lower-casing and splitting on whitespace, with no punctuation stripped and no frame heading removed, and taking the intersection of the eight-word shingles of all ten.**
+**THE INSTRUMENT IS UNCHANGED AND IS PRINTED FIRST, BECAUSE THE NUMBER BELOW IS ONLY AS GOOD AS IT: all ten files, normalising by deleting every `**`, lower-casing and splitting on whitespace, with no punctuation stripped and no frame heading removed, and taking the intersection of the n-word shingles of all ten.**
 
-| n | Shingles surviving in all ten files | What they are |
-| --- | --- | --- |
-| 30 | **0** | nothing |
-| 24 | **0** | nothing |
-| 20 | **0** | nothing |
-| 16 | **0** | nothing |
-| 12 | **0** | nothing |
-| 11 | **0** | nothing |
-| 10 | **0** | nothing |
+| n | 30 | 24 | 20 | 16 | 12 | 11 | 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Movement I, `workspace/volume-09/batch-0003/`, ten files | 3 | 9 | 25 | 44 | 76 | 85 | 96 |
+| Movement II, `workspace/volume-09/batch-0005/`, ten files | 55 | 89 | 120 | 157 | 204 | 219 | 235 |
+| **This movement, `workspace/volume-09/batch-0006/`, ten files, whole file** | **72** | **118** | **153** | **204** | **272** | **293** | **316** |
+| This movement, the narration only, above the italic entry line | 23 | 29 | 33 | 38 | 48 | 52 | 56 |
+| This movement, the entry line and the conditions paragraph only | 23 | 29 | 33 | 38 | 48 | 52 | 56 |
 
-**ZERO AT EVERY LENGTH DOWN TO TEN WORDS, AGAINST FIFTY-FIVE THIRTY-WORD SHINGLES ON MOVEMENT II AND THREE ON MOVEMENT I, AND THE FINDING IS THE OPPOSITE OF THE ONE THE MOVEMENT BEFORE THIS ONE PUBLISHED AND IT IS NOT A VICTORY.** The cause is one sentence and it is on the page: **the mandated conditions opening is eleven words long, so it cannot produce a twelve-word shingle at all, and the Exchange row and the ask sit further apart in these ten files than they did in the movement before, and the hardboard row is printed with a preamble and a postamble that differ in four of the ten.** A movement that does not rotate and a movement whose rows are long enough to break a ten-word window produce the same zero from two different directions, and **A CROSS-FILE RUN OF ZERO IS NOT EVIDENCE THAT A MOVEMENT ROTATED.** It is evidence that the mandated rows are not the same words in the same order in every file, and they are not, and this movement did not rotate the register any more than the two before it, and the instrument cannot tell the two cases apart. **THE QUESTION THAT WOULD SETTLE IT IS STILL OWED TO THE VOLUME CLOSE AND IS NOT SETTLED HERE.** Owner: the Volume 09 close at `workspace/volume-09/batch-0008/`, one paragraph beside the table.
+**AND WHAT THIS FILE PUBLISHED BEFORE THE REPAIR WAS ZERO AT ALL SEVEN LENGTHS, AND NO READING OF THE INSTRUMENT GIVES ZERO.** The superseded table read `0` at thirty, twenty-four, twenty, sixteen, twelve, eleven and ten, it called the zero the finding that mattered most in this section, and it explained the zero in one sentence: *the mandated conditions opening is eleven words long, so it cannot produce a twelve-word shingle at all*. **THE NUMBER WAS WRONG AND THE CAUSE WAS WRONG, AND THE CAUSE WAS THE MORE FALSIFIABLE OF THE TWO: the mandated conditions opening is not eleven words long, it is a paragraph, and it is the largest single source of the run that is on the page.** The table is replaced with the measured figures, and the superseded numbers are kept as the seven zeros in the sentence above rather than as a second table, because a repair pass that deletes its own wrong figures leaves a later reader with nothing to check and one that leaves a second table of them leaves two tables to choose between.
+
+**AND THE REAL FINDING, WHICH IS THE OPPOSITE OF THE ONE THIS FILE PUBLISHED, IS THAT THE RUN IS MOSTLY THE MANDATED DOCKET AND NOT MOSTLY THE PROSE.** Each of the thirty-word survivors was placed in the first file by counting the words that sit above its own italic entry line, and the three placements are exhaustive and none of them straddles the boundary:
+
+| n | Survivors | Wholly in the narration above the entry line | Wholly in the entry line and the conditions paragraph | Straddling the boundary |
+| --- | --- | --- | --- | --- |
+| 30 | 72 | 23 | 49 | 0 |
+| 20 | 153 | 34 | 119 | 0 |
+| 10 | 316 | 71 | 244 | 0, and one shingle not locatable by a literal search in the first file and not classified |
+
+**THE RISING ARC IS REAL AND IT IS MEASURED, AGAINST THREE ON MOVEMENT I AND FIFTY-FIVE ON MOVEMENT II AT THIRTY WORDS, WHICH IS SEVENTEEN SHINGLES WORSE THAN THE MOVEMENT BEFORE IT AND NOT BETTER THAN IT BY A MARGIN OF ANY SIZE.** The published reading of that arc was that a movement which does not rotate the register and a movement whose rows are long enough to break a ten-word window produce the same zero from two different directions, and the instrument could not tell the cases apart. **THE INSTRUMENT CAN TELL THEM APART AND IT WAS NEVER ASKED, because the zero it was given was not a measurement:** the row set is mandated and the writer does not get to rotate it, and the same row set in the same order in ten files is going to produce a run whether or not anybody is paying attention, and what the run is made of is now printed in the table above and it is about two-thirds docket and one-third prose at thirty words and four-fifths docket at ten. **A CROSS-FILE RUN OF ZERO IS NOT EVIDENCE OF ANYTHING AND A CROSS-FILE RUN OF SEVENTY-TWO IS NOT EITHER, AND WHAT THE INSTRUMENT CAN SETTLE IS WHICH PART OF A FILE THE RUN IS IN, WHICH IS THE PART OF THIS SECTION THAT A WRITER OF MOVEMENT IV CAN ACT ON.** The rest of the question is still owed to the volume close at `workspace/volume-09/batch-0008/` and is not settled here. Owner: the Volume 09 close, one paragraph beside the table, unchanged.
 
 ---
 
 ## 3. The thirteen defects this pass found in the finished files, and all thirteen are paid, with the superseded text quoted beside each repair
 
-**A repair pass that reports its own repairs is a repair pass that does not leave its work to be found by diff. Every repair below kept the fact and dropped the form, or kept the form and corrected the figure, and no repair touched a scene, a character, a beat, a day, an entry, an anchor or an interval the calendar fixes. The house rule forbids a batch from paying a repair debt in the same run as a writing pass; these thirteen are defects in eleven files this pass had itself written twenty minutes earlier and are not the eighteen inherited debts, none of which is paid here.**
+**A repair pass that reports its own repairs is a repair pass that does not leave its work to be found by diff. Every repair below kept the fact and dropped the form, or kept the form and corrected the figure, and no repair touched a scene, a character, a beat, a day, an entry, an anchor or an interval the calendar fixes. The house rule forbids a batch from paying a repair debt in the same run as a writing pass; these thirteen are defects in nine of the ten files this pass had itself written twenty minutes earlier, plus one row added to all ten at item 8, and are not the eighteen inherited debts, none of which is paid here. **THE `ELEVEN FILES` AND THE `EIGHT OF THE TEN FILES` THAT EARLIER DRAFTS OF THIS PARAGRAPH AND OF SECTION 12 GAVE ARE BOTH WRONG AND BOTH HAVE BEEN CORRECTED HERE, because a repair pass that repairs a page and leaves a wrong count standing in the paragraph above it has not finished.** The twelve below are in nine of the ten files again, and Chapter 424 is the one file neither pass touched a phrase in.**
 
 ### 3.1 A PARAGRAPH CARRYING TWO BOLD SPANS, AT CHAPTER 427, IN TWO PLACES IN THE SAME PARAGRAPH
 
@@ -213,17 +227,53 @@
 
 - Docket, superseded: `About nine people came up that stair between about half half past six and about nine`. Repaired: `between about half past six and about nine`.
 
+**THE TWELVE DEFECTS BELOW, ALL FOUND BY A REVIEW REPAIR PASS RUNNING OVER THIS PHASE AND ALL PAID IN PLACE, AND NONE OF THEM IS FOLDED INTO THE THIRTEEN ABOVE.**
+
+### 3.14 A WRONG WEEKS RENDERING ON THE ONLY PROMISE ON THE BOARD, AT CHAPTER 427, WHICH EVERY FIGURE WALK IN THIS FILE MISSED
+
+**This is the second time in this batch's own history that an instrument was trusted and a figure walked through it, and the finding is published because the class is the same both times and the two classes are not the same instrument.** The nineteen lines are 316 days old at Chapter 427, and the prompt of record says the eight wall ages are printed in days, and this file's interval walk at section 4 walked that series as a days figure and found 316 present in the file and reported ten of ten — **and the file also carried a second, wrong rendering of the same interval in the same sentence, one clause after the correct one.** The prompt's widened walk extracts three forms: the weeks-and-days construction, the days-alone figure, and the `that being` and `which is` forms. This one is a fourth form, and it is the plainest of the four: `it has been there for one hundred weeks`.
+
+- Chapter 427, prose, superseded: `… and it is the only promise on that board and it has been there for one hundred weeks and nothing has ever been done about it.` Repaired: `… it has been there for forty-five weeks and one day and nothing has ever been done about it.` **316 is forty-five weeks and one day, and one hundred weeks is seven hundred days, and the sentence carried seven correct day-figures for the other seven lines in the twenty words before the error.**
+
+**THE INSTRUMENT THAT CATCHES IT IS PRINTED HERE BECAUSE IT WAS NOT ON THE PROMPT'S LIST AND IT IS ONE LINE: extract every `N weeks` and every `N weeks and M days` from a finished file, convert each to a day count, and hold it against the set of the fourteen series' values for that file's own day, and print any rendering that matches none of them. On the superseded text it returns one row on Chapter 427 and zero on the other nine files; on the ten repaired files it returns ZERO ON ALL TEN.**
+
+### 3.15 A RELATIVE WEEKDAY QUALIFIER THAT PUTS A SITTING IN THE WRONG WEEK, AT CHAPTER 427
+
+**The ask row in eight of the ten files ends `and the figure before this one belongs to a <weekday> and is not this one`, and the weekday is the previous chapter's, and it is right in all eight. Chapter 427 carried the house form and then added a qualifier to it that puts the figure in a fortnight that is not where the figure is.**
+
+- Chapter 427, conditions, superseded: `and the figure before this one belongs to a Wednesday of the week before last and is not this one.` Repaired: `… belongs to a Wednesday and is not this one.` **The figure before Chapter 427's is Chapter 426's three hundred and eight days, printed on the Wednesday of the same week, two days earlier, and the twenty-eighth sitting is on that Wednesday and not on any Wednesday of a fortnight ago.**
+
+**AND THE GENERAL FORM OF BOTH 3.14 AND 3.15 IS PUBLISHED, BECAUSE IT IS THE SAME FORM AND IT WILL COME BACK: A RELATIVE EXPRESSION REPEATED IN TEN FILAGES RESOLVES TO A DIFFERENT ABSOLUTE DAY THE MOMENT THE WEEK NUMBER UNDER IT MOVES, AND A MACHINE CANNOT SEE EITHER ONE.** The next item is that form on nine pages rather than on one clause, and the pair of them is the argument for walking relative dates the way this batch walks series.
+
+### 3.16 NINE RELATIVE DATES FOR ONE OBJECT, ACROSS EIGHT OF THE TEN FILES, WHICH RESOLVE TO TWO DIFFERENT DAYS
+
+**The card in the coat pocket is one object, it went out of the rail at the end of Chapter 409, and this movement's ten dockets each said when it went in. Six files said `since the Wednesday of the fortnight before last` and three said `since the Wednesday of the week before the one with the road in it`, and the first phrase sits in files spanning weeks 155 and 156 and the second in week 157, so the identical phrase was resolving to Wednesday of week 153 on three days and Wednesday of week 154 on three days, and the second phrase resolved to Wednesday of week 154 on three more, and six chapters apart the same nine words meant two different days.** The interval walk at section 4 did not see it and could not: it walks figures in words against their anchors, and this is not a figure, it is a calendar, and no cell of that walk can fail on it because there is nothing in it for a cell to hold.
+
+- Chapters 421, 422, 423, 425 and 426 at 6 occurrences, superseded: `since the Wednesday of the fortnight before last`. Chapters 428, 429 and 430, superseded: `since the Wednesday of the week before the one with the road in it`. All nine repaired to: **`since the Wednesday it came out of that rail`**, and every one of the nine sentences keeps its fact and loses its drifting form, and the trailing clause `before that Wednesday` in the three dockets that carry it — Chapters 421, 425 and 428 — now binds to a rail instead of to an ambiguous fortnight.
+
+**THE EVENT-KEYED PHRASE IS ALSO THE ONLY ONE OF THE THREE THAT IS TRUE. The prompt of record puts the card out of the rail at the end of Chapter 409, and Chapter 409 is the Wednesday of week 151, and the fortnight-before-last reading is right on that day and wrong by fourteen days on Chapter 421 and by twenty-one days on Chapter 428. THE INHERITED CHAPTERS BEFORE THIS ONE ARE NOT REPAIRED, because they are another phase's finished work, and the loose use of the same phrase in `batch-0005/chapter-0415.md` is left standing with this paragraph beside it as the reading that resolves it. Owner: `workspace/volume-09/batch-0005/`, three files, if a repair pass ever goes back there; not this one.**
+
+### 3.17 A CHAPTER THAT DENIES, AT ITS NINTH LINE, THE ONE FACT ITS OWN SIXTY-NINTH LINE AND THREE STATE FILES ASSERT, AT CHAPTER 422
+
+**Chapter 422 is the one file in this movement where a card in a plastic sleeve on a road and a card in a coat pocket are in one building, and it says so in its own ninth-surface record sixty lines into the file, and four lines earlier it said the opposite, and the state blocks, which were written off the record and not off the line, followed the record.**
+
+- Chapter 422, docket, superseded: `and **it did not come out of that pocket in that town, and the card in a plastic sleeve in a box by a set of scales is a different object and was never in the same building as it.**` Repaired: `and **it did not come out of that pocket in that town, and the card in a plastic sleeve in a box by a set of scales is a different card in a different box, and the two of them were in that hut together for about five hours and neither one was looked at the other.**` **A MAN CARRYING A CARD STANDS IN A HUT FOR FIVE HOURS AND A BOX ON A SHELF IN THAT HUT IS IN THE SAME HUT, and the two cards are still two cards, the sleeve card is still a ninth surface, the coat-pocket card is still one of the six, and neither is the other, and the repaired clause keeps the non-merger and drops the denial.**
+
+**A FILE THAT CONTRADICTS ITSELF AT LINE NINE AND LINE SIXTY-NINE IS THE SAME DEFECT AS A FIGURE THAT WALKS AND IS ATTACHED TO A FALSE SENTENCE, WHICH IS THE LESSON THE MOVEMENT BEFORE THIS ONE PUBLISHED AT ITS OWN SECTION 3.5, and it survived the out-of-fiction walk, the interval walk, the collision sweep, the pronoun walk and all eleven hard stops, because every one of those instruments was reading the file and none of them was reading the file against itself.**
+
 ---
 
 ## 4. The load-book run, the card-minus-room invariant, the detector read backwards, and the collision sweep re-run on the finished files
 
 **THE LOAD-BOOK RUN WALKED AND NOT ASSERTED.** The entry is the integer at the head of the italic entry line, matched by `^\*(\d+)\. `; the chapter is the integer in the file name. Ten rows, ten entries, 424 to 433, and **THE SET OF DISTINCT VALUES OF (ENTRY − CHAPTER) IS {3}**, so the run is one-to-one, offset by three at every row, and no row implies a second entry. Every file also carries the entry number in its standing record, so the run appears twice per file and both copies agree on all ten.
 
-**THE CARD-MINUS-ROOM INVARIANT RUN ON ALL TEN FINISHED FILES AFTER THE REPAIRS AND NOT BEFORE THEM.** On 971, 973, 974, 975, 978, 980, 982, 985, 987 and 988, `(day − 358) minus (day − 362)` is 4 on every row, and **THE SET OF DISTINCT VALUES IS {4}.** The free check beside it, `(day − 526) minus (day − 547)`, is 21 on all ten, and **the set is {21}**, and a writer who expects those two columns to cross is wrong. **A SECOND FREE CHECK IS PUBLISHED BY SECTION 3.6 AND IT IS NOT ONE OF THE PROMPT'S: `(day − 756) minus (day − 729)`, the man of about fifty-one's series against the hold, which is twenty-seven on all ten rows, and which would have caught both of that section's errors had the writer been subtracting from an anchor instead of reading down a column.**
+**THE CARD-MINUS-ROOM INVARIANT RUN ON ALL TEN FINISHED FILES AFTER THE REPAIRS AND NOT BEFORE THEM.** On 971, 973, 974, 975, 978, 980, 982, 985, 987 and 988, `(day − 358) minus (day − 362)` is 4 on every row, and **THE SET OF DISTINCT VALUES IS {4}.** The free check beside it, `(day − 526) minus (day − 547)`, is 21 on all ten, and **the set is {21}**, and a writer who expects those two columns to cross is wrong. **A SECOND FREE CHECK IS PUBLISHED BY SECTION 3.6 AND IT IS NOT ONE OF THE PROMPT'S: `(day − 756) minus (day − 729)`, the man of about fifty-one's series against the hold, which is **minus twenty-seven** on all ten rows, a sign this file first published as twenty-seven and which a review repair pass corrected, and which would have caught both of that section's errors had the writer been subtracting from an anchor instead of reading down a column.**
 
 **THE DETECTOR, READ ONE ROW BACKWARDS.** Every one of the ten days, put through the chain's inverse, implies exactly one week and one weekday, and that pair's own day number is the printed day: 971 is 155 Monday, 973 is 155 Wednesday, 974 is 155 Thursday, 975 is 155 Friday, 978 is 156 Monday, 980 is 156 Wednesday, 982 is 156 Friday, 985 is 157 Monday, 987 is 157 Wednesday, 988 is 157 Thursday. **TEN OF TEN PASS AND NO ROW IMPLIES A SECOND DAY.**
 
-**THE INTERVAL WALK, 157 CELLS, PARSING EVERY SPELLED-OUT INTERVAL OUT OF EACH FINISHED FILE'S PROSE AND ITS APPARATUS AND WALKING FROM THE ANCHOR AND NOT FROM THE CHAPTER BESIDE IT.** The subtraction is the anchor and the invariant is only the check, and the invariant is the better check because it can fail.
+**THE INTERVAL WALK, RE-RUN BY THE REVIEW REPAIR PASS ON THE CONSTRUCTION PRINTED IN THE TABLE BESIDE IT, AT 142 CELLS AND 0 MISMATCHES. The subtraction is the anchor and the invariant is only the check, and the invariant is the better check because it can fail.**
+
+**AND THE 157 THAT HEADED THIS PARAGRAPH BEFORE THE REPAIR IS NOT REPRODUCIBLE FROM THE CONSTRUCTION BESIDE IT, AND IS NOT CARRIED FORWARD, AND THE REASON IS GIVEN INSTEAD OF A REASONABLE FIGURE. Fourteen series across ten days is one hundred and forty cells, and the post contributes two, and that is one hundred and forty-two, and fifteen of the hundred and fifty-seven are unaccounted for. A CELL COUNT THAT ITS OWN TABLE DOES NOT PRODUCE IS A NUMBER SOMEBODY ADDED, AND THE TABLE IS RE-SIGNED AT 142 AND THE SUPERSEDED 157 IS LEFT IN THIS SENTENCE SO THAT A LATER PASS CAN SEE IT.**
 
 | Series | Anchor | Cells found and correct |
 | --- | --- | --- |
@@ -236,12 +286,14 @@
 | The sixteen lines | 572 | 10 of 10 |
 | The seventeen lines | 590 | 10 of 10 |
 | The eighteen lines | 644 | 10 of 10 |
-| The nineteen lines | 666 | 10 of 10, and the newest of them is the only promise on that board and is three hundred and five days old at Chapter 421 and three hundred and twenty-two at Chapter 430 |
+| The nineteen lines | 666 | 10 of 10, and the newest of them is the only promise on that board and is three hundred and five days old at Chapter 421 and three hundred and twenty-two at Chapter 430 — **AND THE 10 OF 10 WAS TRUE OF THE DAYS FIGURE ONLY AND WAS NOT TRUE OF THE FILE, WHICH CARRIED A WRONG WEEKS RENDERING OF THE SAME INTERVAL AT CHAPTER 427, WHICH IS PAID AT SECTION 3.14 AND WHICH IS THE ONE FIGURE IN THIS TABLE THAT A DAY-FIGURE WALK CANNOT SEE** |
 | A man of about thirty-three's hold | 729 | 10 of 10, in the mandated weeks-and-days form, **9 of 10 on arrival and 10 of 10 after the repair at section 3.7** |
 | The man of about fifty-one's series | 756 | 10 of 10, in the mandated weeks-and-days form and never in days alone, **8 of 10 on arrival and 10 of 10 after the repairs at section 3.6** |
 | The ask | 672 | 10 of 10, in every one in the mandated weeks-and-days form and never in days alone |
 | The nine hand copies | 796 | **0 of 10 on arrival and 10 of 10 after the addition at section 3.8** |
 | The post at the corridor end | 814 | 2 of 2, at Chapters 424 and 427, one hundred and sixty-one days which is twenty-three weeks, and one hundred and sixty-eight days which is twenty-four weeks |
+
+**AND THE WEEKS-RENDERING WALK, WHICH IS THE FOURTH FORM AND WHICH THE PROMPT'S WIDENED WALK DOES NOT CONTAIN, RE-RUN ON ALL TEN FINISHED FILES AFTER THE REPAIRS: every `N weeks` and every `N weeks and M days` in a file is converted to a day count and held against the set of the fourteen series' values for that file's own day, and any rendering that matches none of them is printed. **ZERO on all ten files, and one row on one file before the repair at section 3.14, and the same walk on the same ten files would have returned the `one hundred weeks` string and would have said which sentence it was in.** A walk that cannot detect the prohibited form is not evidence that the prohibited form is absent, and this paragraph is that sentence applied to a form the prompt did not name.
 
 **AND THE THIRTEEN MANDATED ROWS ARE ALL PRESENT ON ALL TEN DAYS IN THE SAME ORDER, OPENING WITH THE SAME SENTENCE.** `Eleven on the docket and eleven in date; eleven attended,` is on all ten and every one of the sixty occurrences ends on a comma and not on a full stop, **and that is now thirty consecutive files across three movements at sixty occurrences per movement, two to a file, and the full-stop form of that sentence is a string that has stood in zero files in the whole of this manuscript.**
 
@@ -422,11 +474,23 @@
 
 **A CLOSE OF A BOLD SPAN WITH A SINGLE ASTERISK IS INVISIBLE TO BOTH OF THE INSTRUMENTS THE PROMPT SUPPLIES FOR CHECKING BOLD SPANS, because the raw token count of `**` halved and the non-greedy matcher both ignore an asterisk that is not part of a pair, and the consequence is a bold span that runs across a paragraph boundary and swallows the next record.** It happened once in ten files and it is at section 3.2 with the superseded text quoted. **THE INSTRUMENT THAT CATCHES IT IS A WALK FOR A LOOSE SINGLE ASTERISK AT THE END OF A PARAGRAPH, AND IT IS NOT ON THE PROMPT'S LIST, AND THE PROMPT OF RECORD FOR MOVEMENT IV SHOULD CARRY IT.** Owner: `workspace/volume-09/batch-0007/PROMPT.md` section 7, one pattern, no superseded text because nothing is being corrected in a prompt.
 
-**AND THE SECOND FIGURE IN THE SAME PLACE IS THE SAME CLASS: TWO SERIES THAT DIFFER BY TWENTY-SEVEN DAYS SIT ONE LINE APART IN THE SAME MANDATED ROW ON ALL TEN DAYS, AND A WRITER WHO READS DOWN A COLUMN INSTEAD OF SUBTRACTING FROM AN ANCHOR COPIED THE NEIGHBOUR TWICE IN TEN ROWS.** `(day − 756) minus (day − 729)` is twenty-seven on all ten days, it is a free check of the same kind as the calendar's own `(day − 526) minus (day − 547) is 21`, and the two errors it would have caught are at section 3.6 with the arithmetic printed. **NEITHER OF THESE TWO IS PAID ANYWHERE ELSE AND BOTH ARE OWED TO THE PROMPT OF RECORD FOR THE NEXT MOVEMENT.**
+**AND THE SECOND FIGURE IN THE SAME PLACE IS THE SAME CLASS: TWO SERIES THAT DIFFER BY TWENTY-SEVEN DAYS SIT ONE LINE APART IN THE SAME MANDATED ROW ON ALL TEN DAYS, AND A WRITER WHO READS DOWN A COLUMN INSTEAD OF SUBTRACTING FROM AN ANCHOR COPIED THE NEIGHBOUR TWICE IN TEN ROWS.** `(day − 756) minus (day − 729)` is **minus twenty-seven** on all ten days, and this file printed it without the sign the first time and a review repair pass corrected it, it is a free check of the same kind as the calendar's own `(day − 526) minus (day − 547) is 21`, and the two errors it would have caught are at section 3.6 with the arithmetic printed. **NEITHER OF THESE TWO IS PAID ANYWHERE ELSE AND BOTH ARE OWED TO THE PROMPT OF RECORD FOR THE NEXT MOVEMENT.**
 
 ### 10.5 AND THE ONE FIGURE THIS BATCH DID NOT DECIDE AND THE NEXT ONE MUST NOT DECIDE FOR IT
 
 **Movement IV carries the volume's one panel and one `* * *` marker, both at Chapter 437, and the apparatus-boundary pattern `^\*\d+\. ` goes live there rather than safe, because that movement carries the volume's one marker.** Movement IV also carries the ninth place in the collision register to sweep, at Chapter 438, where the eighteen lines and the room are each other's anchors, and the figure a movement that does not sweep will miss is at Chapter 443, where the twelve lines are five hundred and eighty-one and five hundred and eighty-one is a CLOSED anchor, the day a landlord put the heating on, and the chapter must say in the same breath that the figure is an age and not a date. **NONE OF THAT IS SETTLED HERE AND NONE OF IT IS IN THE NEXT PROMPT EXCEPT AS A WARNING CARRIED FORWARD, BECAUSE A FIGURE FIXED IN ADVANCE IS A FIGURE THAT CANNOT BE WRONG ON THE PAGE AND IS THEREFORE NOT MEASURED ON THE PAGE.**
+
+### 10.6 AND THE SIX DEFECTS THE REVIEW REPAIR PASS PAID OUTSIDE THE TEN CHAPTER FILES, AND THE SEVEN IT PAID INSIDE THIS FILE, ALL WITH OWNERS
+
+**A BATCH PHASE MAY NOT PAY AN INHERITED REPAIR DEBT IN THE SAME RUN AS A WRITING PASS, AND A REVIEW REPAIR PASS IS A SEPARATE RUN AND MAY PAY THE DEBTS OF THE PHASE IT IS REVIEWING. These seven were found and paid by that pass and none of them is in the eighteen-debt catalogue above, which stands.**
+
+1. **A CROSS-FILE RUN TABLE IN THIS FILE AT SECTION 2.4 THAT SAID ZERO AT SEVEN LENGTHS AND WAS NOT ZERO AT ANY OF THEM, repeated as a live register verdict in `state/current.md`.** Paid in both places with the measured figures, and the supersession published rather than silent. Owner: closed.
+2. **A FREE CHECK PUBLISHED WITHOUT ITS SIGN IN SIX PLACES, ACROSS THREE FILES, INCLUDING THE PROMPT OF RECORD FOR MOVEMENT IV.** `(day − 756) minus (day − 729)` is **minus** twenty-seven and was published as twenty-seven in `state/continuity.md`, `state/current.md`, three places in this file and two places in `workspace/volume-09/batch-0007/PROMPT.md`. All six corrected. **A CHECK IS AN INSTRUCTION AND AN INSTRUCTION WITH THE WRONG SIGN SENDS THE NEXT WRITER LOOKING FOR A FAILURE THAT IS NOT THERE.** Owner: closed, and the finding is carried into the next prompt as a sign.
+3. **SIX INVENTED JOURNEY FIGURES IN THREE STATE FILES, ALL OF THEM THE PHRASE `two hours of bus`, IN FOUR OF THE LIVE BLOCKS AND TWO IN BLOCKS INHERITED FROM BATCH 0005.** The pages are forbidden a distance and a journey in hours for that town, the same commit's `state/continuity.md` asserts that no journey in hours to any town appears on any of the ten pages, and nothing on the page supports two hours: the only bus figure anywhere in the four towns is about seven hours a woman spent on the ground in Chapter 428, which is not a journey, and the only bus in any of these files runs out at about half past six and comes round at about four. All six replaced with the register the pages themselves use, *the second of four towns on that road*, which is Chapter 422's own first sentence. **THE REVIEW NAMED THREE OF THE SIX AND THE OTHER THREE WERE FOUND BY THE SAME WALK, BECAUSE THE PHRASE IS ALSO UPPERCASE IN ONE HEADING AND THE REVIEW'S SEARCH WAS CASE-SENSITIVE.** Owner: closed, and the disclosure is in the preamble of the live block in `state/open-threads.md`.
+4. **A MID-WORD CASE SPLIT IN THE LIVE BLOCK OF `state/open-threads.md`, `EVENings`.** Paid, and a walk for `\b[A-Z]{3,}[a-z]+\b` over the three live state blocks and the two phase directories returns zero. Owner: closed.
+5. **A SELF-CONTRADICTION INSIDE THE PROMPT OF RECORD'S OWN SECTION 4, SIX LINES APART, ON THE ONE NUMBER A WRITER COULD SPEND BY ACCIDENT.** Beat 3 said this movement spends the volume's second new named person; the paragraph below said it spends none; the chapters followed the paragraph below and were right to, because `outline/volume-09.md` names Sera Quill on a carried list and describes her as planted, and the plan's second spend is a kitchen, which is the midpoint's slot and is filled there by canon. The prompt is repaired in place and quotes the sentence it replaces. Owner: closed.
+6. **A FALSE MEASUREMENT IN THIS FILE'S OWN SECTION 2.4, WHICH IS ITEM 1, and a false cause attached to it, which was worse, because the cause said a mandated row was eleven words long and it is a paragraph.** Both are at section 2.4 and the finding that replaces them — that two thirds of the thirty-word run is the mandated docket and one third is the prose — is the thing a writer of Movement IV can act on. Owner: closed.
+7. **THE DRIVER OF THE APPARATUS RISE, MEASURED AT LAST AND NOT PAID, AND IT IS A JUDGEMENT AND NOT A DEFECT, AND IT IS PUBLISHED BECAUSE IT IS THE NUMBER NOBODY HAD.** **Seventy-five ten-word sequences are byte-identical across all ten of the *What the day did not touch* records, on records of 297 to 398 words each, and the count of ten-word sequences identical in all ten of those records and no other scope is 75.** That is the repetition section 2.1 has been attributing to unrotated register since this movement and the one before it, and it is a standing register that is standing too still. **IT IS NOT PAID, BECAUSE A STANDING RECORD THAT NAMES A DRAWER THAT STAYED SHUT AND A PAGE THAT WAS NOT READ IS THE ROW SET'S JOB AND THE ROW SET IS MANDATED, AND REWRITING TEN RECORDS TO LOWER A FIGURE IS THE THING THIS HOUSE HAS REFUSED TO DO FOR THREE MOVEMENTS.** Published, unresolved, with its number. Owner: the Volume 09 close, one paragraph beside section 2.1, on the same footing as the one already owed there.
 
 ---
 
@@ -448,10 +512,12 @@
 
 **AND THE NINE FIGURES A CHAPTER OF MOVEMENT IV MUST NOT TAKE FROM ANY FILE ARE CARRIED INTO ITS PROMPT, WITH THEIR ARITHMETIC, AND NONE IS PAID BY THIS PASS.** The man of about fifty-one with a tool bag is 308 days and forty-four weeks at the close of the volume and not the plan's 283. The plan's 148 days at the close of Volume 08 is 168. The separation is four months and four weeks and three days at Chapter 430 and is not eleven months and not thirteen months.
 
-**AND THE TWO INSTRUMENTS THIS MOVEMENT'S OWN REPAIRS OPENED ARE CARRIED INTO IT AND NEITHER IS PAID IN A CHAPTER: a walk for a loose single asterisk at the end of a paragraph, and the free check `(day − 756) minus (day − 729) is 27`, and the second of the two would have caught both of the arithmetic errors at section 3.6.**
+**AND THE TWO INSTRUMENTS THIS MOVEMENT'S OWN REPAIRS OPENED ARE CARRIED INTO IT AND NEITHER IS PAID IN A CHAPTER: a walk for a loose single asterisk at the end of a paragraph, and the free check `(day − 756) minus (day − 729) is minus twenty-seven`, carried with its sign because a sign is part of a check, and the second of the two would have caught both of the arithmetic errors at section 3.6.**
 
 ---
 
 ## 12. What this phase did not touch
 
-**`scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` were not edited, and no `.done`, `.blocked`, `.retired` or `.deferred` marker was created or removed, because a phase does not write its own completion. `outline/series.md` was not edited. `outline/volume-09.md` and `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` were read and not edited, and no figure found wrong in either was repaired in either, and the four found are at section 10 with owners. `workspace/volume-09/batch-0005/` was read and not edited. NO CHAPTER FILE OUTSIDE `workspace/volume-09/batch-0006/` WAS CREATED, EDITED OR RESTARTED. NO CHAPTER FILE INSIDE IT WAS RESTARTED AND NO SCENE WAS REWRITTEN: thirteen repairs were made in place across eight of the ten files and the rest of each file is as the writing pass left it. NO TWENTIETH LINE WAS OPENED AND THEREFORE NO FIFTEENTH SERIES. THE VOLUME'S TELEPHONE COUNT WAS NOT FIXED IN ADVANCE AND WAS RECOMPUTED FROM THESE TEN CHAPTERS. THE PANEL AND THE MARKER WERE NOT SPENT AND THE WORD NAMING THE PUBLIC BODY WAS SPENT ONCE, AT CHAPTER 430, AND NOWHERE ELSE. NOTHING WAS ADOPTED, NOTHING WAS SIGNED, AND NO LIST WAS CREATED ANYWHERE.**
+**`scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` were not edited, and no `.done`, `.blocked`, `.retired` or `.deferred` marker was created or removed, because a phase does not write its own completion. `outline/series.md` was not edited. `outline/volume-09.md` and `workspace/volume-09/ARITHMETIC-AND-CALENDAR.md` were read and not edited, and no figure found wrong in either was repaired in either, and the four found are at section 10 with owners. `workspace/volume-09/batch-0005/` was read and not edited, INCLUDING ITS THREE FILES THAT USE THE SAME LOOSE RELATIVE PHRASE FOR THE CARD, which is left standing with section 3.16 beside it as the reading that resolves it. NO CHAPTER FILE OUTSIDE `workspace/volume-09/batch-0006/` WAS CREATED, EDITED OR RESTARTED. NO CHAPTER FILE INSIDE IT WAS RESTARTED AND NO SCENE WAS REWRITTEN: **the writing pass made thirteen repairs in place across nine of the ten files, one of which was a row added to all ten, and the review repair pass made twelve more in place across nine of them, and the rest of each file is as the writing pass left it.** NO TWENTIETH LINE WAS OPENED AND THEREFORE NO FIFTEENTH SERIES. THE VOLUME'S TELEPHONE COUNT WAS NOT FIXED IN ADVANCE AND WAS RECOMPUTED FROM THESE TEN CHAPTERS, AND IT IS STILL SEVENTY-THREE AFTER BOTH PASSES, BECAUSE NONE OF THE TWENTY-FIVE REPAIRS ADDED A NUMBER TO THE TIN. THE PANEL AND THE MARKER WERE NOT SPENT AND THE WORD NAMING THE PUBLIC BODY WAS SPENT ONCE, AT CHAPTER 430, AND NOWHERE ELSE. NOTHING WAS ADOPTED, NOTHING WAS SIGNED, AND NO LIST WAS CREATED ANYWHERE.**
+
+**AND WHAT THE REVIEW REPAIR PASS TOUCHED, IN FULL, SO THAT THE LIST ABOVE CAN BE READ AS THE LIST: the ten chapter files in this directory; this file, at its header, its sections 1, 2, 2.1, 2.4, 3, 4, 10 and 12; `workspace/volume-09/batch-0006/PROMPT.md`, section 4, one sentence, quoted beside its replacement; `workspace/volume-09/batch-0007/PROMPT.md`, two sentences, both the sign of the free check; and the live blocks of `state/current.md`, `state/continuity.md`, `state/character-state.md` and `state/open-threads.md`, plus two phrases in the superseded `state/open-threads.md` block inherited from batch 0005, which are left correct in place rather than left wrong for tidiness. NOTHING ELSE WAS EDITED, AND THE THREE STATE FILES' SUPERSEDED BLOCKS WERE READ AND NOT REWRITTEN APART FROM THOSE TWO PHRASES, because a repair pass that compacts history is a compaction and not a repair.**

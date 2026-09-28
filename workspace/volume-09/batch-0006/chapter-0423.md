@@ -6,7 +6,7 @@ The Thursday of week one hundred and fifty-five was spent at a bench in a buildi
 
 Eleven on the docket and eleven in date; eleven attended, the last of them about five in the afternoon, and the eleven were done in a corridor and a bay in a different building in the same district from the shop he is at on the other four days. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and twelve days old and is warm, and about nine people came in on the Thursday evening for the temperature and none of them was asked anything.
 
-The card in the coat pocket is six hundred and sixteen days old, which is four days more than the room is, and it has been in that pocket since the Wednesday of the fortnight before last, and a card's age does not stop because a card has been picked up, and it was over a chair in a rented room in this city for four hours on Wednesday night and it was not out of it.
+The card in the coat pocket is six hundred and sixteen days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card's age does not stop because a card has been picked up, and it was over a chair in a rented room in this city for four hours on Wednesday night and it was not out of it.
 
 ---
 

@@ -6,7 +6,7 @@ The Wednesday of week one hundred and fifty-five was spent on a bus each way and
 
 Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and the eleven were eleven jobs in a town he has not worked in before, done in the order the card gave them, and the card is a card in date and carries no address. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and eleven days old and is warm, and about four people came in on the Wednesday evening for the temperature and none of them was asked anything.
 
-The card in the coat pocket is six hundred and fifteen days old, which is four days more than the room is, and it has been in that pocket since the Wednesday of the fortnight before last, and a card's age does not stop because a card has been picked up, and **it did not come out of that pocket in that town, and the card in a plastic sleeve in a box by a set of scales is a different object and was never in the same building as it.**
+The card in the coat pocket is six hundred and fifteen days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card's age does not stop because a card has been picked up, and **it did not come out of that pocket in that town, and the card in a plastic sleeve in a box by a set of scales is a different card in a different box, and the two of them were in that hut together for about five hours and neither one was looked at the other.**
 
 ---
 

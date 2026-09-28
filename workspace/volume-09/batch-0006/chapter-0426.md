@@ -6,7 +6,7 @@ The Wednesday of week one hundred and fifty-six was the twenty-eighth sitting of
 
 Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. He was at a bench in Lattice Ward until about two and then at a counter until about six. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and eighteen days old, and it is warm, and about four people came in on the Wednesday evening for the temperature and nobody asked them anything.
 
-The card in the coat pocket is six hundred and twenty-two days old, which is four days more than the room is, and it has been in that pocket since the Wednesday of the fortnight before last, and a card's age does not stop because a card has been picked up.
+The card in the coat pocket is six hundred and twenty-two days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card's age does not stop because a card has been picked up.
 
 ---
 
@@ -72,7 +72,7 @@ At about half past six a shutter came down on a service road and a man of twenty
 
 Two nails in that room carried nineteen lines and the newest of them is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board and it is three hundred and fourteen days old, and nothing was added to it and nothing was removed from it and nothing was rubbed off it.
 
-**A card in a coat pocket is a piece of card in a third building and has been since the Wednesday of the fortnight before last. The wall list in its plastic sleeve in the repair shop is a fourth and is not that board. The hardboard is a fifth. The master's original is in a fourth pocket with a blank fifth line and a drawer that is shut. The page of paper with about eleven lines in it is a sixth, in a fourth building. The sheet of about nine lines in a room in the second of the four districts is not any of the others. The book in a cupboard under a stair in a block of flats is a seventh, the book in a plastic box by a set of scales on that road is an eighth, and the bus driver's book on a shelf in a depot in this city is a ninth, and those three have never been in that landing and no clause in this case is going to put them there.**
+**A card in a coat pocket is a piece of card in a third building and has been since the Wednesday it came out of that rail. The wall list in its plastic sleeve in the repair shop is a fourth and is not that board. The hardboard is a fifth. The master's original is in a fourth pocket with a blank fifth line and a drawer that is shut. The page of paper with about eleven lines in it is a sixth, in a fourth building. The sheet of about nine lines in a room in the second of the four districts is not any of the others. The book in a cupboard under a stair in a block of flats is a seventh, the book in a plastic box by a set of scales on that road is an eighth, and the bus driver's book on a shelf in a depot in this city is a ninth, and those three have never been in that landing and no clause in this case is going to put them there.**
 
 Nobody thanked anybody. The shutter came down at about ten.
 

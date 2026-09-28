@@ -6,7 +6,7 @@ The Thursday of week one hundred and fifty-seven was spent in a kitchen in this 
 
 Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening, and the eleven were done in two districts of this city and the last of them finished at about six and he was not in the room off a service road and does not go to it on a Thursday. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and twenty-six days old and is warm, and about four people went in on the Thursday evening for the temperature and none of them was asked anything.
 
-The card in the coat pocket is six hundred and thirty days old, which is four days more than the room is, and it has been in that pocket since the Wednesday of the week before the one with the road in it, and a card's age does not stop because a card has been picked up, and **it went to a kitchen in this city in an inside pocket over the back of a chair and came home in the same pocket at about nine, and the rail at the end of the counter in the other building still holds one card where it held two.**
+The card in the coat pocket is six hundred and thirty days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card's age does not stop because a card has been picked up, and **it went to a kitchen in this city in an inside pocket over the back of a chair and came home in the same pocket at about nine, and the rail at the end of the counter in the other building still holds one card where it held two.**
 
 ---
 

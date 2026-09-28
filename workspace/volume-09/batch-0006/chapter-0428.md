@@ -6,7 +6,7 @@ The Monday of week one hundred and fifty-seven was spent at a bench in Lattice W
 
 Eleven on the docket and eleven in date; eleven attended, the last of them about six in the evening. The word was at nine and ten and is told to nobody. **Heating: on, dearer, and four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and is not resolved.** The room off that service road is six hundred and twenty-three days old and is warm, and about nine people came in on the Monday evening for the temperature and none of them was asked anything.
 
-The card in the coat pocket is six hundred and twenty-seven days old, which is four days more than the room is, and it has been in that pocket since the Wednesday of the week before the one with the road in it, and a card's age does not stop because a card has been picked up, and the rail at the end of the counter in the other building holds one card where it held two before that Wednesday.
+The card in the coat pocket is six hundred and twenty-seven days old, which is four days more than the room is, and it has been in that pocket since the Wednesday it came out of that rail, and a card's age does not stop because a card has been picked up, and the rail at the end of the counter in the other building holds one card where it held two before that Wednesday.
 
 ---
 
