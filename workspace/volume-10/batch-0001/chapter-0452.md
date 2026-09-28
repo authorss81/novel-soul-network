@@ -12,13 +12,25 @@ The card in the rail is seven hundred and thirteen days old, which is four days 
 
 He came in at about half past six with the bicycle outside and the folder under his arm, and he was not shy about it, which made it harder.
 
+He was let in because the room is not a private room and has never been one, and about four people came in behind him over the next ten minutes for the temperature, and nobody counted him and nobody counted them, and nobody asked any of them for anything including the boy.
+
+The bicycle was outside for about nine minutes with the front wheel against the rail and the bell turned in, and it was still there when he came out, and there is no record anywhere of a bicycle at the end of that service road on a Wednesday evening other than this one.
+
 He said he had been told the room existed. He did not say by whom, and nobody asked, and the not-asking was the correct thing to do and was also the only thing that could have been done.
 
 He wanted to sit in on a Wednesday. He said it as though he were asking for a chair, and then he caught himself and said that he knew it was more than a chair, **and that was the most accurate thing anybody said to that man all day and it was said by a person who had not been in the room and did not know that.**
 
 He said he was doing his bit for the spring. He said there was a folder. He did not open the folder, and nobody asked him to, and the folder is not on anything and nobody in this case will ever know what was in it.
 
+He said the folder had eleven sheets in it and did not say what the eleven sheets were, and nobody asked, and the eleven is the only number he gave and it was not about this room.
+
+He said he had been in the room once, in the spring before, on an open afternoon, with a teacher, and that the teacher had not come in either and had waited outside the whole time and had not said why. Nobody at the end of the second bench said that this was a different thing from what the boy had been sent to do, and the boy did not say it either, and it is the only thing either of them was near.
+
 He said the room was warm, which it was, and which is the only thing about that building a person can tell from the outside, and he said it as though warm were the point.
+
+**He said he had already asked twice and been told to come on a Wednesday, and the two of those asks had been made by somebody else, and the somebody else was a woman, and he gave her no surname and nobody asked him for one.**
+
+**The room is warm and has been warm every evening of the winter, and that is not a favour and it is not a reward and it is the only thing about that building that can be seen from the street, and about four people a week come in for it and go out again and about four of them would not be there if it were cold.**
 
 ---
 
@@ -28,13 +40,23 @@ There was no reason. Nobody said that people are not trained here, and nobody sa
 
 He said the no twice, and then he said the thing that was actually in him, and it came out in one go, the way things do at nineteen.
 
+He took the folder out from under his arm and held it in front of him and did not open it and did not put it down, and about four people who came in in that half hour went round the far side of the room and gave the two of them the width of the floor.
+
+Nobody at the end of the second bench looked at the folder. Nobody at the end of the counter looked at the boy. The parts cage man worked with his back to the room the whole time and would not have seen it and would not have said anything if he had.
+
 **"I have to write four lines about it by Friday."**
 
 That is a document. Four lines is a document, and it is the first document a person of any age has put in front of the man at that counter in a long time, and it is a document with a deadline on it and a person behind it who did not choose it and is nineteen.
 
+It went on the docket in the ordinary way, at about half past six, as a visit, because that is what goes on a docket. There is no column on a docket for a piece of work somebody else has set, and nobody at the end of the second bench looked at the docket after he had gone, and the docket is the only account of the day and it is not sent to anybody.
+
 Nobody said that the four lines would be written by somebody who had not been in the room. Nobody said that four lines is a thing a person can invent. Nobody said that a boy of nineteen who writes four lines about a room he was not let into will write about a room he was not let into, and that is the whole difficulty and nobody in that room put it into words for him.
 
 Nobody told him to come back with a letter. Nobody told him not to write anything. Nobody told him what the four lines were for, because nobody in that room knows and would not have been asked.
+
+**He was nineteen and about four of the people in that room are older than forty and none of them looked at him, and looking at nobody is not unfriendliness and is not a decision anybody made.**
+
+**The folder went out of the room under his arm and up the street with him and it is not on anything anywhere, and the eleven sheets in it are a fact about a school and not a fact about this case.**
 
 ---
 
@@ -44,15 +66,27 @@ He said, on the step, with the folder under his arm and the bicycle against the 
 
 He got on the bicycle. The bicycle went up the street without a noise on it, which is a thing about that bicycle and not about him.
 
+**About four people on that street saw him get on it and none of them had been in the room, and about four people at the counter did not see him go, and the two groups did not overlap and were not going to.**
+
+The street had about four people on it. Nobody called after him and nobody went after him and about four people at that counter over the day did not know that a boy of nineteen had been in the room and had been told no.
+
+**Nobody has seen the four lines. Nobody has asked for them. Nobody in this case has any way of knowing whether a boy of nineteen wrote four lines about a room he was not let into, or four lines about a bicycle, or four lines about a woman who was not a teacher, and the not-knowing is carried here because it is the true shape of the thing and not because anybody is going to look.**
+
 ---
 
-A cook of twenty-seven was at the sink saying nothing and had been at the sink before he came and was at the sink after he went. In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
+A cook of twenty-seven was at the sink saying nothing and had been at the sink before he came and was at the sink after he went.
 
-A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-four weeks and six days, and nobody had renewed the asking and nobody had stopped it.
+She washes up in a room where nobody has to eat, which is a thing about that room and not about her, and about four people a week come in and do not eat and go out again and she has never asked any of them to and has never been asked by any of them for anything.
+
+**A man of about fifty-one with a tool bag was at the wall and had said nothing for about forty-four weeks and six days, and nobody had renewed the asking and nobody had stopped it, and on that Wednesday nobody at the end of the second bench looked at him either.** In the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and the page that is hers is the eighth of eight things in a ring binder on a shelf and is unread and was not read on Wednesday.
 
 A man of about thirty-three, who holds four buildings and about nine hundred doors with no stamp, no reference and no date, was not in that room, and his hold went on for about forty-eight weeks and six days without anything being asked of him and without anything being given to him.
 
 The shutter on that service road came down at about ten and about four people came in for the temperature and went out again, and the kettle was on and nobody made a cup of anything.
+
+There is a shelf by the window with about nine things on it that nobody can say what any of them are for, and they are not the same nine on any two days, and nobody at the end of the second bench has ever been asked what they are and would not have answered if he had.
+
+The door on that room sticks when it is wet and it was not wet. It stuck anyway, twice, and the second time it took a shoulder.
 
 Nobody thanked anybody.
 
@@ -62,6 +96,6 @@ Nobody thanked anybody.
 
 *The four lines, as a record of the first document put in front of him in a long time.* **What it is: four lines, wanted by Friday, for a piece of work at a school, in a folder that was not opened. Whose deadline: the school's, and not the boy's, and the boy said so himself in the doorway by saying he would not have asked if it had been somebody else doing it. Who chose it: nobody in that room, and the boy of about nineteen chose it and was nineteen. What the man at the end of the second bench did about it: nothing, and said nothing, and the nothing was correct and is recorded here as correct. What was not said and is recorded as not said: that four lines would be written by somebody who had not been in the room; that four lines is a thing a person can invent; that a boy who writes four lines about a room he was not let into will write about a room he was not let into; and the name of the somebody else. Whether the four lines exist: unknown, and not anybody's business in this case, and the not-knowing is not a thread. Whether a folder is on anything: no. Owner: a school, and nobody.**
 
-*The two refusals of this week, kept apart.* **The first, on the Monday, was a man of about forty-six with nine exercise books, and what he asked for was a list of what this city does on a Friday, and he was told no in about four seconds, and he named the cost of the trip out loud and nobody improved on it. The second, on the Wednesday, was a boy of about nineteen with a folder, and what he asked for was to be let into a room for one evening, and he was told no in about four seconds, and he named the cost in a doorway and nobody improved on it. The two refusals are the same length and they are not the same refusal, and a reader is not to add them together, and the difference is that the first man came back with a bus on the Tuesday carrying nine cheap books and the second boy came back on a bicycle with nothing, and this case does not know what either of them did next and is not going to find out. Owner: a room, and nobody.**
+*The two refusals of this week, kept apart.* **The first, on the Monday, was a man of about fifty-two with nine exercise books, and what he asked for was a list of what this city does on a Friday, and he was told no in about four seconds, and he named the cost of the trip out loud and nobody improved on it. The second, on the Wednesday, was a boy of about nineteen with a folder, and what he asked for was to be let into a room for one evening, and he was told no in about four seconds, and he named the cost in a doorway and nobody improved on it. The two refusals are the same length and they are not the same refusal, and this case does not add them together, and the difference is that the first man came back with a bus on the Tuesday carrying nine cheap books and the second boy came back on a bicycle with nothing, and this case does not know what either of them did next and is not going to find out. Owner: a room, and nobody.**
 
 *What the day did not touch.* **Nobody read the ninth line in a ring binder and the folded page at the bottom of that binder is where it was on Wednesday, and the woman's page is the eighth of the eight and is unread. A drawer stayed shut, a pencil box in a street in another district was not opened, and a folder in a weighbridge hut in the working Ashfields was not turned over. The four rooms in four districts have still never met, and the sheet of about nine lines in a room in the second of the four districts is still not on anything and has not been adopted by anybody. Nine keys are needed and two exist, and the first of the nine still cannot be asked back. Nine doors on a road on the far side of this city are still hanging by one hinge, and a week that about eleven people lost has not come back to them, and a bar across the inside of a door in each of four buildings in four towns is on nothing. The fortnight a cook laid out is still on nobody's account. The Exchange did not sit, its book did not grow, and no number was given into its tin. Nobody died. Nobody thanked anybody. Entry 455.**
