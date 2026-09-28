@@ -383,7 +383,9 @@
 
 ### 5.3 THE COLLISION REGISTER, PUBLISHED BECAUSE A FIGURE THAT EQUALS AN ANCHOR IS THE FIGURE MOST LIKELY TO BE READ AS THE ANCHOR
 
-**Four of this volume's five hundred interval figures are, by coincidence of arithmetic, another series' anchor day. All four are at two chapters and they are printed here so that a writer who reaches one of them knows it is an age and not a date.**
+**Five of this volume's five hundred interval figures are, by coincidence of arithmetic, another series' anchor day. All five are at two chapters and they are printed here so that a writer who reaches one of them knows it is an age and not a date.**
+
+**REPAIRED IN PLACE AT THE VOLUME 08 CLOSE, AND THE SUPERSEDED TEXT IS QUOTED BESIDE IT. The text this row replaced read: *Four of this volume's five hundred interval figures are, by coincidence of arithmetic, another series' anchor day. All four are at two chapters and they are printed here so that a writer who reaches one of them knows it is an age and not a date*, and its table carried four rows. The sweep was re-run at the close over all five hundred values against all ten anchors and it returns FIVE, not four, and the fifth is at Chapter 394 and the register did not carry it. The two tables are printed one under the other and the difference between them is one row.**
 
 | Chapter | Day | The figure | Which anchor it equals | The arithmetic |
 | --- | --- | --- | --- | --- |
@@ -391,10 +393,13 @@
 | 357 | 800 | the twelve lines are **358** | the anchor of the card | 800 − 442 = 358 |
 | 394 | 884 | the card in a rail is **526** | the anchor of the fourteenth line | 884 − 358 = 526 |
 | 394 | 884 | the fourteen lines are **358** | the anchor of the card | 884 − 526 = 358 |
+| 394 | 884 | the twelve lines are **442** | their own anchor, the anchor of the twelve lines | 884 − 442 = 442 |
 
-**At Chapter 357 the card is four hundred and forty-two days old and the twelve lines are three hundred and fifty-eight, and the two figures are each other's anchors. At Chapter 394 the card is five hundred and twenty-six and the fourteenth line is three hundred and fifty-eight.** In prose these are written in words and neither of these chapters may print either figure in a way that could be read as a date, and no chapter in this volume prints a day number at all.
+**THE FIFTH ROW IS A FIGURE THAT EQUALS ITS OWN ANCHOR, and it was not in the register, and the reason it is a register entry and not a curiosity is the sentence the heading of this section carries: a figure that equals an anchor is the figure most likely to be read as an anchor. At Chapter 394 the twelve lines are four hundred and forty-two days old, and four hundred and forty-two is the day the twelve lines were written, so a writer who prints the figure can be read as printing a day. The prompt of record for Movement V repeated the register's own count of four and said *two of them are at Chapter 394*; both halves of that sentence are superseded by this table, and the count of rows at Chapter 394 is three.**
 
-**The sweep was run over all five hundred values against all ten anchors, and these four are the only collisions.**
+**At Chapter 357 the card is four hundred and forty-two days old and the twelve lines are three hundred and fifty-eight, and the two figures are each other's anchors. At Chapter 394 the card is five hundred and twenty-six, the fourteen lines are three hundred and fifty-eight, and the twelve lines are four hundred and forty-two.** In prose these are written in words and neither of these chapters may print any of these figures in a way that could be read as a date, and no chapter in this volume prints a day number at all. **Chapter 394 does all three in words, and says so in the same breath: neither of those figures is a date and neither of them is anything but an age.**
+
+**The sweep was run over all five hundred values against all ten anchors, and these five are the only collisions.**
 
 ### 5.4 FIGURES INHERITED AND NOT THIS VOLUME'S, RESTATED SO THAT NOBODY HAS TO FIND THEM
 
@@ -417,6 +422,135 @@
 **This section is reserved for the Volume 08 close and it is empty. The Volume 07 close was written by the phase that wrote Chapter 350, which is what the header above reserves it for, and Volume 08's close is written by the phase that writes Chapter 400 and by nothing earlier. Sections 1 to 5 above must not be extended by that phase except to publish figures it has measured on finished files.**
 
 **What the close will owe this file, and the list is here so that the phase that writes it knows what it is holding: the pass log over the five batch summaries on every published quantity and with the aggregate and the mean of the ten per-chapter apparatus shares both printed for all five, because the house has already lost a volume comparing the two; the measured figures on Volume 08's fifty files with the matchers printed in the same paragraph as the table; the telephone's figure at the close and the running series that produced it; the collision register re-run on whatever figures the fifty files actually printed; the detector re-run on every row in the finished files, including any row a batch added; and any row that does not reproduce, repaired in place with the superseded text quoted beside it.**
+
+---
+
+# 6. THE VOLUME 08 CLOSE — WRITTEN BY THE PHASE THAT WROTE CHAPTER 400, AND BY NOTHING EARLIER
+
+**Volume 08 closed on the page at Chapter 400, day 924, the Wednesday of week one hundred and forty-eight, load-book entry 403, and this section is written from the fifty finished files and not from a summary. Where this section and a batch prompt disagree, this section is the measurement and the prompt is the claim.**
+
+## 6.1 THE PASS LOG OVER THE FIVE BATCH SUMMARIES, EVERY PUBLISHED QUANTITY, WITH BOTH QUANTITIES OF THE APPARATUS SHARE PRINTED FOR ALL FIVE
+
+**Both quantities are printed because the house has already lost a volume comparing an aggregate with a mean and Movement IV found the sign of the difference wrong in prose a third time. The aggregate is the apparatus words over the total words of the ten files; the mean is the mean of the ten per-chapter shares. They are different numbers and the mean is above the aggregate in Movements I, IV and V and below it in Movements II and III, and no movement may write one for the other.**
+
+| Movement | Chapters | Words | Bold | Bold / 1k | True hedge | True / 1k | Apparatus aggregate | Apparatus mean of ten | Overlap mean | Max apparatus paragraph |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I | 351–360 | 33,570 | 196 | 5.839 | 806 | 24.010 | 46.717 | 46.762 | 67.9 | 39 |
+| II | 361–370 | 34,422 | 197 | 5.723 | 919 | 26.698 | 43.068 | 43.140 | 55.7 | 34 |
+| III | 371–380 | 38,741 | 208 | 5.369 | 1,020 | 26.329 | 33.729 | 33.716 | 32.0 | 30 |
+| IV | 381–390 | 40,416 | 174 | 4.305 | 1,115 | 27.588 | 31.651 | 31.764 | 42.2 | 38 |
+| **V** | **391–400** | **32,295** | **187** | **5.790** | **840** | **26.010** | **47.627** | **47.881** | **48.0** | **37** |
+| **VOLUME** | **351–400** | **179,444** | **962** | **5.361** | **4,700** | **26.192** | **39.984** | — | — | **39** |
+
+**THE MOVEMENT III ROW IN THAT TABLE IS REPLACED AND THE SUPERSEDED TEXT IS QUOTED BESIDE IT. Movement III's own summary published 36,113 words, 5.760 bold spans per thousand, 1,014 true hedge at 28.083 and an apparatus aggregate of 33.73, and every one of the four was measured on that movement's files before two review repair passes ran over them. This table is measured on the fifty files as they now stand, and the figures that reproduce are 38,741 words, 5.369, 1,020 at 26.329 and 33.729, and the 28.083 in particular does not reproduce under any matcher in this repository and was a figure of record in a file that has since been repaired. The apparatus mean for that movement is 33.716 and the aggregate is 33.729 and the mean is the smaller of the two, which is the opposite of the sign Movement IV's own file got wrong in prose.**
+
+**The four Volume 07 figures this volume is measured against, re-run on Volume 07's fifty files and not taken from a summary: 163,618 words per fifty-chapter volume, 6.142 bold spans per thousand, 24.093 true hedge per thousand, and 44.678 apparatus share in aggregate. The superseded set of 163,532, 6.146, 24.093 and 44.692 is not reintroduced anywhere and is not restated in this section.** The volume closed at **179,444 words, which is 15,826 above a pro-rata Volume 07, or 9.7 per cent**, and **the five movements are 1.3 per cent under pro-rata, 5.2 over, 18.4 over, 23.6 over and 1.3 under, and the arc is not a curve and is not published as one: four of the five are between one and twenty-four per cent and the fourth is the outlier.** The volume closed at **5.361 bold spans per thousand against 6.142, a shortfall of seventy-eight hundredths**, which is the best of the five movements and the best of the three volumes this file has measured closed. The volume closed at **26.192 true hedge per thousand against 24.093, which is 2.1 points above**, and **the hedge rate is above the benchmark in four of the five movements and within a point and a half of it in the fifth, and the volume figure is a finding about the form and not about the counting.** The volume closed at **39.984 in aggregate, 4.7 points below the benchmark**, and the arc across the five movements is 46.7, 43.1, 33.7, 31.7, 47.6, **and the shape of that arc is the finding: the apparatus share fell for three movements and then came back above every movement but the first, and the fourth movement's own summary explained its fall as prose that got longer, and the fifth movement changed the register of the mandated row set rather than its length and the figure returned.**
+
+## 6.2 THE MEASURED FIGURES ON VOLUME 08'S FIFTY FILES, WITH THE MATCHERS PRINTED IN THE SAME PARAGRAPH AS THE FIGURES
+
+**The expressions are printed once and verbatim, because a matcher described in prose is a matcher that has drifted. Bold spans, read one line at a time and never with DOTALL, `\*\*(?!\s)(.+?)(?<!\s)\*\*`, cross-checked against the raw token count of `**` halved and against the same expression with DOTALL: on all fifty files of Volume 08 all three agree span for span and the raw parity count of `**` is even on all fifty. Hedge, three ways and case-sensitively, raw `\babout\b`, prepositional `\babout\s+(?:it|what|the|which)\b`, true being raw minus prepositional, with the case-insensitive reading beside it. The eight-word overlap is the intersection of the eight-word shingles of the text from the italic entry line that opens each load book to the end of that file with the shingles of the text above that line, normalised by deleting every `**`, lower-casing and splitting on whitespace, with no punctuation stripped and no frame heading removed; it is the only matcher in this repository that reproduces a published figure anywhere, and it is the house matcher. The nested-emphasis walk is a single asterisk inside the captured body of a bold span on one line, and a second walk was run for any line carrying more than one pair of double asterisks. The month-name walk is a numeral adjacent to one of the twelve month words and is a day-date pattern and not an alternation. The four-digit-year walk is a four-digit run.**
+
+| Quantity | Movement V's ten | The volume's fifty | The benchmark |
+| --- | --- | --- | --- |
+| Words, whitespace token | 32,295 | 179,444 | 163,618 |
+| Bold spans | 187 | 962 | — |
+| Bold spans per thousand | 5.790 | 5.361 | 6.142 |
+| Hedge, raw | 924 | 5,111 | — |
+| Hedge, prepositional | 84 | 411 | — |
+| Hedge, true | 840 | 4,700 | 3,942 |
+| True hedge per thousand | 26.010 | 26.192 | 24.093 |
+| True hedge per thousand, case-insensitive | 26.506 | — | — |
+| Apparatus share in aggregate | 47.627 | 39.984 | 44.678 |
+| Apparatus share, mean of the ten | 47.857 | — | — |
+| Eight-word overlap mean | 48.0 | — | — |
+| Highest apparatus paragraph | 37 | 39 | — |
+| Panels | 0 | 1, at Chapter 387 | — |
+| `* * *` markers | 0 | 1, at Chapter 387 | — |
+| Out-of-fiction hits in narration | 0 | 0 | — |
+| Out-of-fiction hits in apparatus | 10 | 50 | — |
+
+**Movement V's ten files run 924 raw, 84 prepositional and 840 true hedge at 26.010 per thousand case-sensitively and 856 at 26.506 case-insensitively, against Movement IV's 27.588 tight and 30.656 loose, and the tight reading came down 1.58 points and the loose one 4.15, and that is the first movement in this volume to move the hedge rate the right way and it was done by writing about nine people who refuse things instead of writing about four people noticing that something happened.** Split by region: **the prose of Movement V's ten files runs at 26.1 true hedge per thousand and its apparatus at 26.0, against Movement IV's 30.3 and 27.7.**
+
+**The per-paragraph overlap instrument, and not the mean, because the mean is the number that conceals the paragraph. Both quantities are published. Run on Movement V's ten files: no apparatus paragraph at or above forty shared shingles and a maximum of thirty-seven, at the conditions paragraph of Chapter 399.** The eleven highest, each named: thirty-seven, the conditions of Chapter 399; thirty-four, the conditions of Chapter 392; thirty-three, the conditions of Chapter 395; thirty-two, the conditions of Chapter 398; thirty-two, the conditions of Chapter 391; twenty-six, the closing record of Chapter 398; twenty-five, the conditions of Chapter 393; twenty-three, the conditions of Chapter 394; twenty-one, the record of the four minutes at Chapter 399; twenty, the conditions of Chapter 400; nineteen, the conditions of Chapter 397. **Eight of the eleven are a conditions paragraph, which is the instrument being pointed at the mandated row set, and the three that are not are the three records that carry this movement's three named costs.** **Movement V's first full measurement of its own finished files returned an eight-word overlap mean of 70.6, a maximum apparatus paragraph of ninety-six and five paragraphs at or above forty. The fix was the one the rule of record names — the row set is the form and the register is not — and the mean came down to 48.0, the maximum came down to thirty-seven, the paragraphs at or above forty went to none, and the apparatus share rose by four tenths of a point while it did. All four numbers moved for the same reason, which is that the same sentences were rewritten in the load books, and none of the four is a score.**
+
+**A CommonMark render with `markdown-it-py` at CommonMark level: every source bold span renders as a `<strong>` element, one for one, 962 in the fifty files and 187 in Movement V's ten, and zero literal asterisks survive anywhere in the rendered output of any of the fifty.** The nested-emphasis walk returns nothing on all ten of Movement V's files and the second walk for any line carrying more than one pair of double asterisks returns nothing on all ten. The lowercase-opening-paragraph walk, run after the editing and not before, returns nothing on all ten, and the doubled-comma walk returns nothing on all ten.
+
+**The cross-file run walk, all five lengths, with the threshold beside it, and the instrument counts DISTINCT runs and not positions.** Movement V's own ten files: **zero at thirty words, zero at twenty-four, zero at twenty, five at sixteen and twelve at twelve in all ten, and the run has to be in nine or more of the ten to count.** The twelve twelve-word survivors are the mandated conditions opening, the mandated closing-record clause about the card in a rail, the mandated clause about the folded page at the bottom of a ring binder, and sliding windows over the row set's own labels; they are the house's sentences and they are the form, and this file does not claim them as its own. **The column against the movement before it: run on the twenty files of Movements IV and V together and counting a run present in nineteen or more of them, zero at thirty words, zero at twenty-four, zero at twenty, zero at sixteen and four at twelve, and all four of the four are the conditions opening, which is the same mandated sentence in both movements.** Movement IV's own-ten column found 0, 0, 0, 1 and 15 and Movement V's finds 0, 0, 0, 5 and 12, so the twenty-word and twenty-four-word columns are at zero in both and the twelve-word column is worse by three and all three are house sentences. **A movement that reads its own overlap mean as a result is reading a number that does not move: Movement V's mean is 48.0 against Movement IV's 42.2 and the mean went UP while the worst paragraph came down by fifty-nine, and both figures are published here together because either alone is a decoration.**
+
+**The other walks, and what they returned, on Movement V's ten files.** The digit walk returns exactly five digit tokens per file, fifty across ten, in four classes and no fifth: the chapter number in the heading, the entry number and the week number in the italic entry line, and the entry number in the closer. The month-name walk, run as a day-date pattern, returns nothing on all ten, and the four-digit-year walk returns nothing on all ten; the loose alternation of the twelve month words returns two hits on all ten together and **both of them are the modal verb, at Chapter 392, and the rule is no month-name and a modal verb is not a month-name, and the day-date pattern is the instrument that can tell the difference and it returns nothing.** The out-of-fiction walk runs on nine phrases and is reported as two numbers: **zero in narration on all ten and ten in apparatus, and all ten of those are the italic entry line of each file, where a load book naming itself is the document speaking, which is the same finding Movement IV published and the fifty-file figure of fifty is fifty entry lines and nothing else.**
+
+**The speech frame, which is the only instrument in the list that catches the thing a review of Movement III found and no matcher found.** Across Movement V's ten files, on 187 bold spans, the five frame expressions total **19: *said one thing* 8, *said a small unasked thing* 0, *said his* 2, *said hers* 0, *nobody improved on it* 9, and that is 10.2 per hundred of the spans, against Movement IV's 56 on 174 and Movement III's 100 on 208.** **This is the fourth consecutive movement to bring the count down and it is now at a fifth of Movement III's.** *In about four seconds* is on the page twenty-eight times and *in about nine seconds* thirteen times, forty-one across the ten files against Movement IV's forty-five, and **that figure has not moved materially in three movements and it is the shape under all of them, and a movement that wants the shape gone has to write the speeches differently and not caption them differently.** There are 36 speech spans in the ten files and **25 distinct four-word introducer clauses before them, of which 21 occur once**, and that is the count that says whether the speeches are different from each other, and 25 distinct introducers on 36 speeches is a movement that wrote speeches rather than a movement that captioned one speech thirty-six times.
+
+**The vocabulary walk, on a vocabulary of 3,746 words built from the 150 finished chapter files of Volumes 05, 06 and 07.** Sixty-four lowercase alphabetic tokens in Movement V's ten files appear nowhere in it. **Ordinary English the previous three volumes had not happened to use is not a defect. The three defect classes inside that list are zero: no fused words, no fused capitals, and no function word glued to the next word.** The head of the list is *hut* (thirty), *dearer* (twenty-six), *shopfront* (eighteen), *repaid* (ten), *weighbridge* (ten), *hinges* (nine), *yards* (eight), *workplace* (eight), *ashfields* (seven), *knocks* (seven), and about fifty more of the same kind.
+
+**The hard stops, walked one at a time.** **The fourth condition is not quoted anywhere in Movement V, not whole, not in part, not softened and not paraphrased, and the *practic* stem returns zero on all ten files, which is the second movement in a row to return zero.** **The *relay* stem and the *chain* stem both return zero on all ten.** Zero panels and zero markers, and the words *panel* and *apparatus* return zero in all ten, and no page refers to either or to the absence of either. **No named person of any kind entered this movement, against a ceiling of one per movement and four in the volume, so the volume's ceiling of four stands at zero of four used.** Neither prohibited expression occurs in any of these ten chapters, in narration, in a load book or in a mouth, and the matcher is the word and not the shape of the sentence around it; both return zero and neither is printed in this file either. The day-date and year walks return nothing and no chapter prints a day number. **The lowercase-opening-paragraph walk, run as a gate after the editing rather than as an audit before it, returns nothing on all ten, and that is the second time in this repository it has been run as a gate.**
+
+## 6.3 THE TELEPHONE'S FIGURE AT THE CLOSE, AND THE RUNNING SERIES THAT PRODUCED IT
+
+**The rule a batch follows is the rule at section 4: the telephone moves at a sitting only where a chapter says a number was given into it, and no chapter computes the value from the chapter beside it, and each batch recomputes the running value from its own ten chapters and prints it.**
+
+| Sitting | Chapter | Number given into the tin | Running value | Announced count |
+| --- | --- | --- | --- | --- |
+| 21 | 350 | three | 72 | 26 of which 21 |
+| 22 | 362 | two hundred and nineteen doors in four buildings | 73 | 27 of which 22 |
+| 23 | 376 | none | 73 | 28 of which 23 |
+| 24 | 389 | none | 73 | 29 of which 24 |
+| 25 | 399 | none | 73 | 30 of which 25 |
+| 26 | 400 | none | 73 | 31 of which 26 |
+
+**THE TELEPHONE'S FIGURE AT THE CLOSE OF VOLUME 08 IS SEVENTY-THREE, and Movement V gave nothing into it in either of its two sittings, and the reason is the reason Movement IV gave and printed: a number that moves a counter has to be a number the story needed, and this movement's story needed none, and a number was available at the twenty-sixth sitting, where a man said a thing to her face and the book opened, and it was not used and the chapter says in about nine words that no number was given into the tin and that nobody counted it and that nobody in that room wanted a number.** The book is at fifty-three lines, the tin at seventy-three, the count has been announced thirty-one times of which twenty-six correspond to the twenty-six Wednesdays this book holds and five predate it on a sheet she has never shown anybody, and the whole business is nineteen years old, and **none of the four was converted into another at any of the five sittings of this volume and the difference between the book and the tin is not a number and was not given as one.**
+
+## 6.4 THE COLLISION REGISTER RE-RUN ON WHAT THE FIFTY FILES ACTUALLY PRINTED
+
+**The sweep was run at the close over all five hundred of this volume's interval values against all ten anchors, on the figures the finished files print and not on a batch's table, and it returns five and not four. Section 5.3 has been repaired in place with the superseded text quoted beside it, and the fifth row is the twelfth line at Chapter 394, which is four hundred and forty-two days old, and four hundred and forty-two is the day the twelve lines were written.** The register now reads:
+
+| Chapter | Day | The figure as printed in that file | Which anchor it equals | The arithmetic |
+| --- | --- | --- | --- | --- |
+| 357 | 800 | the card in a rail is four hundred and forty-two | the anchor of the twelve lines | 800 − 358 = 442 |
+| 357 | 800 | the twelve lines are three hundred and fifty-eight | the anchor of the card | 800 − 442 = 358 |
+| 394 | 884 | the card in a rail is five hundred and twenty-six | the anchor of the fourteenth line | 884 − 358 = 526 |
+| 394 | 884 | the fourteen lines are three hundred and fifty-eight | the anchor of the card | 884 − 526 = 358 |
+| 394 | 884 | the twelve lines are four hundred and forty-two | their own anchor | 884 − 442 = 442 |
+
+**All three of Chapter 394's are printed in that file in words, and the file says in the same sentence that neither of those two figures is a date and neither of them is anything but an age, and no file in the volume prints a day number at all.**
+
+## 6.5 THE DETECTOR RE-RUN ON EVERY ROW IN THE FINISHED FILES, INCLUDING ANY ROW A BATCH ADDED
+
+**The detector is: read one row backwards and confirm that it implies exactly one day. The Monday of week 88 is day 502, weeks run Monday to Sunday, and a chapter's day is that week's named weekday with Monday at zero.** Run on all fifty rows of section 1, and on the ten rows of Movement V, read backwards: **fifty of fifty return a single week and a single weekday, and no row implies a second day.** On the ten rows this batch wrote: 880 to week 142 Monday, 882 to week 142 Wednesday, 883 to week 142 Thursday, 884 to week 142 Friday, 887 to week 143 Monday, 889 to week 143 Wednesday, 891 to week 143 Friday, 894 to week 144 Monday, 896 to week 144 Wednesday, and 924 to week 148 Wednesday. **No batch in this volume added a row to this file and no batch extended sections 1 to 5, and the only edit any batch made to sections 1 to 5 in the whole volume is the repair at section 5.3 that this close made.**
+
+**The card-minus-room invariant, run on all fifty rows: the set of distinct values of (day − 358) minus (day − 362) is {4}, and it is the cheapest check in this repository and it held on all fifty chapters across the volume break.** The load-book run: **fifty rows, fifty entries, 354 to 403, and the set of values of (entry − chapter) is {3} on every row and there is no duplicate and no gap.**
+
+## 6.6 THE FIGURES AT THE CLOSE, IN ONE PLACE, EACH WITH THE DAY IT CAME FROM
+
+| Figure | Arithmetic | Value |
+| --- | --- | --- |
+| The whole of Volume 08 | 924 − 789 | 135 days |
+| Chapter 350 to Chapter 400 | 924 − 784 | 140 days |
+| The first sitting to the close | 924 − 812 | 112 days |
+| Chapter 391 to Chapter 400 | 924 − 880 | 44 days |
+| Chapter 399 to Chapter 400 | 924 − 896 | 28 days, which is four weeks |
+| The room off a service road at the close | 924 − 362 | 562 days |
+| The card in a rail at the close | 924 − 358 | 566 days |
+| The twelve lines at the close | 924 − 442 | 482 days |
+| The fourteenth line at the close | 924 − 526 | 398 days |
+| The nineteenth line at the close | 924 − 666 | 258 days |
+| A man of about thirty-three's hold at the close | 924 − 729 | 195 days, which is 27 weeks and 6 days |
+| A man of about fifty-one's own series at the close | 924 − 756 | 148 days |
+| The ask at the close | 924 − 672 | 252 days, which is 36 weeks |
+| The nine hand copies at the close | 924 − 796 | 128 days, which is 18 weeks and 2 days |
+| The quiet-zone disconnection to the close | 924 − 824 | 100 days |
+| The earlier volume's blackout night to the close | 924 − 723 | 201 days |
+| The midpoint reversal to the close | 924 − 848 | 76 days |
+| The ninth Friday's post at Chapter 397 | 891 − 814 | 77 days, which is 11 weeks |
+| The ninth Friday's post at Chapter 394 | 884 − 814 | 70 days, which is 10 weeks |
+
+**THE ASKING FIGURE, WHICH IS THE ONE A LATER WRITER WILL GET WRONG, IS THIRTY-SIX WEEKS AND NOT THIRTY-TWO. The twenty-fifth sitting reported thirty-two weeks and the twenty-sixth reports thirty-six, and the gap between them is twenty-eight days, and the count is from the day of the asking at day 672 and not from the sitting before the last one. Four of this repository's five reports have carried that figure wrongly once and the correction is here and in the two sittings' own files.**
+
+**THE FOUR FIGURES OF THE EXCHANGE AT THE CLOSE, none of which was converted into another at any of this volume's five sittings: fifty-three lines, seventy-three, thirty-one announced of which twenty-six correspond, and nineteen years.** And the ninth chair is against the wall with its back to the room, its mover is not named and is not to be named, and the licensor is unnamed and the field is blank and the master's fifth line is blank and the drawer was not opened in fifty chapters.
+
+## 6.7 WHAT THE VOLUME CLOSE OWES THE NEXT VOLUME, IN ONE PARAGRAPH, AND NONE OF IT IS A FIGURE
+
+**Nine keys are needed and two exist and the first of the nine still cannot be asked back by anybody. The printed paragraph is on the page and is not withdrawn and cannot be, and nobody in this case can say who printed it, and four rooms have said no to a merge in four buildings in four weeks and two of the four never told the other two. The heating is on, it costs more, four names on a lease cost more than they did, and a fortnight a cook paid for is paid for by nobody and was not resolved in this volume and is not resolved. Nine people are still copying the front of a page of paper by hand, about eight of the nine are unfinished, and the first disagreement, a figure in the fourth line that is right in six copies and wrong in three, has not been found and is not going to be found by anybody in this case. The licensor, the field, the standing question and the question written once on a service road are all where they were before Chapter 351. The word is uncorrected and has been said out loud once. The volume's own subject — what kind of institution can hold a line after the man is no longer in charge — was not answered: four rooms refused, about nine rooms went dark on purpose, two of the nine were wrong about what dark does, nobody was repaid anything, and a line was held on the last day and nobody in this case can say by what.**
 
 ---
 
