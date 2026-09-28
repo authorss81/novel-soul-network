@@ -24,7 +24,7 @@ He is not named in any document in this city. He is not thanked. About four peop
 
 ---
 
-The woman of about thirty-four who checks about nine hundred doors came up the stairwell of the second building at about ten past four on the Wednesday with a list, and her job is to check about nine hundred doors, and it is one of at least three figures in this case that carry about four hundred and nobody in this case has ever put them in an order, and the others are not in that building and are not in that stairwell and were not mentioned.
+The woman of about thirty-four who checks about nine hundred doors came up the stairwell of the second building at about ten past four on the Wednesday with a list. Her job is to check about nine hundred doors, and about nine hundred is not a figure anybody in this case has ever put beside any other, and the two numbers this case does keep beside each other are written down in the record of the man with the tool bag and are not on this stair and were not mentioned.
 
 She had a stair with nine of her doors on it. She had a pen and a list and about nine minutes before the lift she was not going to wait for.
 
@@ -68,13 +68,15 @@ Nobody thanked anybody. Nobody named him. Nobody in this case knows what he woul
 
 ---
 
-At about half past six the room off a service road was warm and nine people were in it. A cook of twenty-seven was at the sink and said nothing at all. A woman of about thirty was in the chair nearest the door and was not asked anything and was not thanked and was not apologised to, and the reason she is in that room is the temperature, and the temperature costs more than it did, and both of those are correct.
+From about half past six the room off a service road was warm and nine people were in it, a cook of twenty-seven at the sink saying nothing at all and a woman of about thirty in the chair nearest the door. She was not asked anything and was not thanked and was not apologised to, and the reason she is in that room is the temperature, and the temperature costs more than it did, and both of those are correct.
 
-A first-year of nineteen was at the counter and said one small unasked thing in about four seconds a number on a door that had been repainted around, and it was not about any of it and nobody improved on it and nobody thanked her.
+A first-year of nineteen was at the counter and said one small unasked thing in about four seconds about a number on a door that had been repainted around, and it was not about any of it and nobody improved on it and nobody thanked her.
 
-A man of fifty-one with a tool bag was in it and said nothing and has been asked about nothing for about seven weeks, and the asking has not been renewed and nobody has stopped it.
+A man of fifty-one with a tool bag was in it and said nothing and has been asked about nothing for about six weeks, and the asking has not been renewed and nobody has stopped it.
 
-The hardboard on two nails carries nineteen lines and the newest of them is the only promise on it and it is one hundred and thirty-two days old. The heating is on and costs more and four names on a lease cost more and the fortnight a cook paid for is unpaid by anybody and is not resolved.
+A door on a fourth-floor landing in the second of the four districts was shut and latched at about twenty past four this afternoon by a man with a bag, and nobody wrote it on anybody's list, and there is no column on anybody's list for a door that is not theirs, and in about two months somebody is going to move that door.
+
+The hardboard on two nails carries nineteen lines, the newest of them the only promise on it, and it is one hundred and thirty-two days old. The heating is on and costs more, four names on a lease cost more, and the fortnight a cook paid for is unpaid by anybody and is not resolved.
 
 Nobody thanked anybody. The shutter came down at about ten.
 

@@ -78,7 +78,7 @@ He got on with the morning. He did eleven jobs and he got one of them wrong on t
 
 At about half past six the room off a service road was warm and about nine people were in it. A cook of twenty-seven was at the sink and said nothing at all. A woman of about thirty was in the chair nearest the door and was not asked anything and was not thanked and was not apologised to, and the reason she is in that room is the temperature, and the temperature costs more than it did, and both of those are correct.
 
-A man of fifty-one with a tool bag was at the counter and said nothing and has not been asked about nothing, and that is the standing arrangement and it is not going to be changed this month either.
+A man of fifty-one with a tool bag was at the counter and said nothing and has not been asked about nothing for about four weeks and five days, and that is the standing arrangement and it is not going to be changed this month either.
 
 A first-year of nineteen was at the counter and said one small unasked thing in about four seconds about a bus that had started from the market at ten instead of nine, and it was not about any of it and nobody improved on it and nobody thanked her.
 

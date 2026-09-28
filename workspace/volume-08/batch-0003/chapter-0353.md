@@ -1,6 +1,6 @@
 # Chapter 353 — A Limit About Something Small
 
-The Thursday of week one hundred and twenty-nine was a Thursday, and a man of twenty-two and a woman of twenty-four who has been his Thursday for four years were four miles apart in two workrooms doing two jobs that get paid for, and **at about eleven in the morning she told him not to bring her the sheet any more, and it was a small thing, and he took it, and it was the first limit said to him in a room in four years that he did not immediately try to turn into something he could do.**
+The Thursday of week one hundred and twenty-nine found a man of twenty-two and a woman of twenty-four, four miles apart in two workrooms doing two jobs that get paid for, and **at about eleven in the morning she told him not to bring her the sheet any more, and it was a small thing, and he took it, and it was the first limit said to him in a room in four years that he did not immediately try to turn into something he could do.**
 
 ---
 
@@ -68,7 +68,7 @@ The first-year of nineteen was at the third desk and she said the true thing in 
 
 He said: "**That is not why. I say no.**"
 
-Seven words. It was wrong. **He knew it was wrong while he was saying it, and he did not argue, and he did not correct himself afterwards, and he did not say anything else for nine seconds, and four people in that room were not in that room.**
+Seven words. It was wrong. **He knew it was wrong while he was saying it, and he did not argue, and he did not correct himself afterwards, and he did not say anything else for nine seconds, and about four people in that room heard the seven words and about four did not.**
 
 **Nobody improved on it. She did not improve on it and he did not improve on it and four people have heard one half of it and about four have heard the other half and the two halves are not joined anywhere and are not going to be.**
 
@@ -78,13 +78,13 @@ She was right. She was right for a reason that has nothing to do with this room 
 
 ---
 
-At about half past six the room off a service road was warm and nine people were in it. A cook of twenty-seven was at the sink and said nothing at all. A woman of about thirty was in the chair nearest the door and was not asked anything and was not thanked and was not apologised to, and the reason she is in that room is the temperature, and the temperature costs more than it did, and both of those are correct.
+From about half past six the room off a service road was warm and about nine people were in it. A cook of twenty-seven was at the sink and said nothing at all, and a woman of about thirty was in the chair nearest the door and was not asked anything and was not thanked and was not apologised to, and the reason she is in that room is the temperature, and the temperature costs more than it did, and both of those are correct.
 
-A man of about fifty-one with a tool bag was in it and said nothing, and has been asked about nothing for about five weeks and a half, and the asking has not been renewed and nobody has stopped it.
+A man of about fifty-one with a tool bag was in it and said nothing, and has been asked about nothing for about five weeks and a day, and the asking has not been renewed and nobody has stopped it.
 
-The hardboard on two nails carries nineteen lines. The first of them is a cook's and is still the first line. The newest is a man of twenty-nine's and is the only promise on that wall and it is one hundred and twenty-six days old, and nobody wrote on it today.
+A drawer in a building four miles away has a sheet of paper in it with about seven lines on it in one hand. The person who put it there has not said when and is not going to, and a person who opens that drawer will not know anything was ever different.
 
-The heating is on and costs more and four names on a lease cost more and the fortnight a cook paid for is unpaid by anybody and is not resolved.
+The hardboard on two nails carries nineteen lines, the first of them a cook's and still the first, and the newest a man of twenty-nine's and the only promise on that wall, and it is one hundred and twenty-six days old. The heating is on and costs more and four names on a lease cost more and the fortnight a cook paid for is unpaid by anybody and is not resolved.
 
 Nobody thanked anybody. The shutter came down at about ten.
 
