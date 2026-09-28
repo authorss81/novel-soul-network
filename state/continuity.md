@@ -1,5 +1,15 @@
 # Continuity State
 
+# VOLUME 08 — MOVEMENT I (Chapters 351–360), *Nine Copies Of One Page* — COMPLETE, AND IT IS THE FIRST TEN CHAPTERS OF THE VOLUME
+
+**`outline/volume-08.md` governs and `workspace/volume-08/ARITHMETIC-AND-CALENDAR.md` is the day map; this block is short on purpose and the argument, the measured table and the arithmetic are in `workspace/volume-08/batch-0003/SUMMARY.md`.**
+
+- **Volume 08 opened on the page at Chapter 351, day 789, the Monday of week one hundred and twenty-nine, entry 354, and Movement I closed at Chapter 360, day 806, the Thursday of week one hundred and thirty-one, entry 363.** Seventeen days, and five from the close of Volume 07 to the open of this one. The load-book run is 354 to 363, continuous, no duplicate and no gap.
+- **The Exchange did not sit in any of the ten chapters and is not in one, and its next sitting is Chapter 362, day 812, the Wednesday of week one hundred and thirty-two, the twenty-second, at which the book does not open, and which is six days after Chapter 360.** The four figures stand unconverted at fifty-one lines, seventy-two, twenty-six, nineteen years, and no chapter converted any of them.
+- **The wall carried nineteen lines at Chapter 351 and nineteen at Chapter 360, none added and none removed, and the newest of the nineteen is a man of twenty-nine's and was one hundred and twenty-three days old at the open of this movement and one hundred and forty days old at the close of it.** The calendar therefore carries eight wall series and not nine, and none of the ten files carries a figure of the heating.
+- **Marek was in all ten entries and is the subject of none, and this is sixteen movements running.** He said no in about nine seconds at Chapter 351, heard a limit about a small thing at Chapter 353 and did not turn it into a job, and he was in none of the rooms in which the other nine things happened.
+- **The panel budget is one, it is in Chapter 387, and Movement I placed neither the panel nor the marker.** No part of the fourth condition is quoted, paraphrased or softened in any of the ten files, and no page in any of them implies that a room is not a practice in that department.
+
 # VOLUME 08 — THE OUTLINE PHASE, CHAPTERS 351 TO 400, *Nacre Understory* — NO CHAPTERS WRITTEN, AND THE TWO DOCUMENTS THE VOLUME WAS BLOCKED ON NOW EXIST
 
 **This phase wrote no chapters and it is the outline phase, and its whole work is `outline/volume-08.md` and `workspace/volume-08/ARITHMETIC-AND-CALENDAR.md`, both written before Chapter 351 exists.** Everything about what Volume 08 inherits is unchanged from the Volume 07 close and is not restated here; the argument is in `workspace/volume-08/batch-0002/SUMMARY.md` and the block below is deliberately short, because the compaction debt belongs to a review repair pass over a finished batch and not to a phase that has nothing in front of it to measure.
