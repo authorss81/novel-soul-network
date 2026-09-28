@@ -40,7 +40,7 @@ He was already down.
 
 **Nobody said out loud that he had been given anything.** Nobody said it was because of the Tuesday or the van or the four thousand leaflets or the third line on the back of an invoice, and nobody said it was not because of those things either, and the one question anybody in that room has ever asked about why a courier is in a warm room off a service road on a Monday evening is a question that nobody has asked in this city, either about him or about anybody else, and a question nobody has asked is not the same as a question that has been settled.
 
-**Nobody took a vote about him. Nobody has ever taken a vote about him. A room that votes about a chair has become a thing this case has spent nine volumes refusing to become, and the man of twenty-two knows that, and he did not say it out loud, and nobody asked him to.**
+**Nobody took a vote about him. Nobody has ever taken a vote about him. A room that votes about a chair has become a thing this case has spent all of it refusing to become, and the man of twenty-two knows that, and he did not say it out loud, and nobody asked him to.**
 
 **At about half past seven a man who comes in on Mondays asked him whether a thing that had to be in Saltmarket by about ten could go in a van instead, and the asking was ordinary and the answer was about nine seconds and neither of them was about the room.**
 

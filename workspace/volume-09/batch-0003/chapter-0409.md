@@ -1,6 +1,6 @@
 # Chapter 409 — The Card Comes Out Of The Rail, A Name Is Said Out Loud Once In A Shop, And The Question Is Refused In About Four Seconds
 
-The Wednesday afternoon of week one hundred and fifty-one was spent at the end of a counter in a repair shop in Lattice Ward, and the one thing that is true of it is that **the card came out of the rail and went into the coat pocket of a man of twenty-two and the rail held one card where it held two, and a name was said out loud in that shop for the first time in nine volumes, in a mouth, once, by the man of twenty-two to a man of about fifty-three who works at that counter, and the man of twenty-two asked one question and was refused in about four seconds by a person who is right, and the refusal was a limit and not a wall, and nobody improved on it and nobody thanked anybody.**
+The Wednesday afternoon of week one hundred and fifty-one was spent at the end of a counter in a repair shop in Lattice Ward, and the one thing that is true of it is that **the card came out of the rail and went into the coat pocket of a man of twenty-two and the rail held one card where it held two, and a name was said out loud in that shop for the first time in the whole of it, in a mouth, once, by the man of twenty-two to a man of about fifty-three who works at that counter, and the man of twenty-two asked one question and was refused in about four seconds by a person who is right, and the refusal was a limit and not a wall, and nobody improved on it and nobody thanked anybody.**
 
 ---
 

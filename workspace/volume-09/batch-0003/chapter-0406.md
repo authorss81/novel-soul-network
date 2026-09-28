@@ -10,7 +10,7 @@ The card in the rail at the end of that counter is five hundred and eighty days 
 
 ---
 
-**There is a mobile public clinic in the Lower Wards that comes to about four places a week and goes home again, and it has about nine chairs in it and a desk and a van and a clipboard on the wall with a consent sheet on it, and no institution has ever asked for that clipboard and it is not there because anybody required it, and about four people in this case have wondered in about four volumes why a clipboard is a thing anybody wonders about, and nobody has ever gone and asked.**
+**There is a mobile public clinic in the Lower Wards that comes to about four places a week and goes home again, and it has about nine chairs in it and a desk and a van and a clipboard on the wall with a consent sheet on it, and no institution has ever asked for that clipboard and it is not there because anybody required it, and about four people in this case have wondered for about as long as this has been going why a clipboard is a thing anybody wonders about, and nobody has ever gone and asked.**
 
 **A resonance nurse of twenty-four was on the second seat. She did not ask him anything, and she has never asked him anything in this case, and nobody in that van has, and there is no arrangement under which anybody in that van was going to.** Nobody in that van asked him anything, and about four people in that van were asked things by somebody and about four were not, and neither of those two groups is on a list.
 

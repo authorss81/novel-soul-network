@@ -1,6 +1,6 @@
 # Chapter 404 — About Eleven People On One Floor For About Nine Minutes, And A Man Of About Thirty-Nine Who Came On His Own Time And Wrote It Up
 
-The Friday evening of week one hundred and forty-nine was the first of ten Fridays in a volume that runs to a Thursday in seven months, and the one thing that is true of it is that **a run went on the second floor of a building in Crown Terrace for about nine minutes, and nobody said how long it took and nobody asked, and a man of about thirty-nine who buys training for the company that runs that floor had not watched a run in about four years and came on his own time and was not on the company's list and not on anybody's, and afterwards he wrote down what he saw in the form his own company uses, correctly, and said out loud that it would change nothing, and nobody thanked him and he is not here again.**
+The Friday evening of week one hundred and forty-nine was the first of ten Fridays that run to a Thursday in seven months, and the one thing that is true of it is that **a run went on the second floor of a building in Crown Terrace for about nine minutes, and nobody said how long it took and nobody asked, and a man of about thirty-nine who buys training for the company that runs that floor had not watched a run in about four years and came on his own time and was not on the company's list and not on anybody's, and afterwards he wrote down what he saw in the form his own company uses, correctly, and said out loud that it would change nothing, and nobody thanked him and he is not here again.**
 
 ---
 

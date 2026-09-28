@@ -72,7 +72,7 @@ He left at about ten past two. Nobody asked him to come back, and he is not goin
 
 At about half past six there were about nine people in a warm room off a service road, and a cook of twenty-seven was at a sink saying nothing, and in the chair nearest the door was a woman of about thirty whom nobody asked a question, nobody thanked and nobody apologised to, and her page is the eighth of eight things in a ring binder on a shelf and is unread and was not read on the Thursday and is not going to be read while he is still going in and coming back.
 
-**Two nails in that room carried a hardboard with nineteen lines on it, and the eight ages are set out in the docket below, and the nineteen of them is two hundred and eighty days. The nineteen is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board, and there is no twentieth line, and the reason there is no twentieth line is not restraint: a twentieth line would be a new thing with a new day on it, and a volume that adds a promise to a board in order to have something to publish has added a promise and not a line.**
+**Two nails in that room carried a hardboard with nineteen lines on it, and the eight ages are set out in the docket below, and the nineteen of them is two hundred and eighty days. The nineteen is a lift mechanic's, eleven words, signed, about the middle, and it is the only promise on that board, and there is no twentieth line, and the reason there is no twentieth line is not restraint: a twentieth line would be a new thing with a new day on it, and adding a promise to a board in order to have something to publish is adding a promise and not a line.**
 
 Nothing was added on this Thursday and nothing was removed and nothing was rubbed off.
 
