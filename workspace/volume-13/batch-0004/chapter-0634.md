@@ -18,7 +18,7 @@ He did it in his head at a bench and got it wrong twice and then stopped, becaus
 
 ---
 
-**The eighth room is a store with a cold room in it, and it is a town, and he got there on a bus on the Thursday night and slept four hours in a bed belonging to a man of about thirty-four who works in a kitchen and did not ask him for anything in the morning.**
+**The eighth room is a store with a cold room in it, and it is a town, and he got there on a bus on the Thursday night and slept four hours in a bed belonging to a man of about forty-eight who works in a kitchen and did not ask him for anything in the morning.**
 
 The store said yes in about four seconds and then said, "**Only if the cold one comes with it,**" and he said yes to that too, and that was the eighth.
 
@@ -90,13 +90,13 @@ It is a printed sheet with a plastic sleeve over it and a thumbprint in the corn
 
 Four hours. A man of about sixty got on at a stop with a folding frame and talked to him for about nine minutes about a boiler and then apologised for talking to him, and Marek said it was all right, and it was the only conversation he has had with a stranger in this city in four months that was not about a return.
 
-**At about half past nine he knocked on a door in that town and a man of about thirty-four who works in a kitchen opened it and had a bed made up in a front room and did not say one word about the fact that a stranger was in his house.**
+**At about half past nine he knocked on a door in that town and a man of about forty-eight who works in a kitchen opened it and had a bed made up in a front room and did not say one word about the fact that a stranger was in his house.**
 
 "You've come about the returns."
 
 "Yes."
 
-"Then you've come on a bus for it," said the man of about thirty-four, **"which is the most anyone has ever done about a return in this city, and I want to say that and I don't want anything for it."**
+"Then you've come on a bus for it," said the man of about forty-eight, **"which is the most anyone has ever done about a return in this city, and I want to say that and I don't want anything for it."**
 
 ---
 
@@ -104,13 +104,13 @@ Four hours. A man of about sixty got on at a stop with a folding frame and talke
 
 **And in a café on that town's high street at about one, over two teas neither of them ordered, he worked out the thing he had worked out wrong at a bench the day before, which is that eight rooms is not eight rooms. It is eight rooms that have been asked. There are about nine hundred returns a year in this arrangement now, on a figure nobody has checked, and every one of them comes out of a building where a person is standing when it leaves, and every one of them arrives in a place where nobody is standing when it gets there.**
 
-He said that out loud to a man of about thirty-four in a café and the man of about thirty-four looked at him and said, "**Then you've not saved nine hundred things. You've moved the standing-up to the other end.**"
+He said that out loud to a man of about forty-eight in a café and the man of about forty-eight looked at him and said, "**Then you've not saved nine hundred things. You've moved the standing-up to the other end.**"
 
 ---
 
-**He wrote that down. It is on the back of the docket in the fourth pocket, in pencil, in his own hand, and it is four words and a full stop, and it is the only thing he has written in four months that he got from somebody else, and the man of about thirty-four has not been told that it was written down and has not asked to see it and would not know it if it were read out.**
+**He wrote that down. It is on the back of the docket in the fourth pocket, in pencil, in his own hand, and it is four words and a full stop, and it is the only thing he has written in four months that he got from somebody else, and the man of about forty-eight has not been told that it was written down and has not asked to see it and would not know it if it were read out.**
 
-**He read it back to himself twice in that café and it did not improve on the second reading, and a man of about thirty-four watched him read his own handwriting twice and said nothing, and the not-saying was the correct thing and cost that man about four seconds of wanting to say something useful.**
+**He read it back to himself twice in that café and it did not improve on the second reading, and a man of about forty-eight watched him read his own handwriting twice and said nothing, and the not-saying was the correct thing and cost that man about four seconds of wanting to say something useful.**
 
 ---
 
