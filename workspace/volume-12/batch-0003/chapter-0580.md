@@ -32,7 +32,7 @@ Nobody thanked anybody.
 
 **What he noticed on that Thursday evening, and did not say to anybody, and told nobody, is that the sentence is worse for everybody including the woman who said it, and that it is the first true thing he has heard in about four weeks that nobody in the room could turn into an argument about somebody else's fault.**
 
-The clip is not coming. The card still takes nine days. A firm of about nine in the second of the four towns is still waiting on a four-day wait it cannot shorten. A woman of about forty-four who answers a trade counter on a wide road is still right about a sheet of paper. About four hundred and fifty people in this city are still able to say a thing that nobody owns. Eleven rooms are cut and two of them were open for about nine minutes and a man of about thirty-five said so in a hall and was agreed with by nobody.
+The clip is not coming. The card still takes nine days. A firm of about nine in the second of the four towns is still waiting on a four-day wait it cannot shorten. A woman of about forty-four who answers a trade counter on a wide road is still right about a sheet of paper. About four hundred and fifty people in this city are still able to say a thing that nobody owns. Eleven rooms are cut and two of them were open for about nine minutes and a woman of about thirty-five said so in a hall and was agreed with by nobody.
 
 **And about nine people have been waiting through the whole of it, and about four of the nine have a different answer from each other, and not one of the four knows that the other three have one, and that is not a fault in any of the four and it is the shape of the whole of this and he has not told anybody it and is not going to.**
 

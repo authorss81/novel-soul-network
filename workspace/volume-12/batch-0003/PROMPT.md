@@ -40,7 +40,7 @@
 **The plan of record puts it in one line and the line is a definition, and the definition is spent once, in a face, in about nine words, and nowhere else in the ten days.**
 
 1. **THE VOLUME'S ONE PANEL AND ITS ONE MARKER ARE AT CHAPTER 574, DAY 1367, AND ARE SPENT ONCE.** A panel is not a device and does not do anything. It is the shape a rule takes when it is said plainly to a person, and it is in plain language, it names no statistic, and the protagonist still has to act. **The panel is not repeated, is not referred to on any other of the ten days, and is not described as being missed.**
-2. **LEO MARR IS ON THE PAGE IN MOVEMENTS III, IV AND V, IS GIVEN CONTROL OF NOTHING, IS NOT REDEEMED, AND IS NOT THE VILLAIN OF ANY OF THEM.** He keeps a legitimate political presence. About four hundred and fifty people in this city have read about the two things that were voted on in the spring and about the four hundred and thirty-six and about four hundred and seventeen, and he is one of the people in the room and not the one who decides.
+2. **LEO MARR IS A WOMAN OF ABOUT THIRTY-FIVE AND IS ON THE PAGE IN MOVEMENTS III, IV AND V, IS GIVEN CONTROL OF NOTHING, IS NOT REDEEMED, AND IS NOT THE VILLAIN OF ANY OF THEM.** She keeps a legitimate political presence. About four hundred and fifty people in this city have read about the two things that were voted on in the spring and about the four hundred and thirty-six and about four hundred and seventeen, and she is one of the people in the room and not the one who decides.
 3. **THE MIDPOINT REVERSAL, RE-BASED AS TO WHAT IT IS ABOUT: somebody was copying somebody's refusal, and some of those copies still give the Conductor a route into public networks.** The word **counterfeit** is spent on the page ONCE, in a face, in about nine words, and the definition is that a counterfeit is a copy of a habit that nobody owns, and a habit nobody owns can be copied by anybody, and that is the reason the first one is a route and not a nuisance. **No page before the one that spends the word may use it, and no page after it may use it again.**
 4. **The forty-second sitting, and the book shuts, and the whole of what happened is that a person asked a question and the answer was honest and it was the wrong answer.**
 5. **No rescue is made necessary by a decision of his and no one of these ten days is about a device.**
@@ -68,7 +68,7 @@
 - **The hardback book under the window in that weighbridge hut has not been opened and is not referred to on any of the ten days, and the folder on the shelf above the kettle is not referred to either.**
 - **He knows what a copy of a habit nobody owns is for, and he has said it out loud in a face, and nobody thanked him for saying it.**
 - **Nobody thanked anybody on any of the ten days. The shutter came down at about ten on all ten.**
-- **Leo Marr has been on the page in a face, has been given control of nothing, and has not been redeemed.**
+- **Leo Marr has been on the page in a face, described and not named, has been given control of nothing, and has not been redeemed.**
 - **No new supporting name is spent unless a chapter below is given one, and the ceiling of six stands at three or at four and the file says which and where.**
 
 ## 5. WHAT THIS PHASE MUST WRITE, AND IT IS EXACTLY THIS
