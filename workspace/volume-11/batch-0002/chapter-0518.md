@@ -108,7 +108,7 @@ Nobody in that room thanked anybody. The woman of about thirty-nine said one thi
 
 **"Do not."**
 
-The rota man left at about twenty past three with the sheet in the same inside pocket it was in on the Thursday of the week before, and the inspection at the end of the month is in about two and a half weeks, and the board in the entrance of a block of four storeys has nothing on it, and that is now a decision and it was not one on the Friday morning.
+The rota man left at about twenty past three with the sheet in the same inside pocket it was in on the Thursday of the week before, and the inspection at the end of the month is in about two and a half weeks, and the board in the entrance of a block of four storeys has nothing on it, and that is now a decision, and at about two o'clock this afternoon it was only a sheet in a coat.
 
 **He named the cost out loud, in the room, to two people, and he had named it twice before in two other rooms, and the third time it was shorter and it was the only one of the three that he believed.** The fourth floor. Nine days in a flat on the second. And a man of thirty-one on the same landing who will get the Friday and does not want it and has still not been told.
 
@@ -120,9 +120,9 @@ He came into the room off the service road at about half past six and there were
 
 **The decision he took on the Friday evening cost him a Friday evening of not saying anything at all.** He could have written the nine lines out in his own words in about six minutes and the woman of thirty-nine would have put them on the table and the rota man would have taken them to a board in a block of nine flats and the inspection at the end of the month would have been satisfied and nobody would have learned anything about a relay. He did not do it and he did not go back to the second floor of the office to say that he had been asked to. He went to the counter and did the two hours and said nothing to anybody, and the two hours are the cost, and the cost is his and not the rota man's and not the nine flats'.
 
-The woman of about thirty in the chair nearest the door was in the room for about an hour and was not asked a question and was not thanked and nobody said sorry to her, and her page is the eighth of eight things in a ring binder on a shelf and was not read on the Friday.
+The woman of about thirty in the chair nearest the door was in the room for about an hour. Nobody asked her anything, nobody said thank you to her, and nobody said sorry to her, and the page that is hers is the eighth of eight in a ring binder on a shelf and was not read on the Friday.
 
-A man of about thirty-three who holds four buildings and about nine hundred doors with no stamp and no reference and no date was not in this city, and his hold ran on for seventy-three weeks and one day with nothing asked of him and nothing given to him. The ask is at five hundred and sixty-nine days, which is eighty-one weeks and two days, counted from the day it was asked.
+On the far side of the road there is a man of about thirty-three who holds four buildings and about nine hundred doors, and not one of the four has a stamp, a reference or a date on it, and he was not in this city, and his hold ran on for seventy-three weeks and one day with nothing asked of him and nothing given to him, and he is not the man who came in off a bus on the Monday and has not been told that this one exists. The ask is at five hundred and sixty-nine days, which is eighty-one weeks and two days, counted from the day it was asked.
 
 Nobody thanked anybody. The shutter came down at about ten.
 
