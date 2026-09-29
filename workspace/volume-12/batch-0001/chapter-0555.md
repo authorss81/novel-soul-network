@@ -88,7 +88,7 @@ The card in the rail along the front of that counter is nine hundred and seventy
 
 **He did not apologise. He has thought about it since, on and off, for about eleven days, and the reason he has not is that apologising is a second asking, and the second asking is always the one where a person explains why the first thing was reasonable, and a person explaining why the first thing was reasonable is a person making the second thing about themselves.**
 
-**What he did instead, at about three o'clock on that Wednesday, with the door shut, was to take a sheet of paper out of the drawer where the two other sheets were and write at the top of it the word NO, and under it four lines, and then he put the sheet in the drawer as well, which means there are now three sheets in that drawer, and none of the three is on anything, and the drawer is not labelled and is not locked and has not been opened by anybody in these ten days.**
+**What he did instead, at about three o'clock on that Wednesday, with the door shut, was to take a sheet of paper out of the drawer where the two other sheets were and write at the top of it the word NO, and under it four lines, and then he put the sheet in the drawer as well, which means there are now three sheets in that drawer, and none of the three is on anything, and the drawer is not labelled and is not locked and has not been opened by anybody in these ten entries.**
 
 ---
 

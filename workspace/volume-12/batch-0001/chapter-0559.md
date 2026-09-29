@@ -60,7 +60,7 @@ The card in the rail along the front of that counter is nine hundred and eighty 
 
 **"It is not in your nine lines,"** the woman said. **"Whatever your nine lines are."**
 
-**He did not say that it was a good sentence because it was a good sentence. He said it because a woman of about twenty-four had stood at the end of a room and asked four people whether anybody wanted to write down what had happened, and four of the four of them had said no in about four seconds each, and she had said that that was the correct answer, and that is the second time in nine days that somebody has done a correct thing and got nothing whatever for it. The first one is a man with a clipboard that nobody has ever asked him for. This one is a woman in a room four days away who is owed nothing, who was not thanked, who could not have been thanked because she was not in the room to be thanked in, and who is not going to be told about any of this by anybody.**
+**He did not say that it was a good sentence because it was a good sentence. He said it because a woman of about twenty-four had stood at the end of a room and asked four people whether anybody wanted to write down what had happened, and four of the four of them had said no in about four seconds each, and she had said that that was the correct answer, and that is the second time in about a week that somebody has done a correct thing and got nothing whatever for it. The first one is a man with a clipboard that nobody has ever asked him for. This one is a woman in a room four days away who is owed nothing, who was not thanked, who could not have been thanked because she was not in the room to be thanked in, and who is not going to be told about any of this by anybody.**
 
 ---
 
