@@ -4,7 +4,7 @@
 
 ---
 
-Eleven jobs on the Thursday, a date written against every one of the eleven, eleven people through that counter, the last of them at about half past five. The bench until two, the counter two until six, the four rooms off that service road from about half past six. **The heat in that flat is on and past what it cost through all of last winter, four names on that one tenancy are sharing the extra between them, and a fortnight a cook spent out of her own money is owed by nobody and will still be owed by nobody when this month ends.** The rooms off that service road are one thousand and forty-six days, one hundred and forty-nine weeks and three days, four of them and one behind, and they are warm.
+Eleven jobs on the Thursday, a date against every one of them, eleven people through the counter, the last at about half past five. The bench until two, the counter two until six, the four rooms off that service road from about half past six. **The heat in that flat is on and past what it cost through all of last winter, four names on that one tenancy are sharing the extra between them, and a fortnight a cook spent out of her own money is owed by nobody and will still be owed by nobody when this month ends.** The rooms off that service road are one thousand and forty-six days, one hundred and forty-nine weeks and three days, four of them and one behind, and they are warm.
 
 The card in the rail along the front of that counter is one thousand and fifty days, one hundred and fifty weeks to the day, four days beyond the rooms, and the rail takes two.
 
