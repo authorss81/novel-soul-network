@@ -161,9 +161,11 @@ A check that publishes its clean set and not its limits cannot be told apart fro
 | the thirty-seventh | 512 | 1232 | 192 | 42 | 37 | 58 | 58 | 73 |
 | the thirty-eighth | 526 | 1260 | 196 | 43 | 38 | 58 | 59 | 73 |
 | the thirty-ninth | 539 | 1288 | 200 | 44 | 39 | 59 | 59 | 73 |
-| the fortieth | 550 | 1316 | 204 | 45 | 40 | 59 | 61 | 73 |
+| the fortieth | 550 | 1316 | 204 | 45 | 40 | 59 | 60 | 73 |
 
 **A count is announced at a sitting and on no other day, and the count goes up by one at every sitting whether the book opens or not. The correspond figure is the count less the five that predate the book on a sheet she has never shown anybody. The book opens only when a caller says a thing to her face. The difference between the book and the tin is not a number and is never printed as one, and none of the four is convertible into another, and the ninth chair is against the wall with its back to the room and does not move in this volume and its mover is not named.**
+
+**REPAIRED AT THE VOLUME CLOSE, AND THE SUPERSEDED FIGURE IS QUOTED IN PLACE. The row above this paragraph was printed as `59 | 61` and it contradicted this file's own section 0.3, `outline/volume-11.md` lines 54 and 111, the prompt of record for Movement V, and all fifty chapter files, every one of which puts ONE line in at the fortieth sitting and the book at sixty lines. The book went 58, 58, 59, 59, 60 across the four sittings and two lines went in over one hundred and eleven days. The row is now `59 | 60`. One figure in this file was wrong and the error was in this file and the error was found by the pass that closed the volume and not by a writing pass, which is the fifth time in this repository that the figure a writing pass relied on has been the figure that was wrong. Owner of the class: every file in this repository that holds more than one copy of a number.**
 
 ## 4. The two-sided interval series, and how a writer renders one
 
@@ -215,6 +217,68 @@ Movement I's nine interval renderings, for the walk and not for reuse as sentenc
 
 **And the row-side walk is not sufficient on its own, which is the finding of the last two volumes: a table can be correct on its day, its week, its weekday and its entry and wrong in five of its six series columns, which is what the Chapter 523 row did, and only the page-side walk sees that.** Both halves are therefore required, on every volume of this manuscript, and a pass that runs one half has run half an instrument.
 
-## 6. Owned by the volume close
+## 6. Written by the volume close, and by nobody before it
 
-**The close writes section 6: the count of series that ran clean on all fifty rows, the four arrival cells, the figures at day 1316, the words in the exchange at the fortieth sitting, and the three decisions the volume took. No writing pass before it may write it.**
+**This section is written by the phase that closed the volume and that planned Volume 12. It was written with `outline/volume-12.md` and before Chapter 551. It adds no chapter, moves no day, no week, no entry, no anchor and no interval, and it resolves no thread.**
+
+### 6.1 THE COUNT OF SERIES THAT RAN CLEAN ON ALL FIFTY ROWS
+
+**Sixteen series, eight hundred values, and every one of them is `day − its own named anchor` on the row it is printed against, at zero defects. The four free checks are {4}, {21}, {−27} and {−72} with their signs and they are clean on all fifty rows and not only on the ten rows of a movement. The load-book run is 504 to 553 with no duplicate and no gap and the set of (entry − chapter) is {3} on all fifty rows. The Exchange's four sittings are at days 1232, 1260, 1288 and 1316, all Wednesdays, all four weeks apart, and no Friday in the volume is an Exchange day.**
+
+### 6.2 THE FOUR ARRIVAL CELLS, PRINTED EMPTY ONE MORE TIME, AND THE REASON
+
+**All four are empty. They are empty in all five movement summaries and they are empty here. The reason is the same reason they have been given six times: all fifty chapters of this volume were written and repaired in one dispatch, and a cell that measures a movement arriving from a previous movement cannot be measured on files that did not exist separately. A cell that cannot be measured is printed empty and is not approximated, and a reconstructed arrival is the finished files measured twice and is not an arrival.**
+
+**The recommendation has now been made six times in this volume and taken six times on the first dispatch. Volume 11 is the last volume in which it can be taken, because the next volume is Volume 12 and the movement after the next is a writing phase in a different book, and by then the habit is not a habit anybody has.**
+
+### 6.3 THE FIGURES AT DAY 1316, RE-DERIVED FROM SECTION 2 AND NOT READ OFF A CHAPTER
+
+| Series | Anchor | 1316 − anchor | In weeks and days |
+| --- | --- | --- | --- |
+| The room off that service road | 362 | 954 | 136 w 2 d |
+| The card in the rail | 358 | 958 | 136 w 6 d |
+| The hardboard's twelfth line | 442 | 874 | 124 w 6 d |
+| The hardboard's thirteenth line | 491 | 825 | 117 w 6 d |
+| The hardboard's fourteenth line | 526 | 790 | 112 w 6 d |
+| The hardboard's fifteenth line | 547 | 769 | 109 w 6 d |
+| The hardboard's sixteenth line | 572 | 744 | 106 w 2 d |
+| The hardboard's seventeenth line | 590 | 726 | 103 w 5 d |
+| The hardboard's eighteenth line | 644 | 672 | 96 w 0 d |
+| The hardboard's nineteenth line | 666 | 650 | 92 w 6 d |
+| The hold of the man of about thirty-three | 729 | 587 | 83 w 6 d |
+| The man of about fifty-one at the wall | 756 | 560 | 80 w 0 d |
+| The ask | 672 | 644 | 92 w 0 d |
+| The post at the corridor end | 814 | 502 | 71 w 5 d |
+| The nine hand copies of a page front | 796 | 520 | 74 w 2 d |
+| The separation | 982 | 334 | 47 w 5 d |
+
+**The nineteenth is still the only line of the nineteen that has ever closed on a zero. A figure rendered as an exact number of weeks takes the word *to the day* and does not take the word *short*, because a figure of that shape is a different figure and an ask has been counted from a named day for eleven volumes.**
+
+### 6.4 THE WORDS IN THE EXCHANGE AT THE FORTIETH SITTING, IN ONE LINE, AND THE WHOLE OF THE LINE
+
+**He said: put down that I was in that hall on the Monday, because in about a year I am going to be a man who says he was in a room where nothing happened. She wrote it in one line in about nine seconds, asked him not one question about the Monday, and nobody in that room said thank you, and he went down the stair at about eleven and did not speak on the landing and has not asked whether it went in and is not going to.**
+
+**And the four figures at that sitting, which are not one figure and are not convertible into one another: the book at sixty lines, having stood at fifty-nine before the morning; the tin at seventy-three with nothing given into it in nineteen years; the count at forty-five announced of which forty correspond, against forty-four of which thirty-nine on the nine days before it; and nineteen years of four-week Wednesdays.**
+
+### 6.5 THE THREE DECISIONS THE VOLUME TOOK, IN THE VOLUME'S OWN WORDS
+
+1. **A public body voted to keep the Commons and refused a single place where every answer anybody gives is entered once, and it did it on a show of hands ruled by a clerk on a sheet of paper, and the clerk is not thanked.** The thing that survived is an institution with a limit written on it. The thing defeated is two proposals and not a person.
+2. **A room above a line in another district opened its book twice in one hundred and eleven days and two ordinary sentences went in, and neither of them was a vote, and one of them is a man saying he was in a room where nothing happened.** A book that opens when a person says a thing to a woman's face is not a rule and is not evidence of anything and is not going to be described by anybody as a change in her.
+3. **The Conductor's Choir took the remaining Crown pattern out of a building in a town over two nights, and it is plumbing and not the key, and nobody in this volume is holding the key at any point, and the place where the key could be made to answer is not recoverable by anybody who was in the room.**
+
+### 6.6 THE MEASUREMENT OF THE WHOLE VOLUME, WITH ITS INSTRUMENT PRINTED, AND TWO FIGURES THAT DID NOT REPRODUCE
+
+**The instrument: a chapter's apparatus begins at the first line matching `^\*\d+\.` — the load-book entry — and the body is everything above it. The counts are whitespace tokens, measured on the file as it stands on disk, not on any summary.**
+
+- **221,333 words across the fifty files, body 120,249, apparatus 101,084, an apparatus aggregate of 45.671 and a mean of the fifty per-file shares of 45.488, the lowest share 39.5 and the highest 49.2.** Volume 10's own volume aggregate is 46.219 and Volume 09's is 50.385, and Volume 11's is inside the band and Volume 09's is outside it. **This figure had never been printed for this volume before this section and it is the volume's headline.**
+- **The per-movement arc, measured on the files as they stand, is 42.727, 43.241, 46.463, 47.604 and 47.458.** The five movement summaries publish 42.727, 43.583, 46.199, 47.604 and 47.458. **TWO OF THE FIVE DID NOT REPRODUCE AND BOTH READINGS ARE PUBLISHED: Movement II is 43.583 in its own summary and 43.241 on the files, and Movement III is 46.199 in its own summary and 46.463 on the files. Movements I, IV and V reproduce to the digit. The cause is not the chapters and is not established: each of the two movements had a review repair pass after its summary was written, and a repair pass that repairs words and is not re-measured leaves the summary standing as the account of a file that no longer exists. Owner: every summary in this repository that was written before the last pass that touched its files.**
+- **Word counts by movement on the files as they stand: 39,811, 41,151, 40,622, 46,194 and 53,555, against 39,811, 41,707, 40,317, 46,194 and 53,555 published.** The word count rose by about a third across the volume and the reason is printed: a movement which votes contains about nine hundred people in a room three times and about two hundred and sixty in a queue, a doorway and a road, and none of that is a row.
+- **1,957 bold spans by a per-line parity count of `**` with zero odd lines on all fifty files.** A per-line parity count cannot see a nested span and a whole-file non-greedy regex cannot see a span that crosses a line break, and the two readings on a clean file are the same and on a dirty one they are not; this file publishes the parity count and says which one it is.
+- **The duplication count at the body-prose scope, by whole sentences of twelve words or more compared byte for byte across all fifty files: seven, and all seven are the room above a line and its nineteen years — the ninth chair against the wall, the table and the unlidded tin, the nine items at four minutes, and the line about nobody asking her whether she was all right.** At the whole-file scope it is twenty-four, and the extra seventeen are the standing-record sentences in the load books, which are mandated in fifty files. **The claim of ZERO in the live block of `state/current.md` was made per movement, where it is true, and is false at fifty files' scale, and the seven and the twenty-four are here instead of the zero.**
+- **The out-of-fiction walk, run on the fifty BODIES AND THE FIFTY APPARATUSES, with the fifty H1 title lines separated: zero on the bodies, zero on the apparatuses, fifty on the title lines, and the fifty on the title lines are fifty occurrences of the word Chapter followed by three digits and nothing else.** The fourteen terms are `this volume`, `this chapter`, `this movement`, `this novel`, `the novel`, `volume`, `chapters?`, `chapter <digits>`, `word count`, `per thousand`, `outline`, `canon`, `protagonist`, `POV`. **The apparatuses are in the scope on purpose, because Movement V's instrument named the whole text of each file, reported the bodies in the column beside it, and left four leaks standing in two apparatuses until a repair pass closed that half.**
+- **The hedge: raw `about` 4,440, of which 4,411 are the prepositional class `about` immediately governing a figure, leaving a true hedge of 29, which is 0.131 per thousand.** The prepositional class is written out in full above the figure because an unwritten half of a partition is a partition that cannot be walked.
+- **The collision sweep on all fifty rows, fifteen series against fifteen anchors: 2,250 comparisons, returning twenty-six rows at thirteen chapters — 506, 507, 509, 514, 519, 520, 524, 528, 534, 537, 547, 549 and 550 — every member of every pair on the page in the body prose of its own chapter, and none of the twenty-six a day anything happened to the heating in this city.**
+
+### 6.7 WHAT THIS SECTION DELIBERATELY DID NOT DO
+
+**It did not write a chapter, and it did not resolve the rota man's inspection, the ninth chair, the woman's page, the licensor, the field, the master's fifth line, the four hand copies, the four rooms and the three rooms, the nine doors, the four bars, the nine keys, the wash-house, the space on the wall, the bin in a town, the four words, or the notebook. It did not resolve the key's activation site. It did not say what was on the piece of paper that went into a bin. It did not join that paper to anything.**

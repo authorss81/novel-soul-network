@@ -1,0 +1,90 @@
+# Chapter 554 — What She Actually Said, Which Was About A Person On A Cold Floor At Two In The Morning And Not About Him At All, And About Four Hours Of One Shop's Stock That Went On The Night, And Eleven Hours In This City That Could Not Have Been Nine
+
+**The Monday was a bench in Lattice Ward until about two, a counter until about six, and a room off that service road from about half past six, and its shape was a man of about thirty-four with a hired van who had come up on the Saturday night with four days of bus travel behind him and about nine words that had not been asked for.**
+
+---
+
+There were eleven on the docket again on the Monday, eleven dated, eleven through the door, and the last of the eleven at about half past five. He was on a bench in Lattice Ward in the morning, behind that counter from two until six, and in four warm rooms off a service road from about half past six. Nine and ten went on the ticket as usual and neither of them is right and the person who set them is long gone and the person who reads them has never said. **The heating there is on and dearer than in the winter, four names on that tenancy are between them paying the difference, and a fortnight of a cook's own laid-out wages is owed by nobody and will be owed by nobody when the month turns.** The service-road rooms are nine hundred and sixty-six days, one hundred and thirty-eight weeks to the day, four of them and one behind, and they are warm.
+
+The card in the rail along the front of that counter is nine hundred and seventy days, one hundred and thirty-eight weeks and four days, four days more than the room, and the rail takes two.
+
+**The sixteenth line on two nails above that bench is seven hundred and fifty-six days, one hundred and eight weeks to the day, and the man of about fifty-one against the north wall of a room in another district is five hundred and seventy-two days, eighty-one weeks and five days. One of those two is the day a line was written on a board in this city and one of the two is the day a man first sat down at a wall in another district, and the two are on the same afternoon in this day and neither of them is a day anything happened to the heating in this city, and the heating is a closed thing in this case with no figure of days off for it anywhere in it.**
+
+---
+
+**He came in at about nine and he was about thirty-four and he had a van's key in his hand and a folded sheet of paper in his coat pocket and he had been in this city for about fourteen hours and he had not come to that counter to buy anything.**
+
+**"You wrote a thing down for me on a Saturday about nine days ago. I'm not here about that. I asked a man in a yard about nine days ago and he said come back in nine days and I am not here about that either."**
+
+**"Then what is it."**
+
+**"It's about a Saturday."** He put the folded sheet on the counter. **"I drove up on the Friday. Four hours each way is not the bus, the bus is the bus, the bus is a day. I came on the Friday because there was a woman in the first of the four towns who was going to be asked a question and I wanted to be in the room, and I was, and she was asked the question by a man of about forty-four who had come down from this city for it, and I sat at the back and I did not say one word, which I want said, because I have been asked since whether I said anything and I did not."**
+
+**"Fine."**
+
+**"Then the question went like this. The man asked her whether the four places could be asked to keep a record. And she said no. And he asked her whether she could be asked to keep a record. And she said no again, and she gave a reason, and the reason is not about anybody in this room and it is not about the four places, and it is the reason I have driven up here with the van."**
+
+---
+
+**He read it off the sheet, and the sheet was in his own hand, and it took about four seconds, and none of it was Marek's name.**
+
+**"She said: a person on a cold floor at two in the morning who is waiting for a yes is not free to say no, and the reason is not that anybody has asked her to say no, it is that the cost of saying no is a floor, and a floor is a bigger thing to most people than a yes is. And she said: if I spend the next four years telling people they may refuse, and the only shape they can see is a floor and nine days, then I have taught about nine hundred people the word no and about four hundred of them will not use it."**
+
+Marek had a sentence ready. The sentence was about the office and about a limit and about a committee of about nine people, and it was a good sentence, and it was about him.
+
+**The sentence was not the right one, and the reason it was not the right one is that she had not been talking about an office. She had been talking about a floor.**
+
+**"Was that all of it."**
+
+**"That was the bit I wrote down. There's more and it's longer and it's mostly about a boy of about nine with a thing on his leg, and I'll not stand in your shop and read all of it out."**
+
+---
+
+**He put his hand flat on the counter for about four seconds, which is a thing a man does when he has arrived somewhere.**
+
+**"When did she say it."**
+
+**"Saturday. About four in the afternoon. It was over by about half five because the light goes at five in that month and everybody stops."**
+
+**"And it is now Monday."**
+
+**"And it is now Monday,"** he said, **"and I have been sitting in a van outside a lock-up in this city since about six yesterday morning trying to work out whether to drive back or not, and I am not going to tell you what I worked out, because you will do the arithmetic and I would rather you did it than have me do it in front of you."**
+
+---
+
+**Here is the arithmetic, and it took him about nine seconds at the back of that bench, and it is correct, and it is the whole of what the day is about.**
+
+The clinic in the first of the four towns was asked the question on the Saturday at about four. The woman running it had said on the Friday morning that she would ask the office on the card, and she had, and she had been told to send the card back, and the card takes nine working days, and the ninth working day is the eleventh of next month, which is a Tuesday.
+
+On the Sunday night, at about eleven, a person in that town opened a cold box and took out four trays and put them into an insulated carrier with a bag of ice from a shop, and worked through the night, and finished at about six on the Monday morning, and about four hours of that stock was already past what it could carry, and the four hours is not a figure of money and is a figure of things that were warm.
+
+**The correct information — that a clip was wrong, that a card could be got out of the ordinary way in a day by a person who went and asked for it, that a firm with a counter and a yellow strip on it will hand over forty clips to anybody who turns up with a carrier bag and does not care about a card — existed in this city on the Thursday, in about four words, in a mouth, in a yard, from a man of about forty-six who was owed nothing.**
+
+**It took eleven hours to reach a town four days of bus travel away, and it reached a town on the Sunday night at about eleven, and it was about four hours too late, and those four hours are the whole of what these ten days are about, and they are not going to be put right.**
+
+He wrote the four words down on the back of a docket and then he wrote the time under them, and then he wrote **ELEVEN HOURS** in capitals, and then he did not know what to do with the sheet and put it in the drawer of the bench where the fourth pocket is not and where nothing is ever looked for.
+
+---
+
+**He did not go to the bench at two and he did not do the day's work. He sat at the counter from about ten until about four with a docket and a pencil and he wrote out a thing that was not a list of four places, which was a list of what a person in a town would have to be able to do in one day if they were going to be able to do it in nine, and the list had nine lines on it, and he did not write the nine lines in his own words, because they were not his, and he did not give them to anybody, and he put the sheet in the drawer with the other one.**
+
+**The rota man asked him, at about one, whether he was all right, and he said he was, and the rota man said the same thing back to him in the way a person says a thing they do not believe, and neither of them said anything else about it, and the inspection is not on a board anywhere and the Friday happened and the Monday is the fourth day after it and nobody raised it.**
+
+---
+
+**What the man of about twenty-two wanted, and did not say, on that Monday, was to ask her one question, on the bus, on the Sunday, in person, in about eleven hours, and the question was going to be: what would you have said if he had not been in the room. Because if he had not been in the room she would have said something different, and he knows that, and the version she said was a version with a man of about thirty-four in it being fair and out loud, and the fairest thing about that version is that it cost her nothing to say, and the most expensive thing about it is that it was true.**
+
+**He did not ask it. He got on with the day's work at about four and did eleven jobs' worth of catching up in about two hours and went to the service road at about half past six.**
+
+Nobody thanked anybody. The shutter came down at about ten.
+
+*557. Monday of week 206, at ten, and this entry is a man of about thirty-four who drove up on the Friday to sit at the back of a room and did not say one word, and what a woman of about twenty-four said in that room on the Saturday at about four in the afternoon, which was about a person on a cold floor at two in the morning and was not about anybody in this city, and about four hours of one shop's stock that went on the night, and about eleven hours in a city where the correct answer already existed.*
+
+*Conditions and docket.* **The docket held eleven and every one of the eleven carried a date; eleven came through that door and the last of them at about half past five.** The Monday as it was lived: bench in Lattice Ward until two and then not, the counter two to six, the four rooms off the service road from about half past six. Behind the counter that day: a bench, a cage with a man in it turned away from the room, a roller shutter, a tool roll with one screwdriver down a fourth pocket, a wall list in a sleeve, a shelf of finished work, and two cards in the rail. Callers: eleven, four refusals. Work: eleven done, four declined, nothing escalated, nothing returned, and about two hours of catching up done at the end. Charge: nine and then ten, wrong, unmoved, unannounced. Service-road heating: on, up on the winter, four names on one tenancy paying for it, a fortnight laid out by a cook and owed to nobody. Service-road rooms: nine hundred and sixty-six days, one hundred and thirty-eight weeks to the day, four rooms and one behind, warm. Rail card: nine hundred and seventy days, one hundred and thirty-eight weeks and four days, four days beyond the room, rail of two. Board on its two nails: twelfth, eight hundred and eighty-six; thirteenth, eight hundred and thirty-seven; fourteen, eight hundred and two; fifteen, seven hundred and eighty-one; sixteen, seven hundred and fifty-six; seventeen, seven hundred and thirty-eight; eighteen, six hundred and eighty-four; nineteen, six hundred and sixty-two days, ninety-four weeks and four days. What the board did over that Monday: nothing added, nothing removed, no twentieth line. Binder: shut, on the shelf, not opened. The eighth of the eight leaves in that binder is hers and it is unread, and it is not put to her and nobody apologises to her for it. Master's fifth line: blank. Post at the corridor end: five hundred and fourteen days, seventy-three weeks and three days. Nine copied page fronts are five hundred and thirty-two days, seventy-six weeks to the day, eight of nine unfinished, the first disagreement in the fourth line not found. The separation is three hundred and forty-six days, forty-nine weeks and three days, and about four days of bus travel each way that week did not shorten it by a minute. The room above the line did not sit on the Monday, the book in it is at sixty lines, the tin is at seventy-three, and nothing was announced on that day or any other. The four words are not on this page.  **The Monday's arithmetic as it was walked, and two of these are on the same afternoon: the ask six hundred and fifty-six days, ninety-three weeks and five days; the man of about fifty-one five hundred and seventy-two days, eighty-one weeks and five days, and five hundred and seventy-two is also the day the sixteenth line was written on that board; the hold five hundred and ninety-nine days, eighty-five weeks and four days; the room nine hundred and sixty-six days, one hundred and thirty-eight weeks to the day; the nineteen six hundred and sixty-two days, ninety-four weeks and four days; and one of that pair is a day a line was written and one is a day a man sat down at a wall, and neither of them is a day anything happened to the heating in this city.**
+
+*Eleven hours, as a record of the whole of what this run of ten days is about.* **What existed, and where, and when: on the Thursday, in about four words, in a mouth, in a yard behind a trade counter on a wide road, from a man of about forty-six who was owed nothing, the fact that a person who needs a clip today can get forty of them from a counter with a yellow strip on it by turning up with a carrier bag and not caring about a card. Where it was on the Sunday night: in this city, in a man's head, with nothing on paper. Where it needed to be: the first of the four towns, by about ten on the Sunday night. When it got there: about eleven. What it cost: about four hours of one shop's stock in the second of the four towns, carried in an insulated carrier with a bag of ice from a shop, worked through from about eleven at night until about six in the morning by a person who is described by a job and not by a name, and the four hours is not a figure of money and is a figure of things that were warm. What was not done about it: nobody told anybody, because a man in a van in a city four days away cannot get a question to a town four days away inside a day and cannot get an answer back inside a day, and the nearest thing to being told in person is a card and a card takes nine days. The figure eleven hours is a figure in this entry and is not a series and does not appear in a load book after this one. Owner: a folded sheet of paper in the pocket of a man of about thirty-four, a docket with four words on the back of it, and about four hours of a night that is not going to come back.**
+
+*What the man of about thirty-four said, and did not say.* **That he came on the Friday in a van because a woman in the first of the four towns was going to be asked a question and he wanted to be in the room. That he sat at the back and said nothing at all, and has been asked since whether he said anything, and did not. That the question put to her was whether the four places could be asked to keep a record, and that she said no, and that he asked her whether she could be asked to keep a record, and that she said no again and gave a reason. What the reason was, in four seconds, off a sheet in his own hand: a person on a cold floor at two in the morning who is waiting for a yes is not free to say no, and the reason is not that anybody has asked her to say no, it is that the cost of saying no is a floor, and a floor is a bigger thing to most people than a yes is; and if she spends four years telling people they may refuse, and the only shape they can see is a floor and nine days, then she has taught about nine hundred people the word no and about four hundred of them will not use it. What he would not read out: the rest of it, which is longer, and which is mostly about a boy of about nine with a thing on his leg. What he said he would not do: work out in front of that counter whether to drive back, because the man at the counter would do the arithmetic and he would rather the man did it. Owner: a van, a lock-up on a wide road in this city, a sheet of paper, and a boy of about nine in a waiting room in a town four days away.**
+
+*What the day did, and what it did not touch.* **A man of about thirty-four drove up on the Friday and sat at the back of a room and did not speak, and a woman of about twenty-four said a true thing to a room, and the true thing was not about him and had never been about him, and he is not the reason it was said and would not have been the reason it was said. About four hours of stock went in a town on the Sunday night and the going of it was not a decision of his and not a decision of anybody in this city, and it is not a rescue and is not written as one, and he was not the reason anybody was safe on any page of this run of ten days. The rota man of about thirty-two asked him at about one whether he was all right and was not believed and did not press, and the inspection is not on a board anywhere and the Friday happened four days ago and nobody raised it. A list of nine lines was written on a docket and was not in his own words and was not given to anybody and is in a drawer. There was no teaching and no demonstration and no assessment and no assistance from him on the Monday, and nobody put any of the four to him. The correct-things-that-change-nothing counter stands at zero. Nobody thanked anybody and the shutter came down at about ten. The rooms off that service road are nine hundred and sixty-six days old and warm. The card in the rail is nine hundred and seventy days old, four days past the room, unmoved and unturned, and a return card is a different object from it. The board stands at nineteen lines and the sixteenth is seven hundred and fifty-six days, one hundred and eight weeks to the day, and the man of about fifty-one at a north wall is five hundred and seventy-two days, and the two figures are on the same afternoon and are not joined.**
+
