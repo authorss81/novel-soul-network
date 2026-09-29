@@ -129,7 +129,7 @@ He went up. The folder went with him and the door shut and Marek stood in that s
 
 ---
 
-* * *
+---
 
 **There was a man at the counter at about a quarter to one who wanted to send a thing back and had brought it in a carrier bag and wanted to be told which counter it went to, and it had gone round four times in about six weeks and been posted back four times, and this is a thing that has happened in this city roughly nine hundred times a year and about four hundred and fifty people in it could each say one true thing about it.**
 

@@ -82,7 +82,7 @@ He had said almost exactly the same thing to about four hundred and fifty people
 
 There was nobody to ask him. The school went on at twenty past eleven and he was let out through a gate and nobody followed him out of it.
 
-* * *
+---
 
 **He came back down the wide road on foot because the bus went every twenty minutes and the next one was in nine, and he has never once in this city regretted a nine-minute wait and has regretted a great many other things.**
 

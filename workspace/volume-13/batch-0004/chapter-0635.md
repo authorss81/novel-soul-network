@@ -72,7 +72,7 @@ He keeps it on a tally on the end of a paint stirrer in the garage, in pencil, a
 
 ---
 
-* * *
+---
 
 **The woman of about sixty-three kept the office end of that garage and had kept it for about nine years and had a drawer of carbon books in it going back further than anybody in the building, and Marek looked at the drawer and she closed it, and neither of them said one word about it, and it is the closest anybody came all day to giving him a count of anything.**
 
@@ -114,7 +114,7 @@ Ray Topping did not look up.
 
 ---
 
-* * *
+---
 
 **The woman of about thirty-four had been in that back room once, in the spring, with a meter, and she came in at about a quarter to five on the Monday because she had a thing she wanted him to hold and then she saw the crates and stopped in the doorway.**
 
@@ -138,7 +138,7 @@ Ray Topping did not look up.
 
 ---
 
-* * *
+---
 
 **He counted the crates himself on the Monday night, at about seven, with the shutter down and the bar across the bottom of it, and it took him about four minutes, and there are four of them and the number of sheets in them is not four.**
 

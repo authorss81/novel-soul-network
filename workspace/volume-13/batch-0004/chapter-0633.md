@@ -136,7 +136,7 @@ It was a plain van, grey, with a firm's name on the side in letters about the si
 
 ---
 
-* * *
+---
 
 **The room above the line in Saltmarket is the sixth of the nine and he did not get to it on the Thursday, and the reason he gives is that the counter closes at six and the counter is where he is from four, and the reason he actually gives, to the woman of about thirty-four at about six, is different and shorter.**
 

@@ -4,7 +4,7 @@
 
 ---
 
-He came back into this city on the Saturday on the bus that runs twice a week, four days each way, having been away for six days on a fortnight he had asked eight people for in nine seconds each, and he had not gone to the ninth because the ninth was going to be included by a Tuesday.
+He came back into this city on the Saturday on the bus that runs twice a week, out of it from the Wednesday evening to the Saturday night, which is the four days that bus takes there and back, on a fortnight he had asked eight people for in nine seconds each, and he had not gone to the ninth because the ninth was going to be included by a Tuesday.
 
 **The arrangement stopped on the Sunday, at the time he gave eight people, on a piece of nothing, and it stopped without a single one of the eight objecting and without the ninth ever having been asked, and the crates went back on the Saturday afternoon in a van driven by a man of about forty-one who did not say one word about any of it and who has not said one word since.**
 
@@ -58,7 +58,7 @@ The woman of about thirty-four said, at the door, on the way out, in four second
 
 ---
 
-**The crates came back on the Saturday in the same van and they went under the bench in about eleven minutes in front of him, and a man of about forty-one put them down and wiped his hands on a rag and said one thing, in about nine seconds, and it was the only thing either of them said about a fortnight.**
+**The crates came back on the Sunday in the same van and they went under the bench in about eleven minutes in front of him, and a man of about forty-one put them down and wiped his hands on a rag and said one thing, in about nine seconds, and it was the only thing either of them said about a fortnight.**
 
 "**That's the fortnight,**" said Ray Topping. **"You never told me what it was for and I've never asked, and I'd not be telling you now if you hadn't been stood there looking at the crates like a man waiting to be asked a question about them.**"
 
@@ -82,7 +82,7 @@ A van was not there. The wheel on the chain was still reading the figure it had 
 
 At about a quarter past twelve the corridor on that floor smelled of somebody else's dinner and two men went past him on the stairs and neither of them looked at him, and he was twenty-two years old with a form folded once in the fourth pocket of a tool roll, and it was Monday, and the thing he had lost was the only thing anybody in this city had ever asked him for.
 
-* * *
+---
 
 **He did not write it down. That is the small thing he gave up on the Monday, in about four seconds, in a corridor, and there is no form anywhere in this city on which a man records that he is not allowed to speak to a person he promised a thing to.**
 
