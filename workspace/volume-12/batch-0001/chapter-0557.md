@@ -6,7 +6,7 @@
 
 Eleven jobs again on the Friday with eleven dates, and eleven people came in, and the last of them at about five. Bench in Lattice Ward, then the counter, then the service road at half past six, and the order of those three things has not changed in about eleven years. Nine went on that ticket and then ten did, which is the order they have gone on in since about the spring, and neither of the two figures describes the day. **Heating on in that flat, dearer than the winter by a way four names on one tenancy are absorbing, and a fortnight of a cook's own wages still unpaid by anybody at the end of this month.** The service-road rooms are nine hundred and seventy days, one hundred and thirty-eight weeks and four days, four of them and one behind, and they are warm.
 
-The card in the rail along the front of that counter is nine hundred and seventy-four days, one hundred and thirty-nine weeks to the day, four days more than the room, and the rail takes two.
+The card in the rail along the front of that counter is nine hundred and seventy-four days, one hundred and thirty-nine weeks and one day, four days more than the room, and the rail takes two.
 
 ---
 

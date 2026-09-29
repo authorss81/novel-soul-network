@@ -66,7 +66,7 @@
 - **He has learned that a two-box return card is the whole of the halt, and that about four years of ordinary practice sit behind it, and that no page of this manuscript has ever contained a rule that says what he has just learned.**
 - **Two correct things have been done that changed nothing, by two people who are owed nothing, and neither has been improved on and neither has been thanked.**
 - **Nobody has taught, demonstrated, assessed or assisted anybody. He has been asked to help once, at Chapter 557, and has said no in about nine seconds and given a reason, and the reason is correct, and something still breaks on the Tuesday.**
-- **Nobody thanked anybody on any of the ten days. The shutter came down at about ten on all ten.**
+- **Nobody thanked anybody on any of the ten days. The shutter came down at about ten on the nine days the counter was open. THE SUNDAY IS THE TENTH DAY AND THERE IS NO SUCH THING AS A SHOP ON A SUNDAY, SO ITS SHUTTER CAME DOWN AT ABOUT TWO, and the closing paragraph of Chapter 560 says so in its own words instead of standing the ten-o'clock form on a day the chapter has already established had no counter. The ten-day form is the rule and the Sunday is the exception the rule has to make room for.**
 - **A woman of about thirty-four is going back to the second of the four towns on the Sunday night bus and he has asked her to carry a thing for him and she has refused in about nine seconds and the reason is correct.**
 
 ## 5. WHAT THIS PHASE MUST WRITE, AND IT IS EXACTLY THIS

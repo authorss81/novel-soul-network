@@ -6,7 +6,7 @@
 
 The Thursday carried eleven jobs, all eleven of them dated, and eleven people came through the counter, and the eleventh of them came at about ten past five. Two hours of that Monday went on a wide road where parts are sold, and the counter did two to six, and the bench did the morning, and the rooms off the service road took him at half past six. Nine and then ten is what goes on the ticket and neither figure is the rate, and the difference went to nobody and has gone to nobody on every working day since about the spring. **The heating in that flat goes on at a higher price than it did before the winter, the rise sits on four names on one tenancy, and a fortnight laid out of a cook's own wages by her is still owed by nobody and will be owed by nobody at the month's end.** The service-road rooms are nine hundred and sixty-two days, one hundred and thirty-seven weeks and three days, four of them and one behind, and they are warm.
 
-The card in the rail along the front of that counter is nine hundred and sixty-six days, one hundred and thirty-seven weeks and five days, four days more than the room, and the rail takes two.
+The card in the rail along the front of that counter is nine hundred and sixty-six days, one hundred and thirty-eight weeks to the day, four days more than the room, and the rail takes two.
 
 ---
 
