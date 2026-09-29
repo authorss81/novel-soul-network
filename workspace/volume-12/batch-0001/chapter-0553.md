@@ -1,6 +1,6 @@
 # Chapter 553 — The Engine Said Twice In A Face In Nine Words Each, And Then A Man Of Thirty-Two Asked The Wrong Man And A Man Of Twenty-Two Did Not Unsay It, And He Is Not Thanked For The Boundary And Is Not Blamed For The Breach Either
 
-**The Friday was a bench in Lattice Ward until about two, a counter until about six, and a room off that service road from about half past six, and its shape was a woman at the counter at about eleven with a second list, and about nine words, and about nine words back, and then a thing in the back of a shop that takes about four seconds and is not undone on this day or any day.**
+**The Friday was a bench in Lattice Ward until about two, a counter until about six, and a room off that service road from about half past six, and its shape was a woman at the counter at about eleven with a second list, and about nine words, and about nine words back, and then four seconds in the back of a shop.**
 
 ---
 
@@ -82,7 +82,7 @@ Marek had four questions he was entitled to ask anybody in this city. One of the
 
 **He did not ask the third one of a person he was allowed to ask it of, and he asked it of the man of about thirty-two, and the reason he asked it of the man of about thirty-two is that the man of about thirty-two has a rota for nine flats and four of those flats are let to people whose names he knows by heart and who would have said something if anything had happened.**
 
-That is a good reason. It is a real reason. It is the reason a person gives in a book.
+That is a good reason. It is a real reason. It is the reason a person gives when the true one is worse.
 
 **It is not the reason. The reason is that the man of about thirty-two owed him nothing, had never asked him for anything, and would not be owed a refusal.**
 
