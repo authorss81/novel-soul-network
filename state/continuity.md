@@ -1,4 +1,15 @@
 
+
+# LIVE — CONTINUITY AT CHAPTER 590, COMPACT, DATED AFTER EVERYTHING BELOW
+
+**Volume 12 is OPEN at Chapter 590. The next phase is `workspace/volume-12/batch-0005/PROMPT.md`, Chapters 591 to 600, entries 594 to 603, days 1412 to 1428, weeks 218 to 220. Movement IV's own account is `workspace/volume-12/batch-0004/SUMMARY.md`. Everything below this block is history and is kept for the arithmetic, not for the state.**
+
+- **SIXTEEN SERIES, ALL A DAY MINUS A NAMED ANCHOR, CLEAN ON ALL TEN DAYS OF MOVEMENT IV.** Room 362; card 358; hardboard 442 / 491 / 526 / 547 / 572 / 590 / 644 / 666; hold 729; man of about fifty-one 756; ask 672; post 814; copies 796; separation 982. Free checks {4}, {21}, {−27}, {−72} with signs, walked on all ten days. **At the close (day 1408): room 1,046, card 1,050, hardboard 966 / 917 / 882 / 861 / 836 / 818 / 764 / 742, hold 679, fifty-one 652, ask 736, post 594, copies 612, separation 426.**
+- **CARD IN THE RAIL ON ALL TEN DAYS, rail holds two, unmoved and unturned; 1,029 at 581 against the room's 1,025-equivalent 1,029 (day 1391 less 362), four days past the room throughout, 1,050 at 590. Return cards (two boxes, clip, name, let house) are a different object on every appearance; no sentence joins them; the load book says so each time.**
+- **EXCHANGE: book sixty on the nine days before 586, sixty-one after; tin seventy-three throughout; count announced at 586 only, forty-eight of which forty-three, against forty-seven of which forty-two before. Forty-fourth sitting at Chapter 600 (day 1428) shuts the book: forty-nine of which forty-four. A count is announced at a sitting and on no other day.**
+- **NO SUNDAY AMONG THE TEN DAYS (1391 Mon, 1393 Wed, 1394 Thu, 1395 Fri, 1398 Mon, 1400 Wed, 1401 Thu, 1402 Fri, 1405 Mon, 1408 Thu); shutter at about ten on all ten, each in its own words. THE FIGURE THIS FILE CARRIED SINCE CHAPTER 550 — THAT MOVEMENT IV CARRIES SUNDAYS — IS WRONG; the detector and the day map say so, and it is corrected here rather than inherited. A Movement V writer must run the detector on Movement V's ten days first.**
+- **COLLISION SWEEP SIX ROWS AT THREE CHAPTERS (584: 729/666; 586: 756/644; 587: 672/729), both members on the page in each body with ages and days in the same breath, none a day of the heating. MEASURED MOVEMENT IV: 36,039 words, aggregate 501.956, zero duplications, zero missing series, forbidden register zero; full instruments at `workspace/volume-12/batch-0004/SUMMARY.md` section 2.**
+
 # LIVE — CONTINUITY AT CHAPTER 580, COMPACT, DATED AFTER EVERYTHING BELOW
 
 **Volume 12 is OPEN at Chapter 580. The next phase is `workspace/volume-12/batch-0004/PROMPT.md`, Chapters 581 to 590, entries 584 to 593, days 1391 to 1408, weeks 215 to 217. Movement III's own account is `workspace/volume-12/batch-0003/SUMMARY.md`. Volume 11 is closed and its measurement and its three decisions are at `workspace/volume-11/ARITHMETIC-AND-CALENDAR.md` section 6. Everything below this block is history and is kept for the arithmetic, not for the state.**

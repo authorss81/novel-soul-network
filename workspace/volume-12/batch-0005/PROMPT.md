@@ -1,0 +1,78 @@
+# VOLUME 12 — MOVEMENT V — *SEVERAL ANSWERS ON PURPOSE*, CHAPTERS 591 TO 600, LOAD-BOOK ENTRIES 594 TO 603, DAYS 1412 TO 1428, WEEKS 218 TO 220
+
+**THE PROMPT OF RECORD FOR `workspace/volume-12/batch-0005/`, and it is not a chapter and it plans nothing that is not in `outline/volume-12.md`. Every figure below was re-derived from `workspace/volume-12/ARITHMETIC-AND-CALENDAR.md` sections 1 to 5 and from the anchors printed at the head of `outline/volume-12.md`, and no figure is to be read off a chapter beside it. `state/phase-ledger.json` still reads `phase-000-bootstrap` and `planned` while the manuscript stands at Chapter 590; that file is controller-owned, is in the list no agent pass may edit, and is read and not written by anybody, and the disagreement is flagged in every summary rather than fixed by hand.**
+
+## 0. WHAT MOVEMENT IV LEFT, AND IT IS THE BASE OF EVERY FIGURE BELOW
+
+**The full dated account of Movement IV is `workspace/volume-12/batch-0004/SUMMARY.md`, and the ten files beside it are `chapter-0581.md` to `chapter-0590.md`. Read that first, then `workspace/volume-12/ARITHMETIC-AND-CALENDAR.md` sections 1 to 5, then `outline/volume-12.md`, and then this file.**
+
+- **Sixteen series, all a day minus a named anchor: the room 362, the card 358, the hardboard's twelve lines 442, 491, 526, 547, 572, 590, 644 and 666, the hold 729, the man of about fifty-one 756, the ask 672, the post at the corridor end 814, the nine hand copies 796, and the separation 982. The anchors are printed in one table at the head of `outline/volume-12.md` and are NOT to be re-derived from any chapter.**
+- **The four free checks are {4}, {21}, {−27} and {−72} with their signs, walked on all ten days of this movement and not only on the days the chapters fall on.**
+- **The Exchange at the day this movement opens: the book at sixty-one lines, the tin at seventy-three, the count last announced at forty-eight of which forty-three correspond, announced at a sitting and on no other day. THIS MOVEMENT CARRIES THE FORTY-FOURTH SITTING, at Chapter 600, day 1428, Wednesday of week 220, and the book SHUTS, no line goes in, and the count announced at that sitting is forty-nine of which forty-four correspond.** The count rises at every sitting whether the book opens or not, and a count is announced at a sitting and on no other day.
+- **The correct-things-that-change-nothing counter stands at TWO (a clipboard on a nail inside a cold-store door in the first of the four towns, and four torn pieces of the same list in a coat pocket at the same gate, both the same woman of about fifty-two). It is NOT decremented by anything in Movement V; a writer who increments it must show the scene in the entry that increments it — a person doing a correct thing in about nine seconds that changes nothing, owed nothing.**
+- **The panel and the marker are at zero on all ten days of Movement V and are not referred to; the words `panel`, `system` and `notification` are in none of the ten files. The four words of the public body's name were paid once in Movement IV at Chapter 588 and are at zero in all ten days of Movement V, in bodies, apparatuses and H1 title lines, and are not alluded to.**
+- **THE WORD SPENT AT CHAPTER 578 IS AT ZERO IN ALL TEN FILES OF THIS MOVEMENT AND IS NOT USED, NOT PARAPHRASED IN THE DEFINITION'S OWN SHAPE, AND NOT NAMED. THE APRIL WOMAN IS NOT RESOLVED HERE AND IS NOT NAMED HERE; the line that went in at the forty-third sitting did not name her and this movement does not revisit her.**
+- **THREE OF THE SIX SUPPORTING NAMES ARE SPENT (MORAG HAINES, CULLEN RAYNER, DELPHINE ARDEN). THREE ARE HELD FOR MOVEMENT V. DR. IONA SORN (fifty-three) AND LEO MARR (a woman of about thirty-five) ARE PLAN-OF-RECORD NAMES AND NAMING EITHER IS NOT A SPEND. Dr. Sorn's debt was paid at Chapter 588; she may appear and may not be made larger. Leo Marr is given control of nothing, is not redeemed, and is not the villain.**
+
+## 1. THE DAY MAP FOR THIS MOVEMENT
+
+| Ch | Week | Day | Day no. | Entry | Room | Card | 19 | Hold | Ask | 51 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | Post | Copies | Sep |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 591 | 218 | Monday | 1412 | 594 | 1,050 | 1,054 | 746 | 683 | 740 | 656 | 970 | 921 | 886 | 865 | 840 | 822 | 768 | 598 | 616 | 430 |
+| 592 | 218 | Wednesday | 1414 | 595 | 1,052 | 1,056 | 748 | 685 | 742 | 658 | 972 | 923 | 888 | 867 | 842 | 824 | 770 | 600 | 618 | 432 |
+| 593 | 218 | Thursday | 1415 | 596 | 1,053 | 1,057 | 749 | 686 | 743 | 659 | 973 | 924 | 889 | 868 | 843 | 825 | 771 | 601 | 619 | 433 |
+| 594 | 218 | Friday | 1416 | 597 | 1,054 | 1,058 | 750 | 687 | 744 | 660 | 974 | 925 | 890 | 869 | 844 | 826 | 772 | 602 | 620 | 434 |
+| 595 | 219 | Monday | 1419 | 598 | 1,057 | 1,061 | 753 | 690 | 747 | 663 | 977 | 928 | 893 | 872 | 847 | 829 | 775 | 605 | 623 | 437 |
+| 596 | 219 | **Wednesday — the volume climax opens** | 1421 | 599 | 1,059 | 1,063 | 755 | 692 | 749 | 665 | 979 | 930 | 895 | 874 | 849 | 831 | 777 | 607 | 625 | 439 |
+| 597 | 219 | **Thursday — collision row** | 1422 | 600 | 1,060 | 1,064 | 756 | 693 | 750 | 666 | 980 | 931 | 896 | 875 | 850 | 832 | 778 | 608 | 626 | 440 |
+| 598 | 219 | Friday | 1423 | 601 | 1,061 | 1,065 | 757 | 694 | 751 | 667 | 981 | 932 | 897 | 876 | 851 | 833 | 779 | 609 | 627 | 441 |
+| 599 | 220 | Monday | 1426 | 602 | 1,064 | 1,068 | 760 | 697 | 754 | 670 | 984 | 935 | 900 | 879 | 854 | 836 | 782 | 612 | 630 | 444 |
+| 600 | 220 | **Wednesday — the forty-fourth sitting, the book SHUTS, the close** | 1428 | 603 | 1,066 | 1,070 | 762 | 699 | 756 | 672 | 986 | 937 | 902 | 881 | 856 | 838 | 784 | 614 | 632 | 446 |
+
+**RUN THE DETECTOR BEFORE WRITING ANY OPENING: `week = (day − 502) // 7 + 88`, `wd = (day − 502) mod 7` Monday-first. Days 1412 Monday, 1414 Wednesday, 1415 Thursday, 1416 Friday, 1419 Monday, 1421 Wednesday, 1422 Thursday, 1423 Friday, 1426 Monday, 1428 Wednesday. NONE IS A SUNDAY; the ten-o'clock shutter form is satisfiable as written on all ten, each in its own words. Run the detector on these ten days; do not carry any Sunday form forward.**
+
+**COLLISION ROWS: TWO CHAPTERS. Chapter 597: 756, the hardboard's nineteenth line, and 666, the man of about fifty-one at the wall. 756 is an age and is also the day that man first sat down against that wall; 666 is an age in days and is also the day the nineteenth line was written. Chapter 600: 672, the man of about fifty-one at the wall, and 756, the ask. 672 is an age in days and is also the day the ask was put to a person and not to an institution; 756 is an age and is also the day that man first sat down against that wall. Both chapters put both members of the pair on the page in the body, say in the same breath which is an age and which is a day something happened, and state neither is a day anything happened to the heating in this city.**
+
+## 2. WHAT THIS MOVEMENT IS FOR, FROM THE PLAN OF RECORD
+
+1. **FOUR PLACES RUN FOUR DELIBERATELY DIFFERENT ANSWERS TO THE SAME WEEK.** The differences are not disagreements and not a competition; the cost is four times the paperwork and about four times the trouble. All four answers work; two are worse than the old one, and he says so in a face and is not consoled.
+2. **THE SINGLE RELAY IS OFFERED AND REFUSED IN ABOUT NINE SECONDS.** The refusal is correct, is not a speech, is not admired, and costs him the only hour of the week in which the work would have been easy. The relay is never built, never chained, never practised; no page implies it got easier. No rescue is made necessary by a decision of his.
+3. **THE CONDUCTOR'S CHOIR IS PUSHED BACK TOWARD THE CROWN VAULT, AND THE NAME OF THE VAULT IS SPOKEN ONCE, BY A PERSON ENTITLED TO SPEAK IT, AND NOBODY EXPLAINS IT.** What is inside the vault is not spoken of. The Crown Key is not named as a usable object, not sought, not carried, not described; the plate of iron stays where it is.
+4. **THE FORTY-FOURTH SITTING SHUTS THE BOOK.** About eleven people up a stair, nine items at four minutes, a tenth thing that is not an item, no line goes in, the reason is printed and is not a rule, the count is announced at forty-nine of which forty-four, nobody asks her why. The ninth chair does not move and its mover is not named.
+5. **THE CLOSE: the public institution survives with opt-outs and slower service (about nine more days of delay than in the spring); the separation stands at four hundred and forty-six days, not shorter, not ended; Stage 4 on the last page as on the first; no new capability is described.**
+
+**What this movement may not spend, beyond the volume's list: the panel and the marker, the word spent at Chapter 578, the Crown Key and what it opens, the Crown Root Interface, any second relay, any comparison of the hand copies, Evan Senn's name, the licensor, the field, the master's fifth line, the drawer opened, the ninth chair's mover, the woman's page read, the hardback book, the folder above the kettle, the rota man's inspection, the four words of the public body's name, and any rescue a decision of his made unnecessary.**
+
+## 3. THE FORM (as Movements II–IV kept it)
+
+1. Opening bold paragraph forty to seventy-five words, states the day and the shape of the day; no interval or series figure, no outcome, nothing a person in another building said. (Mov IV: 56, 57, 60, 60, 65, 64, 56, 59, 49, 48.)
+2. Every refusal, offer, cost named out loud, and milestone said in a face; a milestone is still not a scene.
+3. Inner life on every page: one notice on no form, one want unsaid, one small decision costing something small — all ten small things different from each other and from the forty of Movements I–IV (all forty listed in `state/character-state.md`); none a Tuesday, none a version of the Chapter 567 refused errand.
+4. No sentence of twelve words or more in two of the ten files or in any of them and Movements I–IV (Mov IV cross-batch returns zero; run again here). Conditions-row, heating, leaf, Exchange and counter clauses each in ten different sets of words.
+5. Hedge cut in the prose, kept in the figures, deeper in the four towns; walk the partition and publish raw, class, true, overlap (Mov IV: raw 762 at 21.144, class 702, true 60 at 1.665 — walk, do not inherit).
+6. Card in the rail on all ten days, rail holds two; card's age one thousand and fifty days at Chapter 591 (day 1412 less anchor 358). A return card is a different object, never joined to it; the load book says so each time.
+7. Book at sixty-one lines on all ten days (it opened at the forty-third and shuts at the forty-fourth with no line going in); tin at seventy-three; count announced at Chapter 600 only: forty-nine of which forty-four.
+8. Woman of about thirty unnamed, unasked, unthanked, unapologised-to; her page the eighth of eight, unread on all ten days. `ring binder` excepted and no other use of `ring`.
+9. No telephone/mes­senger/broadcast/feed/letter-without-carrier in any register or negation (Mov IV returns ZERO; write about objects, vans, buses, carriers, four days). The word `telephone` in any form is at zero in all fifty chapters.
+10. No Sundays among the ten days; shutter at about ten on all ten, each in its own words.
+
+## 4. TEN CARDS
+
+**591 | Monday 1412, entry 594.** The winter arrangement on paper after the family has left: a board with a gap in it that says nothing, a count that still holds, and a man who walks the row learning he must stop at a house as well.
+**592 | Wednesday 1414, entry 595.** The first of the four different answers: one town keeps the board and the count exactly as they are and says so out loud.
+**593 | Thursday 1415, entry 596.** The second answer: one town takes its number off the board and carries the spring cost on purpose.
+**594 | Friday 1416, entry 597.** The third answer, and the paperwork of it: four times the forms and about four times the trouble, said in a face by the people doing it.
+**595 | Monday 1419, entry 598.** The fourth answer; two of the four are worse than the old one and he says so in a face and is not consoled.
+**596 | Wednesday 1421, entry 599 — climax opens.** The offer: one relay that would make all four answer the same way, put to him correctly, in a face.
+**597 | Thursday 1422, entry 600 — collision row.** The refusal in about nine seconds; not a speech, not admired, costing him the only easy hour of the week. 756 and 666 in the same bold paragraph with ages and days in the same breath.
+**598 | Friday 1423, entry 601.** The cost of the refusal, carried by four places without asking him first; four rooms that answer differently without asking him first.
+**599 | Monday 1426, entry 602.** The vault's name spoken once by a person entitled to speak it; nobody explains it; the Choir pushed back toward it.
+**600 | Wednesday 1428, entry 603 — the forty-fourth sitting, the close.** About eleven up a stair, nine items at four minutes, a tenth thing not an item, the book SHUTS with the reason printed, the count forty-nine of which forty-four, the ninth chair unmoved, nobody asking why. 672 and 756 in the same bold paragraph with ages and days in the same breath. The separation at four hundred and forty-six days. The close.
+
+## 5. INSTRUMENTS (exact forms, with Mov IV's three inherited corrections kept)
+
+- Words, openings, bold (per-line halved + whole-file non-greedy + parity + `***` + multi-span count as a number), conditions-row completeness with the left-to-right accumulating multiplier parser, hedge with both clauses and overlap published, duplication at body/whole/intra scopes plus mandated closing paragraph separately plus cross-batch against 0001–0004, out-of-fiction fourteen-term on three scopes separately plus twenty-nine-term extended, intervals parsed from the end of the phrase backwards refusing runs across `,;:` and reading plural `days` with three named scopes plus the bare-`<W> weeks` fourth counted beside them, forbidden-register walk on whole files, collision sweep from row side and page side expecting FOUR rows at TWO chapters (597, 600).
+
+## 6. NOT TO BE EDITED
+
+**`scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, `state/phase-ledger.json` are not to be edited. `outline/series.md`, `outline/ending.md`, `outline/volume-11.md`, `outline/volume-12.md` are read and not edited. Both ARITHMETIC files are read and not edited; section 6 of the Volume 12 file belongs to the volume close. No chapter of any other batch is edited. No batch is restarted.**

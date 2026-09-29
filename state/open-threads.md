@@ -1,4 +1,17 @@
 
+
+# LIVE — WHAT IS OPEN AT CHAPTER 590, COMPACT, DATED AFTER EVERYTHING BELOW
+
+**Volume 12 is OPEN at Chapter 590 and the next phase is `workspace/volume-12/batch-0005/PROMPT.md`. Threads are carried forward in standing order; Movement IV closed two (the winter card now known by eight and carried by all eight; the family's leaving now priced and held) and paid one debt (Iona Sorn on the page). EVERY THREAD BELOW MARKED SHUT WAS SHUT IN MOVEMENT IV; the rest the next writer inherits.**
+
+1. **A CARD AND A NAME AND A LET HOUSE: now eight knowing and eight doing nothing, nobody organising it.** A woman of about thirty-eight keeps the pumping station; four households found out separately at the standpipe and told four more. SHUT as mystery, OPEN as winter: about four hundred cards still correct on paper and unreachable, and the count that decides the spring still holds with a gap in it that says nothing.
+2. **A FAMILY OFF THE ARRANGEMENT ENTIRELY: SHUT.** Four things (cold key, brass plate, washing line, nine feet of chain) on a shelf under a box of washers, then counted twice on a table; the number stays on the board in its place; the step is answered every other week at six. The cost — worse than the stoppage, because the stoppage ended — was said by the family. OPEN consequence: the walking party knocks, the firm reads a sheet with nothing saying which, the driver drives between them.
+3. **THE FORTY-THIRD SITTING: SHUT.** One line about a weight on a second shelf, a man of about twenty-nine owning it since the spring, no question asked, nobody asking why it opened. The book at sixty-one. The forty-fourth sitting (Chapter 600) is the close.
+4. **THE FOUR WORDS: SHUT for this volume.** Said once at 588 with the hall-refusal in the same room; at zero in Movement V.
+5. **DR. IONA SORN DEBT: PAID at 588 and therefore SHUT as a debt; OPEN as a person** — fifty-three, on no list, agreed with by about four and not by about five, may appear in Movement V without being made larger.
+6. **THE SINGLE RELAY (Movement V): OPEN and promised.** Offered once, refused in about nine seconds, never built. The vault's name spoken once by a person entitled. Four deliberately different answers, all working, two worse, all unpaid-for in paperwork.
+7. **CARRIED UNTOUCHED: nine hand copies uncompared (first disagreement in the fourth line unfound); plate of iron with four slots unlifted; hardback book and kettle folder unreferred-to; licensor, field, master's fifth line (blank), drawer (shut, three sheets, NO with four lines), ninth chair's mover unnamed; rota inspection unresolved and unmentioned; separation 426, not shorter, not ended.**
+
 # LIVE — WHAT IS OPEN AT CHAPTER 580, COMPACT, DATED AFTER EVERYTHING BELOW
 
 **Volume 12 is OPEN at Chapter 580 and the next phase is `workspace/volume-12/batch-0004/PROMPT.md`. `outline/volume-12.md` is the plan of record and `outline/series.md` was not edited. Carried forward from Volume 11, still open, in the order they stand, and then what Movement I of Volume 12 opened, and then what Movement II opened, and then what Movement III opened. EVERY THREAD BELOW THE MOVEMENT III BLOCK WAS OPENED BEFORE CHAPTER 571 AND NONE OF THEM WAS CLOSED IN MOVEMENT III, and the threads Movement III touched without moving are named at the foot of the block.**
