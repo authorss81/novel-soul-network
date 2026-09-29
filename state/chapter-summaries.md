@@ -1,6 +1,9 @@
 # LIVE — CHAPTERS 501 TO 510 IN ONE LINE EACH, COMPACT, DATED AFTER EVERYTHING BELOW
 
 **Volume 11 is open at Chapter 510. The next phase is `workspace/volume-11/batch-0002/PROMPT.md` and its first chapter is 511, the Monday of week 192, day 1230, entry 514.**
+# VOLUME 11 — BATCH 0001 — THE REVIEW REPAIR PASS OVER MOVEMENT I, DATED AFTER THE BLOCK BELOW
+
+**A review repair pass and not a writing phase. It wrote no chapter, moved no day, no week, no entry, no anchor and no interval, changed no beat, no character and no planned plot, and created no phase. It read `logs/batch-0001.review.log`, took the three blockers and the six smaller findings, re-derived every figure it disputed, and repaired nine things across `chapter-0509.md`, `workspace/volume-11/batch-0001/SUMMARY.md`, `workspace/volume-11/batch-0002/PROMPT.md` and the five state files. The full account is `workspace/volume-11/batch-0001/SUMMARY.md` section 16. THE THREE FACTS A NEXT WRITER INHERITS FROM IT ARE THESE: the card in the rail is 861 on day 1219 and was printed as the room's figure in two places and is repaired; the plate of iron is four slots from Chapter 506 and was four bolts before it, which is a scene and not a canon change; and the post at the corridor end is a live series that Movement I did not carry and that the next prompt now mandates.**
 # VOLUME 11 — BATCH 0001 — CHAPTERS 501 TO 510 IN ONE LINE EACH, DATED AFTER THE BLOCK BELOW, AND THIS IS NOW THE LIVE BLOCK
 
 | Ch | Day | Wk | Entry | One line |
