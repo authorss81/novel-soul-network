@@ -1,0 +1,87 @@
+# Chapter 592 — A Wednesday With Eleven Jobs And Eleven Callers And A Woman Of About Forty-Six In A Bus Depot Yard Four Days Of Travel Away Putting One Number On A Sheet And Saying Out Loud That It Is The Same Number She Sent Last Year, And A Man Of About Fifty-Eight Who Does Not Argue With Her Because He Has Been On That Rota Since The Spring
+
+**The Wednesday was a bench in Lattice Ward until about two, a counter until about six, and four rooms off a service road from about half past six, and its shape was one number going onto one sheet in a yard where a bus is counted and a house is not.**
+
+---
+
+Eleven jobs on the Wednesday, all eleven dated, eleven people through the counter, the last of them at about five past five. The bench in Lattice Ward until two, that counter two until six, the four rooms off the service road from about half past six. **The heat in that flat is on and dearer than the winter's, four names on that one lease are carrying the increase, and a fortnight a cook took out of her own wages is owed by nobody and is going to be owed by nobody at the end of this month.** Those rooms are one thousand and fifty-two days, one hundred and fifty weeks and two days, four of them and one behind, and they are warm.
+
+The card in the rail along the front of that counter is one thousand and fifty-six days, one hundred and fifty weeks and six days, four days past the room, and the rail takes two.
+
+**The nineteenth line on two nails is seven hundred and forty-eight days, one hundred and six weeks and six days. The hold of the man of about thirty-three in another city is six hundred and eighty-five days, ninety-seven weeks and six days, and the ask is seven hundred and forty-two days, one hundred and six weeks to the day, and the man of about fifty-one against that north wall is six hundred and fifty-eight days, ninety-four weeks to the day. Not one of those four is a day anything happened to the heating in this city, and in this entry the heating is a closed thing and no figure of days off is carried for it anywhere.**
+
+---
+
+**The sheet came to the second of the four towns on the Monday with a van that was going anyway, and the question on it is one line and it is the same line on four sheets in four places.**
+
+It asks for one number: how many households in your place will take a delivery in the spring.
+
+It is not a rude question. It is the only question a firm with a correct credit policy is allowed to ask, because a firm cannot weigh a load it has not invoiced and cannot supply a place whose returns have not come back, and both of those are correct, and about four people four days of bus travel away are on the wrong side of them and were not asked.
+
+The answer goes back down the road. Four days each way, in a van or on a bus, and it is due on the Friday, and the spring stock is ordered off the back of it.
+
+---
+
+**She is about forty-six and she keeps the daily sheet in a bus depot yard in the second of the four towns, and she has kept it for eleven years, and the sheet has one column on it and the column is a number.**
+
+The yard holds eleven buses. The number on the sheet is the number of houses in the yard's own street, taken from a list the depot made in the spring of a year nobody in that yard can now remember, and checked twice a year by a man who walks it with a clipboard and has never once been asked to explain the method.
+
+Nine people were in that yard office on the Wednesday morning. The depot manager. Two drivers. A man of about fifty-eight who drives one of the eleven and has driven the late turn since the spring. A clerk of about twenty-six. Four men waiting on a door.
+
+**"We are sending the same number,"** she said. **"The same one we sent last year and the year before that, and I am going to say out loud that it is the same, because in about four weeks somebody is going to stand in a room in your city and say the four of you did four different things, and when they do I want one piece of paper that says we did not."**
+
+**"You are saying you did nothing,"** the man of about fifty-eight said.
+
+**"I am saying I sent the number I have,"** she said. **"That is not nothing. That is a decision. There is a difference and it is the only thing on that sheet."**
+
+**"What is the number."**
+
+**"Four hundred and sixteen."** She did not look up. **"And there are four hundred and nineteen doors on that street that a postman would agree with, and the three are at the end where two flats became one in the summer, and one of those is a garage that has had a door since before I started. I know all three of those. I have known them for four years. I have never once gone and knocked on any of them and I am not going to start on a Wednesday because a van brought a sheet."**
+
+The man of about fifty-eight said: **"Somebody will go."**
+
+**"Somebody will go in about four months when the route changes and the new man does not know the street,"** she said. **"And he will bring back four hundred and sixteen as well, because it is the number on the sheet he is given, and then the two of you will agree and it will be right twice."**
+
+Nobody said anything for about four seconds. A bus came into the yard and stopped and the yard went quiet in the way a yard does.
+
+**"I want to write down what you have just said,"** the clerk of about twenty-six said, **"because it is the first time anybody has said that out loud and it is going to be gone in a year."**
+
+**"Write it on the sheet,"** she said, **"and not on anything else, and do not send it. If it goes anywhere it becomes an answer and I have only got one."**
+
+He did not write it. He put the pen down.
+
+**The number that went on the sheet on the Wednesday morning was four hundred and sixteen, which is the number that was on it last year, and there was no second column, and the depot did not check a house, and the man of about fifty-eight went out to his bus at about ten past nine and did not say anything else about it, and nobody in that yard thanked anybody, and the sheet went into a carrier bag with two other things in it and the bag went down the road on the Friday with a driver who was going anyway.**
+
+---
+
+**Marek did not know any of that on the Wednesday, and the not-knowing is not a fault in him, and it is the reason a thing like this takes a fortnight to say anything at all.**
+
+He was at a bench in Lattice Ward until two with a compressor that came apart into more pieces than it went together as, and then at a counter until six with eleven people through the door, and then in four rooms off a service road with the heat on and about four people in them who were not asked anything.
+
+At about half past three a woman of about thirty-four who answers that counter asked him, in passing, in about four seconds, whether he had heard from the second of the four towns.
+
+He said no. She said she had not either, and that it was the fourth week of that, and went back to her column.
+
+**Nobody in that shop said what he should have done about it and nobody asked him and he did not do it, and the reason he did not do it is not a rule and is not a boundary written by anybody: it is that the answer was going to arrive on the Friday in a carrier bag on a bus whether he did anything or not, and a man who gets to a town first about a thing that was going to arrive anyway is a man those people go to next time.**
+
+---
+
+**What he noticed on the Wednesday evening, and told nobody in those four rooms, is that the depot's number has a name on it and the name is a street, and a street can be walked, and a household cannot.**
+
+A street is a good answer. It is honest about what it knows. Four hundred and sixteen doors is a real thing that a person can stand in front of and look at, and a household is not a place, and a household is a person who may have moved four doors along in the summer and still be on the list, and the depot's sheet has no column for that and neither does the firm's, and about four hundred and sixteen people in that town are one number and the number is a street and the street is going to be right for as long as nobody goes and knocks.
+
+**He has spent four years on the other side of that. He sells a card in a rail that has a name and a house on it, and the house is a place and the name is a person, and the arrangement has been wrong since the spring because the house was let and the name stayed. He knows the failure from both ends now. A street is a name that has forgotten it is a name. He has never said that to anybody and he is not going to.**
+
+**What he wanted, on the Wednesday night, in four warm rooms with the heat on, was to have been asked what a bus knows about a house. Nine people in a yard four days of bus travel away are owed an answer to a question they cannot be blamed for, and there is no form in this city on which a bus driver's opinion about a doorstep has a place, and he wanted a place for it badly enough that he noticed he wanted it, which is new, and he did not do anything about it.**
+
+**And the small thing he gave up on the Wednesday, which is on no form and which nobody asked for and nobody would have thanked him for: a man of about thirty-four brought a machine in at about four with a noise in it and asked for it to be looked at while he waited, and there was a washer in the second drawer that was the right washer and was not on the ticket, and he cut it, and he put it in the man's bag, and the man paid for the repair and not for the washer and neither of them said a word about it because neither of them had noticed, and that shop's margin is one washer lighter and the ticket in the file says nine pounds and the washer is not anywhere on the ticket in the world, and he will not put it on one now because the man has gone.**
+
+Nobody thanked anybody, at a counter in Lattice Ward or in a yard four days of bus travel away where nine people stood about a sheet, and the shutter came down at about ten, and a Wednesday is a Wednesday and not a Sunday and there is no such thing as a shop on a Sunday.
+
+*595. Wednesday of week 218, at ten, and this entry is eleven dated jobs and eleven people through one counter, one number of four hundred and sixteen written on one sheet in a bus depot yard in the second of the four towns and said out loud to be the same number as last year, a man of about fifty-eight who drives the late turn and did not argue, a clerk of about twenty-six who was told he could write it down and then put the pen down, a woman of about thirty-four who asked a question in passing and got a true answer in four seconds, and nobody thanked at any point in it.*
+
+*Conditions and docket.* **The Wednesday produced eleven jobs, a date against all eleven, and eleven callers, the final one a little after five.** The shape of the day: bench in Lattice Ward until two, the counter from two to six, four rooms off the service road from about half past six. The fittings of that counter, unchanged and in the order they keep: a bench, a cage with a man in it with his face to the wall, a roller shutter, a tool roll, a wall list in a plastic sleeve, a shelf of finished work, a rail holding two. Callers: eleven. Refusals: three. Work taken: eleven, three of them turned down, nothing fought over, nothing passed on. Takings: eleven pounds, wrong for the day, not remarked upon, and not said aloud to one person. The flat's heating: running, above what the whole of last winter cost, the extra shared between four named people on one tenancy, and a fortnight of a cook's own money still unowned and due to stay unowned. Rooms: one thousand and fifty-two days, one hundred and fifty weeks and two days, four of them and one behind, warm. Rail card: one thousand and fifty-six days, one hundred and fifty weeks and six days, four days on from the rooms. The two nails: twelfth, nine hundred and seventy-two; thirteenth, nine hundred and twenty-three; fourteenth, eight hundred and eighty-eight; fifteenth, eight hundred and sixty-seven; sixteenth, eight hundred and forty-two; seventeenth, eight hundred and twenty-four; eighteenth, seven hundred and seventy, one hundred and ten weeks to the day; **nineteenth, seven hundred and forty-eight, one hundred and six weeks and six days**. What was added to that board: not one line, and no twentieth. Corridor-end post: six hundred days, eighty-five weeks and five days. Nine copied page fronts: six hundred and eighteen days, eighty-eight weeks and two days, eight of nine unfinished and the first disagreement in the fourth line still undiscovered. The distant hold: six hundred and eighty-five days, ninety-seven weeks and six days, unstamped, unreferenced, unasked after. The man against the north wall: six hundred and fifty-eight days, ninety-four weeks to the day, with nothing said by him and no paper in his hands. The ask: seven hundred and forty-two days, one hundred and six weeks to the day, made once and not repeated to anybody living since. Separation: four hundred and thirty-two days, sixty-one weeks and five days, unchanged, and about four days of bus travel in each direction during this week took nothing off it. The book in the other district is at sixty-one lines and the lidless tin beside it at seventy-three, no sitting occurred and no number was given out, a number being for a sitting and for no other occasion. The woman of about thirty nearest that door: unaddressed, unthanked, unapologised to, her leaf the eighth of eight in a ring binder, unread.*
+
+*One number said out loud, as a record of eleven minutes in a yard office.* **Place: a bus depot yard in the second of the four towns, on a Wednesday morning, with nine people in an office off it and eleven buses outside. Who spoke: a woman of about forty-six who has kept the depot's daily sheet for eleven years and who is not a manager and is not on a committee. What was on the sheet: four hundred and sixteen, one column, the same figure as the year before and the year before that. What she said, out loud, in a face, to nine people: that they are sending the same number, and that she wants it on the record that they did not do anything different, because in about four weeks somebody in another city will be saying the four places did four different things, and she wants one piece of paper that says this one did not. What she gave as the reason, unasked: that the number is a street and not a household, that three doors on it no longer count as houses, that she knows all three and has for four years, and that she has not gone and knocked on any of them and is not starting on a Wednesday because a van brought a sheet. What was said back to her, twice, by a man of about fifty-eight on the late turn: that somebody will go. What she said to that: that somebody will go in about four months when the route changes, and will bring the same number back, and then the two of them will be right twice. What a clerk of about twenty-six asked for: permission to write it down, and was given it, and was told to write it on that sheet and not on anything else and not to send it, and he put the pen down. What went out: one sheet in a carrier bag with two other things in it, on a Friday, down a road, with a driver who was going that way regardless. Cost named out loud: none by her, and she was owed nothing and thanked by nobody, and the cost she described is a number that will be right twice. Owner: a street, a column, a carrier bag, and about four months.**
+
+*What the day did, and what it did not touch.* **A woman of about forty-six in a yard four days of bus travel away put the same number on a sheet as she put there last year, and said out loud that she was doing the same thing, and nine people in that office heard her say it, and about four hundred and sixteen people in that town will be counted correctly in the spring and about three doors will be counted as houses.** Nobody said thank you in that yard or at that counter, and the one person in this city who would have been asked to carry something to that town was not asked, because it was going by bus on the Friday anyway. The shutter went down at about ten and this day carries no Sunday in it to alter the hour. He taught nobody, showed nobody how, assessed nobody and lent a hand to nobody, and nobody requested any of the four of him. **The tally of proper acts that altered nothing, performed by people owed nothing, remains at two: a clipboard on a nail inside a cold-store door in the first of the four towns, and four torn pieces of one list in a coat pocket at that town's gate, both of them the doing of the same woman of about fifty-two. A woman of about forty-six deciding to send last year's number is not a third of that, and the reason is that it took eleven minutes and not nine seconds, and it altered the stock of about four hundred households for a year, and she is owed nothing by it.** The rail card is one thousand and fifty-six days and did not move, and the rail holds two, and a return card with two boxes and a clip is a different object from it and is not in this entry. The rooms are one thousand and fifty-two days and warm. Nineteen lines hang on two nails and the twentieth has never been started. That drawer is still shut and holds three sheets. Nobody has given the man of about fifty-one by the wall anything to read. The page belonging to the woman of about thirty was the eighth of eight and turned to by nobody.

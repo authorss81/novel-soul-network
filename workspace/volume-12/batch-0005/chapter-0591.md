@@ -1,0 +1,91 @@
+# Chapter 591 — Eleven Dated Jobs On A Monday, A Board On Two Nails With A Number Written Over And A Space Underneath It That Says Nothing, A Man Of About Forty-Four Going Along The Row At Six In The Morning Finding Out He Has To Stop At A House As Well, And A Sheet On A Counter That Nobody Asked Him To Do Anything With
+
+**The Monday was a bench in Lattice Ward until about two, a counter until about six, and four rooms off a service road from about half past six, and its shape was a man going along a row of doors at six in the morning with a sheet in his hand and a stop at a house in the middle of it.**
+
+---
+
+Eleven jobs on the Monday, a date written against each of the eleven, eleven people through that counter door, the last of them at about twenty to six. The bench until two, the counter from two until six, and the four rooms off that service road from about half past six. **The heat in that flat is on and past what it cost through all of last winter, four names on that one tenancy are sharing the extra between them, and a fortnight a cook laid out of her own money is owed by nobody and will be owed by nobody at the end of this month.** The rooms off that service road are one thousand and fifty days, one hundred and fifty weeks to the day, four of them and one behind, and they are warm.
+
+The card in the rail along the front of that counter is one thousand and fifty-four days, one hundred and fifty weeks and four days, four days beyond the rooms, and the rail takes two.
+
+**The nineteenth line on two nails above that bench is seven hundred and forty-six days, one hundred and six weeks and four days. The ask is seven hundred and forty days, one hundred and five weeks and five days, and it has not been put to any other living person since the day it was put. The hold of the man of about thirty-three in another city is six hundred and eighty-three days, ninety-seven weeks and four days, and the man of about fifty-one at that north wall is six hundred and fifty-six days, ninety-three weeks and five days. Not one of those four is a day anything happened to the heating in this city, and the heating here is a closed matter and carries no days-off figure for it anywhere in this entry.**
+
+---
+
+**The row is four hundred and a bit doors long with the flats above them and a pumping station at the end of it, and about four hundred people live in it, and there is a board on the wall by the first door with the number of every household in the line on it in a hand that has been kept by about four people in turn for about four years.**
+
+The family that left is not struck off. Their number is still on that board, in its place, in the order the row is in, with a space under it where the line would be if the line went on under every number and there is nothing under this one.
+
+Somebody wrote over the number instead of taking it off. It is the same pen and a different hand and it can be read if you know the number.
+
+That is the whole of what a board says when a household leaves it.
+
+---
+
+He is about forty-four. He has a sheet and a pen on a string and he has one of nine jobs on that row, which is to walk it every other week at about six in the morning, knock at the houses of the people who are not getting up, count what is in four boxes at the ends, and bring the sheet back to a woman of about thirty-eight who keeps the pumping station at the end of the row and who puts it on the board.
+
+He had walked that row nine times since the spring and on the nine times he had gone along it and looked at the number and gone on, because the number was on the board and a number that is on the board is a household that is being counted, and the firm four days of bus travel away reads that sheet and sends stock on the strength of it in the spring.
+
+**On the Monday morning at about the ninth door he stopped.**
+
+The ninth door was the one at the end of the first block, the door with the washing on the line behind it, and the number of that house was the one with the writing over it, and about four days before, a household had handed back four things and asked to leave the arrangement entirely, and the request was correct and it was honoured, and the cost of it was said out loud by the people leaving and by nobody else.
+
+**He had a sheet with a line ruled on it for every number in the row, and the line for that house was ruled, and there was nothing to write in it that anybody in that town was going to act on.**
+
+So he stopped, and knocked, because the job said to knock, and the job had always said to knock, and he had never once in nine walks had a reason to stop at that door.
+
+Nobody came. He waited about four minutes. The washing moved a little on the line and nothing else did.
+
+He wrote, in the line ruled for that house, on the sheet: **knocked, nobody, no answer.** Then he stood in the street for a minute and a half and then he knocked again, and again nobody came, and he did not knock a third time because about four people live above that shop and it is six in the morning.
+
+He filled in the rest of the sheet. The four boxes at the ends were the same as the week before. Nine houses got nothing in the night and nine houses had a person in them. A woman of about sixty-one at the second block came to the door in a coat over her nightdress and told him her boiler had gone and she had not reported it because reporting it would take the number off the list for a week, and he wrote that down too and did not advise her about the boiler because he is not that person in that town.
+
+He got back to the station at about twenty past seven. The woman of about thirty-eight took the sheet, read the line about the ninth door, and read it again.
+
+**"You stopped,"** she said.
+
+**"I stopped."**
+
+**"In nine walks you never stopped."**
+
+**"I never had a number to knock on before,"** he said. **"That is not a thing to do with, that is just what the line was."**
+
+She wrote nothing in the box for that house. She put the sheet on the board with the rest and the number with the writing over it stayed where it was, and the space underneath it stayed where it was, and the board said nothing.
+
+**Nobody in that town was told about the eleven minutes and the four minutes and the minute and a half. Nobody thanked him, and he was owed nothing before he went out and he is owed nothing now, and the sheet is on the board and the board is the same board it was on the Monday before.**
+
+---
+
+**The sheet came down the road on the Friday before with a man of about thirty-three who was going that way anyway.**
+
+He drives for a firm. He has nine crates in his own yard that he cannot hand over and has not been able to hand over since the spring, and he drives four days up the road and four days back once a fortnight, and he was going to the second of the four towns on the Saturday regardless of what was in his hand.
+
+The sheet came into the shop in Lattice Ward on the Monday at about eleven, folded twice, with the fold going through the line about the ninth door.
+
+**Marek read it at the counter and put it down and did not do anything with it.**
+
+There was nothing in the world to do with it. The row was four days of bus travel away. The number was on a board in a town and a man of about forty-four had stood in a street at six in the morning and knocked twice on a door where a family had been until about four days ago, and the sheet said so, and the firm would read the same sheet in the spring, and the row would be counted either way, and the knocking would go on either way, and the only difference the sheet had made was that a man of about forty-four now knew something he had not known at the first door.
+
+**He did not write to the row about it. He had no carrier and about four hundred and fifty people in this city might have gone and none of them was asked, and the reason none of them was asked is the reason it has not been asked in every week of this year, and the reason is that a man who sends four towns four different sentences is a man the four towns come back to.**
+
+He put the sheet in the drawer under the bench with three other things, and the drawer was shut before it was shut, and it is not locked and it is not on anything and nothing has ever been written on it.
+
+---
+
+**What he noticed on the Monday evening, and told nobody, is that the number on that board was not erased, it was written over, and that the plate under it is the same plate and will be the same plate next spring.**
+
+A board that erases is a board that knows. A board that writes over is a board that has lost a line and has paper left, and the difference between those two things is about four days of bus travel and about four hundred and forty marks in a hand that has not changed in about four years, and he is on the wrong side of a window on that, and there is no arrangement of the world in which he is not.
+
+**What he wanted, on the Monday night, in four rooms with the heat on and about four people in them who were not asked anything, was to have been the man who knocked. Not the second knock. The first one, at about six, at a door with washing on a line behind it, with a sheet and a pen on a string and nothing to say and the saying of it being the whole of the job. He has been the person who gets asked for about eleven years and he has never once wanted the job. He wanted that one for a minute and a half, which is how long the man of about forty-four stood in that street, and then he let it go, because a man of forty-four in a street four days of bus travel away is the man at that door and a man of twenty-two in a room with the heat on is not, and cannot be, and the difference is not a matter of wanting.**
+
+**And the small thing he gave up on the Monday, which is on no form and which nobody asked for: the counter's job-number stamp had gone missing in the autumn and he had been writing the last three figures of each job number out by hand on eleven tickets a day since, and on the Monday he found the stamp under the paper roll where it had fallen in about October, and it worked, and he stamped nine of the eleven and then left the other two by hand because he had already written them and because doing them again would have meant crossing out a job number in front of a customer, and his fingers were black to the second knuckle by half past five and they were still black on the Tuesday morning.**
+
+Nobody thanked anybody. Nobody in that row thanked anybody and nobody in that shop thanked anybody and the shutter came down at about ten, and a shop on a Monday is a shop until about ten like any other night of the week.
+
+*594. Monday of week 218, at ten, and this entry is eleven dated jobs, eleven people through one counter, a folded sheet off a driver who was going that way anyway, nine doors walked at six in the morning by a man of about forty-four with a pen on a string, a knock at the ninth door twice and a third knock not given, a board on two nails with a number written over instead of struck off and a gap under it that says nothing, and nobody thanked at any point of it.*
+
+*Conditions and docket.* **Eleven jobs carried the Monday, every one of them with a date written on it, and eleven people came through that door with the last of them at about twenty to six. How the day was spent: the Lattice Ward bench until two, that counter from two until six, and four rooms off the service road from about half past six. Behind that counter, in the standing order: a bench, a cage with a man in it facing the wall, a roller shutter, a tool roll with one screwdriver in the fourth pocket, a wall list in its sleeve, a shelf of finished work, a rail holding two. Callers: eleven, of whom four were refused. Work: eleven, four declines, nothing escalated, nothing returned to anybody. Charge: ten pounds and then eleven, wrong on the day, left unsaid, unannounced, and said to nobody in that shop. Heat over the service road: on, above last winter's whole bill, four names on one tenancy splitting the difference, a cook's fortnight out of her own pocket and owed to nobody. Rooms off that road: one thousand and fifty days, one hundred and fifty weeks to the day, four rooms and one behind, warm. Rail card: one thousand and fifty-four days, one hundred and fifty weeks and four days, four days on from the room, rail of two. The two nails: twelfth, nine hundred and seventy; thirteenth, nine hundred and twenty-one; fourteenth, eight hundred and eighty-six; fifteenth, eight hundred and sixty-five; sixteenth, eight hundred and forty, one hundred and twenty weeks to the day; seventeenth, eight hundred and twenty-two; eighteenth, seven hundred and sixty-eight; **nineteenth, seven hundred and forty-six**. What went on the board that Monday: nothing added, nothing taken off, no twentieth line, and the number of the ninth door was written over rather than struck, with the space under it still empty. The post at the corridor end stood at five hundred and ninety-eight days, eighty-five weeks and three days, and the nine copied page fronts at six hundred and sixteen, eighty-eight weeks to the day, eight of nine still short of finished and the first disagreement in the fourth line still not found. The hold in another city: six hundred and eighty-three days, ninety-seven weeks and four days, with no stamp and no reference and nobody asked anything of him. The man of about fifty-one against the north wall: six hundred and fifty-six days, ninety-three weeks and five days, silent, owed a written thing nobody in this city has a place to set down. The ask: seven hundred and forty days, one hundred and five weeks and five days, put once and never put to another living person. The separation: four hundred and thirty days, sixty-one weeks and three days, and four days of bus travel each way that week did not shorten it by a minute. The book on the table in another district holds sixty-one lines and the open tin beside it holds seventy-three, and no count was announced on this day because a count belongs to a sitting and to nothing else. The woman of about thirty in the chair nearest that door was not asked anything, was not thanked, and was not apologised to, and her page is the eighth of eight in a ring binder and did not get read.**
+
+*Two knocks at a door with washing on the line behind it.* **Where: a row of four hundred and a bit doors with flats above and a pumping station at the end, at about six in the morning and again at about four minutes after, in weather. Who: a man of about forty-four with a sheet, a pen on a string, and one of nine jobs on that row, which is to walk it every other week, knock where nobody is getting up, count four boxes at the ends, and hand the sheet to a woman of about thirty-eight who keeps the station. What he had done nine times before and had not done once: stop at the ninth door. What he wrote in the ruled line for that house: that he knocked and nobody came and there was no answer. What he did not do: knock a third time, with about four people living above the shop and the hour being what it was. What came of it: nothing at all in that town, because the number stayed on the board in its place with a space under it, and the firm four days of bus travel away will read the same number in the spring, and the walking party will count the same row either way. Who was told: nobody in that town. Who was thanked: nobody, in that row or in the shop the sheet came to. Who wrote in the box for that house on the board: nobody, including the man who stopped. Who said the cost out loud: the man of about forty-four did not, and the woman of about thirty-eight read his line twice and said six words about it, and neither of them was thanked and neither of them is owed anything for stopping or for not stopping. Owner: a number written over, a space underneath, and about eleven minutes that nobody anywhere will be charged for.**
+
+*What the day did, and what it did not touch.* **A man of about forty-four stopped walking at the ninth door because the line on his sheet was ruled and he had nothing to put in it, and he knocked twice and wrote down that nobody came, and the whole of what that changed was inside one man.** Nobody thanked anybody on the Monday: not the four hundred and a bit households on that row, not the woman of about thirty-eight at the end of it, not the driver who brought the sheet four hundred miles on a road he was on anyway, and not the man who stopped. The shutter came down at about ten, and there is no Sunday on the Monday to be a different shape from. He taught nobody and demonstrated nothing and assessed nobody and assisted nobody, nobody put any of the four to him, and standing at a counter with a folded sheet in his hand is not one of the four. **The count of correct things that changed nothing, done by people owed nothing, is still two and this day does not make a third, because a man stopping at a door is not a correct thing carried out in about nine seconds, and it altered nothing anybody in that town could use, and he is owed nothing now in the way he was owed nothing before he set out.** The card in the rail is one thousand and fifty-four days old and stayed in the rail in a rail that takes two, neither turned nor lifted. A return card is a different object from it and no such card appears in this entry, and the two were not compared and could not be, having nothing in common but the word. The rooms are one thousand and fifty days and warm. That board still holds nineteen lines and its twentieth has never been begun. The drawer under that bench still holds three sheets and was not opened. Nobody has yet asked that man of about fifty-one by the north wall a question, and he has not been given a piece of paper. The woman of about thirty by the door was in the room at about half past eight and was spoken to by nobody, and the page that is hers is the eighth in a ring binder and nobody turned to it.

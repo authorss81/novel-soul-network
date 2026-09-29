@@ -1,0 +1,95 @@
+# Chapter 599 — A Monday On Which A Second Floor In Crown Terrace Was Used For A Third Time And About Nine People Came And A Man Of About Thirty-Three Who Has Been To Nine Places Since The Spring Said The Word Choir Out Loud Once And A Woman Of About Fifty-Two Who Chairs Nine Chairs Said Three Words Out Loud Once And Nobody Explained Them, And The Public Thing Was Named As Alive And Slower By About Nine Days
+
+**The Monday was a bench in Lattice Ward until about two, a counter until about six, a second floor in Crown Terrace from about four until about six, and four rooms off a service road from about half past six, and its shape was two names said once each and neither of them explained.**
+
+---
+
+Eleven jobs on the Monday, all eleven dated, eleven people through that counter, the last at about twenty past five. The bench until two, that counter two until six, the second floor in Crown Terrace from about four until about six, and then the four rooms off that service road from about half past six. **The heat in that flat is on and dearer than any week of last winter, four names on that one tenancy are carrying the difference between them, and a fortnight a cook laid out of her own money is owed by nobody and is going to be owed by nobody at the end of this month.** Those four rooms are one thousand and sixty-four days, one hundred and fifty-two weeks to the day, four of them and one behind, and they are warm.
+
+The card in the rail along the front of that counter is one thousand and sixty-eight days, one hundred and fifty-two weeks and four days, four days past the room, and the rail holds two.
+
+**The nineteenth line on the two nails above that bench is seven hundred and sixty days, one hundred and eight weeks and four days. The hold of the man of about thirty-three in another city is six hundred and ninety-seven days, ninety-nine weeks and four days, and the ask is seven hundred and fifty-four days, one hundred and seven weeks and five days, and the man of about fifty-one against that north wall is six hundred and seventy days, ninety-five weeks and five days. None of those four figures has anything whatever to do with that heating, and this entry attaches no days-off to it at any point.**
+
+---
+
+**The second floor in Crown Terrace has about nine chairs in it and a table and a window that faces the back of a building. It has been used for four years on Fridays, once on a Wednesday of this month, and on this Monday for the third time, and about nine people came, and one chair at the end of that table was empty and nobody said why.**
+
+He is about thirty-three and he drives for a firm and he has nine crates in a yard in a second district that he has not been able to hand over since the spring, and he has been to nine places since the spring with a pad of forms in a case on the bonnet of a van he does not own.
+
+**He put it in about nine seconds and he did not explain it afterwards and nobody in that room asked him to.**
+
+**"In nine places since the spring, four of them are the four towns, and in four of them somebody had already written a sentence in the same box on the back of the same form, and the four sentences were the same, and three of them were in hands I have never seen, and every one of the four people who wrote one of them believed they were the first."**
+
+**"That was in April,"** the man of about sixty-one with a clipboard said. **"You told that room."**
+
+**"I did. This month I have been to those four places again and each of them asked me a different question, and not one of them asked me anything I have been asked before, and nobody has shown me that box since April."**
+
+**"So it has stopped,"** a woman of about twenty-nine who types said.
+
+**"It has stopped travelling,"** he said. **"That is all I know. A habit nobody owns can be picked up by anybody, and it can also be put down by anybody, and four places asking four different questions is four hands letting go of the same thing on the same week without knowing they were holding it. I am not saying that is good. I am saying it is what happened to me and I am the only person in this room who has been to all four."**
+
+**"And where is it,"** the man of about thirty-one said. **"The thing that used to travel."**
+
+**"Here,"** the man of about thirty-three said. **"In this city. In about four rooms and not in the four towns. That is where the shape lives when four towns stop using it, because the shape was never in the four towns. The shape was here, and four towns picked it up because it was free and because it worked, and about four people in this city are still using it on each other and there is nowhere else for it to go now."**
+
+**"That is the Choir,"** he said, and then he stopped, and looked at the table, and said: **"That is what I call it. I have never asked anybody what it is and I am not going to now."**
+
+Nobody in that room explained it to him. Nobody in that room said the word again.
+
+---
+
+**The woman of about fifty-two who chairs nine chairs came in at about ten past four and sat down and did not have a sheet put in front of her and did not need one.**
+
+She is on nothing else. She chairs about nine chairs for a body of about nine and about a hundred and forty, she is not a member, she is not paid, and she is the only person in that room entitled to say the two things that got said on that floor, and the second of them had not been said anywhere until that evening.
+
+There is a hall in this district. Underneath it there are rooms, and the rooms go down, and this is not a secret and it is not discussed, and there is a woman of about thirty-one who keeps a public reading room in a building four streets away who has swept it at about six for about four years and who has never been asked about it by anybody in that room.
+
+**"It is going back to the vault,"** the woman of about fifty-two said.
+
+Nobody said anything. A window was doing what windows do.
+
+**"About four of us have been handing that shape to each other since the spring, and about five of you have received it without being told what it was, and I am not going to explain it, and if anybody explains it afterwards I will say out loud that they have not the office to, and I have said that before."**
+
+**"Say the name, then,"** the man of about thirty-one said, **"since you are going to make us all carry it."**
+
+**"Crown Vault."**
+
+**That is the whole of it. Three words, in a face, at about ten past five on a Monday, into a room of about nine people and one empty chair. Nobody in that room said a word for about four seconds. Nobody explained it. The man of about thirty-one, who had asked for it, did not know what it was and said so afterwards, in about two seconds, and nobody told him, including the woman who had said it.**
+
+About four people in that room had known what it was. About five had not. **The five did not ask, and the reason the five did not ask is that the five had worked out in about four days that asking is how a person is told, out loud, in a room, that they have not the office to.**
+
+**"What is in it,"** the man of about thirty-one said.
+
+**"No,"** she said.
+
+**"You have said the name and you will not say what is in it."**
+
+**"I have said the name once and I am not going to say it a second time, and I am not going to say what is in it, and you did not ask me what is in it, you asked me what is in it after I had already said you would not get an answer to that, and both of those are the same sentence and you have had about nine seconds of it."**
+
+She did not say anything else about it. There is a woman in this city who could say more about that vault than anyone in that room and she is not in that room and she was not asked and she did not come and nobody has said her name in that room this month or last.
+
+---
+
+**The last thing said in that room on the Monday was a set of figures, and the figures were said by the same woman, and she said them because somebody had written them on the sheet and she was reading the sheet out and would not skip a line.**
+
+**"The public arrangement is alive and it is slower and about four hundred households have said no to being in it. Nine more days on a thing that took four in the spring. That is the whole of what has been decided since the spring and none of it was decided by me and I am not going to pretend it was."**
+
+The man of about thirty-three said: **"Nine more days on four hundred and sixteen households in a town four days of bus travel away is not a number. That is a spring."**
+
+**"It is a spring,"** she said, **"and about four hundred of them are still getting their heat, and the nine days is the price of the four hundred, and about nine people in this city can put an objection to that somewhere and not one of them has anywhere to put it, and I am not the person who has anywhere to put it and I have not pretended to be for about four years."**
+
+**What he noticed on the Monday evening, and told nobody, is that about four people in that room had known what those three words meant and about five had not, and that the four did not look at the five and the five did not look at the four, and that in about four years this is a thing that will have happened in every room in this city and nobody will be able to find the week it started.**
+
+**What he wanted, on the Monday night, in four rooms off a service road with the heat on and about four people in them who were not asked anything, was to have asked one question in that room — not the one the man of about thirty-one asked, and not the one anybody else asked, but the one he had been carrying since the spring: what is under that hall, and who has been going down there, and in what month. He wanted it in about nine seconds. He had about nine seconds available twice on that Monday and he used both of them on other things and he went home without asking, and the reason he did not ask is the reason he has never asked anybody anything in that room, which is that a man of twenty-two who asks a question in a room of nine gets the answer in a voice and the answer is for him, and about four hundred people four days of bus travel away have never once been told a thing in that voice.**
+
+**And the small thing he gave up on the Monday, which is on no form and which two people saw: one chair at the end of that table was empty and he kept the chair beside it back for a person who did not come, twice, moving it a foot out from the table at about four o'clock and putting it back at about ten to six where it had been, and a woman of about twenty-nine who types and the man of about thirty-three with the crates both saw him do it, and neither of them said one word about it then or afterwards, and one of them has mentioned it to nobody and the other has mentioned it to herself once.**
+
+Nobody thanked anybody, on that floor or at that counter, and the shutter came down at about ten, and a Monday is a Monday and there is no shop in this city that opens on a Sunday.
+
+*602. Monday of week 220, at ten, and this entry is eleven dated jobs and eleven callers, a second floor in Crown Terrace used for a third time with about nine people in it and one empty chair, a man of about thirty-three saying in about nine seconds that four towns have let go of a shape in the same week, the word Choir said once by him and not explained, a woman of about fifty-two who chairs nine chairs saying that it is going back to the vault, three words said once into a room, nobody explaining them, a man of about thirty-one not knowing what they are and saying so, no one saying what is in it, four hundred households out of the public arrangement and nine more days on a thing that took four, a chair kept back and put back and seen by two people who have said nothing about it, and nobody thanked at any point in it.*
+
+*Conditions and docket.* **The Monday carried eleven jobs, a date written against each, and eleven people through that door, the last at about twenty past five.** The day: the bench in Lattice Ward until two, the counter two until six, the second floor in Crown Terrace four until six, four rooms off that service road from about half past six. Behind the counter and in its order: a bench, a cage with a man in it turned to the wall, a roller shutter, a tool roll with a screwdriver in the fourth pocket, a wall list in a sleeve, a shelf of finished work, a rail holding two. Callers: eleven. Refusals: four. Work: eleven, four declines, nothing escalated, nothing handed on. Charges: eleven pounds, out by a pound, not said, said to nobody. The heating in the flat: on, dearer than any week of last winter, four names on one tenancy dividing it, a fortnight of a cook's own wages owed by nobody and remaining owed. The rooms: one thousand and sixty-four days, one hundred and fifty-two weeks to the day, four and one behind, warm. Rail card: one thousand and sixty-eight days, one hundred and fifty-two weeks and four days, four days beyond the rooms, rail of two. The board on two nails: twelfth, nine hundred and eighty-four; thirteenth, nine hundred and thirty-five; fourteenth, nine hundred, one hundred and twenty-eight weeks and four days; fifteenth, eight hundred and seventy-nine; sixteenth, eight hundred and fifty-four, one hundred and twenty-two weeks to the day; seventeenth, eight hundred and thirty-six; eighteenth, seven hundred and eighty-two; **nineteenth, seven hundred and sixty, one hundred and eight weeks and four days**. Added to that board: nothing, and the twentieth line is not begun. The post at the corridor end: six hundred and twelve days, eighty-seven weeks and three days. The nine hand copies of the front of a page: six hundred and thirty days, ninety weeks to the day, eight of the nine unfinished and the first disagreement in the fourth line not found. The hold in another city: six hundred and ninety-seven days, ninety-nine weeks and four days, no stamp, no reference, nothing asked of him. The man of about fifty-one at the north wall: six hundred and seventy days, ninety-five weeks and five days, and nothing has been put in front of him and he has not asked. The ask: seven hundred and fifty-four days, one hundred and seven weeks and five days, made once and not since put to a living person. Separation: four hundred and forty-four days, sixty-three weeks and three days, four days of bus travel in each direction this week having shortened it by nothing. The book in the room above a line in another district: sixty-one lines, the tin beside it seventy-three, and this Monday was not a sitting and no count was given, a count being for sittings only. The woman of about thirty nearest that service-road door: not asked, not thanked, not apologised to, her page the eighth of eight in a ring binder, not read.*
+
+*Three words said once, as a record of ten past five on a Monday.* **Where: a second floor in Crown Terrace, about nine chairs, a table, a window facing the back of a building, used for four years on Fridays, once on a Wednesday of this month, and on this Monday for the third time. Who said it: a woman of about fifty-two who chairs about nine chairs, sits on nothing else, is not paid, and is the only person in that room entitled to say it. What she said first, in about nine seconds: that it is going back to the vault, and that about four people in that room have been handing a shape to each other since the spring and about five have received it without being told what it was, and that she is not going to explain it, and that if anybody explains it afterwards she will say out loud that they have not the office to, as she has said before. Who made her say the name: a man of about thirty-one, who said, in about two seconds afterwards, that he did not know what it was. The name: three words, said once. What was said about what is inside: nothing, and the woman who said the name refused that question as a second question rather than a first one, and was correct to. Who in that room already knew: about four. Who did not: about five, and the five did not ask, having worked out that asking is how a person is told they have not the office to. Who explained it afterwards: nobody, and the woman said she would name anyone who did. What the room was also given, in figures, read off a sheet without skipping a line: the public arrangement is alive and slower, about four hundred households are out of it, and it takes nine more days than it took four in the spring, which a man of about thirty-three said out loud is not a number and is a spring, and the woman who read it agreed with him and named the price as four hundred households still heated against nine days, and said she is not the person who has anywhere to put an objection to it and has not pretended to be for about four years. Who thanked anybody: nobody. Owner: three words said once, a hall with rooms under it, a shape with nowhere left to travel, and about four hundred households out of a thing.**
+
+*What the day did, and what it did not touch.* **A shape that had been travelling to four towns for about four months was let go by four towns in one week without anybody deciding to let go of it, a man of about thirty-three said what he called it out loud once, and a woman entitled to speak a name said that name once, and nobody explained either of them, and the public arrangement is still alive and is nine days slower than it was in the spring.** Nobody thanked anybody on that floor or at that counter, the shutter came down at about ten, and this entry has no Sunday in it. He taught nobody, demonstrated to nobody, assessed nobody and assisted nobody, and none of the four was asked of him. **The register of correct acts that changed nothing, done by people owed nothing, is unmoved at two, a clipboard on a nail inside a cold-store door in the first of the four towns and four torn pieces of the same list in a coat pocket at that town's gate, both the work of one woman of about fifty-two; a room letting go of a shape without deciding to is not a third instance, because it was four days and not nine seconds, it changed nothing for any household that week, and the people it did change things for are owed nothing and have not said they are.** The rail card is one thousand and sixty-eight days, in the rail all day in a rail of two, and a return card with two boxes and a metal clip is a different object and was not present. The rooms are one thousand and sixty-four days and warm. Nineteen lines on two nails and no twentieth. The drawer is shut with three sheets in it. The man of about fifty-one at the wall has still not been given a written thing. The page belonging to the woman of about thirty is the eighth of eight and was not turned to, and nobody thanked her and nobody apologised to her.
