@@ -26,7 +26,7 @@ Four of those rooms are one thousand one hundred and forty-one days, a hundred a
 
 "I've asked eight."
 
-"You've asked eight and one of the eight is a cold room in a town and the other seven are within about four miles of where you're standing." He shut the back door. **"I've been counting that list since the Friday. Nine is not a route. Nine is a man with a van and nine stops, and you're on about it, and I'm the route, and I've been the route for about nine years and I don't want anything said about me at all.**"
+"You've asked eight and one of the eight is a cold room in a town and the other seven are about a bus ride from where you're standing." He shut the back door. **"I've been counting that list since the Friday. Nine is not a route. Nine is a man with a van and nine stops, and you're on about it, and I'm the route, and I've been the route for about nine years and I don't want anything said about me at all.**"
 
 ---
 
