@@ -1,0 +1,89 @@
+# Chapter 611 — A Monday, A Stair In A Second District, A Shelf That Was Re-Papered In The Spring And Would Not Take A Tray Back Onto It, Four Steel Trays Coming Down One At A Time Past A Man Who Was Not Allowed To Carry Any Of Them, And The Oldest Thing On A Table Being About Four Years Old
+
+**The Monday was a bench until two, a counter until about six, four rooms off that service road from about half past six, and a landing in a second district in between, and its shape was four trays coming down a stair one at a time and a sheet of paper with a date on it that is older than anybody in that building.**
+
+---
+
+Eleven jobs on the Monday, every one of them carrying a date of its own, and eleven people over that counter, the last of them let in at about ten past five. Two hours at the bench, the long middle at the counter, and the service road after that. **The heat in that flat is set above where it is set in the winter, four names on the single tenancy are carrying the difference between the two settings, and a fortnight of her own money that a cook put in during the spring is still owed to nobody.** Those four rooms are one thousand and ninety-two days, a hundred and fifty-six weeks to the day, four of them with a fifth behind them, and they are warm.
+
+The card in the rail along the front of that counter is one thousand and ninety-six days, a hundred and fifty-six weeks and four days, four days past the room, and the rail holds two and has held two on every day of this week.
+
+**The nineteenth line on the two nails above that bench is seven hundred and eighty-eight days, a hundred and twelve weeks and four days, and the man of about fifty-one against that north wall is six hundred and ninety-eight days, ninety-nine weeks and five days. The first of those two is a line on a board and the second of them is a person, and neither of them is a day on which anything at all happened to the heating in this city, and this entry keeps on refusing to keep days for that heating and the refusal is not a rule and is not going to become one.**
+
+---
+
+He went up that stair at about half past four on the Monday, and the woman of about thirty-four let him go with about four words, and one of them was *go* and one of them was *on*, and she did not ask him what for and he did not tell her.
+
+The stair is not a good stair. On the half-landing there is a door with a pad on it and a pen on a string, and the pen has no ink in it and has not had ink in it since before anybody could remember.
+
+**The landing was different and the difference was paper.** The shelves on the wall have been covered in new brown paper at some point in the spring, tacked at the edges, and the paper has lifted at one corner near the window and has lifted badly enough that a tray standing on it slides about four millimetres every time somebody walks past. Gwen Ashby had been dealing with that. She had the fourth tray turned up on its side on the floor and she was about to take all four of them off the shelf, and she had done it because the paper is not going to be re-tacked and the only way to keep four trays flat on a shelf is to have a shelf you can lift things off.
+
+---
+
+**"I'll take them down."**
+
+**"No."**
+
+**"There's four of them."**
+
+**"I know how many of them there are."** She turned the second one up on its side against the wall, which takes about four seconds. **"You can carry two. That's not the question. The first one goes down with me on it, and after that there's a man in my stair on a Monday afternoon, and after that the one who brings the bag up here has a thing to say to me about it, and he will say it kindly, and then it is a thing that happens in this building instead of a thing that happens to me."**
+
+He said that was a reason and not a politeness, because it was a reason, and she did not thank him for saying so and would not have known what to do with it.
+
+**He stood with his back against the wall by the window and let four trays go down a stair one at a time past him, and he could have carried two at a time, and the cost of that was about nine minutes of standing on a landing doing nothing on a Monday, and nobody in that building was going to know that he had done it and he was not going to tell anybody.**
+
+---
+
+She emptied them onto the table by the window, all four, and the table is a table for two and there were four trays on it. **He did not count the sheets, and the not-counting was the correct thing to do and it also took about four seconds off him that he did not have, because the number of sheets in four trays is the number this whole business wants and it is hers and nobody has asked her and nobody was going to ask her on a Monday.**
+
+She went through them the way a person goes through a box of small things that are all familiar. Not-yet-due went into a stack on the left. Room-not-there went into a stack in the middle. The organisation ones she folded in half and put aside, and there were not many of them, and she did not say how many.
+
+Then she came to a sheet in the bottom of the fourth tray and stopped, and did not pick it up for about two seconds, and then picked it up and put it on the table apart from the others.
+
+---
+
+**"What's that one."**
+
+**"It's a return."**
+
+**"What's the date on it."**
+
+**"Nineteen months ago,"** she said, and then corrected herself, in the same breath, without being asked to. **"No. That is not the date on it. That is a date I wrote on it when I put it in the tray. The date on it is a different date and the date on it is about four years and it is not mine and it is not this building's."**
+
+He looked at it. It is a sheet about the size of a docket, and it has been folded twice and unfolded once and folded again, and the folds have gone white along the crease and the ink on the crease is gone to nothing and the ink in the flat middle of it is still there.
+
+**"Whose hand is that."**
+
+**"It came in a bag."**
+
+**"Somebody put that hand on that paper."**
+
+**"Yes,"** she said, **"and I have been in this room four days a week since the spring and I have not seen it before today, and I want to be exact with you, because you are going to ask me the next thing and I would rather you had this first: I did not recognise it, and not recognising a hand is not the same as there being nobody."**
+
+---
+
+He wanted to be the person she told things to. He has been the person rooms tell things to for about thirteen volumes and a man of about thirty-four at a counter has told him twice this month that four people have come to that shop ahead of him and wanted exactly what he wants. **On the Monday he was on a landing with a woman of about sixty-eight and a table with four trays on it and no form between them of any kind, and he wanted it, and he did not say it, and what he said instead was the next question, and the next question was the correct one and the correct one got him the same amount as the wrong one would have.**
+
+**What he wanted to ask was how many. What he asked was the date. And the reason he asked the date is that she would have told him the date, and she would not have told him the number, and he did not want to be a man who had asked the number.**
+
+---
+
+**The small thing he gave up, and it is on no form and about two people in that building noticed it and neither of them said anything: she put the four empty trays under the table upside down to keep the damp off them and he did not pick them up. There were four of them, and he was the one standing nearest, and he had been in that room for the best part of an hour, and he did not pick them up because a man who picks up a woman's four trays on the day he has been told not to carry one of them has not heard the instruction and would have to be told twice.**
+
+---
+
+**The four rooms off that service road, from about half past six. The man of about fifty-one was against that north wall with a newspaper folded the way he folds it, and nobody has put a written thing in his hands at any point in ten days and nobody has asked him for one. A woman of about thirty was in the chair nearest the door for the whole evening. She was not addressed, she was not asked anything, nobody has ever said sorry to her for any part of it, and the page that has her name at the top of it is the eighth of eight in a ring binder on a shelf, and the binder was shut when he left and had been shut all evening and was not opened in her presence.**
+
+**The tally of things done correctly that turned out to have changed nothing is still two, and this Monday did not put a third one on it.** Four trays came down a shelf because a shelf was covered in new paper and the paper had lifted, and four trays went back up when the woman of about sixty-eight had finished with them, and that is housekeeping, and a person who has been doing a job for about four months without being asked to do anything different has not done an act and has continued one. **The two that are on it are the two that have been on it for about four years, and both of them are the same woman of about fifty-two in the first of the four towns, and she is not improved on by anything that happened on a landing in a second district this afternoon.**
+
+No one at that counter said thank you to anybody on the Monday and the roller shutter came down at about ten the way it comes down on a working evening, and there is no Sunday inside this week and this shop does not trade on one.
+
+**What is underneath all this is a shape and a set of figures rather than anything a person did, and it is written out once.** The man of twenty-two can do, on this eleventh day, exactly what he could do on the first page of the first week, and nothing has been added to him and nothing has been taken off him, and a man who is told not to carry a tray has not become anybody. The card in the rail is one thousand and ninety-six days in a rail that holds two and it did not move on the Monday. Two nails, nineteen lines, and no twentieth has ever been started. **The nine hand copies of the front of a page on a shelf at the far end of that shop are six hundred and fifty-eight days, ninety-four weeks to the day, eight of the nine still unfinished, the first disagreement down in the fourth line still not found, and nobody put two of them side by side with another on this Monday or on any other day this week.** The post at the end of a corridor is six hundred and forty days, ninety-one weeks and three days. The separation is four hundred and seventy-two days, sixty-seven weeks and three days, and it is not shorter, and it was ended in a box in a form three weeks ago, and the number above does not know that and is not going to be told. The drawer under that bench is shut and has four sheets in it and was not opened. Those four words that name the public body are on no page of this one. A sheet that is a form with a blank on it and a sheet that has a date on it that is about four years old and a card in a rail are three different objects and no line on this page joins any two of them. Under a floor in the first of the four towns there is a plate of iron with four slots, and the Monday did not lift it and nobody has given it a name.
+
+*614. Monday of week 224, at ten, and this entry is a bench until two, that counter from two until about six, the four service-road rooms after about half past six, and a landing in a second district at about half past four in between, eleven jobs each with a date on it and eleven customers, the last of them at about ten past five, a shelf covered in new paper in the spring with a corner lifted, four trays taken off it and carried down one at a time by one person, one offer refused in about nine seconds with a reason that is not a politeness, about nine minutes of standing still, one sheet put apart from the others because the date on it is not hers, and nobody thanked at any point in it.*
+
+*Conditions and docket.* **The Monday's sheet carried eleven jobs with a date against each and eleven names over the counter, and the shop was clear of callers for the last time at about ten past five.** The order of the day: bench, counter, service road, with one hour at about half past four taken out of the middle of the counter. Behind that counter, in an order nobody in about four years has disturbed: a bench; a cage with a man in it and his face to the wall; the roller shutter; a tool roll; a wall list inside a sleeve; a shelf where jobs wait to be collected; a rail with room for two. Callers: eleven. Refusals: three. Work: eleven, three declines, nothing escalated, nothing handed back. Charge: nine pounds, and a pound out for a screw that was not on the ticket and was not said out loud. The heating in that flat: above the winter's setting, four names covering the extra, a fortnight of a cook's own money still owed to nobody. The rooms: one thousand and ninety-two days, a hundred and fifty-six weeks to the day, four of them and one behind, warm. Rail card: one thousand and ninety-six days, a hundred and fifty-six weeks and four days, four days past the room, rail of two. The board on two nails: twelfth, one thousand and twelve; thirteenth, nine hundred and sixty-three; fourteenth, nine hundred and twenty-eight; fifteenth, nine hundred and seven; sixteenth, eight hundred and eighty-two; seventeenth, eight hundred and sixty-four; eighteenth, eight hundred and ten; **nineteenth, seven hundred and eighty-eight, a hundred and twelve weeks and four days**. Added to that board: nothing, ever. The post at the corridor end: six hundred and forty days, ninety-one weeks and three days. The nine hand copies: six hundred and fifty-eight days, ninety-four weeks to the day, eight of nine unfinished, the first disagreement in the fourth line not found, no two compared. The hold in another city: seven hundred and twenty-five days, a hundred and three weeks and four days. The man of about fifty-one at the wall: six hundred and ninety-eight days, ninety-nine weeks and five days. The ask: seven hundred and eighty-two days, a hundred and eleven weeks and five days. The separation: four hundred and seventy-two days, sixty-seven weeks and three days, ended, and walked. The number of sheets in four trays: not taken, not asked for, and not the property of anybody but the woman who owns the trays. The book: sixty-one lines. The tin: seventy-three. The count announced four weeks ago: forty-nine of which forty-four correspond, and that figure is not printed as a standing one here because a count is announced at a sitting and on no other day, and there is no sitting on the Monday.
+
+*Four trays, one refusal, and a date that is about four years old.* **The room held two people and a man with a bag was on the step at the bottom of the stair with the bag still on it, and it was not collected until the Tuesday.** What moved the four trays off the wall: brown paper laid on the shelves in the spring and tacked at the edges, with a corner lifted enough to let a tray walk about four millimetres every time a person went past. What was offered at about half past four by a man of about twenty-two, and what it cost him: that he would take them down; the answer, in about nine seconds, that the first one has to go down with her on it, and after that there is a man in her stair on a Monday afternoon, and after that the man with the bag has something to say to her about it, and he will say it kindly, and then it is a thing that happens in that building rather than a thing that happens to her. What he did instead: stood against the window for about nine minutes and let them go past one at a time, and did not pick the four empty trays up off the floor afterwards when he was the one standing nearest them. What came off the bottom of the fourth tray: a single sheet, folded twice and unfolded once and folded again, ink gone on the creases and not gone in the flat middle of it. What was on it: a date about four years old, belonging neither to that room nor to that building. What she said about the hand, unasked and at greater length than she says anything: that she has been in that room four days a week since the spring, that she did not recognise it, and that not recognising a hand is not the same as there being nobody. What he asked instead of the question he wanted: the date. What he wanted: to be the person she tells things to. Nobody was thanked, at that counter, on that landing, or in four rooms off a service road, and the woman of about thirty-four was not thanked either and would not have known what to do with it.*
+
+*What the day did, and what it did not touch.* **Four trays came off a shelf and went back onto it, and a man of twenty-two stood on a landing for about nine minutes doing nothing because he had been told not to help and heard it.** Nobody thanked anybody. Nobody was taught, shown, assessed or helped by anybody at any point in the week this day sits in. The tally of correct acts with no consequence stays where it is, at two, and housekeeping is not an act and a person who has continued a job is not a person who has done one. A return sheet, a card in a rail, a form with an empty box on it and a plate of iron with four slots in it are four different objects, and no sentence in this file puts any two of them next to each other. That drawer is shut, four sheets in it, and the fourth of the four has never been read. Sixty-one lines in that book and seventy-three in that tin, and neither of them was opened, and the count that was announced four weeks ago is not carried here because a count is announced at a sitting and this day carried none. The four words that name the public body are in none of these pages, and neither is the number of returns in four trays, and neither is a room below a pavement, which does not exist yet on any day this entry reaches.*
