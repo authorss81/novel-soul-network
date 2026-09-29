@@ -96,17 +96,17 @@ A woman of about twenty-five came in at about a quarter to six with the job tick
 
 She said that, and he said right, and she said that she would keep the ticket and that she was not angry and that she had been saying the same thing to about four people for about two years, and one of the four was herself, and then she said the thing she had come to say.
 
-**"I have been offered a second thing. Same room, same company, same form, and about nine people from that office have asked me three times in a fortnight whether I would sign it and I have said no three times and on the third time one of them said, in a corridor, that I am making it difficult for people who have a job.*."**
+**"I have been offered a second thing. Same room, same company, same form, and about nine people from that office have asked me three times in a fortnight whether I would sign it and I have said no three times and on the third time one of them said, in a corridor, that I am making it difficult for people who have a job."**
 
 **"Did you say anything."**
 
-**"I said that making it difficult is the whole of what I am for and that I would like that in writing.*."**
+**"I said that making it difficult is the whole of what I am for and that I would like that in writing."**
 
 **"Did you ask for it in writing."**
 
-**"I did and she said she would put it in a folder.*."**
+**"I did and she said she would put it in a folder."**
 
-**"Then that is a yes to a folder and not to a piece of paper, and a folder goes in a drawer and the drawer is emptied on a Friday.*."**
+**"Then that is a yes to a folder and not to a piece of paper, and a folder goes in a drawer and the drawer is emptied on a Friday."**
 
 **"I know. I have been doing this for about two years and I know what a folder is and I said it anyway, because what else is there."**
 

@@ -70,11 +70,11 @@ A man of about twenty-nine who works on lifts came in at about half past four an
 
 **"Is that worth saying."**
 
-**"It is worth saying to the man on the counter and to nobody else, and you are the man on the counter, and I have not told the room and I am not going to, and you will not either, because a room of about eleven people does not need to hear that a man was up at half past six.*."**
+**"It is worth saying to the man on the counter and to nobody else, and you are the man on the counter, and I have not told the room and I am not going to, and you will not either, because a room of about eleven people does not need to hear that a man was up at half past six."**
 
 **"Then I will not."**
 
-**"You will not. And in about four days it will not matter, because in about four days the man of about thirty-seven is going to say seven days to a man from a firm, and that is the thing that survives this week, and a man being awake at half past six is not a thing anybody should carry four days on a bus.*."**
+**"You will not. And in about four days it will not matter, because in about four days the man of about thirty-seven is going to say seven days to a man from a firm, and that is the thing that survives this week, and a man being awake at half past six is not a thing anybody should carry four days on a bus."**
 
 About eleven people went through that door between two and about half past five and the room took nine and about five of the eleven were on the pavement, and about four of the five were told what the room would not do, in about four seconds each, by a woman who can read her own door and nobody else's.
 

@@ -94,11 +94,11 @@ A woman of about thirty-four who reads meters and works nights came in at about 
 
 **"Then ask me about the sheets."**
 
-**"I asked whether he was all right, and he is a man of about fifty-eight who liked a job and said so in front of about fourteen people, and that is the first thing anybody has said about him in this city in about four years that was not a small question, and I am not going to be the person who makes it one.*."**
+**"I asked whether he was all right, and he is a man of about fifty-eight who liked a job and said so in front of about fourteen people, and that is the first thing anybody has said about him in this city in about four years that was not a small question, and I am not going to be the person who makes it one."**
 
 **"That is the second time this month somebody has done that for him."**
 
-**"It is and I have not decided whether it is kind.*."**
+**"It is and I have not decided whether it is kind."**
 
 The first of the four was a man of about forty-four who wanted to know what the room off a wide road would do with a form of his own, and had heard about it from a woman of about fifty-eight who had been in a town four days of bus travel away and had come back with a different story, and he had a piece of paper in his hand about the size of a postcard with a box at the foot of it.
 
