@@ -4,19 +4,19 @@
 
 ---
 
-Eleven jobs stood dated on the Friday and eleven people came over that counter, the last of them let in at half past five.. The shutter came down at ten and the cage shook, and nobody in that street has ever reported it.
+Eleven jobs stood dated on the Friday and eleven people came over that counter, the last of them let in at half past five. The shutter came down at ten and the cage shook, and that had happened about ten times in a fortnight.
 
 **Seven hundred days is the separation, one hundred weeks to the day, and what sits in the post at the end of a corridor has been there eight hundred and sixty-eight days, one hundred and twenty-four weeks to the day, and neither of those two figures describes anything anybody in this city can point at.**
 
 ---
 
-**The room is on the first floor above a shop in a second district, and it has a counter at the end of it and about nine chairs along one wall and a boiler underneath it, and the boiler is why Marek was under that building at half past two on a Friday.**
+**The room is on the first floor above a shop in a second district, and it has a counter at the end of it and about nine chairs along one wall and a boiler underneath it, and the boiler is why Marek was in the cellar of that shop at half past two on a Friday.**
 
-He had the front off. There was a second thermostat wired to the first one, which somebody had done in about the spring, and both of them were live, and the one that was live first was the one that was wrong.
+He had the front of the boiler off. There was a second thermostat wired to the first one, which somebody had done in about the spring, and both of them were live, and the one that was live first was the one that was wrong.
 
 He was in about nine minutes and out in about eleven and the woman who kept the room came down the stairs twice while he was there, once for a torch and once because she had heard a noise.
 
-**She is about thirty-one. She has kept that counter open until six for about six years, and a great many people have come through that door in that time, and the room has no name on the outside of it and no sign, and it takes no money and has never taken money.**
+**She is about thirty-one. She has kept that counter open until six for about six years, and about four hundred people have come through that door in that time, and the room has no name on the outside of it and no sign, and it takes no money and has never taken money.**
 
 ---
 
@@ -56,7 +56,7 @@ She said no in about nine seconds. The word was the second thing she said. The f
 
 ---
 
-**Marek came up out of the cellar at about twenty past three, on his knees with the plate still in his hand, and asked a question about the second thermostat, because it was a real question and there was a real answer to it, and the woman of about thirty-one told him, in about nine seconds, that whoever wired the second one to the first one had been trying to make a boiler come on twice instead of once, and that it worked, and that it cost her more in gas than it had ever saved.**
+**Marek came up out of the cellar at about twenty past three, on his knees with the front of the boiler still in his hand, and asked a question about the second thermostat, because it was a real question and there was a real answer to it, and the woman of about thirty-one told him, in about nine seconds, that whoever wired the second one to the first one had been trying to make a boiler come on twice instead of once, and that it worked, and that it cost her more in gas than it had ever saved.**
 
 "**Who did it.**"
 
@@ -68,9 +68,9 @@ She said no in about nine seconds. The word was the second thing she said. The f
 
 ---
 
-**The rest of the Friday ran. Eleven jobs and eleven names, the last at half past five, and a woman of about forty-five brought a lamp in a carrier and was told in four seconds that the carrier was not the lamp and bought a switch and has not been back, and a man of about thirty-three brought a lamp in a carrier and put it on the counter and paid for it and carried it out again and has not been back.**
+**The rest of the Friday ran. Eleven jobs and eleven names, the last at half past five, and a woman of about forty-five brought a pendant in a carrier and was told in four seconds that the pendant in the carrier was not on the circuit she wanted and bought a switch and has not been back, and a man of about thirty-three brought a lamp in a box and put it on the counter and paid for it and carried it out again and has not been back.**
 
-There were four people in four rooms off that service road and one behind the three between about half past six and ten, and one of them was not one of the four. She is about thirty, the chair the door is behind is hers, and the eighth of eight pages has lain in a ring binder on a back shelf for a hundred and nineteen days. It did not come out that Friday and there is nobody entitled to take it out of the binder in her presence or out of it, and nobody in this city has apologised to her in any form.
+There were four people in four rooms off that service road and one behind the three between about half past six and ten, and one of them was not one of the four. She is about thirty, the chair the door is behind is hers, and the eighth of eight pages has lain in a ring binder on a back shelf for a hundred and nineteen days. It did not come out that Friday and nobody in that building said a word to her for three and a half hours, and nobody has apologised to her in any form and nobody ever will.
 
 ---
 
@@ -90,11 +90,11 @@ Eleven dated jobs went out and eleven came in, the shutter came down at ten, and
 *715.
 Friday of week 256, at ten, and the seventeenth day of this stretch of days.
 Eleven names on the book and eleven dated jobs, the last name taken at half past five.
-A first-floor room above a shop in a second district with a counter at the end of it, about nine chairs along one wall and a boiler underneath, kept open until six for about six years by a woman of about thirty-one, taken in on a great many people in that time, unnamed and unsigned and taking no money.
+A first-floor room above a shop in a second district with a counter at the end of it, about nine chairs along one wall and a boiler underneath, kept open until six for about six years by a woman of about thirty-one, taken in on about four hundred people in that time, unnamed and unsigned and taking no money.
 A woman of about thirty-eight asked her at about ten past three to stop using the last approved sequence for the last hour of that room's day, on the ground that about nine rooms on that street had already agreed to it. She said no in about nine seconds and gave a reason in about nine seconds, and the reason was that a man of about sixty comes at six and only at six and finishes work at five, and that if the counter is shut at six he stands in a cold stair, and that the man who owns the floor has a key and does not come up for a man in a stair.
 She stopped. The counter came off the sequence at six on the Monday and stayed off it for the rest of the fortnight. Two people were put on that door instead of one from the Monday, at the room's own cost, and the second one was a woman of about twenty-two. Nobody thanked her, nobody praised her, and nobody said that anything had changed, and nobody said the word a second time, and the woman of about thirty-eight did not come back on the Monday because it was already done.
 A second thermostat was wired to a first one in the spring and both were live and it worked and it cost more in gas than it saved, and the man of twenty-two who found it was under the floor at the other end of the room and was asked a question about it and answered it and said nothing about the nine seconds.
-The charge for the Friday was nineteen pounds, exact. A man of about thirty-three brought a lamp in a carrier and paid for it and carried it out again.
+The charge for the Friday was nineteen pounds, exact. A man of about thirty-three brought a lamp in a box and paid for it and carried it out again.
 Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
 *Conditions and docket.* **Callers on that Friday: eleven, against eleven dated jobs, the last of them admitted at half past five. About an hour of it were a first floor in a second district and about twenty-two minutes of that were a cellar.
@@ -115,8 +115,8 @@ The hardboard's fourteenth: one thousand one hundred and fifty-six days, one hun
 The hardboard's nineteenth: one thousand and sixteen days, one hundred and forty-five weeks and one day, and it is the last line with anything on it.
 The ask itself: one thousand and ten days, one hundred and forty-four weeks and two days.
 The tenancy has four names on it and has been over its winter setting for a tenth month, and no third fact about that flat has been asked for by anybody in this city.
-Refusals: six, one a request for the name of the man who wired the second thermostat, which was given, and one a request that a counter in a second district stay open at six, which was not granted, and one who came in at about half past two asked whether the room took money, and was told that it did not and never had.
+Refusals: six, one a request for the name of the man who wired the second thermostat, which was given, and one a request that a counter in a second district stay open at six, which was not granted, and the one who asked for it then said the other thing.
 Work: eleven, two declines, nothing escalated, nothing handed back.
 Charge: nineteen pounds, exact, and nothing went out on it but a thermostat and a bracket.**
 
-*A counter that closed at six on the Monday and two people on the door.* **A room in a second district was asked to stop and stopped, and the asking took about four minutes and the stopping took about nine seconds, and the reason was a job and a man who finishes at five and can only come at six, and the room then kept about eleven minutes more of the day than it had kept the week before, and paid for a second person out of its own money, and nobody said a word about any of that, including the two people who now stood on that door. The register of correct acts with no consequence stands at two and did not move on this day, and this is the day the whole of the rest of this stretch of days is built out of: a woman saying no about a cold stair and being let stop, and the cost of the whole thing falling on a man of about sixty who was not asked and did not know, and the response fitting itself around a man who had no part in it. That is not a correct act and it has not been entered anywhere, and a refusal that costs the person making it nothing and is paid for by a person who is not in the conversation is the first one in this manuscript and there have been about nine of the other kind. Nobody thanked anybody and nobody was taught, shown, assessed or helped, and the man of about thirty-eight was not thanked and did not expect to be and left before the counter shut. Ten objects are named on this page and this page does not bring two of them together: a strip of tape across a door frame, a second thermostat wired to a first, a card about the size of a postcard, a card standing on end in a rail of two, a hand copy of the front of a page, a board on two nails, a lamp in a carrier, a folded wedge of card under a chair leg, a ring binder on a back shelf, and a drawer under a bench with four sheets in it that was not opened on that Friday or on any day before it.**
+*A counter that closed at six on the Monday and two people on the door.* **A room in a second district was asked to stop and stopped, and the asking took about four minutes and the stopping took about nine seconds, and the reason was a job and a man who finishes at five and can only come at six, and the room then kept about eleven minutes more of the day than it had kept the week before, and paid for a second person out of its own money, and nobody said a word about any of that, including the two people who now stood on that door. The register of correct acts with no consequence stands at two and did not move on this day, and this is the day the whole of the rest of this stretch of days is built out of: a woman saying no about a cold stair and being let stop, and the cost of the whole thing falling on a man of about sixty who was not asked and did not know, and the response fitting itself around a man who had no part in it. That is not a correct act and it has not been entered anywhere, and a refusal that costs the person making it nothing and is paid for by a person who is not in the conversation is the first one in this manuscript and there have been about nine of the other kind. Nobody thanked anybody and nobody was taught, shown, assessed or helped, and the man of about thirty-eight was not thanked and did not expect to be and left before the counter shut. Ten objects are named on this page and this page does not bring two of them together: a strip of tape across a door frame, a second thermostat wired to a first, a card about the size of a postcard, a card standing on end in a rail of two, a hand copy of the front of a page, a board on two nails, a lamp in a box, a folded wedge of card under a chair leg, a ring binder on a back shelf, and a drawer under a bench with four sheets in it that was not opened on that Friday or on any day before it.**

@@ -4,7 +4,7 @@
 
 ---
 
-The Thursday was eleven dated jobs and eleven people over that counter, and about half past five was the last of them.. The shutter came down at ten and the cage shook, and there is nobody in this city who has a count of them.
+The Thursday was eleven dated jobs and eleven people over that counter, and about half past five was the last of them. The shutter came down at ten and the cage shook, and that had happened about nine times in a fortnight.
 
 **On the hardboard, the thirteenth line is one thousand one hundred and ninety-seven days, one hundred and seventy-one weeks to the day, and the hold on nine crates in a yard in the second of the four towns is nine hundred and fifty-nine days, one hundred and thirty-seven weeks to the day, and those are two of the seven figures on this page that are a whole number of weeks and there are five more.**
 
@@ -52,7 +52,7 @@ He wrote nothing down. **He said, "**Right,**" and shut the valve, and then abou
 
 **A woman of about twenty-four was in a second district that morning with a folder and went through about nine doors, and Marek was in a first district under a market and did not know that and was not told and has not asked.**
 
-Four of the rooms off that service road were occupied from about half past six until ten, and a fifth room was behind the other three, and a fifth person was in the fourth of the four for all of it. She is about thirty, the chair the door is behind is hers, and the eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-two days, and nobody has put a word to her, and nobody has apologised to her in any form and nobody ever will.
+From about half past six until ten there were four people in the four rooms off that service road and one behind the other three, and a fifth person was in the fourth of those rooms for the whole of that time. She is about thirty. The chair the door is behind is hers, the eighth of eight pages has lain in a ring binder on a back shelf for a hundred and twenty-three days, and not one person in that building said a word to her in three and a half hours, and nobody has apologised to her in any form and nobody ever will.
 
 ---
 
@@ -80,7 +80,7 @@ The only thing said to Marek in that cellar was one question about whether the b
 Nobody thanked anybody and nobody was taught, shown, assessed or helped and nobody asked the technician to be anything and he did not offer to be anything and nobody in that building asked him to be anything and he did not offer to be anything.
 The charge for the Thursday was twenty pounds, exact. Nobody thanked anybody.*
 
-*Conditions and docket.* **Callers on that Thursday: eleven, against eleven dated jobs, the last admitted at half past five. About two and a half hours of it were a cellar under a market in a first district.
+*Conditions and docket.* **Eleven callers and eleven dated jobs on that Thursday, the last of them at about half past five. About two and a half hours of it were a cellar under a market in a first district.
 The ask stands at one thousand and sixteen days, one hundred and forty-five weeks and one day.
 The fourteenth line has been on that board one thousand one hundred and sixty-two days, one hundred and sixty-six weeks to the day.
 The service-road rooms: one thousand three hundred and twenty-six days, one hundred and eighty-nine weeks and three days, four of them and one behind, and the rail by that door takes two.

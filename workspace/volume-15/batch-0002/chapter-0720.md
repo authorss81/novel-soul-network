@@ -4,7 +4,7 @@
 
 ---
 
-The Wednesday was eleven jobs with a date against each and eleven names on the book, and the last name was taken at half past five. and about two of the eleven were about the day. The shutter came down at ten and the cage shook, and it has done that on every night since the first of them.
+The Wednesday was eleven jobs with a date against each and eleven names on the book, and the last name was taken at half past five, and about two of the eleven were about the day. The shutter came down at ten and the cage shook, and that had happened about nine times in a fortnight.
 
 **The man of about fifty-one against that north wall is at nine hundred and thirty-eight days, one hundred and thirty-four weeks to the day, and the ask is at one thousand and twenty-two days, one hundred and forty-six weeks to the day, and those are two of the four figures in this page that come out as a whole number of weeks, and the other two are the eighteenth line and the place behind the woman's chair.**
 
@@ -44,7 +44,7 @@ Nobody thanked anybody in that shop on that Wednesday, and a woman of about twen
 
 **The rest of the Wednesday ran.** Eleven jobs and eleven names, the last at half past five, and a man of about thirty-eight came in with a lamp that worked and wanted to know whether it was safe, and was told that it was as safe as the other one and that he should not use either of them wet, and he said right and bought a switch and has not been back.
 
-Four of the rooms off that service road were in use from about half past six until ten, a fifth was behind the other three, and a fifth person was in the fourth of them for the whole of that time. She is about thirty, the chair the door is behind is hers, and the eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-six days, and nobody has put a word to her or apologised to her in any form or ever will, and there is nobody in this city entitled to take it out of the binder in her presence or out of it.
+Between about half past six and ten the four rooms off that service road were in use and a fifth was behind the other three, and there was a fifth person in the fourth of those rooms for all of it. She is about thirty and the chair the door is behind is hers. Her page, the eighth of eight of them, has been in a ring binder on a back shelf for a hundred and twenty-seven days, it did not come out that Wednesday, and nobody has put a word to her or apologised to her in any form or ever will.
 
 ---
 
@@ -69,7 +69,7 @@ A flat on the fourth floor of a block in a second district, a cylinder that woul
 A woman of about twenty-four came in at about half past four for a length of cord and said about nine words in about four seconds, and none of the nine was about a card, and she has not been back.
 The charge for the Wednesday was twenty-six pounds, exact. A call-out at about four o'clock in a third district was not taken and a bench was not used. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
-*Conditions and docket.* **Callers on that Wednesday: eleven, against eleven dated jobs, the last admitted at half past five. About two hours of it were a fourth floor in a second district and eleven of those hours were four flights of a stair with a bucket.
+*Conditions and docket.* **Callers on that Wednesday: eleven, dated jobs: eleven, and the last name taken at half past five. About two hours of it were a fourth floor in a second district and about eleven of those minutes were four flights of a stair with a bucket.
 The hardboard's seventeenth line, which is one thousand one hundred and four days, one hundred and fifty-seven weeks and five days.
 Those rooms: one thousand three hundred and thirty-two days, one hundred and ninety weeks and two days, four of them and one behind, and none of the five has a name on it.
 That man of about fifty-one: nine hundred and thirty-eight days, one hundred and thirty-four weeks to the day, still against the north wall.

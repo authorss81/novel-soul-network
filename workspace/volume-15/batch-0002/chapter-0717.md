@@ -4,7 +4,7 @@
 
 ---
 
-Eleven jobs with a date against each and eleven people over the counter was the whole of the Friday's traffic, and the last was let in at half past five.. The shutter came down at ten and the cage shook, and the sound of it is the only thing on that street that everybody agrees about.
+Eleven jobs with a date against each and eleven people over the counter was the whole of the Friday's traffic, and the last was let in at half past five. The shutter came down at ten and the cage shook, and that had happened about ten times in a fortnight.
 
 **The hardboard's seventeenth line is one thousand and ninety-nine days, one hundred and fifty-seven weeks to the day, and the column headed for the separation reads seven hundred and seven days, one hundred and one weeks to the day, and neither of the two of them is on a form and neither of them is anywhere anybody in this city could go and look.**
 
@@ -64,7 +64,7 @@ He has not been back to that room. **He did not go on the ninth and he did not g
 
 **The rest of the Friday ran. Eleven jobs and eleven names, the last at half past five, and a man of about twenty-eight came in with a pram wheel and wanted it looked at and was told in four seconds that it could be and paid and has not been back.**
 
-From about half past six until ten there were four people in the four rooms off that service road, one behind the three, and one other person in the fourth of them who is about thirty and whose chair is the one the door is behind. The eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-three days. Nobody in that building spoke to her for three and a half hours, nobody has apologised to her in any form, and nobody in this city may take that page out of that binder in front of her or out of it.
+From about half past six until ten there were four people in the four rooms off that service road, one behind the three, and one other person in the fourth of them who is about thirty and whose chair is the one the door is behind. The eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-four days. Nobody in that building spoke to her for three and a half hours, nobody has apologised to her in any form, and nobody ever will.
 
 ---
 
@@ -91,7 +91,7 @@ A shuttered shop two doors down took it from the Monday before six, unasked, its
 The man of twenty-two was in that room for about twenty minutes and heard all of it from a step and neither of the two men knew. He did not go back on the ninth or the tenth and does not know what is in that room now and has not asked.
 The charge for the Friday was seventeen pounds, exact, and a job he had to leave at four has been done by another shop. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
-*Conditions and docket.* **Callers on that Friday: eleven, against eleven dated jobs, the last admitted at half past five. About twenty minutes of it were a first floor in a first district.
+*Conditions and docket.* **That Friday came to eleven callers set against eleven dated jobs, and the last was let in at half past five. About twenty minutes of it were a first floor in a first district.
 Eighteenth, one thousand and forty-five days, one hundred and forty-nine weeks and two days.
 A card on end in a rail of two: one thousand three hundred and thirty-one days, one hundred and ninety weeks and one day.
 Twelfth, one thousand two hundred and forty-seven days, one hundred and seventy-eight weeks and one day.

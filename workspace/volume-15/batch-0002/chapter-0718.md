@@ -4,7 +4,7 @@
 
 ---
 
-The Monday brought eleven dated jobs and eleven people to that counter, and the last of the eleven was let in at half past five. and the shutter came down at ten and shook the cage.
+The Monday brought eleven dated jobs and eleven people to that counter, and the last of the eleven was let in at half past five, and the shutter came down at ten and shook the cage.
 
 **The four rooms, and one behind them that is not on anybody's list, are at one thousand three hundred and thirty days, one hundred and ninety weeks to the day, and the nine hand copies are at eight hundred and ninety-six days, one hundred and twenty-eight weeks to the day, and those are two of the three figures on this page that are a whole number of weeks, and the third is the sixteenth line.**
 
@@ -58,7 +58,7 @@ She was about thirty-eight. She has no key to anybody else's room and nobody has
 
 **The rest of the Monday ran. Eleven jobs and eleven names, the last at half past five, and a man of about thirty-three came in and asked how many of a thing had gone out of a shop on a road off Saltmarket and was told that a number one man keeps is not the same object as a number people have taken, and that it is a membership and not a Tuesday, and he said right and bought a switch and has not been back.**
 
-Those four rooms off that service road took four people between about half past six and ten, with a fifth room behind the other three, and one of them had somebody in the fourth who is about thirty and who sits in the chair the door is behind. Her page, the eighth of eight of them, has been in a ring binder on a back shelf for a hundred and twenty-four days and did not come out, and nobody has said anything to her and nobody has apologised to her in any form, and there is nobody entitled to remove it in her presence or out of it.
+Those four rooms off that service road took four people between about half past six and ten, with a fifth room behind the other three, and one of them had somebody in the fourth who is about thirty and who sits in the chair the door is behind. Her page, the eighth of eight of them, has been in a ring binder on a back shelf for a hundred and twenty-five days and did not come out, and nobody has said anything to her and nobody has apologised to her in any form, and nobody ever will.
 
 ---
 
@@ -85,7 +85,7 @@ Two men asked him that week in two different shops how many of the sheets there 
 The number of doors the second sheet is at is one thousand and fifty-three, and it is a number one man keeps, and it is not a number anybody has taken, and it is not a membership, and no character in the body of this file has said it out loud and nobody has added it to anything, and it is a count of places a piece of paper can be found and not a count of people. About four hundred people in this city have not signed the second sheet and are not going to be asked to, and there are about four hundred others who signed a form about four months ago and are on no list that anybody keeps.
 The charge for the Monday was twenty-eight pounds, exact. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
-*Conditions and docket.* **Callers on that Monday: eleven, against eleven dated jobs, the last admitted at half past five. About two hours of it were one street in a first district.
+*Conditions and docket.* **Eleven callers came through on that Monday and eleven jobs went out with a date against each, the last at half past five. About two hours of it were one street in a first district.
 On that hold, in that yard: nine hundred and sixty-three days, one hundred and thirty-seven weeks and four days.
 On the hardboard, the fifteenth: one thousand one hundred and forty-five days, one hundred and sixty-three weeks and four days.
 Nine hand copies: eight hundred and ninety-six days, one hundred and twenty-eight weeks to the day; no two of them have been laid together and the first disagreement has not been found.

@@ -4,9 +4,9 @@
 
 ---
 
-The Tuesday ran on eleven dated jobs and eleven callers, and the last of them was let in at half past five.. The shutter came down at ten and the cage shook, and it went on doing that after he had gone home.
+The Tuesday ran on eleven dated jobs and eleven callers, and the last of them was let in at half past five. The shutter came down at ten and the cage shook, and that had happened about eleven times in a fortnight.
 
-**The hardboard's sixteenth is one thousand one hundred and twenty-one days, one hundred and sixty weeks and one day, and what sits in the post at the end of that corridor has been there eight hundred and seventy-nine days, one hundred and twenty-five weeks and four days, and there is not a single whole number of weeks anywhere in the whole of that load book for this day.**
+**The sixteenth line on that board of two nails is one thousand one hundred and twenty-one days, one hundred and sixty weeks and one day, and what sits in the post at the end of that corridor has been there eight hundred and seventy-nine days, one hundred and twenty-five weeks and four days, and there is not a single whole number of weeks anywhere in the whole of that load book for this day.**
 
 ---
 
@@ -54,7 +54,7 @@ He went. He has not been back and has not been asked to come back and nobody in 
 
 **The rest of the Tuesday ran. Eleven jobs and eleven names, the last at half past five, and a woman of about twenty-four came in at about half past four with a folder, said she would be about an hour, and went, and Marek was behind the counter and did not go out to her and did not speak to her and has not spoken to her.**
 
-Four people were in those four rooms off that service road from about half past six, and a fifth one was behind the three, and a woman of about thirty was in the fourth of them until ten with the chair the door is behind hers. The eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-five days. Not one person in that building addressed her in three and a half hours, nobody has apologised to her in any form, and nobody in this city is entitled to take it out of the binder in her presence or out of it.
+Four people were in those four rooms off that service road from about half past six, and a fifth one was behind the three, and a woman of about thirty was in the fourth of them until ten with the chair the door is behind hers. The eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-six days. Not one person in that building addressed her in three and a half hours, nobody has apologised to her in any form, and nobody ever will.
 
 ---
 
@@ -81,7 +81,7 @@ The man of twenty-two heard the question and about nine seconds of the answer an
 A woman of about twenty-four came in at about half past four with a folder, said she would be about an hour, and left, and Marek was behind the counter and did not go out to her and did not speak to her.
 The charge for the Tuesday was twenty-four pounds, exact, and one lamp and one part went out of the same carrier. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
-*Conditions and docket.* **Callers on that Tuesday: eleven, against eleven dated jobs, the last admitted at half past five. The whole of it was a counter, a bench, a back drawer and a stool.
+*Conditions and docket.* **Eleven callers on that Tuesday against eleven dated jobs, and the last of the eleven admitted at half past five. The whole of it was a counter, a bench, a back drawer and a stool.
 That board's thirteenth line: one thousand two hundred and two days, one hundred and seventy-one weeks and five days.
 That board's nineteenth line: one thousand and twenty-seven days, one hundred and forty-six weeks and five days, and it is the last one anybody has written on.
 That board's sixteenth line: one thousand one hundred and twenty-one days, one hundred and sixty weeks and one day.
@@ -94,7 +94,7 @@ That board's fifteenth line: one thousand one hundred and forty-six days, one hu
 The corridor-end post: eight hundred and seventy-nine days, one hundred and twenty-five weeks and four days.
 That board's seventeenth line: one thousand one hundred and three days, one hundred and fifty-seven weeks and four days.
 The outstanding ask: one thousand and twenty-one days, one hundred and forty-five weeks and six days.
-The copies, nine of them, hand-written: eight hundred and ninety-seven days, one hundred and twenty-eight weeks and one day, one with a corner gone and the rest short, and nothing on any of them is checked against anything else.
+The copies, nine of them, hand-written: eight hundred and ninety-seven days, one hundred and twenty-eight weeks and one day, one with a corner gone and the rest not finished, and nothing on any of them is checked against anything else.
 That board's fourteenth line: one thousand one hundred and sixty-seven days, one hundred and sixty-six weeks and five days.
 That board's eighteenth line: one thousand and forty-nine days, one hundred and forty-nine weeks and six days.
 The yard's hold, nine crates: nine hundred and sixty-four days, one hundred and thirty-seven weeks and five days.

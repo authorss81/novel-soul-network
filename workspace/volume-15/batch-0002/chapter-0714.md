@@ -1,10 +1,10 @@
 # Chapter 714 — A Tuesday, A Bench Until Two And A Counter Until About Six, A Corridor On The Ground Floor Of A Block In A Second District Where Two People Are Waiting For A Lift That Is Not Coming And One Of Them Says Ten Words That Are About Two Men Neither Of Whom Is Named And Neither Of Whom Is There, A Man Of Twenty-Two At The Other End Of It With A Box Of Tools, And Neither Of The Two Of Them Knowing He Heard Them
 
-**A Tuesday was a bench until two, a counter until about six and four rooms off that service road from about six. This one went to a second district at about two, to a ground-floor corridor with a box of tools at one end and twenty minutes of waiting at the other, and about ten words were said in that corridor that two strangers will both still be able to repeat a month from now.**
+**A Tuesday was a bench until two, a counter until about six and four rooms off that service road from about six. This one went to a second district at about two, to a ground-floor corridor with a box of tools at one end and about fifteen minutes of waiting at the other, and about ten words were said in that corridor that two strangers will both be able to repeat a month from now.**
 
 ---
 
-Eleven dated jobs and eleven callers went through the shop on the Tuesday, and the last of the eleven came in at half past five.. The shutter came down at ten and the cage shook, and it has shaken every night since the first of them.
+Eleven dated jobs and eleven callers went through the shop on the Tuesday, and the last of the eleven came in at half past five. The shutter came down at ten and the cage shook, and that had happened about eleven times in a fortnight.
 
 **The hardboard's sixteenth is one thousand one hundred and fourteen days, one hundred and fifty-nine weeks and one day, and the hardboard's nineteenth is one thousand and twenty days, one hundred and forty-five weeks and five days, and there is not one figure on that board this month that is a whole number of weeks.**
 
@@ -38,11 +38,11 @@ The man of about forty-one said, "**It's not coming,**" and the woman of about t
 
 ---
 
-**And then the man of about forty-one said, "**Which one,**" and the woman of about thirty-eight said, "**The one on the wards. He's about thirty-four. He pushes beds.**"**
+And then the man of about forty-one said, "**Which one,**" and the woman of about thirty-eight said, "**The one on the wards. He's about thirty-four. He pushes beds and he has signed a form and he cannot show anybody that he did not sign it, and everybody in that building has decided he agreed, and he did not say no to them, he said the ward was understaffed, and that is the same as agreeing as far as that form is concerned.**"
 
 "**And the other one.**"
 
-"**The other one's about thirty-four as well. He signs the release at a water yard.**"
+"**The other one signs the release at a water yard,**" she said. "**He is about thirty-four as well. He asked somebody in the spring whether there was a list anywhere that said he was allowed to stop, and he was told no in about four seconds and he was given a job instead, and he has been the release every morning for about nine years and nobody has ever presumed that man agreed to anything, because nobody has ever asked him for anything to agree to.**"
 
 "**Right,**" said the man of about forty-one.
 
@@ -56,11 +56,11 @@ The man of about forty-one said, "**It's not coming,**" and the woman of about t
 
 **The man who pushes beds works at a hospital a day and a night of bus travel away and Marek has never been there. The man who signs the release at a water yard in a second district has been in Marek's shop twice and in a room over a shop in a second district for about four hours, and Marek is the only person in this city who has watched him not know what a gauge was saying, and Marek has not said that to anybody either.**
 
-**And so for about four days Marek had two men of about thirty-four in one corridor instead of one of them in a room over a shop, and on the Thursday he worked out that the sentence had been about the one at the water yard first, and the answer was the one he already had, and that was the whole of what the corridor gave him.**
+**So for about four days Marek had half of a thing and no way of getting the other half, and on the Thursday he worked out which of the two men the sentence had been about first, and the answer was the one he already knew, and that was the whole of what the corridor gave him.**
 
 ---
 
-Four people in the four rooms off that service road from about half past six, and one room behind the three, and a fifth person in the fourth of those rooms until ten. She is about thirty. The chair the door is behind is hers and the eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-one days, and not one person in that building put a word to her for three and a half hours, and no apology has been made to her in any form and none is coming.
+Four people in the four rooms off that service road from about half past six, and one room behind the three, and a fifth person in the fourth of those rooms until ten. She is about thirty. The chair the door is behind is hers and the eighth of eight pages has been in a ring binder on a back shelf for a hundred and twenty-one days, and not one person in that building put a word to her for three and a half hours, and nobody has apologised to her in any form and nobody ever will.
 
 ---
 
@@ -73,7 +73,7 @@ Four people in the four rooms off that service road from about half past six, an
 **What he wanted, for about four days, was to have been wrong about which of the two men she had meant the first one. If she had meant the man on the wards, then the ten words would have been about a stranger and would have cost him nothing, and she meant the man at the water yard, and the ten words had a man in them he has been thinking about since the spring and has not told a single person on this earth about.**
 
 He said none of it.
-**He had told a man of about thirty-three at about two that he would be back at three, and he was not back at three, and he was not back at four either, and at about half past five the man of about thirty-three said that he had waited in the street for about two and a half hours and had not asked anybody why, and bought a switch, and has not been back.**
+**He had told a man of about thirty-three at about two that he would be back at three, and he was not back at three, and at about half past five the man of about thirty-three said that he had waited in the street for about two and a half hours and had not asked anybody why, and bought a switch, and has not been back.**
 
 ---
 
@@ -82,13 +82,13 @@ Tuesday of week 257, at ten, and the nineteenth day of this stretch of days.
 Eleven names on the book and eleven dated jobs, the last name taken at half past five.
 A ground-floor corridor in a block in a second district, about twenty feet of it, stone, with a handrail the whole length of it whose shine is in the middle about four feet and dull at both ends, a lift out of service at one end and a fire door at the other.
 A man of about forty-one and a woman of about thirty-eight came in and stood at the lift for about fifteen minutes, and she said ten words in a face in about nine seconds, and neither of the two men the ten words were about was in that corridor or in that building or within a day's bus travel of the other, and the two of them have never been in a room together and nobody in this city has put them there.
-The ten words were that one of the two is presumed to have agreed and the other is not. The man of about forty-one asked which one and was told that the one on the wards is about thirty-four and pushes beds, and was told that the other one is about thirty-four as well and signs the release at a water yard, and neither of those two men was named, and neither of the two people in that corridor said one word more about either of them, and that was the end of it.
+The ten words were that one of the two is presumed to have agreed and the other is not. The man of about forty-one asked which one and was told that the one on the wards is about thirty-four and pushes beds and signed a form and cannot show anybody that he did not, and that he did not say no, he said the ward was understaffed. He was told that the other one is about thirty-four as well, and signs the release at a water yard, and asked somebody in the spring whether there was a list anywhere that said he was allowed to stop, and was told no in about four seconds, and was given a job instead, and has been the release every morning for about nine years, and nobody has presumed he agreed to anything because nobody has ever asked him for anything to agree to. Neither of those two men was named, and neither of the two people in that corridor said one word more about either of them, and that was the end of it.
 The two of them then stood at that lift for about eleven minutes talking about a paperclip. Neither of them knew the man of twenty-two was at the other end of the corridor and neither of them has found out since.
-He did not go back. The rail went up on the Wednesday morning. He told a man of about thirty-three he would be back at three and was not back at three and was not back at four, and at about half past five the man said he had waited in the street for about two and a half hours and had not asked anybody why, and has not been back.
+He did not go back. The rail went up on the Wednesday morning. He told a man of about thirty-three he would be back at three and was not back at three, and at about half past five the man said he had waited in the street for about two and a half hours and had not asked anybody why, and has not been back.
 The charge for the Tuesday was twenty-eight pounds, exact, and a handrail came out of a block in a second district and went back into it on the Wednesday.
 Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
-*Conditions and docket.* **Callers on that Tuesday: eleven, against eleven dated jobs, the last admitted at half past five. About forty minutes of it were one corridor in one block and about fifteen minutes of that were a lift.
+*Conditions and docket.* **That Tuesday stood at eleven callers and eleven dated jobs, and the last of the eleven was admitted at half past five. About forty minutes of it were one corridor in one block and about fifteen minutes of that were a lift.
 Separation, seven hundred and four days, one hundred weeks and four days, closed in a box on a form about sixteen months back, opened again every day, and not one day nearer.
 What is on hold in a yard in the second of the four towns: nine hundred and fifty-seven days, one hundred and thirty-six weeks and five days.
 The sixteenth of the hardboard: one thousand one hundred and fourteen days, one hundred and fifty-nine weeks and one day.
