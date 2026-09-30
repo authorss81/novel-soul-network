@@ -60,7 +60,7 @@ One is about a practice held by one person, and it has been on that board since 
 
 ---
 
-**A woman of about thirty-eight said that a period the institution considers appropriate was a period the institution chooses, and a man of about fifty-two said it was the same thing said more politely, and about four people agreed with the man and about four agreed with the woman and about one did not care.**
+**About four people in that room agreed with the man of about fifty-two and about four agreed with the woman of about thirty-eight and about one did not care, and the woman of about forty-four was in neither of those numbers because she had said it first and had not argued.**
 
 The one who does not care is a man of about sixty-one who has been coming to that room for about nine years and who said, in about nine seconds, that a period you have to name is a period you can be held to, and that nobody had ever held anybody to a period they had not named.
 

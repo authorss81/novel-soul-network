@@ -10,7 +10,7 @@ Nine names went on that Monday's sheet and nine dates went with them, the last t
 
 **The nineteenth line on the board of two nails is one thousand one hundred and three days, a hundred and fifty-seven weeks and four days. The man of about fifty-one against that north wall is one thousand and thirteen, a hundred and forty-four weeks and five days. The ask is one thousand and ninety-seven, a hundred and fifty-six weeks and five days.**
 
-The separation is at seven hundred and eighty-seven days, one hundred and twelve weeks and three days, in a one-line box about sixteen months old.
+The separation is at seven hundred and eighty-seven days, a hundred and twelve weeks and three days, in a one-line box about sixteen months old.
 
 ---
 

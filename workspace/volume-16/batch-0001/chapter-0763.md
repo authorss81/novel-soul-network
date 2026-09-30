@@ -88,7 +88,7 @@ She said that she had been in that room in the autumn before the spring, twice, 
 
 She said it in about nine seconds, to the middle of the table, and about four people heard it and about two of them looked at her and nobody asked her anything.
 
-**She is a different woman from the one who said the thing about the chair on the Friday of that week, and the two of them have never been in a room together, and about four people in this city would confuse the two if anybody raised it.**
+**She is a different woman from the one who puts her palm flat on the wood for the length of a breath about an hour later, and the two of them have never been in a room together, and about four people in this city would confuse the two if anybody raised it.**
 
 ---
 
@@ -148,7 +148,7 @@ The separation: seven hundred and eighty-nine days, one hundred and twelve weeks
 That flat: four names on the tenancy, the heat not turned down since the autumn, and there is a rail by the counter with about nine coats on it and one hook bent about a quarter of an inch out of the line of the others.
 Refusals: none. Two people said nothing and were not asked anything about it.
 Work: twelve, three declines, nothing escalated, nothing handed back.
-Charge: twenty-six pounds, exact. `To the day` is on this file four times and they are all correct.*
+Charge: twenty-six pounds, exact, and about four minutes of it were a man of about thirty-eight who came at a quarter past seven and said he had come about a bin.*
 
 *Conditions of the close.* **The book with a green cover is on sixty-six lines and the tin beside it is on seventy-three with the lid down, and the two are not a sum and are not going to be made into one by anybody in this city.
 The ninth chair in that room is hard against that wall with its back to the whole of it. It did not move on this Wednesday, it has not moved in this stretch of days, and its mover is not named in this file or in any file in this city.

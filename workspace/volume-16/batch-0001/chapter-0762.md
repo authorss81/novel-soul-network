@@ -96,7 +96,7 @@ He worked out during those nine minutes that he had offered to do a job he did n
 
 The sheet went up on the Monday. He read it on the Monday. He read it upside down from a floor.
 
-**On the Tuesday about nine people stood on a landing about four hundred yards from that wall and asked each other a question that is written on no sheet at all, and he was not one of the nine and about four of the nine have said since that they did not know there was a wall.**
+**On the Tuesday about nine people stood on a landing about four hundred yards from that wall and asked each other a question that is written on no sheet at all, and he was one of the people on that landing and not one of the nine that question belonged to, and about four of those nine have said since that they did not know there was a wall.**
 
 ---
 

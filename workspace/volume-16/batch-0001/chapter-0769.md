@@ -132,7 +132,7 @@ A man of about fifty-two said that a correct thing which changes nothing is some
 About nine people in that district have not been asked. About four have not agreed and one of those four has said so out loud in a queue to a person who was not in the room. Nobody has told the institution which one.
 About two people in that district are named on the notice and neither has read it. Both signed in the same week.
 The woman of about thirty-four has signed other people's names about four times a week for eleven years. This is the first thing she signed that she chose, and she read it first, and she has said that reading it took about eleven seconds.
-Marek wrote a figure in his own hand in the docket book at about half past three — about four hundred people, one man, and about four seconds — and sent it to nobody and it is on a shelf behind a counter.
+Marek wrote a figure in his own hand in the docket book at about half past three — about four hundred people, one man, and a Tuesday about four seconds longer than he used to take — and sent it to nobody and it is on a shelf behind a counter.
 The register of correct acts with no consequence moved from three to four on that Friday. Nobody thanked anybody and nobody was taught, shown, assessed or helped in any room in this city.*
 
 *Conditions and docket.* **Callers on that Friday: nine, dated jobs: nine, last name taken at about twenty to five.

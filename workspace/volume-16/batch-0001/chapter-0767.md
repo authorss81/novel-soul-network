@@ -86,8 +86,6 @@ Nobody wrote it down. A woman of about twenty-nine who was in that room wrote it
 
 ---
 
-**---
-
 **There is one more thing about that room and about him and about nine people in this city know it and none of them has ever said it in a room.**
 
 He asks, on about four occasions in about eleven years, whether anybody has eaten. He does it in about nine seconds, standing up, to a room of about nine people, and about four of the nine have never heard him do it and about nine of them have heard somebody else do it about a hundred times.

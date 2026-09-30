@@ -480,3 +480,21 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 ## 6. WHAT THE THREE UNRUN CLOSES OWN AND WHAT NO CHAPTER OWNS
 
 **`workspace/volume-12/VOLUME-CLOSE.md`, `workspace/volume-13/VOLUME-CLOSE.md` and `workspace/volume-14/VOLUME-CLOSE.md` are plain files at their volume roots and the controller's selection rule finds only a `PROMPT.md`, so all three never ran. Section 6 of the Volume 14 calendar file is still a reservation and the seventeen debts of section 7 of the Volume 15 calendar file sit on it and are carried forward unchanged in section 7 of the Volume 16 calendar file.** Controller-owned, untouched. **No chapter of Movement I resolved any of it and no chapter of Movement II may.**
+
+---
+
+## 7. WHAT THE REPAIR PASS ON MOVEMENT I CHANGED, AND WHAT IT DELIBERATELY DID NOT
+
+**Seven repairs, all one or two lines, all mechanical, all at §9B of `workspace/volume-16/batch-0001/SUMMARY.md`. None of them moved a day, resequenced an event, or rewrote a scene, and the ten files still read as the same ten days.**
+
+1. **A month name is gone from Chapter 764.** *Found out in June* is now *found out later*. **The defect was in the instrument and not in the prose: the prohibited-term list published at §3.1 item 3 of the batch summary contained no month name, and the volume forbids one, and three passes could not see it. The list is extended and the omission is recorded.**
+2. **A broken horizontal rule is gone from Chapter 767** — `**---`, the only occurrence of that string in seven hundred and seventy chapters.
+3. **Chapter 766 no longer contradicts itself.** The same three-person exchange about *appropriate* was printed twice, eleven paragraphs apart, and the woman of about thirty-eight argued against the woman of about forty-four in the first and was given her position in the second. **The second now tallies the room without restating the positions, and the first scene is untouched.**
+4. **Chapter 769's load-book entry agrees with its own body again.** The body said *a **Tuesday** about four seconds longer* and the entry had dropped the word. **The Tuesday is the fact — Chapter 770 establishes that the practice fails on a Tuesday — and the entry now carries it.**
+5. **Chapter 763's charge line reports the day instead of reporting itself.** It ended *`To the day` is on this file four times and they are all correct*, which was the only backtick in the manuscript, was wrong on its own terms at six, and is the defect `outline/volume-16.md` guardrail 15 forbids. **It now prices the man of about thirty-eight who came at a quarter past seven about a bin, which was otherwise unpriced on that page.**
+6. **Chapter 762 no longer says he was somewhere he was.** *He was not one of the nine* read as *he was not there* on a page where he stands on a landing for ninety lines; it now distinguishes him from the district's nine.
+7. **Chapter 763 no longer points at a scene that does not exist.** Its reference to *the thing about the chair on the Friday of that week* resolved to a Chapter 765 that has no chair and no such line, and it now names the distinction the same page draws correctly elsewhere.
+
+**WHAT DID NOT CHANGE AND IS NOT A DEFECT TO REPAIR, restated because a later pass will meet all three again.** The shared run is **fifty-nine on bodies and one hundred and fifty whole-file** against a target of thirty-one, and the whole-file run was read in full during this pass and is the tail of one day's charge line running into the whole *Conditions of the close* block, which the volume requires on every page. The apparatus share is **43.490** against a target under forty. The hedge is **41.931 per thousand** on bodies against a target of twenty-five. **All three are the standing rows and the inherited template, and all three are published as misses rather than hidden.**
+
+**AND THE STANDING FIGURE-LEVEL FACTS AT §5 ARE UNCHANGED BY THIS PASS**, including the one that most often produces false findings: **zero Arabic digits in every body, sixty in the ten files, and every one of the sixty is the entry number or the week number on a load-book entry's own first line.** A pass that reads the ban as unqualified will return sixty findings that are the volume's own format.
