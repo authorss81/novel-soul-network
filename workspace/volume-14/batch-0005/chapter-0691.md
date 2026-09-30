@@ -4,9 +4,9 @@
 
 ---
 
-Eleven jobs carried a date against each on the Monday and eleven people came over the counter, the last of them let in at five, and the shutter came down at ten and shook the cage for the twenty-eighth time in eleven years.
+Eleven jobs carried a date against each on the Monday. Eleven people came over the counter and the last of them was let in at five. At ten the shutter came down and shook the cage for the twenty-eighth time in eleven years.
 
-**Those four rooms off that service road, four of them and one behind the three, are warm, and they stand at one thousand two hundred and sixty-seven days, a hundred and eighty-one weeks to the day. The card on end in the rail by that door is one thousand two hundred and seventy-one days, a hundred and eighty-one weeks and four days, four days past them, and the rail takes two.**
+**Four of those rooms and one behind the three are warm, and they stand at one thousand two hundred and sixty-seven days, a hundred and eighty-one weeks to the day. The card on end in the rail by that door is one thousand two hundred and seventy-one days, a hundred and eighty-one weeks and four days, four days past them, and the rail takes two.**
 
 The nineteenth line on that board of two nails is nine hundred and sixty-three days, a hundred and thirty-seven weeks and four days.
 The hardboard's sixteenth is one thousand and fifty-seven, a hundred and fifty-one weeks to the day, and the hold on nine crates in a yard in the second of the four towns is nine hundred, a hundred and twenty-eight weeks and four days.
@@ -117,7 +117,7 @@ At half past three a woman of about fifty-eight came in with a lamp that had bee
 **At about five a man of about thirty-eight bought about nine foot of cord he did not need.** He said he had meant to come back for it.
 Marek said he did not have to and the man said he knew he did not have to, and neither of them said what it was for.
 
-**At about half past five a woman of about thirty-one brought in a chair frame with a leg off it and asked whether it could be made to stand up, and Marek said yes in four seconds and did not say what it would cost because she had not asked, and she stood in the shop for nine minutes watching him do it and said nothing at all the whole time, and when it was done she said thank you and went and he did not charge her.**
+**At about half past five a woman of about thirty-one brought in a chair frame with a leg off it and asked whether it could be made to stand up, and Marek said yes in four seconds and did not say what it would cost because she had not asked, and she stood in the shop for nine minutes watching him do it and said nothing at all the whole time, and when it was done she went and he did not charge her.**
 
 **At about ten past five a man of about fifty-eight came in holding a folded sheet of paper that had been folded and unfolded about four times and asked whether he could have it copied, and was told in four seconds that the shop does not copy and has never copied and that there is a shop on a wide road that does and is not in this city.**
 
@@ -130,9 +130,9 @@ The man of about fifty-eight said that was fair and put the sheet back in his po
 
 ---
 
-**From half past six until ten there was one other person in the fourth of those four rooms off that service road and she is about thirty, and the chair the door is behind is hers, and for three and a half hours not one person in that building put a word to her, and nobody has apologised to her in any form and nobody ever will.**
+**From half past six until ten there was one other person in the fourth of those four rooms off that service road and she is about thirty, and the chair the door is behind is hers, and for three and a half hours not one person in that building put a word to her, and nobody has apologised to her in any form and nobody ever will. There is a page with her name at the head of it, the eighth of eight of them, in a ring binder on the back shelf of that room. It did not come out that Monday, and there is nobody in this city entitled to take it out of the binder in her presence or out of it.**
 
-The page that belongs to her is the eighth of eight in a ring binder on the back shelf of that room and the binder did not come out and it is not on this page and there is nobody in this city who would open it out of her presence or in it.
+The binder is on a back shelf in a room four rooms off a service road and it is not on this page, and it has not been on this page on any of the days of this stretch.
 
 ---
 
@@ -154,19 +154,19 @@ Eleven dated jobs went out and eleven came in and the shutter came down at ten a
 
 *694.
 Monday of week 249, at ten, and the forty-first day of this stretch of days.
-Eleven dated jobs and eleven names, the last let in at five.
+Eleven names went on the book that Monday and eleven dated jobs went out with it, and the eleventh name was taken at five.
 He walked to the first of nine rooms in a first district at eleven and asked a woman of about forty for one sentence, and she gave him one of three clauses and said in nine seconds that she had done it in three because tidying it would be handing somebody a version of her room that does not exist, and that if he came back she would have had the conversation twice.
 She was not asked how many other rooms there are and did not ask and said the reason is that a board is not a door number.
 He asked whether they are merged and was told she does not know, has not asked, is not going to, and that he is not to tell her because he has not asked them yet.
 He did not write it down on the bus or at the bench and he took a piece of paper out of his pocket for nine seconds and put it back.
 Eleven dated jobs and none of them about that room.
-Nobody thanked anybody.*
+Nobody said thank you to anybody on that Monday.*
 
 *Conditions and docket.* **The Monday carried eleven dated jobs and eleven callers, the last admitted at five, and nine minutes of it were a man of twenty-two deciding not to write down a sentence.** Callers: eleven.
 Refusals: three, one a request to be told that somebody else's rewiring was safe, which is not a thing anybody in this city can supply from a shop, and one a request that a second asking of the same question be recorded as a separate thing, which it is and is not recorded anywhere.
 Work: eleven, two declines, nothing escalated, nothing handed back.
 Charge: nineteen pounds, exact, and nine foot of cord went out on it that the man said he did not need.
-That flat has been above its winter setting for a ninth month and four names on the tenancy are the whole of the difference.
+That flat has been above its winter setting for a ninth month, and the whole of what has changed in it is four names on the tenancy.
 Those rooms: one thousand two hundred and sixty-seven days, a hundred and eighty-one weeks to the day, four of them and one behind, warm.
 Rail card: one thousand two hundred and seventy-one days, a hundred and eighty-one weeks and four days, rail of two.
 The board on two nails: twentieth, none, and never begun; twelfth, one thousand one hundred and eighty-seven, a hundred and sixty-nine weeks and four days; thirteenth, one thousand one hundred and thirty-eight, a hundred and sixty-two weeks and four days; fourteenth, one thousand one hundred and three, a hundred and fifty-seven weeks and four days; fifteenth, one thousand and eighty-two, a hundred and fifty-four weeks and four days; sixteenth, one thousand and fifty-seven, a hundred and fifty-one weeks to the day; seventeenth, one thousand and thirty-nine, a hundred and forty-eight weeks and three days; eighteenth, nine hundred and eighty-five, a hundred and forty weeks and five days.
@@ -174,8 +174,8 @@ The man of about fifty-one against that north wall: eight hundred and seventy-th
 The ask: nine hundred and fifty-seven days, a hundred and thirty-six weeks and five days.
 The hold on nine crates in a yard in the second of the four towns: nine hundred days, a hundred and twenty-eight weeks and four days.
 The post at the corridor end: eight hundred and fifteen days, a hundred and sixteen weeks and three days.
-The nine hand copies: eight hundred and thirty-three days, a hundred and nineteen weeks to the day, eight of the nine unfinished and the first row nobody has disagreed about still not found, and not one of the nine laid against another on any day of this fortnight.
-The separation: six hundred and forty-seven days, ninety-two weeks and three days, shut in a one-line box in a form about twelve weeks ago and subtracted every day since, no shorter, nothing put back into it.*
+The nine hand copies: eight hundred and thirty-three days, a hundred and nineteen weeks to the day, of which eight are unfinished, and the first row on which anybody has ever disagreed has not been found, and none of the nine has been laid against another.
+The separation: six hundred and forty-seven days, ninety-two weeks and three days, shut in a one-line box in a form about twelve weeks ago, and taken away again every day since, and shorter by nothing, and nothing returned to it.*
 
-*A board that is not a door number, and a piece of paper that stayed in a pocket.* **He walked to the first of nine rooms on foot because a return path is a place and he has never in this city arrived at one of these rooms by being driven to it. A woman of about forty who has been in that room eleven years and does the returns for two other rooms as well and has never said so gave him one sentence in three clauses, and the three clauses are the point: she said she could have done it in one and would not, because a tidier version of her room is not her room, and because if the other eight say it in one then hers will be the long one and she can live with that. He asked how many other rooms there are and was told there are other rooms, and asked whether they have merged and was told that the woman does not know and has not asked and is not going to, and that he is not to tell her, and gave the reason in nine seconds: he has not asked them yet and telling her would break something in four seconds without his meaning to. He did not ask her to put it in a column with the others, and he did not ask twice, and he did not write it down anywhere including on a piece of paper he took out of his pocket for nine seconds at a bench. The register of correct acts with no consequence stands at two and did not move on this day: refusing to write down a sentence in your own room's words is not a correct act, it is a woman not agreeing to be asked twice, and it cost her nothing and cost him the only thing he wanted, which is a column. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Five things are named here and this page sets no two of them beside one another: a sheet with four things on it all the same size and a box at the bottom, a card standing on end in a rail of two, a board on two nails, a hand copy of the front of a page, and a drawer under a bench with four sheets in it.**
+*A board that is not a door number, and a piece of paper that stayed in a pocket.* **He walked to the first of nine rooms on foot because a return path is a place and he has never in this city arrived at one of these rooms by being driven to it. A woman of about forty who has been in that room eleven years and does the returns for two other rooms as well and has never said so gave him one sentence in three clauses, and the three clauses are the point: she said she could have done it in one and would not, because a tidier version of her room is not her room, and because if the other eight say it in one then hers will be the long one and she can live with that. He asked how many other rooms there are and was told there are other rooms, and asked whether they have merged and was told that the woman does not know and has not asked and is not going to, and that he is not to tell her, and gave the reason in nine seconds: he has not asked them yet and telling her would break something in four seconds without his meaning to. He did not ask her to put it in a column with the others, and he did not ask twice, and he did not write it down anywhere including on a piece of paper he took out of his pocket for nine seconds at a bench. The register of correct acts with no consequence stands at two and did not move on this day: refusing to write down a sentence in your own room's words is not a correct act, it is a woman not agreeing to be asked twice, and it cost her nothing and cost him the only thing he wanted, which is a column. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Five objects are named on this page, in this order, and this page brings no two of them together: a sheet with four things on it all the same size and a box at the bottom, a card standing on end in a rail of two, a board on two nails, a hand copy of the front of a page, and a drawer under a bench with four sheets in it.**
 

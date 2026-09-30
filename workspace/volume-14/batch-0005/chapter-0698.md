@@ -1,17 +1,20 @@
 # Chapter 698 — A Friday, A Bench Until Two And A Counter Until About Six, Four Rooms Off That Service Road From About Half Past Six, One Page With Nine Rows On It Under A Rubber Band And No Signature At The Foot Of It, And A Woman Of About Thirty-Nine Who Asked Whether A Sheet Was Still Going Out And Was Told And Was Not Asked Why
 
-**A page with nine rows on it went up on the front of a cabinet under a rubber band, and nobody signed it, and one of the nine rows is not like the other eight. That is the Friday. The bench until two, the counter until about six and the four rooms off that service road from half past six are all there too, running underneath, and none of them is why the Friday is on the page.**
+**A page with nine rows on it went up on the front of a cabinet under a rubber band, and nobody signed it, and one of the nine rows is not like the other eight. That is the Friday. Bench until two, the counter until about six and the four rooms off that service road are all there too, running underneath, and none of them is why the Friday is on the page.**
 
 ---
 
-Ten jobs carried a date against each on the Friday and ten people came over the counter, the last of them let in at five, and the shutter came down at ten and shook the cage for the thirty-fifth time in eleven years.
-
-**Those four rooms off that service road stand at one thousand two hundred and seventy-eight days, a hundred and eighty-two weeks and four days, four of them and one behind the three, warm. The card on end in the rail by that door is one thousand two hundred and eighty-two days, a hundred and eighty-three weeks and one day, four days past them, and the rail takes two.**
+Ten jobs carried a date against each on the Friday and ten people came over the counter, the last of them let in at five.
 
 The nineteenth line on that board of two nails is nine hundred and seventy-four days, a hundred and thirty-nine weeks and one day.
+
+**Those four rooms off that service road stand at one thousand two hundred and seventy-eight days, a hundred and eighty-two weeks and four days, four of them and one behind the three, and they are warm. The card on end in the rail by that door, four days past them, is at one thousand two hundred and eighty-two days, a hundred and eighty-three weeks and one day. The rail takes two.**
+
+The separation is six hundred and fifty-eight days, ninety-four weeks to the day, shut in a one-line box in a form about twelve weeks ago and walked every day since and not shorter and nothing put back into it.
+
 The hardboard's sixteenth is one thousand and sixty-eight, a hundred and fifty-two weeks and four days, and the hold on nine crates in a yard in the second of the four towns is nine hundred and eleven, a hundred and thirty weeks and one day.
 
-The separation is six hundred and fifty-eight days, ninety-four weeks to the day, shut in a one-line box in a form about twelve weeks ago, walked every day since, not shorter, nothing put back into it.
+The shutter came down at ten and shook the cage for the thirty-fifth time in eleven years.
 
 ---
 
@@ -134,11 +137,11 @@ Ten jobs out and ten callers in, the last at five, the cage at ten, and then the
 
 ---
 
-**The tin on the table at the top of a stair in Saltmarket is on seventy-three with its lid on. The green-covered book on the same table is on sixty-four lines and has been on sixty-four lines for about five weeks now and was not opened on that Friday and there is nobody in this city who has asked it to be. Behind the chair of the woman who holds that room a place has been empty a long time and nobody in that room has asked about it in a long time.**
+**The tin on the table at the top of a stair in Saltmarket is on seventy-three with its lid on. The green-covered book on the same table is on sixty-four lines and has been on sixty-four lines since the Wednesday before last and was not opened on that Friday and there is nobody in this city who has asked it to be. Behind the chair of the woman who holds that room a place has been empty a long time and nobody in that room has asked about it in a long time.**
 
 ---
 
-**One other person was in the fourth of those four rooms off that service road that evening, from half past six until ten, and she is about thirty. Nothing whatever was put to her for three and a half hours and nobody has ever apologised to her in any form. What belongs to her is a page, and it is the eighth of eight, and the eight of them live on a back shelf in that room in a ring binder, and the binder did not come out and nobody in this city is entitled to take it down in her presence or out of it.**
+**One other person was in the fourth of those four rooms off that service road that evening, from half past six until ten, and she is about thirty. Nothing whatever was put to her for three and a half hours, and nobody has ever apologised to her in any form. What belongs to her is a page, the eighth of eight of them, and the eight of them live on a back shelf in that room in a ring binder. The binder did not come out, and nobody in this city is entitled to take it down in her presence or out of it.**
 
 ---
 
@@ -146,7 +149,7 @@ Ten jobs out and ten callers in, the last at five, the cage at ten, and then the
 
 *701.
 Friday of week 250, at ten, and the forty-eighth day of this stretch of days.
-Ten dated jobs and ten names, the last let in at five.
+Ten dated jobs went onto the Friday book and ten names came off it, the last at five.
 A page went up on the front of a steel cabinet in a first floor in a second district with a rubber band over it and no signature at the foot of it and no name at the head of it.
 It is one side of a sheet with nine rows ruled down it in pencil and a line at the right-hand end of each row.
 Eight of the rows have a date, a letter, and a tick in a small square, and six of the dates are the same Friday and two are the Friday before, and all eight ticks are the same tick.
@@ -155,13 +158,13 @@ Nobody in that building has read the row aloud or taken the rubber band off or p
 Nobody has said that it worked and nobody has said that it did not, and four people in that building think one of those and about four think the other and no one has said either out loud.
 At about half past eleven a woman of about thirty-nine asked at a counter whether a sheet with a box on it was still going out, was told that some went out on the Friday of the week before on a round that goes to nine rooms, and then was not asked why she was asking and did not say.
 She has not been back.
-Nobody thanked anybody.*
+No thanks were given on that Friday by anybody.*
 
 *Conditions and docket.* **The Friday carried ten dated jobs and ten callers, the last admitted at five, and four seconds of the late morning were a woman not being asked why she was asking.** Callers: ten.
-Refusals: four, one a request that a reason be written on a page for something that had happened, which is not a thing this shop does and which nobody in this city does for a page in another building, and one a request for about four hours of work to be described asshorter, which it was not. 
+Refusals: four, one a request that a reason be written on a page for something that had happened, which is not a thing this shop does and which nobody in this city does for a page in another building, and one a request for about four hours of work to be described as shorter, which it was not. 
 Work: ten, two declines, nothing escalated, nothing handed back.
 Charge: twenty-four pounds, exact.
-That flat has been above its winter setting for a ninth month and four names on the tenancy are the whole of the difference.
+The heating in that flat has been on high since before the spring and the tenancy has four names on it, which between them are everything anyone would say about that place.
 Those rooms: one thousand two hundred and seventy-eight days, a hundred and eighty-two weeks and four days, four of them and one behind, warm.
 Rail card: one thousand two hundred and eighty-two days, a hundred and eighty-three weeks and one day, rail of two.
 The board on two nails: twentieth, none, and never begun; twelfth, one thousand one hundred and ninety-eight, a hundred and seventy-one weeks and one day; thirteenth, one thousand one hundred and forty-nine, a hundred and sixty-four weeks and one day; fourteenth, one thousand one hundred and fourteen, a hundred and fifty-nine weeks and one day; fifteenth, one thousand and ninety-three, a hundred and fifty-six weeks and one day; sixteenth, one thousand and sixty-eight, a hundred and fifty-two weeks and four days; seventeenth, one thousand and fifty, a hundred and fifty weeks to the day; eighteenth, nine hundred and ninety-six, a hundred and forty-two weeks and two days.
@@ -169,8 +172,8 @@ The man of about fifty-one against that north wall: eight hundred and eighty-fou
 The ask: nine hundred and sixty-eight days, a hundred and thirty-eight weeks and two days.
 The hold on nine crates in a yard in the second of the four towns: nine hundred and eleven days, a hundred and thirty weeks and one day.
 The post at the corridor end: eight hundred and twenty-six days, a hundred and eighteen weeks to the day.
-The nine hand copies: eight hundred and forty-four days, a hundred and twenty weeks and four days, eight of the nine unfinished and the first row nobody has disagreed about still not found, and not one of the nine laid against another on any day of this fortnight.
-The separation: six hundred and fifty-eight days, ninety-four weeks to the day, shut in a one-line box in a form about twelve weeks ago and subtracted every day since, no shorter, nothing put back into it.*
+The nine hand copies: eight hundred and forty-four days, a hundred and twenty weeks and four days, with eight of the nine unfinished and the first row still showing nobody a disagreement, and not one of the nine ever put beside another.
+The separation: six hundred and fifty-eight days, ninety-four weeks to the day, a one-line box on a form roughly twelve weeks back, decremented every day since, by nothing, and with no credit returned to it.*
 
 *Nine rows, eight ticks, and a ninth row that is not like the other eight.* **A page with nine rows in pencil went up on the front of a cabinet in a first floor in a second district under a rubber band that has gone white where it has been stretched round something square, with no name at the head of it and no signature at the foot of it. Eight rows carry a date, a letter and the same tick in a small square. The ninth carries a date and a letter and no tick, and across it in a different hand is written that there has been nobody in that room since the summer and that a bundle has been left on a chair and the chair is still there. **Nobody has read that row aloud, taken the rubber band off, put a second sheet under it, dated the page or drawn a line under the ninth row.
-Nobody has said that the eight empty boxes were a success and nobody has said that they were not, and four people in that building think one thing and about four think the other and not one of the two halves has been said out loud to anybody including the person who wrote in the margin, who did it on somebody else's page and has not been asked and is not owed anything.** A woman of about thirty-nine asked at a counter whether a sheet with a box on it was still going out and was answered correctly in four seconds and was not asked why, and has not been back, and a man of twenty-two does not know why she asked and is never going to find out, and that refusal was the correct one and cost him the only thing he wanted out of that Friday. The register of correct acts with no consequence stands at two and did not move on this day: a woman of about thirty-nine asking a question in a shop is not a correct act, it is a woman with a reason she did not give, and not asking her is not a correct act either, it is a shop that does not hold her reason, and neither of them produced anything for anybody including the woman. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Six things are named here and this page sets no two of them beside one another: a page with nine rows on it under a rubber band, a sheet with four steps and a box at the bottom, a card on end in a rail of two, a bundle of post at the end of a corridor, a hand copy of the front of a page, and a drawer under a bench with four sheets in it that was not opened.**
+Nobody has said that the eight empty boxes were a success and nobody has said that they were not, and four people in that building think one thing and about four think the other and not one of the two halves has been said out loud to anybody including the person who wrote in the margin, who did it on somebody else's page and has not been asked and is not owed anything.** A woman of about thirty-nine asked at a counter whether a sheet with a box on it was still going out and was answered correctly in four seconds and was not asked why, and has not been back, and a man of twenty-two does not know why she asked and is never going to find out, and that refusal was the correct one and cost him the only thing he wanted out of that Friday. The register of correct acts with no consequence stands at two and did not move on this day: a woman of about thirty-nine asking a question in a shop is not a correct act, it is a woman with a reason she did not give, and not asking her is not a correct act either, it is a shop that does not hold her reason, and neither of them produced anything for anybody including the woman. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Six objects are named here, and not two of them are ever put together in a sentence on this page: a page with nine rows on it under a rubber band, a sheet with four steps and a box at the bottom, a card on end in a rail of two, a bundle of post at the end of a corridor, a hand copy of the front of a page, and a drawer under a bench with four sheets in it that was not opened.**

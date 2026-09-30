@@ -1,23 +1,24 @@
 # Chapter 699 — A Thursday, A Bench Until Two And A Counter Until About Six, Four Rooms Off That Service Road From About Half Past Six, A Woman Of About Fifty-Two Who Chairs Nine Chairs Who Said Nine Seconds About Doors And About A Box And Was Not Consoled And Did Not Ask To Be, And A Man Who Keeps Records Who Said Nine Seconds About A Hall And Was Not Asked A Question
 
-**Two people said one thing each in about nine seconds and nobody reacted to either. A bench until two, a counter until about six, four rooms off that service road from half past six, and five days between that Friday and this one that carry nothing at all and are not written down anywhere: none of those is the shape of this Thursday.**
+**Two people said one thing each in about nine seconds and nobody reacted to either. A bench until two, a counter until about six, four rooms off that service road from half past six, and five days between that Friday and this one that carry nothing at all and are not on this page: none of those is the shape of this Thursday.**
 
 ---
 
-Nine jobs carried a date against each on the Thursday and nine people came over the counter, the last of them let in at half past four, and the shutter came down at ten and shook the cage for the thirty-sixth time in eleven years.
+**Those four rooms off that service road stand at one thousand two hundred and eighty-four days, a hundred and eighty-three weeks and three days; four of them and one behind the three, warm. The card on end in the rail by that door is one thousand two hundred and eighty-eight days, a hundred and eighty-four weeks to the day, four days past them, and the rail takes two.**
 
-**Those four rooms off that service road stand at one thousand two hundred and eighty-four days, a hundred and eighty-three weeks and three days, four of them and one behind the three, warm. The card on end in the rail by that door is one thousand two hundred and eighty-eight days, a hundred and eighty-four weeks to the day, four days past them, and the rail takes two.**
+The separation is six hundred and sixty-four days, ninety-four weeks and six days. It was shut in a one-line box in a form about twelve weeks ago, walked every day since, not shorter, nothing put back into it.
+
+Nine dated jobs went out on that Thursday and nine people came over the counter for them, the last of them at half past four. The shutter came down at ten and shook the cage for the thirty-sixth time in eleven years.
+
+The hardboard's sixteenth is one thousand and seventy-four, a hundred and fifty-three weeks and three days, and nine hundred and seventeen days, a hundred and thirty-one weeks to the day, is what the hold on nine crates in a yard in the second of the four towns stands at.
 
 The nineteenth line on that board of two nails is nine hundred and eighty days, a hundred and forty weeks to the day.
-The hardboard's sixteenth is one thousand and seventy-four, a hundred and fifty-three weeks and three days, and the hold on nine crates in a yard in the second of the four towns is nine hundred and seventeen, a hundred and thirty-one weeks to the day.
-
-The separation is six hundred and sixty-four days, ninety-four weeks and six days, shut in a one-line box in a form about twelve weeks ago, walked every day since, not shorter, nothing put back into it.
 
 ---
 
-**Five days between the Friday before this one and this one carry nothing at all. They are not written down anywhere, and nothing is known about what was done in them and nobody is going to say.**
+**Five days between the Friday before this one and this one carry nothing at all. Nothing is known about what was done in them and nobody is going to say.**
 
-**There was a third of the four things on one of them, in a fourth district, in a room about the size of a wardrobe with a bench down one side and about nine hooks on the wall, and the person who noticed it noticed it inside the act of counting nine hooks and has not mentioned it to anybody and was not asked and will not be asked. Two of the other hooks had nothing on them and had had nothing on them for about a fortnight, and the person counting did not write that down either.**
+**The third of the four things was on one of them, in a fourth district, in a room about the size of a wardrobe with a bench down one side and about nine hooks on the wall, and the person who noticed it noticed it inside the act of counting nine hooks and has not mentioned it to anybody and was not asked and will not be asked. Two of the other hooks had nothing on them and had had nothing on them for about a fortnight, and the person counting did not write that down either.**
 
 Nobody in this city knows that any of the four has noticed anything, and three of the four are in three places, and the fourth is in a fourth place on a day after this one that carries nothing at all.
 
@@ -89,7 +90,7 @@ He put the bag on the counter, said nothing for nine seconds, and then said the 
 **And Marek stood at that counter for nine seconds afterwards with two facts in his head and did not join them up.**
 
 A thing placed on a form with a number of days on it, and nobody chased, and it stopped.
-**And** a woman with a paper behind her for five volumes has gone down under this city and armed what was left of a thing.
+**And** a woman with a paper behind her for longer than this city has been counting them has gone down under this city and armed what was left of a thing.
 
 **He noticed both of those on the same afternoon and put them next to each other in his own head, and did not make anything of it, and did not say it out loud to anybody, and is not going to, and there is no argument in this city that either of them is a lesson.**
 
@@ -114,27 +115,26 @@ At about two a woman of about thirty-four asked whether a door that has been giv
 
 The man of about thirty-three said that was fair and took about four pounds of it and left the rest and has not been back and it was four days of work.
 
-At about half past five a woman of about twenty-six wanted a receipt and was given one and said thank you and it was the only thank you anybody said in that shop that day and it was for a receipt.
+At about half past five a woman of about twenty-six wanted a receipt and was given one and went without saying anything, and it was for a receipt.
 
-**At about ten past four a man of about thirty-one came in and said he had been told that somebody had gone down under this city, and Marek said in four seconds that he did not know what he was talking about, and the man said he had been told it by a woman who keeps records, and Marek said that if she said it then she said it and that is the end of it.**
+**At about ten past four a man of about thirty-one came in and asked whether anybody had ever come into that shop from the hall under the old continuity buildings, and Marek said in four seconds that he did not know what he was talking about, and the man said a woman who keeps records had told him a person had, and Marek said that if she said it then she said it and that is the end of it.**
 
-"**Don't you want to know where.**"
+"**Don't you want to know who.**"
 
 "**No,**" Marek said.
 
-"**It's a doctor.**"
+"**It's a doctor,**" the man said.
 
-"**I know what she's a doctor of,**" Marek said, and then stopped, and **the reason he stopped is that he did not know he knew that, and four seconds passed and he did not go and find out where it came from, and that is the whole of what happened inside him and it is not on a form.**
+"**That's her business,**" Marek said, and **did not stop, and did not go and find out anything, and there is nothing on any form about having been asked and not asked it.**
 
-The man of about thirty-one said that was a strange thing to say and pay for that and went and said thank you at the door.
+The man of about thirty-one said that was a strange thing to say for a shop that only fixes things, and paid for four feet of cord and went.
 
-**Nobody in this city has told a man of twenty-two where a woman of fifty-three is, and nobody is going to, and the one word he said by accident he has not repeated to anybody and four people in this city know he said it and none of them has said anything.**
+**Nobody in this city has told a man of twenty-two where a woman of fifty-three is, and nobody is going to, and the only question that was asked him on that Thursday was the wrong question and he answered it and nothing came of it.**
 
 ---
 
-**Four things went into him on that Thursday and none of them was on a form.** A folder with a soft corner on the front sheet of it that stayed in a bag on a counter for nine seconds and went back in the bag.
-**A woman who says a thing twice a month to different people and is not happy about it and does not pretend to be.** Nine hooks on the wall of a room about the size of a wardrobe, two of them empty.
-And a man who said a sentence at a counter in the voice of a person reading a bus timetable and then picked a bag up off a counter and left.
+**Three things went into him on that Thursday and none of them was on a form.** A folder with a soft corner on the front sheet of it that stayed in a bag on a counter for nine seconds and went back in the bag.
+**A woman who says a thing twice a month to different people and is not happy about it and does not pretend to be.** And a man who said a sentence at a counter in the voice of a person reading a bus timetable and then picked a bag up off a counter and left.
 
 ---
 
@@ -147,11 +147,11 @@ Nine jobs, nine callers, the last at half past four, the shutter at ten, and a r
 
 ---
 
-**A green-covered book at the top of a stair in Saltmarket is on sixty-four lines and is not going to open again. The tin on that table is on seventy-three with its lid on. Behind the chair of the woman who holds that room a place has been empty a long time and there is a chair against that wall with its back to the room which nobody has moved and nobody in this city has ever said who put it there.**
+**A green-covered book at the top of a stair in Saltmarket is on sixty-four lines and has been on sixty-four lines since a Wednesday not three weeks ago, and there is no rule anywhere in this city that says which sittings it opens at. The tin on that table is on seventy-three with its lid on. Behind the chair of the woman who holds that room a place has been empty a long time and there is a chair against that wall with its back to the room which nobody has moved and nobody in this city has ever said who put it there.**
 
 ---
 
-**She is about thirty and the chair the door is behind is hers and she was in it from half past six until ten in the fourth of those four rooms off that service road, three and a half hours of it, with nothing whatever put to her and no apology in any form from anybody then or since. There is a page with her name at the head of it. It is the eighth of eight. It sits on a back shelf of that room in a ring binder and it did not come out on that Thursday and there is nobody in this city who would take it down out of her presence or in it.**
+**She is about thirty and the chair the door is behind is hers and she was in it from half past six until ten in the fourth of those four rooms off that service road, three and a half hours of it, with nothing whatever put to her and no apology in any form from anybody then or since. One page carries her name at the head of it, and it is the eighth of the eight. It sits on a back shelf of that room in a ring binder and it did not come out on that Thursday, and there is nobody in this city who would take it down out of her presence or in it.**
 
 ---
 
@@ -159,7 +159,7 @@ Nine jobs, nine callers, the last at half past four, the shutter at ten, and a r
 
 *702.
 Thursday of week 251, at ten, and the forty-ninth day of this stretch of days.
-Nine dated jobs and nine names, the last let in at half past four.
+Nine names and nine dated jobs on that Thursday, and the shop stopped taking people at half past four.
 Five days between that Friday and this Thursday carry nothing at all and nothing is known about what was done on them.
 A woman of about fifty-two who chairs nine chairs was at that counter for four minutes at half past ten and said that there are more doors with that sheet on them than there is anybody in a box on it, that she has said it out loud twice since the spring already, that she is not happy about it and is not going to pretend otherwise, that about four hundred people in this city are not in any of the nine rooms and are not going to be sent to any of them because a person who is sent to find somebody is a person who has been given a route, and that nobody is going to be sent: not by her, not by anybody who chairs anything, not by him.
 She said somebody would say in four weeks in about four places that it was the price, and that this city did not do it on purpose.
@@ -170,13 +170,13 @@ Nobody asked him a question and nobody reacted and the man of twenty-two did not
 Nobody in this city knows where it is.
 At about three a man of about thirty-three was refused four days of work in four seconds and refused the reason as well.
 A woman of about twenty-six was thanked for a receipt and that was the only thank you said in that shop that day.
-Nobody thanked anybody.*
+Nobody thanked anybody that Thursday.*
 
 *Conditions and docket.* **The Thursday carried nine dated jobs and nine callers, the last admitted at half past four, and four minutes of the morning were a woman of about fifty-two at that counter and nine seconds of the afternoon were a man who keeps records.** Callers: nine.
 Refusals: four, one a request that a thing which had stopped be started again by the person who put it there, which would have needed somebody to come and check and nobody is going to, and one a request that four days of work be taken on a day the shop cannot do it on.
 Work: nine, two declines, nothing escalated, nothing handed back, four days of a man's van refused and taken off the book.
 Charge: nineteen pounds, exact.
-That flat has been above its winter setting for a ninth month and four names on the tenancy are the whole of the difference.
+Nine months of heating set too high in that flat is what a person would remember about it, and then the four names on the tenancy.
 Those rooms: one thousand two hundred and eighty-four days, a hundred and eighty-three weeks and three days, four of them and one behind, warm.
 Rail card: one thousand two hundred and eighty-eight days, a hundred and eighty-four weeks to the day, rail of two.
 The board on two nails: twentieth, none, and never begun; twelfth, one thousand two hundred and four, a hundred and seventy-two weeks to the day; thirteenth, one thousand one hundred and fifty-five, a hundred and sixty-five weeks to the day; fourteenth, one thousand one hundred and twenty, a hundred and sixty weeks to the day; fifteenth, one thousand and ninety-nine, a hundred and fifty-seven weeks to the day; sixteenth, one thousand and seventy-four, a hundred and fifty-three weeks and three days; seventeenth, one thousand and fifty-six, a hundred and fifty weeks and six days; eighteenth, one thousand and two, a hundred and forty-three weeks and one day.
@@ -184,8 +184,8 @@ The man of about fifty-one against that north wall: eight hundred and ninety day
 The ask: nine hundred and seventy-four days, a hundred and thirty-nine weeks and one day.
 The hold on nine crates in a yard in the second of the four towns: nine hundred and seventeen days, a hundred and thirty-one weeks to the day.
 The post at the corridor end: eight hundred and thirty-two days, a hundred and eighteen weeks and six days.
-The nine hand copies: eight hundred and fifty days, a hundred and twenty-one weeks and three days, eight of the nine unfinished and the first row nobody has disagreed about still not found, and not one of the nine laid against another on any day of this fortnight.
-The separation: six hundred and sixty-four days, ninety-four weeks and six days, shut in a one-line box in a form about twelve weeks ago and subtracted every day since, no shorter, nothing put back into it.*
+The nine hand copies: eight hundred and fifty days, a hundred and twenty-one weeks and three days, and eight of the nine are unfinished, and the row everybody would start with has never been found to disagree about anything, and no comparison has been run.
+The separation: six hundred and sixty-four days, ninety-four weeks and six days, and the one-line box it is written into is on a form of about twelve weeks ago and loses a day for every day since and gains none.*
 
 *More doors than boxes, and a doctor under the city, and nobody sent and nobody asked.* **A woman of about fifty-two who chairs nine chairs said at a counter that there are more doors with a printed sheet on them than there is anybody in a box on it, said she had said it twice already since the spring, said she was not happy about it and would not pretend to be, and gave the reason nobody is going to be sent in nine seconds: a person who is sent to find somebody is a person who has been given a route, and about four hundred people in this city who have not been sent anywhere are the reason anybody is still where they are. She said a man of twenty-two was waiting to be asked to do it and that so was she. **A man who keeps records then put a bag on that counter and said in nine seconds, flatly, that a doctor of fifty-three has gone down and armed what is left of the arrangement, and nobody asked him a question, nobody reacted, and the man of twenty-two did not ask one because the answer would have been a place and a place with a thing in it is a thing he can be sent to. Nobody in this city knows where it is, nothing behind any wall in this city has been seen or described or discussed, and the man who said it may not be larger than a frightened printer on a road off Saltmarket who set none of the type and does not know any of this exists.
-The man of twenty-two put those two facts next to each other in his own head on one afternoon and did not make an argument out of them and has not mentioned either of them to anybody.** The register of correct acts with no consequence stands at two and did not move on this day: saying out loud that nobody is going to be sent is not a correct act, it is a woman saying a thing she has already said twice, and the four hundred people it protects have not been told they were protected and will not be. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Six things are named here and this page sets no two of them beside one another: a sheet with four steps and a box at the bottom, a card on end in a rail of two, a folder in a bag with a soft corner on the front sheet, a hand copy of the front of a page, a chase with nine ruled lines in it on a road off Saltmarket, and a drawer under a bench with four sheets in it that was not opened.**
+The man of twenty-two put those two facts next to each other in his own head on one afternoon and did not make an argument out of them and has not mentioned either of them to anybody.** The register of correct acts with no consequence stands at two and did not move on this day: saying out loud that nobody is going to be sent is not a correct act, it is a woman saying a thing she has already said twice, and the four hundred people it protects have not been told they were protected and will not be. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Six objects get named below, and this page does not put any two of them in the same breath: a sheet with four steps and a box at the bottom, a card on end in a rail of two, a folder in a bag with a soft corner on the front sheet, a hand copy of the front of a page, a chase with nine ruled lines in it on a road off Saltmarket, and a drawer under a bench with four sheets in it that was not opened.**

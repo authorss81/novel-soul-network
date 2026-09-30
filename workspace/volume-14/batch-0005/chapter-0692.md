@@ -4,14 +4,14 @@
 
 ---
 
-Ten jobs carried a date against each on the Wednesday and ten people came over the counter, the last of them let in at half past four, and the shutter came down at ten and shook the cage for the twenty-ninth time in eleven years.
+Ten jobs carried a date against each on the Wednesday, ten people came over the counter, and at half past four the shop would not take another. The shutter came down at ten and shook the cage for the twenty-ninth time in eleven years.
 
-**Those four rooms off that service road stand at one thousand two hundred and sixty-nine days, a hundred and eighty-one weeks and two days, four of them and one behind the three, warm. The card on end in the rail by that door is one thousand two hundred and seventy-three days, a hundred and eighty-one weeks and six days, four days past them, and the rail takes two.**
+**Four days is the whole distance between the card on end in the rail by that door and the rooms behind it. Those rooms are at one thousand two hundred and sixty-nine days, a hundred and eighty-one weeks and two days; the card is at one thousand two hundred and seventy-three days, a hundred and eighty-one weeks and six days. Four of them and one behind the three are warm. The rail takes two.**
 
-The nineteenth line on that board of two nails is nine hundred and sixty-five days, a hundred and thirty-seven weeks and six days.
-The hardboard's sixteenth is one thousand and fifty-nine, a hundred and fifty-one weeks and two days, and the hold on nine crates in a yard in the second of the four towns is nine hundred and two, a hundred and twenty-eight weeks and six days.
+The nineteenth line on that board of two nails is nine hundred and sixty-five days, a hundred and thirty-seven weeks and six days, and the hardboard's sixteenth is one thousand and fifty-nine, a hundred and fifty-one weeks and two days.
+The hold on nine crates in a yard in the second of the four towns is nine hundred and two, a hundred and twenty-eight weeks and six days.
 
-The separation is six hundred and forty-nine days, ninety-two weeks and five days, shut in a one-line box in a form about twelve weeks ago, walked every day since, not shorter, nothing put back into it.
+By this Wednesday the separation had been walked to six hundred and forty-nine days, which is ninety-two weeks and five days of it. It went shut in a one-line box in a form about twelve weeks ago. It is counted every day. It has not got shorter. Nothing has gone back in.
 
 ---
 
@@ -52,7 +52,7 @@ He wrote nothing down and had a piece of paper in his hand for about four second
 "**Is that all of it.**"
 
 "**That is all of it,**" she said.
-"**We did not choose the Friday. A bus comes four times a day and it comes four times a day on a Friday and twice on the other days, and if I answer on a Tuesday then I am answering on a day when I cannot get anything anywhere, and a room that answers and cannot act is worse than a room that does not answer.**"
+"**We did not choose the Friday. A bus comes four times on a Friday and twice on the other days, and it comes four times a day, and if I answer on a Tuesday then I am answering on a day when I cannot get anything anywhere, and a room that answers and cannot act is worse than a room that does not answer.**"
 
 ---
 
@@ -109,7 +109,7 @@ At about half past two a woman of about forty-one asked whether a thing a room d
 
 At about three a man of about fifty-three wanted a lock changed and did not want a lock changed.
 
-At about a quarter to four a woman of about twenty-six came in and said she was not going to be thanked for the tea, and was thanked anyway.
+At about a quarter to four a woman of about twenty-six came in and said she was not going to be thanked for the tea, and nobody thanked her.
 
 **He went up to the second of the nine rooms at about nine in the morning and was let in by the woman of about twenty-six, and about four minutes of that visit were a thing nobody has written down and that has not come up again.**
 
@@ -129,7 +129,7 @@ She said no and then said that there was a book, and that it was a book of a fir
 
 **Nobody in this city knows about the man standing near the column and there are four other people who sign columns in four other rooms in this city and at least two of them have the same thing and none of the two has said so to anybody either.**
 
-**He made that woman of about twenty-six a cup of tea at about eleven and did not charge for it and it took him nine minutes out of the only quiet half hour that Monday had, and he gave it away deliberately, because he had been in two rooms before nine o'clock and had not been alone once and had not noticed until the tea was in front of her.**
+**He made that woman of about twenty-six a cup of tea at about eleven and did not charge for it and it took him nine minutes out of the only quiet half hour that Wednesday had, and he gave it away deliberately, because he had been in two rooms since half past eight and had not been alone once in either and had not noticed until the tea was in front of her.**
 
 **At about eleven a man of about thirty-three came in with a bag of his own things and asked whether this shop was the one that had sent the sheet.**
 
@@ -169,13 +169,13 @@ Ten jobs, ten callers, the last at half past four, the shutter at ten, and nine 
 
 ---
 
-**The tin on the table at the top of that stair in Saltmarket is on seventy-three with its lid on and the book on the same table is on sixty-four lines and has been on sixty-four lines since a Wednesday about four weeks ago, and the twenty-eight days between that Wednesday and this one carried no sitting and announced nothing, and not one of them says what a sitting does when there was none.**
+**The tin on the table at the top of that stair in Saltmarket is on seventy-three with its lid on and the book on the same table is on sixty-four lines and has been on sixty-four lines since the Wednesday before last, and the seven days between that Wednesday and this one carried no sitting and announced nothing, and not one of them says what a sitting does when there was none.**
 
 ---
 
-**From half past six until ten there was one other person in the fourth of those four rooms off that service road and she is about thirty and nothing at all was put to her for three and a half hours, and nobody has apologised to her in any form and nobody is going to.**
+**Somebody was in the fourth of those four rooms off that service road from half past six until ten and nobody put anything to her. She is about thirty. Nobody has apologised to her in any form and nobody is going to. The page with her name at the head of it is the eighth of eight in a ring binder on the back shelf of that room. The binder did not come out, and no arrangement exists in this city for opening it, in her presence or otherwise.**
 
-The page that is hers is the eighth of eight in a ring binder on the back shelf of that room and it did not come out.
+It did not come out, and there is no arrangement for it.
 
 ---
 
@@ -183,20 +183,20 @@ The page that is hers is the eighth of eight in a ring binder on the back shelf 
 
 *695.
 Wednesday of week 249, at ten, and the forty-second day of this stretch of days.
-Ten dated jobs and ten names, the last let in at half past four.
+The book for that Wednesday carried ten names and ten dated jobs, and the counter shut on the tenth at half past four.
 He was in the second of nine rooms from nine until ten and the third from eleven until twenty past eleven, and told neither what the other had said or what the first had said on Monday.
 The second room gave him a sentence that is a question, and the woman who gave it said in nine seconds that she had thought about it being a question and was leaving it as one because a tidied round version would be an answer she does not have.
 The third room gave him one clause about a Friday, and the woman of about sixty-eight who gave it said she did not know what the others are and is not going to pretend to, and gave the reason a room that answers and cannot act is worse than a room that does not answer.
 He came out onto a road at half past eleven with three of them in his head and no place to put them.
 A man of about thirty-one who works for a firm and carried the first of a kind of printed sheet out of a post box in his first week there was asked at two o'clock where nine sentences came from and said in four seconds that they come from the same place his did, and named a place and not a person, and said that nine people go there and none of them know the others' names and about half have stopped going and the other half go and do not talk about it. 
 He was asked nothing further and will not be.
-Nobody thanked anybody except one woman of about twenty-six who said she was not going to be thanked for a cup of tea and was thanked anyway.*
+Nobody thanked anybody. A woman of about twenty-six said she was not going to be thanked for a cup of tea and was not.*
 
 *Conditions and docket.* **The Wednesday carried ten dated jobs and ten callers, the last admitted at half past four, and about twenty minutes of the middle of it were two rooms that were nine minutes' walk apart.** Callers: ten.
 Refusals: three, one a request that the same question asked twice be recorded as two different things, which it is, and one a request that a rule kept on one day a week be entered as a rule on a form this shop does not keep.
 Work: ten, three declines, nothing escalated, nothing handed back.
 Charge: twenty-one pounds, exact, and a cup of tea went out on it that nobody paid for and one person did not want.
-That flat has been above its winter setting for a ninth month and four names on the tenancy are the whole of the difference.
+Nothing has been turned down in that flat since the autumn before last, and the four names on its tenancy are the entire difference.
 Those rooms: one thousand two hundred and sixty-nine days, a hundred and eighty-one weeks and two days, four of them and one behind, warm.
 Rail card: one thousand two hundred and seventy-three days, a hundred and eighty-one weeks and six days, rail of two.
 The board on two nails: twentieth, none, and never begun; twelfth, one thousand one hundred and eighty-nine, a hundred and sixty-nine weeks and six days; thirteenth, one thousand one hundred and forty, a hundred and sixty-two weeks and six days; fourteenth, one thousand one hundred and five, a hundred and fifty-seven weeks and six days; fifteenth, one thousand and eighty-four, a hundred and fifty-four weeks and six days; sixteenth, one thousand and fifty-nine, a hundred and fifty-one weeks and two days; seventeenth, one thousand and forty-one, a hundred and forty-eight weeks and five days; eighteenth, nine hundred and eighty-seven, a hundred and forty-one weeks to the day.
@@ -204,8 +204,8 @@ The man of about fifty-one against that north wall: eight hundred and seventy-fi
 The ask: nine hundred and fifty-nine days, a hundred and thirty-seven weeks to the day.
 The hold on nine crates in a yard in the second of the four towns: nine hundred and two days, a hundred and twenty-eight weeks and six days.
 The post at the corridor end: eight hundred and seventeen days, a hundred and sixteen weeks and five days.
-The nine hand copies: eight hundred and thirty-five days, a hundred and nineteen weeks and two days, eight of the nine unfinished and the first row nobody has disagreed about still not found, and not one of the nine laid against another on any day of this fortnight.
-The separation: six hundred and forty-nine days, ninety-two weeks and five days, shut in a one-line box in a form about twelve weeks ago and subtracted every day since, no shorter, nothing put back into it.*
+The nine hand copies: eight hundred and thirty-five days, a hundred and nineteen weeks and two days, eight of them unfinished, the disagreement on the first row still unfound, and no two of the nine set side by side.
+The separation: six hundred and forty-nine days, ninety-two weeks and five days, closed in a one-line box on a form of about twelve weeks back and counted off every day since, by no amount, with nothing carried back.*
 
-*Three answers and no place to put them, and a place at the end of a platform.* **Nine rooms have each been asked for one sentence in their own words and three of them have answered and none of the three has been told what any of the others said. The second room gave a sentence that is a question, on the stated ground that they have never had a written answer to it and a tidied round version would be an answer invented on the spot. The third room gave a single clause about a Friday, on the stated ground that a bus comes four times on a Friday and twice on the other days and that a room which answers on a day it cannot move anything is worse than a room that does not answer. The second woman said in nine seconds that hers is small and that she does not know what the others are and is not going to pretend to. The man of about thirty-one who carries for a firm and carried the first of a kind of printed sheet out of a post box in his first week there was asked at a counter where nine sentences came from and said in four seconds that they come from the same place his did, and named a place, and said that nine people go there and none of them know the others' names and that about half have stopped going and the other half go and do not talk. He was not asked a second time and has said nothing since and could not be made to. Nobody in this city has heard that man give the name of a person in connection with the nine sentences and nobody has asked him and nobody is going to. The register of correct acts with no consequence stands at two and did not move on this day: a man giving a place instead of a name is not a correct act, it is a man being careful with a thing he has carried for four years, and it cost him the only reason anybody had to keep asking him questions, and he has not been asked one since. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Six things are named here and this page sets no two of them beside one another: a printed sheet with four steps and a box at the bottom, a card on end in a rail of two, a hand copy of the front of a page, a case a man carried in from a firm, a wire cage on a round-the-side, and a drawer under a bench with four sheets in it.**
+*Three answers and no place to put them, and a place at the end of a platform.* **Nine rooms have each been asked for one sentence in their own words and three of them have answered and none of the three has been told what any of the others said. The second room gave a sentence that is a question, on the stated ground that they have never had a written answer to it and a tidied round version would be an answer invented on the spot. The third room gave a single clause about a Friday, on the stated ground that a bus comes four times on a Friday and twice on the other days and that a room which answers on a day it cannot move anything is worse than a room that does not answer. The second woman said in nine seconds that hers is small and that she does not know what the others are and is not going to pretend to. The man of about thirty-one who carries for a firm and carried the first of a kind of printed sheet out of a post box in his first week there was asked at a counter where nine sentences came from and said in four seconds that they come from the same place his did, and named a place, and said that nine people go there and none of them know the others' names and that about half have stopped going and the other half go and do not talk. He was not asked a second time and has said nothing since and could not be made to. Nobody in this city has heard that man give the name of a person in connection with the nine sentences and nobody has asked him and nobody is going to. The register of correct acts with no consequence stands at two and did not move on this day: a man giving a place instead of a name is not a correct act, it is a man being careful with a thing he has carried for four years, and it cost him the only reason anybody had to keep asking him questions, and he has not been asked one since. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Six objects are named on this page, in the order they come, and not two of them are set beside one another here: a printed sheet with four steps and a box at the bottom, a card on end in a rail of two, a hand copy of the front of a page, a case a man carried in from a firm, a wire cage on a round-the-side, and a drawer under a bench with four sheets in it.**
 

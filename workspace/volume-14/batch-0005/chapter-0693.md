@@ -1,17 +1,16 @@
 # Chapter 693 — A Thursday, A Bench Until Two And A Counter Until About Six, A Room In A Second District Where Somebody Asked The Merger Question And Was Refused, And A Room A Day And A Night Of Bus Travel Away That Somebody Else Asked, And A Man Of About Thirty-Four Who Asked A Thing First So That He Could Not Have Agreed To The Answer
 
-**Two rooms, and one of them two thousand miles from the other. Bench until two, counter until about six, four rooms off that service road from half past six, and the whole of that is ordinary Thursday: the shape of this one is a question about that got no answer, and two sentences that are not the same shape as anything.**
+**Two rooms, and one of them a day and a night of bus travel from the other. Bench until two, counter until about six, four rooms off that service road from half past six, and the whole of that is ordinary Thursday: the shape of this one is a question about that got no answer, and two sentences that are not the same shape as anything.**
 
 ---
 
-Nine jobs carried a date against each on the Thursday and nine people came over the counter, the last of them let in at ten past five, and the shutter came down at ten and shook the cage for the thirtieth time in eleven years.
+The separation came to six hundred and fifty days on this Thursday, which is ninety-two weeks and six days, and it was shut in a one-line box in a form about twelve weeks ago and has been walked every day since. It is not shorter and nothing has gone back into it.
 
-**Those four rooms off that service road stand at one thousand two hundred and seventy days, a hundred and eighty-one weeks and three days, four of them and one behind the three, warm. The card on end in the rail by that door is one thousand two hundred and seventy-four days, a hundred and eighty-two weeks to the day, four days past them, and the rail takes two.**
+Nine dated jobs went out on that Thursday and nine people came over the counter for them, the last of them let in at ten past five. At ten the shutter came down and shook the cage for the thirtieth time in eleven years.
 
-The nineteenth line on that board of two nails is nine hundred and sixty-six days, a hundred and thirty-eight weeks to the day.
-The hardboard's sixteenth is one thousand and sixty, a hundred and fifty-one weeks and three days, and the hold on nine crates in a yard in the second of the four towns is nine hundred and three, a hundred and twenty-nine weeks to the day.
+**Those four rooms off that service road stand at one thousand two hundred and seventy days, a hundred and eighty-one weeks and three days; four of them and one behind the three, warm. Standing on end in the rail by that door, four days past them, is a card at one thousand two hundred and seventy-four days, a hundred and eighty-two weeks to the day, and the rail takes two.**
 
-The separation is six hundred and fifty days, ninety-two weeks and six days, shut in a one-line box in a form about twelve weeks ago, walked every day since, not shorter, nothing put back into it.
+The nineteenth line on that board of two nails is nine hundred and sixty-six days, a hundred and thirty-eight weeks to the day, and the hardboard's sixteenth is one thousand and sixty, a hundred and fifty-one weeks and three days. The hold on nine crates in a yard in the second of the four towns is nine hundred and three, a hundred and twenty-nine weeks to the day.
 
 ---
 
@@ -51,9 +50,9 @@ The man of about thirty-four looked at the door for a while.
 "**That is your sentence.**"
 
 "**That is my sentence,**" he said.
-"**And it is about me and not about room, and I know that, and you have got eight more and one of them is a question and one of them is about Friday.**"
+"**And it is about me and not about that room, and I know that, and you have got more of them than I have.**"
 
-"**You have got three,**" Marek said, "**and you have not got the other six, and I am not going to tell you what I have got and I am not going to tell you what I have not got.**"
+"**You have got three,**" Marek said, "**and you have not got the rest of them, and I am not going to tell you what I have got and I am not going to tell you what I have not got.**"
 
 "**Then what is the point of the sentence.**"
 
@@ -103,7 +102,7 @@ At about half past one a man of about twenty-two brought in a leg to a chair and
 
 At about half past three a woman of about forty-four asked whether a room could be asked a question by somebody who was not going to be told the answer, and was told in four seconds that it could, and that this was the whole arrangement and it had been the whole arrangement for nine weeks.
 
-**At about ten past four a man of about thirty-six came in and asked whether it was possible to be in two rooms in two districts on the same morning, and Marek said that it was, and that he had done it, and that the day after that he had been in two rooms about a hundred miles apart and had not been in either of them.**
+**At about ten past four a man of about thirty-six came in and asked whether it was possible to be in two rooms in two districts on the same morning, and Marek said that it was, and that he had done it, and that the day after that he had been in two rooms on opposite sides of this city and had not been in either of them.**
 
 "**That's not the same thing.**"
 
@@ -112,14 +111,14 @@ At about half past three a woman of about forty-four asked whether a room could 
 
 The man of about thirty-six said that was not what he meant and Marek said he knew it was not, and the man paid for nine feet of conduit and went.
 
-**And that is the honest answer to that question and it is going to be the reason there are fewer than nine of these and not more, and the ones that will be missing are the ones that would have had to be asked by somebody who could have been in two rooms and been useful in both, and there is nobody in this city, including him, who is that person.**
+**And that is the honest answer to that question and it is going to be the reason that some of these get asked by somebody who could have been in two rooms and been useful in both and some of them get asked by nobody at all, and there is nobody in this city, including him, who is that person.**
 
 At about five a man of about twenty-nine wanted to know whether two men who had never met could be called colleagues on a form, and was told no, and did not like it, and paid for about nine foot of chain anyway.
 
 ---
 
 **He noticed four things on that Thursday and not one of them was on a form.** A door in a second-district room propped open with a folded invoice that had been folded at the same line twice before.
-**A bus timetable in a town a day and a night away with one corner of it torn and the torn corner not recent.** Two rooms on the same Thursday about two thousand miles apart, and a woman who went to one of them because a man handed her a card in a car park and did not tell her why.
+**A bus timetable in this city with one corner of it torn and the torn corner not recent.** Two rooms on the same Thursday with a bus between them and a night at the far end of it, and a woman who went to one of them because a man handed her a card in a car park and did not tell her why.
 And a man of about thirty-four who asked a question and did not get an answer and then gave his sentence anyway, and did not appear to connect the two.
 
 ---
@@ -133,9 +132,9 @@ Nine dated jobs and nine names, the last let in at ten past five, the shutter at
 
 ---
 
-**From half past six until ten there was one other person in the fourth of those four rooms off that service road and she is about thirty and she is in the chair the door is behind for three and a half hours and nothing whatever was put to her and nobody has ever said sorry to her for it in any form.**
+**For three and a half hours of that Thursday the fourth of those four rooms off that service road held one other person and she is about thirty and she is in the chair the door is behind. Nothing whatever was put to her. Nobody has ever said sorry to her for it in any form, and nobody will. What she has is a page, the eighth of eight of them, in a ring binder on a back shelf of that room. It stayed in the binder. There is nobody in this city entitled to take it down in her presence or out of it.**
 
-The page that belongs to her is the eighth of eight in a ring binder on the back shelf of that room and it stayed where it was.
+It stayed where it was, on a shelf, in a room four rooms off a service road, on a Thursday, while a man of twenty-two was somewhere else.
 
 ---
 
@@ -143,20 +142,20 @@ The page that belongs to her is the eighth of eight in a ring binder on the back
 
 *696.
 Thursday of week 249, at ten, and the forty-third day of this stretch of days.
-Nine dated jobs and nine names, the last let in at ten past five.
+Nine dated jobs, nine names, and the ninth of them at ten past five on a Thursday afternoon.
 He was in the fourth of nine rooms on the first floor of a second district at ten, where a man of about thirty-four said he would ask a thing first because if he asked it second he would have agreed to the answer, and asked whether the other eight have merged.
 He was refused in four seconds and was told the refusal would not be softened and no reason would be given and that both halves were true at once and that he was entitled to be annoyed.
 The room then gave its sentence anyway, which is that he will speak to the person it came from and tell them it arrived and will not tell them what he did with it, and the woman of about twenty-six in the corner said it was the best answer he had had all week and the man said it was not an answer and she said no.
 He was told he had three of the nine and not the other six.
 The fifth of the nine rooms is a day and a night of bus travel away and he did not go; a woman of about thirty-six who was not asked to ask went there on an earlier bus and back on a later one, and told him that he had handed her a card in a car park and said go and ask and had not said why, and the room's sentence is that anything that comes there goes back out of the same door and the same person takes it out.
 He asked that one and got it, and it is in his head on the same terms as the other four.
-Nobody thanked anybody.*
+There was no thanking of anybody on that Thursday.*
 
 *Conditions and docket.* **The Thursday carried nine dated jobs and nine callers, the last admitted at ten past five, and eleven minutes of the morning were a woman of about thirty-six on a bus that somebody else paid for.** Callers: nine.
 Refusals: four, one a request that two men who had never met be called colleagues on a form, which they may not, and one a request that the whole of one side of this be written down anywhere, which is not a thing a shop does.
 Work: nine, three declines, nothing escalated, nothing handed back.
 Charge: seventeen pounds, exact, and nine foot of chain went out on it.
-That flat has been above its winter setting for a ninth month and four names on the tenancy are the whole of the difference.
+One setting has been altered in that flat since it was let and four names have gone onto the tenancy, and there is no third thing.
 Those rooms: one thousand two hundred and seventy days, a hundred and eighty-one weeks and three days, four of them and one behind, warm.
 Rail card: one thousand two hundred and seventy-four days, a hundred and eighty-two weeks to the day, rail of two.
 The board on two nails: twentieth, none, and never begun; twelfth, one thousand one hundred and ninety, a hundred and seventy weeks to the day; thirteenth, one thousand one hundred and forty-one, a hundred and sixty-three weeks to the day; fourteenth, one thousand one hundred and six, a hundred and fifty-eight weeks to the day; fifteenth, one thousand and eighty-five, a hundred and fifty-five weeks to the day; sixteenth, one thousand and sixty, a hundred and fifty-one weeks and three days; seventeenth, one thousand and forty-two, a hundred and forty-eight weeks and six days; eighteenth, nine hundred and eighty-eight, a hundred and forty-one weeks and one day.
@@ -164,8 +163,8 @@ The man of about fifty-one against that north wall: eight hundred and seventy-si
 The ask: nine hundred and sixty days, a hundred and thirty-seven weeks and one day.
 The hold on nine crates in a yard in the second of the four towns: nine hundred and three days, a hundred and twenty-nine weeks to the day.
 The post at the corridor end: eight hundred and eighteen days, a hundred and sixteen weeks and six days.
-The nine hand copies: eight hundred and thirty-six days, a hundred and nineteen weeks and three days, eight of the nine unfinished and the first row nobody has disagreed about still not found, and not one of the nine laid against another on any day of this fortnight.
-The separation: six hundred and fifty days, ninety-two weeks and six days, shut in a one-line box in a form about twelve weeks ago and subtracted every day since, no shorter, nothing put back into it.*
+The nine hand copies: eight hundred and thirty-six days, a hundred and nineteen weeks and three days, that is eight unfinished out of nine, the first row nobody has ever found a disagreement on, and no comparison of any kind on the page.
+The separation: six hundred and fifty days, ninety-two weeks and six days: a one-line box on a form of about twelve weeks ago, minus a day for every day since, with no return and no shortening to point at.*
 
-*A question asked first on purpose, and two thousand miles of not knowing.* **The fourth of nine rooms asked whether the other eight have merged, and said in the same breath that it was asking first because if it asked second it would have agreed to the answer, and was refused in four seconds in a form that gave two things at once: the refusal would not be softened and no reason would be given. The room then gave its sentence anyway and nobody in that room connected the question to the answer, and the sentence is that he will speak to the person it came from and tell them it arrived and will not tell them what he did with it, and a woman of about twenty-six in the corner said it was the best answer he had had all week and was told by the man that it was not an answer and agreed that it was not. The fifth of the nine rooms is a day and a night of bus travel away and no one in this city was sent to find out whether it had been asked. It had. A woman of about thirty-six went there on an earlier bus and came back on a later one, and told him at a bench that he had handed her a card in a car park and said go and ask and gave no reason, and she asked him no questions on the way there and none coming back, and the room's sentence is that anything that comes to it goes back out of the same door by the person who brought it in, and that it has waited twice since the spring and gone both times. He asked that one and got it, and it went into his head on the same terms as the other four, and the only thing he did not get was the address, because he did not ask for it and she did not offer it. The register of correct acts with no consequence stands at two and did not move on this day: refusing to say whether eight rooms have merged is not a correct act, it is a man not being given a second person to lie to, and the man of about thirty-four went away annoyed and gave his sentence anyway and the sentence is now the fourth thing in one head and there is nowhere to put it. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Five things are named here and this page sets no two of them beside one another: a card handed over in a car park, a card standing on end in a rail of two, a printed sheet with four steps and a box, a hand copy of the front of a page, and a drawer under a bench holding four sheets that was not opened.**
+*A question asked first on purpose, and a day and a night of not knowing.* **The fourth of nine rooms asked whether the other eight have merged, and said in the same breath that it was asking first because if it asked second it would have agreed to the answer, and was refused in four seconds in a form that gave two things at once: the refusal would not be softened and no reason would be given. The room then gave its sentence anyway and nobody in that room connected the question to the answer, and the sentence is that he will speak to the person it came from and tell them it arrived and will not tell them what he did with it, and a woman of about twenty-six in the corner said it was the best answer he had had all week and was told by the man that it was not an answer and agreed that it was not. The fifth of the nine rooms is a day and a night of bus travel away and no one in this city was sent to find out whether it had been asked. It had. A woman of about thirty-six went there on an earlier bus and came back on a later one, and told him at a bench that he had handed her a card in a car park and said go and ask and gave no reason, and she asked him no questions on the way there and none coming back, and the room's sentence is that anything that comes to it goes back out of the same door by the person who brought it in, and that it has waited twice since the spring and gone both times. He asked that one and got it, and it went into his head on the same terms as the other four, and the only thing he did not get was the address, because he did not ask for it and she did not offer it. The register of correct acts with no consequence stands at two and did not move on this day: refusing to say whether eight rooms have merged is not a correct act, it is a man not being given a second person to lie to, and the man of about thirty-four went away annoyed and gave his sentence anyway and the sentence is now the fourth thing in one head and there is nowhere to put it. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Five objects are named here, and not one of them is put beside another on this page: a card handed over in a car park, a card standing on end in a rail of two, a printed sheet with four steps and a box, a hand copy of the front of a page, and a drawer under a bench holding four sheets that was not opened.**
 
