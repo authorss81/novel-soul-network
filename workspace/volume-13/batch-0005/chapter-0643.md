@@ -4,7 +4,7 @@
 
 ---
 
-He got off it at half past one in the afternoon and the town came in on the road in pieces over about two hours, the same as it did nine days ago, and he walked the last of it because there is nothing in that town to get a wheelbarrow out of. **It takes a day and a night to get there, the whole round trip is four days, it runs on a Wednesday and on a Saturday, and the next one out of this city is the day after tomorrow.**
+He got off it at half past one in the afternoon and the town came in on the road in pieces over about two hours, the same as it did fourteen days ago, and he walked the last of it because there is nothing in that town to get a wheelbarrow out of. **It takes a day and a night to get there, the whole round trip is four days, it runs on a Wednesday and on a Saturday, and the next one out of this city is the day after tomorrow.**
 
 Four rooms off a service road in a city he was not standing in are one thousand one hundred and fifty-eight days, a hundred and sixty-five weeks and three days, four of them and one behind, warm. **The card standing on end in the rail in that city is one thousand one hundred and sixty-two days, one hundred and sixty-six weeks to the day, four days past them, and the rail takes two.**
 
@@ -68,7 +68,7 @@ The man of about fifty-one at the desk said, in the voice of a man confirming th
 
 "**It's less than you've got,**" she said. "**You've got a room and a job and about nine years and you put a stop on a van for a fortnight because it was Tuesday. I want it written down that you said that and that I heard you, and then I want you to go back to your desk.**"
 
-He went back to his desk. **The woman of about nineteen with a box of staples did not look up at any point, and she had not looked up nine days ago either, and there is a question about that woman which is a question about a supply room and not about anything else in this entry.**
+He went back to his desk. **The woman of about nineteen with a box of staples did not look up at any point, and she had not looked up fourteen days ago either, and there is a question about that woman which is a question about a supply room and not about anything else in this entry.**
 
 **And what he said, in nine seconds, and it took him the whole of the time to get it out, was that she was owed a month and about fourteen weeks besides and that she was now owed the rest of it as well, because a person who answers for a thing they had a thing done to is doing the same work twice.**
 
@@ -82,13 +82,13 @@ Nobody in that room said a word. **He had a pen in the fourth pocket of a tool r
 
 That is the want and it did not get said. He has wanted a great many things in about four months and most of them were about a room, and this one was about a door, and he had it ready the whole time, and when the fourth no came he was about to use it and he did not, and the reason he did not is that a man who leaves a room the moment he is told to has not been in it.
 
-**And the small thing he gave up on the Thursday was about nine words long and it died in that room. She had said a sentence to a hand truck nine days ago a month of somebody else's decisions, and he had it, and he could have said it back to her, and saying it back would have been the only available way of saying he agreed with her, and he did not say it, and the sentence is not on anything, and it belongs to a town and not to a page.**
+**And the small thing he gave up on the Thursday was about nine words long and it died in that room. She had said a sentence to a hand truck fourteen days ago a month of somebody else's decisions, and he had it, and he could have said it back to her, and saying it back would have been the only available way of saying he agreed with her, and he did not say it, and the sentence is not on anything, and it belongs to a town and not to a page.**
 
 ---
 
 **Behind the door of that supply room there are about nine pegs and eight of them have a coat on them that is worn through at the elbow.**
 
-The ninth peg is empty. **The coat that was on it nine days ago, new, in a bag, with the ticket still on the sleeve, is not on it, and there is a person in that school this week who was not there last week, and nobody in that building will say who, and Marek asked no such question of anybody in that town and asked none here.**
+The ninth peg is empty. **The coat that was on it fourteen days ago, new, in a bag, with the ticket still on the sleeve, is not on it, and there is a person in that school this week who was not there last week, and nobody in that building will say who, and Marek asked no such question of anybody in that town and asked none here.**
 
 Four people in this city can each say one true thing about that ninth peg and not one of the four was ever asked.
 
@@ -102,11 +102,11 @@ Six objects are named on this page and not one of them is set beside another: a 
 
 ---
 
-**There are nine trays out on a table in that supply room and eight of them have a label in a hand that is not hers, and the ninth has a label in her own hand with a date on it that is four days old.**
+**There are nine trays out on a table in that supply room and eight of them have a label in a hand that is not hers, and the ninth has a label in her own hand with a date on it that is one day old.**
 
-The eight labels are about sizes and about what goes in them and about four of them are in a hand that has been on this table since before the man of twenty-two existed. The ninth says *ORDERED* and then a date, and the date is four days old, and the date is the day a man of twenty-two got on a bus in this city at about six in the evening with a question in him and a copy of a form in a pocket.
+The eight labels are about sizes and about what goes in them and about four of them are in a hand that has been on this table since before the man of twenty-two existed. The ninth says *ORDERED* and then a date, and the date is one day old, and the date is the day a man of twenty-two got on a bus in this city at about six in the evening with a question in him and a copy of a form in a pocket.
 
-**Nobody in that room mentioned it, and she did not, and there is a form in this city on which a person could have written a date down about nine days ago and did not, and the reason she wrote it on a tray label instead is that a tray label is a thing in her own building.**
+**Nobody in that room mentioned it, and she did not, and there is a form in this city on which a person could have written a date down about a day ago and did not, and the reason she wrote it on a tray label instead is that a tray label is a thing in her own building.**
 
 He looked at it for four seconds and then looked at the other eight and then at the floor, and the woman of about nineteen with a box of staples went past him twice carrying trays and did not say a word on either pass.
 
@@ -114,7 +114,7 @@ He looked at it for four seconds and then looked at the other eight and then at 
 
 *One thousand one hundred and fifty-eight and one thousand and seventy-eight are three days on from a whole number of weeks, and one thousand one hundred and sixty-two is a whole number of weeks exactly, and the card that is on it has not been looked at by anybody in about nine weeks.*
 
-*646. Thursday of week 233, at ten, in a city this entry is not in. A bus a day and a night each way out on the Wednesday evening and in at half past one; four days there and back; the next one on the Saturday. A supply room with a hand truck, three boxes, a desk, a box of staples, nine trays with eight labels in another hand and one four days old, and about nine pegs behind a door with one of them empty. A question in nine seconds. Four refusals of nine seconds each and a yes that was not a speech. A condition with a person at the bottom of it. A man of about fifty-one who said it was a lot to put on somebody who has already got it and went back to a desk. Nine days of a month, about fourteen weeks, and the rest of it as well. Nobody thanked anybody, in either city.*
+*646. Thursday of week 233, at ten, in a city this entry is not in. A bus a day and a night each way out on the Wednesday evening and in at half past one; four days there and back; the next one on the Saturday. A supply room with a hand truck, three boxes, a desk, a box of staples, nine trays, eight labels in another hand, one of them a day old, and about nine pegs behind a door with one of them empty. A question in nine seconds. Four refusals of nine seconds each and a yes that was not a speech. A condition with a person at the bottom of it. A man of about fifty-one who said it was a lot to put on somebody who has already got it and went back to a desk. Nine days of a month, about fourteen weeks, and the rest of it as well. Nobody thanked anybody, in either city.*
 
 *Conditions and docket.* **The Thursday carried eleven dated jobs and eleven people over a counter in the city this entry left on Wednesday evening, the last let in at ten past five, and the counter was in the same pair of hands it has been in all year.** Callers: eleven. Refusals: three, one of them a request for a list and one a woman who wanted to know how long a paper takes to a town, which is not a thing this shop has ever had. Work: eleven, three declines, nothing escalated, nothing handed back. Charge: eleven pounds, exact, and a man paid over the counter for a job that had been quoted at twice that and did not say so. The heating in that flat: above its winter setting for an eighth month, four names on that one tenancy making good the difference. Those rooms: one thousand one hundred and fifty-eight days, a hundred and sixty-five weeks and three days, four of them and one behind, warm. Rail card: one thousand one hundred and sixty-two days, a hundred and sixty-six weeks to the day, four days past the room, rail of two. The board on two nails: sixteenth, nine hundred and forty-eight, a hundred and thirty-five weeks and three days; seventeenth, nine hundred and thirty, a hundred and thirty-two weeks and six days; thirteenth, one thousand and twenty-nine, a hundred and forty-seven weeks to the day; eighteenth, eight hundred and seventy-six, a hundred and twenty-five weeks and one day. The man of about fifty-one against that north wall: seven hundred and sixty-four days, a hundred and nine weeks and one day. The ask: eight hundred and forty-eight days, a hundred and twenty-one weeks and one day. The hold on nine crates in a yard in the second of the four towns: seven hundred and ninety-one days, a hundred and thirteen weeks to the day. The post at the corridor end: seven hundred and six days, a hundred weeks and six days. The nine hand copies: seven hundred and twenty-four days, a hundred and three weeks and three days, eight of nine unfinished, the first row nobody has disagreed about still not found, and not one of the nine laid against another. The separation: five hundred and thirty-eight days, seventy-six weeks and six days, ended, walked, standing. Added to that board: nothing. The Exchange: no sitting fell on this Thursday in either city and no number was given out loud anywhere; what one does without a sitting is not described in this file. The number of returns: not taken.*
 

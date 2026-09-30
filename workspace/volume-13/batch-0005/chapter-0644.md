@@ -6,7 +6,7 @@
 
 He was in that town for the second night and slept about four hours and was awake for the other five, in a room over a shop with a window that faced a wall about four feet off and a second blanket on the bed that nobody had mentioned.
 
-**The bus is a day and a night each way and the whole of it is four days there and back, and the next one leaves this city tomorrow morning, and the one after that is on the Saturday, and there is no way out of that town except one of those two.**
+**The bus is a day and a night each way and the whole of it is four days there and back, and the next one leaves this city tomorrow morning, and the one after that is on the Wednesday, and there is no way out of that town except one of those two.**
 
 Those four rooms off a service road in the city he will be in on Sunday night are one thousand one hundred and fifty-nine days, a hundred and sixty-five weeks and four days, four of them and one behind, warm. **A card stands on end in that rail, and it is one thousand one hundred and sixty-three days, a hundred and sixty-six weeks and one day, four days past them, and the rail takes two.**
 
