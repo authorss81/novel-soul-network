@@ -116,7 +116,7 @@ Twelve dated jobs went out and twelve came in, the shutter came down at about te
 ---
 
 *746.
-Monday of week 263, at ten, and the forty-ninth day of this stretch of days.
+Monday of week 263, at ten, and the forty-eighth day of this stretch of days.
 Twelve names on the book and twelve dates, the last of the twelve taken at about twenty to five.
 A man of about thirty-four keeps the keys to a building in a fourth district. He was asked outside a shop in a second district at about half past two and said yes in about four seconds, on the condition of being told up front that he could go home at any point, which he then said nobody ever says.
 A woman of about fifty-two has a key to a back door in a fourth district and opens it at about half five on a weekday for a man who cannot get in before eight. She is not a member of anything and has never been asked to be. She said *whose* and waited. He said the room was his and the people in it were nobody yet and that it was about an hour and she could go up at any point and nobody would ask her why. She said yes in about nine seconds and added that nobody in this city could tell her what is under this city and that she has not asked because asking is a thing you do on your own time. She said bring nothing to read.

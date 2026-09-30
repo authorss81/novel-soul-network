@@ -102,7 +102,7 @@ Eleven dated jobs went out and eleven came in and the shutter came down at about
 ---
 
 *747.
-Tuesday of week 263, at ten, and the fiftieth day of this stretch of days.
+Tuesday of week 263, at ten, and the forty-ninth day of this stretch of days.
 Eleven names on the book and eleven dates, the last of the eleven taken at about twenty to five.
 A two-man print shop on a road off Saltmarket. Four hundred cards at four pounds, the going rate, and the money taken. The man of about fifty-eight set the type himself, used a stock he had, and did not make a second smaller one. He has not been told who wanted the four hundred and did not ask.
 The card is about the size of half a playing card and it has two lines of type on it and nothing else: *Not answering is not a refusal. Say it in the room if you mean it.* It is a rule about who is quiet, set by a man who is not bound by it, for the going rate.

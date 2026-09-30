@@ -36,7 +36,7 @@ The man of about sixty who keeps that building was at the top of the stair and d
 
 He used a cold chisel and a mallet and he worked by hand and he did not use anything with a motor in it and he had a mallet in his own hand and nobody lent it to him.
 
-**The first four minutes were the rim and the rest of them were the plate, and about four of the nine were his own hands shaking and not the work.** He got the rim in two places, and then he put the chisel down flat on the bench for about forty seconds, and then he did the plate in about four, and it came out of the back of the cabinet in about nine minutes in three pieces, and none of them went anywhere, and he carried them up the stair in a coat because he could not think of anything else to do with them.
+**The first four minutes were the rim and the rest of them were the plate, and about four of the nine were his own hands shaking and not the work.** He got the rim in two places, and he did the plate in about five, and about forty seconds of those five was the chisel lying flat on the bench while he got his hands back, and it came out of the back of the cabinet in about nine minutes in three pieces, and none of them went anywhere, and he carried them up the stair in a coat because he could not think of anything else to do with them.
 
 **The Crown Root Interface is in three pieces on a bench in a workshop off Lattice Ward and it is not going to be put back and there is nobody in this city who can tell you where a Crown Root Interface goes, because there has only ever been one and it has been in a cabinet its whole life.**
 
@@ -102,7 +102,7 @@ Twelve dated jobs went out and twelve came in, the shutter came down at about te
 ---
 
 *752.
-Tuesday of week 264, at ten, and the fifty-eighth day of this stretch of days.
+Tuesday of week 264, at ten, and the fifty-fourth day of this stretch of days.
 Twelve names on the book and twelve dates, the last of the twelve taken at about twenty to five. The shop shut at about ten.
 A sheet folded in three came out of a file in about the middle of the week and went into a coat pocket. It has three ruled lines on it, a signature at the bottom of the third, and eleven days written at the top, being how long the thing it authorised was to be temporary. On the back, in a different ink and about nine words, somebody has written that the holder of a witnessed maintenance link may put a chisel to the plate in the cabinet at the back of that room and call it. He does not know whose hand that is and it is not the hand on the signature and he has not asked.
 A cabinet at the back of the room under a building in a first district. A plate let into the back of it about the size of a hand, with a rim of soft metal round it about a quarter of an inch wide. It has not moved and nobody has been authorised to touch it since before the spring.

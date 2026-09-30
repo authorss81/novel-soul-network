@@ -1,6 +1,6 @@
 # Chapter 745 — A Thursday, A Bench Until Two And A Counter Until About Six And Four Rooms Off That Service Road From About Six, A Woman Of About Fifty-Two Standing In A Room Under A City Saying What A Room Is For In About Nine Seconds, A Man Of Twenty-Two Who Did Not Answer Her, And A Refusal He Had Not Planned To Give
 
-**A Thursday was a bench until two, a counter until about six and four rooms off that service road from about six. This one had a woman of about fifty-two in a room under a building saying a true thing about what a room is for, and a man of twenty-two who did not answer it, and a refusal he had not intended to make and had to make.**
+**The bench was his until two and the counter until about six and then four rooms off that service road, and none of that is what a Thursday is. This one had a woman of about fifty-two in a room under a building saying a true thing about what a room is for, a man of twenty-two who did not answer her, and a refusal he had not planned.**
 
 ---
 
@@ -94,7 +94,7 @@ Eleven dated jobs went out and eleven came in and the shutter came down at about
 ---
 
 *748.
-Thursday of week 263, at ten, and the fifty-second day of this stretch of days.
+Thursday of week 263, at ten, and the fiftieth day of this stretch of days.
 Eleven names on the book and eleven dates, the last of the eleven taken at about twenty to five.
 About six people were in a room under a building in a first district from about half past seven until about nine. The woman of about fifty-two, the man of about thirty-four, the man of about forty-three with a folded paper he did not open, a woman of forty-five, a man of about thirty-eight who runs a market, and a man of twenty-two.
 At about a quarter to eight the woman of about fifty-two said in about nine seconds and about forty-nine words that a room is not for people to come to, that a room is for the one thing that has to be done in it, and that anybody who cannot do that one thing is in the wrong room and it is not a room's job to go out and find them something else. She said it to nobody in particular. Marek had a sentence ready and did not say it and has not answered her since. The room went on.

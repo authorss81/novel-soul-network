@@ -34,7 +34,7 @@ He came at about five past seven. **He stood on the top step in the cold for abo
 
 He has Monday to Friday in that building and finishes at half four on a Friday. **He had told his wife on the Thursday that he would be out for about an hour on the Sunday and she had not asked what for, and he has not told her about the twenty minutes and is not going to, and she will not ask, and that is the arrangement and it is not a good one.**
 
-**He has a key. The key to the door at the bottom of that stair is on the same ring as the rest of the keys he keeps and it has been in his pocket since about half five that morning, and he did not use it, and not because anybody told him not to.**
+**He has a key. The key to the door at the bottom of that stair is with the rest of the keys he keeps and it has been in his pocket since about half five that morning, and he did not use it, and not because anybody told him not to.**
 
 He went home at about twenty-five past seven.
 
@@ -78,7 +78,7 @@ Two dated jobs went out and two came in, the shutter came down at about two, and
 ---
 
 *750.
-The Sunday of week 263, at two, and the fifty-fifth day of this stretch of days.
+The Sunday of week 263, at two, and the fifty-second day of this stretch of days.
 Two names on the book and two dates, the last of the two taken at about eleven in the morning. The shutter came down at about two and the cage went about four times, which is what a day like this does. The shop does not open again until Tuesday.
 The four rooms off that service road do not open on a day like this and the fifth room behind the other three is shut as well. There is a light on in the first of the four. There is nothing on any of the four about a day like this and he looked and is not going to write down what he did not find.
 A woman of about thirty was in the fourth of the four from about eleven. The door of that room is behind her chair. The chair has not moved. The door is shut and nobody opened it and nobody ever has.

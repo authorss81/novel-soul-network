@@ -102,7 +102,7 @@ Twelve dated jobs went out and twelve came in, the shutter came down at about te
 ---
 
 *753.
-Wednesday of week 264, at ten, and the fifty-ninth day of this stretch of days.
+Wednesday of week 264, at ten, and the fifty-fifth day of this stretch of days.
 Twelve names on the book and twelve dates, the last of the twelve taken at about twenty to five. The counter was shut at half past six and the shutter came down at about ten.
 A first floor above a line in Saltmarket, in about nineteen years, about nine chairs, a table, and a woman of about sixty who holds that room and has held it for about nineteen years. The book is a book with a green cover. It was on sixty-five lines at half past six and on sixty-five lines at eight and no line went in and it was not opened. Nobody asked her to open it and nobody suggested it.
 A tin beside it is on seventy-three with the lid on it. It is not opened on a Wednesday and has not been for about eleven years. It did not move and nobody touched it.

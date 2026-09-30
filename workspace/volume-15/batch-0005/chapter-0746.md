@@ -108,7 +108,7 @@ Eleven dated jobs went out and eleven came in, the shutter came down at about te
 ---
 
 *749.
-Friday of week 263, at ten, and the fifty-third day of this stretch of days.
+Friday of week 263, at ten, and the fifty-first day of this stretch of days.
 Eleven names on the book and eleven dates, the last of the eleven taken at about twenty to five.
 A man of about thirty-eight who runs a market in a first district brought a sheet with three headings on it to a two-man print shop on a road off Saltmarket at about half past three. It had been in his inside pocket since Thursday, when he had been refused in about four seconds in a room under a city.
 The copy he had was made on a machine in a second district and its third heading had lost a word and read *who can stop it* instead of *who can stop our part of it*.

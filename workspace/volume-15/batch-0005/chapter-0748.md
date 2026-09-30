@@ -128,7 +128,7 @@ Twelve dated jobs went out and twelve came in, the shutter came down at about te
 ---
 
 *751.
-Monday of week 264, at ten, and the fifty-seventh day of this stretch of days.
+Monday of week 264, at ten, and the fifty-third day of this stretch of days.
 Twelve names on the book and twelve dates, the last of the twelve taken at about twenty to five.
 A room under a building in a first district. A woman of fifty-three was in it when they arrived and did not stand up. She had a coat over the back of one of the chairs and a piece of paper in her hand with about nine words on it that she did not put down.
 At about eight she said, in about nine seconds and about thirty-two words, that if he took the plate's authority every release in this city would come to him, that nothing would wait, that nothing would be refused without him, that it works, that she did it and people lived, and that he would be the only one who could stop anything. She said in addition that it holds through the whole of a failure, which is about nine minutes, and that there is nothing behind it.
