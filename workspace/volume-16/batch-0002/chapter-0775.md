@@ -171,7 +171,7 @@ Charge: twenty-nine pounds, exact.*
 
 *Conditions of the close.* **In the first floor above a line in Saltmarket there is a book in a green cover and it is on sixty-six lines, and on the same table there is a tin that is on seventy-three, and neither of those two numbers was said in that stairwell on that Monday.
 The space behind the woman of about sixty has been behind her chair since a week in the spring. The ninth chair is against that wall with its back to everything and it did not move, and the person who set it there is not named on any page in this stretch of days.
-The room under the building in a first district was dark at about eleven on that Monday and it was dark at about eleven on the day the card went up, and it is dark.**
+The room under the building in a first district was dark at about eleven on that Monday and it was dark at about eleven on the day the card went up, and it is dark.*
 
 *What the day did not settle, and the rest of it.* **The register of correct acts with no consequence stood at four when that card went up and stands at four now, and a card on a wall is not on that board and has never been on it.
 Ten things are named on this page and this page does not put two of them together. The shutter. The board on two nails with nineteen lines on it. The sheet of card folded under a door. The hand copy of the front of one page. The cage on the side of a counter. The strip carrying one word. The green-covered book. The rail taking two with a card on end in it. The tin with its lid down. The ring binder on a back shelf.
