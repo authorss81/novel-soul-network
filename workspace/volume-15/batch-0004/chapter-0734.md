@@ -87,7 +87,7 @@ Her page is the eighth of eight and has been shut inside a ring binder on a back
 Not because of the date. Because the man of about fifty had come in with a printed sheet and a heading and had got a Thursday and a chair and a room with no window out of a woman who did not want to be in a form, and Marek had been in a corridor for an hour with a chair against a wall and had been told to wait. **He wanted to have been in the room and to have asked it and to have been the one she said it to, and she said it to a stranger with a form and it made no difference to her and that is the part he is going to have.**
 
 He said none of it.
-Eleven jobs dated and eleven taken, the shutter at about ten, and the road home by about ten past ten, and a chair carried up two flights at about one and back down the same way, and the tap in that first district is off and the man who fitted it is the man who does them there and Marek has not rung him and is not going to.
+Eleven jobs dated and eleven taken, the shutter at about ten, and the road home by about ten past ten, and a chair carried up two flights at about one and back down the same way, and the tap in that first district is off and the man who fitted it is the man who does them there and Marek has not gone back to that flat and is not going to.
 
 ---
 

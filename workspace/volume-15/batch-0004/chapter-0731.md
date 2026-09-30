@@ -14,7 +14,7 @@ The separation is at seven hundred and twenty-seven days, one hundred and three 
 
 **The room is the first floor of a shop in a third district and the key to it is kept under the counter downstairs by a woman of about thirty-eight who sells papers and cards and has kept it for about four years and has never once been asked what happens in the room.**
 
-About nine people came up between about seven and about half past eight on that Thursday. There were eight chairs and about nine of them were used and one man stood.
+About nine people came up between about seven and about half past eight on that Thursday. There were eight chairs and about nine of them were sat in and one man stood.
 
 There is no chairwoman and there was no vote and nobody took a minute. **What the eight chairs were for was to be sat on while somebody wrote three things down, and the writing was the whole of it.**
 
@@ -95,7 +95,7 @@ A kettle in the back room of a shop in a third district that has been on the boi
 Not the contents. The sheet itself, on his counter, face down, with somebody's handwriting on it, so that he could have had it on a bench on the Friday and read it and been a man who had read it. **Nobody sent it and nobody was asked to send it and there is no arrangement in this city by which nine people in a room off a parade are told that a man who fixes things would like to see what they wrote.** He did not go up. He was in the second of those two rooms for about ten minutes on his way home and stood at the back and about four people noticed him and nobody said anything, and he left before anybody wrote anything down.
 
 He said none of it.
-Eleven in and eleven out, the shutter down at about ten, and the counter shut by about ten past ten, and a call-out in a fourth district that he had priced at the going rate on the Wednesday went to a man from that street for about four pounds less, and that is about nine pounds out of this shop and he did not chase it and has not rung the man.
+Eleven in and eleven out, the shutter down at about ten, and the counter shut by about ten past ten, and a call-out in a fourth district that he had priced at the going rate on the Wednesday went to a man from that street for about four pounds less, and that is about nine pounds out of this shop and he did not chase it and has not gone after the man.
 
 ---
 

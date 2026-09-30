@@ -50,9 +50,9 @@ A man of about thirty-eight said, "**A name is a list. That is the whole of the 
 
 ---
 
-**And nobody in that room could stop her and nobody in that room could agree with her, and the third line on that sheet is still the same four words it was on the Thursday.**
+**And nobody in that room could stop her and nobody in that room could agree with her, and the third line on that sheet is still the same seven words it was on the Thursday.**
 
-That is what happened between about ten past six and about half past six on that Monday. **There is no chair in that room. There is no line at the foot of the sheet. There is nothing that says who is entitled to change a thing that about eleven people wrote and no one of them is a member of anything, and the group does not own the sheet, and the sheet has no number on it and is not in a drawer and is on a table in a first floor above a shop in a third district.**
+That is what happened between about ten past six and about half past six on that Monday. **There is no chair in that room that the man on that line could be put in. There is no line at the foot of the sheet. There is nothing that says who is entitled to change a thing that about eleven people wrote and no one of them is a member of anything, and the group does not own the sheet, and the sheet has no number on it and is not in a drawer and is on a table in a first floor above a shop in a third district.**
 
 So it stands. **She is right and nobody has told her that she is right and she did not ask and she has not written his name anywhere and she will not write it in that room without somebody to send it to.**
 
@@ -78,7 +78,7 @@ Her page, the eighth of eight, has been in a ring binder on a back shelf for a h
 
 ---
 
-**Three things on that Monday.** A washer under a table leg that has been there since before the spring. **A hook on a landing in a third district with a set of keys on it and no name on the hook.** And a third line with four words on it that nine people have agreed is the wrong four words and have agreed to leave there.
+**Three things on that Monday.** A washer under a table leg that has been there since before the spring. **A hook on a landing in a third district with a set of keys on it and no name on the hook.** And a third line of seven words that nine people have agreed is the wrong seven words and have agreed to leave there.
 
 ---
 
@@ -102,7 +102,7 @@ The third line reads: whoever is holding the keys on the night.
 The woman of about forty-four who keeps the rota for two rooms in a third district said in about nine seconds that that is a room and not a person, and that the keys are on a hook and the hook does not know whose hands they were in last, and that one man has done the Tuesday and Friday nights for about nine years and is not in that room and does not know a room in a third district has got his job written down, and that if he cannot do it one Tuesday there is no way to reach him and he has no machine.
 A man of about thirty-eight said a name is a list and that is the whole of the second line. She said a name is a person, and that a list of about four people who are not a member of anything is four people, and that that man is not in a room, he is on a landing at half past three in the morning.
 He asked who would write it. She said she would.
-Nobody could stop her and nobody could agree with her and the third line is still the same four words, because there is no chair in that room, no line at the foot of the sheet, and the sheet is not owned and is not numbered and is on a table.
+Nobody could stop her and nobody could agree with her and the third line is still the same seven words, because there is no chair in that room that the man on that line could be put in, no line at the foot of the sheet, and the sheet is not owned and is not numbered and is on a table.
 What it cost was a week: the group had agreed to open the first line on the Wednesday and will not do it until the third line is settled. A man of about fifty-one with a back room and a kettle has been asked for a fortnight and has not been asked again and was not told on the Wednesday that nothing is going to happen. He has said that a back room with a kettle in it is a thing you offer and not a thing you chase.
 A man of about thirty-three had a chest of drawers eased. It will stick again in about a year. About eleven pounds.
 The charge for the Monday was thirty-six pounds, exact. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*

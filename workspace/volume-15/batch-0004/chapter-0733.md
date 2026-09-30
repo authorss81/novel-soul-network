@@ -8,7 +8,7 @@ Twelve names and twelve dates, the last of the twelve taken at half past five. T
 
 **The four rooms off that service road, and the one behind them, stand at one thousand three hundred and fifty-one days, which is one hundred and ninety-three weeks to the day. The nine hand copies of the front of one page are at nine hundred and seventeen days, one hundred and thirty-one weeks to the day, one corner torn and eight of them unfinished and nobody anywhere has ever laid one against another to see whether they differ.**
 
-Those are the three that come out exact on that Monday and there is no fourth and there is nothing under any of the three.
+Those are two of the three that come out exact on that Monday and the third of them is in the conditions below, and there is no fourth and there is nothing under any of the three.
 
 The separation is at seven hundred and thirty-one days, one hundred and four weeks and three days, in a one-line box about sixteen months old, and it is walked every day in this shop and has never been walked quickly.
 

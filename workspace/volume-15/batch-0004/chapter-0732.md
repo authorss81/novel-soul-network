@@ -6,9 +6,9 @@
 
 Ten names on the book and ten dates against them and the last of the ten at about twenty to five. The shutter came down at about ten and the cage shook about nine times this week, which is about what it has been doing all month.
 
-**Line seventeen on that board of two nails is at one thousand one hundred and twenty days, and that comes out at one hundred and sixty weeks to the day. What has been lying in the post at the end of that corridor since before the spring is at eight hundred and ninety-six days, which is one hundred and twenty-eight weeks to the day, and nobody has gone in there and taken it out and the two figures are the only two on this page that come out exact.**
+**Line seventeen on that board of two nails is at one thousand one hundred and twenty days, and that comes out at one hundred and sixty weeks to the day. What has been lying in the post at the end of that corridor since before the spring is at eight hundred and ninety-six days, which is one hundred and twenty-eight weeks to the day, and nobody has gone in there and taken it out, and those are two of the three on this page that come out exact.**
 
-The separation is at seven hundred and twenty-eight days, one hundred and four weeks to the day, in a one-line box about sixteen months old, and it went into that box in a room with a window and nobody in the room thought of it again on the day.
+The separation is at seven hundred and twenty-eight days, one hundred and four weeks to the day, in a one-line box about sixteen months old, and it is the third of the three, and it went into that box in a room with a window and nobody in the room thought of it again on the day.
 
 ---
 

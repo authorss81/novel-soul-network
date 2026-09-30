@@ -1,22 +1,22 @@
-# Chapter 737 — A Friday, A Room At The Back Of A Builder's Merchant In A First District With About Nine People In It And A Man Of About Fifty Asking About One Name, A Woman Of About Thirty-Eight Who Said Two Words And Then About Nine Seconds Of The Truth, And A Man Of Twenty-Two In The Room With A Chair Leg And Nothing Else To Do
+# Chapter 737 — A Friday, A Room At The Back Of A Builder's Merchant In A First District With About Nine People In It And A Man Of About Fifty Going Round Them Asking About A Man He Cannot Name, A Woman Of About Thirty-Eight Who Said That Name Once And Then About Nine Seconds Of The Truth, And A Man Of Twenty-Two In The Room With A Chair Leg And Nothing Else To Do
 
-**A Friday was a bench until two, a counter until about six and four rooms off that service road from about six. This one was about nine people in a room at the back of a builder's merchant, a man going round them asking about one name, and a woman who said that name once and then said what had happened, and after that the room went on.**
+**A Friday was a bench until two, a counter until about six and four rooms off that service road from about six. This one was about nine people in a room at the back of a builder's merchant, a man going round them asking about a man he had no name for, and a woman who gave him that name once and then said what had happened, and after that the room went on.**
 
 ---
 
 There were eleven on the book on that Friday and a date against every one, and the last in at about twenty to five. The shutter came down at about ten and the cage went about nine times this week, which is what it did on the Thursday.
 
-**The separation stands at seven hundred and thirty-five days, which is one hundred and five weeks to the day, in a one-line box about sixteen months old, and it is the only figure on this page that comes out exact and it describes nothing at all. What has been in the post at the end of that corridor since before the spring is at nine hundred and three days, one hundred and twenty-nine weeks to the day, and it has not been taken out by anybody in about four months.**
+**The separation stands at seven hundred and thirty-five days, which is one hundred and five weeks to the day, in a one-line box about sixteen months old, and it describes nothing at all. What has been in the post at the end of that corridor since before the spring is at nine hundred and three days, one hundred and twenty-nine weeks to the day, and it has not been taken out by anybody in about four months, and those are two of the three that come out exact on that Friday.**
 
-Those are the three that are exact and there is nothing under any of the three and there is no fourth.
+Those two and the seventeenth in the conditions below are the three that are exact, and there is nothing under any of the three and there is no fourth.
 
 ---
 
 **The room is at the back of a builder's merchant in a first district and it is a room where about nine people who have all been in the same other room, in different years, meet, and the reason they meet is that somebody found out they had all been in the same other room.**
 
-There is no list on the table. **A man of about fifty has a sheet of paper and a pen and he is going round the room asking one question to each person: whether they have ever met a man called Fenner, who worked on a site, and who was about forty when he was, and who is not anybody's friend of anybody in that room.**
+There is no list on the table. **A man of about fifty has a sheet of paper and a pen and he is going round the room asking one question to each person: whether they have ever worked alongside a man on a site, who was about forty, and who has not been in this city since before the spring, and who is not anybody's friend of anybody in that room. The name is not on the sheet because he does not have it.**
 
-He asks about nine people and four of them say no and three say they do not know the name and one says he sold him a length of conduit once and could not swear to the name.
+He asks about nine people and four of them say no and three say they do not know who he is and one says he sold him a length of conduit once and could not swear to the face.
 
 Then he gets to her.
 
@@ -24,21 +24,21 @@ Then he gets to her.
 
 **She is about thirty-eight and she is the one who came to that room first, in the spring, with about eleven other people in it, and she has not said anything to anybody in that room for about four months.**
 
-He said: "**Do you know the name?**"
+He said: "**Did you ever work with him?**"
 
 "**Evan Senn,**" she said.
 
-The man of about fifty wrote it down. He did not look up. He said, "**Right,**" and moved on to the next person along, and a man of about forty in that room said he thought he had heard of him, and the man of about fifty said to write that down as a maybe, and he did.
+The man of about fifty wrote it down. He did not look up. He said, "**Right,**" and moved on to the next person along, and a man of about forty in that room said he thought he had heard the name, and the man of about fifty said to write that down as a maybe, and he did.
 
 ---
 
 **And then she said the other thing, and it took about nine seconds, and she said it to the middle of the room and not to anybody in it.**
 
-"**He was my husband. He cut himself off to stop one answer being the only one. It did not take and it was not clean. He was dead by the Thursday, and the paper says it was an accident at a site, and the paper is not going to be changed.**"
+"**He was my husband. He cut himself off at Marrow Falls to stop one answer being the only one. It did not take and it was not clean. He was dead by the Thursday, and the paper says it was an accident at a site, and the paper is not going to be changed.**"
 
 Nobody said anything.
 
-"**That is all of it,**" she said, and sat down, and the man of about fifty did not ask her another question and did not write any of it down and did not look up from the sheet for about a minute, and then he asked the next person along whether they knew the name.
+"**That is all of it,**" she said, and sat down, and the man of about fifty did not ask her another question and did not write any of it down and did not look up from the sheet for about a minute, and then he asked the next person along whether they had worked with him.
 
 **Nobody in that room asked her a second question. Nobody has forgiven anybody in that room and nobody in that room had done anything to anybody, and a woman of about thirty-one said afterwards, to about four people in a corridor, that it was the only thing anybody has said in about four months that she has believed.**
 
@@ -84,11 +84,11 @@ Eleven out and eleven in, the shutter at about ten, and the shop shut and the do
 *740.
 Friday of week 261, at ten, and the forty-second day of this stretch of days.
 Eleven names on the book and eleven dates, the last of the eleven taken at about twenty to five.
-A room at the back of a builder's merchant in a first district, about nine people in it, and no list on the table. A man of about fifty went round the room asking one question to each person: whether they had ever met a man called Fenner, who worked on a site, and who was about forty when he was, and who was nobody's friend in that room.
-Four said no, three said they did not know the name, and one said he had sold him a length of conduit once and could not swear to the name.
+A room at the back of a builder's merchant in a first district, about nine people in it, and no list on the table. A man of about fifty went round the room asking one question to each person: whether they had ever worked alongside a man on a site, who was about forty, and who had not been in the city since before the spring, and who was nobody's friend in that room. The name was not on his sheet because he did not have it.
+Four said no, three said they did not know who he was, and one said he had sold him a length of conduit once and could not swear to the face.
 Then he asked her. She said his name, in about two words. He wrote it down and said right and moved on.
-Then she said, in about nine seconds and to the middle of the room: he was her husband, he cut himself off to stop one answer being the only one, it did not take and it was not clean, he was dead by the Thursday, the paper says it was an accident at a site, and the paper is not going to be changed.
-Nobody asked her a second question. Nobody wrote any of it down. The man of about fifty looked up from his sheet about a minute later and asked the next person along whether they knew the name. A woman of about thirty-one said afterwards in a corridor that it was the only thing anybody has said in four months that she believed.
+Then she said, in about nine seconds and to the middle of the room: he was her husband, he cut himself off at Marrow Falls to stop one answer being the only one, it did not take and it was not clean, he was dead by the Thursday, the paper says it was an accident at a site, and the paper is not going to be changed.
+Nobody asked her a second question. Nobody wrote any of it down. The man of about fifty looked up from his sheet about a minute later and asked the next person along whether they had worked with him. A woman of about thirty-one said afterwards in a corridor that it was the only thing anybody has said in four months that she believed.
 The man of twenty-two was in that room from about half past four until about six with a chair leg on the fourth chair along from the door, which somebody had already been in with the wrong glue. It took about twenty minutes, it cost that room a pound and about ten minutes, and it is on the mending sheet with the man's name on it.
 He was about four feet from where she was sitting for the whole nine seconds. He did not move and he did not say anything and nobody asked him anything about it.
 A woman of about fifty-one brought in a length of conduit bought from that room about four years ago and wanted it in six, and it was, and the man of about fifty carried it to the door and came back in and said nothing to anybody.
