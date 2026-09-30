@@ -398,3 +398,23 @@
 - Chapter 0168 — "The Thing About The Call"
 - Chapter 0169 — "Eleven Slips In A Tray"
 - Chapter 0170 — "When She Is Not There"
+
+
+---
+
+## Movement III, Chapters 721 to 730, and the dated account of all ten days
+
+| Ch | Day | Wk | One line |
+| --- | --- | --- | --- |
+| 721 | Thu 1695 | 258 | A man of about forty-one asks for a landing to be let go at ten past four in a second district and a woman of about fifty with the key says she cannot put it out on her own name because the log is countersigned at six; the release is run at six and the woman of about eighty-two goes down at ten past seven and the clinic closed its list at four. **Entry 724. Nobody in that block knows. The register stands at two.** |
+| 722 | Fri 1696 | 258 | A crew of three keeps two machines alive at a pumping station in a first district and Oren Vey asks them to choose the hour; a woman of about thirty-one refuses in about nine seconds on the ground that nobody afterwards can tell a wrong hour from a low tank, and he goes and finds the man who signs. **Entry 725. The register stands at two.** |
+| 723 | Mon 1699 | 259 | Nine forms in a first-floor room with a key of its own carry the initials of the person who filled them in the person who was asked to agree; a man of about thirty-eight proposes asking the four and is refused in about nine seconds; nobody is questioned and no name goes on a list with no column for one. **Entry 726. The register stands at two.** |
+| 724 | Tue 1700 | 259 | Iven Sore puts three thousand six hundred and forty sheets of his own office's records on a bolted table at the end of a counter and the page that matters proves the crisis was written down before the autumn; nobody is thanked, nobody is forgiven, and a woman of about thirty-nine would rather she had not it. **Entry 727. The register stands at two.** |
+| 725 | Wed 1701 | 259 | A repair cooperative whose day list is in chalk and which nobody may be asked to do a second thing in, and four streets that were never connected, and a meeting where Leo Marr says in four sentences that coming inside would make them four rooms with somebody in them who decides. **Entry 728. The register stands at two.** |
+| 726 | Thu 1702 | 259 | A woman of about fifty-three stands on a landing in a second district for about nine seconds, gives no name, says that every one of them has to be the only one and nobody is allowed to be the second one, and nobody answers her. **Entry 729. The one spend of the movement. The register stands at two.** |
+| 727 | Fri 1703 | 259 | Nine junctions hold two boards for two minutes and forty seconds each and a man of about fifty-two with a watch in his hand is still four streets away at ten past four; a woman of about forty-one writes a third line on a board on a wall and goes home. **Entry 730. THE REGISTER MOVES FROM TWO TO THREE AND IS PUBLISHED AND NOBODY HAS COUNTED IT, and it cost that man his Friday.** |
+| 728 | Mon 1706 | 260 | Three sentences taught to eleven people in a school room, a name taken off a list at a supply point in about four seconds with the cost said out loud in nine, and a form with two columns and nine empty lines in the second one. **Entry 731. The register stands at three.** |
+| 729 | Tue 1707 | 260 | A closer fitted to a block door after eleven days of a brick, a clipboard with a box for the fault and a box for the time and none for the man, a name in a margin gone by the Thursday, and four hundred yards down that road a gate latch on nothing. **Entry 732. The register stands at three.** |
+| 730 | Wed 1708 | 260 | The fifty-fourth sitting. A man of about fifty-two says nine seconds to a woman of about sixty and does not say it again; one line goes in, the book is on sixty-five lines, the tin does not move, and the count is said once. **Entry 733. Nobody asked after the place behind that chair.** |
+
+**Movement III in one paragraph.** Ten weekday days with no gap and no Sunday, and the Sundays inside the span are 1698, 1705 and 1712 and all three carry no chapter. A key-holder who delays and does the job, a crew that will not choose the hour, nine forms with the wrong hand on them, three thousand six hundred and forty sheets that prove a thing, two routes built separately and never joined, nine seconds on a landing from a woman who gives no name, nine correct junctions and a man who did not get to a place, three sentences and a name taken off a list, a form with two boxes and no box for the man, and a sitting where the book opens. **Nothing in this movement is broken and nothing in it may be shown broken. No panel, no marker, no Evan Senn's name, no federation, no principle, no victory, and the register stands at two on six days and moves once.**
