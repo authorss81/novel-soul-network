@@ -6,7 +6,7 @@
 
 Eleven names went on that Tuesday's sheet and eleven dates went with them, the last at about twenty to five. The cage in the round-the-side had been going about nine times in the fortnight and the van was not needed.
 
-**The nineteen, the last line in use, reads one thousand and ninety-seven days, one hundred and fifty-six weeks and five days, and the card in that rail reads one thousand four hundred and five days, two hundred weeks and five days. Four of the seventeen come out exact on this Tuesday and none of the four is on this page.**
+**The nineteen, the last line in use, reads one thousand and ninety-seven days, one hundred and fifty-six weeks and five days, and the card in that rail reads one thousand four hundred and five days, two hundred weeks and five days. Neither of those two comes out on a whole number of weeks and no figure on this page does.**
 
 The separation is at seven hundred and eighty-one days, one hundred and eleven weeks and four days.
 
@@ -78,9 +78,9 @@ The woman of about forty-four wrote nothing down, has never written anything dow
 
 ---
 
-**Four rooms off that service road and one behind the other three, and from about half past six on that Tuesday a woman of about thirty sat in the fourth of them, in her chair, with the shut door of that room behind her.**
+**There are four rooms off that service road and one behind the other three, and from about half past six on that Tuesday a woman of about thirty sat in the fourth of them, in her chair, with the shut door of that room behind her.**
 
-Her page is the eighth of eight and it has been in a ring binder on a back shelf for a hundred and ninety days. It did not come out on that Tuesday and nobody asked her a question about it and nobody ever will.
+The eighth of eight is her page, and it has been in a ring binder on a back shelf for a hundred and ninety days. It did not come out on that Tuesday, nobody has asked her one question about it, and nobody is going to ask her.
 
 ---
 
@@ -105,7 +105,7 @@ Marek checked one thing only before anything started, which was whether anybody 
 The practice was about nine minutes. Two people held the other end of a bar of steel about four feet long. He asked a woman of about thirty-three who cooks to take it off them, and she took it off them in about four seconds and said the word they had agreed on and he let go. About nine people put one thing in, about two kept a thing out, about four were stopped and about one stopped somebody else without being asked to. Nobody kept a count, nothing was written down, nobody stood at the front, and the only person who started anything was the woman with the keys.
 The charge for the Tuesday was twenty-five pounds, exact. Nobody thanked anybody and nobody was taught, shown, assessed or helped in any other room in this city.*
 
-*Conditions of the close.* **The book with the green cover in the first floor above a line in Saltmarket is on sixty-five lines and the tin beside it is on seventy-three with the lid down, and no person in this city has ever made one out of the other. Behind the woman of about sixty there is a space that has had nothing in it since a week in the spring and it has not been asked about. The ninth chair in that room is hard against that wall with its back to the whole of it and it has not moved in this stretch of days and did not move on this Tuesday, and its mover is not named in this file or in any file in this city. The room under the building in a first district is dark and was not opened on this Tuesday and is not opened again in this stretch of days.**
+*Conditions of the close.* **The book with the green cover in the first floor above a line in Saltmarket is on sixty-five lines and the tin beside it is on seventy-three with the lid down, and no person in this city has ever made one out of the other. Nothing has been in the space behind the woman of about sixty since a week in the spring and nobody has asked her about it. The ninth chair in that room is hard against that wall with its back to the whole of it; on this Tuesday it did not move, it has not moved in this stretch of days, and its mover is not named in this file or in any file in this city. The room under the building in a first district is dark and was not opened on this Tuesday and is not opened again in this stretch of days.**
 
 *Conditions and docket.* **Callers on that Tuesday: eleven, dated jobs: eleven, last name taken at about twenty to five. About four hours of it were a depot four districts away and about nine of those minutes were a bar of steel about four feet long.
 The nineteen, last line in use: one thousand and ninety-seven days, one hundred and fifty-six weeks and five days.
@@ -131,4 +131,4 @@ Charge: twenty-five pounds, exact, and about nine minutes of a man's own hands a
 
 *The depot and the rest of it.* **The register of correct acts with no consequence stood at three when eleven people stood in that depot and it stands at three now, and the reason is that eleven people being asked in turn what they will put in is somebody else's work and he was at a bench and did not run any of it. Nobody has counted that board and nobody is going to.
 Ten objects are named on this page and this page does not bring two of them together: a tin with a lid on it, a hand copy of the front of a page, a shutter, a board on two nails, a folded sheet of card propping a door, a rail of two with a card on end in it, a wire cage on a round-the-side, a strip of paper with one word on it, a ring binder on a back shelf, and a book with a green cover.
-A rule with a date and a name on it is in force and the records behind it are still public and still disputed. A woman of fifty-three is held on a first floor with a list on the inside of her door. About nine people who were part of a network are not in this city and have not been asked. Three pieces of paper in three rooms are on tables and the third of them is seven words and is wrong. Nothing in this city is broken. Nobody thanked anybody, and nobody was taught, shown, assessed or helped in any room in this city except one, and in that one the man doing it was stopped.**
+The rule with a date and a name on it is in force and the records behind it are still public and still disputed. Nobody in this city has been taught, shown, assessed or helped in any room except one, and in that one the man doing it was stopped. The nine or so who were in a network are not in this city and have not been asked about any of it. A woman of fifty-three is being held on a first floor with a list on the inside of her door. Three sheets lie on tables in three rooms and the third of the three is seven words and is wrong. Nothing in this city is broken and nobody thanked anybody.**

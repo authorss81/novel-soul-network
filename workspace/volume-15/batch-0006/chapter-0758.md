@@ -12,7 +12,7 @@ The separation is at seven hundred and seventy-seven days, one hundred and eleve
 
 ---
 
-**That room is a first floor above a line in Saltmarket and it has been in about nineteen years and there are about nine chairs in it and a table and a woman of about sixty who holds the room and has held it for about nineteen years.**
+**A first floor above a line in Saltmarket, about nineteen years old, with about nine chairs round a table in it and a woman of about sixty who has held that room for all of it.**
 
 The book on that table is a book with a green cover and it is on sixty-five lines. The tin beside it is on seventy-three with the lid on it and has not been opened for about eleven years.
 
@@ -20,7 +20,7 @@ The book on that table is a book with a green cover and it is on sixty-five line
 
 ---
 
-**A woman of about thirty-four came at about half past seven and said she was sorry she was late and was not late, and has been coming to that room since before the spring. She sits in the eighth chair because from the eighth chair she can see the back of the ninth chair and she likes knowing what is behind her.**
+**She is the woman of about thirty-four who has been coming to that room since before the spring, and who came in at about half past seven saying she was sorry she was late, and was not. She sits in the eighth chair, which from that chair shows her the back of the ninth chair, and she has said since that she likes knowing what is behind her.**
 
 She has a page of her own in her coat and she has never put it on that table and nobody in that room has ever asked her to.
 
@@ -131,9 +131,9 @@ The charge for the Friday was thirty pounds, exact. Nobody thanked anybody and n
 
 *The room above a line, and the rest.* **The register of correct acts with no consequence stood at three before a woman of about fifty-two said that and it stands at three now, and nothing was entered for it and nothing was taken off. **The wall that list is on has never once carried a sentence anybody said out loud in a room.** Nobody has counted that board and nobody is going to.
 Ten objects are named on this page and this page does not bring two of them together: a folded sheet of card propping a door, a board on two nails, a strip of paper with one word on it, a hand copy of the front of a page, a wire cage on a round-the-side, a rail of two with a card on end in it, a shutter, a ring binder on a back shelf, a book with a green cover, and a tin with a lid on it.
-There is a stain on the wood of that table in the shape of the base of a mug that is not on any of the tables in that room, and nobody knows whose it was. A rule with a date and a name on it is in force. A woman of fifty-three is held on a first floor with a list on the inside of her door. About nine people who were part of a network are not in this city and have not been asked. Three pieces of paper in three rooms are on tables and the third of them is seven words and is wrong. Nothing in this city is broken. Nobody thanked anybody, and nobody was taught, shown, assessed or helped.**
+There is a stain on the wood of that table in the shape of the base of a mug that is not on any of the tables in that room, and nobody knows whose it was. Three pieces of paper in three rooms are on tables and the third of them is seven words and is wrong. A rule with a date and a name on it is in force, and what stands behind it is still public and still argued about. A woman of fifty-three is held on a first floor with a list on the inside of her door. About nine people who were part of a network are not in this city and have not been asked. Nothing in this city is broken. Nobody thanked anybody, and nobody was taught, shown, assessed or helped.**
 
-*Conditions of the close.* **The book with the green cover is on sixty-five lines and it was on sixty-five lines at half past six and it was on sixty-five lines at eight, and no line went into it and nobody in that room asked the woman of about sixty to open it and nobody suggested it. The tin beside it is on seventy-three with the lid down and did not move and nobody touched it. Behind the woman of about sixty's chair there is a space that has had nothing in it since a week in the spring and it has not been asked about and is not going to be. The ninth chair is hard against that wall with its back to the whole of it; it has not moved in this stretch of days, it did not move on this Friday, and the person who put it there is not named in this file, or in any file, or on any form in this city.**
+*Conditions of the close.* **The book with the green cover is on sixty-five lines and it was on sixty-five lines at half past six and it was on sixty-five lines at eight, and no line went into it and nobody in that room asked the woman of about sixty to open it and nobody suggested it. The tin beside it is on seventy-three with the lid down and did not move and nobody touched it. Since a week in the spring there has been nothing behind the woman of about sixty's chair, and no question is going to be put about it. The ninth chair is hard against that wall with its back to the whole of it; it has not moved in this stretch of days, it did not move on this Friday, and the person who put it there is not named in this file, or in any file, or on any form in this city.**
 
 *Conditions and docket.* **Callers on that Friday: thirteen, dated jobs: thirteen, last name taken at about twenty to five. About an hour and a half of it were a first floor above a line in Saltmarket.
 Line twelve: one thousand three hundred and seventeen days, one hundred and eighty-eight weeks and one day.

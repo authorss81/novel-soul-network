@@ -50,9 +50,9 @@ About nine seconds.
 
 **A woman of about forty-four asked him at about ten to eight, on her way out, whether he would put his name beside the line, and he said no in about four seconds.**
 
-"**It is not about you,**" she said.
+"**It is not about you,**" she said, and then at the door that by Friday it would be about him. He let both of those stand.
 
-"**It will be about me by Friday,**" Marek said, and she said right, and went down the stair, and he did not sign it and she did.
+**She had written the line herself and she did not sign it either, and she went down the stair without being asked anything else.**
 
 The line is the only thing that has gone into that book in about a month and it went in at about half past seven.
 
@@ -78,7 +78,7 @@ About two seconds.
 
 **She said in the same breath that nothing turns on it, that she is saying it because she is the person who says it, and that she said it once into a printed box on a second floor about four years ago and told that room then that she would not say it in a hall.**
 
-Nobody in that room said the four words after her. Nobody said them before her. Nobody has said them since.
+Nobody in the room above the line in Saltmarket said the four words after her. Nobody said them before her. Nobody has said them since.
 
 ---
 
@@ -90,9 +90,9 @@ Nobody in that room said the four words after her. Nobody said them before her. 
 
 A woman of about forty-four said it about the book opening and about four people heard her and two of them agreed and neither of them has been back to that room since.
 
-**Nobody has been back to that room since and the room is open and the woman of about sixty who holds it is there on Wednesdays and has not said to anybody why about nine people stopped coming.**
+**The room is open, and the woman of about sixty who holds it is there on Wednesdays, and she has said one thing about it to a man of about forty-four who asked her directly and to nobody else in that room.**
 
-She has said one thing about it, to a man of about forty-four who asked her directly, which is that they were not coming because of what she said and they were not coming because of what anybody else said, and that she has about nine other Wednesdays.
+**What she said was that about nine people have stopped coming to that room, and that they were not coming because of what she said and not because of what anybody else said, and that she has about nine other Wednesdays.**
 
 **Nobody thanked anybody at the table or anywhere else in that room on that Wednesday and nobody has thanked anybody in this stretch of days.**
 

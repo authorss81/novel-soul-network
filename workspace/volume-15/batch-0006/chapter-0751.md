@@ -110,7 +110,7 @@ The wedge was his. The bar was the shop's and had been the shop's since before t
 
 ---
 
-**Four rooms off that service road and one behind the other three, and a woman of about thirty in the fourth of them from about half past six, with the shut door of that room behind the back of her chair.**
+**There are four rooms off that service road and one behind the other three, and the woman of about thirty is in the fourth of them from about half past six, with the shut door of that room behind the back of her chair.**
 
 Her page, and it is the eighth of eight, has been shut in a ring binder on a back shelf for a hundred and sixty-four days. It did not come out on that Thursday and nobody put one question to her about it and nobody is going to.
 
