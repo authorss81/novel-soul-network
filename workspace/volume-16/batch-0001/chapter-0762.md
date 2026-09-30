@@ -18,7 +18,7 @@ Seven hundred and eighty-eight days is the separation, a hundred and twelve week
 
 There were about nine people on it at about half past six, standing up, because there are about nine chairs on that landing and about four of the chairs work and nobody sits down in a room where a person is reading something out.
 
-**The woman reading it out was a man of about forty-four with a piece of card in his hand, and he read it as though he had been asked to and had not been asked to, which is a different thing and is not visible to the people standing nearest to him.**
+**A man of about forty-four was reading it out with a piece of card in his hand, and he read it as though he had been asked to and had not been asked to, which is a different thing and is not visible to the people standing nearest to him.**
 
 She stood at the wall end. She had come straight from a sorting office on that road and she had her coat open and her hands in the pockets of the front of it and she did not look at the sheet while it was being read and she had clearly read it before.
 

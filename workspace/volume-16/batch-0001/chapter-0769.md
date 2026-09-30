@@ -1,4 +1,4 @@
-# Chapter 769 — A Friday, A Bench Until Two And A Counter Until About Six, A Counter With A Docket Book On It And A Tin Beside The Book, And The Correct-Things-That-Change-Nothing Standing At Three At Ten In The Morning And At Four At Night, Which Is The Fourth Time In Four Volumes
+# Chapter 769 — A Friday, A Bench Until Two And A Counter Until About Six, A Counter With A Docket Book On It And A Tin Beside The Book, And The Correct-Things-That-Change-Nothing Standing At Three At Ten In The Morning And At Four At Night, Which Is The Fourth Time In Four Movements
 
 **A Friday was a bench until two, a counter until about six, and a counter with a docket book on it. About nine jobs were dated. A notice was correct in every particular and changed nothing at all, and that is the fourth instance on a board nobody in this city has counted.**
 
@@ -14,7 +14,7 @@ Seven hundred and ninety-eight days is the separation, a hundred and fourteen we
 
 ---
 
-**The register of correct acts with no consequence stood at three at ten in the morning on that Friday and stood at three at four in the afternoon and stands at three now.**
+**The register of correct acts with no consequence stood at three at ten in the morning on that Friday and stood at four at four in the afternoon and stands at four now.**
 
 It is a board on a wall and nobody in this city has counted it in about nine years and nobody is going to.
 
@@ -120,7 +120,7 @@ He wrote the figure on the docket book at about half past three — about four h
 
 ---
 
-**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for two hundred and one days and nobody has asked her about it and nobody is going to.**
+**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for two hundred and two days and nobody has asked her about it and nobody is going to.**
 
 ---
 

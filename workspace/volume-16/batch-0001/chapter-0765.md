@@ -74,7 +74,7 @@ That is the whole of what he did in that yard. He stood at the back under the le
 
 It is on a wall in that city that a hand that will not steady is not treated and is not measured and is not recorded, because recording it would mean a person had been asked about it, and a person who has not been asked about it cannot be recorded.
 
-He has been to that clinic about four times in about eleven years and about nine of the four were for somebody else.
+He has been to that clinic about nine times in about eleven years and about four of the nine were for somebody else.
 
 ---
 

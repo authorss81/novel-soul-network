@@ -56,7 +56,7 @@ One is about a gate. One is about a bin. One is about the closing of a room off 
 
 One is about a practice held by one person, and it has been on that board since before the spring, and it has got a heading on it and no body, and about nine people in that room have read that sheet and about four of them have asked for the body and been told that there is not one.
 
-**Nobody in that room on that Monday connected the heading on that sheet to the woman of about thirty-four who had signed something on a Monday eight days earlier, and about two of them had the same building in their head and did not say so.**
+**Nobody in that room on that Monday connected the heading on that sheet to the woman of about thirty-four who had signed something on a Monday seven days earlier, and about two of them had the same building in their head and did not say so.**
 
 ---
 
@@ -114,7 +114,7 @@ It went on the back of a docket in about four seconds and the docket went into a
 
 He did not sign anything and no form in that room carried his name.
 
-**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for a hundred and ninety-seven days and nobody has asked her about it and nobody is going to.**
+**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for a hundred and ninety-eight days and nobody has asked her about it and nobody is going to.**
 
 ---
 
@@ -158,5 +158,5 @@ The room under the building in a first district was dark at about eleven on this
 
 *What the day did not settle, and the rest of it.* **The register of correct acts with no consequence stood at three in that room at about six and it stands at three now, and the reason is that a correct procedure with no period in it is not a correct act and has never been on the board.
 Ten objects are named on this page and this page does not bring two of them together: a shutter, a board on two nails, a folded sheet of card propping a door, a hand copy of the front of a page, a wire cage on a round-the-side, a strip of paper with one word on it, a book with a green cover, a rail of two with a card on end in it, a tin with a lid on it, and a ring binder on a back shelf. The procedure that came off that board is a printed sheet with four steps on it and it is not a return sheet and it is not a card with two lines of type on it and it does not carry nineteen lines.
-There is no clause in this city that says how long anything takes. A rule with a date and a name on it is in force for a different matter and the records behind it are still public and still disputed. A woman of fifty-three is being held on a first floor with a list on the inside of her door. About nine people who were part of a network are not in this city and have not been asked about any of it. A sheet with about nine words on it is on a wall in a second district and has been there since a Monday eleven days ago.
+There is no clause in this city that says how long anything takes. A rule with a date and a name on it is in force for a different matter and the records behind it are still public and still disputed. A woman of fifty-three is being held on a first floor with a list on the inside of her door. About nine people who were part of a network are not in this city and have not been asked about any of it. A sheet with about nine words on it is on a wall in a second district and has been there since a Monday seven days ago.
 Nobody thanked anybody. Nothing was decided on that Monday and nothing was signed and no form in that room carried his name.**

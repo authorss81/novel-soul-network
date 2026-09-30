@@ -136,7 +136,7 @@ Nobody came in and asked him what was on the sheet. Nobody came in and asked him
 
 ---
 
-**What it cost was about two pounds and about four minutes of arguing with himself at about half past two, and the two pounds are the whole of it and he did not charge her and told nobody, and the four minutes are not a figure anybody could use.**
+**What it cost was about two pounds and about four minutes of arguing with himself at about half past two, and the two pounds are the whole of it and he did not tell her that and told nobody, and the four minutes are not a figure anybody could use.**
 
 **There are four rooms off that service road and one behind the other three, and from about half past six on that Monday a woman of about thirty sat in the fourth of them, in her chair, with the shut door of that room behind her.**
 

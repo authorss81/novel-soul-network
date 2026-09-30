@@ -116,7 +116,7 @@ About four hundred people. One man. Nine seconds of his time on a good day and a
 
 ---
 
-**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for two hundred and three days and nobody has asked her about it and nobody is going to.**
+**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for two hundred and five days and nobody has asked her about it and nobody is going to.**
 
 ---
 
@@ -158,7 +158,7 @@ Nothing has been in the space behind the woman of about sixty since a week in th
 The room under the building in a first district was dark at about eleven on this Monday and it is dark and it was not opened and it is not going to be opened in this stretch of days.**
 
 *What the day did not settle, and the rest of it.* **The register of correct acts with no consequence stood at four when about nine people sat at that table and it stands at four now. Nobody has counted that board since Friday and nobody is going to.
-Ten objects are named on this page and this page does not bring two of them together: a shutter, a board on two nails, a folded sheet of card propping a door, a hand copy of the front of a page, a wire cage on a round-the-side, a strip of paper with one word on it, a book with a green cover, a rail of two with a card on end in it, a tin with a lid on it, and a ring binder on a back shelf. The second half of that notice is a sheet of paper and it is not a return sheet and it is not a card with two lines of type on it and it does not carry nineteen lines and this page does not bring it together with the sheet that went on a wall on a Monday twelve days ago.
+Ten objects are named on this page and this page does not bring two of them together: a shutter, a board on two nails, a folded sheet of card propping a door, a hand copy of the front of a page, a wire cage on a round-the-side, a strip of paper with one word on it, a book with a green cover, a rail of two with a card on end in it, a tin with a lid on it, and a ring binder on a back shelf. The second half of that notice is a sheet of paper and it is not a return sheet and it is not a card with two lines of type on it and it does not carry nineteen lines and this page does not bring it together with the sheet that went on a wall on a Monday fourteen days ago.
 There is one practice in this city used by about four hundred people across three districts and half a bus route, held by one man whose right hand has not been steady since a year ago, and it is not on a list, and nobody in this city has ever had to write down who holds what, and that is not a secret and it is not an omission by anybody and no page of this movement may call it a conspiracy or name a person who put it there.
 A rule with a date and a name on it is in force and the records behind it are still public and still disputed. A woman of fifty-three is being held on a first floor with a list on the inside of her door. About nine people who were part of a network are not in this city and have not been asked about any of it.
 Nobody thanked anybody. Nothing in this city is broken, and nobody was taught, shown, assessed or helped in any room in this city.**

@@ -6,7 +6,7 @@
 
 Twelve names went on that Wednesday's sheet and twelve dates went with them, the last at about twenty to five. The shutter came down at about ten.
 
-**Four rooms off that service road and one behind the other three stand at one thousand four hundred and nine days, two hundred and one weeks and two days, and the nine hand copies of the front of one page are at nine hundred and seventy-five, a hundred and thirty-nine weeks and two days. Neither of those two comes out on a whole number of weeks and no figure on this page does.**
+**Four rooms off that service road and one behind the other three stand at one thousand four hundred and nine days, two hundred and one weeks and two days, and the nine hand copies of the front of one page are at nine hundred and seventy-five, a hundred and thirty-nine weeks and two days. Neither of those two comes out on a whole number of weeks and this page does not round either of them.**
 
 **Behind the chair of the woman of about sixty there was an empty place, and it had been empty two hundred and eighty-seven days, which is forty-one weeks to the day.**
 
