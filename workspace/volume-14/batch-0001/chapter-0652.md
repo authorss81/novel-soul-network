@@ -16,7 +16,7 @@ Nothing has been put back into the separation, which stands at five hundred and 
 
 **She was in that supply room at about ten past one and the supply room has nine boxes in it and eight of them are labelled in another hand and the ninth is not, and the ninth is a box the size of a shoebox and she had put a printed sheet into it on the Friday before last.**
 
-The clinic is a day and a night of bus travel away. It is four days there and back. **The bus runs on a Wednesday and on a Saturday and on no other day, and she came on the Wednesday and she is in this city until the Saturday and has been in this city since last Saturday and was not in it the Saturday before that.**
+The clinic is a day and a night of bus travel away. It is four days there and back. **The bus goes on two days and she came on the first of them, and she is in this city until the Saturday and has been in this city since last Saturday and was not in it the Saturday before that.**
 
 She said his name first and then did not say anything else for about nine seconds, and the nine seconds were not awkward and were not a pause for effect, and they were a woman deciding how much of it she was going to do.
 
