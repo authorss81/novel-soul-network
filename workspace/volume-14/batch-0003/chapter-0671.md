@@ -1,4 +1,4 @@
-# Chapter 671 — A Monday, A Bench Until Two And A Counter Until About Six, Three Offices In Three Districts That Have All Been Sent The Same Paperwork And Cannot See One Another, A Man Of About Twenty-Six Who Came To Ask Whether A Mark Can Be Lifted Out Of A Box And Was Told It Can, And A Woman Of About Twenty-Nine Who Would Not Say Who Else Has The Same One
+# Chapter 671 — A Monday, A Bench Until Two And A Counter Until About Six, Three Offices In Three Districts That Have All Been Sent The Same Paperwork And Cannot See One Another, A Man Of About Twenty-Six Who Came To Ask Whether A Mark Can Be Lifted Out Of A Box And Was Told In Four Seconds That Nobody In This City Can Do It, And A Woman Of About Twenty-Nine Who Would Not Say Who Else Has The Same One
 
 **A Monday was a bench until two, a counter until about six, and a form with a box ruled at the bottom of it that three offices in three districts have all been sent. This one is a man of about twenty-six who wants a mark lifted out of it, and a woman who will not say who else has the same one.**
 
@@ -110,7 +110,7 @@ He did not ask. **Because the three are a fact about a round, and if he had the 
 
 ---
 
-**The green-covered book up a stair in Saltmarket is on sixty-three lines, and the tin on the same table is on seventy-three with its lid on and a receipt in it used as a page marker that is not hers. Behind the chair of the woman who holds that room there is a place, and it has been empty about thirteen weeks, and nobody has asked her about it and she is not going to start. Down at four rooms off that service road, after half past six, one other person was in the chair the door is behind, and she was still in it at about ten. She is about thirty and nothing whatever is put to her. Hers is the eighth of eight in a ring binder on a back shelf of that room, and the binder did not come out of it.**
+**The green-covered book up a stair in Saltmarket is on sixty-three lines, and the tin on the same table is on seventy-three with its lid on and a receipt in it used as a page marker that is not hers. Behind the chair of the woman who holds that room there is a place, and it has been empty thirteen weeks and five days, and nobody has asked her about it and she is not going to start. Down at four rooms off that service road, after half past six, one other person was in the chair the door is behind, and she was still in it at about ten. She is about thirty and nothing whatever is put to her. Hers is the eighth of eight in a ring binder on a back shelf of that room, and the binder did not come out of it.**
 
 ---
 

@@ -22,17 +22,17 @@ On the Sunday morning about forty people came through that hall. A man with a du
 
 ---
 
-**He went in at half past one because a machine of his own had been left standing open since about eleven and had been standing open for four hours with the drum full of water.**
+**He went in at half past one because a machine that was standing open since about eleven had been standing open for two and a half hours with the drum full of water.**
 
 He knew the machine. It belonged to a man of about seventy in a first district and it was eleven years old and the door catch had been repaired twice. He shut the door, ran a rinse, and found nothing wrong with it at all, and the water came out of it perfectly clear.
 
 **A woman of about forty-three was at the far end of that hall with a trolley and about four sheets over her arm and she was folding them, one at a time, along the edge of a table, and the folding was not the folding of a person who does it in a hurry.**
 
-The hall was empty. All nine machines had finished. The man with the shirt on a hanger had gone at one. **The two women who knew each other had gone at twenty past twelve and had not spoken to each other on the way out.**
+The hall was empty. All nine machines had finished. The man with the shirt on a hanger had gone at one. **The two women who knew each other had gone at twenty past twelve and had not spoken to each other on the way out, and apart from him and the woman with the trolley nobody had come through that door since the last machine stopped.**
 
-"**You're the third today,**" she said, without looking up.
+"**Three,**" she said, without looking up, **"since the last one stopped, and one of them was you.**"
 
-"**It's the fourth,**" said Marek. "**I counted you when I came in. You were by the window and you weren't washing.**"
+"**It is two,**" said Marek. "**I counted you when I came in. You were at the far end with a trolley and you were folding, and you have not washed anything today either.**"
 
 "**I don't wash on a Sunday,**" she said. "**I put the machines here.**"
 
@@ -44,7 +44,7 @@ The hall was empty. All nine machines had finished. The man with the shirt on a 
 
 The question was there and it was not a hard one. It was the ordinary question a person asks another person in an empty hall on a Sunday afternoon, and it was this: why are you still here.
 
-He had it in his mouth. **He had it in his mouth because the machines were finished and the trolley was half empty and there was nowhere for her to be until four, and because it is the sort of thing two people say to each other in a room with nothing in it, and because he has spent thirteen volumes not saying the sort of thing two people say to each other, and this is one of those and it is nearly nothing.**
+He had it in his mouth. **He had it in his mouth because the machines were finished and the trolley was half empty and there was nowhere for her to be until four, and because it is the sort of thing two people say to each other in a room with nothing in it, and because he has spent thirteen years not saying the sort of thing two people say to each other, and this is one of those and it is nearly nothing.**
 
 **He did not say it.**
 
@@ -58,11 +58,11 @@ He had it in his mouth. **He had it in his mouth because the machines were finis
 
 ---
 
-**The man of about sixty with the shirt on a hanger came back in at about five to one and put the shirt in the machine he had not used, which is the only reason she knew it was his, and stood by the window again until the cycle finished, and then took the shirt out and folded it himself, badly, and went.** She watched him do that and said nothing to him and Marek said nothing to him either, and afterwards she said, without any weight in it, that he does that most weeks and has for about two years, and that she has never once asked him his name, and that if she asked him his name then next Sunday she would have to say it back to him.
+**He stayed about nine minutes and helped her push the trolley out to the step and then did not stay, and she did not ask him to.**
+
+**The man of about sixty with the shirt on a hanger came back in at about ten to two, when Marek was on the step with the trolley and did not go back in, and put the shirt in the machine he had not used, which is the only reason she knew it was his, and stood by the window again until the cycle finished, and then took the shirt out and folded it himself, badly, and went.** She watched all of that and said nothing to him and Marek watched about nine seconds of it through the door and said nothing to him either, and afterwards she said, without any weight in it, that he does that most weeks and has for about two years, and that she has never once asked him his name, and that if she asked him his name then next Sunday she would have to say it back to him.
 
 **She washed for four buildings and has done for eleven years and she is paid by two of the four.** She has a round and a list of the four on it and about nine people in each and she does them in an order that is not alphabetical and has never been alphabetical. The machines are hers in the sense that she pays for them out of what two buildings give her and has done for eleven years, and she is a fortnight behind on the one that does not pay, and she did not say that and it was not asked.
-
-**He stayed about nine minutes and helped her push the trolley out to the step and then did not stay, and she did not ask him to.**
 
 **Four things went into him on that Sunday, and not one of them was on any form at all. A door catch on a machine that was not faulty. A man of about sixty folding a shirt badly. Nine machines and about forty people in a room that is shut on the other six days. And a woman still folding at half past one with nothing left to fold.**
 
@@ -72,11 +72,11 @@ That is the whole of the Sunday. **Nothing in that shop is dated the way a Monda
 
 ---
 
-**He wanted, for the whole of that Sunday, to be asked why he was there.**
+**He wanted, for the whole of that Sunday, to be a man who turned up with no reason and was not made to account for it.**
 
-Not asked what he was doing, and not asked what he would charge, and not asked whether he had come on a bus. **Asked why.** He came to a hall in a second district at half past one on a Sunday because he had thought about a customer standing by a window for twenty minutes with a shirt on a hanger, and he had come anyway, and there was no reason on any form, and he wanted somebody to want to know.
+Not the man who was useful, and not the man who was thanked, and not the man anybody had to explain themselves to. **A man who came into a hall in a second district at half past one on a Sunday because he had thought about a customer standing by a window for twenty minutes with a shirt on a hanger, and was simply in there, and nobody had to make that mean anything.** There was no reason on any form and he wanted there not to be one.
 
-**Nobody wanted to know. The only person who said anything to him in that hall said it about a door catch, and she was right, and she did not ask him a single question, and he has been in this city a long time and knows exactly what that costs a person and he is not going to pretend it did not.**
+**Nobody made him account for it. The only person who said anything to him in that hall said it about a door catch, and she was right, and she did not put a single question to him, and he has been in this city a long time and knows exactly what that costs a person and he is not going to pretend it did not.**
 
 ---
 
@@ -86,7 +86,7 @@ They were folded along the edge and there was no stack and no machine and no for
 
 ---
 
-**A green-covered book up a stair in Saltmarket stands at sixty-three lines. Beside it a tin is on seventy-three, its lid on, a receipt in it as a page marker that belongs to nobody who has ever claimed it. The place behind the chair the woman who holds that room sits in has stood empty about thirteen weeks and one day now. In the fourth of those four rooms off that service road, from half past six to about ten, one other person sat where the door is; she is about thirty; nobody in that building put a word to her. The eighth of eight in a ring binder on the back shelf of that room is hers and it did not come out.**
+**A green-covered book up a stair in Saltmarket stands at sixty-three lines. Beside it a tin is on seventy-three, its lid on, a receipt in it as a page marker that belongs to nobody who has ever claimed it. The place behind the chair the woman who holds that room sits in has stood empty fourteen weeks and four days now. In the fourth of those four rooms off that service road, from half past six to about ten, one other person sat where the door is; she is about thirty; nobody in that building put a word to her. The eighth of eight in a ring binder on the back shelf of that room is hers and it did not come out.**
 
 ---
 

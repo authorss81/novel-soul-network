@@ -112,13 +112,13 @@ Not to fix it. **To say the seven words out loud, in that supply room or in that
 
 **The Monday ended with the shutter down at ten and four seconds gone at ten past ten. He did not write the address of that town down.**
 
-He had it. **He had known it since the spring because he has pushed beds to four towns over nine years and the fourth one is a name he says in his sleep.** He did not write it and he did not put it anywhere and he did not tell the one other person in this city who would have carried something for him without being asked, and there is a man of about twenty-four in a co-operative of about eleven people in this city who owns their own hours and who is the last person anybody here would want to have a name.
+He had it. **He had known it since the spring because he has pushed beds to four towns over nine years and the fourth one is a name he says in his sleep.** He did not write it and he did not put it anywhere and he did not tell the one other person in this city who would have carried something for him without being asked, and there is a courier of about twenty-two in a worker co-operative of about eleven people in this city who owns his own hours and who is the last person anybody here would want to have a name.
 
 That is the ninth thing he has given up in a fortnight that cost him about four seconds and nothing else, and it is the first of the nine that is not about a thing at a counter.
 
 ---
 
-**Sixty-three lines in a green-covered book up a stair in Saltmarket, which does not open on a Monday unless somebody says a thing to a face, and a tin on the same table on seventy-three with its lid on and a receipt in it used as a page marker that is not hers. There is a place behind that woman's chair and it has stood empty about fourteen weeks and four days. The fourth of the four rooms off that service road, after half past six, had one other person in the chair the door is behind until about ten. She is about thirty. Hers is the eighth of eight in a ring binder on the back shelf of that room and it did not come out.**
+**Sixty-three lines in a green-covered book up a stair in Saltmarket, which does not open on a Monday unless somebody says a thing to a face, and a tin on the same table on seventy-three with its lid on and a receipt in it used as a page marker that is not hers. There is a place behind that woman's chair and it has stood empty sixteen weeks and five days. The fourth of the four rooms off that service road, after half past six, had one other person in the chair the door is behind until about ten. She is about thirty. Hers is the eighth of eight in a ring binder on the back shelf of that room and it did not come out.**
 
 ---
 

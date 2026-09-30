@@ -93,7 +93,7 @@ There is no list. There is no register of cards. **A man of about thirty-eight w
 
 * * *
 
-**At four o'clock a man of about fifty-two who chairs about nine chairs came into that shop and asked Marek whether he had heard about a card.**
+**At four o'clock a woman of about fifty-two who chairs about nine chairs came into that shop and asked Marek whether he had heard about a card.**
 
 "**Heard about what.**"
 
@@ -129,7 +129,7 @@ Colin Nall pulls a card when he prints a card. There is a plate in a drawer with
 
 ---
 
-**Up a stair in Saltmarket there is a book with a green cover on sixty-three lines and, on the table beside it, a tin on seventy-three with the lid on and a receipt in it as a page marker that is not hers. The place behind the chair of the woman who holds that room has been empty about fourteen weeks and one day. From half past six until about ten, in the fourth of those four rooms off that service road, the chair the door is behind had one other person in it. She is about thirty. The eighth of eight in a ring binder on a back shelf of that room is hers, and the binder did not come out.**
+**Up a stair in Saltmarket there is a book with a green cover on sixty-three lines and, on the table beside it, a tin on seventy-three with the lid on and a receipt in it as a page marker that is not hers. The place behind the chair of the woman who holds that room has been empty sixteen weeks and two days. From half past six until about ten, in the fourth of those four rooms off that service road, the chair the door is behind had one other person in it. She is about thirty. The eighth of eight in a ring binder on a back shelf of that room is hers, and the binder did not come out.**
 
 ---
 

@@ -106,9 +106,9 @@ The man of about thirty-four wrote it down. He wrote it down on the Wednesday in
 
 ---
 
-**He wanted, for the whole of that Thursday, to be the person she had said the reason to.**
+**He wanted, for the whole of that Thursday, to be in that room when she said it.**
 
-**Not the person who agrees with her. The person who is told, first, that a tick in a box is not a decision.** He has known that since the Sunday, since a pen went into an apron, and knowing it and being the person it is said to are two completely different things, and one of them is available to him at a counter in about four seconds and the other one is four days of bus travel away and costs about nine pounds a night in a room you sleep in for four hours.
+**Not the person who agrees with her, and not the person she says a thing to. The third thing, which is to be one of the nine in that supply room at the moment she says out loud that a tick in a box is not a decision, and to be standing there with it, and to have to go back to a shift on a Monday with it.** He has known that since the Sunday, since a pen went into an apron, and knowing it and being in the room when she said it out loud are two completely different things, and one of them is available to him at a counter in about four seconds and the other one is a day and a night of bus travel away and costs about nine pounds a night in a room you sleep in for four hours.
 
 **He could afford it. He has said to nobody that he could afford it and the figure is on no board of two nails.**
 
@@ -122,7 +122,7 @@ He did not write the address down. **That is the seventh thing he has given up i
 
 ---
 
-**Sixty-three lines in a green cover, and a tin on seventy-three with its lid on and a receipt in it as a page marker that is not hers, and the place behind the woman's chair empty about fourteen weeks. One of the four rooms off that service road, from half past six, had one other person in the chair the door is behind, and she was still in it at about ten. She is about thirty and nothing whatever was put to her. What belongs to her is the eighth of eight in a ring binder on the back shelf of that room, and it did not come out of the binder, and nobody has ever opened it in her presence or out of it.**
+**Sixty-three lines in a green cover, and a tin on seventy-three with its lid on and a receipt in it as a page marker that is not hers, and the place behind the woman's chair empty sixteen weeks and one day. One of the four rooms off that service road, from half past six, had one other person in the chair the door is behind, and she was still in it at about ten. She is about thirty and nothing whatever was put to her. What belongs to her is the eighth of eight in a ring binder on the back shelf of that room, and it did not come out of the binder, and nobody has ever opened it in her presence or out of it.**
 
 ---
 
