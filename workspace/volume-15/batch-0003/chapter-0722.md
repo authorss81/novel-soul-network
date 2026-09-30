@@ -22,7 +22,7 @@ There were three people in that room. A woman of about thirty-one with a lamp in
 
 **The man who came at about two was called Oren Vey and he had a folder and he was not in a hurry about it.**
 
-He asked whether the changeover could be done without the signature, because the man who signed was on a ward until Monday and the tank was going to be low on Saturday. He said it as a question and he was not asking anybody to break anything and he had read the card.
+He asked whether the changeover could be done without the signature, because the man who signed was on a ward until Monday and the tank was going to be low by the end of the week. He said it as a question and he was not asking anybody to break anything and he had read the card.
 
 The woman of about thirty-one put the lamp down.
 
@@ -58,7 +58,7 @@ The eighth of eight pages has been on a back shelf inside a ring binder for a hu
 
 ---
 
-**Three things on that Friday, and not one of them on a form.** A slate with two marks on it and one of them says the second machine is louder. **A lamp left on a bench in a pumping station with the cell going flat and a man who has taken it out of his own bag for the two of them and said nothing about it.** And a handrail bracket being held over from a Saturday to a Monday because a woman asked and it was said yes to and not written down.
+**Three things on that Friday, and not one of them on a form.** A slate with two marks on it and one of them says the second machine is louder. **A lamp left on a bench in a pumping station with the cell going flat and a man who has taken it out of his own bag for the two of them and said nothing about it.** And a handrail bracket being held over from that Friday to a Monday because a woman asked and it was said yes to and not written down.
 
 ---
 
@@ -81,7 +81,7 @@ A man called Oren Vey came at about two with a folder and asked whether the chan
 He went and found the man who signs and came back with him at about twenty to five. The changeover was done at five past six with a mark on a slate, the second machine took the load in about four seconds and is louder than the first, and the tank came up over the night.
 He stood in the doorway about eleven minutes and did not come in and left before it was finished and has not been back.
 A woman of about forty-four paid about six pounds for a handrail bracket and was told it would not be as strong as the one that came off, and asked whether it could be held until her son came out of the hospital on the Monday, and was told yes, and it was not written on the book.
-The charge for the Friday was twenty-nine pounds, exact. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
+The charge for the Friday was twenty-nine pounds, exact. Nobody was thanked for it and nobody was taught, shown, assessed or helped.*
 
 *Conditions and docket.* **Callers on that Friday: eleven, dated jobs: eleven, and the last of the eleven at half past five. About an hour and a half of it was a room under a roof at the end of a terrace.
 Seven hundred and fourteen days, one hundred and two weeks to the day, is the separation, and it went into a one-line box about sixteen months ago and there is nothing in it.
@@ -105,5 +105,5 @@ Refusals: six, and one of them is a request that three people choose an hour the
 Work: eleven, one decline, nothing escalated, nothing handed back.
 Charge: twenty-nine pounds, exact, and one handrail bracket is on a bench until the Monday and is not on the book.*
 
-*Nine seconds in a pumping station, and about eleven minutes in a doorway.* **A woman of about thirty-one said the word no to a man with a folder about the one thing her three people are trusted to do, and the reason she gave was not about modesty and was about the fact that a room can never afterwards tell a wrong hour from a low tank, and no room in this city has a way of telling those two things apart from the outside, and this is the first time anybody has put that in a face. The register of correct acts with no consequence stands at two and did not move on that Friday, and the reason is that keeping a second machine alive is not a correct act and neither is saying out loud what you will not be trusted with, and the two of them are the ordinary work of a Tuesday and are not on any list anybody keeps. Nothing in that room failed and the tank came up over the night and the second machine is louder than the first and that is on the slate. Nobody thanked anybody and nobody was taught, shown, assessed or helped. Ten objects are named on this page and this page does not bring two of them together: a lamp with a cell going flat, a slate, a card in a plastic wallet, a handrail bracket on a bench, a lamp in a hand, a card standing on end in a rail of two, a board on two nails, a hand copy of the front of a page, a ring binder on a back shelf, and a folder left on a bench.**
+*Nine seconds in a pumping station, and about eleven minutes in a doorway.* **A woman of about thirty-one said the word no to a man with a folder about the one thing her three people are trusted to do, and the reason she gave was not about modesty and was about the fact that a room can never afterwards tell a wrong hour from a low tank, and no room in this city has a way of telling those two things apart from the outside, and this is the first time anybody has put that in a face. The register of correct acts with no consequence stood at two and did not move on that Friday, and the reason is that keeping a second machine alive is not a correct act and neither is saying out loud what you will not be trusted with, and the two of them are the ordinary work of a Tuesday and are not on any list anybody keeps. Nothing in that room failed and the tank came up over the night and the second machine is louder than the first and that is on the slate. Nobody was thanked and nobody was taught, shown, assessed or helped. Ten objects are named on this page and this page does not bring two of them together: a lamp with a cell going flat, a slate, a card in a plastic wallet, a handrail bracket on a bench, a lamp in a hand, a card standing on end in a rail of two, a board on two nails, a hand copy of the front of a page, a ring binder on a back shelf, and a folder left on a bench.**
 
