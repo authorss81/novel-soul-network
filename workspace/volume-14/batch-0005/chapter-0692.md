@@ -111,7 +111,7 @@ At about three a man of about fifty-three wanted a lock changed and did not want
 
 At about a quarter to four a woman of about twenty-six came in and said she was not going to be thanked for the tea, and nobody thanked her.
 
-**He went up to the second of the nine rooms at about nine in the morning and was let in by the woman of about twenty-six, and about four minutes of that visit were a thing nobody has written down and that has not come up again.**
+**Earlier that morning, before the bench, he went up to the second of the nine rooms at about nine and was let in by the woman of about twenty-six, and about four minutes of that visit were a thing nobody has written down and that has not come up again.**
 
 He asked her whether the room had a book in it, for returns, of any kind.
 She said no and then said that there was a book, and that it was a book of a firm, and that she had to sign a column in it on a Friday whether there was anything in the column or not, and that about eleven Fridays ago the man of about fifty-eight had started standing near her when she signed it.
@@ -131,7 +131,7 @@ She said no and then said that there was a book, and that it was a book of a fir
 
 **He made that woman of about twenty-six a cup of tea at about eleven and did not charge for it and it took him nine minutes out of the only quiet half hour that Wednesday had, and he gave it away deliberately, because he had been in two rooms since half past eight and had not been alone once in either and had not noticed until the tea was in front of her.**
 
-**At about eleven a man of about thirty-three came in with a bag of his own things and asked whether this shop was the one that had sent the sheet.**
+**At about half past four a man of about thirty-three came in with a bag of his own things and asked whether this shop was the one that had sent the sheet.**
 
 "**I've never sent one,**" Marek said.
 
@@ -146,7 +146,7 @@ The man of about thirty-three put the bag down on the floor and stood there for 
 
 ---
 
-**He went to the third of those nine rooms on the Wednesday morning at about eleven and got there by walking there, and it took about forty minutes, and he did it again on the Thursday in the next week and on the Friday in the week after that, and he has walked that road about eleven times.**
+**He went to the third of those nine rooms on the Wednesday morning at about half past eleven and got there by walking there, and it took about forty minutes, and he did it again on the Thursday in the next week and on the Friday in the week after that, and he has walked that road about eleven times.**
 
 **There is no bus that goes there that he can get back from in time for a counter at nine in the morning, and he looked at the times twice, and he did not buy a day ticket in the end, and the reason is in about nine words: a man who buys a day ticket to sit in a room is a man who has made it an appointment.**
 

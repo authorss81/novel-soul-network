@@ -102,9 +102,9 @@ At about half past twelve a woman of about twenty-eight asked whether anybody ha
 
 At about three a man of about thirty-six wanted a thing done that would take about four hours and he wanted to know whether it would take about four hours, and was told it would take about four hours.
 
-At about half past four a woman of about forty-four brought in a lamp and was told in nine words, in four seconds, that the switch is the switch.
+At about ten past four a woman of about forty-four brought in a lamp and was told in nine words, in four seconds, that the switch is the switch.
 
-**At about four a man of about twenty-six asked whether the shop would put a name to something he had done.**
+**At about half past four a man of about twenty-six asked whether the shop would put a name to something he had done.**
 
 "**No,**" Marek said.
 
@@ -128,7 +128,7 @@ And a woman of about thirty-nine who asked a question, was answered correctly, w
 
 ---
 
-**He wanted, for the whole of that Friday, for somebody to come into that shop and tell him that nine boxes had stayed empty and to be thanked for it.**
+**He wanted, for the whole of that Friday, for the nine boxes that stayed empty to be said out loud in that shop on a day when somebody was in, and to be thanked for, and to have asked nothing at all for them.**
 
 **Nobody came and nobody is going to and the nine boxes are not his and there is no part of them he had any hand in except refusing in four seconds to look at nine sheets of paper on the Thursday, and refusing was not a thing he did for the boxes, he did it because of a drawer in about four years.**
 

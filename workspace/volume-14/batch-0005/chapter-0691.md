@@ -85,7 +85,7 @@ He came down the road past a firm that takes clothes in and past a shop that has
 
 **He stood at the second one for four seconds and then went and bought a paper for about elevenpence at the shop that has not shut and read it standing up, and there is no arrangement in this city for telling a letter slot what it is for, and there has not been one since the spring.**
 
-At about a quarter past two he sat on the bench and got a piece of paper out of his pocket for nine seconds and put it back, and the reason is on the page: **a thing that is written down is a thing that can be read to somebody, and he had four seconds to do the reading in a corridor of a first floor in a second district and he was not going to spend them on that.**
+At about a quarter past eleven he sat on the bench and got a piece of paper out of his pocket for nine seconds and put it back, and the reason is on the page: **a thing that is written down is a thing that can be read to somebody, and he had four seconds to do the reading in a corridor of a first floor in a second district and he was not going to spend them on that.**
 
 ---
 
@@ -117,8 +117,6 @@ At half past three a woman of about fifty-eight came in with a lamp that had bee
 **At about five a man of about thirty-eight bought about nine foot of cord he did not need.** He said he had meant to come back for it.
 Marek said he did not have to and the man said he knew he did not have to, and neither of them said what it was for.
 
-**At about half past five a woman of about thirty-one brought in a chair frame with a leg off it and asked whether it could be made to stand up, and Marek said yes in four seconds and did not say what it would cost because she had not asked, and she stood in the shop for nine minutes watching him do it and said nothing at all the whole time, and when it was done she went and he did not charge her.**
-
 **At about ten past five a man of about fifty-eight came in holding a folded sheet of paper that had been folded and unfolded about four times and asked whether he could have it copied, and was told in four seconds that the shop does not copy and has never copied and that there is a shop on a wide road that does and is not in this city.**
 
 "**It isn't a copy,**" the man said.
@@ -127,6 +125,8 @@ Marek said he did not have to and the man said he knew he did not have to, and n
 "**Then you know what it is,**" Marek said, "**and you know what it is for, and if you are asking me to put a second one of it into this city then I am going to say no and I am going to say it in four seconds.**"
 
 The man of about fifty-eight said that was fair and put the sheet back in his pocket and left with it, and he has not been back and nobody followed him and nobody in this city has asked him what was on the sheet.
+
+**At about half past five a woman of about thirty-one brought in a chair frame with a leg off it and asked whether it could be made to stand up, and Marek said yes in four seconds and did not say what it would cost because she had not asked, and she stood in the shop for nine minutes watching him do it and said nothing at all the whole time, and when it was done she went and he did not charge her.**
 
 ---
 

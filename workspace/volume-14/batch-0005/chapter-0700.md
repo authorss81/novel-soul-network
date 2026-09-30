@@ -142,7 +142,7 @@ She said, out loud, to nobody, "**That's the whole of it then,**" and the woman 
 
 She bought about nine feet of conduit and paid and went and was not thanked and **she has not been back, and there is no arrangement in this city for asking the woman of about sixty what is in her room, and there has not been one since about spring, and nobody is going to put one in.**
 
-**At about a quarter to five a woman of about forty-five came into that shop and said she had heard there was a book in this city that had been written in for about nineteen years, and Marek said he had not heard that, and she said she had heard it from a man on a bus, and he said that was probably a different book, and she said right and bought nine feet of conduit and has not been back.**
+**At about twenty past five a woman of about forty-five came into that shop and said she had heard there was a book in this city that had been written in for about nineteen years, and Marek said he had not heard that, and she said she had heard it from a man on a bus, and he said that was probably a different book, and she said right and bought a switch and has not been back.**
 
 He has never been in that room again and he is not going to be, and the stair is a place he has been in about nine times in about four months and has no standing in and nobody has offered him any.
 
@@ -163,9 +163,9 @@ Eleven dated jobs went out and eleven came in and the shutter came down at ten a
 
 ---
 
-**One other person was in the fourth of those four rooms off that service road from half past six until ten. She is about thirty and the chair the door is behind is hers and for three and a half hours not one person in that building put a word to her, and not one apology has ever been put to her in any form, then or since. What she has is the eighth of eight pages in a ring binder on the back shelf of that room. It did not come out on that Wednesday, and no one has asked her permission to open it, because no one has asked her anything.**
+**One other person was in the fourth of those four rooms off that service road from half past six until ten, and the chair the door is behind was hers, and she is about thirty, and for the three and a half hours of it nothing whatever was put to her and no apology reached her in any form, then or on any day since the spring. What belongs to her is one page and it is the last of the eight, and the eight of them are in a ring binder on a back shelf of that room, and the binder did not come out on that Wednesday.**
 
-**The binder is on a back shelf of that room and it did not come out on that Wednesday and it has not come out on any day since the spring, and no one has asked her permission to open it because no one has asked her anything.**
+**Nobody has asked her for it. Nobody has asked her for anything, and there is nobody in this city entitled to, and the binder has stayed on that shelf on every one of the hundred and seven days this stretch of days has run, and on the day before the first of them.**
 
 ---
 

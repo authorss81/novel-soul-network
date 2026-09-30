@@ -116,8 +116,6 @@ She said it once was enough and paid eleven pounds for a job that had been done 
 
 At about two a man of about fifty-two wanted a bench made up out of two others and did not want the join to show and it shows.
 
-At about a quarter to five a woman of about thirty-one brought in a kettle that works and was told in four seconds, in nine words, that the switch on it is the switch.
-
 **At about half past four a man of about twenty-four asked whether a thing that is on a person's record can be taken off it by the person it is on.** Marek said yes, in four seconds, because it can, and then said the other half, which he did not have to say and said anyway.
 
 "**Say the other half.**"
@@ -127,7 +125,7 @@ At about a quarter to five a woman of about thirty-one brought in a kettle that 
 
 The man of about twenty-four said that was the first time anybody had put it that way and paid for four feet of flex and has not been back and nobody thanked him.
 
-**At about a quarter to five a woman of about thirty-eight came in about ninety seconds after that with the same question, and Marek answered her in four seconds and gave her the other half as well, because he had just given it to somebody else and a thing said twice in ninety seconds is easier than a thing said once and remembered.**
+**At about half past four, about ninety seconds after that, a woman of about thirty-eight came in with the same question, and Marek answered her in four seconds and gave her the other half as well, because he had just given it to somebody else and a thing said twice in ninety seconds is easier than a thing said once and remembered.**
 
 "**You said that to somebody.**"
 
@@ -136,6 +134,8 @@ The man of about twenty-four said that was the first time anybody had put it tha
 "**Why.**"
 
 "**Because it is true and because you are not the first person to ask it this week,**" he said, "**and that is the whole of my reasons and both of them are bad.**"
+
+At about a quarter to five a woman of about thirty-one brought in a kettle that works and was told in four seconds, in nine words, that the switch on it is the switch.
 
 ---
 

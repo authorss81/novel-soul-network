@@ -115,8 +115,6 @@ At about two a woman of about thirty-four asked whether a door that has been giv
 
 The man of about thirty-three said that was fair and took about four pounds of it and left the rest and has not been back and it was four days of work.
 
-At about half past five a woman of about twenty-six wanted a receipt and was given one and went without saying anything, and it was for a receipt.
-
 **At about ten past four a man of about thirty-one came in and asked whether anybody had ever come into that shop from the hall under the old continuity buildings, and Marek said in four seconds that he did not know what he was talking about, and the man said a woman who keeps records had told him a person had, and Marek said that if she said it then she said it and that is the end of it.**
 
 "**Don't you want to know who.**"
@@ -129,7 +127,9 @@ At about half past five a woman of about twenty-six wanted a receipt and was giv
 
 The man of about thirty-one said that was a strange thing to say for a shop that only fixes things, and paid for four feet of cord and went.
 
-**Nobody in this city has told a man of twenty-two where a woman of fifty-three is, and nobody is going to, and the only question that was asked him on that Thursday was the wrong question and he answered it and nothing came of it.**
+At about half past five a woman of about twenty-six wanted a receipt and was given one and went without saying anything, and it was for a receipt.
+
+**Nobody in this city has told a man of twenty-two where a doctor of fifty-three is, and nobody is going to, and the only question that was asked him on that Thursday was the wrong question and he answered it and nothing came of it.**
 
 ---
 
@@ -143,7 +143,7 @@ The man of about thirty-one said that was a strange thing to say for a shop that
 **He did not ask it. He said no to four days of a man's work in four seconds instead, which is a thing he has done before and did again, and the reason is that the two questions were the same question and one of them was four days of a man's work and he could only refuse one of them properly.**
 
 He said none of it.
-Nine jobs, nine callers, the last at half past four, the shutter at ten, and a receipt that was the only thank you anybody said in that shop that day.
+Nine jobs, nine callers, the last at half past four, the shutter at ten, and one receipt handed across a counter to a woman of about twenty-six and no word said over it in either direction.
 
 ---
 
@@ -169,7 +169,7 @@ He picked the bag up and left.
 Nobody asked him a question and nobody reacted and the man of twenty-two did not ask one, and the reason is that the answer would have been a place and a place with a thing in it is a thing a man of twenty-two can be sent to.
 Nobody in this city knows where it is.
 At about three a man of about thirty-three was refused four days of work in four seconds and refused the reason as well.
-A woman of about twenty-six was thanked for a receipt and that was the only thank you said in that shop that day.
+A woman of about twenty-six was given a receipt for a thing she had bought and said nothing at all over it, and nothing was said to her, and that was the whole of what she came for.
 Nobody thanked anybody that Thursday.*
 
 *Conditions and docket.* **The Thursday carried nine dated jobs and nine callers, the last admitted at half past four, and four minutes of the morning were a woman of about fifty-two at that counter and nine seconds of the afternoon were a man who keeps records.** Callers: nine.
