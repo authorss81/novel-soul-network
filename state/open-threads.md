@@ -529,3 +529,28 @@
 17. **THE VOLUME 14 CLOSE HAS NOT RUN, AND IT IS ONE OF THREE, NOT ONE OF TWO.** Section 6 of `workspace/volume-14/ARITHMETIC-AND-CALENDAR.md` is a reservation and its seventeen debts are carried in section 7 of the Volume 15 calendar file. **The Volume 15 close writes section 9 of its own calendar file and discharges its own twelve and four. It does not discharge Volume 14's seventeen and may not, and the correct thing is for section 9 to say so in its own words.** `workspace/volume-12/VOLUME-CLOSE.md`, `workspace/volume-13/VOLUME-CLOSE.md` and `workspace/volume-14/VOLUME-CLOSE.md` are all plain files at their volume roots and the controller's selection rule finds only `PROMPT.md` files, which is why the Volume 15 close is a directory and those three were never run. **The close prompt named only the first two of the three until the second review caught it, and the one that is actually outstanding with seventeen debts on it is the third, and section 9 should say that in its own words.**
 
 ---
+
+---
+
+# LIVE — WHAT THE VOLUME 15 CLOSE CLOSED, CLOSED NOTHING, AND LEFT OPEN. DATED 30 SEPTEMBER 2026
+
+**The Volume 15 close ran. It wrote section 9 of `workspace/volume-15/ARITHMETIC-AND-CALENDAR.md` and `workspace/volume-15/VOLUME-CLOSE/CLOSE.md`. It cancelled no thread in this file, resolved none of the forty-one debts open at Chapter 760, softened none, and opened none. `state/phase-ledger.json` was read and not written and this is the forty-fifth flag.**
+
+## Closed by the close
+
+- **THE ORPHANED-HEDGE SCAN. Deleted, not repaired, not rebuilt, not passed on a fifth time.** The four figures 362, 360, 30 and 29 are withdrawn as unreproducible and are not replaced by a guess. The close attempted the rebuild from the printed description alone and the fitted class returned zero on both movements where two published scans returned thirty and thirty-odd, and the unfitted class returned 107 and 129 where two published scans returned 490 and 362. **The boundary printed beside the number was not the whole of the instrument. The class is struck.**
+- **THE FOUR FREE CHECKS AS A CHECK. Deleted, for the fifth time, and the withdrawal is now a standing rule: no check that cannot fail on any input, including a file of nonsense, is published as a result about prose.** The four differences are kept as four true sentences about four pairs of anchors.
+- **THE SHARED-RUN FIGURE AS A WHOLE-VOLUME FIGURE.** It had never been measured. It is 35 in the body and 53 whole-file, both outside the target of 31, and both runs are standing rows, and the volume's close records them and repairs nothing.
+
+## Left open, and the close says so in its own words
+
+- **THE SEVENTEEN DEBTS OF SECTION 7 OF THE VOLUME 15 CALENDAR FILE, all of them carried forward unchanged.** Not one is discharged by a close.
+- **SECTION 6 OF `workspace/volume-14/ARITHMETIC-AND-CALENDAR.md`, STILL A RESERVATION, AND `workspace/volume-14/VOLUME-CLOSE.md` HAS NOT RUN.** There are three unrun volume closes, not two: volumes 12, 13 and 14 are all plain files at their volume roots and the controller's selection rule finds only a `PROMPT.md`. **The third is the outstanding one and the close prompt had named only the first two until the second review of Movement VI caught it.**
+- **THE FOUR ARRIVAL CELLS, empty for the eighteenth consecutive time, and the close did not fill them and printed why.**
+- **THE FORTY-ONE DEBTS OPEN AT CHAPTER 760.** None is cancelled. The two people who cannot show which answer they gave are not asked and not told. The heading on the strip is not resolved. The four towns and the plate of iron under a floor are not resolved. The nine sentences are not added, totalled, compared or filed. The nine hand copies are not compared.
+- **THE REGISTER STANDS AT THREE AND THIS CLOSE DID NOT MOVE IT.** What the third instance cost a man of about fifty-two was nine minutes at a junction, a queue, a Friday, a Monday he cannot get, and his wife's name in a book at a clinic he has not been in the room of.
+- **THE NINE NON-CONFORMING COUNTER ROWS AT CHAPTERS 701 TO 709 ARE NOW RECORDED AND WERE CARRIED NOWHERE BEFORE.** That is a finding and it is recorded, and the rows stand.
+- **THE THIRD LINE ON ONE OF THE THREE PIECES OF PAPER IS EIGHT WORDS AND TWENTY-TWO FILES CALL IT SEVEN.** Corrected in the close's own documents. **Not corrected in a chapter, because a close may not write one, and a chapter-writing pass may not exist after this one.**
+- **IONA SORN IS THE LAST ENEMY IN THIS MANUSCRIPT AND SHE IS NOT ABSOLVED.** She has not said whether she will work on repairs under somebody else's hand and under a review she does not choose, and nobody has offered it to her again, and the close leaves that open.
+- **`state/phase-ledger.json` still reads `phase-000-bootstrap` and `planned` at Chapter 760 and the manuscript is finished.** The forty-fifth flag. Controller-owned, read and not written by anybody.
+- **THE REVIEW GATE HAS NEVER RUN `novel-reviewer`.** `novel-reviewer` is registered as a subagent and `.github/workflows/novels.yml` invokes it as a primary one, so every review in this repository fell back to the default agent, and there is no `reviews/volume-15-batch-0006.md`. Controller-owned and untouched by any pass, and it is the condition under which the whole of this volume was made.
