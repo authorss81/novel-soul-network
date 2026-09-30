@@ -132,7 +132,7 @@ Work: nine, a cylinder and a key cut at a vice, nothing escalated, nothing hande
 Charge: nineteen pounds, exact.*
 
 *Conditions of the close.* **Sixty-six lines is what the book in the green cover stands at in that first floor, and the tin beside it stands at seventy-three with the lid down, and the two were not added to each other on that Wednesday by anybody.
-Behind the chair of the woman of about sixty there is an empty place and it has been empty since a week in the spring.. The ninth chair in that room is against that wall with its back to the whole of it and it did not move on that Wednesday, and whoever put it there is named on no page of this stretch of days.
+There is nothing at the back of the woman of about sixty and there has been nothing there since a week in the spring. The ninth chair in that room is against that wall with its back to the whole of it and it did not move on that Wednesday, and whoever put it there is named on no page of this stretch of days.
 The room under the building in a first district was dark at about eleven on that Wednesday and has been dark every night since the last one and is not going to be opened.*
 
 *What the day did not settle, and the rest of it.* **The register of things done correctly that changed nothing was at four in that room at about a quarter to eight and remains at four, and nobody has counted that board since a Friday about three weeks ago and nobody is going to.

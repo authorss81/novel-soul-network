@@ -116,7 +116,7 @@ The man of about fifty-two found the rota in the drawer an hour after he had sai
 
 *790.
 Wednesday of week 274, at ten, and the ninety-second day of this stretch of days. Eleven names and eleven dated jobs, the last name at twenty to five. The shutter came down at ten.
-One room off a road in that district from about five onward. A named exception was asked for, so that the release line at a yard would not be one of the things a district takes with it.
+From about five onward it was one room off a road in that district. A named exception was asked for, so that the release line at a yard would not be one of the things a district takes with it.
 A man of about fifty-two refused in about nine seconds, and the reason he gave was the right hand of a man of about forty-seven and not the district and not the four hundred people.
 The exception was refused by the only person who could have written it down. The form was not filled in. The four ruled lines under the heading about what a person is owed were still empty at about half past seven.
 The room above a line in Saltmarket stood open that evening for about an hour and no number was said in it and nothing was said in it.

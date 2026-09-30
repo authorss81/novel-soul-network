@@ -150,7 +150,7 @@ Work: thirteen, one closer and one switch, nothing escalated, nothing handed bac
 Charge: thirty-one pounds, exact.*
 
 *Conditions of the close.* **The book bound in green on a first floor above a line in Saltmarket stands at sixty-six lines, and the tin on the same table stands at seventy-three with its lid down, and nobody has added the two together and nobody in this city is going to.
-The space behind the chair of the woman of about sixty has been empty since a week in the spring., and the ninth chair is hard against that wall with its back to everything in the room, and it did not move on that Tuesday, and nobody is going to be named for putting it there.
+The space behind the chair of the woman of about sixty has been empty since a week in the spring, and the ninth chair is hard against that wall with its back to everything in the room, and it did not move on that Tuesday, and nobody is going to be named for putting it there.
 The room under the building in a first district was dark at about eleven and is dark, and it is not going to be opened in this stretch of days.*
 
 *What the day did not settle, and the rest of it.* **The board of correct acts that changed nothing stood at four in that room at about half past six and stands at four, and four people saying no to a question about a Tuesday is not on it and has not been counted on it.

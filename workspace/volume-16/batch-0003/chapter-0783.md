@@ -150,7 +150,7 @@ Work: eleven, one sash cord, nothing escalated, nothing handed back.
 Charge: twenty-three pounds, exact.*
 
 *Conditions of the close.* **The book bound in green in that first floor above a line in Saltmarket is at sixty-six lines and the tin on the same table is at seventy-three with its lid down, and neither number was mentioned to anybody in that other building on that Thursday, because nobody in that building knows either of them.
-The place behind the woman of about sixty is empty and has been since a week in the spring.. The ninth chair stands against that wall with its back to the room and did not move, and its mover is not named on any page of this stretch of days.
+The chair of the woman of about sixty has had an empty place behind it since a week in the spring. The ninth chair stands against that wall with its back to the room and did not move, and its mover is not named on any page of this stretch of days.
 The room under the building in a first district was dark at about eleven on that Thursday and remains dark and is not going to be opened in this stretch of days.*
 
 *What the day did not settle, and the rest of it.* **The count of correct acts that changed nothing was four in that room at about ten past seven and is four, and four people declining to post a form and a fifth person carrying it are not on that board and have not been put on it.

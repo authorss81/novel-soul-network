@@ -158,7 +158,7 @@ Work: ten, a closer and a pivot, nothing escalated, nothing handed back.
 Charge: twenty-four pounds, exact.*
 
 *Conditions of the close.* **The green-covered book in that first floor above a line in Saltmarket is on sixty-six lines and the tin beside it is on seventy-three with its lid down, and neither figure was said out loud in any of the four places where a man of about forty-seven has his name in writing.
-The empty place behind the woman of about sixty's chair has been empty since a week in the spring.. The ninth chair is against that wall facing nothing and did not move on that Friday, and no page of this stretch of days names whoever set it there.
+The empty place behind the woman of about sixty's chair has been empty since a week in the spring. The ninth chair is against that wall facing nothing and did not move on that Friday, and no page of this stretch of days names whoever set it there.
 The room under the building in a first district was dark at about eleven on that Friday and is still dark and is not going to be opened in this movement.*
 
 *What the day did not settle, and the rest of it.* **The register of acts that were correct and changed nothing stood at four in that room at about half past seven and stands at four, and finding a man in four documents is not on it and was not counted by anybody.
