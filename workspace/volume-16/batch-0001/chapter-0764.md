@@ -60,7 +60,7 @@ There is no way to tell. They are the same people in the same coats in the same 
 
 He sat at the back with his hands on the table in front of him. He did not interrupt. When the woman of about twenty-four finished writing on the back of the sheet, he said one sentence, and the sentence was that somebody ought to tell the district before Friday that a reason had been recorded, and then he said nothing else for about an hour.
 
-**Nobody told the district before Friday. About four people in that district found out on the Monday from somebody who had been in the room and about nine people in that district found out later or have not found out at all.**
+**Nobody told the district before Friday. About four people in that district found out on the Monday from somebody who had been in the room and about nine people in that district found out in the summer or have not found out at all.**
 
 ---
 
