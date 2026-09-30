@@ -1,0 +1,181 @@
+# THE PROMPT OF RECORD FOR `workspace/volume-16/batch-0003/`
+
+**Movement III of Volume 16. Chapters 781 to 790. Days 1798 to 1811, a span of thirteen days carrying ten chapters with no weekday gap at all. Weeks 273, 274 and 275. Load-book entries 784 to 793. Tuesday, Wednesday, Thursday, Friday, Monday, Tuesday, Wednesday, Thursday, Friday, Monday.**
+
+**THE FIGURE TABLE AT §1a BELOW WAS DERIVED BY THE MOVEMENT II WRITER FROM THE ANCHORS AND FROM `workspace/volume-16/ARITHMETIC-AND-CALENDAR.md` AND NOT COPIED OUT OF ANY PROMPT, AND IT WAS WALKED BEFORE A SINGLE PAGE OF MOVEMENT II WAS MEASURED. A WRITER OF MOVEMENT III MUST STILL RE-DERIVE EVERY FIGURE FROM THE CALENDAR FILE AND MUST NOT COPY ONE OUT OF THIS FILE. A table that exists to be checked against must be walked against and not transcribed, and Movement I wrote a row of the calendar file out in the same words on seven of its ten pages and produced a hundred-and-fifty-token run for its trouble.**
+
+**AND TWO THINGS ARE HANDED ON FROM MOVEMENT II, AND BOTH OF THEM ARE FIGURES OR INSTRUMENTS THAT A WRITER OF THIS MOVEMENT WILL STEP ON IN THE FIRST CHAPTER.**
+
+1. **THE WOMAN'S PAGE STANDS AT 219 DAYS ON CHAPTER 780 AND OPENS THIS MOVEMENT AT 220, AND ITS SERIES MUST STEP BY THE CALENDAR DAY AND NOT BY THE CHAPTER.** It walks as `day − 1578`. **Movement I printed a counter that stepped by chapter instead of by day for five chapters and survived a writing pass and a review before anything caught it, and Movement II's counter was right in its first draft only because the instrument was built and asserted before a page existed.** For this movement: **220 at 781, 221 at 782, 222 at 783, 223 at 784, 226 at 785, 227 at 786, 228 at 787, 229 at 788, 230 at 789, 233 at 790.** Note the two three-day steps at the weekend, which are the only steps a counter stepping by chapter could not fake, and check them first. The house elided form is *a hundred and six* below two hundred and *two hundred and twenty* above it, and it takes no `to the day` because it is not one of the seventeen conditions-row series, and that exemption is the only one taken in this volume. **The binder stays shut, the page stays unread, nobody is asked a question about it, nobody apologises to her, and no chapter of this volume may make her a category.**
+2. **RUN THE CROSS-FILE ANCHOR WALK BEFORE THE FIRST PAGE IS MEASURED, NOT AFTER, AND RUN THE CROSS-MOVEMENT DUPLICATION WALK AT ALL.** An interval walk cannot see the class above, because it checks `weeks × 7 + days` inside one row of one file and that is a walk across ten files against a table, step to step. **The cross-movement duplication walk is new in this repository and it found seventeen real defects on Movement II that Movement II's other nine instruments did not find: seventeen sentences of twelve tokens or more were shared with Movement I's ten files. Run it against `workspace/volume-16/batch-0001/` as well as against your own ten, and reword, do not cut, and cut nothing to get under it.**
+
+**AND ONE FLAG THAT IS NOT A FIGURE TO COPY AND IS NOT SETTLED: the page walks as `day − 1578` in this volume and as `day − 1573` in Volume 15's own calendar file, which closes at 191 days on Chapter 760. The page loses five days crossing the volume boundary and nobody has decided which anchor is canon. Movement III is written to `day − 1578`, which is this volume's plan of record, and a writer of this movement may not print the difference as a number and may not resolve it. It is carried at §5A of `state/continuity.md` and as item 8 of the Volume 16 block in `state/open-threads.md`, and it is for the close.**
+
+**READ BEFORE WRITING, IN THIS ORDER, AND NOTHING BELOW OUTRANKS ANY OF IT:** `NOVEL_SPEC.md`; `outline/series.md`; `outline/ending.md`; `outline/volume-16.md`, which is the plan of record for this volume; `workspace/volume-16/ARITHMETIC-AND-CALENDAR.md`; `state/current.md`; `state/continuity.md`; `state/open-threads.md`; `state/chapter-summaries.md`; and the last twenty chapters, 781 to 800 once this batch is written, and 761 to 780 before it.
+
+**THE FLAG THIS BATCH EXISTS UNDER IS NOT REPEATED AT FULL LENGTH. A sixteenth volume did not exist in the plan of record and this batch is the third movement of it. `outline/volume-16.md` states the deviation in full at its head. Nothing in this movement reverses, softens or contradicts a single resolution of Volume 15, no new enemy is created, and the four words naming the body that decides the thing and the word `Crown` in every form are both at zero on all ten files unless this prompt says otherwise.**
+
+---
+
+## 0. WHAT MOVEMENT II LEFT, AND IT IS THE BASE OF EVERY FIGURE BELOW
+
+- **A period is on a form and it is seven days.** A form printed in the winter has three boxes and a line ruled under the last one. A man of about fifty-two put twenty-one days in it in about four seconds and then said in about nine seconds, before anybody had looked, that it was wrong by a fortnight. The reason is the work: a rota is made seven days ahead, a gate opens at five, about four hundred yards of yard is eleven minutes at a walk and cannot be crossed in the dark. He crossed the twenty-one out with one stroke. **The form has not been sent. The box above the first one, four ruled lines under a heading about what a person is owed, is still empty.**
+- **About thirteen people were asked to sign the district's notice and four said no**, in four reasons, in four mouths, in about nine seconds each: a man of about forty-four who has a shift and that a signature does not move; a woman of about thirty-one who has signed nine things for that district and eight were about a bin; a man of about thirty-eight whose brother works at the yard and who will not be the one who writes it down; a woman of about twenty-nine who has nobody to ask. **The district did not argue and did not ask why.** It wrote the four names and nothing after them and turned the sheet round, and then said in about four sentences what about nine names can do and what they cannot. **The yard is not a signature. About four hundred yards of yard is on no document any person in this city has written.**
+- **One of the four said his reason out loud in a queue at about half past six at that gate**, to a woman of about twenty-six on her way to a bus who heard about nine words and has given her name to nobody. **Nobody has told the institution which one, and nobody is going to.**
+- **About eleven weeks is the only figure anybody costed and it is about four people who have not been asked whether they would do it.** Three numbers came back in about nine minutes; this is the only one written down. It is on a line in a docket book on a shelf behind a counter, in his hand, given to nobody, between two books about hinges. **The four in the eleven weeks are NOT the four who said no, and a woman of about thirty-four said so in about nine seconds, and about four people in that room have put the two sets together anyway and about none of the four has said so to anybody.**
+- **The volume's one panel and its one marker are on a wall beside a stair.** A card about the size of a playing card with two lines of type on it, four pounds taken, about nine hundred sent against an order for four hundred, nobody counted, and the printer does not know who wanted it and has not asked. **The marker is a paler rectangle the size of the card with a rim that is not cracked and is rubbed back about a finger's width at the top edge and at the left by about nine hands in about four years, and the new card covers all of it except those two edges.** About four people in that building looked at the gap and about two of them said something about it. **Nobody in that building has to obey either line and nobody did.**
+- **The fifty-seventh sitting gave a count of sixty-two of which fifty-seven and the book did not open.** It is on sixty-six lines before and after; the tin is on seventy-three with the lid down and did not move. A man of about thirty-four sat in the eighth chair for the fifth Wednesday running and was asked nothing.
+- **A woman of about twenty-four refused a council of about nine people in about nine seconds** with a reason about shifts, and the council accepted it in about four seconds, and the third box of a form stays as printed.
+- **A Monday came and went on which four sentences started and none of them finished**, and a woman of about thirty-four said in about nine seconds that the refusal is the procedure working, and nobody agreed and nobody argued. The date is the date the district gave and nobody moved it and the sheet is still on that wall.
+
+---
+
+## 1. THE DAY MAP FOR THIS MOVEMENT, AND EVERY FIGURE ON IT COMES FROM THE CALENDAR FILE
+
+| Ch | Wk | Day | Day no. | Entry | Counter (`chapter − 695`) |
+| --- | --- | --- | --- | --- | --- |
+| 781 | 273 | Tuesday | 1798 | 784 | eighty-sixth |
+| 782 | 273 | **Wednesday — the room is open and no number is said and no sitting is said either** | 1799 | 785 | eighty-seventh |
+| 783 | 273 | Thursday | 1800 | 786 | eighty-eighth |
+| 784 | 273 | Friday | 1801 | 787 | eighty-ninth |
+| 785 | 274 | Monday | 1804 | 788 | ninetieth |
+| 786 | 274 | Tuesday | 1805 | 789 | ninety-first |
+| 787 | 274 | **Wednesday** | 1806 | 790 | ninety-second |
+| 788 | 274 | Thursday | 1807 | 791 | ninety-third |
+| 789 | 274 | Friday | 1808 | 792 | ninety-fourth |
+| 790 | 275 | Monday | 1811 | 793 | ninety-fifth |
+
+**There is no weekday gap in this movement: every one of the ten days is a weekday and every weekday in the span carries a chapter. There is no Saturday and no Sunday and the shutter comes down at about ten on all ten days. The Exchange's four sittings are the Wednesdays of weeks 272, 276, 280 and 284, and this movement carries none of them, and the room above a line in Saltmarket is open on the Wednesday of Chapter 782 and on the Wednesday of Chapter 787 and no number is said on either and no file may name a sitting.**
+
+### 1a. THE FIGURES EACH FILE MUST PRINT, IN WORDS
+
+| Ch | Room | Card | Nineteen | Hold | Fifty-one | Ask | Copies | Separation | Page |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 781 | 1,436 | 1,440 | 1,132 | 1,069 | 1,042 | 1,126 | 1,002 | 816 | 220 |
+| 782 | 1,437 | 1,441 | 1,133 | 1,070 | 1,043 | 1,127 | 1,003 | 817 | 221 |
+| 783 | 1,438 | 1,442 | 1,134 | 1,071 | 1,044 | 1,128 | 1,004 | 818 | 222 |
+| 784 | 1,439 | 1,443 | 1,135 | 1,072 | 1,045 | 1,129 | 1,005 | 819 | 223 |
+| 785 | 1,442 | 1,446 | 1,138 | 1,075 | 1,048 | 1,132 | 1,008 | 822 | 226 |
+| 786 | 1,443 | 1,447 | 1,139 | 1,076 | 1,049 | 1,133 | 1,009 | 823 | 227 |
+| 787 | 1,444 | 1,448 | 1,140 | 1,077 | 1,050 | 1,134 | 1,010 | 824 | 228 |
+| 788 | 1,445 | 1,449 | 1,141 | 1,078 | 1,051 | 1,135 | 1,011 | 825 | 229 |
+| 789 | 1,446 | 1,450 | 1,142 | 1,079 | 1,052 | 1,136 | 1,012 | 826 | 230 |
+| 790 | 1,449 | 1,453 | 1,145 | 1,082 | 1,055 | 1,139 | 1,015 | 829 | 233 |
+
+**The remaining eleven series are in section 1 of the calendar file and are printed in the load book's conditions row on every one of the ten files, and every figure appears twice on its file — once in the narration and once in the conditions row — and both renderings are checked by `weeks × 7 + days` in both directions. A component of zero takes *to the day* and a component of one takes *one day*. A generator that prints the plural on a component of one, or prints *zero days* for a component of zero, produces a walk that is correct on its arithmetic and wrong in its English, and the arithmetic check will not see it.**
+
+**WALK THE WHOLE-NUMBER-OF-WEEKS VECTOR FOR THESE TEN ROWS YOURSELF BEFORE YOU WRITE A CHAPTER AND PRINT IT, DO NOT COPY IT FROM ANYWHERE. Movement II's vector was 0, 3, 7, 3, 3, 0, 4, 7, 3, 3 and `to the day` was at zero on the two files the vector predicts. The place behind the woman's chair is a whole number of weeks on some rows and is printed on ONE file of the movement and on no other, so the per-file count is a count of what a file prints and not of what a day permits, and the two differ on every row where the chair is exact and unprinted.**
+
+---
+
+## 2. WHAT THIS MOVEMENT IS FOR, FROM THE PLAN OF RECORD
+
+**Movement III is *The One Thing They Will Not Keep Doing*.** The thing a district will not keep doing is **the holding of a release line at a water yard in a second district**, and about four hundred people across three districts and half a bus route use it, and it takes about eleven seconds, and the man who does it is about forty-seven and has done it for about eleven years, and his right hand has not been steady since a night about a year ago that about four hundred people in this city still call the nine minutes, and it is not on a list, and nobody has ever had to write down who holds what.
+
+**The movement's work is that the four people in the eleven weeks have to be asked, and that the answer they give is a figure and not a yes, and that the institution is asked for an exception and refuses it, and that the refusal is about the hands and not about the principle. Leo Marr's people find the practice written down in four places where somebody wrote it down by accident and in no place on purpose. Rafi's cooperative can hold it for about nine weeks and says so and says what it would cost and is not thanked. The Quiet House is asked for its opinion and gives an opinion that is inconvenient and is not ignored.**
+
+**A DAUGHTER OF A MAN IS NOT WHAT THIS MOVEMENT IS ABOUT, AND A HEROIC RELIEF IS NOT AVAILABLE IN IT.** Nothing in this volume may cure, explain or investigate the hand, and no chapter may make it a mystery, give it a cause beyond the date, or turn it into a thing that gets solved by a person who arrives.
+
+### What this movement may not spend, beyond the volume's list of nine
+
+**None of the forty-one debts open at Chapter 760.** No chapter may compare two of the nine hand copies, open the ring binder, move the ninth chair, light the room under the building, ask about the man of about fifty-one's back room, or name Evan Senn. **No chapter may resolve or soften the five days the woman's page loses at the volume boundary, and no chapter may print that difference as a number.**
+
+### And the eight things this movement may not do
+
+1. **The four words naming the body that decides the thing are at zero on all ten files.** If a chapter needs that body it may say *that body*, as Volume 15's Movement IV did six days early and had to repair.
+2. **`Crown` is at zero on all ten files in every form, including the place name.**
+3. **There is no panel on any of these ten files.** The words `panel`, `system` and `notification` are at zero, and **no file may refer to the absence of the card on the wall or of the rectangle under it.**
+4. **The register stands at four on all ten days and does not move.** Nobody has counted it since Chapter 769 and nobody is going to.
+5. **He may not be the person who asks the four, may not be the one who finds the four places, may not be granted the exception, may not refuse it, may not sign anything, and may not be the person the district asks.** He may be in a room. He may be four feet from a table. He may be told a thing and say nothing.
+6. **Leo Marr, Rafi Pell and the Quiet House each appear on the days the plan of record gives them, are given nothing, are not redeemed, are not made larger and are not thanked, and Rafi's nine weeks is said by Rafi's people and not by him in a room where somebody is grateful.**
+7. **Nobody thanks anybody and nobody forgives anybody on any of the ten days.**
+8. **No sentence of twelve words or more appears in two of the ten files or in any of Movement I's or Movement II's twenty, and the conditions row and the standing record are written in each file's own words. The standing record's ten named objects are never brought two of them together in a sentence, and the printed sheet pinned to a board by two drawing pins is not the board on two nails that carries nineteen lines, and the card about the size of a playing card is not either of those, and where a page would confuse them it says so in its own words.**
+
+---
+
+## 2A. A CARD FOR EVERY ONE OF THE TEN DAYS
+
+**781 — Tuesday, day 1798, entry 784. *Four people are asked whether they would do it, and the asking is the whole of the day.*** Goal: get four people to answer a straight question. Resistance: nobody has ever asked them and there is no form for it, and a woman of about thirty-one says that asking them is a thing the district cannot do on its own because the district is the thing that is leaving. Turn: **all four answer, and none of the four answers with a yes, and the four answers are four different answers and one of them is a number and the number is not eleven weeks.** Consequence: the eleven weeks in the docket book is now known to be the wrong number by the four people in it. Hook: a man of about thirty-eight says that the practice has been written down four times in this city and every one of the four times was an accident.
+
+**782 — Wednesday, day 1799, entry 785. *The room is open and no number is said and this is the second Wednesday in a row that nobody remarks on.*** Goal: an ordinary Wednesday. Resistance: the man of about forty-four asks his question and gets an answer that is about a door again. Turn: **the woman of about sixty says, in about nine seconds and unasked, that a book is a thing people bring things to and that she has never been asked to keep one for anybody who was leaving.** Consequence: nobody follows it up and he wants to and does not. Hook: a woman of about thirty-four comes down a stair with a piece of paper in her hand that is somebody else's handwriting.
+
+**783 — Thursday, day 1800, entry 786. *Somebody has to be told what a period is and the form has not gone out.*** Goal: get the form sent. Resistance: about four people in a room would each rather it were somebody else's job to send it. Turn: **the woman of about thirty-four sends it herself, in about four seconds, and it goes to an address that is a landlord and a filing arrangement, and the landlord is not the institution and never was.** Consequence: a period of seven days is now on its way to a building that does not know what it is for. Hook: about nine people will read it and about four of them work in that building.
+
+**784 — Friday, day 1801, entry 787. *Four places where a practice was written down by accident.*** Goal: find out whether the practice exists anywhere in writing. Resistance: **it is in four places and every one of the four is a document about something else**, and a return sheet, a rota, a school sports sheet and a page in a hard-backed book about a gate. Turn: **a man of about fifty-two finds all four in about nine minutes by asking four people one question each and none of the four believed him before he asked.** Consequence: in no place was it written down on purpose and about two people in this city have known that for years and have not said. Hook: one of the four is a document in a room this volume has already been in and the person who wrote it is not on any list.
+
+**785 — Monday, day 1804, entry 788. *A cooperative is asked and says yes and then says the price.*** Goal: get somebody who can hold the line to hold it. Resistance: the cooperative is a shop with members and about four of them work shifts and none of them can say no without a meeting. Turn: **Rafi's cooperative says it can hold it for about nine weeks and says what it would cost in the same nine seconds, and about four people in that room do not like the nine weeks and about two of them do not like the cost, and nobody argues about either.** Consequence: the nine weeks is a number with four people who have agreed to it, and it is not eleven, and the difference is named. Hook: nobody thanks the cooperative and the cooperative does not expect to be thanked and has said so in advance in about four words.
+
+**786 — Tuesday, day 1805, entry 789. *The Quiet House is asked for its opinion.*** Goal: one opinion from people who have refused this city everything for a living. Resistance: **they give an opinion that is inconvenient and it is about the four hundred people and not about the district, and it says the district is the wrong thing to be worried about.** Turn: **the opinion is not ignored, and nobody in the room can say what to do with it, and about two of them write it down.** Consequence: the four hundred people are named in a room as the thing that has no arrangement. Hook: a woman of about thirty-six asks the woman of about thirty-four one question and the answer is about a cost and not about a principle.
+
+**787 — Wednesday, day 1806, entry 790. *An exception is asked for and the refusal is about the hands.*** Goal: get a named exception so that the four hundred people are covered. Resistance: the exception has to be written by somebody and the somebody has to be willing to be the one who holds it. Turn: **a man of about fifty-two says, in about nine seconds, that he will not put his name to an exception for a practice he holds with a hand that will not do it nine times a day for eleven weeks, and about four people in that room do not argue with him and about two of them understand exactly what he said.** Consequence: **the exception is refused by the person it would have had to be written by, and the refusal is about the hands and not about the district.** Hook: nobody thanked him and about two people in that room have said since that he was the wrong man to ask and about four have said he was the only man who could have said it.
+
+**788 — Thursday, day 1807, entry 791. *Somebody has to write down who holds what.*** Goal: get the practice onto a piece of paper with a name on it. Resistance: **writing it down makes it a thing the institution knows about, and about four people in that room have spent about four years making sure it is not.** Turn: **a woman of about thirty-four writes it down in about four seconds and gives it to nobody, and the sheet is the same object as the sheet with thirteen lines on it and it is in the same drawer.** Consequence: for the first time in about eleven years there is a piece of paper in this city that says who holds a release line at a yard. Hook: the man of about forty-seven is told about it and does not ask to see it.
+
+**789 — Friday, day 1808, entry 792. *The four hundred people are named and nothing has been arranged for them.*** Goal: get somebody to say what happens to about four hundred people on a Tuesday. Resistance: **nobody in the room is the person who decides that, and about four people say so in about nine seconds each and all four give the same reason.** Turn: **a woman of about twenty-nine says the thing nobody has said, which is that the four hundred people will not be told anything because there is no list of the four hundred and there never has been.** Consequence: the absence of a list of four hundred people is on the page of a room and about two people in that room have said that is the real problem and about four have said the nine weeks is. Hook: nobody in the room can say who would write a list of four hundred people and nobody has been asked.
+
+**790 — Monday, day 1811, entry 793. *A number is agreed that is smaller than the one everybody wanted and bigger than the one anybody costed.*** Goal: get one number into one book. Resistance: about four people each have a figure and one of the four figures is the plan of record and the other three are about the work. Turn: **the number agreed is about nine weeks of about four people of whom about two have been asked and about two have not, and the sentence that carries it says which two.** Consequence: the eleven weeks in the docket book is now a superseded figure and it stays on the page because a figure one man keeps is not a figure people have taken. Hook: **the district's date is now three weeks off and nobody has moved it and the sheet is still on that wall.**
+
+---
+
+## 3. THE FORM, AND THE FIGURES THIS MOVEMENT HAS TO BEAT
+
+1. **The opening bold paragraph of every file is forty to seventy-five words**, states the day and the shape of the day, and prints no figure, no outcome, and nothing a person in another building said. **Count the words.**
+2. **The apparatus must lose and the target is under forty per cent, and Movement II reached 35.717.** The mechanism is the one this repository has and it is the only one: **ordinary shop work written into ten bodies in three passes, with no series row cut and no conditions-row template widened.** Movement II's body was 21,563 words across ten files on an apparatus 1,336 words shorter than Movement I's, and that is where its share came from. **Nothing about the apparatus was thinned. Do not thin this one either.**
+3. **Every figure is printed twice and both renderings are checked by `weeks × 7 + days` in both directions; a component of zero takes *to the day* and a component of one takes *one day*. AND THE FIGURES THAT ARE NOT PAIRED WITHIN A SINGLE FILE ARE CHECKED ACROSS ALL TEN, AGAINST THE CALENDAR FILE'S SECTION 2 AND SECTION 0.3, STEP TO STEP.** A writer of this movement runs the anchor walk before the first page is measured and gets the woman's page right at 220 through 233 first, and not after.
+4. **`short` is at zero on all ten files. `to the day` appears exactly where the vector says it does and nowhere else.**
+5. **No Arabic numeral in any body except the chapter number in the H1. The one exception in this volume's own format is the load-book entry's first two lines, which carry the entry number and the week number in Arabic, and no other apparatus block carries a digit.** No month-name, no day-date, no year, no day number, no mileage.
+6. **`telephone`, `messenger`, `broadcast`, `feed`, `panel`, `system`, `notification`, `assembly`, `volume`, `short`, `Crown`, Saturday and Sunday are at zero on all ten files. `fair`, `unfair`, `justice`, `rightful` and `principle` are at zero on all ten files, and `right` survives only as the anatomical right hand. AND THE TWELVE MONTH NAMES ARE AT ZERO ON ALL TEN FILES on a whole-word, capitalised-as-written boundary and NOT case-insensitively: `May` is the fifth month and it is also the English modal, and a case-insensitive walk returns the modal on clean prose.** A spent age is canon and is not to be cut to make a hedge figure; the hedge is published rather than dressed.
+7. **No speech line ends inside a delimiter run, and no load book reports the absence of any prohibited thing. AND NO LOAD BOOK REPORTS ON ITS OWN PAGE AT ALL: guardrail 15's second clause is that the load book's subject is the day's work, and a load book that counts a phrase, a rule or a figure on its own file is a load book reading itself.**
+8. **`ring` in the sense of a telephone is at zero and `ring binder` is the only permitted use of the word.**
+
+## 3A. THE INSTRUMENTS, WITH THEIR BOUNDARIES, AND THE ORDER THEY RUN IN
+
+**The files are written and saved before any instrument is pointed at them. An instrument that damages prose must not be run first; that instrument has damaged this manuscript in three volumes running.** A state file is written after the last measurement or not written at all.
+
+**1. THE WORD GENERATOR AND ITS PARSER MUST BE ASSERTED BEFORE THEY ARE POINTED AT A CHAPTER.** The recorded failures of a number parser in this repository are nine and every one of them was caught by the same assertion: a parser with no tens slot; a shape test applied to the weeks run instead of the days run; a tail rule that let a walk re-enter inside every figure; a walk that bridged a colon; a grammar test that read the total value instead of the day component; an orphan scan whose class two was *any word that is not a number*; a tens table built by enumerating words against an offset; a clause boundary not enforced across punctuation; and an ordinal generator wrong in six consecutive ways. **Movement II's generator was asserted on twenty known house renderings and round-tripped over every figure the movement can print, and it was still wrong three times first: a hyphen table built from `TENS[3:]` with no *twenty* and no *thirty* in it, a tens value taken as a list index rather than as a multiple of ten so that *forty-three* parsed as seven, and a case test that read the word *Eight* as a non-number so that a figure at the start of a sentence lost its *hundred*.** Print the twenty and assert them.
+
+**2. THE HOUSE RENDERING CONVENTION, WHICH IS TWO FORMS AND BOTH ARE HOUSE FORMS.** In the conditions row the weeks figure is written *one hundred and N*; in the body it is written *a hundred and N*. Between one hundred and one hundred and ninety-nine the day count and the weeks figure are both elided to *a hundred and N*; at two hundred and above neither is elided. A walk that generates only one of the two forms will return a page that has no defect in it.
+
+**3. THE FIGURE WALK.** Every day figure against `day − anchor` for all eighteen series; every interval rendering regenerated from its own figure; every zero-component rendering checked for *to the day*; every one-component rendering checked for *one day*; every figure of eight hundred and up checked for a partner. **Movement II's walk was wrong five times before it was right: it swallowed a line label across a colon, it read one clause's figure into the next clause's rendering, it required a comma adjacency the prose does not use, it required a day component on a bare whole-week figure, and it counted a chapter number. Test it on a page that is known to be clean before you trust it.**
+
+**4. THE CROSS-FILE ANCHOR WALK**, which is the only instrument in this repository that can see a counter stepping by chapter instead of by day. Step to step, ten files, against the table.
+
+**5. THE CROSS-MOVEMENT DUPLICATION WALK.** Run it against this movement's ten files and against `workspace/volume-16/batch-0001/` and `workspace/volume-16/batch-0002/`. Boundary: whole sentences of twelve `\w+` tokens or more, on the body boundary and again at whole-file scope with the apparatus retained. **It found seventeen real defects on Movement II that nine other instruments did not, and every one of them was a standing row, and the repair is rewording and not deletion and not cutting a series row or a conditions-row object.**
+
+**6. THE APPARATUS SHARE**, H1 excluded, apparatus from the italic load-book entry line to the end of the file, tokenizer printed as `\w+`. Target under forty.
+
+**7. THE HEDGE**, the single house marker `about`, whole word, case-insensitive, over each denominator separately. Target twenty-five per thousand. **Movement II published 45.309 as a miss and the reason is the spent-age class; do not cut a spent age to move it.**
+
+**8. THE PROHIBITED-TERM LIST, PRINTED IN FULL BEFORE IT IS USED AND CHECKED AGAINST THE RULE IT EXISTS TO ENFORCE.** The forty-eight terms are printed at `workspace/volume-16/batch-0002/SUMMARY.md` §3.5 and the twelve month names are a separate list on a separate boundary. **A printed term set is a claim about the rule and not the rule, and Movement I's list omitted every month name and three passes read a chapter saying *in June* against it.**
+
+**9. THE SHARED-RUN WALK**, both scopes, and a binary search rather than a linear one.
+
+**10. THE TYPOGRAPHY WALK.** Arabic digits in bodies; odd `"` and odd backticks at document level; odd `**` in any body; speech lines ending inside a delimiter run. **The apparatus inherits Movement I's form, in which the docket block opens with `**` and closes with a single `*` that closes the outer italic opened at the entry line, and that inherited odd count at document level is recorded as a formatting fact and not as a defect in your prose.**
+
+**11. A CONTROL RUN OVER A KNOWN-CLEAN MOVEMENT, AND THIS IS NOT OPTIONAL.** Point the whole harness at Movement I's ten files and at Movement II's ten files. **Movement II's harness returned Movement I's published 30,629 words, a share of 43.478 and a hedge of 41.936 to the third decimal. That has never happened in this repository and it is the only reason Movement II's 35.717 can be compared with Movement I's 43.478 at all.** If your harness does not reproduce those three figures, it is not the same instrument and its numbers are not comparable with anything.
+
+---
+
+## 4. THE THREE FILES THE WRITER IS LEAST SURE OF, NAMED BEFORE STARTING, AND NOT CLAIMED CLEAN AFTERWARDS
+
+1. **Chapter 787.** A refusal of an exception that has to be about the hands and not about the principle, in a room where about four people understand it and about two do not.
+2. **Chapter 789.** A chapter whose turn is the absence of a list of about four hundred people, which is a fact about an omission and not a revelation, and which must not be written as though something had been uncovered.
+3. **Chapter 790.** A number agreed that is smaller than the one everybody wanted and bigger than the one anybody costed, in one book, with a sentence that says which two of the four have been asked.
+
+---
+
+## 5. WHAT THIS BATCH OWES THE VOLUME 15 CLOSE, AND IT IS NOTHING
+
+**The Volume 15 close cancelled no thread. The three unrun volume closes are still three. Section 6 of the Volume 14 calendar file is still a reservation.** This batch owes all of that nothing, may not resolve any of it, and may not mention it on any page.
+
+**THE SPEND CEILING IS FOUR AND IT IS NOT AVAILABLE FOR HIM.** Volume 16's supporting-cast ceiling is eight across sixty chapters. Movement I spent two, Movement II spent two, and **four remain for Movements III, IV, V and VI — one each.** Name a spend before you write it and give the new person one job, one age and one want of their own, and no follower, no rescued person and no gratitude.
+
+**Two standing rules that are rules and not habits: write the ten files and save them before any instrument is pointed at them, and write every state file after the last measurement or not written at all.**
+
+**`state/phase-ledger.json` is controller-owned. Read it, do not write it, and say in the batch summary that it was read and not written.**
+
+---
+
+## 6. WHAT TO LEAVE BEHIND FOR THE NEXT PASS
+
+**Exactly one next phase prompt, at `workspace/volume-16/batch-0004/PROMPT.md`, for Movement IV, Chapters 791 to 800, days 1812 to 1825, entries 794 to 803, and no other phase, and no volume close, because Movement VI of this volume is not written and this is not the last movement. Do not create it before this batch's files are saved and measured.**
