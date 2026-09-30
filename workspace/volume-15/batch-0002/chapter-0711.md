@@ -4,7 +4,7 @@
 
 ---
 
-The Thursday carried eleven jobs with a date against each and eleven people over the counter, the last of them let in at half past five, and about four of the eleven had come about the day without knowing it. The shutter came down at ten and the cage shook, and that had happened about nine times in a fortnight.
+The Thursday was carried by eleven jobs with a date against each and by eleven people over the counter, and the last of them was let in at half past five. and about four of the eleven had come about the day without knowing it. The shutter came down at ten and the cage shook, and that had happened about nine times in a fortnight.
 
 **Those four rooms and the one behind the three are at one thousand three hundred and nineteen days, a hundred and eighty-eight weeks and three days, and four days past them, standing on end in the rail by that door, is a card at one thousand three hundred and twenty-three days, a hundred and eighty-nine weeks to the day, and the rail takes two.**
 
@@ -52,7 +52,7 @@ The sixth was a boy of about fifteen who read the whole of it including the box 
 
 The woman of about fifty-two said, in about nine seconds:
 
-"**Same four steps. Different line under them, and there's a box at the bottom that wasn't on the last one. That's the whole of what's changed. It's been here since Tuesday morning and it came through the letter slot behind me in a bundle with about four hundred of them, and I put them on the counter because a bundle in a letter slot gets taken away in the morning.**"
+"**Same four steps. Different line under them, and there's a box at the bottom that wasn't on the last one. That's the whole of what's changed. It's been here since Tuesday morning and it came through the letter slot behind me in a bundle with a great many others in it, and I put them on the counter because a bundle in a letter slot gets taken away in the morning.**"
 
 "**Right,**" said the man of about thirty-six.
 
@@ -82,11 +82,11 @@ He did it twice. The second time it held, and the woman of about fifty-two watch
 
 **The rest of the Thursday ran. Eleven jobs and eleven names, the last at half past five, and about nine feet of conduit went out on a job in a first district and a man of about thirty-eight bought a length of cord and asked whether it was the right kind and was told it was the right kind, and has not been back.**
 
-From about half past six until ten there were four people in those four rooms off that service road and one behind the three, and one of the four of them had a light off again, and there was one other person in the fourth of them for the whole of it and she is about thirty, and the chair the door is behind is hers, and for three and a half hours not one person in that building put a word to her, and the eighth of eight pages was in a ring binder on a back shelf and has been for a hundred and twenty-one days, and nobody has apologised to her in any form and nobody ever will.
+Four people were in those four rooms off that service road from about half past six until ten, and one room behind the three, and a fifth person in the fourth of them for the whole of it. She is about thirty and the chair the door is behind is hers. The eighth of eight pages has been in a ring binder on a back shelf of that room for a hundred and eighteen days, it did not come out that Thursday, and nobody has said a word to her or apologised to her in any form and nobody ever will.
 
 ---
 
-**Three things on that Thursday and not one of them on a form.** A sheet lying face up on a counter for about two days, and a bundle of about four hundred of them that had come through a letter slot behind a counter and had been put out where people could take one instead of being taken away in the morning. **A gap in a rail that takes two and has one card in it.** And a machine that wanted a switch and wanted a part and wanted looking at before the winter, and the woman who owned the room had asked the man who owned the building in the spring and had been told to go and ask somebody, and she had said she would.
+**Three things on that Thursday and not one of them on a form.** A sheet lying face up on a counter for about two days, and a bundle that had come through a letter slot behind a counter and had been put out where people could take one instead of being taken away in the morning. **A gap in a rail that takes two and has one card in it.** And a machine that wanted a switch and wanted a part and wanted looking at before the winter, and the woman who owned the room had asked the man who owned the building in the spring and had been told to go and ask somebody, and she had said she would.
 
 ---
 
@@ -103,12 +103,12 @@ Eleven dated jobs went out and eleven came in, the shutter came down at ten, and
 Thursday of week 256, at ten, and the sixteenth day of this stretch of days.
 Eleven names on the book and eleven dated jobs, the last name taken at half past five.
 A counter eleven feet long in a laundry on the ground floor of a building in a first district, and a sheet lying face up on it since Tuesday, and about nine people who handled it over about an hour and a half, and one of them who asked whether it was the same sheet and got an answer about nine seconds long from the woman behind the counter and did not ask a question after it.
-The same four steps. A different line under them. A box at the bottom that was not on the last one. A bundle of about four hundred that came through the letter slot behind the counter on Tuesday morning and was put out where it could be taken.
+The same four steps. A different line under them. A box at the bottom that was not on the last one. A bundle that came through the letter slot behind the counter on Tuesday morning and was put out where it could be taken.
 Nobody in that shop asked who printed it and nobody was told and nobody asked who wrote it and nobody asked whether it was true except one boy of about fifteen, who asked the woman and not the paper, and she said she did not know.
 A man of thirty-three told her on Tuesday that it was the machine and would not touch it. A man of twenty-two took the switch out of a machine that was not the fault and put a new one in and it tripped again at about twenty to four, and did it twice, and the second one held, and he told her in about nine seconds that the machine wanted looking at before the winter and that nobody would come and look at it.
 The charge for the Thursday was thirty-one pounds, exact. The switch that was in his bag all day was in a drawer in Lattice Ward. Nobody thanked anybody and nobody was taught, shown, assessed or helped.*
 
-*Conditions and docket.* **The Thursday carried eleven dated jobs and eleven callers, the last admitted at half past five, and about two hours of it were a counter in a first district and about eleven minutes of it were a machine that tripped twice. Callers: eleven.
+*Conditions and docket.* **Callers on that Thursday: eleven, eleven dated jobs, and the last of the eleven admitted at half past five. About two hours of it were a counter in a first district and about eleven minutes of that were a machine that tripped twice.
 Those rooms: one thousand three hundred and nineteen days, a hundred and eighty-eight weeks and three days, four of them and one behind, warm.
 Rail card: one thousand three hundred and twenty-three days, a hundred and eighty-nine weeks to the day, rail of two.
 The nineteenth, one thousand and fifteen days, one hundred and forty-five weeks to the day, and it is the bottom line anybody has ever written on.
@@ -117,11 +117,11 @@ The man of about fifty-one against that north wall: nine hundred and twenty-five
 The ask: one thousand and nine days, one hundred and forty-four weeks and one day.
 The nine hand copies of the front of a page: eight hundred and eighty-five days, one hundred and twenty-six weeks and three days, eight of the nine unfinished, one with a corner torn on it, and the first row on which anybody has ever disagreed not found.
 The separation: six hundred and ninety-nine days, ninety-nine weeks and six days, shut in a one-line box in a form about sixteen months ago, and taken out again every day since, and shorter by nothing, with nothing put back.
-Twelfth line, one thousand and two hundred and thirty-nine days, one hundred and seventy-seven weeks to the day.
-Thirteenth line, one thousand and one hundred and ninety days, one hundred and seventy weeks to the day.
-Fourteenth line, one thousand and one hundred and fifty-five days, one hundred and sixty-five weeks to the day.
-Fifteenth line, one thousand and one hundred and thirty-four days, one hundred and sixty-two weeks to the day.
-Sixteenth line, one thousand and one hundred and nine days, one hundred and fifty-eight weeks and three days.
+Twelfth line, one thousand two hundred and thirty-nine days, one hundred and seventy-seven weeks to the day.
+Thirteenth line, one thousand one hundred and ninety days, one hundred and seventy weeks to the day.
+Fourteenth line, one thousand one hundred and fifty-five days, one hundred and sixty-five weeks to the day.
+Fifteenth line, one thousand one hundred and thirty-four days, one hundred and sixty-two weeks to the day.
+Sixteenth line, one thousand one hundred and nine days, one hundred and fifty-eight weeks and three days.
 Seventeenth line, one thousand and ninety-one days, one hundred and fifty-five weeks and six days.
 Eighteenth line, one thousand and thirty-seven days, one hundred and forty-eight weeks and one day.
 The post at the corridor end: eight hundred and sixty-seven days, one hundred and twenty-three weeks and six days.
@@ -130,4 +130,4 @@ Refusals: five, one a request for the name of whoever sent the bundle through th
 Work: eleven, two declines, nothing escalated, nothing handed back.
 Charge: thirty-one pounds, exact, and about nine feet of conduit went out on it.**
 
-*A counter with a sheet lying on it, and an answer of two sentences.* **A sheet came into a first district in a bundle of about four hundred and was put on a counter where about nine people handled it in an hour and a half, and the only question anybody asked about it was whether it was the same sheet, and the answer was that the four steps were the same and the line under them and the box at the bottom were not, and that was given in about nine seconds by a woman who did not write it and does not know who did. The register of correct acts with no consequence stands at two and did not move on this day, and this is the day where it is closest to being moved by accident: a woman putting a bundle of paper on a counter instead of letting it be taken away in the morning is not a correct act, it is a woman who has a machine that trips and a landlord who does not come, and it cost her nothing and it cost him a switch carried across a district to a machine he could not fix on one visit, and neither of those two is a correct act and neither of them has been put anywhere. Nobody thanked anybody and nobody was taught, shown, assessed or helped, and the number of places that paper is at is not a number of people and is not a figure on this page. Ten objects are named on this page and this page does not bring two of them together: a sheet lying face up on a counter, a card standing on end in a rail of two, a board on two nails, a hand copy of the front of a page, a bundle of string under a counter, a folded wedge of card under a chair leg, an extractor with a switch in it, a notice with a date on it in a hand that is not the counter woman's, a ring binder on a back shelf, and a drawer under a bench with four sheets in it that was not opened on that Thursday or on any day before it.**
+*A counter with a sheet lying on it, and an answer of two sentences.* **A sheet came into a first district in a bundle and was put on a counter where about nine people handled it in an hour and a half, and the only question anybody asked about it was whether it was the same sheet, and the answer was that the four steps were the same and the line under them and the box at the bottom were not, and that was given in about nine seconds by a woman who did not write it and does not know who did. The register of correct acts with no consequence stands at two and did not move on this day, and this is the day where it is closest to being moved by accident: a woman putting a bundle of paper on a counter instead of letting it be taken away in the morning is not a correct act, it is a woman who has a machine that trips and a landlord who does not come, and it cost her nothing and it cost him a switch carried across a district to a machine he could not fix on one visit, and neither of those two is a correct act and neither of them has been put anywhere. Nobody thanked anybody and nobody was taught, shown, assessed or helped, and the number of places that paper is at is not a number of people and is not a figure on this page. Ten objects are named on this page and this page does not bring two of them together: a sheet lying face up on a counter, a card standing on end in a rail of two, a board on two nails, a hand copy of the front of a page, a bundle of string under a counter, a folded wedge of card under a chair leg, an extractor with a switch in it, a notice with a date on it in a hand that is not the counter woman's, a ring binder on a back shelf, and a drawer under a bench with four sheets in it that was not opened on that Thursday or on any day before it.**
