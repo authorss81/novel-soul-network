@@ -12,7 +12,7 @@ That Wednesday's sheet carried twelve names by the time the day was over, and a 
 
 **And that Wednesday came round on its four weeks, the same as every one of the three before it, and nobody in this city has said a figure out loud in a room in between, and the count goes up by one whether that book opens or not.**
 
-About nine people came up between about half past six and about seven. The room was warm, the window had been open since the spring, and about four of that nine had come before the rest of them.
+By about half past six about nine people were up that stair and the last of them came in at about seven. The room was warm, the window had been open since the spring, and about four of that nine had come before the rest of them.
 
 **The ninth chair in that room is hard against a wall with its back to everything that happens in it, and it did not move on that Wednesday, and on no page of this stretch of days is the person who would move it named.**
 
@@ -20,7 +20,7 @@ About nine people came up between about half past six and about seven. The room 
 
 **A sheet of nine things came in a plain envelope, and nobody opened it until about ten past six, and then the woman at the head of that room read out the nine lines a man had brought her. She took them in the order they were printed in and she left the last one until last.**
 
-The ninth of the nine is who a person goes to if they want to say no. It has held that place for about nine years, and about four people in that room said on that Wednesday that they would put it first if anybody let them.
+The ninth of the nine is the one a person goes to when they want to say no. It has held that place for about nine years, and about four people in that room said on that Wednesday that they would put it first if anybody let them.
 
 **Nobody in that room let anybody, nobody in that room has let anybody since, and the ninth was read out last.**
 
@@ -125,7 +125,7 @@ Wednesday of week 296, at ten. That is the one hundred and eightieth day of this
 **THE SIXTY-THIRD SITTING, in a first floor above a line in Saltmarket, and there was a Wednesday of every fourth week four weeks back and there is another four weeks on.
 A sheet of nine things came in a plain envelope and was read out in the printed order, the ninth of the nine at the end of it, and the ninth is who a person goes to if they want to say no.
 At about half past six the count was said once, in about nine seconds, into the face of the room: sixty-eight, of which sixty-three correspond.
-The book in the green binding stood at sixty-seven lines when that room opened and stood at sixty-seven lines when the shutter came down. The tin beside it was not opened that evening and stood at seventy-three.
+The book in the green binding stood at sixty-seven lines when that room opened and stood at sixty-seven lines when the shutter came down. The tin beside it was not opened on that Wednesday and stood at seventy-three.
 A woman of about thirty-four had a sheet folded in four in her bag and did not take it out. A man of about thirty-four who has been over there and done it twice was asked whether this body will put something in the box at the foot of a form, and said nine words: I do not know and I will not guess.
 He was in that room, was asked nothing, signed nothing, and is not the person who signs anything in this stretch of days. That Wednesday was worth fifty-five pounds, exact.**
 

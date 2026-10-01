@@ -12,7 +12,7 @@ Nine were written down on that Monday, and nine dates were set against them, the
 
 ---
 
-**The form went out of that counter on that Monday with two lines printed at the top of it that have never been at the top of anything this city has sent anywhere.**
+**Both lines were printed at the top of that form, and the printers were given no third line to set and did not ask for one.**
 
 The first line says what that building is: a room in this city that keeps a book and says a number out loud four times a year in the same faces.
 
