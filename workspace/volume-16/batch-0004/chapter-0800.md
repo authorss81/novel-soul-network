@@ -18,7 +18,7 @@ She said on the Friday that the room is hers and not theirs, and she said it wit
 
 About nine people went up that stair between half past six and half past seven and about four of them stayed the hour. Two of the four said nothing at all. One of the other two asked whether a person could bring their children, and was told that the stair is the only thing on the way up that is difficult.
 
-**A woman of about thirty-four stood at the wall end of that room and said, in nine seconds, that this is the first evidence anybody has had of anything, and that what it is evidence of is that a room works when it is a room and not a notice.**
+**A woman of about thirty-four stood at the wall end of that room and said in nine seconds that this is the first evidence anybody has had of anything, and that what it is evidence of is that a room works when it is a room and not a notice.**
 
 Nobody said she was wrong. Two of them have said since that this is the only finding of that week that was worth having. Two others have said that four people coming up a stair is not four hundred people, and that this is the whole difficulty in one sentence.
 
@@ -44,7 +44,7 @@ Nobody put a heading on it. Nobody put a name on it. Nobody put anybody's name o
 
 A woman of about twenty-nine came past at about ten past eleven and read both sheets, in that order, and stopped for nine seconds at the second one.
 
-She said, in nine seconds, that she could say the four words, and that she had said them to about nine people over the previous week without anybody asking her to, and that she has never been asked where she learned them and has said where she learned them to nobody.
+She said in nine seconds that she could say the four words, and that she had said them to about nine people over the previous week without anybody asking her to, and that she has never been asked where she learned them and has said where she learned them to nobody.
 
 **Nobody has taken either sheet down. Four people in that district have read both and nine have read one and the rest of them walked past. Nobody has counted any of that. Two of them have said that counting it would be the first sensible thing anybody does, and two have said it would be the last.**
 

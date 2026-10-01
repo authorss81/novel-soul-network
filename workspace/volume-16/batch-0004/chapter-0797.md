@@ -44,7 +44,7 @@ A woman of about thirty-four said, later, that the man of about thirty-four had 
 
 A woman of about forty-eight, who keeps the register at a counter in a second district, came up that evening for the second time and was not asked anything and said nothing, and has said since that she came because she wanted to see whether the room still operated the way it does and that it does.
 
-A man of about thirty-eight asked her, on the stair, in nine seconds, whether the district had decided anything, and she said that a district does not decide things in a room like this one, and that he had said the opposite thing to about nine people in a fortnight and that she was not going to argue about it on a stair.
+A man of about thirty-eight asked her on the stair, in nine seconds, whether the district had decided anything, and she said that a district does not decide things in a room like this one, and that he had said the opposite thing to about nine people in a fortnight and that she was not going to argue about it on a stair.
 
 Nobody in that room mentioned what the count was for. Nobody in that room has ever asked.
 
@@ -54,7 +54,7 @@ Nobody in that room mentioned what the count was for. Nobody in that room has ev
 
 She put the date at the top of a page. She wrote what came in and she wrote what went out and she ruled a line underneath. Nothing was on that page about a district, a release line, a gate, a yard, or four hundred people, and there has never been anything on that page about any of those things in nineteen years.
 
-A woman of about twenty-nine looked at the page from where she was sitting and said, in nine seconds, that she had been in that room twice before the spring and both times about a bill and both times had seen that page being written.
+A woman of about twenty-nine looked at the page from where she was sitting and said in nine seconds that she had been in that room twice before the spring and both times about a bill and both times had seen that page being written.
 
 She said that she had assumed for four years that it was a list of people who owed something. Nobody in that room told her that it was not and about two of them have said since that it never was, and about two have said that nineteen years of a page nobody can read is not a mistake, it is a wall.
 

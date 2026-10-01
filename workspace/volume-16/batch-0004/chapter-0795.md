@@ -16,7 +16,7 @@ The board for that Monday carried thirteen names and thirteen dates, and the thi
 
 The reason it was needed is the one from the Tuesday. There is a printed sheet in a corridor in that district held on by two drawing pins, about nine people walk past it between eleven and two, and about four of them read it. Four hundred people will not walk past a corridor.
 
-A woman of about thirty-eight said, in nine seconds, that what is wanted is not a notice, it is a place, and that a place has to be a place a person can come to without having a reason to be in that street.
+A woman of about thirty-eight said in nine seconds that what is wanted is not a notice, it is a place, and that a place has to be a place a person can come to without having a reason to be in that street.
 
 Nobody in that room disagreed and nobody in that room knew of one.
 
@@ -54,7 +54,7 @@ Nobody argued with the condition. One of them has said since that the condition 
 
 There is no form. There is no letter. There is a Wednesday from half past six to half past seven, and there is a table, and there is a woman who will be in the room.
 
-A woman of about thirty-four said, in nine seconds, that about four hundred people will not find out because nobody has told them and nobody can, and that this is now the same problem the sheet had and nine days earlier.
+A woman of about thirty-four said in nine seconds that about four hundred people will not find out because nobody has told them and nobody can, and that this is now the same problem the sheet had and nine days earlier.
 
 A man of about fifty-two said that a room nobody knows about is a room for about nine people who already know about it, and that this was true of the last two things anybody tried in this district, and that he was not saying it to stop it.
 
