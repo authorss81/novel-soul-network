@@ -8,7 +8,7 @@ Nine names and nine dates went onto that Thursday's sheet, the ninth of the date
 
 **Those four rooms off that service road stand at one thousand five hundred and forty-three days, two hundred and twenty weeks and three days, and the card on end in the rail by that door is one thousand five hundred and forty-seven, two hundred and twenty-one weeks to the day, and the rail takes two.**
 
-**Line thirteen is one thousand four hundred and fourteen days, two hundred and two weeks to the day. Line fourteen is one thousand three hundred and seventy-nine, a hundred and ninety-seven weeks to the day. Line fifteen is one thousand three hundred and fifty-eight, one hundred and ninety-four weeks to the day.**
+**Line thirteen is one thousand four hundred and fourteen days, two hundred and two weeks to the day. Line fourteen is one thousand three hundred and seventy-nine, a hundred and ninety-seven weeks to the day. Line fifteen is one thousand three hundred and fifty-eight, a hundred and ninety-four weeks to the day.**
 
 ---
 

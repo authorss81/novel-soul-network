@@ -113,7 +113,7 @@ She took the stack down, cut the four affected sheets off, shimmed the run up ab
 ---
 
 *852.
-Thursday of week 290, at ten. That is the one hundred and sixty-fourth day of this stretch of days. That Thursday's book took eleven names and eleven dates, the last of those dates taken at about twenty to five. 
+Thursday of week 290, at ten. That is the one hundred and fifty-fourth day of this stretch of days. That Thursday's book took eleven names and eleven dates, the last of those dates taken at about twenty to five. 
 A room in a second district held about nine people and a form on a table about the size of a folded sheet of writing paper with a box at the bottom of it. Above the box are four words and under them a space the width of a thumb. Above that, in the middle of the sheet, a heading that wants a number.
 **A woman of about thirty-four, who has carried one of those sheets back on a bus from a town two days of travel away, was asked at about ten past seven by a man of about thirty-four in front of about nine people, because she is the only person in this city who has been over there and come back. She said no in about four seconds.**
 **Her reason, in four seconds, was about a signature and not about the border: a signature is a person saying they stand behind a thing, and she has never spoken to one of the four hundred people and does not know one of their names, and her name is not the one being described. She did not add to it.**

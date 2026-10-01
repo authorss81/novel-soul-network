@@ -8,7 +8,7 @@ That Tuesday's sheet carried thirteen names and thirteen dates against them, the
 
 **Those four rooms off that service road stand at one thousand five hundred and forty-one days, two hundred and twenty weeks and one day, and the card on end in the rail beside that door is one thousand five hundred and forty-five, two hundred and twenty weeks and five days, and the rail takes two.**
 
-**Line seventeen is one thousand three hundred and thirteen days, a hundred and eighty-seven weeks and four days. The nine hand copies of the front of one page are one thousand one hundred and seven, one hundred and fifty-eight weeks and one day, one corner torn, eight unfinished, and not two compared.**
+**Line seventeen is one thousand three hundred and thirteen days, a hundred and eighty-seven weeks and four days. The nine hand copies of the front of one page are one thousand one hundred and seven, a hundred and fifty-eight weeks and one day, one corner torn, eight unfinished, and not two compared.**
 
 ---
 

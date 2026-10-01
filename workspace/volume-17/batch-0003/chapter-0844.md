@@ -95,7 +95,7 @@ He lifted the grate, dug the plug out, rebased the frame onto a fresh bed, and r
 ---
 
 *847.
-Thursday of week 289, at ten. That is the one hundred and fifty-seventh day of this stretch of days. Fourteen names and fourteen dates went onto the sheet for that Thursday, the last of them at about twenty to five. 
+Thursday of week 289, at ten. That is the one hundred and forty-ninth day of this stretch of days. Fourteen names and fourteen dates went onto the sheet for that Thursday, the last of them at about twenty to five. 
 About four hours of that Thursday were a counter in a second district with about fourteen callers on it. A woman of about twenty-nine came in at about half past four and asked one question in about nine seconds.
 **She asked how a person who has not agreed to be asked gets written down. Nobody answered her. The not-answering had a shape, and the shape was a form with a field on it, and the field wants a name, and there is no second box on the form for a person who was not asked.**
 The reason the field is not a question about a missing box is that the form was made for a case where somebody had been asked and had said yes. **This counter does the other case about nine times a week, and in the other case a person is written on a line in a book with a date against it, and nobody asks whether they agreed, and they have never been asked, and about nine thousand people in this city are on lines in books in that state.**

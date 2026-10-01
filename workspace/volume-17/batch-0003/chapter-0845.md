@@ -101,7 +101,7 @@ He unpacked the bay, shimmed the upright properly with steel at four points, and
 ---
 
 *848.
-Friday of week 289, at ten. That is the one hundred and fifty-eighth day of this stretch of days. Sixteen names and sixteen dates were entered on that Friday's sheet, the sixteenth date at about twenty to five. 
+Friday of week 289, at ten. That is the one hundred and fiftieth day of this stretch of days. Sixteen names and sixteen dates were entered on that Friday's sheet, the sixteenth date at about twenty to five. 
 About four hours of that Friday were a counter with about sixteen callers on it.
 **A man of about sixty-one came in at about eleven with a form of this body's own in a plastic sleeve and asked in about nine seconds whether his name was on it. It is not on it. His section is on it in his own hand with a date in his own hand, and there is no name on the page.**
 **The form has a line near the top of a section with four words printed on it, and those four words have been on that form type since before the spring. Under the line there is a space about two inches deep and nothing goes in it.**

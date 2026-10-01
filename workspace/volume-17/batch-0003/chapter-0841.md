@@ -91,7 +91,7 @@ He stripped the paint back with a strip, freed the linkage, and set the vane so 
 ---
 
 *844.
-Monday of week 289, at ten. That is the one hundred and fifty-fourth day of this stretch of days. Eleven names went onto that Monday's sheet and eleven dates with them, the eleventh taken at about twenty to five. 
+Monday of week 289, at ten. That is the one hundred and forty-sixth day of this stretch of days. Eleven names went onto that Monday's sheet and eleven dates with them, the eleventh taken at about twenty to five. 
 The first of those four rooms off that service road stood open from half past six and about nine people came up into it and about four of them had come about the name. The other five came for something else and stayed for that.
 **A name that was copied off a wall map about two generations old in a room in a second district on the Friday before has been in use in this city for a week and has not been used by anybody on the other side of a border in about nine years. Nobody in this city can settle whether it is the name of anything, because nobody in this city has stood in the place it names.**
 A man of about thirty-four who owns four vehicles said the man at a bus stop has never heard it and has been on that road for about nine years, and that the man at the bus stop asked him whether anybody in this city has ever asked anybody over there what they call it.

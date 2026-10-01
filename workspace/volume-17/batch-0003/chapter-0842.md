@@ -101,7 +101,7 @@ He filled the two slots, fitted a third screw into a fresh hole into the frame b
 ---
 
 *845.
-Tuesday of week 289, at ten. That is the one hundred and fifty-fifth day of this stretch of days. Nine names were written into that Tuesday's book with a date set against each of them, the ninth of the dates at about twenty to five. 
+Tuesday of week 289, at ten. That is the one hundred and forty-seventh day of this stretch of days. Nine names were written into that Tuesday's book with a date set against each of them, the ninth of the dates at about twenty to five. 
 **Three places were looked at in one day. A wages book in a fourth district kept by a man of about sixty. A day book at a works gate in a second district with four words written in a margin in about nine seconds by a man of about thirty-four who was asked how long the thing took. And a laundry book in a first district kept by a woman who was counting what came in on a Thursday and who has kept a book every year since and has been asked by nobody about the one from about nine years ago.**
 All three are about nine years old. None of the three people who wrote in them knows what they wrote. **No page of this movement prints the four words.**
 A man of about fifty-two who keeps a register at a counter read the margin standing up, read the wages book on a canteen table, and carried the laundry book to the end of the counter and opened it there and read about nine lines and put it back.

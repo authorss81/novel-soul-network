@@ -89,7 +89,7 @@ He cleaned the staple, packed the eye properly, and put the gate back on its jam
 ---
 
 *850.
-Tuesday of week 290, at ten. That is the one hundred and sixty-second day of this stretch of days. Thirteen names were entered on that Tuesday's book with a date against each, the thirteenth at about twenty to five. 
+Tuesday of week 290, at ten. That is the one hundred and fifty-second day of this stretch of days. Thirteen names were entered on that Tuesday's book with a date against each, the thirteenth at about twenty to five. 
 A corridor and a stair in a second district. Two people who have a key to a room of their own each stood on it about four feet apart for about nine minutes.
 **She asked one question in about nine seconds: what happens to a person who cannot sign anything about themselves. He answered in about nine seconds, and the answer was true and was about the question and not about either of them.**
 What he said was that such a person cannot be put on a form with a name in the box, that this is not a protection anybody gave them, that about four thousand of those forms went out in the spring, and that a person who cannot sign is the exact shape of the hole the four words make.

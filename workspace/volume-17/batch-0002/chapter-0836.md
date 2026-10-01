@@ -8,7 +8,7 @@ Nine names and nine dates went onto that Monday's sheet, the last of the nine at
 
 **Those four rooms stand at one thousand five hundred and forty days, two hundred and twenty weeks to the day, and the card on end in the rail beside that door is one thousand five hundred and forty-four, two hundred and twenty weeks and four days, and the rail takes two.**
 
-**Line sixteen is one thousand three hundred and thirty days, a hundred and ninety weeks to the day. The nine hand copies of the front of one page are one thousand one hundred and six, one hundred and fifty-eight weeks to the day, one corner torn, eight unfinished, and not two compared.**
+**Line sixteen is one thousand three hundred and thirty days, a hundred and ninety weeks to the day. The nine hand copies of the front of one page are one thousand one hundred and six, a hundred and fifty-eight weeks to the day, one corner torn, eight unfinished, and not two compared.**
 
 ---
 

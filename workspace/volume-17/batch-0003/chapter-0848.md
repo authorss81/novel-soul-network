@@ -99,7 +99,7 @@ He took the outlets out, cut new ones through the coping, and rebedded the hoppe
 ---
 
 *851.
-Wednesday of week 290, at ten. That is the one hundred and sixty-third day of this stretch of days. Nine names and nine dates were written up on that Wednesday's sheet, the ninth of the dates at about twenty to five. 
+Wednesday of week 290, at ten. That is the one hundred and fifty-third day of this stretch of days. Nine names and nine dates were written up on that Wednesday's sheet, the ninth of the dates at about twenty to five. 
 A building in a second district that receives the returns held about nine people in a corridor and four documents on a shelf at the back, and nobody could say who was supposed to hold them.
 **A man of about forty-four who is a landlord of that building and of nothing else said, in about nine seconds, that a landlord holds paper and not people, that a document describing four hundred people can be held on file by a landlord, and that he has four such things on a shelf at the back and has had them for about nine days.**
 **He then said in about nine seconds that this is the correct arrangement, and that a piece of paper about four hundred people cannot be asked anything, and that as long as the paper is with a landlord nobody has to be told anything, and that this city has been doing this correctly for about nine years and that nobody decided it.**
@@ -123,7 +123,7 @@ Nine crates held, and the floor they are held over: one thousand one hundred and
 The man of about fifty-one and the north wall: one thousand one hundred and sixty-two days, one hundred and sixty-six weeks to the day
 What is still owed, and nobody has asked: one thousand two hundred and forty-six days, one hundred and seventy-eight weeks to the day
 The post at the end of that passage: one thousand one hundred and four days, one hundred and fifty-seven weeks and five days
-Nine hand copies of the front of one page, a corner torn, eight unfinished, and not two of them compared: one thousand one hundred and twenty-two days, one hundred and sixty weeks and two days
+The front of one page written out in nine hands, one corner torn off, eight of them left unfinished, and no two of the nine set beside each other: one thousand one hundred and twenty-two days, one hundred and sixty weeks and two days
 The separation, set out in a one-line box about sixteen months old: nine hundred and thirty-six days, one hundred and thirty-three weeks and five days
 That flat: four names on the tenancy, the heat not turned down since the autumn, a back-box fitted across a cut lintel, a fresh arm on the same body and plate, a pocket dug out to size and the spring bedded on its own grease, and new outlets through a coping.
 Not asked and not given: nobody in that corridor asked the man of about forty-four whether he minded holding four documents about four hundred people he has never met, and he went back to his rent, and about two people there would have liked to ask him and did not.

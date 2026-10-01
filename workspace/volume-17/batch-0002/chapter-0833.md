@@ -6,7 +6,7 @@
 
 Nine names went onto that Wednesday's sheet and nine dates went with them, the last of the nine taken at about twenty to five. The shutter came down at about ten.
 
-**Line eighteen is one thousand two hundred and fifty-three days, a hundred and seventy-nine weeks to the day. The man of about fifty-one against that north wall is one thousand one hundred and forty-one days, a hundred and sixty-three weeks to the day. What is still owed is one thousand two hundred and twenty-five, one hundred and seventy-five weeks to the day.**
+**Line eighteen is one thousand two hundred and fifty-three days, a hundred and seventy-nine weeks to the day. The man of about fifty-one against that north wall is one thousand one hundred and forty-one days, a hundred and sixty-three weeks to the day. What is still owed is one thousand two hundred and twenty-five, a hundred and seventy-five weeks to the day.**
 
 ---
 

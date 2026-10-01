@@ -91,7 +91,7 @@ He took the case out, filled the old opening, fitted a new case with the spindle
 ---
 
 *853.
-Friday of week 290, at ten. That is the one hundred and sixty-fifth day of this stretch of days. Nine names were written onto that Friday's sheet and nine dates with them, the last date at about twenty to five. 
+Friday of week 290, at ten. That is the one hundred and fifty-fifth day of this stretch of days. Nine names were written onto that Friday's sheet and nine dates with them, the last date at about twenty to five. 
 A room off that service road held about nine people and they sat down, which none of them had done in about nine days.
 **Three places in this city describe what four hundred people do over a border every day: a wages book with a column in it, a margin in a gate day book, and a laundry book kept to count a Thursday. Not one of the three can be read by anybody who does it. Every word in all three is in this city's language and none of the three is in the language of a person who does the thing, and not one of the four hundred has ever seen any of them.**
 **A man of about thirty-four said in about nine seconds that this city has three descriptions of a thing done by four hundred people a day and that the four hundred have none and that the three have been there for about nine years.**

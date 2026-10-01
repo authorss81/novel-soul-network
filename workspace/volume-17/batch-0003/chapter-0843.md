@@ -103,7 +103,7 @@ He took the rail off, filled the old holes, drilled each bracket into two course
 ---
 
 *846.
-Wednesday of week 289, at ten. That is the one hundred and fifty-sixth day of this stretch of days. Nine names and nine dates went onto that Wednesday's sheet, the ninth of the dates taken at about twenty to five. 
+Wednesday of week 289, at ten. That is the one hundred and forty-eighth day of this stretch of days. Nine names and nine dates went onto that Wednesday's sheet, the ninth of the dates taken at about twenty to five. 
 That first floor above a line in Saltmarket stood open from half past six. About nine people came up the stair and about four of them came about a word.
 **No number was said in that room. A number is said at a sitting, a sitting is a Wednesday of every fourth week, and this was not one. No count is announced anywhere in this movement.**
 **The place behind the chair of the woman of about sixty stood empty and no figure is given for it on this page. The ninth chair did not move and its mover is named nowhere in this stretch of days.**

@@ -6,7 +6,7 @@
 
 Nine names went onto that Wednesday's sheet and nine dates with them, the ninth at about twenty to five. The shutter came down at about ten.
 
-**Line eighteen is one thousand two hundred and sixty days, a hundred and eighty weeks to the day. The man of about fifty-one against the north wall is one thousand one hundred and forty-eight days, a hundred and sixty-four weeks to the day. What is still owed is one thousand two hundred and thirty-two, one hundred and seventy-six weeks to the day.**
+**Line eighteen is one thousand two hundred and sixty days, a hundred and eighty weeks to the day. The man of about fifty-one against the north wall is one thousand one hundred and forty-eight days, a hundred and sixty-four weeks to the day. What is still owed is one thousand two hundred and thirty-two, a hundred and seventy-six weeks to the day.**
 
 **Behind the chair of the woman of about sixty a place has stood empty since a week in the spring, and it is empty on that Wednesday, and this page does not set a figure against it.**
 

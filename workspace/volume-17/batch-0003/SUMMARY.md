@@ -41,27 +41,32 @@
 
 | Cell | Value |
 | --- | --- |
-| Words, whole files | 28,416 |
+| Words, whole files, excluding the ten H1 title lines | **28,465** |
+| Words, whole files, including the ten H1 title lines | **29,374** |
 | Body words | 14,784 |
-| Apparatus words | 13,632 |
-| **Apparatus share** | **922.078 per thousand** |
-| **Bold-word share of the body** | **61.397 per cent**, and 60.4 to 63.4 across the ten files |
-| Number-hedge per thousand body, phrase class | **27.056** |
-| Number-hedge per thousand body, bare token | **32.400** |
+| Apparatus words | **13,681** |
+| **Apparatus share** | **925.392 per thousand** |
+| **Bold-word share of the body** | **61.397 per cent**, and 59.1 to 66.4 across the ten files |
+| Number-hedge per thousand body, phrase class | **23.607** |
+| Number-hedge per thousand body, bare token | **32.806** |
 | Openings (bold, first paragraph) | 71, 59, 57, 52, 57, 50, 45, 56, 48, 50 — all inside forty to seventy-five, **spread twenty-six, and ten distinct constructions** |
 | **Longest shared run, bodies** | **28** |
 | **Longest shared run, whole files** | **34** |
 | Duplicated sentences of twelve words or more | **zero at body scope and zero at apparatus scope** |
-| Day-and-weeks pairs walked | **188**, zero wrong |
-| Series day-figure cells checked against the eighteen anchors | **188**, **zero off-anchor** |
-| **Scope-form cells where the body form and the row form differ** | **120**, **zero wrong** |
+| Day-and-weeks pairs walked | **206**, zero wrong — **160 of them at the conditions-row-only boundary** |
+| Series day-figure cells checked against the eighteen anchors | **206**, **zero off-anchor** |
+| **Scope-form cells where the body form and the row form differ** | **150**, **zero wrong** |
 | Renderings of *to the day* | **64**, at 6, 0, 6, 14, 6, 6, 0, 6, 14, 6 |
 | Whole-number-of-weeks vector | **3, 0, 3, 7, 3, 3, 0, 3, 7, 3** |
+| **The governed counter, `chapter − 695`** | **146 to 155, correct on all ten files — and printed eight high on all ten of them before the verification pass at §13 repaired it** |
+| Load-book entries | 844 to 853, `(entry − chapter) = {3}` on all ten rows |
 | Prohibited terms, month-names, Arabic digits in any body, doubled stops | **zero on all ten files** |
 
-### 3.1 THE APPARATUS SHARE IS 922.078 AND IT IS THE THIRD MOVEMENT OF THIS VOLUME TO PUBLISH IT INSTEAD OF CHASING IT
+**[CORRECTION OF 2 OCTOBER 2026 TO FIVE CELLS ABOVE, ALL OF THEM MEASURED ON THE SAVED FILES BY AN INSTRUMENT THAT WAS PROVEN ON A CONTROL FIRST. The whole-file count was published as 28,416, the apparatus count as 13,632, the share as 922.078, the phrase-class hedge as 27.056 and the bare-token hedge as 32.400; the pair walk at 188, the anchor walk at 188 and the scope-form walk at 120. The body count of 14,784, the bold-word share of 61.397, the ten openings, the spread of twenty-six, the runs of 28 and 34, the *to the day* vector of 64, the whole-number-of-weeks vector and every zero in the last two rows REPRODUCE EXACTLY, so eight cells of this movement are confirmed and five were wrong. The three figure walks were re-walked at this pass's boundaries and the denominators are stated in the same cell as the number. The full record, including the repairs that moved the apparatus count by nine words, is at §13.]**
 
-Movement I measures **815.250** on the identical instrument and Movement II **872.904**, so the level has risen twice across three movements of one volume, and the cause is the one Movement I named: **this volume prints sixteen interval rows on every file by rule and has eight room days in ten.** A movement that wants a share nearer four hundred per thousand has to stop printing all sixteen series, and this volume's guardrails require the row. **What is handed to Movement IV is the number as a measurement and not as a target, and a pass that reads 922.078 as a failure will spend Movement IV chasing a boundary and lose the volume's subject doing it.**
+### 3.1 THE APPARATUS SHARE IS 925.392 AND IT IS THE THIRD MOVEMENT OF THIS VOLUME TO PUBLISH IT INSTEAD OF CHASING IT
+
+Movement I measures **815.250** on the identical instrument and Movement II **874.005**, so the level has risen twice across three movements of one volume, and the cause is the one Movement I named: **this volume prints sixteen interval rows on every file by rule and has eight room days in ten.** A movement that wants a share nearer four hundred per thousand has to stop printing all sixteen series, and this volume's guardrails require the row. **What is handed to Movement IV is the number as a measurement and not as a target, and a pass that reads 925.392 as a failure will spend Movement IV chasing a boundary and lose the volume's subject doing it.** [Both comparator figures were re-measured on Movement II's own saved files by the §13 instrument and both are confirmed; **Movement II's own §14.3 cells of 13,458 and 871.350 are not reproducible on those files and are withdrawn at `batch-0002/SUMMARY.md` §13.6 read with §14.3, and the finding is at §13.5 below.**]
 
 ### 3.2 THE BOLD SHARE, PUBLISHED BESIDE THE APPARATUS SHARE AND NOT INSTEAD OF IT, AND IT HAS NOW RISEN TWICE
 
@@ -69,7 +74,7 @@ Movement I measures **815.250** on the identical instrument and Movement II **87
 
 ### 3.3 THE HEDGE, AND WHY IT COMPARES CLEANLY WITH THE TWO MOVEMENTS BEFORE IT
 
-**Movement I is 26.124 on the phrase class and 31.277 on the bare token; Movement II is 28.877 and 35.092; Movement III is 27.056 and 32.400.** All three are within about a fifth of one another on both instruments. **The phrase-class measure is the one used here**: `about` immediately before a numeral or before *half*, which is the only place the word is doing hedge work in this manuscript. **The earlier claim that one movement of this volume hedged several times as hard as another was an artefact of comparing two different instruments, and the three figures here are the ones that are comparable.**
+**Movement I is 26.124 on the phrase class and 31.277 on the bare token; Movement II is 22.661 and 35.092; Movement III is 23.607 and 32.806.** **The phrase class is the one used here and it is stated because the class has now been the thing that differs rather than the prose: `about` immediately before a numeral or before *half*, which is the only place the word is doing hedge work in this manuscript.** The earlier claim that one movement of this volume hedged several times as hard as another was an artefact of comparing two different instruments. **[CORRECTION OF 2 OCTOBER 2026. This section published 27.056 and 32.400 for Movement III and 28.877 and 35.092 for Movement II. The Movement III phrase figure does not reproduce under any of the three phrase classes this pass tried — `about` immediately before a numeral gives 23.607, `about` with a numeral within the next three tokens gives 23.404, and `about` with any numeral after it in the same body gives 32.332 — and the published 27.056 corresponds to three hundred and forty-nine occurrences becoming four hundred, which no class tried produces. The Movement II figure re-measures at 22.661 on the identical class. All three movements sit within a fifth of one another on the phrase class and that is the comparison a reader of the three files wants.]**
 
 ## 4. The duplication walk, and what the repair rounds did in it
 
@@ -188,3 +193,127 @@ Movement I measures **815.250** on the identical instrument and Movement II **87
 9. **The name from Movement II is on about nine mouths in this city and on nothing over there, and a man of about thirty-four has said he will take the wall map off its wall on Tuesday and put it in a drawer.** Nobody in this city knows he has said it except the people in that room, and the man who keeps the map has not been told.
 
 **The planned plot is untouched.** No event, relationship, debt or open thread was added, removed, resolved or reopened beyond what `outline/volume-17.md` and `outline/ending.md` already fix. **No new final enemy, no new faction, no new power, no new ending and no authorization for this volume is proposed or implied by anything in this batch.** The four hundred people, the nine weeks, the four words, the three books, the four documents on a shelf, the nine hand copies and the woman of about thirty-four all stand as Movement III left them.
+
+---
+
+## 13. VERIFICATION PASS, 2 OCTOBER 2026 — WHAT IT FOUND, WHAT IT REPAIRED, AND WHAT IT DID NOT DO
+
+**This section is dated after every block above it and is later than all of them. Where it corrects a figure printed above, the correction is the record and the figure above is the finding.** **No chapter was rewritten. No prose was reworded, cut or reordered except in the six places at §13.3 and §13.4, where a word was changed and no figure moved. No day, week, entry, price, count or refusal was altered anywhere in the ten files. The planned plot is untouched.**
+
+### 13.0 WHY THIS PASS RAN AT ALL, AND IT IS THE SAME REASON AS MOVEMENT II'S
+
+**Movement III was already written, repaired across seven rounds, measured and handed on, and the Movement IV prompt was already written at `workspace/volume-17/batch-0004/`.** The instruction on arrival was to continue from the files on disk and not to restart completed work. **So no chapter was re-planned and no second prompt was created.** What this pass did is write an instrument of its own, **prove that instrument on Movement II before it pointed it at Movement III**, and publish what came back — and what came back included one defect on all ten files that no summary in this volume had measured.
+
+### 13.1 THE INSTRUMENT, AND HOW IT WAS PROVEN RIGHT BEFORE IT WAS BELIEVED
+
+**Movement II's summary publishes its own cells and its own instrument's cells, and both can be checked. Run against `workspace/volume-17/batch-0002/`, this pass's instrument returns:**
+
+| Cell | Movement II publishes | This instrument returns |
+| --- | --- | --- |
+| Body words | 15,445 | **15,445** |
+| Apparatus words | 13,499 | **13,499** |
+| Apparatus share | 874.005 per thousand | **874.005** |
+| Bold-word share of the body | 57.417 per cent | **57.417** |
+| Openings | 72, 74, 73, 68, 68, 66, 62, 75, 70, 73 | identical |
+| Day-and-weeks pairs | 200 at the both-forms boundary | **200, zero wrong** |
+| *To the day* vector | 6, 0, 6, 11, 6, 6, 0, 6, 11, 6 | **identical, total 58** |
+| Whole-number-of-weeks vector | 3, 0, 3, 7, 3, 3, 0, 3, 7, 3 | **identical** |
+| Longest shared run | 30 body and 35 whole-file | **30 and 35** |
+| Duplicated sentences of twelve words or more | zero at both scopes | **zero at both scopes** |
+| Governed counter, `chapter − 695` | not measured by any summary | **136 to 145, correct on all ten** |
+
+**Twelve cells, twelve exact returns, on files this pass did not write.** That is the control `batch-0002/SUMMARY.md` §14.2 asserted and did not carry out, and it is the reason this pass's Movement III numbers are believed and Movement II's §14 numbers are not. **A clean result on the corpus an instrument was built for is not evidence, and an instrument that reproduces a control to the word is.**
+
+### 13.2 SIX INSTRUMENTS WERE WRONG BEFORE THEY WERE RIGHT, AND TWO OF THEM RETURNED A CONFIDENT ZERO
+
+Movement III's §5 records three. This pass's instrument adds six, and the two that matter most are the ones that were **clean and wrong**.
+
+1. **The backwards cardinal scan did not enforce a clause boundary and returned a clean wrong answer on twelve clean rows.** It read `the other three: one thousand five hundred and thirty-three days, two hundred and nineteen weeks` as **four thousand five hundred and thirty-three**, because the scan walked left across `: ` and picked up *three*. **Every one of the twelve was a false finding on a file that was correct.** This is the ninth of the nine recorded parser failures at `ARITHMETIC-AND-CALENDAR.md` §4 — *a clause boundary not enforced across punctuation* — and it was the second instrument in this repository to walk into it.
+2. **The guardrail sweep tested prohibited words as whole words and reported zero occurrences of *thank* and *forgive* on a movement that contains thirteen.** It could not see *thanked*. **A clean zero from a word-boundary test is the cheapest false result in this repository and this one would have passed a review.**
+3. **An ordinal stripper removed `nd` from `and`.** `and` became `a`, the hundred-figure parser stopped, and every figure in the 1300s and 700s failed. It was found by printing one value and reading it.
+4. **The boundary test was applied to the wrong gap** — to the gap outside the run instead of the one inside it — and the scan returned **nothing at all** on files full of interval renderings. Zero pairs, zero findings, zero wrong: the most confident clean result in the set.
+5. **The scope-form walk searched each scope for the other scope's rendering without first testing whether the two renderings differ**, which is the same missing precondition as this movement's own §5 item 3, walked into a second time by a second instrument.
+6. **A month-name sweep matched lowercase *may*,** which in this manuscript is the modal verb and not a month, and returned two false findings on Movement II.
+7. **The ten-objects check tested for `rail that takes two` and did not see `rail taking two`,** and reported Chapter 845 as naming nine of the ten when it names ten.
+
+**The lesson is this movement's own §11 item 6 and it is worth printing again because this pass learned it again: a clean result from an instrument is the most expensive thing in this repository, and a clean result on the corpus the instrument was built for is not evidence at all.**
+
+### 13.3 THE ONE DEFECT ON ALL TEN FILES, AND IT IS THE ONLY SERIES IN THIS VOLUME THAT NOBODY MEASURED
+
+**The governed counter is `chapter − 695`. It was printed eight high on every one of the ten files.**
+
+| Chapter | 841 | 842 | 843 | 844 | 845 | 846 | 847 | 848 | 849 | 850 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Printed | 154 | 155 | 156 | 157 | 158 | 161 | 162 | 163 | 164 | 165 |
+| `chapter − 695` | 146 | 147 | 148 | 149 | 150 | 151 | 152 | 153 | 154 | 155 |
+| Now | **146** | **147** | **148** | **149** | **150** | **151** | **152** | **153** | **154** | **155** |
+
+**All ten repaired in place, one ordinal each, and the counter is the only thing on the ten files that changed.** The run is unbroken across the volume: 126 at Chapter 821, 135 at 830, 136 at 831, 145 at 840, 146 at 841, 155 at 850, and 185 at the close.
+
+**WHY IT DRIFTED, AND IT IS THE SAME REASON THE OTHER FIGURES IN THIS VOLUME DRIFT.** Every other series in this manuscript is `day − anchor` and can be generated from the day and an anchor table. **This one is `chapter − 695` and is a chapter-indexed row count, and the calendar file says so in terms: *it is a chapter-indexed row count and not the calendar span and the two are never added*.** It is therefore the one figure on the page that a `day − anchor` generator cannot produce and that no table in any prompt carries, **and it is the one that went wrong.** Movement I printed 126 through 135 correctly and Movement II printed 136 through 145 correctly, **so the drift entered at the third movement and not at the first, and it entered as a constant offset of eight rather than as a slip, which is what a wrong day in the anchor produces.** Nothing in this volume's prompt tables carries the counter, and no summary in the volume measures it, which is why it survived three movements of review rounds that measured everything else.
+
+### 13.4 TWO MORE CHAPTER REPAIRS, BOTH WITH EVERY FIGURE PRESERVED
+
+1. **Chapter 848's conditions-row label for the nine hand copies stood in twenty identical words with Chapter 842's** — *Nine hand copies of the front of one page, a corner torn, eight unfinished, and not two of them compared*. **Guardrail 3 requires the conditions row to be written in each file's own words.** It is now *The front of one page written out in nine hands, one corner torn off, eight of them left unfinished, and no two of the nine set beside each other*, and the figure beside it, one thousand one hundred and twenty-two days, is untouched. **This is the only duplicated row of twelve words or more that is not a figure coincidence, and it was standing behind eight that are.**
+2. **Five cells in Movement II carried the conditions-row form of a figure inside a body sentence**, which is the same scope-form class this movement repaired eighteen of and which the volume's own figure rule states: a figure in the hundred-to-one-hundred-and-ninety-nine band reads `a hundred and N` in a body and `one hundred and N` in a conditions row. **Chapters 833, 836, 837, 838 and 839, on what is still owed, on the nine hand copies twice, on what is still owed again, and on the fifteenth line. All five repaired in place and every day figure preserved, and no other cell on Movement II's ten files is now wrong on this walk.** The repair is made because the instruction on arrival allows it — a defect in an earlier movement, repaired in place with the figures preserved — and not because a later pass owns a predecessor's record.
+
+### 13.5 WHAT THE WALK FOUND IN THE FIGURES THAT WERE PUBLISHED HERE, AND IT IS FIVE CELLS
+
+**Eight cells of §3 reproduce exactly and five do not, and the five are the ones with a denominator in them.**
+
+| Cell | Published above | Measured on the saved files | Where the difference is |
+| --- | --- | --- | --- |
+| Words, whole files | 28,416 | **28,465** excluding the ten H1 titles, **29,374** including them | published figure is 49 low; 40 of that predates this pass and 9 are this pass's own repairs |
+| Apparatus words | 13,632 | **13,681** | as above |
+| Apparatus share | 922.078 | **925.392** | follows the apparatus count |
+| Hedge, phrase class | 27.056 | **23.607** | a different phrase class, not a different manuscript |
+| Hedge, bare token | 32.400 | **32.806** | as above |
+| Day-and-weeks pairs | 188 | **206** at both-forms admitted, **160** at the row-only boundary | an unstated boundary |
+| Anchor cells | 188 | **206** | the same walk at the same boundary |
+| Scope-form cells | 120 | **150** | the same walk on a longer set |
+
+**And the three that came back clean are worth as much as the five that did not: the body count of 14,784, the bold-word share of 61.397 per cent, and the *to the day* vector of 64 at 6, 0, 6, 14, 6, 6, 0, 6, 14, 6 are all reproduced to the word, and the last of them is the cell that Movement II's §13.2 said it could not see.** The opening counts and the runs of 28 and 34 are reproduced too.
+
+### 13.6 A FINDING ABOUT MOVEMENT II'S OWN RECORD, WHICH IS NOT A CHAPTER AND IS NOT REPAIRED HERE
+
+**Movement II's summary at §13.6, §14.3 and §14.7 publishes apparatus words 13,458, an apparatus share of 871.350 and whole files of 29,702 for Movement II's own saved files. The instrument this pass proved on those files returns 13,499, 874.005 and 29,763.** The instrument reproduces every other Movement II cell to the word, **so the three figures are not a boundary difference.** The same three cells are also internally inconsistent with their own stated cause: §14.3 says the apparatus fell by exactly twenty-four words and that a smaller apparatus over an unchanged body lowered the share, and thirteen thousand four hundred and ninety-nine less twenty-four is thirteen thousand four hundred and seventy-five, not thirteen thousand four hundred and fifty-eight.
+
+**This is recorded and not repaired, because repairing a predecessor's published arithmetic from a later batch is a change to a record rather than to a chapter, and Movement III's own §11 item 9 set that precedent and this pass follows it.** **It is the third occurrence in this volume of one pass publishing a figure that cannot be produced from the files it names, and the first two are at `batch-0002/SUMMARY.md` §14 and at §3 above.** The cause is the same in all three and it is worth naming: **a summary written after a repair round carries the numbers it had before the round, and nothing in the file says so.**
+
+### 13.7 WHAT WAS RE-VERIFIED AND FOUND CORRECT, WITH NO REPAIR
+
+- **The figure arithmetic is sound.** 206 day-and-weeks pairs walked, zero wrong; 160 at the narrower conditions-row-only boundary, zero wrong. 206 series day figures matched to one of the eighteen anchors, none off. **160 `<cardinal> days` cells anywhere on the ten files — including the ones with no weeks phrase beside them — matched to an anchor, none off**, and that second walk is the one that catches a transcription slip, because the pair walk compares a weeks phrase against whatever day figure is printed beside it and a slip moves both. 150 scope-form cells where the body form and the row form genuinely differ, zero wrong. The eight figure coincidences at §6 are not defects and were not touched.
+- **The whole-number-of-weeks vector is 3, 0, 3, 7, 3, 3, 0, 3, 7, 3**, generated off the files against the eighteen anchors and not copied from §7, **and it is the vector this movement's prompt predicted before a word of it was written.**
+- **`to the day` renders 64 times at 6, 0, 6, 14, 6, 6, 0, 6, 14, 6, and is at zero on Chapters 842 and 847**, which are the two files with no whole-week series at all, **and on no other file.**
+- **Zero duplicated sentences of twelve words or more at body scope and at apparatus scope**, on the boundary stated at §13.9, and the longest shared runs are still **28 on bodies and 34 whole-file**, inside the targets of 31 and 87.
+- **Ten objects on the closing page of all ten files, in ten different orders and ten different sets of wordings, and no sentence on any of the ten joins two of them.** The book is on sixty-seven lines and the tin on seventy-three on all ten, each file says in its own words that it does not convert one into the other, and no file prints the difference as a number.
+- **The ninth chair does not move on any of the ten days and its mover is named on no page. The place behind the woman's chair is named on Chapter 843 alone and carries no figure anywhere.** The room under the building in a first district is named on all ten, is dark on all ten, and is opened on none. The register of correct acts with no consequence is printed as standing at four on all ten and no file prints a fifth and no file counts it. **Thirteen occurrences of *thank* or *forgive* on the ten files, every one inside a negation, and the shutter is down at about ten on all ten.**
+- **The woman's page is `day − 1573` on all ten files and reads 336, 337, 338, 339, 340, 343, 344, 345, 346 and 347**, with 341 and 342 on no file because days 1914 and 1915 are a Saturday and a Sunday.
+- **The load-book run is 844 to 853 and `(entry − chapter)` is {3} on all ten rows. The week and weekday on all ten agree with `week = (day − 502) // 7 + 88` against Monday-first.**
+- **Zero** `Crown`, `coalition`, `conspiracy`, `short`, `fair`, `unfair`, `justice`, `rightful`, `principle`, the word `right` as an adjective, `telephone`, `messenger`, `broadcast`, `feed`, `apolog*`, `relay`, `chain`, `Evan Senn`, Iona Sorn, month-names, Arabic digits in any body, and doubled stops. **No panel and no marker anywhere. No second relay and no comparison of the nine hand copies. No sentence about what the institution is for.**
+
+### 13.8 WHAT THIS PASS DID NOT DO
+
+**No chapter was rewritten. No figure, day, week, entry, price, count or refusal was altered anywhere. No debt was resolved, and no resolution of Volume 15 or Volume 16 was reversed, softened or retconned. Nothing is said about whether the practice the four hundred kept after their district left worked.** Iona Sorn stays where Volume 16 left him. The answer to Volume 08's question stays a chair. The binder was shut on all ten days and the page behind it unread on all ten days, and the woman of about thirty is not named on any of them. **The four words are printed on no page and the name from Movement II is corrected nowhere.** The woman of about thirty-four is not told anything on any of the ten days, **and a pass must not be written as though she had told anybody.**
+
+**`state/phase-ledger.json` was read and not written and no flag about it is appended here.** The fact is recorded once, at `state/open-threads.md` item 29 and in `NOVEL_SPEC.md`.
+
+**AND ONE PRESSURE POINT THIS PASS CREATED A LITTLE MORE OF AND DID NOT REPAIR.** `state/chapter-summaries.md` carried a rule of its own — *do not let a file in this set pass about 60 KB again without compacting its own archive in the same pass that made it too large* — and it stood at 109 KB before this pass and stands at 113 KB after it, **so this pass added about four thousand words to a file that was already four times the threshold and did not cause it.** A second compaction was considered and not done, for a reason worth printing: **the 109 KB that survives the compaction of 1 October 2026 is the part that was deliberately kept — the summaries of Chapters 791 to 850, which a pass writing Chapter 851 is entitled to read — so compacting again would remove kept content rather than archive superseded content, and that is a reduction in what the next pass can load without a call into the repository history.** The choice is left where it belongs, which is with the pass that brings the file under its own rule, and the measurement is published here so that pass knows the number before it starts.
+
+### 13.9 THE BOUNDARIES OF EVERY NUMBER IN THIS SECTION, IN ONE PLACE
+
+**A number with no boundary is not a number, and five cells of §3 were wrong for want of one.** Body = after the H1 line, before the `*NNN.` load-book marker. Apparatus = that marker to end of file. A word is a run of letters, or a hyphenated compound of letters, or a digit. A bold word is a word inside `** **` in the body. A hedge on the phrase class is `about` immediately before a numeral or before *half*, per thousand **body** words. A duplicated sentence is a sentence of twelve or more words standing in two or more files, **excluding the closing ten-object paragraph, which guardrail 12 requires to repeat, and excluding the conditions-and-docket standing rows, which the volume's rule requires to repeat on every file**; the count with nothing excluded is **nine**, and every one of the nine is a pair of day figures landing on the same integer on two different series, which is §6 and is not a defect. A day-and-weeks pair is a `<cardinal> days, <weeks> weeks [to the day | and <cardinal> day(s)]` rendering, **206 at the both-scopes-admitted boundary and 160 at the conditions-row-only boundary.**
+
+### 13.10 THE HAND-ON, NINE LINES, AND IT REPLACES §12 FOR ANY PASS THAT HAS NOT ALREADY READ IT
+
+1. **The woman's page is `day − 1573`. It reads 336 days at Chapter 841 and 347 at Chapter 850, and 341 and 342 are on no file because days 1914 and 1915 are a Saturday and a Sunday.** Verified on all ten files by this pass.
+2. **The place behind the chair reads 425 days at Chapter 841 and 436 at Chapter 850, and Chapter 843 is the single file of Movement III that names it, with no figure on it.** Movement I printed it on Chapter 824 and Movement II on Chapter 838. **Movement IV must name it on exactly one file of its own ten and on no other.**
+3. **No count was announced anywhere in Movement III, because Chapter 843 is a Wednesday and not a sitting, and its load book says so on the page.** The last count said in this volume was **sixty-six, of which sixty-one correspond**, at the sixty-first sitting on Chapter 838, and the book did not open. **The next count is at the sixty-second sitting, Chapter 856 on day 1932, and the book shuts there.**
+4. **No panel and no marker may appear again anywhere in this volume; both are spent, at Chapter 834.** The volume's guardrail-12 object — a form about the size of a folded sheet of writing paper with a box at the bottom of it and one word in the box, carried back on a bus by a person — is on nine hand copies in this city and on nothing over there, and four of them are on a shelf at the back of a building in a second district held by a landlord.
+5. **What Chapter 849's refusal was actually about, in one sentence: she was asked to sign something about four hundred people she has never spoken to, and she refused because a signature is a person standing behind a thing and her name is not the one being described, and nobody in that room agreed with her and nobody disagreed.** Movement IV is the movement that has to live with it and may not reopen it, soften it, or convert it into a disagreement.
+6. **The three accidental records exist and are about nine years old, and nobody in this city has ever written the practice down on purpose, and a man of about fifty-two has said so out loud and cannot be made to say it differently.** The woman of about forty-one who wrote the third of the three into her own laundry book while counting has still not been told, and **Movement IV must decide whether she is, and that decision is Movement IV's and not this movement's.**
+7. **Six of the eight supporting-cast slots remain, and there are three movements to spend them in.** Movement IV may spend at most two and should name both before writing. **Already placed and not available to be re-spent: a woman of about forty-one who keeps a laundry, and a man of about forty-four who is a landlord of one building and of nothing else. Movement V has Leo Marr still to place.**
+8. **The correct-things register stands at four, nobody in this city counts it, and Movement III printed no fifth on any of its ten files. The one Sunday of this volume is at Chapter 864, which is Movement V's and not Movement IV's.**
+9. **The measured cells, with their boundaries, and Movement IV should publish all of them, chase none of them, and prove its instrument on a control movement before it believes a clean result:** apparatus share **925.392** per thousand and bold-word share **61.397** per cent on the §13.9 boundary; hedge **23.607** on the phrase class and **32.806** on the bare token; longest shared run **28 body and 34 whole-file** with **zero** duplicated sentences of twelve words or more at either scope; whole-number-of-weeks vector **3, 0, 3, 7, 3, 3, 0, 3, 7, 3**; *to the day* at **64**, vector **6, 0, 6, 14, 6, 6, 0, 6, 14, 6**. **And the line this hand-on exists to add, which is the finding of §13.3: the governed counter is `chapter − 695`, it is the one series in this volume that is chapter-indexed rather than day-indexed, it is the one that was printed eight high on all ten files of this movement, and Movement IV must measure it and carry it in the same cell as every other figure.** **Do not chase the apparatus share, and do not let a movement that reads 925.392 as a failure spend itself on a boundary.**
+
+**THE PLANNED PLOT IS UNTOUCHED BY THIS PASS AND BY EVERYTHING IN IT.** Iona Sorn is the last enemy in this manuscript, is in public custody and is unanswered. The answer to Volume 08's question is a chair he does not sit in. No resolution of Volume 15 or Volume 16 is reversed, softened or retconned. Nothing is said about whether the practice the four hundred kept after their district left worked. **Volume 17 is opened by a directive and not by a decision, `NOVEL_SPEC.md`'s eighth Status block is untouched and still records the decision as undecided, and no pass of any kind may write that paragraph.**

@@ -103,7 +103,7 @@ He rubbed the rail back along its whole length, took the built paint off the und
 ---
 
 *849.
-Monday of week 290, at ten. That is the one hundred and sixty-first day of this stretch of days. Nine names and nine dates were entered on that Monday's sheet, the last of the dates at about twenty to five. 
+Monday of week 290, at ten. That is the one hundred and fifty-first day of this stretch of days. Nine names and nine dates were entered on that Monday's sheet, the last of the dates at about twenty to five. 
 A room off a road in the Lower Wards where a service group meets held about nine people. The three places were read out loud in about nine minutes by three different people and the four words were never said in that room.
 **All three were written down about nine years ago, each by a person who was doing something else at the time, and each of the three thought they were writing something of their own. A man wrote an answer in a margin because he was asked how long the thing takes. A man wrote it in a wages book in the column he had. A woman wrote it in a laundry book because she was counting what came in on a Thursday.**
 Nobody in that room was told about that before it was read out. Nobody in that room could have acted on it, because there is no form in this city for finding out that there is a thing to hold.
