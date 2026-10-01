@@ -874,3 +874,49 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 ## 8. WHAT THE CLOSE DID NOT TOUCH
 
 **No chapter, no scene, no debt, no thread, no plan of record, no series outline, no ending outline, no controller file.** `state/phase-ledger.json` was read and not written and still reads `phase-000-bootstrap` and `planned` while the manuscript stands finished at Chapter 820. **Whether there is a Volume 17 has not been decided and is not decided here.**
+
+---
+
+# LIVE — CONTINUITY ADDED BY THE MOVEMENT V RE-VERIFICATION, DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE
+
+## 1. THE CONTROL FIGURES, AND WHICH NINE OF THE TWELVE ARE STILL COMPARABLE
+
+**Movement IV's three figures reproduce to the third decimal on a harness written from nothing: 34,916 words, an apparatus share of 33.884 and a hedge of 19.407 per thousand on bodies. Movements I, II and III do not reproduce, and the reason is on disk and is not the instrument: their files changed after their figures were published.**
+
+| Movement | Published | Measured now | Delta | What moved |
+| --- | --- | --- | --- | --- |
+| I | 30,629 | 30,624 | −5 | the cross-volume re-anchor (+ its splice damage, later repaired) |
+| II | 33,544 | 33,546 | +2 | the page figure re-anchored on Chapters 779 and 780, one word each |
+| III | 33,512 | 33,514 | +2 | the page figure re-anchored on Chapters 781 and 789, one word each |
+| IV | 34,916 | 34,916 | 0 | nothing; the files have not moved |
+
+**Movement I's arithmetic in full: 30,604 before the re-anchor, 30,628 after the re-anchor had spliced *days and* into seven cardinals on Chapter 765 and deleted the word *days* on three more, and 30,624 after the review repair restored all ten.** **The Movements II and III deltas are one word each on two files each, in the standing *fourth of those four rooms* row, where the page moved from *two hundred and sixteen* to *two hundred and twenty-one* and from *nineteen* to *twenty-four* and, on Movement III, into the compound *twenty-five*.**
+
+**What this settles and what it does not.** The Volume 16 close withdrew all fifteen of Movement VI's control figures as unreproducible because their tokenisation was never recorded. **That withdrawal stands and is not disturbed.** What is new is that the question *which* instrument is in question now has an answer for the twelve figures this volume's own prompts quote: **Movement IV's three are on the live instrument and Movements I to III's nine are on files that have since moved.** Any future control figure in this repository must publish its tokeniser, its H1 exclusion, its apparatus boundary, both numerators and both denominators, and must be checked by re-deriving its aggregate from its own published column.
+
+## 2. THE PAGE ON CHAPTERS 801 TO 810, AGAINST THE SETTLED ANCHOR
+
+**253, 254, 255, 256, 258, 259, 260, 261, 262, 263. Every one against `day − 1573`. 257 is on no file, because the Saturday of day 1830 carries no chapter, and the series steps by the calendar day and skips it.** Chapter 805 carries the figure twice, in its own two rooms, at the same value both times. `workspace/volume-16/batch-0005/SUMMARY.md` §2A prints 248 to 258 and names `day − 1578`; **that paragraph is the batch's own record of what it printed before the settlement and it is superseded on the figures by the ten on the files.** It is left in place rather than rewritten because a batch summary is the record of what its batch did, and the anchor was settled three batches later.
+
+## 3. THE FOUR REPAIRS, AND WHAT EACH ONE TOUCHED
+
+| Ch | Was | Now | What else changed |
+| --- | --- | --- | --- |
+| 803 | *And the **fourth** fault on that fire escape* | *And the **third** fault on that fire escape* | nothing |
+| 805 | *which of them they would rather be **right** about* | *which of the two they would rather turn out to be **the sound one*** | nothing |
+| 806 | *by a woman who keeps a haulier's books* | *by the woman who takes the money over a scale at that gate* | nothing |
+| 810 | *and that she was **right** about that as well* | *and that she was **correct** about that as well* | nothing |
+
+**The Chapter 806 repair restores a character distinction the volume depends on and that this batch had erased.** The woman who said the four words to the man who locks that gate is the woman of about thirty-eight who takes the money over a scale at the gate: she is established on Chapter 802, she offers on Chapter 802, and she does it on Chapter 804 at about ten past six. The woman who keeps a haulier's books is a different person, and Movement VI names her a woman of about thirty-one and gives her, on Chapter 819, an objection of her own about a working day of hers used as a fact in a room she was not in. **After the repair the two are two people again.**
+
+**No day moved, no scene was cut, no event was resequenced, no figure was altered and no sentence of any load book changed. All four repairs are in bodies; the apparatus is byte-identical at 11,707 words.**
+
+## 4. WHAT DID NOT CHANGE, CHECKED RATHER THAN ASSUMED
+
+- **The day map.** 1826 to 1829 Tuesday to Friday of week 277, **1831 the Sunday**, 1832 to 1836 Monday to Friday of week 278. Span 10 days, ten chapters, day steps 1, 1, 1, **2**, 1, 1, 1, 1, 1, and the gap is the Saturday of day 1830 carrying no chapter. The shutter comes down at about ten on nine days and at about two on Chapter 805.
+- **The exchanges.** None of these ten days is one. Chapters 802 and 808 are the two Wednesdays and neither is a sitting, no count is printed on either, and neither is described as anything at all.
+- **The woman's page.** The binder is shut on all ten days, the page is unread on all ten days, nobody is asked a question about it, nobody apologises to her, and no chapter of this movement made her a category.
+- **The register.** Four on all ten days, fourteen sites, no other figure.
+- **The ninth chair, the place behind the woman of about sixty, the room under the building, the gate binder book, and the plate of iron with four slots.** None moved, none was lit, none was opened, none was carried. The place behind the chair stands at three hundred and forty-three days on Chapter 802 and on no other file of this movement.
+- **Marek Senn, twenty-two.** In a room, four feet from a table, told a thing and silent, on all ten files. He does not carry, keep, sign, open, resign, or is-asked-to-stay anywhere.
+- **The spend ceiling.** Movement V spends no supporting-cast character. The two apparently-new people are returns. Ceiling eight, six spent by Movements I to IV, none by V, one by VI.

@@ -22,7 +22,7 @@ Nine people were in that room. A man of about thirty-four said eleven words into
 
 He said that a man who carries a sentence into a district where he is known becomes the district's man in about four hundred days whether he meant to or not, and that he has been avoiding that since the Tuesday the four words were written.
 
-He said that a man of about thirty-eight said the same thing to him fifteen days ago and got no thanks for it either, and that he had not thought of it, and that he has had about nine of those this year. He said that a woman of about thirty-four told that room on the same day the opposite, that nobody in this room is going to be known for saying four words, and that she was right about that as well.
+He said that a man of about thirty-eight said the same thing to him fifteen days ago and got no thanks for it either, and that he had not thought of it, and that he has had about nine of those this year. He said that a woman of about thirty-four told that room on the same day the opposite, that nobody in this room is going to be known for saying four words, and that she was correct about that as well.
 
 **He said that he had come to that room to say no, and that four people in it had not believed he was going to, and that this was his fault and not theirs.**
 

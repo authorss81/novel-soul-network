@@ -114,7 +114,7 @@ He said that four handrail brackets in that building are in hollow partitions an
 
 ---
 
-**And the fourth fault on that fire escape was not a fault at all, and he spent nine minutes of that Thursday proving that, and two people have since asked him about it.**
+**And the third fault on that fire escape was not a fault at all, and he spent nine minutes of that Thursday proving that, and two people have since asked him about it.**
 
 The middle flight of that fire escape had a handrail that moved about half an inch at the join between two sections, and everybody who used that stair had assumed for four years that it was loose where it met the newel.
 

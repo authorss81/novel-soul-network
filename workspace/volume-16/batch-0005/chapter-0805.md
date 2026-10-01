@@ -42,7 +42,7 @@ A woman of about thirty-four said in nine seconds that a figure of nine is the f
 
 A man of about thirty-eight said that the yard was open, and that a yard at a weekend is the only place in that district where a person who has decided nothing is standing next to nine people who have decided something, and that this is a fact about yards and not about sentences.
 
-**Nobody counted anything. Two people in that district said afterwards that counting it would be the first sensible thing anybody does and two said it would be the end of it, and neither of those two has been acted on and nobody has said which of them they would rather be right about.**
+**Nobody counted anything. Two people in that district said afterwards that counting it would be the first sensible thing anybody does and two said it would be the end of it, and neither of those two has been acted on and nobody has said which of the two they would rather turn out to be the sound one.**
 
 ---
 
