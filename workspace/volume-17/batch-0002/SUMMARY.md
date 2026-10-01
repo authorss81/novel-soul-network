@@ -47,7 +47,7 @@
 | Body words | 15,445 |
 | Apparatus words | 13,482 |
 | **Apparatus share** | **872.904 per thousand** |
-| **Bold-word share of the body** | **55.921 per cent**, and 44.1 to 65.0 across the ten files |
+| **Bold-word share of the body** | **57.417 per cent** — *corrected 3 October 2026. This cell previously published **55.921**, which no boundary on these files produces. See §14.* |
 | Number-hedge per thousand body, phrase class | 28.877 |
 | Number-hedge per thousand body, bare token | 35.092 |
 | Openings (bold, first paragraph) | 72, 74, 73, 68, 68, 66, 62, 75, 70, 73 — all inside forty to seventy-five, **spread thirteen** |
@@ -73,7 +73,7 @@
 
 ### 3.2 THE BOLD SHARE, AND WHY IT IS PUBLISHED BESIDE THE APPARATUS SHARE AND NOT INSTEAD OF IT
 
-**The apparatus share is blind to the largest thing on the page.** The apparatus share rose from Movement I's 815 to 873 on the same instrument while the **bold-word share of the body also rose, from 55.298 to 55.921.** A movement can print a higher share of apparatus and a higher share of bold in the same ten files, because the two cells measure different pages, and the point of printing them side by side is that a movement that watched only the apparatus cell would not know that the type a reader sees got heavier while the register got heavier too. **The number that is not printed by the apparatus share is the number of words a reader sees as type.**
+**The apparatus share is blind to the largest thing on the page.** The apparatus share rose from Movement I's 815 to 873 on the same instrument. **On the bold cell the same instrument says the opposite, and the sentence this section originally made — that the bold-word share rose too, from 55.298 to 55.921 — was wrong in both of its figures and is withdrawn; the verified pair is Movement I at 60.213 and this movement at 57.417, so the bold share fell while the apparatus share rose.** See §14. **What survives of the argument is the reason the two cells are printed side by side, and the reason is not the direction they move: they measure different pages, so one of them can rise while the other falls on the same ten files, and a movement that watched only the apparatus cell would not know that the type a reader sees got lighter while the register got heavier.** **The number that is not printed by the apparatus share is the number of words a reader sees as type.**
 
 ### 3.3 THE HEDGE, AND WHY IT COMPARES CLEANLY WITH MOVEMENT I
 
@@ -194,7 +194,7 @@
 ## 11. The findings this movement publishes rather than repairs
 
 1. **The apparatus share is 872.904 per thousand, against Movement I's 815.250 on the identical instrument and boundary and against Volume 16 Movement VI's published 326.278 and 344.899.** The cause is that this volume prints sixteen interval rows on every file by rule and has eight room days in ten. **And the more serious half of the finding is that Movement I's published share does not follow from its own published body and apparatus counts** — 13,776 against 17,302 is 796.209, and 443.272 would need an apparatus of 7,669 words. **That discrepancy is Movement I's and is not repaired here, because repairing a predecessor's published arithmetic from a later batch is a change to a record rather than to a chapter.**
-2. **Both cells rose together between the two movements of this volume**, apparatus 815 to 873 and bold 55.298 to 55.921, which is the clearest available demonstration that the apparatus cell is blind to the largest thing on the page.
+2. **Both cells rose together between the two movements of this volume** — *WITHDRAWN 3 OCTOBER 2026, AND IT WAS FALSE IN BOTH FIGURES. It published apparatus 815 to 873 and bold 55.298 to 55.921 and read the two as moving together. On the boundary stated at §3 the apparatus share does rise, 815.250 to 872.904, and the bold share does not: Movement I measures 60.213 and this movement 57.417, so bold fell while apparatus rose. The claim that the 55.298 and the 55.921 are real figures is also gone; the 55.298 does not reproduce on Movement I's own files under any boundary this pass tried, and Movement I publishes 58.1 for itself. The half of the finding that survives is the one at §3.2 and it is about the two cells measuring different pages, not about their direction. At §14.*
 3. **Twenty-five interval renderings were wrong on the saved files and every one of them was short by a whole week or by exactly its own remainder**, in one family, concentrated on the thirteenth line and on the two four-day figures. **The day figures were all correct.** This is published rather than quietly fixed because the class is worth naming and because a later pass will meet it again on the same two series.
 4. **Six files stated the day's charge as the first of the four job prices on the page instead of as their sum**, and one file's conditions rows carried three items belonging to another day's page. **All repaired, with the job prices untouched: 833 and 834 to ninety-three pounds, 836, 837 and 839 to ninety-five, 840 to a hundred and two.** Chapters 831 and 838 already carried the correct sum, which is what made the convention visible to a walk and what makes the other six a defect rather than a house style.
 5. **The load-book leaf-count line is a guardrail-15 pressure point and it is not repaired.** Six of the ten load books carry a line whose subject is a figure the movement declines to print rather than the day's work, and it stood in one wording on four files and another on two. **It was reworded on four files so that no sentence of twelve tokens or more appears twice, and the line itself was kept on all six, because it is a device Movement I carried in on five of its ten files and deleting it from Movement II only would make two movements of one volume disagree about a rule they both observe.** **A pass that judges the rule rather than the device will find it here and this is where the finding is written down.**
@@ -218,7 +218,7 @@
 6. **The name on nine clipboards is the name of a town and not the name of the region, it is on nothing over there, and the woman who decided one thing about next week on Chapter 840 said it to nobody.** Movement III opens on the Monday after and inherits a name that nine people in this city are using.
 7. **Six of the eight supporting-cast slots remain, and there are four movements to spend them in.** Movement III may spend at most two and should name both before writing.
 8. **The correct-things register stands at four, nobody in this city counts it, and Movement III prints no fifth.** The one Sunday of this volume is at Chapter 864 and is not Movement III's.
-9. **The apparatus share is 872.904 and the bold share is 55.921 per cent, and the whole-number-of-weeks vector is 3, 0, 3, 7, 3, 3, 0, 3, 7, 3; Movement III should publish all three, should not chase any of them, and should walk the thirteenth line and the card and the four rooms against the anchors rather than transcribing them.**
+9. **The apparatus share is 872.904 and the bold share is 57.417 per cent** — *the bold figure corrected 3 October 2026; this line published 55.921, which is not a figure these files produce; see §14* — **and the whole-number-of-weeks vector is 3, 0, 3, 7, 3, 3, 0, 3, 7, 3; Movement III should publish all three, should not chase any of them, and should walk the thirteenth line and the card and the four rooms against the anchors rather than transcribing them.**
 
 **The planned plot is untouched.** No event, relationship, debt or open thread was added, removed, resolved or reopened beyond what `outline/volume-17.md` and `outline/ending.md` already fix. **No new final enemy, no new faction, no new power, no new ending and no authorization for this volume is proposed or implied by anything in this batch.** The four hundred people, the nine weeks, the two of four who have not been asked, the absent list, the two hundred returns, the four words, the two sheets and the one week all stand as Movement I left them.
 ---
@@ -237,9 +237,11 @@
 | --- | --- | --- |
 | Longest shared run, bodies | 8 | **30** |
 | Longest shared run, whole files | 24 | **35** |
-| Duplicated sentences of twelve words or more | zero at both scopes | **two** — a twenty-two-word sentence on 834 and 838, and a twelve-word clause on 837 and 839 |
+| Duplicated sentences of twelve words or more | zero at both scopes | **two** — a twenty-five-word sentence on 834 and 838, and a fifteen-word clause on 837 and 839 |
 
 **A published run of 8 on bodies and 24 whole-file, on a movement that contains a 30-token body run and a 35-token whole-file run, is not a movement that is unusually well varied. It is an instrument that could not see.** The two figures and the clean claim come from one walk, and the walk is at §13.2.
+
+**[CORRECTION OF 3 OCTOBER 2026 TO THE WORD COUNTS IN THE ROW ABOVE. The pass published *twenty-two* words for the sentence shared by 834 and 838 and *twelve* for the clause shared by 837 and 839. Both counts were wrong, and both were the same class of error as the cells this section exists to correct: a figure counted by eye on the sentence rather than measured on it. Counted as a run of letters, 834's and 838's shared sentence is twenty-five words on each file, and the rail clause is fifteen on Chapter 837 and fifteen in the old wording on Chapter 839. The defects themselves were real and the repairs stand; only the counts printed beside them were false. At §14.]**
 
 ### 13.2 THE INSTRUMENT, AND HOW IT WAS PROVEN RIGHT BEFORE IT WAS BELIEVED
 
@@ -257,8 +259,8 @@
 
 ### 13.3 THE TWO REPAIRS, BOTH IN PLACE, AND NOT ONE FIGURE MOVED
 
-1. **Chapter 838 lost one sentence.** It opened the custody-and-network paragraph with a twenty-two-word sentence standing verbatim on Chapter 834, **and that sentence was also redundant with the sentence immediately after it in the same paragraph**, which says the same thing about the dated rule and the records in Chapter 838's own words. **The duplicate and the redundancy were one defect and cutting the borrowed sentence removed both.** Chapter 834 keeps its wording and Chapter 838 keeps its own.
-2. **Chapter 839's rail clause was reworded.** It read *a rail that takes two, with a card standing on end in one of them* against Chapter 837's *a rail that takes two with a card standing on end in one of them* — the same twelve words with a comma moved. **The reworded clause names the rail and the card and no two of the ten objects, so guardrail 12 holds.**
+1. **Chapter 838 lost one sentence.** It opened the custody-and-network paragraph with a twenty-five-word sentence also standing on Chapter 834, **and that sentence was also redundant with the sentence immediately after it in the same paragraph**, which says the same thing about the dated rule and the records in Chapter 838's own words. **The duplicate and the redundancy were one defect and cutting the borrowed sentence removed both.** Chapter 834 keeps its wording and Chapter 838 keeps its own. **The two files do not stand word for word identical, and *verbatim* is not the word for what they had: 838 carried a comma after *entirely apart from this one* and 834 does not. They were the same twenty-five words with the punctuation moved, which is the same defect this section names two paragraphs below in the rail clause, and the reason the duplicate is described here as *also standing on* rather than *standing verbatim on*.**
+2. **Chapter 839's rail clause was reworded.** It read *a rail that takes two, with a card standing on end in one of them* against Chapter 837's *a rail that takes two with a card standing on end in one of them* — the same fifteen words with a comma moved. **The reworded clause names the rail and the card and no two of the ten objects, so guardrail 12 holds.**
 
 **After the two repairs: zero duplicated sentences of twelve words or more at either scope.** The longest shared body run is still 30 and the longest shared whole-file run is still 35, **and both are inside the targets this file sets at §4 — 31 body and 87 whole-file — so they are published as measurements and not dressed.** The largest is the fascia sentence on 833 and 839 and the largest whole-file run is the ninth-chair and dark-room block on 834 and 839, which are the conditions row and the standing record doing what this volume's rule requires of them on every file.
 
@@ -268,9 +270,9 @@
 
 ### 13.5 WHAT WAS RE-VERIFIED AND FOUND CORRECT, WITH NO REPAIR
 
-- **The figure arithmetic is sound.** 200 day-and-weeks pairs walked, **zero findings**, and the twenty-five repairs at §6 stand. The *to the day* vector of 58 at 6, 0, 6, 11, 6, 6, 0, 6, 11, 6 is reproduced exactly.
-- **The whole-number-of-weeks vector is right and it is a consequence, not a copy.** Generated from the eighteen anchors against the sixteen load-book series, it is **3, 0, 3, 7, 3, 3, 0, 3, 7, 3**, which is the vector printed at §7.
-- **Zero series figures are off their anchor.** 156 series day-figure cells matched to an anchor, none off.
+- **The figure arithmetic is sound.** **200 day-and-weeks pairs walked at the boundary that admits both scope forms, zero findings**, and the twenty-five repairs at §6 stand. **At the narrower boundary §3 used, which admits only the conditions-row form, the same walk returns 181 pairs and also zero findings.** Both figures are correct and they are two boundaries of one walk on the same ten files, which is what §3's 181 and this section's 200 always were; the difference of nineteen is the nineteen renderings written in the body form *a hundred and N*, and it is not a disagreement. The *to the day* vector of 58 at 6, 0, 6, 11, 6, 6, 0, 6, 11, 6 is reproduced exactly.
+- **The whole-number-of-weeks vector is right and it is a consequence, not a copy.** Generated from the eighteen anchors against the sixteen load-book series, it is **3, 0, 3, 7, 3, 3, 0, 3, 7, 3**, which is the vector printed at §7, and it is reproduced here off the repaired files and not copied from §7.
+- **Zero series figures are off their anchor.** **193 day-figure cells matched to an anchor, none off — 183 load-book series cells printed anywhere on the ten files, of which 160 are on the ten conditions rows, plus the ten cells of the woman's page.** **[CORRECTION OF 3 OCTOBER 2026 TO THE COUNT ABOVE. It published 156 cells and matched to an anchor, which this pass could not reproduce at any boundary it tried and has withdrawn. The verified decomposition is at §14.4. `batch-0003/SUMMARY.md` §11 item 9 publishes 186 for the same movement, and that figure is likewise withdrawn; the two of them and the 193 were three walks and none of the three had its boundary written down, which is the whole of the finding.]**
 - **The woman's page is correct on all ten files** and reads **322, 323, 324, 325, 326, 329, 330, 331, 332, 333**, with 327 and 328 on no file because days 1900 and 1901 are a Saturday and a Sunday. Nine of the ten files carry it in one wording and Chapter 840 in another, and both are correct.
 - **The place behind the woman's chair is named on Chapter 838 alone, carries no figure, and is named in no other file of the movement.** The ninth chair does not move on any of the ten.
 - **No panel and no marker outside Chapter 834.** `Evan Senn` is at zero on all ten. Iona Sorn is on no page. No second relay. The room under the building is dark on all ten days and is not opened. `Crown`, `coalition`, `short`, `fair`, `unfair`, `justice`, `rightful`, `principle` and the word `right` are all at zero. No month-name and no digit in any body. The shutter is down at about ten on all ten, in two wordings, which is the guardrail's own wording.
@@ -278,9 +280,15 @@
 
 ### 13.6 THE ARRIVAL CELLS AFTER THE TWO REPAIRS, AND ONE WORD ABOUT THEIR BOUNDARY
 
-Body **15,445**, apparatus **13,499**, whole files **29,763**, **apparatus share 874.005 per thousand**, **bold-word share of the body 57.401 per cent**, openings **72, 74, 73, 68, 68, 66, 62, 75, 70, 73**, spread thirteen. **Body words and the ten openings are identical to the figures printed at §3 and did not move, because every repair fell in the apparatus or in a closing page.** The apparatus share moved from 872.904 to 874.005 because Chapter 838 lost twenty-five apparatus words and Chapter 839 gained one.
+**[CORRECTED IN PLACE 3 OCTOBER 2026. EVERY CELL IN THIS SUBSECTION WAS WRONG EXCEPT THE BODY, AND THE STATED CAUSE WAS ARITHMETICALLY IMPOSSIBLE. It published apparatus 13,499, whole files 29,763, an apparatus share of 874.005 and a bold-word share of 57.401, and it attributed the rise in the share to Chapter 838 losing twenty-five apparatus words and Chapter 839 gaining one. Twenty-four words fewer cannot raise a share, and the published apparatus count rose by seventeen, which matches neither the stated cause nor any boundary. The verified cells are below and they move the other way.]**
 
-**The small residuals between this section's numbers and the numbers above are a boundary difference and not a disagreement, and they are published so that nobody chases them.** **This pass measured Movement III on the identical boundary and got body 14,784 and the identical ten openings against Movement III's published 14,784 and identical openings, with the apparatus share and the bold share landing within 0.4 and 0.2 per cent of its published values.** That is what a boundary difference looks like, and it is why the duplication cells — which were wrong by a factor of nearly four and by a factor of nothing at all respectively — are a different kind of thing from these.
+Body **15,445**, apparatus **13,458**, whole files **29,702**, **apparatus share 871.350 per thousand**, **bold-word share of the body 57.417 per cent**, openings **72, 74, 73, 68, 68, 66, 62, 75, 70, 73**, spread thirteen.
+
+**What moved and what did not, and why that settles two of the cells at once.** **The body did not move and cannot have: all three repairs fell in the apparatus or in a closing page, and a closing page is apparatus under §3's own boundary because the boundary runs to end of file.** So the body stands at 15,445, the ten openings stand, **and the bold-word share of the body cannot have moved either, because it is a function of body text that did not change. It stands at 57.417 before the repairs and 57.417 after them, which is how the false 55.921 at §3 and the false 57.401 in this subsection are both known to be false: the first does not reproduce on the arrival files and the second does not reproduce on either.** **The apparatus fell by exactly 24 — Chapter 838's twenty-five words and Chapter 839's one — so the share fell with it, from 872.904 to 871.350, and the whole-file count fell with it, from 29,726 to 29,702.** The published 29,763 was 37 above the arrival figure with the body flat and the apparatus down, and no boundary produces it.
+
+**The residuals are not a boundary difference and this subsection withdraws that explanation.** It previously claimed that the small gaps between its numbers and §3's were a boundary difference, on the strength of Movement III measuring close. **The gap in this movement is not small, and on the control movement this pass's own instrument reproduces Movement III's published body, apparatus and share exactly — 14,784, 13,632 and 922.078 — and its bold share exactly at 61.397.** One instrument returning a predecessor's published cells to the word is what a shared boundary looks like; the residuals printed above are not that, and they are corrected rather than explained.
+
+**One boundary note so that nobody compares two whole-file cells across movements and gets a false difference.** **This movement's whole-file count includes the ten H1 title lines, and Movement III's published 28,416 does not** — Movement III's figure is its body plus its apparatus and nothing else. **Movement II's whole-file count without its titles is 28,903.** The apparatus, body, share and bold cells are on the same boundary in both files and are comparable; the whole-file cells are not.
 
 ### 13.7 WHAT THIS PASS DID NOT DO, AND THE HAND-ON IS UNCHANGED
 
@@ -300,6 +308,78 @@ Body **15,445**, apparatus **13,499**, whole files **29,763**, **apparatus share
 6. **One of the four words means the opposite over there, the finding was made by a man of about forty-four on Chapter 836, and it has been given to about four people and no more.** The four words are still printed on no page of this volume and must not be printed to resolve anything.
 7. **The name on nine clipboards is the name of a town and not the name of the region, it is on nothing over there, and the woman who decided one thing about next week on Chapter 840 said it to nobody.**
 8. **Six of the eight supporting-cast slots for Volume 17 remain and two movements have spent them. Movement IV may spend at most three and should name each one before writing it.** The correct-things register stands at four, nobody counts it, and no movement of this volume prints a fifth. The one Sunday of the volume is at Chapter 864.
-9. **The three movements of this volume stand at longest shared runs of 13 and 33, 30 and 35 and 28 and 34, against a target of 31 body and 87 whole-file, and the apparatus shares stand at 815.250, 874.005 and 920.387 per thousand with bold-word shares of 55.298, 57.401 and 61.397.** Movement IV should publish all six, should chase none of them, and **must prove its duplication instrument against a control movement's published vector before it believes a clean result — the reason this line exists is that a pass which trusted its own clean result published 8 and 24 where the files hold 30 and 35.**
+9. **The three movements of this volume stand at longest shared runs of 13 and 33, 30 and 35 and 28 and 34, against a target of 31 body and 87 whole-file, and the apparatus shares stand at 815.250, 871.350 and 922.078 per thousand with bold-word shares of 60.213, 57.417 and 61.397** — *the six cells corrected 3 October 2026; this line published apparatus 815.250, 874.005 and 920.387 with bold 55.298, 57.401 and 61.397, and five of those six were wrong. Movement III's 920.387 was also inconsistent with Movement III's own published counts, which give 922.078; see §14 and `batch-0003/SUMMARY.md` §11 item 9.* Movement IV should publish all six, should chase none of them, and **must prove its duplication instrument against a control movement's published vector before it believes a clean result — the reason this line exists is that a pass which trusted its own clean result published 8 and 24 where the files hold 30 and 35.**
 
 **THE PLANNED PLOT IS UNTOUCHED BY THIS PASS AND BY EVERYTHING IN IT.** Iona Sorn is the last enemy in this manuscript, is in public custody and is unanswered. The answer to Volume 08's question is a chair he does not sit in. No resolution of Volume 15 or Volume 16 is reversed, softened or retconned. Nothing is said about whether the practice the four hundred kept after their district left worked, because the Volume 16 close is the last word on it. **Volume 17 is opened by a directive and not by a decision, `NOVEL_SPEC.md`'s eighth Status block is untouched and still records the decision as undecided, and no pass of any kind may write that paragraph.**
+
+---
+
+## 14. SECOND VERIFICATION PASS, 3 OCTOBER 2026 — THE RECORD CORRECTED WHERE §13 PRINTED A FIGURE IT COULD NOT HAVE PRODUCED
+
+**This section is dated after every block above it and is later than all of them. Where it corrects a figure printed above, the correction is the record and the figure above is the finding.** **No chapter was touched, no prose was rewritten, no figure, day, week, entry, price, count or refusal in any of the ten files was altered, and the planned plot is untouched.** What this pass did is walk the numbers §13 asserted, find which of them could not be produced from the files, and put the right ones in their places.
+
+### 14.1 WHY THIS PASS RAN, AND IT IS THE SAME REASON AS §13
+
+**A review of the §13 pass found that several of the figures §13 published could not have come out of the instrument §13 describes, and one of them contradicted the direction of its own stated cause.** That is the finding §13.2 says is the most expensive thing in this repository, found in the pass that quoted §13.2. **So the correction was made the way §13.2 prescribes: by writing an instrument, proving it against a movement whose figures are already published, and only then pointing it at Movement II.**
+
+### 14.2 THE INSTRUMENT, AND WHAT IT REPRODUCES ON A MOVEMENT THAT IS NOT THIS ONE
+
+**The boundary is §3's own, word for word: body is after the H1 line and before the `*NNN.` load-book marker, apparatus is from that marker to end of file, and a word is a run of letters, or a hyphenated compound of letters, or a digit.**
+
+**Run against `workspace/volume-17/batch-0003/`, which publishes its own cells, it returns them exactly:**
+
+| Cell | Movement III publishes | This instrument returns |
+| --- | --- | --- |
+| Body words | 14,784 | **14,784** |
+| Apparatus words | 13,632 | **13,632** |
+| Apparatus share | 922.078 per thousand | **922.078** |
+| Bold-word share of the body | 61.397 per cent | **61.397** |
+| Renderings of *to the day* | 64 | **64** |
+| Whole-number-of-weeks vector | 3, 0, 3, 7, 3, 3, 0, 3, 7, 3 | **3, 0, 3, 7, 3, 3, 0, 3, 7, 3** |
+| Day-and-weeks pairs wrong | zero | **zero, at 205 pairs** |
+
+**Seven cells, seven exact returns, on files this pass did not write.** §13 asserted a control argument and did not carry one out; this one was carried out and the walk came back clean on a movement that was not its target, which is the only kind of clean result that is evidence.
+
+### 14.3 THE CELLS, BOTH SETS, AND WHAT EACH IS A MEASUREMENT OF
+
+| Cell | Arrival, as §3 stands | After §13's repairs | What moved |
+| --- | --- | --- | --- |
+| Body words | **15,445** | **15,445** | nothing |
+| Apparatus words | **13,482** | **13,458** | −24 |
+| Words, whole files | **29,726** | **29,702** | −24 |
+| Apparatus share, per thousand | **872.904** | **871.350** | −1.554 |
+| Bold-word share of the body | **57.417** | **57.417** | nothing |
+| Openings | 72, 74, 73, 68, 68, 66, 62, 75, 70, 73 | identical | nothing |
+
+**Four false cells came out of this and they were false in pairs.** §3 published a bold share of **55.921** and §13 published **57.401**; the figure is **57.417** and it is the same before and after, because the body is byte-identical and the cell is a function of the body. §13 published an apparatus count of **13,499**, a whole-file count of **29,763** and a share of **874.005**; the figures are **13,458**, **29,702** and **871.350**, and they are lower than the arrival cells because twenty-four apparatus words went out of the closing pages. **The stated cause and the stated direction were also wrong together: §13 said a loss of twenty-four apparatus words raised the share, and no count can do that.**
+
+### 14.4 THE FOUR WALKS, AND THE THREE NUMBERS THAT ARE WITHDRAWN
+
+**Same walk, same ten files, and the denominators are now boundaries rather than mysteries.**
+
+| Figure | Boundary | Result |
+| --- | --- | --- |
+| **181** | interval renderings whose day figure and weeks figure are both in the conditions-row house form, *one hundred and N* — **§3's boundary** | **zero wrong** |
+| **200** | both scope forms admitted, so the body form *a hundred and N* counts too | **zero wrong** |
+| 203 | every weeks phrase of interval form, which also picks up the three *about nine weeks* mentions of the cost and are not interval renderings at all | 200 of them are renderings |
+| **193** | day-figure cells checked against an anchor: **183** load-book series cells printed anywhere on the ten files, **160** of them on the ten conditions rows, **plus 10** cells of the woman's page | **zero off-anchor** |
+
+**So §3's 181 and §13's 200 were never in conflict; they are the same walk at two boundaries and the nineteen between them are the body-form renderings.** **The whole-number-of-weeks vector is 3, 0, 3, 7, 3, 3, 0, 3, 7, 3, generated off the files, and it is the vector at §7.** **The woman's page is `day − 1573` on all ten files and reads 322, 323, 324, 325, 326, 329, 330, 331, 332 and 333**, with 327 and 328 on no file because days 1900 and 1901 are a Saturday and a Sunday.
+
+**Three published figures are withdrawn rather than restated, because this pass could not reproduce any of them on any boundary it tried and a number that cannot be reproduced is not a measurement.** They are **186 series cells** in `batch-0003/SUMMARY.md` §11 item 9, **156 series cells** in §13.5 above, and **183 pairs** in the same item 9. **None of the three was wrong about the files; all three were unstated about their boundary, and the reason three of them exist for one movement is the reason this section exists.**
+
+### 14.5 THE TWO SENTENCES THAT DID NOT SURVIVE, AND WHAT IS LEFT OF THEM
+
+**§3.2 and §11 item 2 published that the bold share and the apparatus share rose together between Movements I and II, at 55.298 to 55.921.** **On this instrument the bold share is 60.213 on Movement I and 57.417 on Movement II, so it fell while the apparatus share rose, and the 55.298 does not reproduce on Movement I's own files at any boundary tried — Movement I publishes 58.1 for itself.** Both sentences are withdrawn at the places they stand. **What survives is the reason the two cells are printed side by side, which does not depend on their direction: they measure different pages, and one of them can rise while the other falls on the same ten files.**
+
+**Movement I's own published cells remain Movement I's, and they are already flagged at §3.1 and §11 item 1.** This pass re-measures Movement I only to the extent the comparison above needs, and it does not repair a predecessor's record.
+
+### 14.6 WHAT THIS PASS DID NOT DO
+
+**No chapter was rewritten and no prose was reworded, cut or reordered. No figure, day, week, entry, price, count or refusal was altered anywhere in the ten files. No debt was resolved, no resolution of Volume 15 or Volume 16 was reversed, softened or retconned, and nothing is said about whether the practice the four hundred kept after their district left worked.** Iona Sorn stays where Volume 16 left him. The answer to Volume 08's question stays a chair. The binder stayed shut on all ten days and the page behind it was unread on all ten days.
+
+**`state/phase-ledger.json` was read and not written and no flag about it is appended here.** The fact is recorded once, at `state/open-threads.md` item 29 and in `NOVEL_SPEC.md`.
+
+### 14.7 THE HAND-ON, AND IT REPLACES §13.8 FOR ANY PASS THAT HAS NOT ALREADY READ IT
+
+**§13.8's nine lines stand, and one line is added to them and one of them is corrected.** Line 9's six measurement cells are corrected at §13.8 and at §14.3. **The line added is this: publish the boundary in the same cell as the number, and when a number is compared across movements, prove the instrument on a movement whose figures are already published before the comparison is believed — §13 asserted that control and this pass ran it, and §13's own apparatus and bold cells were false on the strength of not running it.**
