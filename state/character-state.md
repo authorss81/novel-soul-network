@@ -1,6 +1,6 @@
-# LIVE — VOLUME 17 AT CHAPTER 870, FIFTY CHAPTERS OF A PLANNED SIXTY, AND CHAPTERS 871 TO 880 WERE NEVER WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *VOLUME 17 CLOSE — THE PEOPLE AT CHAPTER 870 AND WHAT THE CLOSE DID NOT DO TO THEM*, AND A PASS THAT WANTS THE PEOPLE READS THAT ONE AND NOT THIS ONE. EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE.**
+# LIVE — VOLUME 17 AT CHAPTER 870, FIFTY CHAPTERS OF A PLANNED SIXTY, AND CHAPTERS 871 TO 880 WERE NEVER WRITTEN AND ARE NOW THE LIVE PHASE AT `workspace/volume-17/batch-0007/PROMPT.md`. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *VOLUME 17 — THE PEOPLE AT CHAPTER 870, AND THE PEOPLE MOVEMENT VI IS GIVEN*, AND A PASS THAT WANTS THE PEOPLE READS THAT ONE AND NOT THIS ONE. EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE.**
 
-**THE MANUSCRIPT STANDS AT CHAPTER 870. VOLUME 17 IS TEN CHAPTERS SHORT OF ITS OWN PLAN AND IS NOT CLOSED. THE PHASE THAT JUST RAN WAS THE CLOSE AT `workspace/volume-17/batch-0006/`, IT WROTE NO CHAPTER, IT CHANGED NO PERSON, AND IT DISPATCHED NOTHING.**
+**THE MANUSCRIPT STANDS AT CHAPTER 870. VOLUME 17 IS TEN CHAPTERS SHORT OF ITS OWN PLAN AND IS NOT CLOSED. THE PHASE AT `workspace/volume-17/batch-0006/` WAS A MID-VOLUME RECORD AND NOT A CLOSE, IT WROTE NO CHAPTER AND IT ADDED NO PERSON. THE NEXT PHASE IS `workspace/volume-17/batch-0007/` AND IT IS MOVEMENT VI, WHICH SPENDS NO SUPPORTING-CAST SLOT AND PUTS ONLY PEOPLE THIS VOLUME ALREADY KNOWS BACK ON THE PAGE.**
 
 **THE SPEND CEILING OF VOLUME 17 IS EIGHT ACROSS SIXTY CHAPTERS, AND THE COUNT ON THE FIFTY PAGES THAT EXIST IS NINE — OR TEN ON THE FIVE SUMMARIES' OWN OPENING SENTENCES — AGAINST THAT CEILING OF EIGHT, WITH PRINTED REMAINDERS OF SIX, SIX, FOUR AND FOUR.** A person who returns to a room in more than one file is still one person and is still no spend. The nine are named with their pages at §9.7 of `workspace/volume-17/ARITHMETIC-AND-CALENDAR.md`, and the four slots that would have remained were never spent and are named as unspent because no page names them.
 
@@ -81,20 +81,20 @@
 **The woman of about sixty.** Nineteen years in that room. She is not on a spoken line of Movement III. **The space behind her chair is empty on all ten days, is named on Chapter 843 alone, carries no figure on that file or on any other, and is never explained.** Nobody in this city has asked her about it and nobody is going to.
 
 ---
-
-# LIVE — VOLUME 17 MOVEMENT III VERIFICATION PASS, 2 OCTOBER 2026, AT CHAPTER 850. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE. **THE MANUSCRIPT HAS NOT MOVED AND NOBODY MOVED.**
-
-**WHAT THIS PASS DID TO THE PEOPLE ON THESE PAGES, AND IT IS NOTHING.** No person was added, removed, renamed, aged, given a want, given a follower or given a gratitude. **The ten chapters were not rewritten and no dialogue was reworded, cut or reordered**, with two exceptions that are both in the apparatus and neither of which is a person: **Chapter 848's conditions-row label for the nine hand copies is reworded in that file's own words**, and **five cells in Movement II that carried the conditions-row form of a figure inside a body sentence are now in the body form**, on Chapters 833, 836, 837, 838 and 839. **Both are wording and neither touches a figure, and the full record is at `workspace/volume-17/batch-0003/SUMMARY.md` §13.4.**
-
-**THE TWO SPENDS OF MOVEMENT III STAND AND NEITHER IS AFFECTED.** **A woman of about forty-one who keeps a laundry on a road in a first district**, who wrote four words into her own book about nine years ago against about nine lines while counting what came in on a Thursday, who has still not been told what she wrote, who wants the book left where it is and the asking to stop; one age, one want, no follower, no gratitude; on Chapters 842 and 846. **A man of about forty-four who is a landlord of one building in a second district and of nothing else**, who said a landlord holds paper and not people, that this is the correct arrangement, and that it is also the reason nobody can be found; given control of nothing, not the person who signs anything in this volume, not the person any form was put up to; one age, one want, no follower, no gratitude; on Chapters 848 and 850.
-
-**SIX OF THE EIGHT SUPPORTING-CAST SLOTS REMAIN AND THERE ARE THREE MOVEMENTS LEFT.** Movement IV may spend at most two and should name both before writing it, and Movement V has Leo Marr still to place. **Leo Marr is not named anywhere in Movement III**, and the volume's plan gives this movement's discovery to his people without requiring him to be on a page; a movement that names him must give him control of nothing and must not redeem him.
-
-**THE PEOPLE WHO ARE NOT AVAILABLE TO BE RE-SPENT ARE UNCHANGED.** The woman of about thirty-four who carried a form back on a bus and who refused a signature at Chapter 849 and who has not been told that one of the four words means the opposite. The man of about thirty-four who owns four vehicles and who said he will take a wall map off its wall on a Tuesday and who does not know the man who keeps it has been asked. The man of about fifty-two who said in about nine seconds that there is no place in this city where the practice is written down on purpose and who cannot be made to say it differently. **The woman of about thirty is not named, is not a category, is not counted, is not described and is not asked a question on any of the ten days, and nobody apologises to her.** The nine hand copies are counted as a standing row on every file and not two of them are compared.
-
-**AND WHAT THIS PASS DID NOT DO, WHICH IS THE SAME LIST AS EVERY OTHER.** **No resolution of Volume 15 or Volume 16 was reversed, softened or retconned. Iona Sorn stays where Volume 16 left him: in public custody, unanswered, not absolved, and on no page of Movement III. The answer to Volume 08's question stays a chair he does not sit in. The ninth chair does not move on any of the ten days and its mover is named on none. The room under the building in a first district is dark on all ten days and is not opened. Nobody thanks anybody and nobody forgives anybody on any of the ten.** `state/phase-ledger.json` was read and not written and no flag about it is appended here.
-
 ---
+
+# ARCHIVE INDEXED — LATE 1 OCTOBER 2026, BY THE REVIEW-FIX PASS AFTER THE CLOSE PASS — THREE SUPERSEDED BLOCKS OF THIS FILE
+
+**Three superseded narration blocks are replaced below by one index line each, carrying their own heading and their former line range in this file as of commit `9e89468`. Nothing was summarised, softened or reworded and no person was touched.** Read a block back out of the history at `git show 9e89468:state/character-state.md` and take the line range; **an index line is a pointer and not a substitute.** The close block at lines 169 to 194 is kept whole immediately below this index and is not indexed; it is listed only so that a reader can see what superseded it.
+
+**The Movement I, II, III, IV and V blocks are kept whole because they are where the people are.** The two review and verification blocks are indexed because each of them states in its own first line that no person was added, removed, renamed, aged, given a want, given a follower or given a gratitude, and because the block below restates every one of them.
+
+## THE INDEX — 3 blocks
+
+- **Formerly lines 85–97** — LIVE — VOLUME 17 MOVEMENT III VERIFICATION PASS, 2 OCTOBER 2026, AT CHAPTER 850. NO PERSON WAS ADDED, REMOVED, RENAMED, AGED, GIVEN A WANT, GIVEN A FOLLOWER OR GIVEN A GRATITUDE, AND NO WANT OR RELATIONSHIP MOVED.
+- **Formerly lines 132–140** — LIVE — VOLUME 17 MOVEMENT IV REVIEW PASS, AT CHAPTER 860. THE SAME SENTENCE, AT CHAPTER 860, AND THE TWO SPENDS OF MOVEMENT IV STAND AS NAMED IN THE BLOCK ABOVE.
+- **Formerly lines 169–194 — KEPT WHOLE, NOT INDEXED.** LIVE — VOLUME 17 CLOSE — THE PEOPLE AT CHAPTER 870 AND WHAT THE CLOSE DID NOT DO TO THEM. **Superseded by the block below it, which adds the three placements Movement VI is given and which carries forward every one of its people.**
+
 
 # LIVE — VOLUME 17 MOVEMENT IV ADDED TO THE PEOPLE, CHAPTERS 851 TO 860. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
 
@@ -126,16 +126,6 @@
 ## The cast ceiling
 
 **FOUR OF THE EIGHT SUPPORTING-CAST SLOTS REMAIN AND THERE ARE TWO MOVEMENTS LEFT.** Movement V may spend at most two and should name both before writing it, **and Movement V has Leo Marr still to place: he is given control of nothing, he is not redeemed, and he may be named once there, and a movement that names him must do both.** Already placed and not available to be re-spent: a woman of about forty-one who keeps a laundry, a man of about forty-four who is a landlord of one building and of nothing else, a woman of about sixty-one who has left a standing body, and a man of about thirty-three who writes the wording on this city's forms.
-
----
-
-# LIVE — VOLUME 17 MOVEMENT IV REVIEW PASS, AT CHAPTER 860. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. **NO PERSON WAS ADDED, REMOVED, RENAMED, AGED, GIVEN A WANT, GIVEN A FOLLOWER OR GIVEN A GRATITUDE, AND NO WANT OR RELATIONSHIP MOVED. THE TWO SPENDS OF MOVEMENT IV STAND AS NAMED IN THE BLOCK ABOVE.**
-
-**THE ONE THING THE REVIEW CHANGED ABOUT A PERSON, AND IT IS A FACT ABOUT WHO HELD WHAT.** **The man of about thirty-three who writes the wording on this city's forms is now the man who wrote the eight lines, kept the ninth for the Monday, and gave the ninth to a woman of about thirty-six to read out on the Wednesday while he kept the eight, and who was on four pages saying so. He said one version of that on Chapter 852, a second version on Chapter 855 and a load-book line that contradicted his own body on the same page, and the three have been made into one.** His want is unchanged: that a form say plainly what it is. His age is unchanged. He is not thanked on any page, he is not rescued, he decides nothing, and **the fifth of his own nine things somebody has to do is still written down by nobody.**
-
-**AND THE WOMAN OF ABOUT THIRTY-SIX WHO READ THE NINE OUT AT THE SIXTY-SECOND SITTING is now consistent with the woman who typed the nine lines in Chapter 851 and with the woman who read them out in Chapter 851, and no page of this movement gives her a want, a follower or a gratitude, and nobody thanked her for reading them out and nobody asked her what she made of them.**
-
-**AND THE CAST CEILING IS UNCHANGED: four of the eight supporting-cast slots remain and there are two movements left.** Movement V may spend at most two and should name both before writing it, **and Movement V has Leo Marr still to place: he is given control of nothing, he is not redeemed, and he may be named once there, and a movement that names him must do both.** **And the man of about forty-six who is under a review he agreed to without reading it is on Chapter 857 by his age and his situation and not by his name, and the plan puts Iven Sore in this movement, and this movement does not make that legible on the page and says so rather than dressing it.**
 
 ---
 
@@ -191,3 +181,37 @@
 **OREN VEY IS NOT MADE SMALLER AND DOES NOT APPEAR LARGER.** **IONA SORN IS THE LAST ENEMY IN THIS MANUSCRIPT, IS IN PUBLIC CUSTODY, IS UNANSWERED, IS NOT ABSOLVED, AND HIS NAME IS AT ZERO ON ALL FIFTY PAGES. NOBODY HAS OFFERED HIM THE CONSTRAINED ROLE AGAIN.**
 
 **AND WHAT THE CLOSE DID NOT DO TO ANY PERSON.** It wrote no sentence about any of them. It made nobody smaller or larger, redeemed nobody, forgave nobody and thanked nobody, and it is not permitted to. **It did not open the ring binder, did not ask the woman of about thirty one question, did not apologise to her, did not name her, did not count her, did not put the finding about the third word in front of the woman of about thirty-four as a correction, did not reopen or soften Chapter 849's refusal, did not open two of the nine hand copies, did not move the ninth chair or name its mover, and did not touch the register, which stands at four and is not a count that anybody keeps.**
+
+---
+
+# LIVE — VOLUME 17: THE PEOPLE AT CHAPTER 870, AND THE PEOPLE MOVEMENT VI IS GIVEN. DATED AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+**NO PERSON WAS ADDED, REMOVED, RENAMED, AGED, GIVEN A WANT, GIVEN A FOLLOWER OR GIVEN A GRATITUDE BY THIS PASS, AND NO RELATIONSHIP MOVED.** The manuscript stands at Chapter 870 and the pass that just ran was a review-fix pass: it wrote no chapter, and it changed no person.
+
+## 1. The three placements Movement VI is given, and none of them is a spend
+
+**`outline/volume-17.md` places Rafi Pell's cooperative in Movements II and VI, and Asha Reed and Dessa Kwan in Movements I, IV and VI. All three are people this volume already knows and a return is not a spend, which is why Movement VI spends nothing and the count stays where it is.**
+
+1. **Rafi Pell and his cooperative.** One of the routes that works because it was built with different rules. **A page of Movement VI may ask him what the rules are and he does not explain them and says in about nine words that they are not for here. He is not rescued, not enlarged and not made the answer.** He has one want and it is not new: that the thing he has is not read by a room that is looking for something else to say.
+2. **Asha Reed.** Ordinary care, carried and not performed. **She is on a page of this movement and she resolves nothing and she is not the reason a page turns.**
+3. **Dessa Kwan.** Ordinary care, carried and not performed, and **she is not saved by anybody on any of the ten pages and she does not save anybody.**
+
+## 2. The people Movement VI puts back on the page, and what each of them may not become
+
+**Every one of these is already placed, already named once by age and situation, and already unavailable to be re-spent. A page of Movement VI may name any of them and none of them is enlarged, absolved, forgiven, thanked or given a follower.**
+
+- **The man of twenty-two.** **He is on no body in this city and he is the one who refuses at Chapter 877, in about four seconds, with a reason that is about his own hands and not about the four hundred.** His hands are not right for about two hours four times in eleven years and that is a condition and not a gift. **Afterwards he cannot say whether he refused it for the right reason, and he is not asked, and nobody answers the question for him.** He teaches nobody, assesses nobody and demonstrates nothing to anybody in this movement, and he is the one who is stopped.
+- **The man who is on no body in this city and said the volume's nine words on Chapter 869** — *we owe four hundred what we owe our own*, and then *it does not get to say what is true*. **He is not thanked and nobody has thanked him since and nobody will, and he is not given anything for having said it.** **The counter-argument published at Chapter 878 is his to publish and it is not beaten, and standing is the outcome.**
+- **The woman whose working shift was used as a fact in a room without her.** **She tells him about it once, at Chapter 879, in about nine words, and he does not apologise, because she has said she is not going to be thanked for it and has also said that an apology would be a way of putting it back on her. Both of those are her sentences and not his, and neither of them is softened on any page.**
+- **The woman of about forty-one who keeps a laundry** and refused in about four seconds and was told nothing and is not to be asked again. **The man of about forty-four who is a landlord of one building and of nothing else. The woman of about sixty-one who resigned a standing body over a form** and was not thanked and was not asked to stay. **The man of about thirty-three who writes the wording on this city's forms. The woman of about thirty-four who carried a form back on a bus** and who has still not been told that one of the four words means the opposite and is not told on any of these ten pages either. **The man of about thirty-four who owns four vehicles. The man of about thirty-four who has been over there and done it twice** and cannot say whether it is safe and is not made to say it. **The man of about fifty-two. The man of about fifty-one who has been against the north wall of that room for about nine years. The man of about forty-seven whose trade opens at a weekend** and is not thanked and is not redeemed. **The woman of about forty-four who works for that trade.**
+- **The man of about twenty-two's two people**, the ones the plan gives him at the end of this volume — **he is not the person who signs anything in Volume 17 and neither of them approves anything, and one of the two times they are in a room together is a corridor in which she asks him one question and he gets an answer and neither of them says another word. He tells her one true thing about a decision he made in Volume 09, and she opens the file and he does not get to close it.** **Neither of them becomes a category and neither of them saves him.**
+
+## 3. The people who are not on any page of Movement VI and are not on any page of this volume
+
+**Iona Sorn**, fifty-three, the last enemy in this manuscript, in public custody, unanswered, not absolved, and **at zero on all fifty pages that exist and on the ten that do not yet.** **Evan Senn is at zero on all fifty and Lena Senn's husband's name is at zero on all sixty planned pages, and it is Volume 15 that spent it once.** The woman of about thirty is not named, is not a category, is not counted, is not described and is not asked a question. **The nine people who were part of the Choir and are not in this city have not been asked and are not asked in this movement.** The four hundred people in the district that left in Volume 16 keep their practice by other means and **this volume says nothing about whether it worked, and nobody in this movement may say it either.**
+
+## 4. What this pass did to the people, which is nothing, and what it did to the files
+
+**It changed no chapter and no person. It wrote `workspace/volume-17/batch-0007/PROMPT.md`, which names every person above as a return and as unavailable to be re-spent, and it moved `workspace/volume-17/batch-0006/PROMPT.md` to `PROMPT-WAS-GIVEN.md` and retracted the false premise in `RECORD.md`.** The nine spends are still nine against a ceiling of eight, the printed remainders are still six, six, four and four, and **Movement VI's prompt records the overage and spends none, which is the finding published at `workspace/volume-17/batch-0006/CLOSE.md` §3 item 11 now closed rather than left for a movement to add to.**
+
+**The spend ceiling's own standing rule is unaffected: a person who returns to a room in more than one file is still one person and is still no spend, and a page that names a walk-on does not move the ceiling.**
