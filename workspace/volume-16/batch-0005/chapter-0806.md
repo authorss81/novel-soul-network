@@ -32,7 +32,7 @@ He said that if nobody says the true thing about a date that has already failed,
 
 She said that no such thing had happened before the spring date. She said that on the spring date four hundred people in that district woke up on a Tuesday and found out, and that the whole of what they did about it was nothing, and that this is not a criticism of them.
 
-She said that this time one man was told three days before, by the woman who takes the money over a scale at that gate, who was not asked and was not thanked, and that that man repeated the date correctly once and has not been asked since.
+She said that this time one man was told three days before, by the woman of about thirty-eight who takes the money over a scale at that gate, who was not asked and was not thanked, and that that man repeated the date correctly once and has not been asked since.
 
 A man of about thirty-eight said that one man is not four hundred people, and that she had said that herself at some point in a fortnight, and that she had said it in a room and not in a gateway.
 
