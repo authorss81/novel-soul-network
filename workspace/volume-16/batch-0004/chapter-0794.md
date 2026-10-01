@@ -8,7 +8,7 @@ The sheet for that Friday carried twelve names and twelve dates, and the last na
 
 **The rooms off that service road and one behind the other three stand at one thousand four hundred and fifty-three days, two hundred and seven weeks and four days, and the card on end in the rail by the door is one thousand four hundred and fifty-seven days, two hundred and eight weeks and one day.**
 
-**The nineteen, last line in use, is one thousand one hundred and forty-nine days, one hundred and sixty-four weeks and one day. What is still owed is one thousand one hundred and forty-three days, one hundred and sixty-three weeks and two days.**
+**The nineteen, last line in use, is one thousand one hundred and forty-nine days, a hundred and sixty-four weeks and one day. What is still owed is one thousand one hundred and forty-three days, a hundred and sixty-three weeks and two days.**
 
 ---
 
@@ -163,5 +163,5 @@ A room under a building in a first district was dark at about eleven on that Fri
 *What the day did not settle, and the rest of it.* **The count of correct acts that made no difference was four in that room when the pencil went down and is four, and a drawing of nine streets is not an act of that kind and has not been counted on that board.
 Nine objects are named here and no line of this page joins two of them. The shutter. Nineteen ruled lines on a board hung from two nails. A card folded to hold a door. A hand copy of the front of a page. A cage screwed to the side of a counter. A narrow strip of paper carrying one word. A book with a green cover. A rail of two with a card propped upright in it. A tin with its lid down.
 The back of a docket sheet is not the card folded across a doorway and is not the rail by that door and is not the strip of paper with one word on it, and a docket book on a shelf is neither the green-covered book nor the tin and does not hold the ring binder on the fourth room's back shelf. This page keeps them apart because all of them are named above.
-A rule with a date and a name on it remains in force over a different matter and the records behind it remain open to anybody who asks for them. A woman of fifty-three is held on a first floor, and the list is on the inside of that door. Nine people who once had a network are not in this city and have not been asked anything at all.
-Nobody thanked anybody and nobody forgave anybody on that Friday. A man drew nine streets in four minutes, left one of them wrong, gave the drawing to nobody, and has not been thanked, and about four people in that room would have drawn it worse.**
+A rule with a date and a name on it remains in force over a different matter and the records behind it remain open to anybody who asks for them. A woman of fifty-three is upstairs over a shop in a second district, and the list of that floor is fixed to the inside of her door, and she is on it and has not answered. Nine people who once had a network are not in this city and have not been asked anything at all.
+Nobody thanked anybody and nobody forgave anybody on that Friday. A man drew nine streets in four minutes, left one of them wrong, gave the drawing to nobody, and has not been thanked, and the people who were in that room would have drawn it worse and not one of them has said so.**

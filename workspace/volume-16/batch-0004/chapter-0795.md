@@ -6,9 +6,9 @@
 
 The board for that Monday carried thirteen names and thirteen dates, and the thirteenth name was written down at twenty to five. The shutter came down at ten. It comes down at ten on every day of this stretch of days.
 
-**That card in a rail that takes two is one thousand four hundred and sixty days, two hundred and eight weeks and four days. Line thirteen is one thousand three hundred and twenty-seven days, one hundred and eighty-nine weeks and four days.**
+**That card in a rail that takes two is one thousand four hundred and sixty days, two hundred and eight weeks and four days. Line thirteen is one thousand three hundred and twenty-seven days, a hundred and eighty-nine weeks and four days.**
 
-**Line seventeen is one thousand two hundred and twenty-eight days, one hundred and seventy-five weeks and three days. The hold on nine crates and the floor they stand on is one thousand and eighty-nine days, one hundred and fifty-five weeks and four days, in the second of the four towns.**
+**Line seventeen is one thousand two hundred and twenty-eight days, a hundred and seventy-five weeks and three days. The hold on nine crates and the floor they stand on is one thousand and eighty-nine days, a hundred and fifty-five weeks and four days, in the second of the four towns.**
 
 ---
 
@@ -127,7 +127,7 @@ He scraped the paint back off the frame with a chisel and filled it, and refitte
 
 *798.
 Monday of week 276, at ten, and the one hundredth day of this stretch of days. Thirteen names and thirteen dates, the last name at twenty to five. The shutter came down at ten.
-One room off a road in that district from about five onward. Every room anybody in this city could name holds about nine people and is shut at about ten, and about four hundred people are at a yard at seven in the morning and are not finished by six.
+From about five onward that Monday was one room off a road in that district. Every room anybody in this city could name holds about nine people and is shut at about ten, and about four hundred people are at a yard at seven in the morning and are not finished by six.
 A man of about thirty-four offered a first floor above a line in Saltmarket. A woman of about sixty said yes in about nine seconds and said the condition, which is that it is her room and not theirs.
 Nobody has told the about four hundred people that the room exists. Nobody has been asked.
 The charge for the Monday was twenty-six pounds, exact. Nobody thanked anybody and nobody forgave anybody on that Monday, and nobody in any room in this city was taught, shown, assessed or helped.*
@@ -158,8 +158,8 @@ Charge: twenty-six pounds, exact.*
 There has been an empty place behind the woman of about sixty since a week in the spring. The ninth chair is against that wall with its back to everything in that room and did not move on that Monday, and its mover is named on no page of this stretch of days.
 The room under that building in a first district was dark at about eleven on that Monday, and is dark, and nobody is going to open it.*
 
-*What the day did not settle, and the rest of it.* **The register of correct acts that made no difference stood at four in that room at about half past six and stands at four, and offering a room that you do not hold is not on that board and has not been counted.
-These are the things this page names, and this page puts no two of them in one sentence. The shutter. A board carrying nineteen ruled lines on two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage on the flank of a counter. A strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf.
+*What the day did not settle, and the rest of it.* **Four things done properly and answered by nobody were on that board before the shutter came down on that Monday and there are still four, and offering a room that you do not hold is not on it and has not been counted.
+These are the things this page names, and this page puts no two of them in one sentence. The shutter. A board carrying nineteen ruled lines on two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage screwed to the side of a counter. A narrow strip of paper carrying one word. A book with a green cover. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf.
 The first floor above a line in Saltmarket is a room and is not the room under the building in the first district, and a rail of two with a card on end in it is a thing against a door and not a handrail on nine steps, and the ring binder on the back shelf in the fourth of those four rooms is not the binder and not the tin and not this page's business. All of them are named above.
-A dated rule with a name on it is in force over another matter and the records behind it are still open to anybody who asks. A woman of fifty-three is held on a first floor, and there is a list on the inside of her door. Nine people who once had a network are not in this city, and nobody has put anything to them.
+A dated rule with a name on it is in force over another matter and the records behind it are still open to anybody who asks. A woman of fifty-three is held upstairs, her name is on a list, and the list is inside the door of the room she is in. Nine people who once had a network are not in this city, and nobody has put anything to them.
 Nobody thanked anybody and nobody forgave anybody on that Monday. A woman said yes in about nine seconds to an hour a week and was not thanked, and nobody has told about four hundred people that the hour exists.**

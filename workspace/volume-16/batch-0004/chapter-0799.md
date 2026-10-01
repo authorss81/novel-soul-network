@@ -8,7 +8,7 @@ The board for that Friday carried thirteen names and thirteen dates, and the thi
 
 **The four rooms off that service road and one behind the other three are at one thousand four hundred and sixty days, two hundred and eight weeks and four days, and the card on end in the rail by that door is one thousand four hundred and sixty-four days, two hundred and nine weeks and one day.**
 
-**Line eighteen is one thousand one hundred and seventy-eight days, one hundred and sixty-eight weeks and two days. The man of about fifty-one against that north wall is one thousand and sixty-six days, one hundred and fifty-two weeks and two days.**
+**Line eighteen is one thousand one hundred and seventy-eight days, a hundred and sixty-eight weeks and two days. The man of about fifty-one against that north wall is one thousand and sixty-six days, a hundred and fifty-two weeks and two days.**
 
 ---
 
@@ -156,8 +156,8 @@ Charge: forty-four pounds, exact.*
 Behind the woman of about sixty there is a place that has stood empty since a week in the spring. The ninth chair in that room is against that wall with its back to everything in it and did not move on that Friday, and its mover is named on no page of this stretch of days.
 There is a room under a building in a first district which was dark at about eleven on that Friday, and which is dark on every other night of this stretch of days, and which nobody is going to open.*
 
-*What the day did not settle, and the rest of it.* **The count of acts that were correct and made no difference was four in that room at about half past six and stands at four, and giving away eight of nine pieces of a thing you wrote is not one of those acts and has not been put on that board.
-These are the objects this page names, and no sentence here sets two of them side by side. The shutter. Nineteen ruled lines carried on a board on two nails. A card folded once to hold a door. A hand copy of the front of a page. A cage on the flank of a counter. A strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf.
+*What the day did not settle, and the rest of it.* **That count was four before the shutter came down on that Friday and it is four now, and handing eight of nine pieces of a thing you wrote to nine other mouths is not on it and never was.
+These are the objects this page names, and no sentence here sets two of them side by side. The shutter. Nineteen ruled lines carried on a board on two nails. A card folded once to hold a door. A hand copy of the front of a page. A cage on the side of a counter. A narrow strip of paper with one word on it. A book bound in green. A rail that takes two with a card standing on end. A tin, closed. A ring binder on a back shelf.
 Nine pieces of one size are not the rail of two and are not the nine hand copies and are not the nineteen ruled lines. The docket book that holds one of them is not the book bound in green and is not the tin and does not hold the binder on the back shelf in the fourth of those four rooms. This page keeps all of them apart because all of them are named above.
 A rule carrying a date and a name is in force over another matter and its records behind it remain open and remain disputed. A woman of fifty-three sits held on a first floor, and there is a list fixed inside that door. Nine people who once had a network are not in this city and have not been asked about it.
 Nobody thanked anybody and nobody forgave anybody on that Friday. A woman of about twenty-nine asked a question about what the four words are about and nobody answered it, and she said she would ask it again in about nine days and not before.**

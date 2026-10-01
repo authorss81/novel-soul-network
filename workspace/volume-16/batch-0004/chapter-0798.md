@@ -8,9 +8,9 @@ The board for that Thursday carried eleven names and eleven dates, and the last 
 
 **The four rooms off that service road and the one behind the other three stand at one thousand four hundred and fifty-nine days, two hundred and eight weeks and three days.**
 
-**Line seventeen is one thousand two hundred and thirty-one days, one hundred and seventy-five weeks and six days. The nine hand copies of the front of one page are one thousand and twenty-five days, one hundred and forty-six weeks and three days, one corner torn, eight unfinished, and not two of them have been laid against each other.**
+**Line seventeen is one thousand two hundred and thirty-one days, a hundred and seventy-five weeks and six days. The nine hand copies of the front of one page are one thousand and twenty-five days, a hundred and forty-six weeks and three days, one corner torn, eight unfinished, and not two of them have been laid against each other.**
 
-**Eight hundred and thirty-nine days is the separation, one hundred and nineteen weeks and six days, in a one-line box sixteen months old.**
+**Eight hundred and thirty-nine days is the separation, a hundred and nineteen weeks and six days, in a one-line box sixteen months old.**
 
 ---
 
@@ -161,8 +161,8 @@ Charge: eleven pounds, exact.*
 The space at the back of the woman of about sixty has been empty since a week in the spring. The ninth chair in that room is against that wall with its back to everything in it and did not move on that Thursday, and its mover is named on no page of this stretch of days.
 Under a building in a first district a room was dark at about eleven on that Thursday, and is dark, and is not going to be opened.*
 
-*What the day did not settle, and the rest of it.* **The register of correct acts that made no difference stood at four in that room at about half past six and stands at four, and about nine people learning four words by accident is not on that register and never has been.
-Nine objects are named here and this page does not bring any two of them into one sentence. The shutter. A board carrying nineteen ruled lines hung on two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage on the flank of a counter. A strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf.
+*What the day did not settle, and the rest of it.* **That book in that room has said four since before this stretch of days began and it says four now, and about nine people learning four words by accident is not on it and never has been.
+Nine objects are named here and this page does not bring any two of them into one sentence. The shutter. A board carrying nineteen ruled lines hung on two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage fixed to the flank of a counter. A strip of paper with one word on it. A book in a green cover. A rail of two with a card propped upright in it. A tin with its lid down. A ring binder on a back shelf.
 The four words are not the one word on the strip of paper and are not the heading on anything and are not the thing on the rail. A docket book on an open shelf is not the book bound in green and does not hold the tin, and the counter it stands on is not the counter the cage is fixed to, and the rail by that door is a rail by a door and not a shelf. This page separates all of them because every one of them is named above.
 A rule with a date and a name on it stands in force over a different matter and its records stay open to anybody who asks. A woman of fifty-three is held upstairs and a list is fixed inside that door. Nine people who were once part of a network are not in this city and have not been asked anything about any of it.
 Nobody thanked anybody and nobody forgave anybody on that Thursday. A man offered to stand at a gate and be known, and about four people told him he did not have to, and he said he would do it on the Monday anyway, and nobody has asked him since whether he still means to.**

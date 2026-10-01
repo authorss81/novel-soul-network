@@ -8,9 +8,9 @@ The board for that Tuesday carried ten names and ten dates, and the tenth name w
 
 **The four rooms off that service road and the one behind the other three stand at one thousand four hundred and fifty-seven days, two hundred and eight weeks and one day.**
 
-**Line sixteen is one thousand two hundred and forty-seven days, one hundred and seventy-eight weeks and one day. The post at that corridor end is one thousand and five days, one hundred and forty-three weeks and four days.**
+**Line sixteen is one thousand two hundred and forty-seven days, a hundred and seventy-eight weeks and one day. The post at that corridor end is one thousand and five days, a hundred and forty-three weeks and four days.**
 
-**Eight hundred and thirty-seven days is the separation, one hundred and nineteen weeks and four days, and it is in a one-line box sixteen months old, and nothing in that paragraph has anything to do with any of this.**
+**Eight hundred and thirty-seven days is the separation, a hundred and nineteen weeks and four days, and it is in a one-line box sixteen months old, and nothing in that paragraph has anything to do with any of this.**
 
 ---
 
@@ -165,12 +165,12 @@ Refusals: one, in about four seconds, when a copy of the book was offered instea
 Work: ten, a seal and a scraper, nothing escalated, nothing handed back.
 Charge: thirty-eight pounds, exact.*
 
-*Conditions of the close.* **The green-covered book on the first floor above a line in Saltmarket is on sixty-six lines and the tin beside it is on seventy-three with its lid down, and a hard-backed book of returns taken out of an office in a first district is a third book and is neither of those and neither of those is in that building.
+*Conditions of the close.* **Sixty-six lines are written in that book on the first floor above a line in Saltmarket and sixty-six lines were written in it this morning before anybody asked it for anything, and the tin beside it has seventy-three under its lid and did not open on that Tuesday, and a hard-backed book of returns taken out of an office in a first district is a third book and is neither of those and neither of those is in that building.
 Behind the chair of the woman of about sixty there has been an empty place since a week in the spring. The ninth chair is against that wall with its back to everything in that room and did not move on that Tuesday, and whoever put it there is named on no page of this stretch of days.
-The room under the building in a first district was dark at about eleven on that Tuesday, and is dark, and is not going to be opened in this stretch of days.*
+Beneath a building in a first district there is a room, and at about eleven on that Tuesday it was dark, and it stays dark, and nothing in this stretch of days opens it.*
 
 *What the day did not settle, and the rest of it.* **The register of correct acts that made no difference stood at four at about half past six and stands at four, and an office handing over a book it did not know the contents of is not on that board.
-Eight things are named on this page and no sentence here brings two of them together. The shutter. Nineteen ruled lines carried on a board on two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage fixed to the flank of a counter. A strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down.
+Eight things are named on this page and no sentence here brings two of them together. The shutter. Nineteen ruled lines carried on a board on two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage bolted to the side of that counter. A narrow strip of paper carrying one word. A book in a green cover. A rail that takes two with a card standing on end. A tin, closed.
 A hard-backed book of returns is not the book bound in green and is not the tin and is not the ring binder on the back shelf in the fourth of those four rooms, and the counter in that first district is not the counter the cage is fixed to. This page keeps all four apart because every one of them is named above.
 A rule carrying a date and a name is in force over a different matter and the records behind it stay open to anybody who asks for them. A woman of fifty-three is held on a first floor and the list of that room is inside its door. Nine people who were once in a network are not in this city and have not been asked about any of it.
 Nobody thanked anybody and nobody forgave anybody on that Tuesday. A man in a building said do not thank me and nobody did, and a woman of about thirty-four found about two hundred lines in a book by reading it the wrong way round, and nobody in that building has since been told what those two hundred lines are about.**

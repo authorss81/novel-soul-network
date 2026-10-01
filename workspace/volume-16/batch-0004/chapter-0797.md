@@ -8,7 +8,7 @@ The sheet for that Wednesday carried fourteen names and fourteen dates, and the 
 
 **The rooms off that service road and the one behind the other three are at one thousand four hundred and fifty-eight days, two hundred and eight weeks and two days, and the card on end in the rail by that door is one thousand four hundred and sixty-two days, two hundred and eight weeks and six days.**
 
-**Line sixteen is one thousand two hundred and forty-eight days, one hundred and seventy-eight weeks and two days. Line seventeen is one thousand two hundred and thirty days, one hundred and seventy-five weeks and five days.**
+**Line sixteen is one thousand two hundred and forty-eight days, a hundred and seventy-eight weeks and two days. Line seventeen is one thousand two hundred and thirty days, a hundred and seventy-five weeks and five days.**
 
 ---
 
@@ -104,7 +104,7 @@ He said that this is the sixth thing this month where a person has been the part
 *800.
 Wednesday of week 276, at ten, and the one hundred and second day of this stretch of days. Fourteen names and fourteen dates, the last of them at twenty to five. The shutter came down at ten.
 A stair, and then a first floor above a line in Saltmarket at about half past six. About nine people in that hour and about four of them at the table. The fifty-eighth sitting.
-The count was sixty-three of which fifty-eight, said once, in about nine seconds, in her face, and said by nobody else and written down by nobody.
+The count was sixty-three of which fifty-eight, said once by the woman of about sixty, in about nine seconds, in her face, by nobody else, and written down by nobody.
 The green-covered book stood at sixty-six lines when she came up and stood at sixty-six lines when the last person went down. The tin beside it stood at seventy-three and its lid did not come off.
 The eighth chair had a man of about fifty-three in it and he was asked nothing. The man of about thirty-four came at about ten to seven, which is eleven minutes later than he has ever come.
 Nobody in that room mentioned the practice, the sheet, or the ninth street.

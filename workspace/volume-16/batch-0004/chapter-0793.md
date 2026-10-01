@@ -8,9 +8,9 @@ The board for that Thursday took nine names and nine dates, the last of the nine
 
 **The four rooms off that service road and the one behind the other three stand at one thousand four hundred and fifty-two days, two hundred and seven weeks and three days.**
 
-**Line seventeen is one thousand two hundred and twenty-four days, one hundred and seventy-four weeks and six days. Line eighteen is one thousand one hundred and seventy days, one hundred and sixty-seven weeks and one day.**
+**Line seventeen is one thousand two hundred and twenty-four days, a hundred and seventy-four weeks and six days. Line eighteen is one thousand one hundred and seventy days, a hundred and sixty-seven weeks and one day.**
 
-**The nine hand copies of the front of one page are one thousand and eighteen days, one hundred and forty-five weeks and three days, one corner torn, eight unfinished, and not two of them have ever been laid against each other.**
+**The nine hand copies of the front of one page are one thousand and eighteen days, a hundred and forty-five weeks and three days, one corner torn, eight unfinished, and not two of them have ever been laid against each other.**
 
 ---
 
@@ -154,11 +154,11 @@ Work: nine, a band and a tape, nothing escalated, nothing handed back.
 Charge: nineteen pounds, exact.*
 
 *Conditions of the close.* **The green-covered book on the first floor above that line is on sixty-six lines and the tin beside it is on seventy-three with its lid down, and a sheet rolled into a tube and stood on a shelf in a second district is neither of them and is not in that room.
-Behind the woman of about sixty there is an empty place and it has been empty since a week in the spring. The ninth chair is hard against that wall with its back to everything in the room and did not move on that Thursday, and whoever put it there is named on no page of this stretch of days.
+Nothing has stood behind the woman of about sixty since a week in the spring. The ninth chair is hard against that wall with its back to everything in the room and did not move on that Thursday, and whoever put it there is named on no page of this stretch of days.
 The room beneath a building in a first district stood dark at about eleven on that Thursday, and is still dark, and will not be opened.*
 
-*What the day did not settle, and the rest of it.* **The board of correct acts that changed nothing stood at four in that room at about half past six and stands at four, and three lines left standing on a sheet is not a fifth thing on it.
-The things this page names are kept apart by this page. The shutter. A board on two nails carrying nineteen lines. A folded card across a doorway. A hand copy of the front of a page. A cage fixed to the side of a counter. A strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf. A date added in a district's own hand.
+*What the day did not settle, and the rest of it.* **Nothing was added to that list on that Thursday, and it stood at four before the shutter came down and stands at four now, and three lines left standing on a sheet is not a fifth thing on it.
+The things this page names are kept apart by this page. The shutter. A board on two nails carrying nineteen lines. A folded card across a doorway. A hand copy of the front of a page. A cage fixed to the side of a counter. A strip of paper bearing one word. A book in a green cover. A rail taking two with a card propped upright. A tin, lid down. A ring binder on a back shelf. A date added in a district's own hand.
 The tube that sheet was rolled into is not the tin and is not the rail by that door and is not the binder on the shelf behind the fourth of those four rooms, and this page separates all four because every one of them is named above.
 A dated rule with a name attached to it is in force over a different matter and its records are still open to whoever asks. A woman of fifty-three is held on a first floor and the list is inside that door. Nine people who used to have a network are not in this city and no question has been put to any of them.
 Nobody thanked anybody and nobody forgave anybody on that Thursday. A woman was refused nothing and refused one thing, and a man of twenty-two offered to carry a sheet and was told no in four seconds, and has said since that she was correct.**

@@ -8,9 +8,9 @@ The board for that Tuesday carried eleven names and eleven dates, and the eleven
 
 **The four rooms off that service road and the one standing behind the other three are at one thousand four hundred and fifty days, two hundred and seven weeks and one day.**
 
-**Line sixteen is one thousand two hundred and forty days, one hundred and seventy-seven weeks and one day. What is still owed is one thousand one hundred and forty days, one hundred and sixty-two weeks and six days.**
+**Line sixteen is one thousand two hundred and forty days, a hundred and seventy-seven weeks and one day. What is still owed is one thousand one hundred and forty days, a hundred and sixty-two weeks and six days.**
 
-Eight hundred and thirty days is the separation, one hundred and eighteen weeks and four days, and it is in a one-line box sixteen months old, and it is the one figure in that paragraph with nothing to do with any of this.
+Eight hundred and thirty days is the separation, a hundred and eighteen weeks and four days, and it is in a one-line box sixteen months old, and it is the one figure in that paragraph with nothing to do with any of this.
 
 ---
 
@@ -169,11 +169,11 @@ Work: eleven, a flap and a washer, nothing escalated, nothing handed back.
 Charge: fourteen pounds, exact.*
 
 *Conditions of the close.* **The book in a green cover on a first floor above a line in Saltmarket stands at sixty-six lines and the tin on the same table stands at seventy-three with its lid down, and neither of those two was mentioned in that room.
-There is nothing at the back of the chair of the woman of about sixty and there has been nothing there since a week in the spring. The ninth chair in that room is against that wall with its back to everything in it and did not move on that Tuesday, and its mover is named on no page of this stretch of days.
+Since a week in the spring nothing has stood behind the woman of about sixty. The ninth chair in that room is against that wall with its back to everything in it and did not move on that Tuesday, and its mover is named on no page of this stretch of days.
 Under a building in a first district there is a room that was dark at about eleven on that Tuesday, and is dark now, and is not going to be opened.*
 
-*What the day did not settle, and the rest of it.* **The register of correct acts that made no difference stood at four in that room at about half past six and stands at four, and nine people spending two hours and a half on one sentence is not on it and has not been counted.
+*What the day did not settle, and the rest of it.* **Four correct acts that made no difference to anybody were already in that book before the shutter came down, and they are still four, and nine people spending two hours and a half on one sentence is not on it and has not been counted.
 Ten objects are named on this page and no sentence here brings two of them together. The shutter. A board carrying nineteen ruled lines hung from two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage fixed to the flank of a counter. A narrow strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf.
-A printed sheet pinned to a board by two drawing pins in a corridor in that second district is not the board on two nails and carries no ruled lines, and a hard-backed day book at that counter is not the ring binder on the back shelf and is not the green-covered book and is not the tin, and this page keeps the four apart because all four are named on it.
-A rule with a date and a name on it stands in force over a different matter and the records behind it stay open to anybody who asks. A woman of fifty-three is held on a first floor and the list is fixed to the inside of that door. Nine people who were once part of a network are elsewhere, and no question has reached any of them.
+A printed sheet pinned to a board by two drawing pins in a corridor in that second district is not the board on two nails and carries no ruled lines, and a hard-backed day book at that counter is not the ring binder on the back shelf and is not the green-covered book and is not the tin, and this page keeps the four apart because every one of them is named on it.
+A rule with a date and a name on it stands in force over a different matter and the records behind it stay open to anybody who asks. On a first floor there is a woman of fifty-three, and a list is nailed inside the door of that room, and she has not read down it. Nine people who were once part of a network are elsewhere, and no question has reached any of them.
 Nobody thanked anybody and nobody forgave anybody on that Tuesday. A woman of about forty-eight turned down a suggestion in four seconds and was not thanked for it, and a man of twenty-two had a sentence ready and did not say it, and nobody has asked him for it.**

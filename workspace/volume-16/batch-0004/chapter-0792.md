@@ -8,7 +8,7 @@ The board for that Wednesday carried fourteen names and fourteen dates, and the 
 
 **The rooms off that service road and one behind the other three are at one thousand four hundred and fifty-one days, two hundred and seven weeks and two days, and the card on end in the rail by that door is one thousand four hundred and fifty-five days, two hundred and seven weeks and six days. The rail takes two.**
 
-**Line seventeen is one thousand two hundred and twenty-three days, one hundred and seventy-four weeks and five days. Nine hundred and ninety-nine days is the post at that corridor end, one hundred and forty-two weeks and five days.**
+**Line seventeen is one thousand two hundred and twenty-three days, a hundred and seventy-four weeks and five days. Nine hundred and ninety-nine days is the post at that corridor end, a hundred and forty-two weeks and five days.**
 
 ---
 
@@ -156,7 +156,7 @@ Charge: twenty-three pounds, exact.*
 Nothing has stood behind the chair of the woman of about sixty since a week in the spring. The ninth chair stands against that wall with its back to everything in it and did not move, and nobody is going to be named for having set it there.
 A room under a building in a first district was dark at about eleven that Wednesday and is dark on every night of this stretch of days and will stay shut.*
 
-*What the day did not settle, and the rest of it.* **The count of acts that were correct and made no difference was four in that room at about half past six and is four, and showing a sheet to four people who did not ask to be shown one has not been added to it.
+*What the day did not settle, and the rest of it.* **That board in that room has read four since before this stretch of days began and it reads four now, and showing a sheet to four people who did not ask to be shown one has not been added to it.
 Eleven things are named below and this page keeps every one of them by itself. The shutter. Nineteen ruled lines carried on two nails. A card bent once to hold a door. A hand copy of the front of a page. A cage on the side of a counter. A strip of paper with a single word on it. A book in a green cover. A rail taking two with a card standing on end. A tin, closed. A ring binder on a back shelf. A date at the foot of a notice.
 A sheet turned face up on a table is not the sheet pinned by two drawing pins in that corridor and carries no ruled lines, and the hard-backed day book on that counter is a fourth object and is not the binder on the shelf behind her. This page says so because a reader would join three of these together and about nine people in that room would have been shown the wrong one.
 A rule bearing a date and a name is in force over another matter and what stands behind it has not been closed up. A woman of fifty-three is held on a first floor with a list inside that door. Nine people who once had a network are not in this city and no question has reached any of them.

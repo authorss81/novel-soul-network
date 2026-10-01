@@ -6,9 +6,9 @@
 
 The board for that Monday carried fourteen names and fourteen dates, and the fourteenth name was entered at twenty to five. The shutter came down at ten on that Monday, at the hour it comes down at on every day of this stretch of days.
 
-**That card in a rail that takes two is one thousand four hundred and sixty-seven days, two hundred and nine weeks and four days. Line fifteen is one thousand two hundred and seventy-eight days, one hundred and eighty-two weeks and four days.**
+**That card in a rail that takes two is one thousand four hundred and sixty-seven days, two hundred and nine weeks and four days. Line fifteen is one thousand two hundred and seventy-eight days, a hundred and eighty-two weeks and four days.**
 
-**Line seventeen is one thousand two hundred and thirty-five days, one hundred and seventy-six weeks and three days. The post at that corridor end is one thousand and eleven days, one hundred and forty-four weeks and three days.**
+**Line seventeen is one thousand two hundred and thirty-five days, a hundred and seventy-six weeks and three days. The post at that corridor end is one thousand and eleven days, a hundred and forty-four weeks and three days.**
 
 ---
 
@@ -156,7 +156,7 @@ An empty place at the back of that chair has been there since a week in the spri
 A room under a building in a first district was dark at about eleven on that Monday and is dark and is not going to be opened.*
 
 *What the day did not settle, and the rest of it.* **The register of correct acts that made no difference stood at four on that Monday and stands at four, and two sheets going up side by side on a wall is not on that register and has not been counted on it.
-The things named on this page are named separately and no line here brings two of them together. The shutter. A board carrying nineteen ruled lines hung from two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage on the flank of a counter. A strip of paper with one word on it. A book bound in green. A rail of two with a card on end in it. A tin with its lid down. A ring binder on a back shelf.
+The things named on this page are named separately and no line here brings two of them together. The shutter. A board carrying nineteen ruled lines hung from two nails. A card folded once across a doorway. A hand copy of the front of a page. A cage fixed to the side of a counter. A strip of paper with one word on it. A book in a green cover. A rail of two with a card on end in it. A tin, closed. A ring binder on a back shelf.
 A printed notice held by two crooked drawing pins is not the board on two nails and is not the card folded across a doorway, and a second sheet with four words on it is a fourth object and is not any of the three. This page says so because all four are named above and a reader would join the first two.
 A rule with a date and a name on it is in force over another matter and the records behind it remain open to anybody who asks. A woman of fifty-three is held upstairs, and the list of that room is on the inside of its door. Nine people who once had a network are out of this city and nothing has been put to them.
 Nobody thanked anybody and nobody forgave anybody on that Monday. A date at the foot of a notice is a week off and nobody has asked about it, and the sheet is still on that wall with two pins in it crooked about a quarter of an inch, and about four people in that district have read both sheets.**
