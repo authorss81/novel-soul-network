@@ -112,7 +112,7 @@ A sheet goes on a board in a second district on the first Monday and is read ups
 4. **Automatic universal consent, a permanent merging, or a number that goes up.**
 5. **A claim that any faction is redeemed.** Oren, Iven, Leo, Threadline, the Continuity Office and the district are all changed and none becomes harmless.
 6. **A romantic gesture that erases Talia's independent public role, and any scene in which she saves him.**
-7. **The woman's page read.** The eighth of eight stays in the ring binder, and nobody apologises to her, and the binder does not come out, and it is now two hundred and ninety-nine days at the last page of Movement I.
+7. **The woman's page read.** The eighth of eight stays in the ring binder, and nobody apologises to her, and the binder does not come out, and it is **two hundred and ten days** at the last page of Movement I, Chapter 770. **THE REVIEW REPAIR CORRECTS THIS: it formerly read *two hundred and ninety-nine days*, which was never the figure on any page.**
 8. **A second relay, a chain, a comparison of the nine hand copies, or a panel anywhere but Chapter 775.**
 9. **Any sentence about what the institution is for, and the words `fair`, `unfair`, `justice`, `rightful` and `principle` on all sixty pages, and the word `right` as an adjective on all sixty pages.**
 

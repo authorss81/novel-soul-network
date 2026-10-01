@@ -746,3 +746,63 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 - **The man of about fifty-one's back room was never asked about.**
 - **Nobody thanked anybody and nobody forgave anybody on any of the sixty days.**
 - **Iona Sorn is the last enemy in this manuscript and she is in public custody and she is not absolved and she is on no page of Movement VI.**
+
+---
+
+# CONTINUITY — VOLUME 16 REVIEW REPAIR PASS, AFTER CHAPTER 820. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE
+
+## 1. THE ANCHOR IS NOW GOVERNING AND THE RESERVATION IS CLOSED
+
+**The woman's page — the eighth of eight, in a ring binder on a back shelf since the Wednesday of day 1573 — walks as `day - 1573`. `day - 1578` is withdrawn.** `workspace/volume-15/ARITHMETIC-AND-CALENDAR.md` publishes `day - 1573`; `workspace/volume-16/ARITHMETIC-AND-CALENDAR.md` §0.3 used to re-anchor it to `day - 1578` with no event behind the re-anchor, and that row now reads **1769 - 1573 and 1876 - 1573, 196 days and 303 days.**
+
+**Verified on the files, not on the tables: sixty-one page renderings across all sixty files of Volume 16, all correct against the settled anchor, zero stale.** Chapter 761 prints 196 and Chapter 820 prints 303. No page of the volume prints the five days as a number and no page prints the difference between the two anchors. Volume 15's own sixty pages were correct on Volume 15's arithmetic and were not edited.
+
+**The five-day offset that stood as an open reservation is closed and is no longer carried as a figure-level disagreement.**
+
+## 2. WHAT THE REPAIR CHANGED ON THE PAGE, IN FULL
+
+| File | Site | Was | Now |
+| --- | --- | --- | --- |
+| `chapter-0761.md` | body | for a hundred and ninety-six. | for a hundred and ninety-six **days**. |
+| `chapter-0762.md` | body | for a hundred and ninety-seven, | for a hundred and ninety-seven **days**, |
+| `chapter-0763.md` | body bold | for a hundred and ninety-eight and | for a hundred and ninety-eight **days** and |
+| `chapter-0765.md` | body bold, line 9 | two hundred days and one weeks and four days | two hundred and one weeks and four days |
+| `chapter-0765.md` | docket row, line 140 | two hundred days and one weeks and four days | two hundred and one weeks and four days |
+| `chapter-0765.md` | docket row, line 141 | two hundred days and two weeks and one day | two hundred and two weeks and one day |
+| `chapter-0765.md` | docket rows 13-16 | one thousand two hundred days and eighty-two / forty-seven / twenty-six / one days | one thousand two hundred and eighty-two / forty-seven / twenty-six / one days |
+
+**All six interval figures are exact against their own day figures. Chapter 765 carries nineteen lines that print a figure — three in the body at lines 9, 11 and 13, sixteen in the docket at lines 140 to 155 — and seven of them were damaged and repaired and the other twelve were never touched.**
+
+## 3. THE WALKING RULES THE NEXT PHASE MUST INHERIT
+
+**R7** a cardinal may not contain the word *days* anywhere inside it. **R8** a figure in the one-hundred-and-fifty to four-hundred band which is the whole of its clause must be followed by a unit noun. **R9** every rendering is regenerated from its own figure and compared character for character, in the body form and in the long form. **The standing fixture is the pre-repair Movement I corpus: a walk that returns zero there is broken, and a walk that returns zero there and non-zero on the clean corpus is also broken, in the other direction.**
+
+## 4. FIGURES WITHDRAWN FROM THE RECORD
+
+**The fifteen control figures published at `workspace/volume-16/batch-0006/SUMMARY.md` §0.2 are withdrawn.** They cannot be reproduced, their tokenisation is recorded nowhere in this repository, and the direction of the movement reported for them was impossible. **The earlier count of one hundred and forty correct page sites is also withdrawn and replaced by sixty-one.** **Neither number may be repeated by the volume close.**
+
+## 4A. THE FIGURE THAT LOOKS LIKE A MOVEMENT IS A PROPERTY OF THE TOKENISER, AND THAT IS WHY THE FIFTEEN CONTROL FIGURES ARE GONE
+
+**Any word count in this manuscript is only meaningful with its tokeniser attached, and the tokenisers have not been recorded.** English hyphenates compound tens — *twenty-one*, *thirty-five*, *fifty-five* — and whether *twenty-four* is one token or two changes what a re-anchor appears to do. The cross-volume sweep of batch-0006 rewrote **fifty-eight lines** — seventeen in Movement I and ten, ten, ten and eleven in Movements II to V — and the same sweep gives:
+
+| Movement | Swept lines | Delta, hyphens JOINED | Delta, hyphens SPLIT |
+| --- | --- | --- | --- |
+| I, 761 to 770 | 17 | **+2** | **−1** |
+| II, 771 to 780 | 10 | **0** | **+2** |
+| III, 781 to 790 | 10 | **0** | **+2** |
+| IV, 791 to 800 | 10 | **0** | **0** |
+| V, 801 to 810 | 11 | **0** | **0** |
+
+**Seventeen of the fifty-eight lines move the count under the split tokeniser and four under the joined one.** Eight are in Movements II to V: *sixteen days* to *twenty-one*, *nineteen* to *twenty-four*, *twenty* to *twenty-five*, *thirty* to *thirty-five*, *thirty-five* to *forty*, *forty* to *forty-five*, *fifty* to *fifty-five*, *fifty-five* to *sixty*. Nine are in Movement I: the three deleted *days* on Chapters 761 to 763, four of the seven splices on Chapter 765, and **three that are neither — *a hundred and ninety-five days* to *two hundred days* on Chapter 765, and *a hundred and ninety-eight* to *two hundred and three* and *a hundred and ninety-nine* to *two hundred and four* on Chapters 766 and 767.** Those last three are what turn Movement I's +2 into its −1. Batch-0006's original explanation was that Movements I to III stood two to three words higher. A first correction claimed Movements II to V could not have moved at all. **Both statements were about the tokeniser and neither was about the prose, and the second repeated the first's mistake in the opposite direction.**
+
+**What is tokeniser-independent is the damage: +7 words from seven splices, −3 from three deleted *days*, and −2 from *a hundred and ninety-five days* legitimately becoming *two hundred days* on the settled anchor. Movement I, pre-sweep to post-sweep, is +2 joined and −1 split; pre-sweep to the corpus as it now stands, it is −2 joined and −5 split. Chapter 765 alone is +5/+4 as the sweep left it and −2/−3 as it now stands. Under either tokeniser the whole of the residual is the one legitimate shortening.**
+
+**Standing rule for this manuscript: no word count is published without the tokeniser that produced it. This is the first control figure recorded here that met that rule, and it is recorded as a rule rather than as a result.**
+
+## 5. THE DISPATCH DEFECTS THAT ARE NOT REPAIRABLE FROM A WRITING PHASE
+
+**The review gate did not run for batch-0006 and `reviews/` still ends at `volume-14-batch-0003.md`. `state/phase-ledger.json` still reads `phase-000-bootstrap` and `planned`. Both are controller-owned and are on the do-not-edit list. Both are flagged here so that the close and the next controller inherit them and neither is mistaken for a settled matter.**
+
+## 6. THE THIRTY-TWO SITES THAT ARE DRIFT AND NOT DAMAGE, SO THAT NOBODY REDISCOVERS THEM AS A DISCOVERY
+
+**R9 reports thirty-two sites on Chapters 771 to 790 where the house form and the long form of a weeks figure are the wrong way round for their context.** Every one is arithmetically correct, none was touched by the cross-volume sweep, and none is damage. **They are published rather than mass-edited, deliberately: thirty-two lines of finished prose should not be rewritten to settle a convention the corpus does not hold uniformly, and that is a close's decision and not a repair pass's.** Carried at `state/open-threads.md` item 17. **The settled total from the repaired corpus is zero value defects, zero splices, zero missing unit nouns, and thirty-two published drift sites.**
