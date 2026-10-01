@@ -108,7 +108,7 @@ Nobody told him he was not allowed to say that. A man of about thirty-eight said
 Nine names and nine dates were written up for that Wednesday, the ninth of the dates taken at about twenty to five. The shutter came down at ten. About an hour of that day was a corridor in a building that receives the returns.
 That Wednesday was worth twenty-six pounds, exact.*
 
-*Conditions and docket.* **Callers on that Wednesday: nine. Work carried to it: nine, the ninth entered at about twenty to five. About an hour of it was a corridor in a building in a second district that receives the returns and about two hours of the rest of it were a curtain rail, a closer arm, a spring pocket and a set of outlets.
+*Conditions and docket.* **Callers on that Wednesday: nine. Work carried to it: nine, of which the ninth went in at about twenty to five. About an hour of it was a corridor in a building in a second district that receives the returns and about two hours of the rest of it were a curtain rail, a closer arm, a spring pocket and a set of outlets.
 The four rooms off that service road, one of them behind the other three: one thousand five hundred and fifty-six days, two hundred and twenty-two weeks and two days
 The card upright in the rail beside that door, which takes two: one thousand five hundred and sixty days, two hundred and twenty-two weeks and six days
 The board carried on two nails, line twelve: one thousand four hundred and seventy-six days, two hundred and ten weeks and six days

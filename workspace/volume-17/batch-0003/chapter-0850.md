@@ -102,7 +102,7 @@ A woman of about thirty-four said that the man who keeps the map has looked at i
 Nine names went onto that Friday's sheet and nine dates went with them, the last of the dates at about twenty to five. The shutter came down at about ten. About two hours of that day were a room off that service road.
 That Friday was worth ninety-five pounds, exact.*
 
-*Conditions and docket.* **Callers on that Friday: nine. Work carried to it: nine, the ninth entered at about twenty to five. About two hours of it were that room off that service road and about four hours of the rest of it were a skirting run, a door head, a trench frame and a lock case.
+*Conditions and docket.* **Callers on that Friday: nine. Brought forward to it: nine, the ninth of those entered at about twenty to five. About two hours of it were that room off that service road and about four hours of the rest of it were a skirting run, a door head, a trench frame and a lock case.
 Those four rooms off that service road, and a fifth behind the other three: one thousand five hundred and fifty-eight days, two hundred and twenty-two weeks and four days
 The card standing on end in the rail by that door, which takes two: one thousand five hundred and sixty-two days, two hundred and twenty-three weeks and one day
 The twelfth on the board of two nails: one thousand four hundred and seventy-eight days, two hundred and eleven weeks and one day
