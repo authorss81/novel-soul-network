@@ -8,17 +8,17 @@ The board for that Tuesday carried twelve names and twelve dates, and the twelft
 
 **That card in a rail that takes two is one thousand four hundred and sixty-eight days, two hundred and nine weeks and five days. The nineteen, last line in use, is one thousand one hundred and sixty days, a hundred and sixty-five weeks and five days.**
 
-**The separation is eight hundred and forty-four days, one hundred and twenty weeks and four days, in a one-line box about sixteen months old. Those four rooms and one behind the other three stand at one thousand four hundred and sixty-four days, two hundred and nine weeks and one day.**
+**The separation is eight hundred and forty-four days, a hundred and twenty weeks and four days, in a one-line box about sixteen months old. Those four rooms and one behind the other three stand at one thousand four hundred and sixty-four days, two hundred and nine weeks and one day.**
 
 ---
 
 **The thing nobody had said out loud, on that Tuesday, in that room or in any other room in this city, is what the four words are about.**
 
-They are four words and they are on a sheet and on a wall in a corridor in a second district, and they say a day and they do not say a thing. It has been eleven days since they were written on the back of a docket sheet and they are in nine mouths in that district and nobody has counted the mouths and nobody has been asked to.
+They are four words and they are on a sheet and on a wall in a corridor in a second district, and they say a day and they do not say a thing. It has been fourteen days since they were written on the back of a docket sheet and they are in nine mouths in that district and nobody has counted the mouths and nobody has been asked to.
 
-A man of about thirty-four said in nine seconds, standing at the window end of that room, that he had been waiting eleven days for somebody to put the question the way it actually goes, and that it does not go as what are they about, and that it goes as what is being taken off me.
+A man of about thirty-four said in nine seconds, standing at the window end of that room, that he had been waiting fourteen days for somebody to put the question the way it actually goes, and that it does not go as what are they about, and that it goes as what is being taken off me.
 
-He said the second of those was the question four hundred people would actually ask, and that the first one was the question the district was asking each other in shops, and that the two had been in the same corridor for eleven days with nothing on the wall about which of them was which.
+He said the second of those was the question four hundred people would actually ask, and that the first one was the question the district was asking each other in shops, and that the sheet had been in that same corridor for one day with nothing on the wall about which of them was which.
 
 Nobody in that room asked him which of the two he was for, because he had said both, and because a man who says both in nine seconds has already spent the whole of the nine.
 
@@ -26,7 +26,7 @@ Nobody in that room asked him which of the two he was for, because he had said b
 
 **And then a woman of about twenty-nine, who had said the true thing about this on the Friday before, was in that room, and she had not been asked to be, and she said the rest of it in nine seconds.**
 
-"**Nobody has written the second half,**" she said. "**That is the whole of what has happened in eleven days. Four words and a date and no second half, and four hundred people are going to read the four words and then ask the person they asked what it is that ends.**"
+"**Nobody has written the second half,**" she said. "**That is the whole of what has happened in fourteen days. Four words and a date and no second half, and four hundred people are going to read the four words and then ask the person they asked what it is that ends.**"
 
 A man of about thirty-eight said that was the point of the four words, and that a date which carries a reason with it is a thing four hundred people can argue about on a Tuesday, and that this was argued about on the Tuesday it was written and had been argued about since, and that was the work.
 
@@ -62,7 +62,7 @@ A man of about fifty-two who was on the stair that evening said that the woman o
 
 **And the question of who was carrying the four words got answered on that Tuesday by nobody, and two people said afterwards that a room which has a question in it is different from a room which has an answer in it, and that neither of those is the same as a room with somebody's name on the thing.**
 
-A woman of about thirty-four said in nine seconds that the four words belonged to nobody and that this had been established eleven days ago and that it was the only good thing anybody had done about them.
+A woman of about thirty-four said in nine seconds that the four words belonged to nobody and that this had been established four days ago and that it was the only good thing anybody had done about them.
 
 A man of about thirty-eight said that a sentence with nobody's name on it is a sentence four hundred people can be angry at, and that a named person's sentence is a sentence four hundred people have to be angry about somebody for, and that the second kind does not travel a street.
 
@@ -143,13 +143,13 @@ What is still owed: one thousand one hundred and fifty-four days, one hundred an
 The post at that corridor end: one thousand and twelve days, one hundred and forty-four weeks and four days.
 The nine hand copies of the front of one page: one thousand and thirty days, one hundred and forty-seven weeks and one day, one corner torn, eight unfinished, not two compared.
 The separation: eight hundred and forty-four days, one hundred and twenty weeks and four days, in a one-line box about sixteen months old.
-That flat: four names on the tenancy, the heat not turned down since the autumn, and a door closer with a folded card taken out from under its weight and a floor spring cleaned and adjusted.
+That flat: four names on the tenancy, the heat not turned down since the autumn, a closer with a folded card taken out from under its weight and a floor spring cleaned and adjusted.
 Refusals: none asked and none given. Nobody was asked to write down the second half and nobody wrote it down.
 Work: twelve, a weight and a plate and a spindle, nothing escalated, nothing handed back.
 Charge: nineteen pounds, exact.*
 
 *Conditions of the close.* **The book bound in green on that first floor stands at sixty-six lines. The tin on the same table is at seventy-three and its lid is down. A sheet on a corridor wall in that second district is neither of those and is not in that room.
-Behind the woman of about sixty is a place that has stood empty since a week in the spring. The ninth chair in that room is against that wall with its back to everything in it, and it did not move on that Tuesday, and nobody has said who moved it.
+Behind the woman of about sixty is a place that has stood empty since a week in the spring. That chair in her room still has its back to the wall and to everything else in it, it did not move on that Tuesday, and nobody has said who put it there.
 A room under a building in a first district was dark at about eleven on that Tuesday, is dark, and is not going to be opened.*
 
 *What the day did not settle, and the rest of it.* **That register stood at four on that Tuesday and stands at four, and giving a missing sentence a name is not on it and has not been counted on it.

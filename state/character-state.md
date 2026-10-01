@@ -575,3 +575,72 @@ Everything below this block is history and is kept for the arithmetic, not for t
 **THE OBSERVER-CLASS FIGURE IS UNCHANGED AND IT IS STILL THE ONE THAT IS ABOUT PEOPLE: ZERO IN TEN BODIES, against Movement III's two, Movement I's twenty and Movement II's eighty-five, under the rule printed at `workspace/volume-16/batch-0004/SUMMARY.md` §3.2.** Nineteen spent ages stand in these bodies and none was cut, and a spent age is canon while the observer class is a free narrative choice. **The bold-word share is 40.3 per cent and it is the number the ledger share is blind to, and it is about the form rather than about anybody in it: those 9,308 words are section headings and the load book's own rows, and the people in them are named actors rather than counted observers.**
 
 **THE ONE CHARACTER-LEVEL RECOMMENDATION THE REVIEW MAKES IS ABOUT TIME, NOT PEOPLE.** The volume's two time formulas — *in nine seconds* and *in four seconds* — are a motif the plan of record writes five times across the movement outlines, **so they are how this volume's characters speak and not a mannerism that slipped in.** They run at 60 and 28 in this movement against 40 and 34, 65 and 23, and 66 and 27 in the three before it. **The mechanical part was the comma frame rather than the phrase and five of its eighteen instances were varied. `Nobody thanked anybody` runs at 23 against 19, 16 and 20, and it is the movement's most-repeated sentence about people and every one of the twenty-three is a statement that nothing happened, which is why it was not touched.**
+
+---
+
+# LIVE — MOVEMENT V OF VOLUME 16, CHAPTERS 801 TO 810. DATED AFTER EVERYTHING ABOVE, WHICH IS ARCHIVE AND NOT STATE
+
+## THE MAN OF ABOUT THIRTY-FOUR — the lead, the night-shift repairer
+
+- **Said the eleven words out loud once, on Chapter 810, at about ten past five on the Friday of day 1836, at the end of a table and not to anybody in particular and not to a face. He refused first, in nine seconds, and the reason he gave was that he is the person every one of about four hundred people knows and that this is a thing a person can refuse and that refusing is not a fault.** He credited the argument to a man of about thirty-eight who made it fifteen days earlier and got no thanks, and he said that a woman of about thirty-four told that room the opposite on the same day and was right about that too.
+- **He said in four seconds that a thing he has been carrying for about eleven years was easier to carry that Sunday, and did not say what the thing was.** The thing is a four-foot rule with a strip of card taped along its edge. **He carries nothing else: no sheet, no binder, no docket, and he did not carry the four words.**
+- **He found the second half in about forty minutes on Chapter 809 and put it on the back of a fresh docket sheet in the inside of a docket book, where the drawing of nine streets is not, because the drawing is on a different page and he would not have them read as a pair.**
+- **Nobody thanked him.** He said in four seconds that thanking him would be a second thing to carry. **Nobody forgave anybody and he did not ask to be.**
+- **The register of correct acts that made no consequence did not move on any of his ten days and he is not on it.**
+
+## THE WOMAN OF ABOUT THIRTY-EIGHT — the counter at the gate of a yard for metal
+
+- **Offered on Chapter 802 to walk past the gate on the Friday and say four words to the man who locks it, and gave a reason of her own: four seconds is what she weighs metal for, four words take four seconds, and anything longer than that in a gateway is a speech.** She said she walks past at ten past six every morning and has done for four years, and that if it is arranged now it can be unarranged now, and that a person does not have to be asked to stop doing a thing she has done for four years.
+- **Said it anyway on Chapter 804, in about four seconds, and did not stop walking, and nobody asked her to stop.** She said she had not thought about the argument because the argument was about a different Friday, and that this man was not in a gateway but on the step with his coat half on.
+- **She is a RETURN, not a spend: Movement IV's own summary lists her among the returns.** She is not thanked, not rescued, not followed, has no follower, and nobody thanked her on the Friday she said it or on the Wednesday she offered.
+
+## THE WOMAN OF ABOUT THIRTY-FOUR WHO KEEPS A HAULIER'S BOOKS
+
+- **Is not in this movement's gate business and does not appear in it.** The argument that a person who says a thing on a bus says it wrong, and a person who says it standing in a gateway at six in the morning does not, is hers and it was made on Movement IV's Chapter 793 and it is not restated by anybody on these ten pages.
+- **She is quoted on Chapter 806 saying that the only thing that changed is that somebody was told in advance, and that it changed on the Friday of that week at about ten past six, by a person walking past.**
+- **She is quoted on Chapter 810 as having told that room on Chapter 798 that nobody in that room is going to be known for saying four words, and the man of about thirty-four says she was right about that as well.**
+
+## THE MAN OF ABOUT THIRTY-EIGHT
+
+- **Made the argument on Movement IV's Chapter 798 that a man who carries a sentence into a district where he is known becomes that district's man in about four hundred days whether he meant to or not, and he has STILL NOT BEEN ASKED whether he is going to stand at a gate, and he has now had about a month.**
+- **His argument is credited to him on Chapter 810 by a man who had not thought of it and who says he got no thanks for it either. He is one of the four people holding the practice on Chapter 807 and he has said no.**
+- He is not thanked and not forgiven and neither is anyone else.
+
+## THE WOMAN OF ABOUT SIXTY-ONE
+
+- **Resigned a body of about nine chairs on Chapter 803, before the question was finished, over the sentence and not over the notice, and gave a reason about a room and not about a district: she has been in that room nineteen years and has never once seen anybody leave it, and a body which cannot lose anybody is not a body.**
+- **She is not thanked and nobody asked her to stay, and two people in that room have said that they wanted to and did not.** A man of about fifty-two said nobody agreed with her because a body of about nine people agrees with things on the basis of whether it can carry them, and said he is saying something about the body and not about her reason.
+- **She is a RETURN: she appeared once on a page, in Movement II's Chapter 772, and not again until this movement.** She does not spend a supporting-cast slot.
+
+## THE MAN OF ABOUT TWENTY-TWO
+
+- **Was in a room or a yard on all ten days and was not asked to carry, sign, keep, open or resign anything.** He offered to carry the four words on a Thursday three weeks ago and was refused in four seconds for a reason that was true, and the man who refused him has now done the thing he offered to do and refused it first.
+- **On Chapter 805 he held the length of a fence post while it was set. THE RULING IS ON THE RECORD: that is site work, not the carrying of a document, and it is not a carry within the meaning of the guardrail.**
+- He keeps a private count on two of the ten days and told nobody.
+
+## THE MAN OF ABOUT FIFTY-TWO
+
+- **Said on Chapter 807 that a habit does not stop on a Tuesday, and gave a figure of about nine weeks which he has costed himself and has not shown anybody.** It is in about nine mouths, agreed by nobody, on no page.
+- **Said on Chapter 805 that a thing getting easier is a thing people say to each other in a yard and mean nothing by, and that the man of about thirty-four did not believe him.**
+- He bought four feet of chain on Chapter 806 and said nothing about a district and has said nothing about one since.
+
+## THE WOMAN OF ABOUT THIRTY AT HER CHAIR, HER DOOR SHUT
+
+- **Is in the fourth of those four rooms from half past six on all ten days with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and forty-eight to two hundred and fifty-eight days and has not been read.** She was not asked anything on any of the ten days. **The binder is shut on all ten and the page behind it is unread on all ten and she is not a category.**
+
+## THE WOMAN OF ABOUT TWENTY-NINE
+
+- **Said on Chapter 801, unasked, that nobody has written the second half, and that the second half is the whole of it, and that it is not one sentence and it is not four words.** She had said on Chapter 799 that the four words say when and not what and that about four hundred people are going to ask what. **Nobody wrote it down on the Tuesday and nobody asked her to be in that room.**
+- She is not thanked.
+
+## THE MAN OF ABOUT TWENTY-NINE AND THE WOMAN OF ABOUT SIXTY, THE WOMAN OF ABOUT FORTY-EIGHT, THE MAN OF ABOUT FIFTY-ONE, THE MAN OF ABOUT FIFTY-THREE, THE WOMAN OF ABOUT THIRTY-ONE
+
+- **None of them appears on any of these ten pages.** The woman of about sixty holds the room the ninth chair stands against; the woman of about forty-eight keeps the register; the man of about fifty-one is against a north wall; the man of about fifty-three has sat in the eighth chair. **None of them was asked anything and none of them spoke.**
+
+## IVEN SORE
+
+- **Is on no page of this movement, and `outline/volume-16.md` does not put him here.** He is not redeemed, not made larger and not forgiven by a movement that does not mention him.
+
+## EVERYBODY
+
+- **Nobody thanked anybody and nobody forgave anybody on any of the ten days, at forty-six sites, every one of them a negation or a statement that it did not happen.** No person was forgiven and no person asked to be forgiven. **The register of correct acts that made no consequence stood at four on all ten days and stands at four.**

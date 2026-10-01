@@ -6,7 +6,7 @@
 
 The board for that Monday carried fourteen names and fourteen dates, and the fourteenth name was entered at ten to five. The shutter came down at ten on that Monday, at the hour it comes down at on every day of this stretch of days except one.
 
-**Those four rooms and one behind the other three stand at one thousand four hundred and seventy days, two hundred and ten weeks to the day. Line sixteen is one thousand two hundred and sixty days, one hundred and eighty weeks to the day, and the nine hand copies of the front of one page are one thousand and thirty-six days, one hundred and forty-eight weeks to the day.**
+**Those four rooms and one behind the other three stand at one thousand four hundred and seventy days, two hundred and ten weeks to the day. Line sixteen is one thousand two hundred and sixty days, a hundred and eighty weeks to the day, and the nine hand copies of the front of one page are one thousand and thirty-six days, a hundred and forty-eight weeks to the day.**
 
 ---
 
@@ -28,11 +28,11 @@ He said that if nobody says the true thing about a date that has already failed,
 
 ---
 
-**And a woman of about thirty-four said in nine seconds that the difference was that somebody had been told in advance, and that being told in advance is the only thing that has changed, and that it changed on the Friday before last at about a quarter to seven in a morning, by a person walking past.**
+**And a woman of about thirty-four said in nine seconds that the difference was that somebody had been told in advance, and that being told in advance is the only thing that has changed, and that it changed on the Friday of that week at about ten past six in a morning, by a person walking past.**
 
 She said that no such thing had happened before the spring date. She said that on the spring date four hundred people in that district woke up on a Tuesday and found out, and that the whole of what they did about it was nothing, and that this is not a criticism of them.
 
-She said that this time one man was told a week before, by a woman who does not work for anybody and who was not asked and who was not thanked, and that that man repeated the date correctly once and has not been asked since.
+She said that this time one man was told three days before, by a woman who keeps a haulier's books and who was not asked and who was not thanked, and that that man repeated the date correctly once and has not been asked since.
 
 A man of about thirty-eight said that one man is not four hundred people, and that she had said that herself at some point in a fortnight, and that she had said it in a room and not in a gateway.
 
@@ -88,9 +88,11 @@ Forty-four pounds. He told the man that a step is not a paving slab and that a s
 
 ---
 
-**And a standpipe in the same yard had been left with a drain cock a quarter turn open since the spring, which was found on the Friday and was reported and is on nobody's list, and it is put here because it is not anybody's fault and because it is on nobody's list either.**
+**And a rainwater pipe on the front of that workshop had been running down the brickwork for about four years and had been called a downpipe, and it was not one, and it is put here because nobody had ever looked at it.**
 
-He closed it and put a new washer at each end and told the man that a drain cock a quarter turn open is the commonest thing in this city that nobody writes down, and that four yards in that district have one open at this moment.
+A pipe that runs down a face instead of into a gutter is a length of waste pipe laid against a wall to make a hole go away, and four years of that is four years of water going into the wall. He took it off, cut the head off the hopper at the top, fitted a downpipe of the size the hole wanted and a hopper and a shoe, and ran a bracket line up the wall to a gutter that was six feet higher than it had been drawn.
+
+Nineteen pounds. He told the man that a pipe that runs down a wall is a hole that has been painted, and that four frontages on that street have one, and that the wall behind one of them has been wet for so long that the plaster has come off in sheets.
 
 ---
 
@@ -123,10 +125,10 @@ He bought four feet of chain and a shackle and paid for both and went out, and t
 Monday of week 278, at ten, and the one hundred and eleventh day of this stretch of days. Fourteen names and fourteen dates, the fourteenth at ten to five. The shutter came down at ten.
 The second date at the foot of that district's own notice arrived and the district went. Four hundred people went with it.
 A room off a road in that second district was open from about five and about nine people came and about four stayed. The first thing said in it was that the date at the top of that notice came and went in the spring and nothing happened.
-A woman of about thirty-four said in nine seconds that the only thing that has changed is that one man was told in advance, and that it changed on the Friday before last by a person walking past.
-The charge for the Monday was forty-four pounds, exact. Nobody thanked anybody and nobody forgave anybody on that Monday, and nothing was taught or shown or assessed to anybody in any room in this city.*
+A woman of about thirty-four said in nine seconds that the only thing that has changed is that one man was told in advance, and that it changed on the Friday of that week by a person walking past.
+The charge for the Monday was twenty-six pounds, exact. Nobody thanked anybody and nobody forgave anybody on that Monday, and nothing was taught or shown or assessed to anybody in any room in this city.*
 
-*Conditions and docket.* **Callers that Monday: fourteen. Work dated on that Monday: fourteen, the last name entered at ten to five. About an hour of that Monday was a room off a road in that second district and about an hour and a half of the rest were a flag bracket and four steps.
+*Conditions and docket.* **Callers that Monday: fourteen. Work dated on that Monday: fourteen, the last name entered at ten to five. About an hour of that Monday was a room off a road in that second district and about four hours of the rest were a flag bracket, four steps, a downpipe and a shutter guide.
 Rooms off that service road, four of them and one behind: one thousand four hundred and seventy days, two hundred and ten weeks to the day.
 That card in a rail that takes two: one thousand four hundred and seventy-four days, two hundred and ten weeks and four days.
 Line twelve: one thousand three hundred and ninety days, one hundred and ninety-eight weeks and four days.
@@ -143,14 +145,14 @@ What is still owed: one thousand one hundred and sixty days, one hundred and six
 The post at that corridor end: one thousand and eighteen days, one hundred and forty-five weeks and three days.
 The nine hand copies of the front of one page: one thousand and thirty-six days, one hundred and forty-eight weeks to the day, one corner torn, eight unfinished, not two compared.
 The separation: eight hundred and fifty days, one hundred and twenty-one weeks and three days, in a one-line box about sixteen months old.
-That flat: four names on the tenancy, the heat not turned down since the autumn, an open joint grouted on a concrete post and four steps taken up and relaid on mortar.
+That flat: four names on the tenancy, the heat not turned down since the autumn, an open joint grouted on a concrete post, four steps taken up and relaid on mortar, a false downpipe replaced with a hopper and a shoe, and a shutter guide shimmed back into true.
 Refusals: none asked and none given. Nobody asked a man of about thirty-four not to say that a date which has already failed means nothing, and he said that he was not saying it to score a point.
-Work: fourteen, a bracket and four steps, nothing escalated, nothing handed back.
-Charge: forty-four pounds, exact.*
+Work: fourteen, a bracket, four steps, a downpipe and a shutter guide, nothing escalated, nothing handed back.
+Charge: twenty-six pounds, exact.*
 
 *Conditions of the close.* **That first floor above a line in Saltmarket holds a book bound in green, on sixty-six lines, and a tin on the same table at seventy-three with its lid down, and neither of those two numbers has anything to do with a district leaving.
 Behind the woman of about sixty a place has stood empty since a week in the spring, and a chair is standing in a passage in a second district which is not that place. The ninth chair is against a wall with its back to everything in the room and did not move on that Monday.
-A room under a building in a first district was dark at about eleven on that Monday and is dark and is not going to be opened.*
+Under a building in a first district there is a room, and at about eleven on that Monday there was no light in it, and there is no light in it now, and nobody is going to put one there.*
 
 *What the day did not settle, and the rest of it.* **The register of correct acts that made no consequence stood at four on that Monday and stands at four, and a district leaving is not on that register and was never going to be, and four hundred people leaving is not a correct act with no consequence.
 The objects here are named separately and no sentence in this block joins two of them. The shutter. A board hung on two nails and carrying nineteen ruled lines. A card, folded once, across a doorway. A hand copy of the front of a page. A cage screwed to the side of a counter. A strip of paper, cut narrow, one word on it. A book bound in a green cover. A rail of two with a card standing in it. A tin, with the lid down. A ring binder, on a shelf at the back.

@@ -24,7 +24,7 @@ He was on that post from about half past six in the morning until half past four
 
 ---
 
-**And the thing he has been carrying for about eleven years is a plate of iron with four slots cut in it, and it came up that day because he was standing in a yard with a shovel in his hand and nothing in his head.**
+**And the thing he has been carrying for about eleven years is a four-foot rule with a strip of card taped along its edge, and it came up that day because he was standing in a yard with a shovel in his hand and nothing in his head.**
 
 He did not say what it was. He said, in four seconds, to a man of about fifty-two who was there to buy six feet of wire, that it was easier, and that it had been easier for four months, and that he had not said so to anybody.
 
@@ -42,7 +42,7 @@ A woman of about thirty-four said in nine seconds that a figure of nine is the f
 
 A man of about thirty-eight said that the yard was open, and that a yard at a weekend is the only place in that district where a person who has decided nothing is standing next to nine people who have decided something, and that this is a fact about yards and not about sentences.
 
-**Nobody counted anything. Two people in that district said afterwards that counting it would be the first sensible thing anybody does and two said it would be the end of it, and both of those have been said on every day of this stretch of days and neither has been acted on.**
+**Nobody counted anything. Two people in that district said afterwards that counting it would be the first sensible thing anybody does and two said it would be the end of it, and neither of those two has been acted on and nobody has said which of them they would rather be right about.**
 
 ---
 
@@ -139,7 +139,7 @@ The hold on nine crates and the floor they stand on: one thousand one hundred an
 The man of about fifty-one against that north wall: one thousand and seventy-five days, one hundred and fifty-three weeks and four days.
 What is still owed: one thousand one hundred and fifty-nine days, one hundred and sixty-five weeks and four days.
 The post at that corridor end: one thousand and seventeen days, one hundred and forty-five weeks and two days.
-The nine hand copies of the front of one page: one thousand and thirty-five days, a hundred and forty-seven weeks and six days, one corner torn, eight unfinished, not two compared.
+The nine hand copies of the front of one page: one thousand and thirty-five days, one hundred and forty-seven weeks and six days, one corner torn, eight unfinished, not two compared.
 The separation: eight hundred and forty-nine days, one hundred and twenty-one weeks and two days, in a one-line box about sixteen months old.
 That flat: four names on the tenancy, the heat not turned down since the autumn, and a gate post cut off below the rot and re-set with the concrete below the ground line.
 Refusals: none asked and none given. Nobody told anybody anything that day and nobody was told anything.

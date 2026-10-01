@@ -6,11 +6,11 @@
 
 The board for that Wednesday carried eleven names and eleven dates, and the last name was entered at twenty to five. The shutter came down at ten on that Wednesday, at the hour it comes down at on every day of this stretch of days except one.
 
-**Line eighteen is one thousand one hundred and ninety days, one hundred and seventy weeks to the day. The man of about fifty-one against that north wall is one thousand and seventy-eight days, one hundred and fifty-four weeks to the day. What is still owed is one thousand one hundred and sixty-two days, one hundred and sixty-six weeks to the day.**
+**Line eighteen is one thousand one hundred and ninety days, a hundred and seventy weeks to the day. The man of about fifty-one against that north wall is one thousand and seventy-eight days, a hundred and fifty-four weeks to the day. What is still owed is one thousand one hundred and sixty-two days, a hundred and sixty-six weeks to the day.**
 
 ---
 
-**The thing that happened on that Wednesday is that a chair stood empty in a room in which about nine people had been sitting about nine days earlier, and nobody moved it, and the room spent an hour on why.**
+**The thing that happened on that Wednesday is that a chair stood empty in a room in which about nine people had been sitting about a fortnight earlier, and nobody moved it, and the room spent an hour on why.**
 
 Nine people went up that stair between half past six and seven. Eight chairs were used. The ninth stood against the wall where it had stood for nineteen years and it stood empty for about an hour and it is still there.
 
@@ -68,7 +68,7 @@ A stack of chairs in a hall is a thing nobody looks at until somebody has to mov
 
 He took the stack apart, put the frames out in a row, and found that about four chairs had been stacked one leg in and one leg out of line, so that every fourth chair carried the weight of the ones on it.
 
-He re-stacked them with all the legs facing the same way, which is a thing about nine seconds of work, and then went round and re-glued and re-drew four loose legs, which is not.
+He re-stacked them with all the legs facing the same way, which took about nine seconds, and then went round the whole stack again and re-glued and re-drew four loose legs, which took most of an hour and was the actual work.
 
 Fifteen pounds. He told the man that a stack is a structure and not a heap, and that a stack put together with the legs crossed carries about four times the load on four chairs than it should, and that four stacks in that district are stacked like that.
 
@@ -124,7 +124,7 @@ He told the man that a door on two screws is not a door anybody chose and is a d
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and fifty-six days and has not been read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the shelf at the back of that room and has been there two hundred and fifty-six days, and nobody has opened it.**
 
 ---
 

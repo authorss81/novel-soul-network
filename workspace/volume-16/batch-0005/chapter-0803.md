@@ -6,9 +6,9 @@
 
 The board for that Thursday carried eleven names and eleven dates, and the last of the eleven was entered at ten to five. The shutter came down at ten on that Thursday, at the hour it comes down at on every day of this stretch of days except one.
 
-**That card in a rail that takes two is one thousand four hundred and seventy days, two hundred and ten weeks to the day. Line twelve is one thousand three hundred and eighty-six days, one hundred and ninety-eight weeks to the day.**
+**That card in a rail that takes two is one thousand four hundred and seventy days, two hundred and ten weeks to the day. Line twelve is one thousand three hundred and eighty-six days, a hundred and ninety-eight weeks to the day.**
 
-**Line thirteen is one thousand three hundred and thirty-seven days, one hundred and ninety-one weeks to the day. Line fifteen is one thousand two hundred and eighty-one days, one hundred and eighty-three weeks to the day. The hold is one thousand and ninety-nine days, one hundred and fifty-seven weeks to the day, in the second of the four towns.**
+**Line thirteen is one thousand three hundred and thirty-seven days, a hundred and ninety-one weeks to the day. Line fifteen is one thousand two hundred and eighty-one days, a hundred and eighty-three weeks to the day. The hold is one thousand and ninety-nine days, a hundred and fifty-seven weeks to the day, in the second of the four towns.**
 
 ---
 
@@ -30,7 +30,7 @@ She said the sentence is four words and a date. She said she has been in that ro
 
 Nobody in that room said that she had it wrong. Nobody in that room said the other thing either, and about two of them have said since that this was the correct thing to do and that they have been doing it for nineteen years.
 
-A man of about fifty-two said that the reason nobody agreed with her was not that her reason was thin, and that her reason was the best one anybody had given that room in two years, and that a body of about nine people agrees with things on the basis of whether it can carry them, and that this one could not carry it, and that this is not the same as the reason being a bad one.
+A man of about fifty-two said that nobody agreed with her because a body of about nine people agrees with things on the basis of whether it can carry them, and that this one could not carry this one, and that he is not saying anything about the reason and is saying something about the body.
 
 ---
 
@@ -42,7 +42,7 @@ She said that in nineteen years she has never once seen anybody leave that body.
 
 She said that nobody resigns from it. She said that people stop coming and are replaced and the replacing is done by two people who both of whom turn up, and that a body which cannot lose anybody is not a body, and that it is a set of chairs and a habit and a building somebody's rent.
 
-**She said that she has been the second-oldest thing in that room for nineteen years and that she is now the oldest thing in it and that this is not a reason to go and that it is the only reason anybody gave.**
+**She said that she has been the second-oldest thing in that room for nineteen years and that she is now the oldest thing in it, and that this is not the reason, and that the reason is what was said before this and nobody in that room wrote it down.**
 
 ---
 

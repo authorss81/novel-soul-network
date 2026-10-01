@@ -614,3 +614,73 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 **THE MEASUREMENT LAYER WAS REPRODUCED FROM OUTSIDE THIS REPOSITORY'S WRITING PASSES FOR THE FIRST TIME ON THIS BATCH, and every figure held to the third decimal: body 23,085, apparatus 11,831, share 33.884, the per-file spread 30.575 to 39.534, the shared-run figures 28 on bodies and 30 whole-file against a target of 31, zero duplicated whole sentences of twelve tokens or more at either scope against this movement or against Movements I to III, zero Arabic digits in any body and ninety digit-characters on the ten files in all, zero prohibited terms across thirty-three words and three phrases, zero month names on the capitalised boundary, `right` once and anatomical on 791, `ring` thirteen times and all thirteen inside `ring binder`, zero odd delimiter runs and zero doubled full stops.** **An independently written day-and-week parser returned zero mismatches across 130 parsed triples on the repaired files, after its own generator was asserted on seventeen known readings first — one of which, the elided house form `a hundred and seventy-seven`, failed on the first run and is the third recorded failure of that class in this repository.**
 
 **THE FIGURES A LATER MOVEMENT MUST CARRY ARE UNCHANGED: 34,916 words, a share of 33.884 and a hedge of 19.407, reproducible only on a harness that excludes the H1 and takes the apparatus from the italic load-book entry line to end of file.** The control run at §4 returned all twelve figures across all four movements exactly after both repairs. **The two new figures a later movement may wish to carry are the bold-word share, 40.3 per cent of Movement IV's bodies at 9,308 of 23,085, which the ledger share cannot see, and the shape of the two time formulas after this repair: thirteen instances of the comma frame `, in nine seconds,` and ten of the bare form `said in nine seconds that`, against eighteen and one before it.**
+
+---
+
+# LIVE — MOVEMENT V OF VOLUME 16 WRITTEN, REPAIRED, REVIEWED AND HANDED ON. DATED AFTER EVERYTHING ABOVE, WHICH IS ARCHIVE AND NOT STATE
+
+## 1. THE DAY MAP, AND IT HAS THE ONE GAP THIS VOLUME HAS
+
+| Ch | Wk | Day | Day no. | Weekday | Entry | Counter |
+| --- | --- | --- | --- | --- | --- | --- |
+| 801 | 277 | 1 | 1826 | Tuesday | 804 | one hundred and sixth |
+| 802 | 277 | 2 | 1827 | Wednesday | 805 | one hundred and seventh |
+| 803 | 277 | 3 | 1828 | Thursday | 806 | one hundred and eighth |
+| 804 | 277 | 4 | 1829 | Friday | 807 | one hundred and ninth |
+| — | — | — | **1830** | **Saturday — carries no chapter** | — | — |
+| 805 | 277 | 5 | 1831 | **Sunday — the only Sunday of this volume** | 808 | one hundred and tenth |
+| 806 | 278 | 1 | 1832 | Monday | 809 | one hundred and eleventh |
+| 807 | 278 | 2 | 1833 | Tuesday | 810 | one hundred and twelfth |
+| 808 | 278 | 3 | 1834 | Wednesday | 811 | one hundred and thirteenth |
+| 809 | 278 | 4 | 1835 | Thursday | 812 | one hundred and fourteenth |
+| 810 | 278 | 5 | 1836 | Friday | 813 | one hundred and fifteenth |
+
+**The span is ten days across ten chapters and the day steps are 1, 1, 1, 2, 1, 1, 1, 1, 1.** The set of (entry − chapter) is **{3}** on all ten rows. **The shutter comes down at about ten on nine of the ten days and at about two on Chapter 805, in its own words.** The Exchange's four sittings in this volume are the Wednesdays of weeks 272, 276, 280 and 284; Chapters 802 and 808 are the two Wednesdays of this movement, **neither is a sitting, no count is printed on either, and neither Wednesday is described as anything at all.** The fifty-ninth sitting is at Chapter 813 and the book opens at it.
+
+## 2. THE FIGURES, ALL SIXTEEN CONDITIONS-ROW SERIES PLUS THE PAGE, ALL RE-DERIVED FROM CALENDAR §2
+
+| Ch | Room | Card | L12 | L13 | L14 | L15 | L16 | L17 | L18 | 19 | Hold | 51 | Ask | Post | Copies | Sep | Page |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 801 | 1464 | 1468 | 1384 | 1335 | 1300 | 1279 | 1254 | 1236 | 1182 | 1160 | 1097 | 1070 | 1154 | 1012 | 1030 | 844 | **248** |
+| 802 | 1465 | 1469 | 1385 | 1336 | 1301 | 1280 | 1255 | 1237 | 1183 | 1161 | 1098 | 1071 | 1155 | 1013 | 1031 | 845 | **249** |
+| 803 | 1466 | 1470 | 1386 | 1337 | 1302 | 1281 | 1256 | 1238 | 1184 | 1162 | 1099 | 1072 | 1156 | 1014 | 1032 | 846 | **250** |
+| 804 | 1467 | 1471 | 1387 | 1338 | 1303 | 1282 | 1257 | 1239 | 1185 | 1163 | 1100 | 1073 | 1157 | 1015 | 1033 | 847 | **251** |
+| 805 | 1469 | 1473 | 1389 | 1340 | 1305 | 1284 | 1259 | 1241 | 1187 | 1165 | 1102 | 1075 | 1159 | 1017 | 1035 | 849 | **253** |
+| 806 | 1470 | 1474 | 1390 | 1341 | 1306 | 1285 | 1260 | 1242 | 1188 | 1166 | 1103 | 1076 | 1160 | 1018 | 1036 | 850 | **254** |
+| 807 | 1471 | 1475 | 1391 | 1342 | 1307 | 1286 | 1261 | 1243 | 1189 | 1167 | 1104 | 1077 | 1161 | 1019 | 1037 | 851 | **255** |
+| 808 | 1472 | 1476 | 1392 | 1343 | 1308 | 1287 | 1262 | 1244 | 1190 | 1168 | 1105 | 1078 | 1162 | 1020 | 1038 | 852 | **256** |
+| 809 | 1473 | 1477 | 1393 | 1344 | 1309 | 1288 | 1263 | 1245 | 1191 | 1169 | 1106 | 1079 | 1163 | 1021 | 1039 | 853 | **257** |
+| 810 | 1474 | 1478 | 1394 | 1345 | 1310 | 1289 | 1264 | 1246 | 1192 | 1170 | 1107 | 1080 | 1164 | 1022 | 1040 | 854 | **258** |
+
+**The woman's page walks as `day − 1578` and steps by the calendar day: 248 through 258 with 252 absent, and the step of two at Chapter 805 is the Saturday.** All ten are at or above two hundred and are written in full, and none is elided. It takes no weeks-and-days rendering. **The place behind the woman's chair walks as `day − 1484` and is printed on Chapter 802 only, at three hundred and forty-three days, forty-nine weeks to the day.**
+
+## 3. WHAT MOVEMENT V ADDED, AND IT IS NOT A RESOLUTION
+
+1. **The second half of the four-word sentence was given a NAME AS AN ABSENCE on Chapter 801 and nobody wrote it down.** A woman of about twenty-nine, unasked, said that nobody has written the second half and that the second half is the whole of it and that it is not one sentence and it is not four words. **It is a sentence that says when and not what, and the answer to what does not exist in the world at the end of this movement.**
+2. **The second half was WRITTEN on Chapter 809 and given to nobody.** Eleven words long, on the back of a docket sheet in the inside of a docket book in a first district, and it concerns what happens to the work and not why it stops. **The sentence is: a person is told what to do and does that instead.** It was found in about forty minutes by a man who had refused it first.
+3. **It was SAID OUT LOUD ONCE on Chapter 810**, at about ten past five on a Friday, into a room of nine people, at the end of a table and not to anybody in particular and not to a face. **Nobody wrote it down and nobody asked him to say it again. It is in about nine mouths and nobody agreed to any of it.**
+4. **The one weekend-only business in that district was told a date on the Friday of day 1829, three days before it was asked about it, by a person walking past, and nobody arranged it and nobody thanked her.** One man in that district has been told something. Nobody else has.
+5. **A woman of about sixty-one resigned a body of about nine chairs on Chapter 803**, before the question was finished, over the sentence and not over the notice, and her reason is a room and not a district: she has been in that room nineteen years and has never once seen anybody leave it, and a body which cannot lose anybody is not a body. **She was not thanked and nobody asked her to stay and two people in that room have said that they wanted to and did not.** One chair on that body is now a chair that has been noticed.
+6. **A chair stood empty for about an hour on Chapter 808 and nobody moved it**, and it is not the ninth chair and is not the place behind the woman of about sixty.
+7. **The district went on Chapter 806, on the second date at the foot of its own notice, and about four hundred people went with it.** **The only thing that changed is that one man was told three days in advance, and the whole of what they did about it was nothing, and that is not a criticism of them.**
+8. **There is a second figure of nine weeks, in about nine mouths, agreed by nobody and on no page** — a habit does not stop on a Tuesday, and nobody in that room can say who is holding anything.
+9. **A Sunday happened and nothing was confessed on it.**
+
+## 4. WHAT DID NOT MOVE, AND IT IS CHECKED RATHER THAN ASSERTED
+
+- **The register of correct acts that made no consequence stood at four on all ten days and stands at four.** Nobody has counted it since Chapter 769 and nobody is going to.
+- **The ring binder is shut on all ten days and is not opened, and the page behind it is unread on all ten days.** The woman's page figure appears on all ten and is a count, not a reading.
+- **The ninth chair is against the wall with its back to everything in the room on all ten days, it did not move, and its mover is named on no page.**
+- **The room under a building is dark on all ten days and was not lit.**
+- **Nobody thanked anybody and nobody forgave anybody on any of the ten days**, at forty-six sites, every one of them a negation or a statement that it did not happen. No person was forgiven and no person asked to be.
+- **None of the nine hand copies has been compared with another on any of the ten days.** They stand as one corner torn, eight unfinished, not two compared.
+- **The man of about fifty-one's back room was not asked about. Evan Senn was not named. No new enemy was created.**
+- **No chapter of this movement resolves, softens or prints as a number the five days the woman's page loses at the volume boundary.** See §5A.
+
+## 5A. THE FIVE DAYS, STILL UNSETTLED, AND STILL NOT PRINTED AS A NUMBER
+
+**The woman's page walks as `day − 1578` in this volume and as `day − 1573` in Volume 15's own calendar file, which closes at 191 days on Chapter 760, day 1764.** This volume re-anchors it and publishes 191 at Chapter 761 and 298 at Chapter 820. **Both tables are correct on their own arithmetic and the page loses five days crossing the boundary, so under the Volume 15 anchor this whole volume runs five days high and Chapter 810 would be 263 and Chapter 820 would be 303. Nobody has decided which anchor is canon.** Movement IV was written to `day − 1578` and Movement V is written to it, and **no page of either prints the difference as a number. IT MUST BE SETTLED BEFORE MOVEMENT VI PRINTS 298 ANYWHERE, and settling it means moving a figure printed in the body of Chapter 761, which is a close decision and not a movement decision.**
+
+## 6. WHAT MOVEMENT V DID NOT SPEND
+
+**None of the forty-one debts open at Chapter 760. It came close once — Chapter 805 gave the lead a plate of iron with four slots as the thing he carries, which is one of the seventeen Volume 14 debts and an entry in the forty-one — and it was repaired and the object is a four-foot rule with card taped along its edge.** No chapter compares two of the nine hand copies, opens the ring binder, moves the ninth chair, lights the room under the building, asks about the man of about fifty-one's back room, or names Evan Senn. **The four words naming the body that decides the thing are at zero on all ten files and no file refers to their absence either. `Crown` is at zero in every form including as a place name. There is no panel on any of these ten files and no file refers to the absence of the card on the wall or of the rectangle under it.**

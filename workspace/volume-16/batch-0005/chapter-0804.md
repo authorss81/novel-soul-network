@@ -6,17 +6,17 @@
 
 The board for that Friday carried thirteen names and thirteen dates, and the last name was entered at twenty to five. The shutter came down at ten on that Friday, at the hour it comes down at on every day of this stretch of days except one.
 
-**Line seventeen is one thousand two hundred and thirty-nine days, one hundred and seventy-seven weeks to the day. The post at that corridor end is one thousand and fifteen days, one hundred and forty-five weeks to the day. The separation is eight hundred and forty-seven days, one hundred and twenty-one weeks to the day.**
+**Line seventeen is one thousand two hundred and thirty-nine days, a hundred and seventy-seven weeks to the day. The post at that corridor end is one thousand and fifteen days, a hundred and forty-five weeks to the day. The separation is eight hundred and forty-seven days, a hundred and twenty-one weeks to the day.**
 
 **Those four rooms and one behind the other three are at one thousand four hundred and sixty-seven days, two hundred and nine weeks and four days, and the card on end in the rail by that door is one thousand four hundred and seventy-one days, two hundred and ten weeks and one day.**
 
 ---
 
-**The thing that happened on that Friday took about four seconds and it happened at about a quarter to seven in the morning in a gateway in a second district, and it was arranged by nobody, and there were two people in that gateway and only one of them was listening.**
+**The thing that happened on that Friday took about four seconds and it happened at about ten past six in the morning in a gateway in a second district, and it was arranged by nobody, and there were two people in that gateway and only one of them was listening.**
 
 The yard opens at a weekend and shuts at about two on the second day, and the man who locks it on the closing day has done that for about nine years. He stands in that gateway for about eleven minutes at two and then he goes home.
 
-The woman of about thirty-eight who takes the money over the scale at the gate walks past that gateway at about a quarter to seven every morning and has done for four years. She had said on the Wednesday before that she would say four words to him and nobody had arranged it and nobody thanked her for saying so.
+The woman of about thirty-eight who takes the money over the scale at the gate walks past that gateway at about ten past six every morning and has done for four years. She had said on the Wednesday before that she would say four words to him and nobody had arranged it and nobody thanked her for saying so.
 
 **She said them in about four seconds and she did not stop walking and she did not turn round.**
 
@@ -34,11 +34,11 @@ Nobody at that bench said that he was wrong.
 
 ---
 
-**And she said it anyway, on the Friday morning, at about a quarter to seven, in about four seconds, and she has said since that she had not thought about the argument because the argument was about a different Friday.**
+**And she said it anyway, on the Friday morning, at about ten past six, in about four seconds, and she has said since that she had not thought about the argument because the argument was about a different Friday.**
 
-She said the argument was sound about a man in a gateway with eleven minutes and that this man was not in a gateway, and that he was on the step with his coat half on and his hand on the latch, and that a person says a thing differently at a quarter to seven than at two in the afternoon.
+She said the argument was sound about a man in a gateway with eleven minutes and that this man was not in a gateway, and that he was on the step with his coat half on and his hand on the latch, and that a person says a thing differently at ten past six than at two in the afternoon.
 
-She said she did not stop because stopping turns it into an event, and that two people at a gate at a quarter to seven on a weekday are two people passing each other, and that an event at a gate at a quarter to seven on a weekday is a thing people notice and a thing people notice is a thing people repeat.
+She said she did not stop because stopping turns it into an event, and that two people at a gate at ten past six on a weekday are two people passing each other, and that an event at a gate at ten past six on a weekday is a thing people notice and a thing people notice is a thing people repeat.
 
 **A man of about thirty-four who was told about it afterwards did not ask her to stop walking, and has said that he wanted to and did not, and that the reason is that she had not stopped walking when he was in that gateway.**
 
@@ -131,7 +131,7 @@ Eleven pounds. He told the man that a pulley which has turned over has been told
 
 *807.
 Friday of week 277, at ten, and the one hundred and ninth day of this stretch of days. Thirteen names and thirteen dates, the last of them entered at twenty to five. The shutter came down at ten.
-At about a quarter to seven that morning a woman of about thirty-eight walked past a gateway in a second district and said four words and a date to the man who locks that gate on the weekend, and did not stop walking, and nobody asked her to stop. Nobody thanked her.
+At about ten past six that morning a woman of about thirty-eight walked past a gateway in a second district and said four words and a date to the man who locks that gate on the weekend, and did not stop walking, and nobody asked her to stop. Nobody thanked her.
 A man of about thirty-four said at the bench in nine seconds that a person who locks a gate is not a person who can be asked to hold a date, and that a date told to one person is repeated by one person.
 The charge for the Friday was twenty-two pounds, exact. Nobody thanked anybody and nobody forgave anybody on that Friday, and nothing was taught or shown or assessed to anybody in any room in this city that day.*
 

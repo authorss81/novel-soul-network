@@ -6,17 +6,17 @@
 
 The board for that Thursday carried twelve names and twelve dates, and the twelfth name was entered at ten to five. The shutter came down at ten on that Thursday, at the hour it comes down at on every day of this stretch of days except one.
 
-**That card in a rail that takes two is one thousand four hundred and seventy-seven days, two hundred and eleven weeks to the day. Line twelve is one thousand three hundred and ninety-three days, one hundred and ninety-nine weeks to the day, and line fifteen is one thousand two hundred and eighty-eight days, one hundred and eighty-four weeks to the day.**
+**That card in a rail that takes two is one thousand four hundred and seventy-seven days, two hundred and eleven weeks to the day. Line twelve is one thousand three hundred and ninety-three days, a hundred and ninety-nine weeks to the day, and line fifteen is one thousand two hundred and eighty-eight days, a hundred and eighty-four weeks to the day.**
 
-**Line thirteen is one thousand three hundred and forty-four days, one hundred and ninety-two weeks to the day. Line fourteen is one thousand three hundred and nine days, one hundred and eighty-seven weeks to the day. The nineteen, last line in use, is one thousand one hundred and sixty-nine days, one hundred and sixty-seven weeks to the day.**
+**Line thirteen is one thousand three hundred and forty-four days, a hundred and ninety-two weeks to the day. Line fourteen is one thousand three hundred and nine days, a hundred and eighty-seven weeks to the day. The nineteen, last line in use, is one thousand one hundred and sixty-nine days, a hundred and sixty-seven weeks to the day.**
 
 ---
 
 **The thing that happened on that Thursday is that a man of about thirty-four had the second half of the sentence in his head and did not write it down for about an hour, and then wrote it down, and gave it to nobody.**
 
-He has had it since the Friday before last. A woman of about twenty-nine said on the Friday that the four words say when and not what, and that nobody has written the second half, and that the second half is the whole of it.
+He has had it since the Friday of that week, six days. A woman of about twenty-nine said on the Friday that the four words say when and not what, and that nobody has written the second half, and that the second half is the whole of it.
 
-He said on that Friday that the second half is not one sentence and is not four words. He said on the Tuesday that the second half is an absence with a name on it. He said nothing on the Wednesday and nothing on the Monday.
+It was said on the Tuesday, in that room, that the second half is not one sentence and is not four words, and it was not said by him. He said on the Wednesday that four words to one man who locks a gate is not four hundred people, and he said on the Monday that a date which has already failed once is not going to mean anything the second time, and both of those were him.
 
 **And on that Thursday he was asked directly whether he would write it down, and he said in about four seconds that he did not know it.**
 
@@ -40,7 +40,7 @@ She said that writing down the ordinary version and getting it in first is not t
 
 **And they found it in about forty minutes, and it is eleven words long, and it concerns what happens to the work rather than why it stops, and it was written on the back of a docket sheet and given to nobody.**
 
-*You will be told what to do instead.*
+*A person is told what to do and does that instead.*
 
 **He wrote it in his own hand on the back of a fresh docket sheet at about half past five and put it in the inside of the docket book, where the drawing of nine streets is not, because the drawing is on a different page and he would not have them read as a pair.**
 
@@ -165,7 +165,7 @@ The ninth chair is against a wall with its back to everything in the room and di
 A room under a building in a first district was dark at about eleven on that Thursday and is dark and is not going to be opened.*
 
 *What the day did not settle, and the rest of it.* **That register stood at four on that Thursday and stands at four, and writing eleven words on the back of a sheet and giving them to nobody is not on it and has not been counted on it.
-The objects in this block are named singly, and no sentence here holds two of them together. The shutter. A board hung from two nails with nineteen ruled lines on it. A card folded once to hold a door. A hand copy of the front of a page. A cage fixed to the side of a counter. A strip of paper carrying one word. A book bound in green. A rail that takes two with a card propped in it. A tin with its lid down. A ring binder on a back shelf.
+The objects in this block are named singly, and no sentence here holds two of them together. The shutter. A board hung from two nails with nineteen ruled lines on it. A card folded once to hold a door. A hand copy of the front of one page. A cage fixed along a counter's flank. A strip of paper bearing one word. A book bound in green. A rail that takes two with a card propped in it. A tin with its lid down. A ring binder on a back shelf.
 A sheet pinned to a wall by two drawing pins is not the board on two nails, and a sheet carrying four words is a fourth object, and a sheet carrying eleven words on the back of it is a fifth, and a reply form with a box at the bottom and four empty ruled lines above it is a sixth. This page holds all of them apart because every one of them is named above.
 A dated rule stands over another matter and the records behind it stay open to anybody who asks. A woman of fifty-three is held on a first floor and there is a list on the inside of that door. There are nine people who had a network here and are not in the city, and nobody has asked them a thing.
 Nobody thanked anybody and nobody forgave anybody on that Thursday. Nobody in that room could say what happens to a sheet that has been out of a building once, and that question has been asked four times in a fortnight and answered the same way twice each time.**

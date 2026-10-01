@@ -6,7 +6,7 @@
 
 The board for that Tuesday carried twelve names and twelve dates, and the twelfth was entered at ten to five. The shutter came down at ten on that Tuesday, at the hour it comes down at on every day of this stretch of days except one.
 
-**The man of about fifty-one against that north wall is one thousand and seventy-seven days, one hundred and fifty-three weeks and six days. Line eighteen is one thousand one hundred and eighty-nine days, a hundred and sixty-nine weeks and six days. The post at that corridor end is one thousand and nineteen days, one hundred and forty-five weeks and four days.**
+**The man of about fifty-one against that north wall is one thousand and seventy-seven days, a hundred and fifty-three weeks and six days. Line eighteen is one thousand one hundred and eighty-nine days, a hundred and sixty-nine weeks and six days. The post at that corridor end is one thousand and nineteen days, a hundred and forty-five weeks and four days.**
 
 **Those four rooms and one behind the other three stand at one thousand four hundred and seventy-one days, two hundred and ten weeks and one day. The card propped upright in the rail by that door is one thousand four hundred and seventy-five days, two hundred and ten weeks and five days.**
 
@@ -16,7 +16,7 @@ The board for that Tuesday carried twelve names and twelve dates, and the twelft
 
 A man of about thirty-four said in nine seconds that this is what is happening and that anybody who says otherwise is describing a thing that used to exist.
 
-He said that a line is something held at one end and that the other end went on the Monday, and that what is left is four people doing a thing they learned from each other.
+He said that he had heard on the Monday that there was no line left and that he agrees with the finding and disputes the noun, and that what the four of them are doing has a name and that the name is not a line.
 
 He said that they are not holding a line. He said that they are holding a habit, and that a habit is not a line and does not know it is being held, and that a habit stops on a Tuesday.
 
@@ -40,7 +40,7 @@ He said that he does not intend to show the notebook and that he has said the nu
 
 The man of about fifty-two is one of the four. A woman of about forty-eight is one of the four and said no on that Tuesday before she was asked and said that a no given in advance is cheaper than a no given after nine weeks.
 
-A man of about thirty-one is one of the four and said no on that Tuesday before she was asked, or he did, and the room has two accounts of who said it first and neither of the two people has claimed the first.
+A man of about thirty-one is one of the four and has said since that he said no before anybody asked him, and that a woman of about thirty-eight says she said it first, and that neither of them is going to be asked about it again.
 
 A man of about thirty-eight is one of the four and has still not been asked, and has now had about a month, and has said twice in that room that being on a list of four is not the same as being asked.
 
@@ -135,7 +135,7 @@ Line fourteen: one thousand three hundred and seven days, one hundred and eighty
 Line fifteen: one thousand two hundred and eighty-six days, one hundred and eighty-three weeks and five days.
 Line sixteen: one thousand two hundred and sixty-one days, one hundred and eighty weeks and one day.
 Line seventeen: one thousand two hundred and forty-three days, one hundred and seventy-seven weeks and four days.
-Line eighteen: one thousand one hundred and eighty-nine days, a hundred and sixty-nine weeks and six days.
+Line eighteen: one thousand one hundred and eighty-nine days, one hundred and sixty-nine weeks and six days.
 The nineteen, last line in use: one thousand one hundred and sixty-seven days, one hundred and sixty-six weeks and five days.
 The hold on nine crates and the floor they stand on: one thousand one hundred and four days, one hundred and fifty-seven weeks and five days, in the second of the four towns.
 The man of about fifty-one against that north wall: one thousand and seventy-seven days, one hundred and fifty-three weeks and six days.

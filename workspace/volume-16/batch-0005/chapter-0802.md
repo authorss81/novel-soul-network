@@ -6,9 +6,9 @@
 
 The board for that Wednesday carried thirteen names and thirteen dates, and the thirteenth name was entered at twenty to five. The shutter came down at ten on that Wednesday, at the hour it comes down at on every day of this stretch of days except one.
 
-**Line eighteen is one thousand one hundred and eighty-three days, a hundred and sixty-nine weeks to the day. The man of about fifty-one against that north wall is one thousand and seventy-one days, one hundred and fifty-three weeks to the day.**
+**Line eighteen is one thousand one hundred and eighty-three days, a hundred and sixty-nine weeks to the day. The man of about fifty-one against that north wall is one thousand and seventy-one days, a hundred and fifty-three weeks to the day.**
 
-**What is still owed is one thousand one hundred and fifty-five days, one hundred and sixty-five weeks to the day. Behind the chair of the woman of about sixty a place has stood empty for three hundred and forty-three days, which is forty-nine weeks to the day, and it is printed here and on no other page of this stretch of days.**
+**What is still owed is one thousand one hundred and fifty-five days, a hundred and sixty-five weeks to the day. Behind the chair of the woman of about sixty a place has stood empty for three hundred and forty-three days, which is forty-nine weeks to the day, and it is printed here and on no other page of this stretch of days.**
 
 ---
 
@@ -28,7 +28,7 @@ He said that about four hundred people who work in that district are not waiting
 
 **And a man of about fifty-two said that was true, and said the other half of it, and neither half of it was new.**
 
-He said that the reason nobody had said anything to that yard in eleven days was not that it had been overlooked and that it had not been overlooked, and that a yard which opens on a weekend is the easiest thing in a district to say anything to and the hardest thing to say anything to quietly.
+He said that the reason nobody had said anything to that yard since the sheet went up was not that it had been overlooked and that it had not been overlooked, and that a yard which opens on a weekend is the easiest thing in a district to say anything to and the hardest thing to say anything to quietly.
 
 He said that four businesses in that district do not open on a weekday, and that two people in that room had been trying since the Friday to work out how anybody says a thing to a business that is not there, and that a fortnight of trying had produced a Wednesday and nothing else.
 
@@ -38,7 +38,7 @@ He said the difficulty is not that the yard is shut. He said the difficulty is t
 
 She said she locked that gate herself at the end of every weekend for four years before she took the counter, and that she was still the person who put the chain on at two, and that the person who locked it on a Friday was a man who has done Fridays for about nine years and who stands in that gateway for eleven minutes before he goes.
 
-She said she walks past that gate at about a quarter to seven every morning and has done for four years, and that a person who says a thing on a bus says it wrong, and that a person who says it standing in a gateway at six in the morning does not.
+She said that a person who says a thing to a man who is opening a gate has about four seconds and no more than that, and that she weighs metal for a living and knows what four seconds is, and that a date is four words and four words take four seconds and anything longer than that is a speech and a speech in a gateway is a thing a man remembers being made to listen to.
 
 Nobody thanked her.
 
@@ -46,7 +46,7 @@ Nobody thanked her.
 
 **And a man of about thirty-four said in nine seconds that what she had just described was a thing that happened to be arranged, and that the arrangement was the whole of the difficulty.**
 
-She said that nothing had been arranged, and that she had been going past that gate at a quarter to seven for four years before anybody in this city had four words, and that if it is arranged now it can be unarranged now, and that a person does not have to be asked to stop doing a thing she has done for four years.
+She said that nothing had been arranged, and that she had been going past that gate at ten past six every morning for four years before anybody in this city had four words, and that if it is arranged now it can be unarranged now, and that a person does not have to be asked to stop doing a thing she has done for four years.
 
 A man of about thirty-eight said that was the best argument anybody had made in a fortnight and then said that he had been the man who had been going to stand at that gate on the Monday, and that nobody had asked him and that he was not going to say anything about it either.
 
@@ -74,7 +74,7 @@ Nobody in that room corrected him about which Friday it was.
 
 **A man of about twenty-two was in that room for about fifty minutes, said nothing, was asked nothing, and was told one thing and did not repeat it.**
 
-He has said that a person who locks a gate on a Friday and a person who walks past a gate at a quarter to seven are two different arrangements and that only one of them has to be given permission and that the other does not.
+He has said that a person who locks a gate on a Friday and a person who walks past a gate at ten past six are two different arrangements and that only one of them has to be given permission and that the other does not.
 
 He has also said that he wrote nothing down and that nothing was put in his hand, and that he noticed the drawing of the streets was in the docket book and not on a shelf and that he did not ask why.
 
@@ -136,7 +136,7 @@ Thirty-one pounds. He told the man that a gate that is nine feet wide on two hin
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on the shelf behind her for two hundred and forty-nine days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the shelf behind her and has been there two hundred and forty-nine days, and it is not read.**
 
 ---
 

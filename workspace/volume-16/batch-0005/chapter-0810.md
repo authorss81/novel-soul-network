@@ -6,13 +6,13 @@
 
 The board for that Friday carried fourteen names and fourteen dates, and the fourteenth name was entered at ten to five. The shutter came down at ten on that Friday, at the hour it comes down at on every day of this stretch of days except one.
 
-**Those four rooms and one behind the other three stand at one thousand four hundred and seventy-four days, two hundred and ten weeks and four days. That card in a rail that takes two is one thousand four hundred and seventy-eight days, two hundred and eleven weeks and one day, and the post at that corridor end is one thousand and twenty-two days, one hundred and forty-six weeks to the day.**
+**Those four rooms and one behind the other three stand at one thousand four hundred and seventy-four days, two hundred and ten weeks and four days. That card in a rail that takes two is one thousand four hundred and seventy-eight days, two hundred and eleven weeks and one day, and the post at that corridor end is one thousand and twenty-two days, a hundred and forty-six weeks to the day.**
 
 ---
 
 **The thing that happened on that Friday is that four hundred people found out what the second half is, and that it was said out loud once in a room, and that the person who said it said no first and then said it.**
 
-Nine people were in that room. A man of about thirty-four said eleven words into it. Nine of them can say the eleven words now. Four hundred can hear them. Two hundred have heard them. Nobody has counted any of those.
+Nine people were in that room. A man of about thirty-four said eleven words into it. Nine of them can say the eleven words now. Four hundred people use that district. Nobody has counted any of those.
 
 **The eleven words concern what happens to the work. They do not touch the district, or why it stops, or four hundred people.**
 
@@ -22,11 +22,11 @@ Nine people were in that room. A man of about thirty-four said eleven words into
 
 He said that a man who carries a sentence into a district where he is known becomes the district's man in about four hundred days whether he meant to or not, and that he has been avoiding that since the Tuesday the four words were written.
 
-He said that a woman of about thirty-four said the same thing to him four weeks ago and that she was correct, and that he had not thought of it, and that he has had about nine of those this year.
+He said that a man of about thirty-eight said the same thing to him fifteen days ago and got no thanks for it either, and that he had not thought of it, and that he has had about nine of those this year. He said that a woman of about thirty-four told that room on the same day the opposite, that nobody in this room is going to be known for saying four words, and that she was right about that as well.
 
 **He said that he had come to that room to say no, and that four people in it had not believed he was going to, and that this was his fault and not theirs.**
 
-Nobody in that room argued him out of it and nobody argued him into it.
+Nobody in that room argued him back from it and nobody pushed him towards it.
 
 ---
 
@@ -68,7 +68,7 @@ A man of about thirty-one said that he does not know the answer, that the reason
 
 **A man of about twenty-two was in that room for about fifty minutes and said nothing and was asked nothing, and he has said since that the sentence went past him at about four feet and that he could have said it and did not and that this is the whole of what he did.**
 
-He said that he had offered to carry the four words on a Wednesday a fortnight ago and had been refused in four seconds for a reason that was true, and that the man who refused him has now done the thing he offered to do and refused it first.
+He said that he had offered to carry the four words on a Thursday three weeks ago and had been refused in four seconds for a reason that was true, and that the man who refused him has now done the thing he offered to do and refused it first.
 
 He was told a thing and did not repeat it. He has said that he wrote nothing down and that nobody asked him to.
 
@@ -123,7 +123,35 @@ Thirty-one pounds. He told the man that a shelf fixed to plasterboard carries th
 Friday of week 278, at ten, and the one hundred and fifteenth day of this stretch of days. Fourteen names and fourteen dates, the fourteenth at ten to five. The shutter came down at ten.
 A room off a road in that second district was open from about five and nine people were in it. A man of about thirty-four said in nine seconds that he is the person every one of four hundred people knows and that this is a thing a person can refuse and that refusing is not a fault.
 He said the second half out loud once at about ten past five, in about nine seconds, into the room and not to a face. Nobody wrote it down and nobody asked him to say it again.
-That register stood at four on that Friday and stands at four, and a sentence said out loud once by a man who refused it first is not on it and has not been counted on it.
+The charge for that Friday was eleven pounds, exact. Nobody thanked anybody and nobody forgave anybody on that Friday, and no room in this city taught anything to anybody or showed anything to anybody or put anybody through anything.*
+
+*Conditions and docket.* **Callers that Friday: fourteen. Work dated on that Friday: fourteen, the last name entered at ten to five. About an hour of that Friday was a room off a road in that second district and about four hours of the rest were a tray, a counter lip, a till drawer and a display.
+Rooms off that service road, four of them and one behind: one thousand four hundred and seventy-four days, two hundred and ten weeks and four days.
+That card in a rail that takes two: one thousand four hundred and seventy-eight days, two hundred and eleven weeks and one day.
+Line twelve: one thousand three hundred and ninety-four days, one hundred and ninety-nine weeks and one day.
+Line thirteen: one thousand three hundred and forty-five days, one hundred and ninety-two weeks and one day.
+Line fourteen: one thousand three hundred and ten days, one hundred and eighty-seven weeks and one day.
+Line fifteen: one thousand two hundred and eighty-nine days, one hundred and eighty-four weeks and one day.
+Line sixteen: one thousand two hundred and sixty-four days, one hundred and eighty weeks and four days.
+Line seventeen: one thousand two hundred and forty-six days, one hundred and seventy-eight weeks to the day.
+Line eighteen: one thousand one hundred and ninety-two days, one hundred and seventy weeks and two days.
+The nineteen, last line in use: one thousand one hundred and seventy days, one hundred and sixty-seven weeks and one day.
+The hold on nine crates and the floor they stand on: one thousand one hundred and seven days, one hundred and fifty-eight weeks and one day.
+The man of about fifty-one against that north wall: one thousand and eighty days, one hundred and fifty-four weeks and two days.
+What is still owed: one thousand one hundred and sixty-four days, one hundred and sixty-six weeks and two days.
+The post at that corridor end: one thousand and twenty-two days, one hundred and forty-six weeks to the day.
+The nine hand copies of the front of one page: one thousand and forty days, one hundred and forty-eight weeks and four days, one corner torn, eight unfinished, not two compared.
+The separation: eight hundred and fifty-four days, one hundred and twenty-two weeks to the day, in a one-line box about sixteen months old.
+That flat: four names on the tenancy, the heat not turned down since the autumn, a tray bedded on dowel, a lip re-pinned to its frame, a second key cut and put in an envelope in a drawer.
+Refusals: none asked and none given. Nobody was asked to read the eleven words out of that docket book and nobody read them out of it.
+Work: fourteen, four dowels, four veneer patches, a key blank and a display refitted, nothing escalated, nothing handed back.
+Charge: eleven pounds, exact.*
+
+*Conditions of the close.* **A book bound in green is on sixty-six lines on that first floor above a line in Saltmarket, and the tin on that table is on seventy-three with its lid down, and neither of them holds the sheet that was written on Thursday, which is in the inside of a docket book in a first district.
+The ninth chair is against a wall with its back to everything in the room and did not move on that Friday and its mover is named on no page of this stretch of days. A chair is standing in a passage in that second district and is not that chair and is not the place behind the woman of about sixty.
+A room under a building in a first district had no light in it at about eleven on that Friday and has none in it now, and nobody is going to put one there.*
+
+*What the day did not settle, and the rest of it.* **That register stood at four on that Friday and stands at four, and a sentence said out loud once by a man who refused it first is not on it and has not been counted on it.
 This page names its objects one at a time, and no line of it sets two of them side by side. The shutter. A board carrying nineteen ruled lines, on two nails. A card folded once over a doorway. A hand copy of the front of a page. A cage fastened along the side of a counter. A strip of paper, cut narrow, with one word written on it. A book in a green binding. A rail of two, a card standing on end in it. A tin, shut. A ring binder on a back shelf.
 A sheet pinned to a wall by two crooked drawing pins is not the board on two nails, and a sheet carrying four words is a fourth object, and the sheet carrying eleven words on the back of it is a fifth, and the coin tray at that counter is a sixth and is not any of the five. This page holds all of them apart because every one of them is named above.
 A dated rule stands over another matter and the records behind it stay open to anybody who asks. A woman of fifty-three is held on a first floor and there is a list on the inside of that door. Nine people once had a network in this city. None of them is here and nothing has been put to them.
