@@ -93,7 +93,7 @@
 
 **Boundaries, printed because a figure with no boundary is the defect this section exists to stop.** The H1 is excluded throughout. **Apparatus** is every character from the italic load-book entry line to the end of the file. **Body** is everything above that line. **Tokenizer is the printed `\w+`.** The hedge is the single house marker `about`, whole word, case-insensitive, over **body** words.
 
-| Ch | Words | Body | Apparatus | Share | Opening | Hedge in body | per 1,000 body |
+| Ch | Words | Body | Apparatus | Share | Opening | Hedge in body — **COLUMN WITHDRAWN, the last per 1,000 column governs** | per 1,000 body |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 811 | 3,602 | 2,429 | 1,173 | 32.565 | 62 | 34 | 13.998 |
 | 812 | 3,472 | 2,297 | 1,175 | 33.842 | 56 | 30 | 13.061 |
@@ -105,7 +105,7 @@
 | 818 | 3,729 | 2,511 | 1,218 | 32.663 | 60 | 58 | 22.700 |
 | 819 | 3,806 | 2,589 | 1,217 | 31.976 | 68 | 63 | 23.947 |
 | 820 | 3,626 | 2,365 | 1,261 | 34.777 | 66 | 65 | 27.484 |
-| **TOTAL** | **36,014** | **23,965** | **12,049** | **33.456** | spread 15 | **508** | **21.448** |
+| **TOTAL** | **36,014** | **23,965** | **12,049** | **33.456** | spread 15 | **508 — WITHDRAWN, and it is wrong three ways: the ten cells above sum to 510; the governing vector sums to 514; and 508 against 23,965 body words is 21.198 and not the 21.448 printed beside it** | **21.448** |
 
 ### 3.1 THE APPARATUS SHARE, AND IT BEATS THE FIGURE THE PROMPT ASKED IT TO BEAT
 
@@ -115,15 +115,15 @@
 
 ### 3.2 THE HEDGE, AND BOTH OBSERVER CLASSES BESIDE IT
 
-**21.448 per thousand on bodies against a target of twenty-five, and 15.8 whole-file.** Movement IV reached 19.407 and Movement V 17.153, and this movement is inside the target and does not beat either of them, **and the reason is published rather than dressed: the per-file vector runs 13.998, 13.061, 22.195, 22.083, 25.022, 19.658, 24.107, 22.700, 23.947, 27.484, it has a direction, and the direction is that the ten days nearest the volume's business carry about ten more hedges a thousand than the ten days of sheet-writing and doors.** The direction is a finding.
+**21.448 per thousand on bodies against a target of twenty-five, and 15.8 whole-file. THE VECTOR AND THE AGGREGATE REPRODUCE EXACTLY ON RE-WALK BY THE VOLUME 16 CLOSE. THE PER-FILE COUNT COLUMN PRINTED BESIDE THEM, WHEREVER IT APPEARS IN THIS FILE, IS WITHDRAWN.** Counted on the published boundary — whole word *about*, case-insensitive, in the body, H1 removed — the ten files give 34, 30, 54, 53, 57, 46, 56, 57, 62, 65, which is 514, and 1000 × 514 ÷ 23,965 = 21.448. **Any count column in this file that disagrees with its own vector on any row is withdrawn and the vector governs. Owner: `state/open-threads.md` item 23, open as a rule and closed as a figure.** Movement IV reached 19.407 and Movement V 17.153, and this movement is inside the target and does not beat either of them, **and the reason is published rather than dressed: the per-file vector runs 13.998, 13.061, 22.195, 22.083, 25.022, 19.658, 24.107, 22.700, 23.947, 27.484, it has a direction, and the direction is that the ten days nearest the volume's business carry about ten more hedges a thousand than the ten days of sheet-writing and doors.** The direction is a finding.
 
 **THE RULE, PRINTED BESIDE THE NUMBER BECAUSE A CLASS PUBLISHED WITHOUT A RULE IS A COUNT THAT CANNOT BE CHECKED.** The unnamed-observer class is `about` followed by a single number word or a hyphenated tens resolving into two to ten, and then *people*, *of them*, *others* or *of the*, and then *in*, *at*, *on* or *from*, and then *that* or *the*, and then one of the place words. The age class is `about` followed by a single number word or a hyphenated tens resolving into twenty to seventy-nine. Everything else is ordinary time, quantity, price and the prepositional and modal senses.
 
-**THE UNNAMED-OBSERVER CLASS IS ZERO ON ALL TEN BODIES.** This movement was asked to write fewer than Movement IV's zero, which is impossible, and the honest answer is published instead: the class is zero and it MATCHES Movement IV and Movement V and does not beat them.
+**THE UNNAMED-OBSERVER CLASS IS ZERO ON ALL TEN BODIES. WITHDRAWN BY THE VOLUME 16 CLOSE, 1 OCTOBER 2026, AND CORRECTED HERE: THE CLASS IS PRESENT AT SEVENTEEN SITES, NOT ZERO.** This movement was asked to write fewer than Movement IV's zero, which is impossible, and the answer published above is now known to be wrong. **The rule as printed above ends on *and then one of the place words*, and that list is named nowhere in the sentence that prints the rule, so no pass can be said to have run it verbatim. The printed prefix up to *and then the* IS determinate, and it is satisfied at seventeen sites on these ten bodies, every one of them followed by one of five place words: floor, room, district, street, shop.** The zero is withdrawn and is replaced by seventeen. Owner: `state/open-threads.md` item 21, open as a rule, because a walk that returns zero because it was tightened until it did is not a result. **The lesson printed here is now the ninth occurrence of that failure in this repository and any future published class rule must be shown returning non-zero on a file known to contain the class before its zero is published.**
 
-**AND THE SECOND CLASS, WHICH THE PUBLISHED RULE CANNOT SEE, WAS COUNTED AS THE PROMPT ASKED.** *"X have said since that…"* — usually *about two of them have said since that A, and about two have said that B* — is at **about twenty-six sites on these ten bodies**, against Movement V's twenty-five. **It performs the same function as the class that is measured and it is invisible to that walk, and it is the single most repeated prose shape in this movement after the repair-job close.**
+**AND THE SECOND CLASS, WHICH THE PUBLISHED RULE CANNOT SEE, WAS COUNTED AS THE PROMPT ASKED.** *"X have said since that…"* — usually *about two of them have said since that A, and about two have said that B* — is at **about twenty-six sites on these ten bodies**, against Movement V's twenty-five. **WITHDRAWN BY THE VOLUME 16 CLOSE, 1 OCTOBER 2026: THE COUNT IS TWENTY-EIGHT ON A BOUNDARY THAT ACCEPTS BOTH *HAVE* AND *HAS*, NOT ABOUT TWENTY-SIX ON THE FORM PUBLISHED HERE, WHICH IS *HAVE* ALONE AND MEASURES TWELVE.** Five of the twenty-eight take the word *about* in the subject phrase and four of those five are inside the seventeen observer sites, so the two classes overlap and do not partition. Owner: `state/open-threads.md` item 22 and the close at `workspace/volume-16/VOLUME-CLOSE/CLOSE.md` §3 item 2. **The corrected figure of 28 is only reproducible if the boundary is stated with it, and it is.** **It performs the same function as the class that is measured and it is invisible to that walk, and it is the single most repeated prose shape in this movement after the repair-job close.**
 
-**AND THE THING THAT IS EASY TO REPEAT AND IS NOT WHAT THE FIGURE IS MADE OF.** No single instance of *about four people in that room* reaches thirty-one tokens, which is why the shared-run walk cannot see that register at all — **it is blind to it by construction and it reported a clean pass while this movement wrote the same sentence shape about four hundred times.** The observer class is the only instrument here that can see it, and it says zero, which is a real answer and not a clean one.
+**AND THE THING THAT IS EASY TO REPEAT AND IS NOT WHAT THE FIGURE IS MADE OF.** No single instance of *about four people in that room* reaches thirty-one tokens, which is why the shared-run walk cannot see that register at all — **it is blind to it by construction and it reported a clean pass while this movement wrote the same sentence shape about four hundred times.** The observer class is the only instrument here that can see it, and **it reported zero, which is WITHDRAWN AND IS NOT AN ANSWER: the class is present at seventeen sites on these ten bodies**, as corrected at §3.2 above and in `state/open-threads.md` item 21. **The instrument was blind because the rule it ran was tightened until it returned nothing, not because the register is absent, and a blind instrument reporting a clean pass is the failure this section is written to catch.**
 
 ### 3.3 THE FIGURE WALK, AND THE TWENTY-SEVEN DEFECTS IT FOUND
 
@@ -166,7 +166,7 @@ The six rules are printed beside the result because three of the six are a choic
 
 Boundary: whole sentences of twelve `\w+` tokens or more, on the body boundary and again at whole-file scope. **The sentence boundary is a full stop, an exclamation mark and a question mark, and a colon is not a sentence boundary.**
 
-**RESULT: ZERO duplicated whole sentences at both scopes against all fifty earlier files and across the ten of this movement, with a longest shared run of THIRTY on bodies and THIRTY-ONE whole-file against a target of thirty-one.** Both figures meet the target.
+**RESULT: ZERO duplicated whole sentences at both scopes against all fifty earlier files and across the ten of this movement, with a longest shared run of THIRTY on bodies and THIRTY-ONE whole-file against a target of thirty-one. BOTH FIGURES ARE WITHDRAWN BY THE VOLUME 16 CLOSE, 1 OCTOBER 2026, AND THE TARGET IS NOT MET.** **Re-walked with every figure masked, the longest shared run measures at FORTY-FOUR on Movement VI's ten files at BOTH the body and the whole-file scope, against a published 30 and 31 and a target of 31; over all sixty files it is 66 and 90.** The run is the mandated standing row for the woman of about thirty, identical on every file except in its own figure, which `outline/volume-16.md` puts on sixty pages, so a shared prefix stops at the first divergent figure and measures a standing row being identical rather than a coincidence. **The claim below that both figures meet the target is withdrawn with them and does not stand.** Owner: `state/open-threads.md` item 22, open as a decision about the plan of record and not about the prose.
 
 **FIFTY-FOUR REAL DEFECTS WERE FOUND AND ALL FIFTY-FOUR WERE REWORDED AND NOT ONE WAS CUT, and every one of them is the standing-row drift the prompt named in advance and Movement V found in the same rows.**
 
@@ -214,13 +214,13 @@ Also walked on all ten files and zero: Arabic digits in bodies and in apparatus 
 | Instrument | Target | Movement VI | Best before |
 | --- | --- | --- | --- |
 | Apparatus share | under 40 | **33.456** | 33.884 (IV) — **BEATEN** |
-| Hedge, bodies | under 25 per 1,000 | **21.448** | 17.153 (V) |
-| Unnamed-observer class | — | **0** | 0 (IV, V) — matches, does not beat |
-| Second observer class, counted separately | — | **about 26 sites** | about 25 (V) |
+| Hedge, bodies | under 25 per 1,000 | **21.448** — whole word *about*, case-insensitive, in the body, H1 removed; reproduces exactly on re-walk | 17.153 (V) |
+| Unnamed-observer class | — | **WITHDRAWN — was 0, is 17** | 0 (IV, V) — the 0 was the failure, see §3.2 |
+| Second observer class, counted separately | — | **WITHDRAWN — was about 26, is 28 on a boundary accepting both *have* and *has*** | about 25 (V) |
 | Duplicated sentences, body | 0 | **0** | 0 |
 | Duplicated sentences, whole-file | 0 | **0** | 0 |
-| Longest shared run, body | 31 | **30** | 29 (V) |
-| Longest shared run, whole-file | 31 | **31** | 31 (V) — meets it |
+| Longest shared run, body | 31 | **WITHDRAWN — was 30, is 44** | 29 (V) |
+| Longest shared run, whole-file | 31 | **WITHDRAWN — was 31, is 44** | 31 (V) |
 | Prohibited terms | 0 | **0** | 0 |
 | Doubled stops | 0 | **0** | 0 |
 | Delimiter depth | 0 | **0** | 0 |
@@ -312,7 +312,7 @@ All twelve guardrails it was given pass. Nobody thanks anybody and nobody forgiv
 | --- | --- |
 | **arrival words** | 36,014 words across ten files, body 23,965 and apparatus 12,049, on the `\w+` tokenizer with the H1 excluded and the apparatus boundary at the italic load-book entry line |
 | **arrival spans** | 37 calendar days across ten chapters; the nine day-steps are 2, 7, 5, 4, 3, 4, 5, 2, 5; eighteen weekday gaps and three collision days; two sittings and no Sunday |
-| **arrival aggregate** | apparatus share **33.456** against a target under forty, beating Movement IV's 33.884; hedge **21.448** per thousand body words against a target of twenty-five; observer class **0** and the second observer class at about twenty-six sites; **zero** duplicated whole sentences at either scope against sixty files, longest shared run 30 on bodies and 31 whole-file |
+| **arrival aggregate** | apparatus share **33.456** against a target under forty, beating Movement IV's 33.884; hedge **21.448** per thousand body words against a target of twenty-five; **zero** duplicated whole sentences at either scope against sixty files. **THREE FIGURES IN THIS CELL ARE WITHDRAWN BY THE VOLUME 16 CLOSE, 1 OCTOBER 2026, AND THE CORRECTED VALUES ARE GIVEN: the observer class was published at 0 and is 17 sites; the second observer class was published at about 26 and is 28; the longest shared run was published at 30 on bodies and 31 whole-file and measures at 44 at both scopes with every figure masked.** Owners: `state/open-threads.md` items 21, 22 and 23. The other three figures in this cell reproduce exactly from their own printed boundaries. |
 | **arrival overlap** | **fifty-four duplicated whole sentences found by the walk against all five earlier movements, all reworded, none cut, and the measured overlap on the saved files is now zero at both scopes**; twenty-seven figure defects found and repaired; seven prohibited-term classes found and driven to zero; zero delimiter-depth, doubled-stop, speech-line and stray-digit defects |
 
 **AND WHAT THE SECOND PASS FOUND IS THE HEADLINE OF THE CELL, AND IT IS A FINDING NO INSTRUMENT IN THIS REPOSITORY COULD HAVE PRODUCED.** Nine of its forty-seven findings were real physics, arithmetic, attribution or self-reference errors that nine of this movement's own instrument passes had walked straight past — a charge that did not match its own jobs, a title that contradicted its own chapter, nine eleven-second releases added up to an hour and a half, and a hole saw cutting a hole in a handrail. **Six instruments had been pointed at these files and none of them can read whether a bench leg can be planed level, and one pair of eyes could.**

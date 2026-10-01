@@ -6,7 +6,7 @@
 
 ---
 
-# LIVE — WHERE EVERYBODY IS AT CHAPTER 720, COMPACT, DATED AFTER EVERYTHING BELOW
+# ARCHIVE — THE BLOCK THAT USED TO HEAD THIS FILE. IT PLACED EVERYBODY AT CHAPTER 720 AND IT IS KEPT WHOLE AND IT IS NOT STATE. **THE MANUSCRIPT STANDS AT CHAPTER 820 AND VOLUME 16 IS CLOSED, AND THE THREE LIVE BLOCKS OF THIS FILE ARE AT ITS FOOT: *WHAT MOVEMENT VI DID TO THE PEOPLE ON IT*, *THE VOLUME 16 REVIEW REPAIR PASS* AND *THE VOLUME 16 CLOSE*, IN THAT ORDER.**
 
 **Volume 15 is WRITTEN to Chapter 720 and the next phase is `workspace/volume-15/batch-0003/`. The volume's new supporting-cast ceiling is EIGHT across sixty chapters; Movement I spent two and Movement II spent two, and all four are named below. Movements III, IV, V and VI spend one each and the eight are then spent. The ten notices, ten wants and ten small costs of each movement are all different as written and none of the ten wants of either movement is a version of the want of being asked, which is at four in this manuscript and may not be a fifth, or of the want of being told a thing, which Movement I sat at the edge of on Chapter 706 and did not enter.**
 
