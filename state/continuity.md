@@ -1,49 +1,9 @@
-# LIVE — CONTINUITY AT CHAPTER 850. VOLUME 17 IS OPEN AND MOVEMENT III IS WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY, VOLUME 17 MOVEMENT III*, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE.
+# LIVE — CONTINUITY AT CHAPTER 870. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *CONTINUITY, VOLUME 17 MOVEMENT V, CHAPTERS 861 TO 870*, AND EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
 
-**THE MANUSCRIPT STANDS AT CHAPTER 850, THE FRIDAY OF WEEK 290, DAY 1920, LOAD-BOOK ENTRY 853, AND VOLUME 17 IS OPEN WITH MOVEMENT III WRITTEN. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY, VOLUME 17 MOVEMENT III* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
+**THE MANUSCRIPT STANDS AT CHAPTER 870, THE MONDAY OF WEEK 295, DAY 1951, LOAD-BOOK ENTRY 873. VOLUME 17 IS OPEN AND ONE MOVEMENT REMAINS. THE NEXT PHASE IS `workspace/volume-17/batch-0006/`, THE VOLUME 17 CLOSE, WHICH WRITES NO CHAPTER AND IS A DIRECTORY HOLDING A `PROMPT.md` THAT PRODUCES A `CLOSE.md`.**
 
-**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn. The place behind the chair of the woman of about sixty is `day − 1484`, is 425 days old at Chapter 841 and 436 at Chapter 850, and is printed on **one file of each movement and on no other** — **Movement I printed it on Chapter 824, Movement II on Chapter 838, and Movement III on Chapter 843.** The load-book run is 823 at Chapter 820, 824 at Chapter 821, 833 at Chapter 830 and 843 at Chapter 840, with `(entry − chapter) = {3}` on every row. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, and is not absolved.**
+**THE ANCHORS HAVE NOT MOVED SINCE VOLUME 01 AND NONE OF THEM IS RE-DERIVED ON A PAGE.** The sixteen interval series and their eighteen anchor days are in `workspace/volume-17/ARITHMETIC-AND-CALENDAR.md` §2 and are to be walked against and not copied out of. `week = (day − 502) // 7 + 88` and `wd = (day − 502) mod 7` against Monday-first, and the Monday of week *n* is `7n − 114`. The woman's page is `day − 1573`. The place behind the woman's chair is `day − 1484` and is printed on one file of each movement and on no other. The governed counter is `chapter − 695`, it is chapter-indexed and no anchor table can produce it, and every movement of this volume types it and then walks it in its own cell.
 
----
-
-# ARCHIVE COMPACTED — 1 OCTOBER 2026 — THE SUPERSEDED BLOCKS OF THIS FILE ARE BELOW AS AN INDEX AND NOT AS PROSE
-
-**WHAT WAS DONE.** The 928 lines of superseded block text that stood between the signpost above and the live block below have been replaced by this index, one line per block, each line carrying that block's own heading and its former line range in this file. **Nothing was summarised, softened, merged or reworded, and no figure was touched.** The index is a finding aid: it says what each block was called, not what it said.
-
-**WHY, AND IT IS A DISPATCH DEFECT AND NOT A TIDINESS ONE.** These five state files had reached 1.19 MB, about 306,000 tokens, and `AGENTS.md` requires a writing pass to load all five of them *plus* the previous twenty to thirty chapters, which at roughly 4,500 tokens a chapter is another 90,000 to 135,000. **The two requirements cannot both be met inside a context window, and the observed symptom was phase `next-0016` deferring and re-dispatching.** Compaction is therefore a fix to the defer/retry loop and not a preference about file size.
-
-**WHAT A PASS THAT NEEDS ONE OF THESE BLOCKS DOES.** Take its number from this index, then read it out of the repository history at the commit that preceded this one — `git show 85ccd18:state/continuity.md` — and take the line range. **The text was not deleted, only moved out of the working file, and the history is the copy.** Do not reconstruct a block from this index; an index line is a pointer and not a substitute.
-
-**WHAT WAS DELIBERATELY KEPT, IN WRITING, AND IT IS THREE THINGS.** The signpost at the head of this file, which is what a pass loads first. **The live block at the foot of this file, which declares itself the state of the file and which restates the anchors, the people, the prohibitions and the hand-on in full, and which was not one line of it changed.** And, in `state/chapter-summaries.md` only, **the summaries of Chapters 791 to 820, which are the thirty chapters a pass writing Chapter 831 is entitled to read**; the Volume 16 and Volume 17 movement blocks for those chapters are below this index and were kept whole.
-
-**THE HOUSE PATTERN THAT MADE THIS NECESSARY, STATED SO A LATER PASS DOES NOT REDISCOVER IT.** Every batch appends a new dated block at the foot and relabels everything above it as archive, and nothing has ever retired a block. `AGENTS.md` asks for summaries that stay compact and for rolling summaries with a volume index in place of the whole manuscript; **this file had become the thing `AGENTS.md` asks not to build.** Two earlier passes had already compacted once, at Chapters 1 to 150 and at Chapters 651 to 680, and the blocks they made are themselves now inside this index.
-
-**A PASS THAT APPENDS TO THIS FILE FROM HERE.** Append one dated block at the foot and relabel this one as archive on the same pass. **Do not restore the compacted prose, and do not let a file in this set pass about 60 KB again without compacting its own archive in the same pass that made it too large.**
-
----
-
-## THE INDEX OF COMPACTED BLOCKS — 19 blocks, and what each of them was called
-
-- **Formerly lines 11–47** — ARCHIVE — THE BLOCK THAT USED TO HEAD THIS FILE. IT DECLARED ITSELF LIVE AT CHAPTER 720 AND IT IS KEPT WHOLE AND IT IS NOT STATE.
-- **Formerly lines 48–82** — SUPERSEDED AND KEPT AS HISTORY — NOT A STATE — LIVE — CONTINUITY AT CHAPTER 680, COMPACT, DATED AFTER EVERYTHING BELOW
-- **Formerly lines 83–174** — ARCHIVE INDEX — EVERY SUPERSEDED BLOCK BELOW THE LIVE BLOCK IN THIS FILE, COMPACTED
-- **Formerly lines 175–212** — THE ARCHIVE THAT WAS ALREADY AN ARCHIVE, RESTORED, AND IT IS NOT A SUPERSEDED BLOCK AND WAS NOT IN SCOPE
-- **Formerly lines 213–246** — LIVE — CONTINUITY ADDED FOR MOVEMENT III, CHAPTERS 721 TO 730
-- **Formerly lines 247–288** — LIVE — CONTINUITY ADDED FOR MOVEMENT IV, CHAPTERS 731 TO 740
-- **Formerly lines 289–349** — LIVE — CONTINUITY ADDED FOR MOVEMENT V, CHAPTERS 741 TO 750
-- **Formerly lines 350–395** — LIVE — CONTINUITY AT THE CLOSE OF VOLUME 15, CHAPTER 760. DATED AFTER EVERYTHING BELOW
-- **Formerly lines 396–428** — LIVE — THE VOLUME 15 CLOSE, DATED 30 SEPTEMBER 2026, AFTER EVERY BLOCK ABOVE
-- **Formerly lines 429–509** — LIVE — CONTINUITY AT CHAPTER 770, THE LAST PAGE OF MOVEMENT I OF VOLUME 16. DATED AFTER THE MOVEMENT'S LAST MEASUREMENT
-- **Formerly lines 510–545** — LIVE — CONTINUITY AT CHAPTER 780, THE LAST PAGE OF MOVEMENT II OF VOLUME 16. DATED AFTER THE MOVEMENT'S LAST MEASUREMENT
-- **Formerly lines 546–572** — 6. WHAT MOVEMENT III ADDED, AND IT IS SEVEN THINGS AND NONE OF THEM IS A RESOLUTION
-- **Formerly lines 573–621** — LIVE — MOVEMENT IV OF VOLUME 16 WRITTEN, MEASURED AND HANDED ON. DATED AFTER EVERYTHING ABOVE, WHICH IS ARCHIVE AND NOT STATE
-- **Formerly lines 622–689** — LIVE — MOVEMENT V OF VOLUME 16 WRITTEN, REPAIRED, REVIEWED AND HANDED ON. DATED AFTER EVERYTHING ABOVE, WHICH IS ARCHIVE AND NOT STATE
-- **Formerly lines 690–753** — LIVE — CONTINUITY AT CHAPTER 820, THE LAST PAGE OF VOLUME 16, AFTER THE MOVEMENT'S LAST MEASUREMENT. DATED AFTER EVERYTHING ABOVE, WHICH IS ARCHIVE AND NOT STATE
-- **Formerly lines 754–813** — CONTINUITY — VOLUME 16 REVIEW REPAIR PASS, AFTER CHAPTER 820. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE
-- **Formerly lines 814–879** — CONTINUITY — THE VOLUME 16 CLOSE, WRITTEN AFTER THE CLOSE'S LAST MEASUREMENT. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE
-- **Formerly lines 880–925** — LIVE — CONTINUITY ADDED BY THE MOVEMENT V RE-VERIFICATION, DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE
-- **Formerly lines 926–938** — LIVE — CONTINUITY ADDED BY A REVIEW OF MOVEMENT V, DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE. THIS BLOCK DOES NOT ABSORB ANY EARLIER BLOCK
-# LIVE — CONTINUITY, VOLUME 17 MOVEMENT I, CHAPTERS 821 TO 830. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
 
 ## The settled arithmetic, re-derived and not read off a chapter
 
@@ -301,3 +261,39 @@
 - **Unchanged and re-verified:** the sixteen series at `day − anchor` on all ten files with zero off-anchor; the load-book markers at 854 to 863 with `(entry − chapter) = {3}`; the governed counter at 156 to 165; the woman's page at `day − 1573` reading 350 to 365 with 353 and 358 on no file; the place behind the chair named on Chapter 853 alone and carrying no figure; the book on sixty-seven lines and the tin on seventy-three throughout; the shutter at about ten on all ten; the register at four with no fifth; the ring binder shut on all ten days; and Chapter 849's refusal neither reopened nor softened nor converted.
 - **The next phase is `workspace/volume-17/batch-0005/`, Movement V, Chapters 861 to 870, and it is the only next-phase prompt in this volume.** Its §7 measurement paragraph has been corrected, because on 1 October it ordered Movement V to fix its tokenizer to §13.9 and then produce four numbers from Movement III's files that §13.9 does not produce — **which would have sent the next pass to discover that its instrument was broken, or to corrupt its own correct figures to match a wrong control.** It now carries both movements as controls, twenty-eight cells between them, and the instruction to prove the control on a tokenizer-independent cell before letting it move a word count.
 - **Still open and still owned elsewhere:** the untaken Volume 17 decision recorded in `NOVEL_SPEC.md`'s eighth Status block, which no pass may write; the nine debts the Volume 16 close carried forward; whether the practice the four hundred kept after their district left worked, which is the Volume 16 close's to say; the three volume closes that never ran; and `state/phase-ledger.json`, which was read and not written and about which nothing is written.
+
+---
+
+# LIVE — CONTINUITY, VOLUME 17 MOVEMENT V, CHAPTERS 861 TO 870. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+**THE MANUSCRIPT STANDS AT CHAPTER 870, THE MONDAY OF WEEK 295, DAY 1951, LOAD-BOOK ENTRY 873. MOVEMENT V IS WRITTEN AND MEASURED AND REVIEWED AND REPAIRED. THE NEXT PHASE IS `workspace/volume-17/batch-0006/`, THE VOLUME 17 CLOSE, WHICH WRITES NO CHAPTER AND IS A DIRECTORY.**
+
+## THE DAY MAP FOR MOVEMENT V, EVERY ROW WALKED AGAINST `week = (day − 502) // 7 + 88`
+
+| Ch | Day | Wk | Wd | Entry | Page `day − 1573` | Chair `day − 1484` | Counter `chapter − 695` |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 861 | 1939 | 293 | Wed | 864 | 366 | 455 — **named here and nowhere else** | 166 |
+| 862 | 1940 | 293 | Thu | 865 | 367 | 456 | 167 |
+| 863 | 1941 | 293 | Fri | 866 | 368 | 457 | 168 |
+| 864 | 1943 | 293 | **Sun** | 867 | 370 | 459 | 169 |
+| 865 | 1944 | 294 | Mon | 868 | 371 | 460 | 170 |
+| 866 | 1945 | 294 | Tue | 869 | 372 | 461 | 171 |
+| 867 | 1946 | 294 | Wed | 870 | 373 | 462 | 172 |
+| 868 | 1947 | 294 | Thu | 871 | 374 | 463 | 173 |
+| 869 | 1948 | 294 | Fri | 872 | 375 | 464 | 174 |
+| 870 | 1951 | 295 | Mon | 873 | 378 | 467 | 175 |
+
+**Days 1942, 1949 and 1950 carry no chapter and are a Saturday and a weekend, which is why the page reads 366 to 378 in three steps and 369, 376 and 377 are on no file.** `(entry − chapter) = {3}` on all ten rows. **There is no sitting in this movement and therefore no count is announced anywhere on its ten pages, because this volume's sittings are the Wednesdays of weeks 288, 292, 296 and 300 and Movement V runs on the Wednesdays of weeks 293 and 294 and a Monday of week 295.**
+
+## WHAT MOVEMENT V ADDED TO THE CONTINUITY OF THE MANUSCRIPT
+
+- **A man of about forty-seven, whose trade on a first floor over a line in Saltmarket opens on a Saturday and on a Sunday and on nothing else, and which takes orders through the week from a counter with one person at it.** He is the one who is going to be asked about the practice. Nobody in this city can find him on any day of the week, because a shopkeeper who is only in his shop at a weekend is a person whose weekend has a different name from everybody else's. **He was told on the Sunday of Chapter 864, a week early, and nobody has told him which day.** His one want is that the sheet say the road and not his name. He said it once and nobody argued with him about it. **He said nine words on the Monday of Chapter 865: I am opening on Sunday as I always open. He is not redeemed, nothing is forgiven, and nobody has thanked him.**
+- **A woman of about forty-four who works at that trade and who is the only person at its weekday counter.** Her one want is that the telling be written down and put in his hand, because a person who is handed a thing in a doorway hears about it afterwards. **She said that in about nine seconds on Chapter 862, wrote the road on a sheet on the Sunday, did not write his name, and put it in his hand.** She said in advance that she is not going to be thanked for it. **Nobody in this city has thanked her and nobody apologises to her for making her decide.** On Chapter 870 she has written a second sheet for herself and nobody has been told which road is on either one.
+- **Leo Marr is named once in this manuscript so far, on Chapter 868, by his own words and in his situation: he has been in three rooms like that one and has never been in that one before that Thursday, and he said nine words, I have not been asked to do anything here.** He is given control of nothing, he decides nothing, nobody argued with him, and he is neither redeemed nor thanked nor forgiven. **The volume's plan places him in Movement V and this is the movement; he is on no page of Movements I to IV.**
+- **A ninth-word sentence now exists in this manuscript and is stated once:** *told in advance is not the same as prepared*, spoken by the man of about thirty-three who writes the wording on this city's forms, at Chapter 866, and **there is no box on anything this city sends out for it.** It is not on any sheet this city sends and it is not resolved.
+- **Two answers now exist and are true:** *we owe four hundred what we owe our own* and *it does not get to say what is true*, spoken by a man who is on no body in this city at Chapter 869, in about nine seconds each, in a face. **Nobody thanked him, nobody agreed, nobody disagreed, a woman put them on the back of a sheet in her bag, and he refused in about four seconds to sign.** They are about a practice and are not about a principle, and no page of Movement V says what the institution is for.
+- **The register of correct acts that changed nothing stands at four and nobody in this city counts it, and Movement V printed no fifth on any of its ten files.** Chapter 869 is the file a pass would be tempted to move it on, and that file says in its own words why it is not a fifth: because on that Friday nothing was done at all.
+- **The ninth chair did not move on any of the ten days and its mover is named on no page of them. The place behind the chair of the woman of about sixty-one is named on Chapter 861 and on no other file, once, with no figure on it, in a paragraph that distinguishes it from the ninth chair in the same sentence.**
+- **Three books in three buildings in three districts carry a description of four hundred people who live in another region, and all three were written on purpose by nobody.** A man asked on Chapter 867 what happens to a description of four hundred people written down in a city which is not their own, and nobody in that room could answer him and nobody has answered him since, and the word for it was in about four mouths that evening and not one of them said it.
+
+**AND WHAT IS STILL OPEN AND WAS NOT PAID.** The answer to Volume 08's question is still a chair. The four words are printed nowhere. The finding about the third word is on nobody's desk and the woman of about thirty-four was not told it on Chapter 870 and did not say what a person over there calls those people. The nine hand copies are uncompared. The four hundred in the district that left in Volume 16 keep their practice by other means and this volume says nothing about whether it worked. Chapter 849's refusal stands as a refusal about a signature and was not reopened, softened or converted. Iona Sorn is in custody and unanswered. The room under the building is dark. The binder stayed shut.
