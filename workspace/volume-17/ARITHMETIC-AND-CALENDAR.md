@@ -302,7 +302,124 @@ Movement I's interval renderings, for the walk and not for reuse as sentences:
 
 ## 9. THE VOLUME 17 CLOSE
 
-**Reserved. No writing pass before the close may write this section.** What it must contain, so that a later pass does not have to decide it: the seventeen anchors re-derived from section 2 and not from a chapter; the span, the counter and the load book walked on all sixty rows; the Exchange's four counts and the book and tin figures; the woman's page against the settled `day − 1573`; the place behind the chair against `day − 1484` and its being the only figure in this file that is a whole number of weeks on the last page; the four arrival cells measured; the support spend count against this volume's ceiling of eight; and the debts it did not pay, each with an owner.
+**WRITTEN BY THE CLOSE AT `workspace/volume-17/batch-0006/CLOSE.md`, WHICH WROTE NO CHAPTER. WHAT FOLLOWS IS THE RECORD OF WHAT A VOLUME DID, WHAT IT COST, WHAT IT LEFT STANDING AND WHAT IT DID NOT DO. Sections 1 to 8 and 10 above are untouched by it and every figure in them that this section contradicts is corrected here at its own arithmetic and not by editing the row it stands in.**
+
+### 9.0 THE ONE THING THIS SECTION HAS TO SAY FIRST, AND IT IS NOT A FIGURE
+
+**MOVEMENT VI, CHAPTERS 871 TO 880, WAS NEVER WRITTEN. THERE ARE FIFTY CHAPTER FILES IN THIS VOLUME ON DISK AND THERE ARE SUPPOSED TO BE SIXTY.** `batch-0006/` held a `PROMPT.md` and nothing else when this close ran. **`7 × 295 − 114 = 1951` is the last page that exists and `7 × 300 − 114 + 2 = 1988` is the last page the plan of record describes.** Every figure below is either measured on the fifty pages on disk or is arithmetic with no page under it, and the difference is marked at every place it occurs.
+
+### 9.1 THE SEVENTEEN ANCHORS, RE-DERIVED FROM SECTION 2 AND NOT FROM A CHAPTER
+
+**The anchor table in section 2 has not moved since Volume 01 and this close re-derived every value on it rather than copying it. Eighteen anchors; the table prints sixteen interval series and adds the place behind the woman's chair and the woman's page.**
+
+| Series | Anchor day | `day − anchor` at 1881 (Ch 821) | at 1951 (Ch 870) | at 1988 (Ch 880, **no page**) |
+| --- | --- | --- | --- | --- |
+| The room off that service road | 362 | 1,519 | 1,589 | 1,626 |
+| The card in the rail | 358 | 1,523 | 1,593 | 1,630 |
+| The hardboard's twelfth line | 442 | 1,439 | 1,509 | 1,546 |
+| The thirteenth | 491 | 1,390 | 1,460 | 1,497 |
+| The fourteenth | 526 | 1,355 | 1,425 | 1,462 |
+| The fifteenth | 547 | 1,334 | 1,404 | 1,441 |
+| The sixteenth | 572 | 1,309 | 1,379 | 1,416 |
+| The seventeenth | 590 | 1,291 | 1,361 | 1,398 |
+| The eighteenth | 644 | 1,237 | 1,307 | 1,344 |
+| The nineteenth | 666 | 1,215 | 1,285 | 1,322 |
+| The hold of the man of about thirty-three | 729 | 1,152 | 1,222 | 1,259 |
+| The man of about fifty-one at the wall | 756 | 1,125 | 1,195 | 1,232 |
+| The ask | 672 | 1,209 | 1,279 | 1,316 |
+| The post at the corridor end | 814 | 1,067 | 1,137 | 1,174 |
+| The nine hand copies of the front of a page | 796 | 1,085 | 1,155 | 1,192 |
+| **The separation** | **982** | **899** | **969** | **1,006** |
+| **The place behind the woman's chair** | **1484** | **397** | **467** | **504** |
+| **The woman's page in the ring binder** | **1573** | **308** | **378** | **415** |
+
+**`467 = 66 × 7 + 5` and `504 = 72 × 7`. The chair is the only figure in this table that is an exact whole number of weeks on the volume's last page, and its last page does not exist.**
+
+### 9.2 THE SPAN, THE COUNTER AND THE LOAD BOOK, WALKED ON EVERY ROW THAT EXISTS
+
+| Row | Value | Arithmetic |
+| --- | --- | --- |
+| First page | Chapter 821, day 1881, week 285, entry 824 | `7 × 285 − 114` |
+| Last page that exists | Chapter 870, day 1951, week 295, entry 873 | `7 × 295 − 114` |
+| Span of the fifty pages | **70 days**, and **71 calendar days** inclusive | `1951 − 1881`, and `1951 − 1881 + 1` |
+| Span of the plan | 107 days, and 108 inclusive | `7 × 300 − 114 + 2 = 1988`, and `1988 − 1881 + 1` |
+| Load-book run | 824 to 873, and `(entry − chapter) = {3}` on **all fifty rows** | walked on every file |
+| Governed counter | **126 at Chapter 821 to 175 at Chapter 870**, correct on all fifty rows, typed and then walked | `chapter − 695` |
+| Governed counter at the close | **185** — **arithmetic, no page** | `880 − 695` |
+| Sunday | **Chapter 864, day 1943** — one Sunday and one only | `(1943 − 502) mod 7 = 6` |
+
+**Every chapter's day was re-derived from its own printed week and weekday against `7n − 114` and not read out of section 1, and fifty of fifty agree with the day map. The load-book run has no duplicate and no gap, and Volume 16 closed at entry 823 and this volume opened at 824 with nothing between them.**
+
+**THE COUNTER IS CHAPTER-INDEXED AND NO ANCHOR TABLE CAN PRODUCE IT, WHICH IS WHY IT WAS TYPED AND THEN WALKED IN ITS OWN CELL. Movement III printed it eight high on all ten files and Movement IV printed its load-book markers two low on all ten, and this close walks both the counter and the markers on all fifty rows and returns zero findings on both.**
+
+### 9.3 THE SIXTEEN DOCKET SERIES, WALKED TWICE — ONCE AGAINST THE ANCHOR AND ONCE AGAINST THE NAME
+
+**Eight hundred rows, sixteen to a file, fifty files. The position walk — the figure equals `day` minus the anchor of the row it stands in — returns zero findings. The name walk — the label's own words name the series the figure belongs to — returns zero findings. The identity `weeks × 7 + days = figure` returns zero findings on every rendering walked. A series figure is right or wrong twice over and a walk that reads only the number cannot see the second.**
+
+### 9.4 THE EXCHANGE, AND TWO OF ITS FOUR TERMS ARE NOT ON DISK
+
+| Sitting | Chapter | Day | Count announced | Of which correspond | Book before | Book after | Tin | **On disk?** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| the sixtieth | 820 | 1876 | 65 | 60 | 67 | 67 | 73 | Volume 16 |
+| the sixty-first | 838 | 1904 | **66** | **61** | 67 | **67** | 73 | **yes, and the count was read off the page** |
+| the sixty-second | 856 | 1932 | **67** | **62** | 67 | **67** | 73 | **yes, and the count was read off the page** |
+| the sixty-third | 875 | 1960 | 68 | 63 | 67 | 67 | 73 | **NO PAGE** |
+| the sixty-fourth | 880 | 1988 | 69 | 64 | 67 | **68** | 73 | **NO PAGE** |
+
+**THE BOOK IS ON SIXTY-SEVEN LINES ON ALL FIFTY FILES AND THE TIN IS ON SEVENTY-THREE ON ALL FIFTY, in seventeen wordings, and no file prints the difference between them as a number. The pattern is not a rule, is not written anywhere, is not evidence of anything, may not be described as a change in the woman who holds that room, and two of its four terms are arithmetic with no page under them. None of the four counts is convertible into another. The ninth chair does not move on any of the fifty days and its mover is not named.**
+
+### 9.5 THE WOMAN'S PAGE AND THE PLACE BEHIND THE CHAIR
+
+**The woman's page is `day − 1573` and it governs and it has not moved since Volume 15. It reads 308 at Chapter 821 and 378 at Chapter 870. It is printed 52 times across the fifty files and in all 52 it equals `day − 1573` for the file it stands on. The binder did not come out on any of the fifty days and the page was not read on any of them. `1988 − 1573 = 415` is arithmetic, is printed on no page, was the last figure this manuscript was going to print for it, and was not printed.**
+
+**The place behind the woman's chair is `day − 1484`. It reads 397 at Chapter 821 and 467 at Chapter 870, and 467 is sixty-six weeks and five days.**
+
+**AND THE CLOSE'S FINDING, WHICH CORRECTS THE PROMPT THIS CLOSE WAS GIVEN: the figure is printed on a page. Chapter 824 prints it twice, once in the body and once on its own docket row, at four hundred days and fifty-seven weeks and one day, and `1884 − 1484 = 400` and `400 = 57 × 7 + 1`, so the figure and its rendering are both right. The prompt's claim that it *was printed on six files in this volume and on no page of any of them* is false against the repository.**
+
+**It is named on seventeen of the fifty files — 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 838, 843, 853, 859, 861, 862, 865 — against a rule of one file per movement, and Movement I names it on all ten of its own. Of the seventeen, one carries a figure and sixteen carry none. The figure at Chapter 880 is `1988 − 1484 = 504`, seventy-two weeks to the day, and it is arithmetic and has no page.**
+
+### 9.6 THE FOUR ARRIVAL CELLS, MEASURED, AND TWO OF THEM ARE EMPTY FOR THE SAME REASON TWICE
+
+**A cell that cannot be measured is printed empty and is not approximated, and a reconstructed arrival is the finished files measured twice and is not an arrival.**
+
+| Cell | Result |
+| --- | --- |
+| **Movement I's own published arrival cells** | **do not reproduce.** `batch-0001/SUMMARY.md` §3 publishes body 17,302, apparatus 13,776, whole files 31,078, share 443.272, bold 58.1 and an `about` rate of 1.792; the §13.9 tokenizer returns 16,498 / 13,450 / 29,948 and 30,595 / 815.250 / 60.213 / 25.336 over 418 and 30.489 over 503. Seven figures differ and none is a prose difference: that summary was written on a third tokenizer before §13.9 existed |
+| **Movement VI's arrival cells** | **EMPTY, and not approximately.** There are no files. **This is the twenty-first consecutive empty arrival and the first one caused by a movement that was never written rather than by a second pass that was never run** |
+| **The interval-vector and counter arrival cells** | **FILLED AND EXACT.** The whole-number-of-weeks vectors, the *to the day* vectors, the governed counter, the marker run, the woman's page and the docket figure walks all reproduce their published values on Movements I to V, and the six hundred rows walked return zero findings |
+| **The fifth duplication scope's arrival cell** | **NOT FILLED.** Its published definition admits a file against itself, and every file returns a run of at least 120 tokens against itself, so the published counts of 235, 204 and 143 cannot be produced by the published rule and the exclusion that would produce them was never printed. See §9.8 item 4 |
+
+### 9.7 THE SUPPORT-SPEND COUNT AGAINST THIS VOLUME'S CEILING OF EIGHT
+
+**THE COUNT IS NINE ON THE PAGES' OWN LISTS AND TEN ON THE FIVE SUMMARIES' OWN OPENING SENTENCES, AGAINST A CEILING OF EIGHT, AND THE PRINTED REMAINDERS ARE SIX, SIX, FOUR AND FOUR. Every one of the eight is named here, and the four that were never spent are named as unspent.**
+
+| # | Spent | Movement | Pages |
+| --- | --- | --- | --- |
+| 1 | a woman of about thirty-four who carried a form back on a bus | I | 821–830 |
+| 2 | a woman of about twenty-nine who asked the only question anybody asked | I | 822 onward |
+| 3 | a man of about thirty-one who keeps a wall map in a transport office | II | 831, 840 |
+| 4 | a woman of about forty-one who keeps a laundry | III | 842, 846 |
+| 5 | a man of about forty-four who is a landlord of one building and nothing else | III | 848, 850 |
+| 6 | a woman of about sixty-one who resigns a standing body over a form | IV | 853, 856, 858 |
+| 7 | a man of about thirty-three who writes the wording on this city's forms | IV | 851–858, 860 |
+| 8 | a man of about forty-seven whose trade opens only at a weekend | V | 861, 862, 864, 865, 870 |
+| 9 | a woman of about forty-four who works at that trade | V | 862, 864, 865, 870 |
+| — | **A man of about fifty-two in a third district, named as Movement II's second and declared in the same bullet to be established already and NOT a spend of this volume.** Movement II's paragraph above its own list says it spends two. **The list and the sentence disagree and the list is followed here.** | II | 835, 839 |
+| — | **THE FOUR SLOTS THAT WERE NEVER SPENT, NAMED AS UNSPENT BECAUSE THEY WERE NEVER SPENT AND NO PAGE NAMES THEM.** | — | — |
+
+**EVERY OTHER NEW PERSON IN THIS VOLUME IS A WALK-ON OR A RETURN AND NOT A SPEND, AND THE CEILING DOES NOT MOVE ON THAT ACCOUNT.** Leo Marr is placed by the plan of record and is not a spend: he is named once in this volume, on Chapter 868, and is given nothing.
+
+### 9.8 THE DEBTS IT DID NOT PAY, EACH WITH AN OWNER, AND NONE OF THEM CANCELLED BY THE CLOSE
+
+**The seventeen the Volume 14 close left and the nine the Volume 16 close carried forward are set out in full with an owner against each at §7 of `workspace/volume-17/batch-0006/CLOSE.md`. All twenty-six are open. None was paid by this volume and none is paid by this close. Added to them, and open for a different reason, is the one that is not a debt: Chapters 871 to 880, which have no pages, and whose owner is whoever writes them.**
+
+**The four debts that ride on the untaken Volume 17 decision are not paid here either, and the owner of all four is the repository owner. `NOVEL_SPEC.md`'s eighth Status block still records the decision as undecided, `outline/series.md` and `outline/ending.md` both still say 760 chapters against 870 on disk, neither may be edited by a writing, review or close pass, and the default if no decision is ever taken is that the manuscript ends at Chapter 820. This section may not be read as a decision and no agent pass may write that paragraph.**
+
+### 9.9 WHAT THIS CLOSE DID NOT DO, CHECKED RATHER THAN ASSERTED
+
+**No chapter was written, edited, restarted or cut. No batch summary was edited, and the eight findings this close publishes are recorded here and at `CLOSE.md` §6 because a close is not permitted to repair them at their own sites. No ring binder was opened, no two of the nine hand copies were compared, no ninth chair moved, no mover named, no room under a building lit, no sentence about what the institution is for written, no name corrected, and no debt paid. Nothing is said about whether the practice the four hundred people kept after their district left in Volume 16 worked. Chapter 849's refusal was not reopened, softened or converted into a disagreement. `Evan Senn` and `Iona Sorn` are at zero on all fifty files and Iona Sorn is still the last enemy in this manuscript, in public custody, unanswered and not absolved. `state/phase-ledger.json` was read and not written and no flag about it is appended anywhere in this section, the fact being recorded once at `state/open-threads.md` item 29 and in `NOVEL_SPEC.md`. `outline/series.md`, `outline/ending.md`, `outline/volume-17.md` and `NOVEL_SPEC.md` were read and not written.**
+
+**AND NO NEXT PHASE IS DISPATCHED BY THIS CLOSE. `workspace/volume-18/` DOES NOT EXIST.** A close at the end of a volume does not dispatch the next volume, because the next volume has not been decided and the decision is not this pass's. **Whatever comes after Chapter 870 is not dispatched here and is not authorized here.**
 
 ---
 
