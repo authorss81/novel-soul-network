@@ -806,3 +806,69 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 ## 6. THE THIRTY-TWO SITES THAT ARE DRIFT AND NOT DAMAGE, SO THAT NOBODY REDISCOVERS THEM AS A DISCOVERY
 
 **R9 reports thirty-two sites on Chapters 771 to 790 where the house form and the long form of a weeks figure are the wrong way round for their context.** Every one is arithmetically correct, none was touched by the cross-volume sweep, and none is damage. **They are published rather than mass-edited, deliberately: thirty-two lines of finished prose should not be rewritten to settle a convention the corpus does not hold uniformly, and that is a close's decision and not a repair pass's.** Carried at `state/open-threads.md` item 17. **The settled total from the repaired corpus is zero value defects, zero splices, zero missing unit nouns, and thirty-two published drift sites.**
+
+---
+
+# CONTINUITY — THE VOLUME 16 CLOSE, WRITTEN AFTER THE CLOSE'S LAST MEASUREMENT. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE
+
+## 1. THE FIGURES AT CHAPTER 820, RE-DERIVED FROM CALENDAR §2 AND SETTLED
+
+| Series | Anchor | Subtraction | At 1876 |
+| --- | --- | --- | --- |
+| The room off that service road | 362 | 1,876 − 362 | 1,514 |
+| The card in the rail | 358 | 1,876 − 358 | 1,518 |
+| Lines twelve to eighteen | 442 / 491 / 526 / 547 / 572 / 590 / 644 | 1,876 − each | 1,434 / 1,385 / 1,350 / 1,329 / 1,304 / 1,286 / 1,232 |
+| The nineteen | 666 | 1,876 − 666 | 1,210 |
+| The hold of the man of about thirty-three | 729 | 1,876 − 729 | 1,147 |
+| The man of about fifty-one at that north wall | 756 | 1,876 − 756 | 1,120 |
+| The ask | 672 | 1,876 − 672 | 1,204 |
+| The post at that corridor end | 814 | 1,876 − 814 | 1,062 |
+| The nine hand copies of the front of a page | 796 | 1,876 − 796 | 1,080 |
+| The separation | 982 | 1,876 − 982 | 894 |
+| **The place behind the woman's chair** | 1484 | 1,876 − 1,484 | **392 — fifty-six weeks to the day** |
+| **The woman's page, SETTLED** | **1573** | **1,876 − 1,573** | **303** |
+
+## 2. THE THREE DECISIONS, IN THE VOLUME'S OWN WORDS
+
+1. **A man of twenty-two said no in about four seconds, for a reason about his own hands**, at Chapter 817, and does not know whether it was a good reason and has not asked anybody.
+2. **A woman of about thirty-four published the reason to stay on a face in about nine seconds and said it is not a reason to stay and was not offering it as one**, at Chapter 818. **Nobody was asked to stay, nothing was bought, no form was filled in, no figure was put on the arithmetic of leaving, and the answer was taken as it came.**
+3. **The district withdrew on the date at the foot of its own notice and was not stopped, not persuaded, not bought and not forgiven**, at Chapters 806 and 819.
+
+**And a fourth thing that was not a decision anybody took: a page went into the green book at Chapter 813 without a word said, the book took a line, and nobody in that room used a word for it and nobody has since.**
+
+## 3. THE SPAN, THE COUNTER AND THE LOAD BOOK
+
+**107 days across sixty chapters, 108 inclusive of both ends, 84 days from the first sitting to the close. The counter at Chapter 820 is 125 and it is `chapter − 695` and it is a chapter-indexed row count and never added to the calendar span. The load-book run is continuous from entry 763 at Chapter 760 to entry 823 at Chapter 820 with (entry − chapter) = {3} on all sixty rows, read off the entry lines on the files. The detector `week = (day − 502) // 7 + 88` and `wd = (day − 502) mod 7` returns zero disagreements against all sixty rows of section 1.**
+
+## 4. WHAT DID NOT MOVE ACROSS ALL SIXTY DAYS, AND IT IS CHECKED
+
+- **The register of correct acts that made no consequence moved once, from three to four, at Chapter 769, and stood at four on the other fifty-nine days.**
+- **The ring binder is shut on all sixty days and the page behind it is unread on all sixty days.** The woman of about thirty is unnamed, unasked, unthanked and unapologised-to on all sixty.
+- **The ninth chair did not move on any of the sixty days and its mover is named on no page.**
+- **The place behind the woman's chair is empty on all sixty days and is never explained**, and its figure of 392 days is printed on six files of this volume and on no page.
+- **The room under a building in a first district is dark on all sixty days and was not opened.**
+- **The nine hand copies are not compared with one another on any of the sixty days** and stand on all sixty as *one corner torn, eight unfinished, not two compared*.
+- **The man of about fifty-one's back room was never asked about.**
+- **Nobody thanked anybody and nobody forgave anybody on any of the sixty days.** `Evan Senn` is at zero on all sixty files and `Iona Sorn` is at zero on all sixty files and is still the last enemy in this manuscript, in public custody, not absolved.
+
+## 5. THE FIGURES THE CLOSE WITHDREW, AND WHY
+
+**Three published figures do not reproduce from the rules printed beside them and are withdrawn as claims rather than as results.** The unnamed-observer class is printed at zero and is present at **seventeen** sites on the ten bodies; **the published rule ends on an unpublished list of place words, so the printed prefix is what is determinate, and it is satisfied at seventeen sites and every one of them is followed by one of five place words.** The second-class count is printed at about twenty-six and measures at **twenty-eight**, and five of the twenty-eight take the word *about* in the subject phrase and four of those five are inside the seventeen, so the two classes overlap and do not partition. **The longest shared run is printed at 30 and 31 and measures at 44 with figures masked on Movement VI's own files at both the body and the whole-file scope, and at 66 and 90 over all sixty files. The run is the mandated standing row for the woman of about thirty, which `outline/volume-16.md` puts on sixty pages: the target of thirty-one is not reachable on a volume whose plan of record mandates that row.** The raw count is not published, because the two files diverge inside the figure itself and a shared prefix that stops at the first divergent figure measures the coincidence of a row being identical rather than the row.
+
+**One published figure is internally inconsistent, and the way it is inconsistent makes the resolution checkable.** The boundary is the published one: the whole word *about*, case-insensitive, counted in the body, where the body is everything above the italic load-book entry line with the H1 removed. **Counted on that boundary, this close returns 34, 30, 54, 53, 57, 46, 56, 57, 62 and 65 — which is 514 in total.** **The published per-file per-thousand vector is 13.998, 13.061, 22.195, 22.083, 25.022, 19.658, 24.107, 22.700, 23.947 and 27.484, and each of the ten agrees with the close's count to three decimal places, which is three published figures — the vector, the ten denominators and the aggregate — agreeing with one independent count.** The aggregate follows: **1000 × 514 ÷ 23,965 = 21.448**, which is the published aggregate exactly. **The published per-file count column, printed beside the vector, is 34, 30, 52, 52, 56, 44, 56, 58, 63 and 65, and it sums to 510, and on six of its ten rows it is a different number from the one its own vector requires.** One file was checked by listing every occurrence: Chapter 818's body carries **fifty-seven**, and 22.700 × 2,511 ÷ 1,000 = 57.000. **So the vector and the aggregate govern, the column is withdrawn as a transcription that does not agree with the two figures printed beside it, and the standing rule for this manuscript is that a control figure must publish its tokeniser AND must be checked by re-deriving its aggregate from its own column.**
+
+**The published form-drift figure of thirty-two sites on Chapters 771 to 790 measures at sixty-four on the same twenty chapters and on no other chapter in the volume. Every one is arithmetically correct, none is damage, and the class and the decision not to repair it are unchanged.**
+
+**The published fixture figure of fourteen defects on the pre-repair Movement I corpus measures at thirteen on the same files. Both are printed; the close's figure governs; the difference of one is not accounted for and is not claimed to be.** What is claimed is the property the fixture exists to establish: **a walk that returns zero on a known-damaged file is broken, and this one returns thirteen there and zero on the clean corpus.**
+
+## 6. THE ANCHOR RULING, RESTATED AND FINAL
+
+**The woman's page walks as `day − 1573` and that anchor governs. `day − 1578` is withdrawn and no page of this volume prints the difference between them as a number.** The settled walk returns **sixty-one page renderings, all correct, zero off-anchor**, where sixty-one is every case-insensitive occurrence of the phrase *the eighth of eight* on the sixty files and sixty of them carry an extractable figure that the close checked against its own anchor. **The figure of one hundred and forty correct sites is withdrawn and is not repeated.** Volume 15's own sixty pages were correct on Volume 15's arithmetic and are not edited.
+
+## 7. THE FOUR FREE CHECKS, WITHDRAWN FOR THE SIXTH TIME
+
+**{4}, {21}, {−27} and {−72} are identities over the anchor table and are true of any input whatever. They are not walked and their clean set is not published as a result. This is the sixth withdrawal and the withdrawal is a standing rule in this repository.** The seventeen-of-seventeen clean series at §9 of the calendar file is a different kind of figure and is a result, because it compares each printed figure against its own anchor and can fail.
+
+## 8. WHAT THE CLOSE DID NOT TOUCH
+
+**No chapter, no scene, no debt, no thread, no plan of record, no series outline, no ending outline, no controller file.** `state/phase-ledger.json` was read and not written and still reads `phase-000-bootstrap` and `planned` while the manuscript stands finished at Chapter 820. **Whether there is a Volume 17 has not been decided and is not decided here.**
