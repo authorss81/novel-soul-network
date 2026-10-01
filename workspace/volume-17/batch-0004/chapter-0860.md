@@ -110,7 +110,7 @@ He took the hinge apart, turned it, greased it, and refitted it with the pin sta
 Tuesday of week 293, at ten. That is the one hundred and sixty-fifth day of this stretch of days. The book for that Tuesday carries nine names and nine dates, the last of the dates entered at about ten to five. About two hours of the day were that counter.
 **There is no procedure in this city for asking a person whether they would accept being told what they were agreeing to stay inside of, and a man of about thirty-three has now left a standing body over the absence of one.**
 A man of about thirty-three went to a laundry on a road in a first district at about eleven and asked a woman of about forty-one whether she wanted to be asked anything at all about what she wrote in her own book about nine years ago.
-**She said no in about four seconds and the reason was about the asking and not about the four words. Nobody in that shop said a word to her.**
+**She said no in about four seconds, and what she gave as the reason was the asking and not the four words. Nobody in that shop said a word to her.**
 She stopped trading with him for the rest of that morning and told him to come back on a Monday like anybody else. **Nobody in this city has been told what she wrote, she is not going to be told what it means, and the asking has stopped.**
 A man of twenty-two decided at about four in the afternoon to ask one man one question on a Thursday in the week after next: was the width of the space at the foot of that sheet ever chosen, or is it only the size it is because it has always been that size.
 He is not the person who signs anything in this stretch of days and signed nothing that Tuesday.
