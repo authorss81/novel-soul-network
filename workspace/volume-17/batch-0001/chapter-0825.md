@@ -4,7 +4,7 @@
 
 ---
 
-Nine names went on that Friday's sheet and nine dates went with them, the last taken at about twenty to five. The shutter came down at about ten, which is the hour it comes down at on every day of this stretch of days.
+Nine names went on that Friday's sheet and each of them took a date, the ninth at about twenty to five. The shutter came down at about ten, which is where it goes down on every day of this stretch of days.
 
 **Line seventeen is one thousand two hundred and ninety-five days, one hundred and eighty-five weeks to the day. The post at that corridor end is one thousand and seventy-one, one hundred and fifty-three weeks to the day. The separation is nine hundred and three days, one hundred and twenty-nine weeks to the day.**
 
@@ -88,7 +88,7 @@ He took the whole run off, took the top nosing back to sound, refitted the run o
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and the eighth of eight has been on the back shelf behind her for three hundred and twelve days and has not been read, and nobody has asked her one question about it and nobody is going to.**
+**From half past six the fourth of those four rooms holds a woman of about thirty at her chair, her door shut, and the eighth of eight has lain on the back shelf behind her for three hundred and twelve days without being read. Nobody has asked her about it once. Nobody is going to.**
 
 ---
 
@@ -101,7 +101,7 @@ A hall in a fourth district stood open from about eleven until about seven. Abou
 **That four hundred is a number one man kept on a pad by the door. It is not a membership, it is not on a form of any body in this city, it is not the number of doors anything is at, and it is printed neither in the load book of that Friday nor in that Friday's body.**
 About four of the four hundred said something to her. A man of about sixty said he has done it over there for about thirty years and has never once been asked by anybody in this city whether it was safe. A man of about twenty-nine walked two days of bus travel to ask whether the word in the box was a fact or a politeness, and was told that she was not the person to ask, and said so again because he had come two days of bus travel.
 The count of the leaves on that sheet is not on any page of this movement.
-The charge for that Friday was twenty-six pounds, exact. That Friday is a day on which nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
+That Friday came to thirty-one pounds, exact. Nobody thanked anybody on it and nobody forgave anybody on it, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
 
 *Conditions and docket.* **Callers that Friday: nine. Work dated on that Friday: nine, the last name entered at about twenty to five. About eight hours of that Friday were a hall in a fourth district and about two hours of the rest of it were four fire doors.
 Rooms off that service road, four of them and one behind: one thousand five hundred and twenty-three days, two hundred and seventeen weeks and four days.
@@ -125,12 +125,12 @@ Refusals: none asked and none given. Nobody asked the woman who stood behind tha
 Work: nine, four closers, four millimetres, a split pin, four screws, nothing escalated, nothing handed back.
 Charge: twenty-six pounds, exact.*
 
-*Conditions of the close.* **That first floor above a line in Saltmarket holds a book bound in green which is on sixty-seven lines, and the tin on the same table is on seventy-three with its lid down. Neither of those two numbers has any arithmetic done on it anywhere and this page does not do any.
+*Conditions of the close.* **A green-bound book in that first floor is on sixty-seven lines. The tin on the same table is on seventy-three, lid down. Neither figure has been added to anything and this page adds nothing to them.
 The ninth chair is against that wall with its back to the whole of the room and did not move on that Friday and its mover is named on no page of this stretch of days. A hall in a fourth district is not that chair and the place behind the woman of about sixty is not that chair and a pad by a door is not that chair.
-Under a building in a first district there is a room, and at about eleven on that Friday there was no light in it; there is none in it now, and nobody is going to put one there.**
+Under a building in a first district is a room, and at about eleven on that Friday there was no light in it; there is none in it now and nobody is going to put one there.**
 
 *What the day did not settle, and the rest of it.* **That register stood at four on that Friday and stands at four, and four hundred people looking at a sheet in a hall is not on it and has not been counted on it by anybody in this city, and the woman who stood behind that table for about seven hours was not thanked and was not asked how she was.
-Each thing named below is named on its own and no sentence sets two of them side by side. The shutter. A board on two nails carrying nineteen ruled lines. A card folded once and propping a doorway. A hand copy of the front of a page. A cage fixed along the side of a counter. A strip of paper cut narrow with one word on it. A book bound in green. A rail of two with a card standing on end inside it. A tin, shut. A ring binder on a back shelf.
-The form on that table is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a pad by a door with a number of feet on it is a sixth thing and is not any of the ten. No sentence in the block below sets two of these things beside each other, and each has been named above on its own.
-Over a different matter altogether stands a dated rule, and the records behind it are open to anybody who asks. A woman of fifty-three is on a first floor under a hold and the inside of that door carries a list. About nine people in this city were once part of a network, are not in it now, and nothing has been put to them, and nobody has crossed a border in sixteen volumes until a woman of about thirty-four carried a form back on a bus on a Sunday and a man of about twenty-nine walked two days of bus travel to ask a question nobody answered.
+The list below runs to ten and every entry in it stands by itself in this page. Ten things, and the first is the shutter. Then a board on two nails with nineteen ruled lines on it. A card folded once and propping a doorway. The front of a page, copied out by hand. A cage along the flank of a counter. A narrow strip of paper with one word on it. A book in green. A rail that holds two and has a card standing upright in it. A closed tin. A ring binder on a shelf at the back.
+The form on that table is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a pad by a door with a number of feet on it is a sixth thing and is not any of the ten. No line below this one sets any two of them side by side, and each was named on its own above.
+Over some entirely different matter there stands a dated rule, and the records behind it can be had by anybody who asks. A woman of fifty-three is held on a first floor and the inside of that door carries a list of names. About nine people in this city were part of a network once and are not in it now, and nothing has been put to them, and nobody has crossed a border in sixteen volumes until a woman of about thirty-four carried a form back on a bus on a Sunday and a man of about twenty-nine walked two days of bus travel to ask a question nobody answered.
 Nobody thanked anybody and nobody forgave anybody on that Friday. About four hundred people came through one door to look at one sheet, and about four of them said anything, and one man who has done it for about thirty years said that in all those years nobody in this city ever asked him whether it was safe, and that is the only sentence anybody made that day that anybody wrote down.**

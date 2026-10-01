@@ -4,7 +4,7 @@
 
 ---
 
-Nine names went on that Tuesday's sheet and nine dates went with them, the last taken at about twenty to five. The shutter came down at about ten, which is the hour it comes down at on every day of this stretch of days.
+That Tuesday's sheet took nine names and nine dates between them, the last of the dates taken at about twenty to five. The shutter came down at about ten, which is the hour it comes down at on every day of this stretch of days.
 
 **Those four rooms stand at one thousand five hundred and twenty-seven days, two hundred and eighteen weeks and one day, and the card on end in the rail by that door is four days further on at one thousand five hundred and thirty-one, two hundred and eighteen weeks and five days, and the rail takes two.**
 
@@ -66,7 +66,7 @@ He dug out the base, cut new holding-down bolts, and grouted the base back into 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and the eighth of eight has been on the back shelf behind her for three hundred and sixteen days and has not been read, and nobody has asked her one question about it and nobody is going to.**
+**The fourth of those four rooms has been holding a woman of about thirty at her chair since half past six with the door shut, and the eighth of eight has not come off the back shelf behind her in three hundred and sixteen days. She has not been asked about it and is not going to be.**
 
 ---
 
@@ -78,7 +78,7 @@ Tuesday of week 286, at ten. That is the one hundred and thirty-second day of th
 A depot on a road in a fourth district had about nine people in it from half past six and about four of them had asked a man of twenty-two to say out loud whether he thought it was safe, and he said no in about four seconds with a reason that was about his own hands and not about four hundred people.
 He was asked a second question, which was whether he would say yes if nobody wrote it down, and he gave the same reason in about four seconds, and about four people in that depot said afterwards that the same reason twice in nine seconds did not sound like a decision made for himself.
 The count of the leaves on a printed sheet is not on any page of this movement.
-The charge for that Tuesday was thirty-one pounds, exact. That Tuesday is a day on which nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
+The charge for that Tuesday was thirty-one pounds, exact. On it nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
 
 *Conditions and docket.* **Callers that Tuesday: nine. Work dated on that Tuesday: nine, the last name entered at about twenty to five. About an hour of that Tuesday was a depot in a fourth district and about two hours of the rest of it were a board stack, a conduit run, a set of points and a lamp standard.
 Rooms off that service road, four of them and one behind: one thousand five hundred and twenty-seven days, two hundred and eighteen weeks and one day.
@@ -102,12 +102,12 @@ Refusals: one, about four seconds, by a man of twenty-two, to say out loud wheth
 Work: nine, four boards, a mortar mix, a batten, four saddles, about four inches of tray, a solvent, a rag, four holding-down bolts, nothing escalated, nothing handed back.
 Charge: thirty-one pounds, exact.*
 
-*Conditions of the close.* **That first floor above a line in Saltmarket holds a book bound in green which is on sixty-seven lines, and the tin on the same table is on seventy-three with its lid down. Neither of those two numbers has any arithmetic done on it anywhere and this page does not do any.
+*Conditions of the close.* **The green-bound book in that first floor above the line in Saltmarket stands at sixty-seven lines. The tin beside it stands at seventy-three and stays shut. Nobody in this city adds those two numbers together and this page does not.
 The ninth chair is against that wall with its back to the whole of the room and did not move on that Tuesday and its mover is named on no page of this stretch of days. A depot on a road in a fourth district is not that chair and the place behind the woman of about sixty is not that chair.
-Under a building in a first district there is a room, and at about eleven on that Tuesday there was no light in it; there is none in it now, and nobody is going to put one there.**
+A room sits under a building in a first district. At about eleven on that Tuesday there was no light in it, there is none now, and nobody is going to put one there.**
 
 *What the day did not settle, and the rest of it.* **That register stood at four on that Tuesday and stands at four, and a man saying no in four seconds to nine people is not on it and has not been counted on it by anybody in that depot or anywhere else in this city.
-Each thing named below is named on its own and no sentence sets two of them side by side. The shutter. A board on two nails carrying nineteen ruled lines. A card folded once and propping a doorway. A hand copy of the front of a page. A cage fixed along the side of a counter. A strip of paper cut narrow with one word on it. A book bound in green. A rail of two with a card standing on end inside it. A tin, shut. A ring binder on a back shelf.
-The form that went onto that table on the first Monday of this movement is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a set of points greased with the wrong compound is a sixth thing and is not any of the ten. No sentence in the block below sets two of these things beside each other, and each has been named above on its own.
-Over a different matter altogether stands a dated rule, and the records behind it are open to anybody who asks. A woman of fifty-three is on a first floor under a hold and the inside of that door carries a list. About nine people in this city were once part of a network, are not in it now, and nothing has been put to them, and about four hundred people over a border did a thing yesterday that nobody in this city has ever asked them about.
+Here are ten things, each named where it stands and none of them named in company with another. A shutter. A board, two nails, nineteen lines ruled on it. A doorway kept open by a card creased once. A hand copy of the front of a page. A cage on the flank of the counter. A strip of paper, narrow cut, one word written on it. A green-bound book. A rail of two, a card upright in one of them. A shut tin. A ring binder on the shelf at the back.
+The form that went onto that table on the first Monday of this movement is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a set of points greased with the wrong compound is a sixth thing and is not any of the ten. Nothing after this sentence puts two of them together, and each of the ten was named above on its own.
+A different matter altogether stands under a dated rule here, and the records behind it are for anybody who asks. A woman of fifty-three is held on a first floor, and a list is on the inside of that door. About nine people in this city were once part of a network, are not in it now, and nothing has been put to them, and about four hundred people over a border did a thing yesterday that nobody in this city has ever asked them about.
 Nobody thanked anybody and nobody forgave anybody on that Tuesday. A man was asked to say out loud whether a thing was safe and said no in about four seconds and gave a reason that was true and was not the reason anybody in that room had, and about four people in that depot said afterwards that it was the only answer anybody had given in about nine weeks that had a person in it instead of a policy, and he has said that he wanted to have said the other thing and does not know four hundred people.**

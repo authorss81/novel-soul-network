@@ -1,10 +1,10 @@
-# LIVE — CONTINUITY AT CHAPTER 820. VOLUME 16 IS CLOSED. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY ADDED BY A REVIEW OF MOVEMENT V*, AND THE BLOCK THAT FOLLOWS THIS ONE SAYS CHAPTER 720 AND IS NOT STATE.
+# LIVE — CONTINUITY AT CHAPTER 830. VOLUME 17 IS OPEN AND MOVEMENT I IS WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY, VOLUME 17 MOVEMENT I*, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE.
 
-**THE MANUSCRIPT STANDS AT CHAPTER 820, THE WEDNESDAY OF WEEK 284, DAY 1876, LOAD-BOOK ENTRY 823, AND VOLUME 16 IS CLOSED. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY ADDED BY A REVIEW OF MOVEMENT V* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS, BECAUSE A SIGNPOST THAT IS ONE APPEND OUT OF DATE SENDS THE NEXT READER TO HISTORY.**
+**THE MANUSCRIPT STANDS AT CHAPTER 830, THE FRIDAY OF WEEK 286, DAY 1892, LOAD-BOOK ENTRY 833, AND VOLUME 17 IS OPEN WITH MOVEMENT I WRITTEN. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY, VOLUME 17 MOVEMENT I* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS, BECAUSE A SIGNPOST THAT IS ONE APPEND OUT OF DATE SENDS THE NEXT READER TO HISTORY.**
 
-**A PASS THAT NEEDS ONE BLOCK FROM THIS FILE SHOULD TAKE THIS ONE AND STOP.** The block that headed this file declared itself live at Chapter 720 and named `workspace/volume-15/batch-0003/` as the next phase. Ten later passes appended dated blocks at the foot instead of correcting the block at the head, so eleven headings beginning `# LIVE` sat in one file — ten below that block, plus the block it replaced — and a reader loading the top of it would work from Volume 15. **`logs/VOLUME-CLOSE.review.log` records this as a navigation hazard and it is writer-actionable and is not on the controller-ownership list. Nothing was deleted; every block below is kept whole, because the differences between them are the arithmetic and the hand-offs.**
+**A PASS THAT NEEDS ONE BLOCK FROM THIS FILE SHOULD TAKE THIS ONE AND STOP.** Every block below this one places the manuscript at Chapter 720 and none of them is state.
 
-**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn and never silently dropped. The place behind the chair of the woman of about sixty is 392 days old at Chapter 820, fifty-six weeks to the day. The load-book run is 763 at Chapter 760 to 823 at Chapter 820 with `(entry − chapter) = {3}` throughout. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, and is not absolved, and nothing in this repair touched him or any planned ending.**
+**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn. The place behind the chair of the woman of about sixty is `day − 1484`, is 397 days old at the opening of Volume 17, is 504 days old at its close, and is printed on **one file of each movement and on no other** — in Movement I, on Chapter 824. The load-book run is 823 at Chapter 820, 824 at Chapter 821 and 833 at Chapter 830, with `(entry − chapter) = {3}` on every row. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, and is not absolved.**
 
 ---
 
@@ -933,3 +933,60 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 - **THE DATE AT THE FOOT OF THE DISTRICT'S OWN NOTICE IS UNCHANGED** and is still the volume's answer: it is forty days old at Chapter 820, it was in that district's own hand, and about four hundred people read it and did nothing about it, which is the whole of what the volume did and is not a defect.
 - **THE HEAD OF THIS FILE WAS A SIGNPOST POINTING AT A SUPERSEDED BLOCK AND IS NOW REPAIRED.** The sentence above this one named *THE VOLUME 16 CLOSE* as the governing block, which stopped being true when the Movement V re-verification was appended and again when this pass appended. **It names this block now, and the rule printed with it is that whoever appends next corrects it in the same pass.** Nothing was moved or deleted.
 - **WHAT THIS PASS DID NOT DO, AND THE REVIEW WAS RIGHT ABOUT ALL OF IT.** It did not write or remove any controller marker in `workspace/volume-16/batch-0005/`, so the re-dispatch loop the review found there is still there; it did not edit `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, `state/phase-ledger.json`, `NOVEL_SPEC.md`, `outline/series.md` or `outline/ending.md`; it did not create a phase; and it did not append a fifty-seventh flag on the phase ledger. **The reasoning for each of those, and the finding numbers behind them, are at the foot of `state/current.md`.**
+
+---
+
+# LIVE — CONTINUITY, VOLUME 17 MOVEMENT I, CHAPTERS 821 TO 830. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+## The settled arithmetic, re-derived and not read off a chapter
+
+| Series | Anchor | At Chapter 830 | At the Volume 17 close |
+| --- | --- | --- | --- |
+| The room off that service road | `day − 362` | 1,530 | 1,626 |
+| The card in the rail, which takes two | `day − 358` | 1,534 | 1,630 |
+| The hardboard's twelfth line | `day − 442` | 1,450 | 1,546 |
+| The thirteenth | `day − 491` | 1,401 | 1,497 |
+| The fourteenth | `day − 526` | 1,366 | 1,462 |
+| The fifteenth | `day − 547` | 1,345 | 1,441 |
+| The sixteenth | `day − 572` | 1,320 | 1,416 |
+| The seventeenth | `day − 590` | 1,302 | 1,398 |
+| The eighteenth | `day − 644` | 1,248 | 1,344 |
+| The nineteen, last line in use | `day − 666` | 1,226 | 1,322 |
+| The hold on nine crates | `day − 729` | 1,163 | 1,259 |
+| The man of about fifty-one at the north wall | `day − 756` | 1,136 | 1,232 |
+| What is still owed | `day − 672` | 1,220 | 1,316 |
+| The post at that corridor end | `day − 814` | 1,078 | 1,174 |
+| The nine hand copies of the front of one page | `day − 796` | 1,096 | 1,192 |
+| The separation | `day − 982` | 910 | 1,006 |
+| **The place behind the woman's chair** | `day − 1484` | **408** | **504, seventy-two weeks to the day** |
+| **The woman's page in the ring binder** | `day − 1573` | **319** | **415** |
+
+**No anchor has moved since Volume 01. The four free checks hold on all ten rows of Movement I: the card-minus-room invariant is {4}, the fourteen-less-fifteen is {21}, the fifty-one-less-hold is {−27} and the eighteen-less-sixteen is {−72}.** The four are identities and their clean set is a property of the anchor table and not evidence about a line of prose; that standing withdrawal is unchanged.
+
+## The eleven people on the page in Movement I, and which of them are new
+
+1. **A woman of about thirty-four.** She carried a form back on a bus from a town two days of travel away, at a stop with a timetable on the wall, and put it on a table in a first floor above a line in Saltmarket at about eleven on the first Monday. She works in a second district, she has four hundred people on a form she did not write, she has been asked by nobody to explain it, and she says she does not know what it is. She asked the man at the stop three questions on the bus and he answered two. **She is a spend.** She is not the author of the form and did not choose the word in the box.
+2. **A woman of about twenty-nine.** She asked the only question anybody asked on the Tuesday and was not answered, and she did not ask twice, and on the Thursday she had asked the man at the bus stop three questions and had told the room that on the Tuesday rather than telling the man of about fifty-two who was in the room. She made the argument that a bus timetable in this city has two names for about half its stops and the buses still run. **She is a spend.**
+3. **A man of about thirty-four who works on the second floor of that building.** He asked whether the man at the bus stop had said his name, wrote it on the back of the form in pencil, and was told no when he offered to take it off. He works in a second district in that building. **He is a return from Movement IV of Volume 16 and not a spend of this volume.**
+4. **A woman of about thirty-eight.** She has now asked the question four times in four rooms in about nine days — Movement I Chapter 822, 826, 827 and 830 — and on Chapter 828 she said the sentence the volume is built on: a man who cannot hold a release steady is not disqualified from saying a thing out loud, he is disqualified from being the only one who says it. **She is a return from Movement VI of Volume 16 and not a spend.**
+5. **A man of about fifty-two.** He is given the job of finding out how long *as it has been* is, puts the pen down without writing in about nine seconds, says a number one man keeps is a different object from a number people have taken, and later opens a drawer he has not opened since before the spring because a woman asked him a question about four words. **He is established in this manuscript and is not a spend.**
+6. **A man of about forty-four.** He reads the four correct acts out loud in a room and does not number them, and has said that he would like it noticed that he was asked to read them out and not asked to believe them. **He is established in this manuscript and is not a spend.**
+7. **A man of about thirty-four who owns four vehicles and has been in four volumes of this city.** He asked whether Marek would say yes if nobody wrote it down and got the same reason in four seconds. **Established, and not a spend.**
+8. **A man of about twenty-nine who walked two days of bus travel** to ask whether the word in the box was a fact or a politeness, and was told she was not the person to ask, and said it again anyway because he had come that far. **Walk-on, one appearance, not a spend.**
+9. **A man of about sixty and a woman of about thirty-eight and a man of about twenty-nine**, the three of the four hundred who spoke to the woman at the table in the hall in a fourth district. The man of about sixty has done it for about thirty years and has never once been asked by anybody in this city whether it was safe. **Walk-ons, and they are the first people over the border to speak in this manuscript.**
+10. **A woman of about fifty-two who keeps a register at a counter in a second district.** She said the thing that made the Tuesday's evening make sense: a question a room cannot answer is not a failure of the room, it is a question about somebody who is not in the room. **Established, and not a spend.**
+11. **Marek's four sentences in a corridor on Chapter 826** — about two of them about a decision he made in a different city a long time ago — which he did not say, and which the woman of about twenty-four did not ask for. **This is milestone nine of this volume and it is carried forward to Chapter 837 and to Chapter 828's corridor, and neither scene is about the two of them.**
+
+## What a later pass may not re-open, and it is the whole list
+
+- **The woman of about thirty-four does not know what the form is and is not told.** No chapter of this volume corrects her and no chapter of this volume gives her the four hundred.
+- **The man of about fifty-two's refusal to take the job is not retaken.** Nobody asked him to take it again on any of the ten days.
+- **The name written in pencil on the back of the form stays on it.** He did not ask for it again and she did not offer it.
+- **The register of correct acts that changed nothing is four and is not a fifth, and nobody counts it.**
+- **The binder does not come out.** The woman's page is not read and she is not named and nobody apologises to her.
+- **Whether the practice the four hundred kept after the district left in Volume 16 worked is not this volume's to say.**
+- **Iona Sorn is not absolved and is not on a page of Movement I.**
+
+## The one thing Movement I leaves open that Movement II exists to answer
+
+**A region is about to be given a name in this city by a person with no standing to give it a name, and the name will be wrong, and nobody in this city can correct it.** And: **one of the four words over the ruled line means the opposite on the other side of the border, and Chapter 829 established that the two sets of four words are not the same without saying which is right.** Those two are the whole of Movement II and they are stated in full at `workspace/volume-17/batch-0002/PROMPT.md` §2.

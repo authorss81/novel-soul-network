@@ -4,15 +4,15 @@
 
 ---
 
-Nine names went on that Thursday's sheet and nine dates went with them, the last taken at about twenty to five. The shutter came down at about ten, which is the hour it comes down at on every day of this stretch of days.
+That Thursday's sheet carried nine names with nine dates beside them, the last of those dates taken at about twenty to five. The shutter came down at about ten, the hour it comes down at on every day of this stretch of days.
 
 **The card in the rail is one thousand five hundred and twenty-six days, two hundred and eighteen weeks to the day, and it is four days ahead of the four rooms off that service road, and the rail takes two.**
 
 **Behind the chair of the woman of about sixty a place has stood empty since a week in the spring, and it is four hundred days old on that Thursday, which is fifty-seven weeks and one day, and it is set down here and on no other page of this stretch of days.**
 
-The ninth chair is against that wall with its back to the whole of the room and it did not move on that Thursday and its mover is named on no page of this stretch of days.
+The ninth chair is against that wall with its back to the whole of the room and it did not move on that Thursday, and the person who moves it is named on nothing anybody in this city holds.
 
-Nobody in that room asked her about the place and nobody in that room has asked her about it in about fifty-seven weeks.
+Nobody in that room asked her about the place, and in about fifty-seven weeks nobody has.
 
 ---
 
@@ -104,7 +104,7 @@ He lifted the cover, packed the frame up on three shims on the high side, and se
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and the eighth of eight has been on the back shelf behind her for three hundred and eleven days and has not been read, and nobody has asked her one question about it and nobody is going to.**
+**The fourth of those four rooms has a woman of about thirty at her chair from half past six with the door shut, and on the back shelf behind her the eighth of eight has been for three hundred and eleven days. It has not been read. No question about it has been put to her, and none is going to be.**
 
 ---
 
@@ -116,7 +116,7 @@ Thursday of week 285, at ten. That is the one hundred and twenty-ninth day of th
 That first floor above a line in Saltmarket stood open from half past six, and nine people went up the stair.
 A form was turned round on that table with a hand flat on the top edge before anybody in that room had spoken, and about eleven seconds passed before the first person there said anything, and it took about nine minutes for four people to get to the box in the bottom of it.
 The register of correct acts that changed nothing was read out in that room by a man of about forty-four at the request of somebody, all four of them, in about nine minutes. He did not number them and nobody in that room counted them and about two people in that room have said since that the counting was the wrong part. **A form, four instances, and an evening is not on that register and nobody wrote it down.**
-The charge for that Thursday was thirty-one pounds, exact. That Thursday is a day on which nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
+Twenty-six pounds, exact, is the charge for that Thursday. On it nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
 
 *Conditions and docket.* **Callers that Thursday: nine. Work dated on that Thursday: nine, the last name entered at about twenty to five. About an hour of that Thursday was a first floor above a line in Saltmarket and about two hours of the rest of it were four downpipes, a length of guttering, eleven paving flags and a manhole cover.
 Rooms off that service road, four of them and one behind: one thousand five hundred and twenty-two days, two hundred and seventeen weeks and three days.
@@ -141,12 +141,12 @@ Refusals: none asked and none given. Nobody asked the man who read the four out 
 Work: nine, four outlets raised, four rafter tails, eleven flags, three shims, nothing escalated, nothing handed back.
 Charge: thirty-one pounds, exact.*
 
-*Conditions of the close.* **That first floor above a line in Saltmarket holds a book bound in green which is on sixty-seven lines, and the tin on the same table is on seventy-three with its lid down. Neither of those two numbers has any arithmetic done on it anywhere and this page does not do any.
+*Conditions of the close.* **Sixty-seven lines are on that green-bound book in the first floor above the line, and seventy-three are on the tin beside it with the lid down. No sum is struck on either of them anywhere, and none is struck here.
 The ninth chair is against that wall with its back to the whole of the room and did not move on that Thursday and its mover is named on no page of this stretch of days. A form turned round on a table is not that chair, and the place behind the woman of about sixty is not that chair, and four instances read out in a room are not that chair.
-Under a building in a first district there is a room, and at about eleven on that Thursday there was no light in it; there is none in it now, and nobody is going to put one there.**
+A room sits under a building in a first district, and at about eleven on that Thursday it was dark. It is dark, and it stays that way.**
 
 *What the day did not settle, and the rest of it.* **That register stood at four on that Thursday and stands at four, and a form turned round on a table in a room of nine is not on it and has not been counted on it by anybody in that room or anywhere else in this city.
-Each thing named below is named on its own and no sentence sets two of them side by side. The shutter. A board on two nails carrying nineteen ruled lines. A card folded once and propping a doorway. A hand copy of the front of a page. A cage fixed along the side of a counter. A strip of paper cut narrow with one word on it. A book bound in green. A rail of two with a card standing on end inside it. A tin, shut. A ring binder on a back shelf.
-The form on that table is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a man's hand flat on the top edge of it is a sixth thing and is not any of the ten. No sentence in the block below sets two of these things beside each other, and each has been named above on its own.
-Over a different matter altogether stands a dated rule, and the records behind it are open to anybody who asks. A woman of fifty-three is on a first floor under a hold and the inside of that door carries a list, and about nine people in that room knew which floor and not one of them has said it to her. About nine people in this city were once part of a network, are not in it now, and nothing has been put to them, and nobody has crossed a border in sixteen volumes.
+What follows is a list of ten, and no sentence of this file puts any two of them next to each other. Down came the shutter. On two nails, a board ruled into nineteen. A doorway standing open on a card folded once. The front of one page, copied by hand. Along the side of the counter, a cage. Cut narrow, a strip of paper bearing one word. Green, the binding of a book. A rail of two with a card standing on end in it. A tin, shut. On a back shelf, a ring binder.
+The form on that table is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a man's hand flat on the top edge of it is a sixth thing and is not any of the ten. What comes after this does not lay two of them together either, and each of the ten was named above separately.
+A different matter altogether, and standing over it a dated rule, and the records behind that are open to anybody who asks. On a first floor a woman of fifty-three is held, and the inside of that door carries a list, and about nine people in that room knew which floor and not one of them has said it to her. Nine people in this city, more or less, were once part of a network and are not in it now, and nothing has been put to them, and nobody has crossed a border in sixteen volumes.
 Nobody thanked anybody and nobody forgave anybody on that Thursday. The four hundred people that form is about are not in this city, are not on a form of this body, cannot be asked by anybody in that room, and did it every day for longer than anyone in this city can put a date to, and a room of nine people in this city read out four things about themselves and got to the bottom of a piece of paper about other people in about nine minutes.**

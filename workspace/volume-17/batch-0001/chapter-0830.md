@@ -4,7 +4,7 @@
 
 ---
 
-Nine names went on that Friday's sheet and nine dates went with them, the last taken at about twenty to five. The shutter came down at about ten, which is the hour it comes down at on every day of this stretch of days.
+Nine names went onto that Friday's sheet with nine dates, the last of them taken at about twenty to five. The shutter came down at about ten, the hour it comes down at on every day of this stretch of days.
 
 **Those four rooms stand at one thousand five hundred and thirty days, two hundred and eighteen weeks and four days, and the card on end in the rail by that door is four days further on at one thousand five hundred and thirty-four, two hundred and nineteen weeks and one day, and the rail takes two.**
 
@@ -78,7 +78,7 @@ He rubbed the rail back where the paint had built on it, took the paint off the 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and the eighth of eight has been on the back shelf behind her for three hundred and nineteen days and has not been read, and nobody has asked her one question about it and nobody is going to.**
+**In the fourth of those four rooms a woman of about thirty has been at her chair from half past six with the door shut behind her, and for three hundred and nineteen days the eighth of eight has been on the back shelf behind her. It is not read. She has not been asked about it and is not going to be.**
 
 ---
 
@@ -92,7 +92,7 @@ Thirteen callers came to that counter on that Friday and the thirteenth name was
 He came in to say that out loud and not to be answered, and said he knew he would not be answered and came anyway. No sentence was said back to him. About four seconds passed.
 A man of about fifty-two, the eleventh caller, asked whether there was a room in this city he could walk into and be told the answer, and was told no in about four seconds with a reason that was about the room and not about him. He said that what he wanted was not an answer and was a room. He left without paying and was not asked to and has not been back and nobody has written down that he came in.
 The count of the leaves on a printed sheet is not on any page of this movement.
-The charge for that Friday was thirty-one pounds, exact. That Friday is a day on which nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
+The charge for that Friday was thirty-one pounds, exact. On it nobody thanked anybody and nobody forgave anybody, and no room in this city taught a thing to anybody or showed a thing to anybody or put a person through a thing.*
 
 *Conditions and docket.* **Callers that Friday: thirteen. Work dated on that Friday: thirteen, the last of the thirteen names entered at about twenty to five. About nine hours of that Friday were a counter and about two hours of the rest of it were a handrail, nine nosings, a fourth hinge and a painted rail.
 Rooms off that service road, four of them and one behind: one thousand five hundred and thirty days, two hundred and eighteen weeks and four days.
@@ -116,12 +116,12 @@ Refusals: one, about four seconds, by a man of twenty-two, to say one word to a 
 Work: thirteen, eight holes, nine nosings, four inches, one hinge, one strip, nothing escalated, nothing handed back.
 Charge: thirty-one pounds, exact, and one caller did not pay and was not asked to.*
 
-*Conditions of the close.* **That first floor above a line in Saltmarket holds a book bound in green which is on sixty-seven lines, and the tin on the same table is on seventy-three with its lid down. Neither of those two numbers has any arithmetic done on it anywhere and this page does not do any.
+*Conditions of the close.* **The book in that first floor is bound in green and is on sixty-seven lines; the tin on the same table is on seventy-three with its lid down. Neither of the two is added to anything and this page adds neither to anything.
 The ninth chair is against that wall with its back to the whole of the room and did not move on that Friday and its mover is named on no page of this stretch of days. A counter with thirteen callers on it is not that chair and the place behind the woman of about sixty is not that chair.
-Under a building in a first district there is a room, and at about eleven on that Friday there was no light in it; there is none in it now, and nobody is going to put one there.**
+A room lies under a building in a first district and at about eleven on that Friday it was dark. It is dark still and nobody is going to put a light in it.**
 
 *What the day did not settle, and the rest of it.* **That register stood at four on that Friday and stands at four, and a man saying out loud in a shop that he does not know whether something is safe is not on it and has not been counted on it by anybody in this city. **Movement I does not move that register and does not print a fifth instance, and nobody in this city has counted it since the ninth day of the last movement of the last volume.**
-Each thing named below is named on its own and no sentence sets two of them side by side. The shutter. A board on two nails carrying nineteen ruled lines. A card folded once and propping a doorway. A hand copy of the front of a page. A cage fixed along the side of a counter. A strip of paper cut narrow with one word on it. A book bound in green. A rail of two with a card standing on end inside it. A tin, shut. A ring binder on a back shelf.
-The form that went onto that table in a first floor on the first Monday of this movement is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a counter with thirteen callers on it is a sixth thing and is not any of the ten. No sentence in the block below sets two of these things beside each other, and each has been named above on its own.
-Over a different matter altogether stands a dated rule, and the records behind it are open to anybody who asks. A woman of fifty-three is on a first floor under a hold and the inside of that door carries a list. About nine people in this city were once part of a network, are not in it now, and nothing has been put to them.
+The ten named below are named apart, and nothing here sets one of them beside another. The shutter. Two nails, and a board ruled into nineteen lines across. A doorway standing open on a card folded once. A hand copy of the front of a page. A cage along the flank of the counter. A strip of paper cut narrow with one word on it. A green-bound book. A rail of two with a card standing on end in it. A tin, shut. A ring binder on a back shelf.
+The form that went onto that table in a first floor on the first Monday of this movement is a form carried back on a bus by a person and it is not the board on two nails and it is not the printed sheet that went up on two drawing pins, and a counter with thirteen callers on it is a sixth thing and is not any of the ten. Nothing below this line lays two of these things side by side, and each of them was named above on its own.
+A dated rule stands over a matter entirely apart from this one, and the records behind it are open to anybody who asks. A woman of fifty-three is held on a first floor under a hold and the inside of that door carries a list. About nine people in this city were once part of a network and are not in it now, and nothing has been put to them.
 Nobody thanked anybody and nobody forgave anybody on that Friday. **A man who had done it himself twice about eleven years ago and had been asked nothing at the time came into a shop and said so out loud, and nobody answered him, and he came anyway knowing he would not be answered, and the only sentence anybody made in that shop about him afterwards was that he had come to be the man in the room again and he had not.**
