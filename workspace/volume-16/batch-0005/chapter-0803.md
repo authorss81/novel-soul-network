@@ -126,7 +126,7 @@ He said that a handrail that moves at a join and a handrail that moves at a brac
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. Behind her on the back shelf the eighth of eight has been sitting for two hundred and fifty days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. Behind her on the back shelf the eighth of eight has been sitting for two hundred and fifty-five days.**
 
 ---
 

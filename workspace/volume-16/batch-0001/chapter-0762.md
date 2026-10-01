@@ -132,7 +132,7 @@ He let her in and did the work and charged her and she did not say anything abou
 
 **There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut.**
 
-The eighth of eight is her page, and it has been on that back shelf for a hundred and ninety-two days, and nobody asked her anything about it, and nobody is going to.
+The eighth of eight is her page, and it has been on that back shelf for a hundred and ninety-seven, and nobody asked her anything about it, and nobody is going to.
 
 ---
 

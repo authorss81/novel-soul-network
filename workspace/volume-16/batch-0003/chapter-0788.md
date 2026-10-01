@@ -118,7 +118,7 @@ He has said that the order is the only part of it that is worth anything, and th
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and twenty-nine days.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and thirty-four days.**
 
 ---
 

@@ -110,7 +110,7 @@ One of them asked whether the council had been told what it cost. He said he did
 
 ---
 
-**Behind the other three of those four rooms there is a fifth, and from about half past six a woman of about thirty sits in it at her chair with the door shut. What is on the back shelf is the eighth of eight and it has been there two hundred and eight days, and nobody in this city has put a question to her about it and nobody is going to.**
+**Behind the other three of those four rooms there is a fifth, and from about half past six a woman of about thirty sits in it at her chair with the door shut. What is on the back shelf is the eighth of eight and it has been there two hundred and thirteen days, and nobody in this city has put a question to her about it and nobody is going to.**
 
 ---
 

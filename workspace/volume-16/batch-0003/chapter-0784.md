@@ -124,7 +124,7 @@ The caretaker has since told two people that the word again in that column was n
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and twenty-three days.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and twenty-eight days.**
 
 ---
 

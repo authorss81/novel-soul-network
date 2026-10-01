@@ -112,7 +112,7 @@ Thirty-one pounds. He told the man that a shelf fixed to plasterboard carries th
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and the binder on the back shelf behind her is shut and the eighth of eight has been in it for two hundred and fifty-eight days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and the binder on the back shelf behind her is shut and the eighth of eight has been in it for two hundred and sixty-three days.**
 
 ---
 

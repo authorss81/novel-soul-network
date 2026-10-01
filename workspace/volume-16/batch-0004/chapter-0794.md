@@ -122,7 +122,7 @@ The man said he had bought ice on Tuesdays for two years. He said that on a Tues
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on that back shelf for two hundred and thirty-seven days without being opened.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on that back shelf for two hundred and forty-two days without being opened.**
 
 ---
 

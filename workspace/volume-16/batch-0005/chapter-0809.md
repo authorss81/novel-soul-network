@@ -120,7 +120,7 @@ Eleven pounds. He told the man that four shelves in that building are chipboard 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. Behind her, on the shelf, the eighth of eight has been sitting for two hundred and fifty-seven days and nobody has opened the binder.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. Behind her, on the shelf, the eighth of eight has been sitting for two hundred and sixty-two days and nobody has opened the binder.**
 
 ---
 

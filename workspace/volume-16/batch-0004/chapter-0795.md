@@ -120,7 +120,7 @@ He scraped the paint back off the frame with a chisel and filled it, and refitte
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the shelf behind her the eighth of eight has been sitting for two hundred and forty days and has not been opened.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the shelf behind her the eighth of eight has been sitting for two hundred and forty-five days and has not been opened.**
 
 ---
 

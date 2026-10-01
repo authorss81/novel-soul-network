@@ -116,7 +116,7 @@ He wrote the measurement down on the back of the man's own invoice and not on a 
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and on the back shelf behind her is the eighth of eight, and it has been there two hundred and twenty days and it has not been read and nobody has said one word to her about any of it.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and on the back shelf behind her is the eighth of eight, and it has been there two hundred and twenty-five days and it has not been read and nobody has said one word to her about any of it.**
 
 ---
 

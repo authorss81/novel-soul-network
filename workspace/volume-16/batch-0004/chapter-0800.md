@@ -116,7 +116,7 @@ Twenty-two pounds was for the hasp and this was twenty-six, and he told the man 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and forty-seven days and has not been read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and fifty-two days and has not been read.**
 
 ---
 

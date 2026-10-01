@@ -138,7 +138,7 @@ He did not unfold it. He stood in the street for about nine seconds and then wen
 
 ---
 
-**Four rooms off that service road and a fifth behind the other three stand at two hundred and seven days in one of them, where a woman of about thirty sat from about half past six with her door shut. Her page is the eighth of eight, it has been on that back shelf since the Monday of a week in the spring, and nobody has put a question to her about it and nobody is going to.**
+**Four rooms off that service road and a fifth behind the other three stand at two hundred and twelve days in one of them, where a woman of about thirty sat from about half past six with her door shut. Her page is the eighth of eight, it has been on that back shelf since the Monday of a week in the spring, and nobody has put a question to her about it and nobody is going to.**
 
 ---
 

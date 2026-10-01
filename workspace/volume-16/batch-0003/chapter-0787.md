@@ -110,7 +110,7 @@ The man of about fifty-two found the rota in the drawer an hour after he had sai
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and twenty-eight days.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and thirty-three days.**
 
 ---
 

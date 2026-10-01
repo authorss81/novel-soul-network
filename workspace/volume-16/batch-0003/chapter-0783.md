@@ -116,7 +116,7 @@ The woman of about thirty-four looked at the card for four seconds and did not s
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight is on the back shelf behind her, and it has been there two hundred and twenty-two days.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight is on the back shelf behind her, and it has been there two hundred and twenty-seven days.**
 
 ---
 

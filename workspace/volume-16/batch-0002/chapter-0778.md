@@ -115,7 +115,7 @@ A woman of about thirty-one came in at about half past five with a lamp from a s
 
 ---
 
-**The fourth of the four rooms off that service road has had a woman of about thirty sitting in it with her door shut since about half past six. What is on the back shelf behind her is the eighth of eight and it has been on that shelf two hundred and fifteen days, and it has not been looked at, and nobody in this city is going to look at it, and nobody has said a word to her about any of that.**
+**The fourth of the four rooms off that service road has had a woman of about thirty sitting in it with her door shut since about half past six. What is on the back shelf behind her is the eighth of eight and it has been on that shelf two hundred and twenty days, and it has not been looked at, and nobody in this city is going to look at it, and nobody has said a word to her about any of that.**
 
 ---
 

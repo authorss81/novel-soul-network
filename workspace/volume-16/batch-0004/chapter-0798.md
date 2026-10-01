@@ -122,7 +122,7 @@ Eight pounds and twenty minutes. He told the man to put a date on the bowl when 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and forty-three days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and forty-eight days.**
 
 ---
 

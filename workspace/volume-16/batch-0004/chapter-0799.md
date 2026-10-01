@@ -118,7 +118,7 @@ Nineteen pounds and forty minutes. The man said the wire had been put on by a ma
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and forty-four days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and forty-nine days.**
 
 ---
 

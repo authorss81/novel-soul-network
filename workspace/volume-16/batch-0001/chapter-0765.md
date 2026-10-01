@@ -6,7 +6,7 @@
 
 Twelve names went on that Friday's sheet and twelve dates went with them, the last at about twenty to five. The shutter came down at about ten.
 
-**Those four rooms off that service road are at one thousand four hundred and eleven days, two hundred and one weeks and four days, and the nine hand copies of the front of one page are at nine hundred and seventy-seven, a hundred and thirty-nine weeks and four days.**
+**Those four rooms off that service road are at one thousand four hundred and eleven days, two hundred days and one weeks and four days, and the nine hand copies of the front of one page are at nine hundred and seventy-seven, a hundred and thirty-nine weeks and four days.**
 
 **The nineteenth line is one thousand one hundred and seven, a hundred and fifty-eight weeks and one day. Line seventeen is one thousand one hundred and eighty-three, a hundred and sixty-nine weeks to the day, and the post at that corridor end is nine hundred and fifty-nine, a hundred and thirty-seven weeks to the day.**
 
@@ -120,7 +120,7 @@ About nine people worked in that yard on that Friday and about two of the four h
 
 **What it cost him was about eleven seconds and the knowledge that being the person a stranger says a true thing to in a yard is not the same as being useful, and he has known that for eleven years and it had never before been said to him in a place where about nine people could hear it.**
 
-**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for a hundred and ninety-five days and nobody has asked her about it and nobody is going to.**
+**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that back shelf for two hundred days and nobody has asked her about it and nobody is going to.**
 
 ---
 
@@ -137,13 +137,13 @@ He charged her nothing and she noticed and neither of them said a word about it.
 The charge for the Friday was thirty pounds, exact. Nobody thanked anybody and nobody was taught, shown, assessed or helped in any room in this city.*
 
 *Conditions and docket.* **Callers on that Friday: twelve, dated jobs: twelve, last name taken at about twenty to five. About half an hour of it were a water yard in a second district.
-Rooms off that service road, four of them and one behind: one thousand four hundred and eleven days, two hundred and one weeks and four days.
-That card in a rail that takes two: one thousand four hundred and fifteen days, two hundred and two weeks and one day.
+Rooms off that service road, four of them and one behind: one thousand four hundred and eleven days, two hundred days and one weeks and four days.
+That card in a rail that takes two: one thousand four hundred and fifteen days, two hundred days and two weeks and one day.
 Line twelve: one thousand three hundred and thirty-one days, one hundred and ninety weeks and one day.
-Line thirteen: one thousand two hundred and eighty-two days, one hundred and eighty-three weeks and one day.
-Line fourteen: one thousand two hundred and forty-seven days, one hundred and seventy-eight weeks and one day.
-Line fifteen: one thousand two hundred and twenty-six days, one hundred and seventy-five weeks and one day.
-Line sixteen: one thousand two hundred and one days, one hundred and seventy-one weeks and four days.
+Line thirteen: one thousand two hundred days and eighty-two days, one hundred and eighty-three weeks and one day.
+Line fourteen: one thousand two hundred days and forty-seven days, one hundred and seventy-eight weeks and one day.
+Line fifteen: one thousand two hundred days and twenty-six days, one hundred and seventy-five weeks and one day.
+Line sixteen: one thousand two hundred days and one days, one hundred and seventy-one weeks and four days.
 Line seventeen: one thousand one hundred and eighty-three days, one hundred and sixty-nine weeks to the day.
 Line eighteen: one thousand one hundred and twenty-nine days, one hundred and sixty-one weeks and two days.
 The nineteen, last line in use: one thousand one hundred and seven days, one hundred and fifty-eight weeks and one day.

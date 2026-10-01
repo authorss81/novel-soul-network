@@ -118,7 +118,7 @@ Eleven pounds. He told the man that a pulley which has turned over has been told
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. On the back shelf behind her the eighth of eight has been sitting for two hundred and fifty-one days and nobody has taken it off.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. On the back shelf behind her the eighth of eight has been sitting for two hundred and fifty-six days and nobody has taken it off.**
 
 ---
 

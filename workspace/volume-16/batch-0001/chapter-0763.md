@@ -112,7 +112,7 @@ A woman of about thirty-one put her palm flat on the wood for the length of a br
 
 **What it cost him was one figure he had in his head and did not say, on the one day in this stretch of days on which the number of that room did not go up, and the figure is printed above and appears on no other page of this movement.**
 
-**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that shelf for a hundred and ninety-three days and nobody has asked her about it and nobody is going to.**
+**There are four rooms off that service road and one behind the other three, and from about half past six a woman of about thirty sat in the fourth of them, at her chair, with her door shut, and her page is the eighth of eight and it has been on that shelf for a hundred and ninety-eight and nobody has asked her about it and nobody is going to.**
 
 ---
 

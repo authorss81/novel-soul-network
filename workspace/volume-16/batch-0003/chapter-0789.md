@@ -106,7 +106,7 @@ The woman of about thirty-four said that the eight dates are not a record of any
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and behind her the eighth of eight has been on a back shelf for two hundred and thirty days.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and behind her the eighth of eight has been on a back shelf for two hundred and thirty-five days.**
 
 ---
 

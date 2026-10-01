@@ -134,7 +134,7 @@ She asked what a sixteenth of an inch looks like to a person standing in a kitch
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her is the eighth of eight, and it has been there two hundred and thirty-four days, and it has not been read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her is the eighth of eight, and it has been there two hundred and thirty-nine days, and it has not been read.**
 
 ---
 

@@ -118,7 +118,7 @@ He freed the float, cleaned the valve, and told the man that a machine which dra
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and thirty-six days without anybody opening it.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and on the back shelf behind her the eighth of eight has been sitting for two hundred and forty-one days without anybody opening it.**
 
 ---
 

@@ -10,7 +10,7 @@ The board for that day carried no names and no dates, which has happened about n
 
 **Those four rooms and one behind the other three stand at one thousand four hundred and sixty-nine days, two hundred and nine weeks and six days, and the card propped upright in the rail by that door is one thousand four hundred and seventy-three days, two hundred and ten weeks and three days.**
 
-**The nine hand copies of the front of one page are one thousand and thirty-five days, a hundred and forty-seven weeks and six days, one corner torn, eight unfinished, and not two of them have been laid against each other. On the back shelf behind a woman of about thirty the eighth of eight has been sitting for two hundred and fifty-three days.**
+**The nine hand copies of the front of one page are one thousand and thirty-five days, a hundred and forty-seven weeks and six days, one corner torn, eight unfinished, and not two of them have been laid against each other. On the back shelf behind a woman of about thirty the eighth of eight has been sitting for two hundred and fifty-eight days.**
 
 ---
 
@@ -110,7 +110,7 @@ He told the man that a weld on a handrail is a repair for a broken rail and not 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the back shelf behind her and has been there for two hundred and fifty-three days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the back shelf behind her and has been there for two hundred and fifty-eight days.**
 
 ---
 

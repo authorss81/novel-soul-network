@@ -117,7 +117,7 @@ A woman of about thirty-one came in at about half past five and bought nine feet
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty sitting in it from about half past six with her door shut. What is on the back shelf behind her is the eighth of eight and it has been there two hundred and nineteen days and it has not been read and it is not going to be read and nobody has said one word to her about any of it.**
+**The fourth of those four rooms has a woman of about thirty sitting in it from about half past six with her door shut. What is on the back shelf behind her is the eighth of eight and it has been there two hundred and twenty-four days and it has not been read and it is not going to be read and nobody has said one word to her about any of it.**
 
 ---
 

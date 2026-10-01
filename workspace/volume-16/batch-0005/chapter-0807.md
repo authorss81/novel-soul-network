@@ -112,7 +112,7 @@ Eleven pounds. He told the man that a stop cock below a yard tap is four pounds 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight has sat on the back shelf behind her for two hundred and fifty-five days and it is still not read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight has sat on the back shelf behind her for two hundred and sixty days and it is still not read.**
 
 ---
 

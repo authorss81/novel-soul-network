@@ -109,7 +109,7 @@ A woman of about thirty-one laid her palm flat on the wood of the counter for ab
 
 ---
 
-**In the fourth of the four rooms off that service road a woman of about thirty has been sitting since about half past six with her door shut. What is on the back shelf behind her is the eighth of eight and it has been there two hundred and fourteen days, and it is unread, and nobody is going to read it, and nobody has said one word to her about it in all that time.**
+**In the fourth of the four rooms off that service road a woman of about thirty has been sitting since about half past six with her door shut. What is on the back shelf behind her is the eighth of eight and it has been there two hundred and nineteen days, and it is unread, and nobody is going to read it, and nobody has said one word to her about it in all that time.**
 
 ---
 

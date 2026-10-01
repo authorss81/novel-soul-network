@@ -132,7 +132,7 @@ He said nobody had told him anything. She said that was not her doing, and he ca
 
 **And at about half past six a woman of about thirty-six came in for a strap and paid and went out and was not asked anything and has not been in that shop on any other day of this stretch of days.**
 
-**The fourth of those four rooms has had a woman of about thirty sitting in it since about half past six with her door shut, and behind the other three is a fifth room and that is where the shelf is. On that shelf, for two hundred and twelve days now, has been the eighth of eight, and there is nobody in this city with a claim to it and nobody with the standing to ask her.**
+**The fourth of those four rooms has had a woman of about thirty sitting in it since about half past six with her door shut, and behind the other three is a fifth room and that is where the shelf is. On that shelf, for two hundred and seventeen days now, has been the eighth of eight, and there is nobody in this city with a claim to it and nobody with the standing to ask her.**
 
 ---
 

@@ -684,3 +684,65 @@ The fifty-sixth sitting, Chapter 760, Wednesday of week 268, day 1764. **The cou
 ## 6. WHAT MOVEMENT V DID NOT SPEND
 
 **None of the forty-one debts open at Chapter 760. It came close once — Chapter 805 gave the lead a plate of iron with four slots as the thing he carries, which is one of the seventeen Volume 14 debts and an entry in the forty-one — and it was repaired and the object is a four-foot rule with card taped along its edge.** No chapter compares two of the nine hand copies, opens the ring binder, moves the ninth chair, lights the room under the building, asks about the man of about fifty-one's back room, or names Evan Senn. **The four words naming the body that decides the thing are at zero on all ten files and no file refers to their absence either. `Crown` is at zero in every form including as a place name. There is no panel on any of these ten files and no file refers to the absence of the card on the wall or of the rectangle under it.**
+
+# LIVE — CONTINUITY AT CHAPTER 820, THE LAST PAGE OF VOLUME 16, AFTER THE MOVEMENT'S LAST MEASUREMENT. DATED AFTER EVERYTHING ABOVE, WHICH IS ARCHIVE AND NOT STATE
+
+## 1. THE DAY MAP OF MOVEMENT VI, AND THE SPAN THIS VOLUME CLOSES ON
+
+| Ch | Wk | Day | Day no. | Weekday | Entry | Counter |
+| --- | --- | --- | --- | --- | --- | --- |
+| 811 | 279 | 1 | 1839 | Monday | 814 | one hundred and sixteenth |
+| 812 | 279 | 3 | 1841 | Wednesday | 815 | one hundred and seventeenth |
+| 813 | 280 | 3 | 1848 | Wednesday — **the fifty-ninth sitting, the book OPENS** | 816 | one hundred and eighteenth |
+| 814 | 281 | 1 | 1853 | Monday | 817 | one hundred and nineteenth |
+| 815 | 281 | 5 | 1857 | Friday | 818 | one hundred and twentieth |
+| 816 | 282 | 1 | 1860 | Monday | 819 | one hundred and twenty-first |
+| 817 | 282 | 5 | 1864 | Friday | 820 | one hundred and twenty-second |
+| 818 | 283 | 3 | 1869 | Wednesday — **the institution answers the notice with a reason to stay** | 821 | one hundred and twenty-third |
+| 819 | 283 | 5 | 1871 | Friday — **a woman of about twenty-four puts one thing in front of him** | 822 | one hundred and twenty-fourth |
+| 820 | 284 | 3 | 1876 | Wednesday — **the sixtieth sitting, the book does not open, the volume closes** | 823 | one hundred and twenty-fifth |
+
+**The span is 1,876 − 1,839 = 37 days across ten chapters and the day-steps are 2, 7, 5, 4, 3, 4, 5, 2, 5, so twenty-seven days inside the span carry no chapter and the counter's nine steps are all one. The set of (entry − chapter) is {3} on all ten rows. There is no Sunday in this movement and the shutter comes down at ten on all ten days.** The whole of Volume 16 is 1,876 − 1,769 = 107 days across sixty chapters and 108 inclusive of both ends, and the load-book run is entry 763 at Chapter 760 to entry 823 at Chapter 820 with no duplicate and no gap.
+
+## 2. THE FIGURES AT CHAPTER 820, ALL SEVENTEEN, RE-DERIVED FROM CALENDAR §2 AND SETTLED
+
+| Series | Anchor | At 1876 |
+| --- | --- | --- |
+| The room off that service road | 362 | 1,514 |
+| The card in the rail | 358 | 1,518 |
+| Lines twelve to eighteen | 442 / 491 / 526 / 547 / 572 / 590 / 644 | 1,434 / 1,385 / 1,350 / 1,329 / 1,304 / 1,286 / 1,232 |
+| The nineteen | 666 | 1,210 |
+| The hold of the man of about thirty-three | 729 | 1,147 |
+| The man of about fifty-one at that north wall | 756 | 1,120 |
+| The ask | 672 | 1,204 |
+| The post at the corridor end | 814 | 1,062 |
+| The nine hand copies of the front of a page | 796 | 1,080 |
+| The separation | 982 | 894 |
+| The place behind the woman's chair | 1484 | **392 — fifty-six weeks to the day** |
+| **The woman's page, SETTLED** | **1573** | **303** |
+
+**The place behind the chair is the one figure in this file that is exactly a whole number of weeks on the last page of this volume, and it is printed on six files of this volume and on no page, and no chapter prints the difference between it and anything.**
+
+## 3. WHAT MOVEMENT VI CHANGED, AND IT IS NOT A RESOLUTION
+
+1. **The withdrawal of day 1832 is ruled to be the withdrawal of the work and not of the district.** Chapter 806 stands.
+2. **The woman's page anchor is ruled to be `day − 1573` and Chapter 820 prints three hundred and three days.** `day − 1578` is withdrawn.
+3. **The fifty-ninth sitting is at Chapter 813 and the book OPENS at it**, the count is sixty-four of which fifty-nine said once in her face, the book goes from sixty-six lines to sixty-seven, and **what opened was a page a man of about thirty-four had carried in a coat since before the spring and put in without saying so, and what is on it is not set down on any page of this movement.**
+4. **The sixtieth sitting is at Chapter 820 and the book does not open at it**, the count is sixty-five of which sixty said once in her face, the book is on sixty-seven before and after, and the tin is on seventy-three with its lid down. **The pattern across the volume is shut, shut, open, shut and it is not a rule and is not written anywhere and is not evidence of anything and no chapter of this volume describes it as a change in the woman of about sixty.**
+5. **The four hundred keep the practice by other means and by about nine weeks longer than anybody planned, and the cost that was named is a man of about forty-seven's left hand.**
+6. **The institution said what it is, in its own words, on a sheet of four lines with a date on it, and it asked nobody to stay, it offered nothing, it filled in no form, it produced no figure that settles the arithmetic of leaving, and it took the answer it got.**
+7. **The counter-argument is not beaten.** It is published on a face in about nine seconds and it stands.
+8. **The district withdrew on the date at the foot of its own notice and was not stopped, not persuaded, not bought and not forgiven, and what came out of that yard on that Monday was the work and not the district.**
+9. **A man who used a woman's working day as a fact in a room without her was told about it once, by her, in about nine seconds, and he did not apologise, because she said she was not going to be thanked for it and that an apology would be a way of putting it back on her.**
+
+## 4. WHAT DID NOT MOVE ACROSS ALL SIXTY DAYS OF VOLUME 16, AND IT IS CHECKED RATHER THAN ASSERTED
+
+- **The register of correct acts that made no consequence moved once, from three to four, at Chapter 769, and stood at four on the other fifty-nine days.**
+- **The ring binder is shut on all sixty days and the page behind it is unread on all sixty days.** The woman of about thirty is unnamed, unasked, unthanked and unapologised-to on all sixty.
+- **The ninth chair is against the wall with its back to everything in the room on all sixty days, it did not move, and its mover is named on no page.**
+- **The place behind the woman's chair is empty on all sixty days and is never explained.**
+- **The room under a building in a first district is dark on all sixty days and is not opened again.**
+- **The nine hand copies are not compared with one another on any of the sixty days.**
+- **The man of about fifty-one's back room was never asked about.**
+- **Nobody thanked anybody and nobody forgave anybody on any of the sixty days.**
+- **Iona Sorn is the last enemy in this manuscript and she is in public custody and she is not absolved and she is on no page of Movement VI.**

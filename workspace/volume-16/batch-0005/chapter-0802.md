@@ -136,7 +136,7 @@ Thirty-one pounds. He told the man that a gate that is nine feet wide on two hin
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the shelf behind her and has been there two hundred and forty-nine days, and it is not read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the shelf behind her and has been there two hundred and fifty-four days, and it is not read.**
 
 ---
 

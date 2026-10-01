@@ -107,7 +107,7 @@ He has not been back since and nobody has asked him what the two lengths were fo
 
 ---
 
-**In the fourth of those four rooms, and behind the other three as well, a woman of about thirty has been sitting since about half past six with her door shut. Her page is the eighth of eight, the shelf behind her has held it for two hundred and nine days, and there is nobody in this city entitled to ask her about it.**
+**In the fourth of those four rooms, and behind the other three as well, a woman of about thirty has been sitting since about half past six with her door shut. Her page is the eighth of eight, the shelf behind her has held it for two hundred and fourteen days, and there is nobody in this city entitled to ask her about it.**
 
 ---
 

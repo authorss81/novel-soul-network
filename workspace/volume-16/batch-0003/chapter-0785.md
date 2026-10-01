@@ -106,7 +106,7 @@ He wrote the date on the inside of the frame in pencil where it will not come of
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and behind her the eighth of eight has been on a back shelf for two hundred and twenty-six days.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and behind her the eighth of eight has been on a back shelf for two hundred and thirty-one days.**
 
 ---
 

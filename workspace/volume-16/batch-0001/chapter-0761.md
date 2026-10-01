@@ -140,7 +140,7 @@ Nobody came in and asked him what was on the sheet. Nobody came in and asked him
 
 **There are four rooms off that service road and one behind the other three, and from about half past six on that Monday a woman of about thirty sat in the fourth of them, in her chair, with the shut door of that room behind her.**
 
-The eighth of eight is her page and it has been in a ring binder on a back shelf for a hundred and ninety-one days. It did not come out on that Monday and nobody asked her one question about it and nobody is going to.
+The eighth of eight is her page and it has been in a ring binder on a back shelf for a hundred and ninety-six. It did not come out on that Monday and nobody asked her one question about it and nobody is going to.
 
 ---
 

@@ -114,7 +114,7 @@ He bought four feet of chain and a shackle and paid for both and went out, and t
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and on the shelf behind her the eighth of eight has been sitting for two hundred and fifty-four days and has not been read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut, and on the shelf behind her the eighth of eight has been sitting for two hundred and fifty-nine days and has not been read.**
 
 ---
 

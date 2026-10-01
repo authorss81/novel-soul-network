@@ -118,7 +118,7 @@ The man said that two years is a long time. He said that a gate closer is the on
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and thirty-three days, and it has not been read.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and thirty-eight days, and it has not been read.**
 
 ---
 

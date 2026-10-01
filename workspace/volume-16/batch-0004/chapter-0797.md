@@ -96,7 +96,7 @@ He said that this is the sixth thing this month where a person has been the part
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and behind her the eighth of eight has been on the back shelf for two hundred and forty-two days and has not been read.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and behind her the eighth of eight has been on the back shelf for two hundred and forty-seven days and has not been read.**
 
 ---
 

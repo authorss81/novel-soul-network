@@ -124,7 +124,7 @@ He told the man that a door on two screws is not a door anybody chose and is a d
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the shelf at the back of that room and has been there two hundred and fifty-six days, and nobody has opened it.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six, her door shut. The eighth of eight is on the shelf at the back of that room and has been there two hundred and sixty-one days, and nobody has opened it.**
 
 ---
 

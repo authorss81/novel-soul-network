@@ -98,7 +98,7 @@ The caretaker gave him a cup of tea out of a tin that had a spoon soldered to th
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and behind her on the back shelf is the eighth of eight, and it has been there two hundred and twenty-one days and it is not going to be read this month either.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and behind her on the back shelf is the eighth of eight, and it has been there two hundred and twenty-six days and it is not going to be read this month either.**
 
 ---
 

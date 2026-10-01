@@ -116,7 +116,7 @@ The man said he thought the awning coming in was the point. He said that it is, 
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and behind her the eighth of eight has been on a back shelf for two hundred and thirty-five days, and nobody in this city has asked her about it.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and behind her the eighth of eight has been on a back shelf for two hundred and forty days, and nobody in this city has asked her about it.**
 
 ---
 

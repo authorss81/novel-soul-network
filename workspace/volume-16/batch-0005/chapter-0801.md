@@ -112,7 +112,7 @@ Thirty-one pounds. He told the man that a floor spring wants adjusting and never
 
 ---
 
-And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut. The eighth of eight has been on the back shelf behind her for two hundred and forty-eight days and has not been read.
+And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut. The eighth of eight has been on the back shelf behind her for two hundred and fifty-three days and has not been read.
 
 ---
 

@@ -119,7 +119,7 @@ He took the closer off, cleaned it out, put a spring back that had gone soft, an
 
 **A woman of about thirty-six bought a length of chain at about half past five and was not asked anything. A man of about twenty-two bought a switch at about six and was not asked anything. Neither of them has been on any other day of this stretch of days and neither of them is anybody's.**
 
-**In the fourth of the four rooms off that service road a woman of about thirty has been at her chair with her door shut since about half past six, and there is a fifth room behind the other three with a shelf in it. The shelf has held the eighth of eight for two hundred and thirteen days. No one has put a question to her about it and there is nobody in this city who could.**
+**In the fourth of the four rooms off that service road a woman of about thirty has been at her chair with her door shut since about half past six, and there is a fifth room behind the other three with a shelf in it. The shelf has held the eighth of eight for two hundred and eighteen days. No one has put a question to her about it and there is nobody in this city who could.**
 
 ---
 

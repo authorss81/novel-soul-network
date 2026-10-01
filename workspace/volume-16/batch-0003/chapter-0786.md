@@ -102,7 +102,7 @@ She has said that she does not know whether that is true. She has said that it i
 
 ---
 
-**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight is on the back shelf behind her, and it has been there two hundred and twenty-seven days and has not been read.**
+**The fourth of those four rooms has a woman of about thirty at her chair from about half past six with her door shut, and the eighth of eight is on the back shelf behind her, and it has been there two hundred and thirty-two days and has not been read.**
 
 ---
 

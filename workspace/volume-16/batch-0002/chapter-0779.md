@@ -125,7 +125,7 @@ A man of about fifty-two came in at about six for a switch and was not asked any
 
 ---
 
-**The fourth of the four rooms off that service road has a woman of about thirty sitting in it from about half past six with her door shut. What has been on the back shelf behind her for two hundred and sixteen days is the eighth of eight, and it has not been read, and nobody is going to read it, and nobody has said one word to her about any of it.**
+**The fourth of the four rooms off that service road has a woman of about thirty sitting in it from about half past six with her door shut. What has been on the back shelf behind her for two hundred and twenty-one days is the eighth of eight, and it has not been read, and nobody is going to read it, and nobody has said one word to her about any of it.**
 
 ---
 

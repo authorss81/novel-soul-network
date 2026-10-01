@@ -130,7 +130,7 @@ The man said marking the line was not a repair. He said that a repaired kerb get
 
 ---
 
-**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and forty-one days.**
+**And the fourth of those four rooms has a woman of about thirty at her chair from half past six with her door shut, and the eighth of eight has been on the back shelf behind her for two hundred and forty-six days.**
 
 ---
 
