@@ -4,13 +4,13 @@
 
 ---
 
-Nine names and nine dates went onto that Tuesday's sheet, the last of the dates at about ten to five, and the shutter came down at about ten.
+On that Tuesday nine of them were written into that day's book with a date beside each, and the ninth of those dates went in at about ten to five, and about ten the shutter came down.
 
-**The card standing on end in the two-place rail at that first door is one thousand six hundred and eight days, two hundred and twenty-nine weeks and five days. The sixteenth of the nineteen ruled lines on the board on two nails is one thousand three hundred and ninety-four days, a hundred and ninety-nine weeks and one day. Nine copies in nine hands of the front of one page stand at one thousand one hundred and seventy days, a hundred and sixty-seven weeks and one day, and not two of the nine have been laid beside one another.**
+**The card standing on end in the two-place rail at that first door has been on end in it one thousand six hundred and eight days, two hundred and twenty-nine weeks and five days. The sixteenth of the nineteen ruled lines on the board on two nails has been ruled for one thousand three hundred and ninety-four days, a hundred and ninety-nine weeks and one day. The front of one page, written out by nine hands, has been in those nine hands for one thousand one hundred and seventy days, a hundred and sixty-seven weeks and one day, and no two of those nine have been set one against another.**
 
 **And nothing was counted in any room in this city on that Tuesday and nothing was announced anywhere, and there is no Wednesday of every fourth week inside that day and there was not one the day before it either.**
 
-**There is no whole number of weeks in any figure on this page. Every interval here falls on a day, and not one of them falls on a week, and that is the first time in about nine years that has been true of a page in this stretch of days.**
+**There is no whole number of weeks in any figure on this page. Every interval here falls on a day, and not one of them falls on a week, and no other day of this stretch of days carries a page on which that is true of all of it.**
 
 ---
 
@@ -30,7 +30,7 @@ Four hundred people do this thing with their hands every day of their lives and 
 
 He said in about nine seconds that that is what goes in the box, and that the word that goes in it is not a date and is not a promise and is not a finding.
 
-**Nobody in that room said he had the box too small and nobody in that room has said so since, and about four people in that room have said since that they would have raised it and did not.**
+**Nobody in that room said he had the box too small, nobody in that room has said so since, and about four people in that room have said since that they would have raised it and did not.**
 
 ---
 
@@ -44,17 +44,17 @@ He said that if the reason went in the box and this room got that, then four hun
 
 ---
 
-**And a man of twenty-two was in that room and he was the only person in it who could make that bargain hold, and he said no in about four seconds, and the reason he gave was about his own hands.**
+**And the one person in that room who could have made that bargain hold was a man of twenty-two, and he said no in about four seconds, and the reason he gave was about his own hands.**
 
 He said: you would need steady hands and mine are not.
 
 He said it to the man of about thirty-eight and not to the room, and he had said it in about four seconds, and nobody in that room had finished asking him.
 
-**Nobody in that room asked him how often his hands are not that and nobody in that room has asked him since, and about four people in that room have said since that they had wanted to ask and did not.**
+**Nobody in that room asked him how often his hands are not that and nobody there has put it to him since, and about four people in that room have said since that they would have asked and did not.**
 
 He has said since that it is about four times in eleven years and that each of the four takes about two hours, and that he had told that room the half of it that concerns him and not the half that concerns the four hundred.
 
-**Nobody in that room said what the other half was and nobody in that room has worked it out since.**
+**Nobody in that room said what the other half was and nobody in that room has worked it out at any time since.**
 
 ---
 
@@ -78,13 +78,13 @@ Nobody in that room argued with him and nobody in that room agreed with him, and
 
 A woman of about thirty-eight said in about nine seconds that the reason is true whether or not anybody here ever hears whether it is true, and that a true thing handed over does not stop being true on the way.
 
-**Nobody in that room found anywhere to put that and nobody came back with a second question about it.**
+**Nobody in that room found anywhere to put that, and nobody came back with a second question about it.**
 
 The man of about twenty-two was still in that room when it was said and was asked nothing about it, and he said nothing, and he stayed until about nine.
 
 ---
 
-**What was left of that Tuesday went into about two hours of work in a fourth district.**
+**After that room emptied the balance of that Tuesday was about two hours in a fourth district, and there were four jobs in it.**
 
 **A cable gland on a motor in the same yard had been fitted with a plate smaller than the hole it was meant to close, so that about four millimetres of the cable had been outside it.**
 
@@ -98,7 +98,7 @@ He took the gland off, cut the hole to the size the plate is meant for, and refi
 
 He packed the foot that was high down and proved the ladder level.
 
-**Eighteen pounds. He told the man that a ladder out of level is a ladder everybody walks round, and that about four ladders in that building stand on floors that have settled, and that one of them has been reported as a ladder that rocks for about four years.**
+**Eighteen pounds. He told the man that a ladder out of level is a ladder everybody walks round, that about four ladders in that building stand on floors that have settled, and that one of them has been a ladder that rocks for about four years.**
 
 ---
 
@@ -106,7 +106,7 @@ He packed the foot that was high down and proved the ladder level.
 
 He split them, gave the second its own clamp, and proved the panel.
 
-**Twenty-six pounds. He told the man that two conductors under one clamp is a conductor with no connection, and that about four blocks in that panel have been doubled up that way, and that one of them has been reported as an intermittent fault for about four years.**
+**Twenty-six pounds. He told the man that two conductors under one clamp is a conductor with no connection, that about four blocks in that panel have been doubled up that way, and that one of them has been an intermittent fault for about four years.**
 
 ---
 
@@ -118,11 +118,9 @@ He moved the cable out of the way and left it where a hand could see it.
 
 **A hundred and eight pounds is what those four came to on that Tuesday, exact.**
 
-**At half past six the fourth of those four rooms had its door shut and a woman of about thirty behind it, and the eighth of eight sat on the shelf at the back at three hundred and ninety-three days.**
+**By half past six the fourth of those four rooms was shut, and the woman of about thirty was still behind that door, and the eighth of eight sat on the shelf at the back of it at three hundred and ninety-three days.**
 
-**Nobody has put one question to her about that page in this city and nobody ever will. What is on that page is not given here.**
-
-**Nobody in this city has put one question to her about that page and nobody ever will. What is on that page is not given here.**
+**Nobody in this city has ever put one question to her about that page, nobody put one to her on that Tuesday, and nobody ever will. What is on that page is not given here.**
 
 ---
 
@@ -133,7 +131,7 @@ About nine people were in a room in the evening and put a true reason into a box
 A man of twenty-two was the only person in that room who could have made a bargain of that hold, and refused in about four seconds with a reason about his own hands. Afterwards he could not say which of two reasons he had really given it for, and nobody has asked him and nobody has answered it.
 About nine seconds later the room decided to put the reason in anyway with nothing gained by it. He was in that room and said nothing and stayed until about nine. That Tuesday was worth a hundred and eight pounds, exact.**
 
-*Conditions and docket.* **Callers on that Tuesday: nine. Entered on that day's book: nine, the last of them at about ten to five. About two hours of the evening were that room and about two hours of the rest of the day were a gland, a ladder, a block and a cable.
+*Conditions and docket.* **Callers on that Tuesday: nine. Entered on that day's book: nine, the last of them at about ten to five. That room held about two hours of the evening, and a gland, a ladder, a block and a cable held about two hours of the remainder of the day.
 Those four units off that service road, one of them the one with the heat in it: one thousand six hundred and four days, two hundred and twenty-nine weeks and one day
 The card on end in the rail that holds two: one thousand six hundred and eight days, two hundred and twenty-nine weeks and five days
 The twelfth of the nineteen ruled lines on the board on two nails: one thousand five hundred and twenty-four days, two hundred and seventeen weeks and five days
@@ -149,15 +147,15 @@ The man of about fifty-one with his back against that wall: one thousand two hun
 What is owed on the page lying open on that table: one thousand two hundred and ninety-four days, one hundred and eighty-four weeks and six days
 The fitting standing at that corridor end: one thousand one hundred and fifty-two days, one hundred and sixty-four weeks and four days
 Nine copies in nine hands of the front of one page, a corner missing, eight of them never brought through, and no two of the nine side by side: one thousand one hundred and seventy days, one hundred and sixty-seven weeks and one day
-The separation, one line inside one box in a room off a road, about sixteen months: nine hundred and eighty-four days, one hundred and forty weeks and four days
-That flat: four names on the tenancy, the heat not turned down since the autumn, a gland cut to fit, a ladder packed level, a conductor given its own clamp, a cable moved out of a door.
+One line inside one box in that room off that road, and the filling-in of it was about sixteen months back: nine hundred and eighty-four days, one hundred and forty weeks and four days
+That flat, four names on the tenancy and the heat not turned down since the autumn: a gland cut to fit, a ladder packed level, a conductor given its own clamp, a cable moved out of a door.
 Not asked and not given: nobody in that room asked how often a pair of hands is not steady, and nobody has asked him, and the reason went into the box with nothing traded for it and nothing gained by it.
 Work: nine, a gland re-cut, a ladder levelled, a clamp added, a cable moved, nothing escalated, nothing handed back.
 Charge: a hundred and eight pounds, exact.
 
-*Conditions of the close.* **The book on that table in the room upstairs carries sixty-seven lines and the tin next to it carries seventy-three with its lid shut, and nothing on this page has been got from one of those by measuring the other.
+*Conditions of the close.* **The book on that table upstairs carries sixty-seven lines; the tin next to it carries seventy-three with its lid shut. Nothing on this page has been got out of one of those by measuring the other.
 The ninth chair in that first floor is against a wall with its back to every thing done in the room. It did not move on that Tuesday and no page of this stretch of days names whoever moves it.
-There is a room underneath a building in a first district and it had nothing lit in it at about eleven on that Tuesday and has nothing lit in it at this hour, and no light has ever been asked for there by anybody in this city.
+Under a building in a first district there is a room with no light in it at about eleven on that Tuesday and none at this hour, and nobody in this city has ever asked for a light there.
 The register of correct acts that changed nothing stood at four at the beginning of that Tuesday and stands at four at the end of it, and nobody in this city counts it. A man refusing in about four seconds a thing he could have carried is not on it, and neither is a true sentence handed over for nothing.
 
 *What the day did not settle, and the rest of it.* **Ten objects stand named in the line underneath and no sentence further down this page brings two of them together. A slip of paper the width of a finger with one word on it and a cut down one side of it. A book in a green cover. The cage down one side of a counter. A card creased once and holding a doorway open. Nine hands' copies of the front of one page. The board on two nails. The shutter. The rail that holds two. The tin with its lid down. The binder on the shelf at the back.**

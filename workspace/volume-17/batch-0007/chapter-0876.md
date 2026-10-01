@@ -4,11 +4,11 @@
 
 ---
 
-Six names and six dates went onto that Friday's sheet, the last of the dates at about ten to five, and the shutter came down at about ten.
+Only six of them came in on that Friday, and six dates were written against them, the last of them at about ten to five, and that shutter was down at about ten.
 
-**The seventeenth of the nineteen ruled lines on the board on two nails is one thousand three hundred and seventy-two days, a hundred and ninety-six weeks to the day. The fitting at the end of the corridor nearest the stair is one thousand one hundred and forty-eight days, a hundred and sixty-four weeks to the day. The separation, which is one line inside one box in that room, is nine hundred and eighty days, a hundred and forty weeks to the day.**
+**One thousand three hundred and seventy-two days, a hundred and ninety-six weeks to the day, is what line seventeen of the nineteen on that board has stood for. That fitting at the end of the corridor has stood at that end one thousand one hundred and forty-eight days, a hundred and sixty-four weeks to the day. The separation sits in a single box in that room as a single line, and it has sat there nine hundred and eighty days, a hundred and forty weeks to the day.**
 
-**And no figure was said in any room in this city on that Friday and none was announced anywhere, and the Wednesday of every fourth week that carries one was two days behind and not one of them.**
+**No figure was said in any room in this city on that Friday and none was announced anywhere, and the Wednesday of every fourth week that carries one had been two days earlier, with the next of them five days in front of that Friday.**
 
 ---
 
@@ -26,7 +26,7 @@ A woman of about thirty-eight said in about nine seconds that she had expected t
 
 He said nine words to the man behind that counter and then went out again, and the nine words were about a road and about a time of day.
 
-He said: I pass it at six and I do not stop.
+He said: I pass it at six and do not stop.
 
 **Nobody at that counter asked him why he had said it, and nobody in this city has asked him why, and about four people in that city have said since that they would have asked him and did not.**
 
@@ -48,7 +48,7 @@ She said afterwards, at about half past four, that nobody in this city has thank
 
 ---
 
-**A man of about thirty-four who has been over there and done it twice was at that counter on that Friday and was not asked about the practice, and he was the one who said what about nine weeks costs.**
+**The man of about thirty-four who has been over there and done it twice stood at that counter on that Friday, was not asked about the practice, and was the one who said what about nine weeks costs.**
 
 He said in about nine seconds that in about nine weeks nobody over there has changed anything, that he has been over a border twice and done it, and that he still cannot say whether either time was safe.
 
@@ -58,23 +58,23 @@ He said that what has changed in about nine weeks is that about nine people in t
 
 ---
 
-**A man of twenty-two was at that counter from about half past four and was asked nothing at all, and the one thing he said was about a mat.**
+**From about half past four he stood at that counter and nothing was asked of him, and the single thing he said before the shutter came down was about a mat.**
 
 He said that the mat behind that counter has been cut and re-laid so many times that about four layers of it are showing at one corner, and that the layer underneath is a different colour and has been there since before the shop took the lease.
 
-**Nobody at that counter had any idea what to do with that and nobody came back with a second question about it, and he said afterwards that a floor tells you more about a trade than a person does.**
+**Nobody at that counter had any idea what to do with that, nobody came back with a second question about it, and he said afterwards that a floor tells you more about a trade than a person does.**
 
-Nothing was signed by him in this stretch of days and no sheet went out of that shop with his name on it on that Friday, and there is nothing in that shop that wants a signature.
+Nothing was signed by him in this stretch of days and nothing left that shop on that Friday carrying his name at the bottom of it, and there is nothing in that shop that wants a signature.
 
 ---
 
-**What was left of that Friday went into about two hours of work in a fourth district.**
+**That Friday ran out at about ten and what was left of it was about two hours in a fourth district.**
 
 **A starter on a motor in the same yard had its contactor set to about nine hundred amps for a motor that pulls about four hundred, so that it had been hunting on and off for about four years.**
 
 He set the contactor to what the plate on the motor says, proved it against its own gauge, and wrote the setting on the door.
 
-**Thirty-one pounds. He told the man that a contactor set too high is a contactor hunting, and that about four starters in that yard are set against their own plates, and that one of them has been reported as a motor that will not start when it is wanted for about four years.**
+**Thirty-one pounds. He told the man that a contactor set too high is a contactor hunting, that about four starters in that yard are set against their own plates, and that one of them has been a motor that will not start when it is wanted for about four years.**
 
 ---
 
@@ -114,7 +114,7 @@ Friday of week 296, at ten. That is the one hundred and eighty-first day of this
 A man of about thirty-four who owns four vehicles said nine words about a road and about a time of day and was not asked about the practice. A woman of about forty-four said out loud for the first time that she has been the only person in a building who knows something for about nine weeks, and that she is not going to be thanked for it.
 He was at that counter, nobody put anything to him, and he said one thing about a floor that has four layers cut into it. That Friday was worth eighty-five pounds, exact.**
 
-*Conditions and docket.* **Callers on that Friday: six. Taken on that day's sheet: six, the sixth at about ten to five. About two hours of the day were that counter and about two hours of the rest of it were a starter, a guard, a switch and a clip.
+*Conditions and docket.* **Callers on that Friday: six. Taken on that day's sheet: six, the sixth at about ten to five. About two hours went into that counter, and about two hours of the rest of the day went into a starter, a guard, a switch and a clip.
 The four units off that service road, the second of them the warm one: one thousand six hundred days, two hundred and twenty-eight weeks and four days
 The card standing in the rail that keeps two at that first door: one thousand six hundred and four days, two hundred and twenty-nine weeks and one day
 The twelfth of the nineteen lines on the board on two nails: one thousand five hundred and twenty days, two hundred and seventeen weeks and one day
@@ -128,17 +128,17 @@ Its nineteenth line and no line under it has ever been ruled: one thousand two h
 The hold on nine crates and on the boards they are stacked on: one thousand two hundred and thirty-three days, one hundred and seventy-six weeks and one day
 The man of about fifty-one against the north wall: one thousand two hundred and six days, one hundred and seventy-two weeks and two days
 The sum owed on the open page in front of him: one thousand two hundred and ninety days, one hundred and eighty-four weeks and two days
-The fitting at the far end of that corridor: one thousand one hundred and forty-eight days, one hundred and sixty-four weeks to the day
+That fitting at the corridor end: one thousand one hundred and forty-eight days, one hundred and sixty-four weeks to the day
 Nine copies of the front of one page in nine hands, a corner gone, eight of them not finished, and not two of the nine laid beside one another: one thousand one hundred and sixty-six days, one hundred and sixty-six weeks and four days
-One line inside one box in a room off a road, about sixteen months old: nine hundred and eighty days, one hundred and forty weeks to the day
-That flat: four names on the tenancy, the heating not reduced since the autumn, a contactor set to what a plate says, a guard fastened with proper bolts, a switch turned round, a clip packed out.
+The separation in that room off the road is one line in one box, and it was filled in about sixteen months ago: nine hundred and eighty days, one hundred and forty weeks to the day
+That flat, on which four names stand on the tenancy and the heating has not been reduced since the autumn: a contactor set to what a plate says, a guard fastened with proper bolts, a switch turned round, a clip packed out.
 Not asked and not given: nobody in this city asked the woman who has stood at that counter on about nine weeks of weekdays what is written on the sheet in her bag, and nobody asked her to hand it over.
 Work: six, a starter set, a guard fastened, a switch reversed, a clip packed, nothing escalated, nothing handed back.
 Charge: eighty-five pounds, exact.
 
-*Conditions of the close.* **The book on the table in the room upstairs is on sixty-seven lines and the tin beside it is on seventy-three, and neither of those numbers has been produced by comparing them.
-The ninth chair in that first floor is hard against a wall with its back to the whole of the room; it did not move on that Friday and this stretch of days names nobody who shifts it.
-Underneath a building in a first district there is a room with nothing burning in it at about eleven on that Friday and nothing burning in it at this hour, and no request for a light in it has ever come out of this city.
+*Conditions of the close.* **The book on the table in the room upstairs is on sixty-seven lines, and the tin beside it is on seventy-three, and neither of those two numbers on this page was produced by setting one against the other.
+The ninth chair stands hard against a wall in that first floor with its back to everything that happens in the room. It did not move on that Friday, and nothing in this stretch of days names whoever it is that shifts it.
+There is a room under a building in a first district, and it had nothing burning in it at about eleven on that Friday and has nothing burning in it now, and nobody in this city has ever asked for a light in it.
 The count of correct acts that changed nothing stood at four at the start of that Friday and stands at four at the end of it, and nobody counts it in this city any more. About nine people carrying a Wednesday each is not an instance of anything.
 
 *What the day did not settle, and the rest of it.* **The line underneath carries ten objects and nothing below it sets two of them beside one another. A rail holding two. A book with a green cover on it. The cage down one side of a counter. A card, creased once, across a doorway. Nine hand copies of the front of a page. The board on two nails. A strip of paper cut narrow with one word on it. The tin with its lid down. The binder on the shelf at the back. The shutter.**

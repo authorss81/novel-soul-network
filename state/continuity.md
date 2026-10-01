@@ -1,4 +1,4 @@
-# LIVE — CONTINUITY AT CHAPTER 870. **VOLUME 17 IS FIFTY CHAPTERS OF A PLANNED SIXTY AND CHAPTERS 871 TO 880 WERE NEVER WRITTEN, SO THE VOLUME IS NOT CLOSED. MOVEMENT VI IS NOW THE LIVE PHASE AT `workspace/volume-17/batch-0007/PROMPT.md` AND IT WRITES THOSE TEN CHAPTERS.** THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *CONTINUITY, MOVEMENT VI IS DISPATCHED — VOLUME 17 AT CHAPTER 870*, AND EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
+# LIVE — CONTINUITY AT CHAPTER 880. VOLUME 17 IS COMPLETE ON THE PAGE AND NOT CLOSED. THE NEXT PHASE IS `workspace/volume-17/batch-0008/`, THE VOLUME 17 CLOSE, WHICH WRITES NO CHAPTER. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *CONTINUITY AT CHAPTER 880*, AND EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
 
 **THE MANUSCRIPT STANDS AT CHAPTER 870, THE MONDAY OF WEEK 295, DAY 1951, LOAD-BOOK ENTRY 873. VOLUME 17 IS OPEN AND IS TEN CHAPTERS SHORT. THE PHASE AT `workspace/volume-17/batch-0006/` WAS A MID-VOLUME RECORD AND NOT A CLOSE, IT WROTE NO CHAPTER, AND IT MEASURED THE FIFTY THAT EXIST. THE NEXT PHASE IS `workspace/volume-17/batch-0007/` AND IT IS MOVEMENT VI. `workspace/volume-18/` DOES NOT EXIST AND IS NOT PLANNED.**
 
@@ -244,3 +244,60 @@
 - **AND WHAT IS NOT SAID, WHICH IS THE SAME SENTENCE IT HAS BEEN SINCE CHAPTER 820.** **Volume 17 was opened by a continuation directive and not by a decision; `NOVEL_SPEC.md`'s eighth Status block is untouched and still records the Volume 17 decision as undecided, and no pass of any kind may write that paragraph.** `state/phase-ledger.json` is controller-owned and was read and not written and **no flag about it is appended in this block**; the fact is recorded once at `state/open-threads.md` item 29 and in `NOVEL_SPEC.md`.
 
 - **THE SIZE OF THIS FILE, MEASURED AND ACTED ON.** It was **64,746 bytes** when this pass began. **Two superseded narration blocks are now indexed above and this file is under its own about-60-KB rule.** `state/current.md` was measured at **104,961 bytes** on the same date and has been compacted twice, on 1 October and again in this pass. **`state/chapter-summaries.md` and `state/open-threads.md` were measured at 164,013 and 87,713 bytes and this pass did not bring either of them under the rule, and each of those two blocks says in its own words exactly which content it declined to remove.**
+
+---
+
+# LIVE — CONTINUITY AT CHAPTER 880. VOLUME 17 IS COMPLETE ON THE PAGE AND NOT CLOSED. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+**THE MANUSCRIPT STANDS AT CHAPTER 880, THE WEDNESDAY OF WEEK 300, DAY 1988, LOAD-BOOK ENTRY 883. VOLUME 17 IS SIXTY CHAPTERS AND IT IS WRITTEN WHOLE. THE NEXT PHASE IS `workspace/volume-17/batch-0008/` AND IT IS THE VOLUME 17 CLOSE, WHICH WRITES NO CHAPTER. `workspace/volume-18/` DOES NOT EXIST AND IS NOT PLANNED.**
+
+**THE ANCHORS HAVE NOT MOVED SINCE VOLUME 01 AND NONE OF THEM IS RE-DERIVED ON A PAGE.** The sixteen interval series and their eighteen anchor days are in `workspace/volume-17/ARITHMETIC-AND-CALENDAR.md` §2 and are to be walked against and not copied out of. `week = (day − 502) // 7 + 88` and `wd = (day − 502) mod 7` against Monday-first, and the Monday of week *n* is `7n − 114`. **The woman's page is `day − 1573` and is at 415 days, and 415 is the last figure this manuscript prints for it.** The place behind the woman's chair is `day − 1484` and is at 504 days, which is seventy-two weeks to the day, and **it is named on Chapter 871 alone and carries no figure, so the one figure this volume ever printed for it is the correct one on Chapter 824.** The governed counter is `chapter − 695` at 185 and is chapter-indexed, so no anchor table can produce it; it was typed and then walked.
+
+## The settled arithmetic, re-derived at the close of Volume 17 and not read off a chapter
+
+| Series | Anchor | At Chapter 821 | At Chapter 871 | At Chapter 880 |
+| --- | --- | --- | --- | --- |
+| The room off that service road | `day − 362` | 1,519 | 1,591 | 1,626 |
+| The card in the rail, which takes two | `day − 358` | 1,523 | 1,595 | 1,630 |
+| The hardboard's twelfth line | `day − 442` | 1,439 | 1,511 | 1,546 |
+| The thirteenth | `day − 491` | 1,390 | 1,462 | 1,497 |
+| The fourteenth | `day − 526` | 1,355 | 1,427 | 1,462 |
+| The fifteenth | `day − 547` | 1,334 | 1,406 | 1,441 |
+| The sixteenth | `day − 572` | 1,309 | 1,381 | 1,416 |
+| The seventeenth | `day − 590` | 1,291 | 1,363 | 1,398 |
+| The eighteenth | `day − 644` | 1,237 | 1,309 | 1,344 |
+| The nineteen, last line in use | `day − 666` | 1,215 | 1,287 | 1,322 |
+| The hold on nine crates | `day − 729` | 1,152 | 1,224 | 1,259 |
+| The man of about fifty-one at the north wall | `day − 756` | 1,125 | 1,197 | 1,232 |
+| What is still owed | `day − 672` | 1,209 | 1,281 | 1,316 |
+| The post at that corridor end | `day − 814` | 1,067 | 1,139 | 1,174 |
+| The nine hand copies of the front of one page | `day − 796` | 1,085 | 1,157 | 1,192 |
+| The separation | `day − 982` | 899 | 971 | 1,006 |
+| **The place behind the woman's chair** | `day − 1484` | **397** | **469** | **504, seventy-two weeks to the day** |
+| **The woman's page in the ring binder** | `day − 1573` | **308** | **380** | **415** |
+
+**No anchor has moved. The four free checks hold on every row of Volume 17 at {4}, {21}, {−27} and {−72}. The four are identities and their clean set is a property of the anchor table and not evidence about a line of prose; that standing withdrawal is unchanged and is the seventh withdrawal.**
+
+## The settled shape of Volume 17, for the close
+
+**Sixty chapters, days 1881 to 1988, weeks 285 to 300, entries 824 to 883, `(entry − chapter) = {3}` on all sixty rows, and the governed counter 126 to 185 correct on all sixty.** Six movements: I at 821 to 830 with no weekday hole and no sitting; II at 831 to 840 with the sixty-first sitting and the volume's one panel and one marker at 834; III at 841 to 850 at eleven days with no sitting; IV at 851 to 860 at sixteen days with two collision days and the sixty-second sitting; V at 861 to 870 at thirteen days with the one Sunday at 864; **VI at 871 to 880 at thirty-five days with fourteen weekday holes and both remaining sittings.**
+
+**The Exchange's pattern across the volume is shut, shut, shut, open, at Chapters 838, 856, 875 and 880, and the book went from sixty-seven lines to sixty-eight on the sixty-fourth sitting and on no page before it. The tin is at seventy-three on all sixty pages and was not opened on any of the four sittings. None of the four counts is convertible into another and the difference between the book's lines and the tin's is printed as a number nowhere. The pattern is not a rule, is written nowhere, is not evidence of anything, and no page of this volume describes it as a change in the woman who holds that room.**
+
+## What a later pass may not re-open, and it is the whole list
+
+- **The counter-argument at Chapter 878 stands and was not beaten.** Nobody agreed with it either. The plan of record says standing is the outcome and a resolution there is a change to the plan.
+- **The practice is not banned and is not endorsed** and this body does not ask about it again.
+- **The woman of about thirty-four who carried the form back on a bus does not know what one of the four words means and is not told.** No chapter corrected her and no chapter put the finding about the third word in front of her.
+- **The man of about fifty-two's refusal to take the job in Movement I is not retaken** and the man of about thirty-four who has been over there and done it twice **was not made to say whether it is safe** on any of Movement VI's ten days.
+- **The name written in pencil on the back of the form stays on it**, and the name this city has for that stretch of country is printed on no page and corrected by nobody.
+- **The register of correct acts that changed nothing is four and is not a fifth, and nobody counts it.** Chapter 878 is the file where it came closest and it says in its own words what the instance was and what it cost.
+- **The binder does not come out. The woman's page is not read and she is not named and nobody apologises to her, and 415 days is the last figure this manuscript prints for it.**
+- **Whether the practice the four hundred people kept after the district left in Volume 16 worked is not this volume's to say.**
+- **Iona Sorn is not absolved and is on no page of this volume.**
+- **The answer to Volume 08's question is a chair he does not sit in**, and the ninth chair does not move and its mover is not named.
+- **The four debts that ride on the untaken Volume 17 decision are still riding** and none is paid by any pass.
+
+## The one thing the close is for, and it is not a chapter
+
+**A close records what Volume 17 did, what it cost, what it left standing and what it did not do, and it writes no chapter, no scene, no line of dialogue and no sentence that reads as one. It goes into section 9 of `workspace/volume-17/ARITHMETIC-AND-CALENDAR.md`, which already holds a mid-volume record written at Chapter 870 by a close that ran too early, and it extends or supersedes that section rather than starting a second one. It measures sixty pages and not fifty. It may not write a decision about Volume 18, and `workspace/volume-17/NO-NEXT-PHASE.md` remains the written record that that decision has not been taken.**

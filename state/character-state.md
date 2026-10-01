@@ -1,4 +1,4 @@
-# LIVE — VOLUME 17 AT CHAPTER 870, FIFTY CHAPTERS OF A PLANNED SIXTY, AND CHAPTERS 871 TO 880 WERE NEVER WRITTEN AND ARE NOW THE LIVE PHASE AT `workspace/volume-17/batch-0007/PROMPT.md`. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *VOLUME 17 — THE PEOPLE AT CHAPTER 870, AND THE PEOPLE MOVEMENT VI IS GIVEN*, AND A PASS THAT WANTS THE PEOPLE READS THAT ONE AND NOT THIS ONE. EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE.**
+# LIVE — VOLUME 17 AT CHAPTER 880, SIXTY CHAPTERS, COMPLETE ON THE PAGE AND NOT CLOSED. THE NEXT PHASE IS `workspace/volume-17/batch-0008/`, THE VOLUME 17 CLOSE, WHICH WRITES NO CHAPTER. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *VOLUME 17 AT CHAPTER 880, SIXTY CHAPTERS, AND THE PEOPLE ON THE LAST TEN OF THEM*, AND A PASS THAT WANTS THE PEOPLE READS THAT ONE AND NOT THIS ONE. EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE.**
 
 **THE MANUSCRIPT STANDS AT CHAPTER 870. VOLUME 17 IS TEN CHAPTERS SHORT OF ITS OWN PLAN AND IS NOT CLOSED. THE PHASE AT `workspace/volume-17/batch-0006/` WAS A MID-VOLUME RECORD AND NOT A CLOSE, IT WROTE NO CHAPTER AND IT ADDED NO PERSON. THE NEXT PHASE IS `workspace/volume-17/batch-0007/` AND IT IS MOVEMENT VI, WHICH SPENDS NO SUPPORTING-CAST SLOT AND PUTS ONLY PEOPLE THIS VOLUME ALREADY KNOWS BACK ON THE PAGE.**
 
@@ -215,3 +215,51 @@
 **It changed no chapter and no person. It wrote `workspace/volume-17/batch-0007/PROMPT.md`, which names every person above as a return and as unavailable to be re-spent, and it moved `workspace/volume-17/batch-0006/PROMPT.md` to `PROMPT-WAS-GIVEN.md` and retracted the false premise in `RECORD.md`.** The nine spends are still nine against a ceiling of eight, the printed remainders are still six, six, four and four, and **Movement VI's prompt records the overage and spends none, which is the finding published at `workspace/volume-17/batch-0006/CLOSE.md` §3 item 11 now closed rather than left for a movement to add to.**
 
 **The spend ceiling's own standing rule is unaffected: a person who returns to a room in more than one file is still one person and is still no spend, and a page that names a walk-on does not move the ceiling.**
+
+---
+
+# LIVE — VOLUME 17 AT CHAPTER 880, SIXTY CHAPTERS, AND THE PEOPLE ON THE LAST TEN OF THEM. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+**THE MANUSCRIPT STANDS AT CHAPTER 880. VOLUME 17 IS COMPLETE ON THE PAGE AND NOT CLOSED. THE NEXT PHASE IS `workspace/volume-17/batch-0008/`, WHICH IS THE VOLUME 17 CLOSE AND WHICH WRITES NO CHAPTER.**
+
+## 1. The spend ceiling, and that Movement VI spent none of it
+
+**Volume 17's supporting-cast ceiling is eight across sixty chapters and the count is NINE, against that ceiling of eight. The nine are named with their pages at §9.7 of `workspace/volume-17/ARITHMETIC-AND-CALENDAR.md`. The four slots that would have remained after Movement V's two spends were never spent and are named as unspent, because no page names them. There was no slot left on a count of eight and this movement took none, which is what the plan of record asks for and not a narrowing of it.**
+
+**`outline/volume-17.md` places Rafi Pell's cooperative in Movements II and VI and Asha Reed and Dessa Kwan in Movements I, IV and VI. All three are people this volume already knows, a return is not a spend, and a page may name any of them and none of them is enlarged, absolved, forgiven, thanked or given a follower.**
+
+1. **Rafi Pell.** On 873 and on no other page of Movement VI. **He was asked what the rules of his cooperative were and gave nine words: our rules were not built for rooms like this.** He was thanked for nothing. **He was not rescued, not enlarged, not made the answer, and not converted into a lesson.** About four people in that room said afterwards that they thought he had been being modest and about four said he was not, and nobody asked him which. He said that a thing kept small deliberately for about nine years comes apart the moment somebody outside it needs it to be a solution, and that this is a thing about the keeping and not about him. **He also said that nobody from this side has ever asked anybody over there whether the figure of four hundred is correct, and that he is not the man to ask.** He left at about nine and nobody asked him to stay.
+2. **Asha Reed.** On 874 and on no other page of Movement VI. **She made about nine copies of a good sentence and put them in about nine hands and asked nobody to do anything with one.** She resolved nothing, she is not the reason the page turns, and nobody thanked her.
+3. **Dessa Kwan.** On 874 and on no other page of Movement VI. **She had the hot water on and four chairs brought in from the corridor and wrote a list of what that room needed and did not read it out.** **She is not saved by anybody on any of the ten pages and she saves nobody.**
+
+## 2. The man of twenty-two, at the end of the volume he has been in for sixty chapters
+
+**He is on all ten pages of Movement VI. He is asked nothing on all ten and signs nothing on all ten and says one thing about a thing nobody in the room can act on.** His hands are not right for about two hours four times in eleven years, and that is a condition of his body and not a gift and not a qualification.
+
+**He is the one who refuses at Chapter 877.** A man of about thirty-eight said that the one thing this city has that four hundred people do not have is somebody who can say what a set of people who have done a thing for years know about their own hands, and that this room has one of those in it. **He said no in about four seconds, and the reason he gave was about his own hands and not about the four hundred: you would need steady hands and mine are not.** Nobody had finished asking him.
+
+**Afterwards he stood on a stair for about nine minutes trying to work out whether he had refused it for the reason he had said out loud or for one he had not, and he has said he could not do it and that he went back up. He is not asked. Nobody in this city has asked him. Nobody answers the question for him and no page of this movement answers it either.** He stayed in that room until about nine and said nothing.
+
+**What he is not, at the end of the volume:** he is not the person who signs anything, he does not approve anything, nobody has been saved by him, he teaches nobody, assesses nobody and demonstrates nothing to anybody, and **no page of Movement VI says what the institution is for.**
+
+## 3. The man who is on no body in this city, and what he is left holding
+
+**He said this volume's nine words at Chapter 869 and published the counter-argument at Chapter 878, and the counter-argument is his.** *Nobody over there has ever asked us about it*, in about nine seconds, into a woman's face. **Nobody in that room beat it and nobody in that room agreed with it. It stands. The plan of record says standing is the outcome and a resolution there would have been a change to the plan of record.**
+
+**He has been thanked for nothing on either page and nobody in this city has thanked him since. A woman of about thirty-four asked whether she could write it down and he said yes in about four seconds; the sheet went into a drawer at about nine with the reason on one side and his nine words on the other and it has not been taken out.** He went on doing the thing after that Monday. Nobody asked him to stop and nobody said he should go on, and about nine people in that room have each said since that they could have argued for either and argued for neither.
+
+## 4. The woman whose working shift was used as a fact in a room she was not in
+
+**She is told about it once, at Chapter 879, in nine words, and he does not apologise.** *You told a room my week without asking me.* She said in advance that she is not going to be thanked for telling him, and that anybody who thanks her for it has made it a thing she did for them, and that **an apology would be a way of putting it back on her and that she would be carrying it after he had finished being sorry.** **Both of those sentences are hers. He did not say either of them, he did not say the first of them twice, and he did not answer the second of them.** He has said since that she told him not to and that he had not been going to, and that those are two different reasons and that the one he has is the one that came first.
+
+**She has also said out loud, for the first time and on Chapter 876, that she has been the only person in a building who knows something for about nine weeks, and that she is not going to be thanked for it, and that saying it has not made the mornings any different.** Nobody in this city has thanked her, nobody has ever asked what is written on the sheet in her bag, and about four people who know there is a bag have said since that a road is not a person and that this is the whole of what she asked for.
+
+## 5. The people who are not on any page of this movement and are not on any page of this volume
+
+**Iona Sorn**, fifty-three, the last enemy in this manuscript, in public custody, unanswered, not absolved, and at zero on all sixty pages. **Evan Senn is at zero on all sixty, and Lena Senn's husband's name is at zero and is not spoken anywhere in this volume.** The woman of about thirty is not named, is not a category, is not counted, is not described and is not asked a question, and **nobody apologises to her on any of the sixty days.** The nine people who were part of the Choir and are not in this city have not been asked and are not asked. **The four hundred people in the district that left in Volume 16 keep their practice by other means and this volume says nothing about whether it worked, and nobody in this movement may say it either.**
+
+## 6. What this pass did to the people, which is that it found them already there
+
+**It changed no person and it created none. The ten chapter files of Movement VI were already on disk when this pass began and every one of the people above was already placed by the plan of record.** The pass verified that each was named in their own age and their own situation and not turned into a category, and it repaired one paragraph on Chapter 874 in which a man of about thirty-three read a day's work off a weekday counter that belongs to the woman of about forty-four **without being asked on whose authority he had read it**, and it left the fact that nobody asked him standing, because the plan of record puts the shape of that trade in this movement and the cost of putting it there in Chapter 879.
+
+**The nine spends are still nine against a ceiling of eight, the printed remainders are still six, six, four and four, and Movement VI's contribution to that finding is that it spent none, which is what the plan of record asks for.**

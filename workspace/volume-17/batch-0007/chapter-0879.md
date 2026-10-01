@@ -4,11 +4,11 @@
 
 ---
 
-Nine names and nine dates went onto that Monday's sheet, the last of the dates at about ten to five, and the shutter came down at about ten.
+Nine were written down on that Monday, and nine dates were set against them, the ninth of those at about ten to five, and the shutter of that shop came down at about ten.
 
-**The four converted units off that service road are one thousand six hundred and seventeen days, two hundred and thirty-one weeks to the day. The sixteenth of the nineteen ruled lines on the board on two nails is one thousand four hundred and seven days, two hundred and one weeks to the day. Nine copies in nine hands of the front of one page stand at one thousand one hundred and eighty-three days, a hundred and sixty-nine weeks to the day, and not two of the nine have been laid beside one another.**
+**Those four units have stood behind that service road for one thousand six hundred and seventeen days, which comes to two hundred and thirty-one weeks to the day. Line sixteen of those nineteen has been ruled for one thousand four hundred and seven days, which is two hundred and one weeks to the day. The front of one page in nine hands has been there for one thousand one hundred and eighty-three days, a hundred and sixty-nine weeks to the day, and no two of the nine have been laid beside any other.**
 
-**And nothing was said in any room in this city on that Monday that was a number, and no count was announced anywhere, and the Wednesday of every fourth week that carries one is two days off.**
+**Nothing was said in that building on that Monday that was a number, no count was announced anywhere, and there is a Wednesday of every fourth week nine days in front of it that carries one.**
 
 ---
 
@@ -20,7 +20,7 @@ The second line says what that building is not: anybody who can tell you whether
 
 **Nobody in that shop printed a third line and nobody in that shop has asked for one, and about four people who have read the form have said since that two lines is more than anything in this city has ever put at the top of anything.**
 
-The form went out to every caller on that Monday and went out with a real envelope and did not need a stamp, and about nine people in this city have one and about four of them have read the two lines at the top.
+The form went out to every caller on that Monday and every one of them was handed it by a person who carried it out of that shop and put it into that hand, and about nine people in this city have one and about four of them have read the two lines at the top.
 
 ---
 
@@ -44,7 +44,7 @@ She said in about nine seconds that a thing this body cannot do anything about s
 
 **Nobody in that shop argued with her and nobody in that shop agreed with her, and about four people in that shop have said since that they would rather it had stayed on the list.**
 
-The man of about thirty-four who has been over there and done it twice was in that shop on that Monday and was not asked about the practice and did not talk about the practice.
+The man of about thirty-four who has been over there and done it twice was in that shop on that Monday, and nobody asked him about the practice and he did not raise it himself.
 
 He said in about nine seconds that a thing being off a list is not the same as a thing being stopped, and that he knows that better than anybody in that shop.
 
@@ -84,13 +84,13 @@ A woman of about thirty-eight asked afterwards whether the two of them were goin
 
 ---
 
-**A man of twenty-two was at that counter from about five and was asked nothing at all, and the one thing he said was about the two lines.**
+**He came to that counter at about five, was asked nothing whatever, and the one thing he said while he was there was about the two lines.**
 
 He said that the two lines are printed at the top and not in the middle, and that a person reads the top of a thing about nine times and reads the middle about nine times, and that whoever set that type up chose the top without anybody asking them to.
 
 **Nobody in that shop knew who set the type up and nobody came back with a second question about it, and he said afterwards that the person is probably not in the building.**
 
-Nothing was signed by him in this stretch of days and no sheet went out of that shop with his name on it on that Monday, and there is nothing on that form that wants a name.
+He put his name to nothing in this stretch of days and nothing went out of that shop on that Monday carrying it, and there is nothing on that form that wants a name.
 
 ---
 
@@ -128,11 +128,9 @@ He took that band off, put in a full length of the same thickness, and re-banded
 
 **Those four bills, added, come to a hundred and fourteen pounds on that Monday, exact.**
 
-**At half past six the fourth of those four rooms was shut and a woman of about thirty was behind that door, and on the back shelf the eighth of eight lay at four hundred and six days.**
+**At half past six the fourth of those four rooms was shut, there was a woman of about thirty behind that door, and on the back shelf the eighth of eight lay at four hundred and six days.**
 
-**That page has not been asked about by anybody in this city, and nobody is going to ask, and what is on it is not given here.**
-
-**Nobody in this city has put a question to her about that page and nobody ever will. What is on that page is not given here.**
+**Nobody in this city has asked that page anything and nobody ever will. What is on it is not given here, and the binder stayed shut on that Monday.**
 
 ---
 
@@ -143,7 +141,7 @@ The practice was not banned that week and was not endorsed, and this body will n
 A woman of about forty-four came to that counter at about half past three and said nine words to a man about a fact of hers that he had used in a room she was not in. He did not apologise, at her instruction, and she said in advance that she is not going to be thanked for telling him.
 He was at that counter, nobody put anything to him, and he said one thing about two lines being printed at the top of a form. That Monday was worth a hundred and fourteen pounds, exact.**
 
-*Conditions and docket.* **Callers on that Monday: nine. Brought onto the sheet: nine, the ninth of them entered at about ten to five. About two hours of the day were that counter and about two hours of the rest of it were a valve, a tray, a washer and a joint.
+*Conditions and docket.* **Callers on that Monday: nine. Brought onto the sheet: nine, the ninth of them entered at about ten to five. That counter had about two hours of the day in it and a valve, a tray, a washer and a joint had about two hours of what was left.
 The four units off that service road, one of them the second and warm: one thousand six hundred and seventeen days, two hundred and thirty-one weeks to the day
 The card standing on end in the two-place rail at that first door: one thousand six hundred and twenty-one days, two hundred and thirty-one weeks and four days
 The board on two nails and the twelfth of its nineteen ruled lines: one thousand five hundred and thirty-seven days, two hundred and nineteen weeks and four days
@@ -159,18 +157,18 @@ The man of about fifty-one against that wall on the north side: one thousand two
 What is owed on the page lying open in front of him: one thousand three hundred and seven days, one hundred and eighty-six weeks and five days
 The fitting at the end of the corridor nearest that door: one thousand one hundred and sixty-five days, one hundred and sixty-six weeks and three days
 Nine hands writing the front of one page, a corner gone off it, eight of them left incomplete, and not two of the nine laid beside each other: one thousand one hundred and eighty-three days, one hundred and sixty-nine weeks to the day
-The separation, one line inside one box in a room off a road, about sixteen months old: nine hundred and ninety-seven days, one hundred and forty-two weeks and three days
-That flat: four names on the tenancy, the heating not cut back since the autumn, a valve repainted and tagged, a tray notched, a washer moved onto bare steel, a joint insulated properly.
+That single line in that single box in that room off that road was filled in about sixteen months ago: nine hundred and ninety-seven days, one hundred and forty-two weeks and three days
+That flat, with four names on the tenancy and the heating not cut back since the autumn: a valve repainted and tagged, a tray notched, a washer moved onto bare steel, a joint insulated properly.
 Not asked and not given: nobody in that shop asked a woman of about forty-four what she wanted when she came in, and nobody asked her afterwards what she had come for, and she was not thanked for what she said.
 Work: nine, a valve found, a tray notched, a washer seated, a joint insulated, nothing escalated, nothing handed back.
 Charge: a hundred and fourteen pounds, exact.
 
-*Conditions of the close.* **Sixty-seven lines stand in the green-bound book in the room upstairs and seventy-three in the tin beside it, and no number on this page has been got from setting one against the other.
+*Conditions of the close.* **The green-bound book in the room upstairs stands at sixty-seven lines and the tin beside it at seventy-three, and no number on this page has been got out of setting one of those against the other.
 That ninth chair is against a wall in the first floor with its back turned to everything that room is used for. It did not move on that Monday and no page of this stretch of days names anybody who moves it.
-There is a room beneath a building in a first district, and at about eleven on that Monday it had nothing lit in it, and there is nothing lit in it now, and nobody in this city has ever asked for one.
-The register of correct acts that changed nothing stood at four when that Monday began and stands at four at the end of it, and nobody counts it here any more. A form with two lines on it that nobody has answered is not on it.
+Under a building in a first district there is a room, and it was without a light in it at about eleven on that Monday and it is without one at this hour, and no request for a light has ever come from anybody in this city.
+The register of correct acts that changed nothing stood at four when that Monday began and stands at four at the end of it, and nobody counts it here any more. A form with two lines on it that nobody has answered is not entered on it.
 
-*What the day did not settle, and the rest of it.* **Ten objects are named in the line that follows, and no sentence after that line brings any two of them together. A strip of paper cut narrow with one word on it. A doorway held open on a card creased once. The front of one page copied out by hand nine times. The tin with its lid shut. A cage down one side of a counter. The shutter. The board on two nails with nineteen lines on it. The book in its green cover. The rail that takes two. The binder standing on a shelf at the back.**
+*What the day did not settle, and the rest of it.* **Ten objects are set down in the line that follows, one to a sentence, and no sentence after that line brings any two of them together. A strip of paper cut narrow with one word on it. A doorway held open on a card creased once. The front of one page copied out by hand nine times. The tin with its lid shut. A cage down one side of a counter. The shutter. The board on two nails with nineteen lines on it. The book in its green cover. The rail that takes two. The binder standing on a shelf at the back.**
 The form that came back on a bus is not in those ten, and a sheet folded in four in a woman's bag is not an eleventh. The sheet that came back that way is no relation whatever to a board on two nails, nor to a printed sheet held to one by two drawing pins.
 A dated rule stands over a matter that has nothing to do with this page, and the records behind it are open to anybody who comes and asks.
 Nobody thanked anybody and nobody forgave anybody on that Monday. A woman said nine words to a man in a shop and he did not apologise because she had asked him not to, and nobody in this city has thanked her for saying them.

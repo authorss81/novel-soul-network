@@ -4,11 +4,11 @@
 
 ---
 
-Eleven names went onto that Friday's sheet with eleven dates against them, the last of those dates at about ten to five, and at about ten the shutter came down.
+That Friday's book took eleven names before the day was out, each of them with a date of its own, the eleventh of those dates entered at about ten to five, and the shutter down at about ten.
 
-**The seventeenth of the nineteen ruled lines on the board on two nails is one thousand three hundred and sixty-five days, a hundred and ninety-five weeks to the day. The fitting at the end of the corridor nearest the stair is one thousand one hundred and forty-one days, a hundred and sixty-three weeks to the day. The separation, which is one line inside one box in that room, is nine hundred and seventy-three days, a hundred and thirty-nine weeks to the day.**
+**Line seventeen of the nineteen on the board on two nails has stood for one thousand three hundred and sixty-five days, a hundred and ninety-five weeks to the day. That fitting at the end of the corridor has been at that end one thousand one hundred and forty-one days, a hundred and sixty-three weeks to the day. The separation is one line inside one box in that room, and that box has held that line for nine hundred and seventy-three days, which is a hundred and thirty-nine weeks to the day.**
 
-**And no figure was said in any room in this city on that Friday and nothing was announced anywhere, and the last Wednesday that carried a figure was two days off and the next one was a week and a day after that.**
+**Nothing was said in any room in this city on that Friday and nothing was announced anywhere; the last Wednesday that carried a figure was twenty-three days back, and the next one to carry a figure is five days ahead.**
 
 ---
 
@@ -30,7 +30,7 @@ He said nine words, and he said them to her and not to the room.
 
 He said: our rules were not built for rooms like this.
 
-**Nobody in that room asked him which rooms they were built for and nobody in that room has asked him since, and about four people in that room have said afterwards that they would have asked and did not.**
+**Nobody in that room asked him which rooms they were built for and nobody there has put that question to him since, and about four people in that room have said afterwards that they would have asked and did not.**
 
 He said afterwards that he came because he had been asked to come and that he had not come to hand anything over, and that he had known before he came that those were two different things.
 
@@ -44,7 +44,7 @@ He said nine words to her and the room heard all of them.
 
 He said: it works. It is not an answer to you.
 
-**Nobody in that room said he was wrong and nobody in that room said he was being modest, and about four people in that room have said since that they thought he had been being modest and about four have said since that he was not.**
+**Nobody in that room said he was wrong, nobody in that room said he was being modest, and about four people there have said since that they thought he was being modest and about four have said since that he was not.**
 
 He has said since that a thing which has been kept small deliberately for about nine years comes apart the moment somebody outside it needs it to be a solution, and that this is a thing about the keeping and not about him.
 
@@ -58,7 +58,7 @@ He said nine words and he said them and then he stopped, and what he stopped at 
 
 He said: it is written in the box of a form.
 
-**Nobody in that room asked him which form and nobody in that room has asked him since, and about four people in that room have worked out since that he knew exactly which form he meant and chose not to say.**
+**Nobody in that room asked him which form, nobody there has put that to him at any time since, and about four people in that room have worked out since that he knew exactly which form he meant and chose not to say.**
 
 He has said since that he has seen the form and that he has never been asked to produce it, and that a man who has seen a thing and is not asked for it is in a different position from a man who has never seen it, and that he did not come to be in a better position in front of nine people.
 
@@ -78,17 +78,17 @@ He left at about nine the way he had come, at about ten past seven, and he did n
 
 ---
 
-**A man of twenty-two was in that room and was asked nothing at all and spoke once, at about half past eight, about a length of cable.**
+**He was in that room the whole evening, nobody asked him a single question, and he spoke once, at about half past eight, and he spoke about a length of cable.**
 
 He said that about nine feet of the cable that comes into that room has been tied to the leg of a table with a cable tie that was cut and retied, and that somebody retied it once because they wanted to reach something, and that the cable has been in and out of that tie about nine times.
 
-**Nobody in that room knew what to do with that and nobody came back with a second question about it, and about four people in that room have said since that they would not have noticed the retie at all.**
+**Nobody in that room knew what to do with that and nobody came back with a second question about it, and about four people in that room have said since that not one of them had ever looked at where that cable was tied.**
 
-Nothing was signed by him in this stretch of days and no sheet went out of that room with his name on it on that Friday, and there is nothing in that room that wants a signature.
+On that Friday his name went on nothing at all and nothing went out of that room with it on, and nothing in that room is asking for a signature from anybody.
 
 ---
 
-**What was left of that Friday went into about two hours of work in a fourth district.**
+**The balance of that Friday was spent in a fourth district, and it was about two hours of it.**
 
 **A bracket in the same yard had been welded to a column at the wrong end, so that about a quarter of its load went through the fillet weld instead of through the bolts.**
 
@@ -122,7 +122,7 @@ He took the wrong cage off, put the cage that belongs there on, and left the lam
 
 **Those four came to eighty-five pounds on that Friday, exact.**
 
-**At half past six the fourth of those rooms was shut with a woman of about thirty behind it, and the eighth of eight lay on the back shelf of it at three hundred and eighty-two days.**
+**At half past six the door of the fourth of those four rooms was shut, a woman of about thirty was behind it, and the eighth of eight lay on the back shelf of that room at three hundred and eighty-two days.**
 
 **Nobody has asked her anything about that page and nobody in this city is going to. What is on that page is not given here.**
 
@@ -134,7 +134,7 @@ Friday of week 295, at ten. That is the one hundred and seventy-eighth day of th
 He said nine words about that and said nine more when somebody in that room said his thing was the answer, and neither of them was thanked. He also said that nobody from this side has ever asked anybody over there whether the figure of four hundred is correct.
 He was in that room, nobody put anything to him, and he spoke about a length of cable retied about nine times. That Friday was worth eighty-five pounds, exact.**
 
-*Conditions and docket.* **Callers on that Friday: eleven. Taken onto the sheet: eleven, the eleventh entered at about ten to five. About two hours of it were that room off the road and about two hours of the rest of it were a bracket, a chain, an earth and a cage.
+*Conditions and docket.* **Callers on that Friday: eleven. Taken onto the sheet: eleven, the eleventh entered at about ten to five. That room off the road took about two hours, and a bracket, a chain, an earth and a cage took about two hours after it.
 The four units behind the service road, the third of them the warm one: one thousand five hundred and ninety-three days, two hundred and twenty-seven weeks and four days
 The card standing in the rail that keeps two, at the first of those doors: one thousand five hundred and ninety-seven days, two hundred and twenty-eight weeks and one day
 The twelfth line on the board nailed up by two nails: one thousand five hundred and thirteen days, two hundred and sixteen weeks and one day
@@ -150,15 +150,15 @@ The man of about fifty-one against that wall: one thousand one hundred and ninet
 The sum still owing on the open page in front of him: one thousand two hundred and eighty-three days, one hundred and eighty-three weeks and two days
 The fitting at the far end of the corridor: one thousand one hundred and forty-one days, one hundred and sixty-three weeks to the day
 Nine hands writing out the front of one page, a corner torn, eight of them left half finished, and not two of them brought together: one thousand one hundred and fifty-nine days, one hundred and sixty-five weeks and four days
-One line in one box in a room off a road, about sixteen months old: nine hundred and seventy-three days, one hundred and thirty-nine weeks to the day
-That flat: four names on it, no reduction on the heating since the autumn, a new bracket bolted through a column, a chain straightened, an earth moved off a pin, a cage replaced with the one that fits.
+The separation, one line and one box in a room off that road, and it has been about sixteen months: nine hundred and seventy-three days, one hundred and thirty-nine weeks to the day
+That flat, with four names on the tenancy and no reduction on the heating since the autumn: a new bracket bolted through a column, a chain straightened, an earth moved off a pin, a cage replaced with the one that fits.
 Not asked and not given: nobody in that room asked a man why his rules are not for it, and nobody asked which form he meant, and he answered both questions in nine words each and stayed for neither answer.
 Work: eleven, a bracket re-cut, a chain put true, an earth re-made, a cage changed, nothing escalated, nothing handed back.
 Charge: eighty-five pounds, exact.
 
-*Conditions of the close.* **The green-covered book on that table upstairs stands at sixty-seven lines and the tin beside it stands at seventy-three with its lid down, and this page has not arrived at one of those two figures by working from the other.
+*Conditions of the close.* **On that table upstairs the green-covered book stands at sixty-seven lines and the tin beside it, its lid down, at seventy-three, and neither figure on this page was got by working from the other.
 The ninth chair in that first floor is hard against a wall and turned away from every thing said in that room; it did not move on that Friday, and this stretch of days names nobody who moves it.
-Underneath a building in a first district there is a room with nothing lit in it at about eleven on that Friday, and nothing lit in it at this hour, and no request for a light has ever come out of this city about it.
+A room under a building in a first district was dark at about eleven on that Friday and is dark at this hour, and no light has ever been asked for in it by anybody in this city.
 The tally of correct acts and no result stood at four when that Friday started and stands at four at the end of it, and nobody keeps that tally any more. A man who comes to a room, answers two questions in nine words and leaves is not entered on it.
 
 *What the day did not settle, and the rest of it.* **The line that follows carries ten objects, and every sentence after it leaves them each to themselves. The tin with its lid down. The shutter. A strip cut narrow with one word on it. Nine hand copies of the front of a page, and no two of them side by side. A board on two nails, nineteen lines ruled. A doorway propped by a card creased once. A green-bound book on a table. The cage down one side of a counter. The rail that takes two. The binder on a shelf at the back of a room.**

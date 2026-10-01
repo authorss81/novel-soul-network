@@ -1,32 +1,32 @@
-# Chapter 880 — Nine Days After The Last Ordinary Page Of This Stretch Of Days, A Wednesday Of Every Fourth Week, A Bench Until Two And A Counter Until About Six, And Then A First Floor Above A Line In Saltmarket Where A Number Was Said Once In A Woman's Face And Where A Book That Had Stood Where It Stood For Nineteen Years Was Opened Because Somebody Standing In Front Of Her Said One Thing Out Loud To Her And Nobody In That Room Turned It Into More Than That
+# Chapter 880 — Eight Clear Days After The Last Ordinary Day Of This Stretch Of Days, A Wednesday Of Every Fourth Week, And Then A First Floor Above A Line In Saltmarket Where A Number Was Said Once In A Woman's Face And Where A Book That Had Stood Where It Stood For About Nineteen Years Was Opened Because Somebody Standing In Front Of Her Said One Thing Out Loud To Her And Nobody In That Room Turned It Into More Than That
 
-**Nine days went by with no page on any of them and then the Wednesday of every fourth week came round again and about nine people were in that first floor above a line in Saltmarket. About two hours of the day before that had been a counter. One thing happened in that room and it was an ordinary thing and it changed one thing and nobody was thanked for it.**
-
----
-
-Eleven names and eleven dates went onto that Wednesday's sheet, the last of the dates at about twenty to five, and the shutter came down at about ten.
-
-**The eighteenth of the nineteen ruled lines on the board on two nails is one thousand three hundred and forty-four days, a hundred and ninety-two weeks to the day. The man of about fifty-one against the north wall is one thousand two hundred and thirty-two days, a hundred and seventy-six weeks to the day. What is still owed on the page lying open in front of him is one thousand three hundred and sixteen days, a hundred and eighty-eight weeks to the day.**
-
-**And there have been nine days since the last ordinary day of this stretch and nobody in this city has written anything down on any of the nine of them, and the count goes up by one whether that book opens or not.**
+**Eight days went by after the last ordinary day of this stretch with nothing written down on any of them, and then the Wednesday came round again on the ninth, and about nine people were in that first floor above a line in Saltmarket. About two hours of the day before that had been a counter, and what was said in that room took up the evening and did not take up the city.**
 
 ---
 
-**A sheet of nine things came in a plain envelope at about ten past six and the woman at the head of that room read the nine lines he had brought her, and she read the ninth one last, and about four people in that room did not write anything down while she did it.**
+That Wednesday's book ran to eleven names, every one of them with a date set against it, the eleventh of those dates taken at about twenty to five, and the shutter came down at about ten.
 
-The ninth of the nine is who a person goes to if they want to say no. Nobody in that room has ever been allowed to move it and nobody moved it.
+**Nineteen ruled lines are on the board on two nails and one thousand three hundred and forty-four days is what the eighteenth of them carries, which is a hundred and ninety-two weeks to the day. The man of about fifty-one, on the north side of that room, is one thousand two hundred and thirty-two days old in that spot, which is a hundred and seventy-six weeks to the day. The sum owed on the open page lying in front of him stands at one thousand three hundred and sixteen days, a hundred and eighty-eight weeks to the day.**
 
-**About nine people came up between about half past six and about seven, and about four of them had not been in that room since the Wednesday before last.**
+**And there have been eight days since the last ordinary day of this stretch and nobody in this city has written anything down on any of the eight of them, and the count goes up by one whether that book opens or not.**
 
 ---
 
-**And at about half past six the count was said once, in about nine seconds, into the face of that room, in the way it is said.**
+**A sheet of nine things came in a plain envelope at about ten past six, and the woman at the head of that room read the nine lines a man had brought her, in the order they were printed in, with the ninth of them at the end of it. About four people in that room wrote nothing at all while she was doing it.**
+
+The ninth of the nine is who a person goes to if they want to say no. Nobody in that room has ever had the authority to move it and nobody moved it.
+
+**About nine people came up between about half past six and about seven, and about four of them had not been in that room since the Wednesday four weeks back.**
+
+---
+
+**And at about half past six the count was said once into the face of that room, in about nine seconds, in the way it has always been said.**
 
 She said: sixty-nine, of which sixty-four correspond.
 
-She said it once and she did not say it twice and she did not explain it, and a man of about thirty-four said nothing at all, which is what a man in that room has done every four weeks for about nineteen years.
+She said it once and she did not say it twice and she did not explain it, and a man of about thirty-four said nothing at all, which is what a man in that room has done every fourth Wednesday for about nineteen years.
 
-**Nobody in that room said anything for about nine seconds afterwards, and the woman of about thirty-eight who had asked about the second figure three weeks ago did not ask about it this time.**
+**Nobody in that room said anything for about nine seconds afterwards, and the woman of about thirty-eight who had asked about the second figure four Wednesdays before did not ask about it this time.**
 
 The second figure is the count less five, and the five are older than that book and are written on a sheet she has never shown anybody, and she has never said that twice.
 
@@ -34,7 +34,7 @@ The second figure is the count less five, and the five are older than that book 
 
 **And then, at about twenty past seven, something happened in that room that had not happened there in about nineteen years, and it happened because a woman said one thing out loud in front of her, and it was not a question and it was not an argument.**
 
-A woman of about thirty-four who carried a form back on a bus from two days of travel had been at that counter for about nine weeks and had come into that room about four times and had never once been asked what she had come for.
+A woman of about thirty-four who carried a form back on a bus from two days of travel had been coming into that room about four times over about nine weeks and had never once been asked what she had come for.
 
 She said, standing at the front of that table, in about nine seconds, that she had come about four times and that nobody had ever asked her what she wanted.
 
@@ -58,9 +58,9 @@ The tin beside it was not opened that evening and stood at seventy-three.
 
 ---
 
-**And nobody in that room asked the man of about thirty-four who has been over there and done it twice whether the practice was safe, and nobody in that room asked him anything about it at all.**
+**And nobody in that room asked the man of about thirty-four, who has been over there and done it twice, whether the practice was safe, and nobody in that room asked him anything about it at all.**
 
-He is on no body in this city. He has no vote and no minute. He came because he has been in a room with about nine people in it at two in the morning about twice, and that is the whole of what he has.
+He is on no body in this city. He has no vote and no minute. He came because of two rooms he has been in at two in the morning with about nine people standing in them, and that is the whole of what he has.
 
 **Nobody in that room thanked anybody and nobody in that room has thanked anybody since, and nobody was forgiven by anybody on that Wednesday.**
 
@@ -70,7 +70,7 @@ He is on no body in this city. He has no vote and no minute. He came because he 
 
 ---
 
-**A man of twenty-two was in that room and was asked nothing at all and signed nothing, and is not the person who signs anything in this stretch of days.**
+**He was in that room that evening, was asked nothing at all and signed nothing, and he is not the person who signs anything in this stretch of days.**
 
 He said afterwards, at about ten to eight, that the runner on the drawer the sheet went into last week has now been oiled, and that the person who oiled it did not say so and left no mark.
 
@@ -78,13 +78,13 @@ He said afterwards, at about ten to eight, that the runner on the drawer the she
 
 ---
 
-**The rest of that Wednesday was the counter until about six and then about two hours in a fourth district.**
+**That Wednesday was the counter until about six and after that about two hours in a fourth district, and four jobs went into those two hours.**
 
 **A hinge on a door in the same yard had been fitted with screws about a quarter of an inch too long, so that the heads stood off the leaf and had been caught by about four coats of paint.**
 
 He took the screws out, filled the holes, and fitted screws of the length that belongs in a hinge.
 
-**Thirty-one pounds. He told the man that screws long in a hinge put the head outside the door, and that about four doors in that yard are hung that way, and that one of them has been reported as a door that catches for about four years.**
+**Thirty-one pounds. He told the man that screws long in a hinge put the head outside the door, that about four doors in that yard are hung that way, and that one of them has been a door that catches for about four years.**
 
 ---
 
@@ -100,7 +100,7 @@ He filled the hole, drilled into the solid behind, and refitted the duct with a 
 
 He put the earth on the frame where it belongs and proved it.
 
-**Nineteen pounds. He told the man that an earth on a flex is an earth a person can pull out, and that about four plugs in that yard are earthed that way, and that one of them has been reported as a plug that somebody has had to hold for about four years.**
+**Nineteen pounds. He told the man that an earth on a flex is an earth a person can pull out, that about four plugs in that yard are earthed that way, and that one of them has been a plug that somebody has had to hold for about four years.**
 
 ---
 
@@ -114,22 +114,20 @@ He took it off, found the stud, and fixed it into the frame.
 
 **By half past six the fourth of those four rooms was shut with a woman of about thirty behind the door, and the binder on the shelf at the back of that room had been holding the eighth of eight for four hundred and fifteen days.**
 
-**Nobody in this city has put a question to her about that page and nobody ever is going to, and the binder stayed shut on that Wednesday, and what is on that page is not given here.**
-
-**Nobody in this city has put a question to her about that page and nobody ever is going to, and the binder stayed shut on that Wednesday, and what is on that page is not given here.**
+**Nobody in this city has put a question to her about that page and nobody ever is going to, the binder stayed shut on that Wednesday, and what is on that page is not given here.**
 
 ---
 
 *883.
 Wednesday of week 300, at ten. That is the one hundred and eighty-fifth day of this stretch of days. Eleven names and eleven dates went onto that Wednesday, the last of the dates at about twenty to five.
-**THE SIXTY-FOURTH SITTING, in a first floor above a line in Saltmarket, and there are nine days between it and the last ordinary day of this stretch and nothing at all was written on any of the nine.
-A sheet of nine things came in a plain envelope. The ninth was read out last, and the ninth is who a person goes to if they want to say no.
-At about half past six the count was said once, in about nine seconds, into the face of the room: sixty-nine, of which sixty-four correspond.
+**THE SIXTY-FOURTH SITTING, in a first floor above a line in Saltmarket, and there are eight clear days between it and the last ordinary day of this stretch and nothing at all was written on any of the eight.
+A sheet of nine things came in a plain envelope and was read out in the printed order, and the ninth of the nine is who a person goes to if they want to say no and came at the end of it.
+At about half past six the count was said once, into the face of the room and in about nine seconds: sixty-nine, of which sixty-four correspond.
 At about half past seven a woman said out loud in front of the woman who holds that room that she had come about four times and had never been asked what she wanted, and was asked, and answered that she wanted the box at the foot of the form to hold a word and not a date.
 The book in the green binding was opened and stood at sixty-eight lines when that room emptied. The word on that line is the one that has been in that box since the first Monday of these days, and the tin beside it was not opened and stood at seventy-three.
 Nobody in that room asked the man who has been over there whether the practice is safe. He was in that room, signed nothing, and said one thing about a drawer runner that has been oiled by somebody who left no mark. That Wednesday was worth ninety-four pounds, exact.**
 
-*Conditions and docket.* **Callers on that Wednesday: eleven. On that day's book: eleven, the eleventh of them taken at about twenty to five. That first floor took an hour and a half of that evening, and the remainder of the day went into a hinge, a duct, a plug and a bracket.
+*Conditions and docket.* **Callers on that Wednesday: eleven. On that day's book: eleven, the eleventh of them taken at about twenty to five. An hour and a half of that evening belonged to that first floor, and a hinge, a duct, a plug and a bracket had the rest of the day.
 The four units off that service road, one of them warm and one behind the other three: one thousand six hundred and twenty-six days, two hundred and thirty-two weeks and two days
 The card in the rail beside that first door, which takes two: one thousand six hundred and thirty days, two hundred and thirty-two weeks and six days
 The twelfth of the nineteen lines on the board: one thousand five hundred and forty-six days, two hundred and twenty weeks and six days
@@ -145,18 +143,18 @@ The man of about fifty-one against the north wall of that first floor: one thous
 What is owed on the page lying open there in front of him: one thousand three hundred and sixteen days, one hundred and eighty-eight weeks to the day
 The fitting at the end of that corridor: one thousand one hundred and seventy-four days, one hundred and sixty-seven weeks and five days
 Nine hands' writing of the front of one page, one corner torn off, eight of them not brought through, and no two of the nine set side by side: one thousand one hundred and ninety-two days, one hundred and seventy weeks and two days
-The separation, one line inside one box in that room, about sixteen months old: one thousand and six days, one hundred and forty-three weeks and five days
-That flat: four names on the tenancy, the heat not turned down since the autumn, four screws of their own length, a duct fixed into a solid, an earth on a frame, a bracket fixed into a stud.
+One line inside one box in a room off a road, and about sixteen months have gone by since it was filled in: one thousand and six days, one hundred and forty-three weeks and five days
+That flat, on which four names are on the tenancy and the heat is not turned down since the autumn: four screws of their own length, a duct fixed into a solid, an earth on a frame, a bracket fixed into a stud.
 Not asked and not given: nobody in that room asked the man who has been over there and done it twice whether the practice is safe, and nobody in this city has asked him that, and the second figure of that count was not explained twice.
 Work: eleven, a hinge re-hung, a duct re-fixed, an earth returned, a bracket re-bolted, nothing escalated, nothing handed back.
 Charge: ninety-four pounds, exact.
 
-*Conditions of the close.* **The book in that first floor stood at sixty-seven lines when that room opened and stood at sixty-eight lines when the shutter came down, and the tin beside it stood at seventy-three with its lid shut on that Wednesday and every Wednesday before it. None of those three figures is arrived at by using another, and the difference between them is not printed here.
+*Conditions of the close.* **The book in that first floor stood at sixty-seven lines when that room opened and at sixty-eight lines when the shutter came down. The tin beside it stood at seventy-three with its lid shut on that Wednesday and on every Wednesday before it. None of those three figures has been arrived at by using another, and the difference between them is not printed here.
 The ninth chair in that first floor is hard against that wall with its back to everything in the room. It stayed where it stands, and this stretch of days names nobody who has ever shifted it.
-In a first district, under a building, there is a room, and at about eleven on that Wednesday it had no light in it, and it has none now, and nobody in this city has ever asked for a light there.
-The register of correct acts that changed nothing stood at four when that room opened and stands at four, and nobody in this city counts it. A book opened on a Wednesday evening by a woman who had been asked a question she had not been asked before is not on it.
+There is a room under a building in a first district, and at about eleven on that Wednesday there was nothing burning in it and there is nothing burning in it at this hour, and no light has ever been asked for in it by anybody here.
+The register of correct acts that changed nothing stood at four when that room opened and stands at four, and nobody in this city counts it. A book opened on a Wednesday evening by a woman who had been asked a question nobody had asked her before is not entered on it.
 
-*What the day did not settle, and the rest of it.* **This closing passage sets down ten objects, and nothing beneath it couples any two of them. The book in a green binding, on sixty-eight lines. A doorway held open on a card creased once. Nine hand copies of the front of one page. The tin with its lid down. A strip of paper cut narrow with one word on it. The cage down one side of a counter. The board on two nails with nineteen ruled lines. The shutter. The rail with two places in it, one of them holding a card on end. The ring binder standing on a shelf at the back.**
+*What the day did not settle, and the rest of it.* **This closing passage sets down ten objects, and nothing beneath it couples any two of them. The book in a green binding, on sixty-eight lines. A doorway held open on a card creased once. Nine hand copies of the front of one page. The tin with its lid down. A strip of paper cut narrow with one word on it. The cage down one side of a counter. The board on two nails with nineteen ruled lines. The shutter. The rail with two places in it. The ring binder standing on a shelf at the back.**
 A form that came back on a bus is not one of those ten, and the word in the box at the foot of it is not an eleventh thing because a book was opened over it. It resembles the board no more than it resembles the printed sheet that was pinned up by two drawing pins.
 A dated rule stands over a matter entirely apart from this page, and whoever wants the records behind it can come and have them.
 Nobody thanked anybody and nobody forgave anybody on that Wednesday. A woman stood in front of about nine people and said one thing out loud and was asked a question she had not been asked before, and a book was opened, and nobody in this city has thanked either of them.

@@ -4,11 +4,11 @@
 
 ---
 
-Ten names and ten dates went onto that Monday's sheet, the tenth of the dates at about ten to five, and the shutter came down at about ten.
+That Monday brought ten of them to that counter, and ten dates went onto the sheet, the tenth of them at about ten to five, and the shutter was down at about ten.
 
-**The four converted units off that service road are one thousand six hundred and ten days, two hundred and thirty weeks to the day. The sixteenth of the nineteen ruled lines on the board on two nails is one thousand four hundred days, two hundred weeks to the day. Nine copies in nine hands of the front of one page are one thousand one hundred and seventy-six days, a hundred and sixty-eight weeks to the day, and not two of the nine have been laid beside another.**
+**Those four converted units off that service road have stood for one thousand six hundred and ten days, and that is two hundred and thirty weeks to the day. Of the nineteen ruled lines on the board on two nails, the sixteenth has been ruled for one thousand four hundred days, two hundred weeks to the day. Copied out in nine hands, the front of one page has been in those nine hands for one thousand one hundred and seventy-six days, a hundred and sixty-eight weeks to the day, and no two of those nine have been brought together.**
 
-**And no figure was said in any room in this city on that Monday and none was announced anywhere, and the Wednesday of every fourth week that carries one is four days off.**
+**No figure was said in any room in this city on that Monday and none was announced anywhere, and there is a Wednesday of every fourth week sixteen days ahead of it that carries one.**
 
 ---
 
@@ -22,7 +22,7 @@ Four hundred people do this thing with their hands every day and nobody in this 
 
 ---
 
-**And about half an hour later a man of about thirty-four who has been over there and done it twice was asked the other question, and it was asked in a face, and it was asked once.**
+**And about half an hour later the other question went into a face in front of about nine people, once, and the man it went to was the one who has been over there and done it twice.**
 
 A woman of about thirty-eight asked him, standing, in about nine seconds, what a body that cannot reach four hundred people has to say about a thing those four hundred people do with their hands.
 
@@ -68,23 +68,23 @@ He went on doing it after that Monday. Nobody asked him to stop and nobody said 
 
 ---
 
-**A man of twenty-two was in that room and was asked nothing at all and signed nothing, and what he said, at about twenty past eight, was about the drawer.**
+**He was in that room and nothing at all was asked of him and nothing was put in front of him, and what he said at about twenty past eight was about the drawer.**
 
 He said that the drawer that sheet went into has a runner on it that has been oiled about four years ago and has not been oiled since, and that a thing put into a drawer that runs is a thing that will be found eventually by somebody who has no idea what it is.
 
-**Nobody in that room asked him who that somebody would be and nobody in that room came back with a second question, and he said afterwards that he had been in that room for about four weeks before he noticed the runner.**
+**Nobody in that room asked him who that somebody would be, nobody there came back with a second question, and he said afterwards that he had been in that room about four weeks before he noticed the runner.**
 
 ---
 
 **And that Monday is not on the register, and the reason it is not on the register is on this page and not in anybody's mouth.**
 
-The register of correct acts that changed nothing stood at four when that room filled and stands at four now, and the thing that was done in that room was correct and true and cost a man of about thirty-four nothing at all and changed nothing whatever.
+The register of correct acts that changed nothing stood at four when that room filled and stands at four now. The thing done in that room was correct and true, it cost a man of about thirty-four nothing at all, and it changed nothing whatever.
 
 **Nobody in this city counts that register and about four people in this city have said since that a true sentence in a room is not an act, and that this is why the figure has not moved in about nine years.**
 
 ---
 
-**What was left of that Monday went into about two hours of work in a fourth district.**
+**The remainder of that Monday went into a fourth district, and it was about two hours of it and four jobs.**
 
 **A handrail on a gangway in the same yard had been made up from two lengths of different diameter with a sleeve over the join, and the sleeve had not been fixed at the top.**
 
@@ -106,7 +106,7 @@ He moved the nipple to where a thumb goes, and greased it.
 
 He packed the hole, fitted a bolt in the middle of it, and proved the gate shut.
 
-**Nine pounds. He told the man that a stop in a slotted hole is a suggestion to anybody in a hurry, and that about four gates in that yard have stops like that, and that one of them has been reported as a gate that will not stay shut for about four years.**
+**Nine pounds. He told the man that a stop in a slotted hole is a suggestion to anybody in a hurry, that about four gates in that yard have stops like that, and that one of them has been a gate that will not stay shut for about four years.**
 
 ---
 
@@ -120,9 +120,7 @@ He took the earth off the plate and put it on the frame, and proved the fitting.
 
 **At half past six a woman of about thirty was behind the shut door of the fourth of those four rooms, and the eighth of eight lay on a shelf at the back of that room at three hundred and ninety-nine days.**
 
-**About that page: nobody in this city has asked her anything and nobody is going to, and what is on it is not given here.**
-
-**Nobody in this city has put a question to her about that page and nobody ever will. What is on that page is not given here.**
+**About that page: nobody in this city has asked her anything, nobody has asked her anything on any of the days of this stretch, and nobody is going to. What is on it is not given here.**
 
 ---
 
@@ -133,7 +131,7 @@ A man of about thirty-four who has been over there and done it twice was asked t
 Nobody in that room beat it and nobody in that room agreed with it. One woman asked to write it down and he said yes in about four seconds. The sheet went into a drawer with the two sides facing each other and it has not been taken out.
 He was in that room, was asked nothing, signed nothing, and said one thing about a drawer runner that has not been oiled for about four years. That Monday was worth a hundred and ten pounds, exact.**
 
-*Conditions and docket.* **Callers on that Monday: ten. Entered on the day's book: ten, the tenth of them at about ten to five. About two hours of the evening were that room and about two hours of the rest of it were a rail, a bearing, a stop and an earth.
+*Conditions and docket.* **Callers on that Monday: ten. Entered on the day's book: ten, the tenth of them at about ten to five. Two hours of that evening went into that room; the other two hours of the day went into a rail, a bearing, a stop and an earth.
 The four units behind that service road, one of them warm and one of them behind the other three: one thousand six hundred and ten days, two hundred and thirty weeks to the day
 The card on end in the rail by that first door, and the rail keeps two: one thousand six hundred and fourteen days, two hundred and thirty weeks and four days
 The twelfth of the nineteen lines ruled on the board on two nails: one thousand five hundred and thirty days, two hundred and eighteen weeks and four days
@@ -149,15 +147,15 @@ The man of about fifty-one against the north wall of that first floor: one thous
 What is owed on the page open in front of him there: one thousand three hundred days, one hundred and eighty-five weeks and five days
 The fitting at that corridor end: one thousand one hundred and fifty-eight days, one hundred and sixty-five weeks and three days
 Nine copies of the front of one page in nine hands, a corner torn off, eight of them not carried through, and not two of the nine brought together: one thousand one hundred and seventy-six days, one hundred and sixty-eight weeks to the day
-One line inside one box in a room off a road, about sixteen months old: nine hundred and ninety days, one hundred and forty-one weeks and three days
-That flat: four names on the tenancy, the heat not turned down since the autumn, one handrail made out of two lengths, a bearing nipple moved, a gate stop bolted, an earth moved off a plate.
+The separation is one line inside one box in a room off that road and it is about sixteen months old: nine hundred and ninety days, one hundred and forty-one weeks and three days
+That flat, which carries four names on the tenancy and has had the heat not turned down since the autumn: one handrail made out of two lengths, a bearing nipple moved, a gate stop bolted, an earth moved off a plate.
 Not asked and not given: nobody in that room asked the man who said the nine words anything further, and nobody has thanked him since, and the sheet with a true reason on one side and nine words on the other is in a drawer with the two sides together.
 Work: ten, a rail made true, a bearing greased, a stop bolted, an earth re-made, nothing escalated, nothing handed back.
 Charge: a hundred and ten pounds, exact.
 
-*Conditions of the close.* **The book with the green cover in the room upstairs is on sixty-seven lines and the tin beside it is on seventy-three, and this page does not arrive at one of those by using the other.
+*Conditions of the close.* **In the room upstairs, the book with the green cover is on sixty-seven lines and the tin beside it is on seventy-three, and neither of those figures on this page is arrived at by using the other one.
 The ninth chair in that first floor is hard against a wall with its back to every part of that room. It did not move on that Monday and no page of this stretch of days names whoever moves it.
-A room under a building in a first district had nothing lit in it at about eleven on that Monday and has nothing lit in it at this hour, and nobody in this city has ever asked for a light in it.
+In a first district, under a building, a room stands with nothing burning in it at about eleven on that Monday and nothing burning in it now, and no light has ever been asked for in it.
 The register of correct acts that changed nothing stood at four when that room opened and stands at four at the end of it, and nobody in this city keeps a figure of it. Nine true words said into a face, a reason written down, and a sheet put in a drawer are not on it, and nothing on this page says they should be.
 
 *What the day did not settle, and the rest of it.* **The passage below names ten objects, and no sentence after it sets any two of them beside each other. The board on two nails. A doorway held open by a card creased once. Nine hand copies of the front of one page. The cage down one side of a counter. The tin with its lid down. The shutter. The book in a green binding. A strip of paper cut narrow with a single word on it. The rail that takes two. The binder on its back shelf.**

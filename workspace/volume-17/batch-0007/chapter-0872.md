@@ -1,16 +1,16 @@
-# Chapter 872 — A Thursday, A Counter And About Four Hours Of It, And A Person At That Counter Working Out What Description Of Four Hundred People This City Is Entitled To Make Out Of Three Places Where Somebody Wrote It Down By Accident, And A Woman Of About Thirty-Eight Who Has Asked The Same Question In Four Rooms And Who Had A Sentence Ready About A Category And Who Said It In About Nine Seconds
+# Chapter 872 — A Thursday, A Counter And About Four Hours Of It, And A Person At That Counter Working Out What Description Of Four Hundred People This City Is Entitled To Make Out Of Three Places Where Somebody Wrote It Down By Accident, And A Man Of About Fifty-Two Who Came In With A Sentence About A Category He Had Said About Nine Years Before, And A Woman Of About Thirty-Eight Who Answered That Sentence In Nine Words And Stopped At The First Line Of Her Own
 
 **One counter and about four hours of it made the shape of that Thursday, and the question standing at that counter for most of those four hours was what a description is, and who is entitled to make one. Two people at that counter had a sentence ready about it and only one of them said theirs out loud.**
 
 ---
 
-Seven names and seven dates went onto that Thursday's sheet, the seventh of the dates written at about ten to five, and at about ten the shutter came down.
+Seven calls were booked in on that Thursday and a date was set beside each of them, the last of them set at about ten to five, and the shutter went down at about ten.
 
-**The card standing on end in the two-place rail at that door is one thousand five hundred and ninety-six days, two hundred and twenty-eight weeks to the day. The twelfth of the nineteen ruled lines on the board on two nails is one thousand five hundred and twelve days, two hundred and sixteen weeks to the day. The thirteenth is one thousand four hundred and sixty-three days, two hundred and nine weeks to the day.**
+**The card standing on end in the two-place rail has been in that rail one thousand five hundred and ninety-six days, two hundred and twenty-eight weeks to the day. Line twelve of the nineteen on the board on two nails has been ruled for one thousand five hundred and twelve days, two hundred and sixteen weeks to the day. Line thirteen has been ruled for one thousand four hundred and sixty-three days, two hundred and nine weeks to the day.**
 
-**The fourteenth is one thousand four hundred and twenty-eight days, two hundred and four weeks to the day. The fifteenth is one thousand four hundred and seven days, two hundred and one weeks to the day. The nineteenth of those lines is one thousand two hundred and eighty-eight days, a hundred and eighty-four weeks to the day. The hold on nine crates is one thousand two hundred and twenty-five days, a hundred and seventy-five weeks to the day.**
+**Line fourteen has been ruled for one thousand four hundred and twenty-eight days, two hundred and four weeks to the day. Line fifteen has been ruled for one thousand four hundred and seven days, two hundred and one weeks to the day. Line nineteen, the last line with anything against it, has been ruled for one thousand two hundred and eighty-eight days, a hundred and eighty-four weeks to the day. The hold over nine crates has been held one thousand two hundred and twenty-five days, a hundred and seventy-five weeks to the day.**
 
-**And nothing was said in any room in this city that Thursday about what anybody is going to do, and no count was announced anywhere, and the Wednesday of every fourth week that carries one is a day and a half off.**
+**Nothing was said in any room in this city that Thursday about what anybody is going to do, no count was announced anywhere, and the Wednesday of every fourth week that carries one lies six days in front of that Thursday.**
 
 ---
 
@@ -30,7 +30,7 @@ She said in about nine seconds that she had got as far as the first line and tha
 
 ---
 
-**And a man of about fifty-two who keeps a register at a counter in a second district came in at about half past two on that Thursday and had his sentence ready before he had sat down.**
+**And the man of about fifty-two came in at about half past two on that Thursday, and he had his sentence ready before he had sat down, and he keeps a register at a counter in a second district.**
 
 He had said in about four seconds, about nine years ago and in a corridor in a first district, that copying those three descriptions out and printing them would make a description this city had made, and that there is nobody over there to say whether it is the one.
 
@@ -68,7 +68,7 @@ The line is that a description of four hundred people which this city makes is a
 
 **Nobody at that counter has put that line on anything and nobody in this city has been asked to sign it, and about four people in that city have written it out for themselves and about four have not.**
 
-A man of about thirty-four who has been over there and done it twice was at that counter from about four and was asked nothing about the practice and said one thing about the counting instead.
+The man of about thirty-four who has been over there and done it twice was at that counter from about four, was asked nothing about the practice, and said one thing about the counting instead.
 
 He said in about nine seconds that four hundred is a number somebody worked out at some point, and that he has never once been asked over there whether the number is correct.
 
@@ -76,19 +76,19 @@ He said in about nine seconds that four hundred is a number somebody worked out 
 
 ---
 
-**A man of twenty-two stood at that counter from about half past four until the shutter came down and was asked nothing, and the one thing he said was about a washer.**
+**He was at that counter from about half past four until the shutter came down and nobody asked him one thing, and what he said when he did speak was about a washer.**
 
 He said that the bolt through the counter foot at the near end has a washer under the head that is not the washer that came with the bolt, and that it is a shade larger and it is holding the head up about a sixteenth of an inch off the plate.
 
 **Nobody at that counter found anything to do with that and nobody came back with a second question, and he has said since that a washer that does not belong is the only thing in that shop that nobody has ever costed.**
 
-Nothing was signed by him in this stretch of days, no sheet was put up to him on that Thursday, and nothing that day went out of that shop with his name at the bottom of it.
+Nothing was signed by him in this stretch of days, no sheet was put up to him on that Thursday, and nothing that day went out of that shop with his name at the foot of it.
 
 ---
 
-**What was left of that Thursday went into about two hours of work in a fourth district.**
+**The remainder of that Thursday was two hours in a fourth district and four jobs.**
 
-**A isolator on a board in the same workshop was mounted with its terminals covered in a thermosetting resin that had been applied over the cable entries.**
+**An isolator on a board in the same workshop was mounted with its terminals covered in a thermosetting resin that had been applied over the cable entries.**
 
 He took the resin off, re-made the entries, and left the terminals where a hand could get at them.
 
@@ -96,11 +96,11 @@ He took the resin off, re-made the entries, and left the terminals where a hand 
 
 ---
 
-**A guard on a lathe in the same yard had been welded back after a repair and and stopped about a quarter of an inch before the trip bar.**
+**A guard on a lathe in the same yard had been welded back after a repair and stopped about a quarter of an inch before the trip bar.**
 
 He took the guard off, packed the hinge out, and re-hung it so that the trip bar reaches it.
 
-**Thirty-one pounds. He told the man that a guard welded back and stopped before the bar is a guard that has been repaired and not proved, and that about four guards in that yard have been hung that way, and that one of them has been reported as a guard that does not stop the thing for about four years.**
+**Thirty-one pounds. He told the man that a guard welded back and stopped below the bar is a guard mended and never proved, that about four guards in that yard are hung that way, and that one of them has been a guard that does not stop the thing for about four years.**
 
 ---
 
@@ -120,7 +120,7 @@ He took it out, put the neutral back on its own terminal, and proved the switch 
 
 **Four jobs in a fourth district, four prices, and the four of them came to a hundred and thirteen pounds on that Thursday, exact.**
 
-**At half past six the fourth of those four rooms had its door shut, a woman of about thirty behind it, and the eighth of eight lying on the back shelf of that room at three hundred and eighty-one days.**
+**At half past six the fourth of those four rooms was shut, and behind that door was a woman of about thirty, and the eighth of eight was lying on the back shelf of that room at three hundred and eighty-one days.**
 
 **She has not been asked about that page by anybody here and she is not going to be. What is on it is not given on this page.**
 
@@ -132,7 +132,7 @@ Thursday of week 295, at ten. That is the one hundred and seventy-seventh day of
 A woman of about thirty-eight said nine words to a man of about fifty-two and neither of them was thanked. A man of about thirty-eight brought word of a fourth place where the same four words are written down by accident, and nobody went to look at it and he did not copy it out.
 He stood at that counter, nobody put anything to him, and he said one thing about a washer under a bolt that does not belong to it. That Thursday was worth a hundred and thirteen pounds, exact.**
 
-*Conditions and docket.* **Callers on that Thursday: seven. Brought onto the sheet: seven, the last of them entered at about ten to five. About four hours of the day were that counter and about two hours of the rest of it were an isolator, a guard, an element and a switch.
+*Conditions and docket.* **Callers on that Thursday: seven. Brought onto the sheet: seven, the last of them entered at about ten to five. That counter ran about four hours, and an isolator, a guard, an element and a switch took about two hours of the balance.
 Those four shop units off that service road, one of them warm: one thousand five hundred and ninety-two days, two hundred and twenty-seven weeks and three days
 The card on end in the rail beside the first door: one thousand five hundred and ninety-six days, two hundred and twenty-eight weeks to the day
 The board on two nails, and the twelfth of nineteen lines ruled across it: one thousand five hundred and twelve days, two hundred and sixteen weeks to the day
@@ -146,17 +146,17 @@ Its nineteenth line, and no line has ever been ruled under it: one thousand two 
 The hold on nine crates and on the boards they are stacked on: one thousand two hundred and twenty-five days, one hundred and seventy-five weeks to the day
 The man of about fifty-one with his back to the north wall of that first floor: one thousand one hundred and ninety-eight days, one hundred and seventy-one weeks and one day
 What has not been given on the page open in front of him: one thousand two hundred and eighty-two days, one hundred and eighty-three weeks and one day
-The fitting at the corridor end nearest the stair: one thousand one hundred and forty days, one hundred and sixty-two weeks and six days
+That fitting at the corridor end nearest the stair: one thousand one hundred and forty days, one hundred and sixty-two weeks and six days
 Nine written copies of the front of a single page, a corner missing, eight left half done, and not one pair of the nine set side by side: one thousand one hundred and fifty-eight days, one hundred and sixty-five weeks and three days
-That one line inside one box in a room off a road, roughly sixteen months since it was filled in: nine hundred and seventy-two days, one hundred and thirty-eight weeks and six days
-That flat: four names on the tenancy, the heat still not turned down since the autumn, an isolator opened up, a guard re-hung, an element descaled, a switch put back on its own terminal.
+The separation, a single line inside a single box in a room off a road, filled in about sixteen months back: nine hundred and seventy-two days, one hundred and thirty-eight weeks and six days
+That flat, where four names are on the tenancy and the heat is still not turned down since the autumn: an isolator opened up, a guard re-hung, an element descaled, a switch put back on its own terminal.
 Not asked and not given: nobody asked that woman of about thirty-eight to finish her first line, and nobody has asked her since, and the fourth place where the same four words are written down has not been looked at by anybody.
 Work: seven, an isolator stripped, a guard packed out, an element cleaned, a switch re-wired, nothing escalated, nothing handed back.
 Charge: a hundred and thirteen pounds, exact.
 
-*Conditions of the close.* **Sixty-seven lines stand in the book with the green cover on that table upstairs and seventy-three stand in the tin next to it, and no figure on this page is the result of using one of them to get at the other.
+*Conditions of the close.* **The book with the green cover on that table upstairs holds sixty-seven lines, and the tin next to it holds seventy-three. Neither of those two figures on this page has come out of the other one.
 That ninth chair stands against the wall in that first floor with its back to everything done in the room. It stayed where it was on that Thursday and nobody's name appears on any page of this stretch of days for whoever shifts it.
-A room beneath a building in a first district had nothing lit in it at about eleven on that Thursday and has nothing lit in it at this hour, and no person in this city has ever requested a light for it.
+In a first district, under a building, there is a room, and at about eleven on that Thursday it held no light in it, and it holds none at this hour, and no person in this city has ever asked for a light there.
 The register of correct acts and no consequence began that Thursday at four and finishes it at four, and there is no longer anybody in this city keeping that figure. A description that reaches its first line is not on the register.
 
 *What the day did not settle, and the rest of it.* **Ten objects are named in the line below, and not one line after that one puts any two of them side by side. A cage down one side of a counter. A card creased once across a doorway and holding it open. A rail holding two. A tin with its lid down. The front of one page written out nine times by hand. A board hanging on two nails. A strip of paper cut to width with a single word on it. The shutter. The binder on its back shelf. The book in its green cover.**
