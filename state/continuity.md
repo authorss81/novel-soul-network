@@ -1,10 +1,8 @@
-# LIVE — CONTINUITY AT CHAPTER 830. VOLUME 17 IS OPEN AND MOVEMENT I IS WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY, VOLUME 17 MOVEMENT I*, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE.
+# LIVE — CONTINUITY AT CHAPTER 840. VOLUME 17 IS OPEN AND MOVEMENT II IS WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY, VOLUME 17 MOVEMENT II*, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE.
 
-**THE MANUSCRIPT STANDS AT CHAPTER 830, THE FRIDAY OF WEEK 286, DAY 1892, LOAD-BOOK ENTRY 833, AND VOLUME 17 IS OPEN WITH MOVEMENT I WRITTEN. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY, VOLUME 17 MOVEMENT I* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS, BECAUSE A SIGNPOST THAT IS ONE APPEND OUT OF DATE SENDS THE NEXT READER TO HISTORY.**
+**THE MANUSCRIPT STANDS AT CHAPTER 840, THE FRIDAY OF WEEK 288, DAY 1906, LOAD-BOOK ENTRY 843, AND VOLUME 17 IS OPEN WITH MOVEMENT II WRITTEN. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY, VOLUME 17 MOVEMENT II* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
 
-**A PASS THAT NEEDS ONE BLOCK FROM THIS FILE SHOULD TAKE THIS ONE AND STOP.** Every block below this one places the manuscript at Chapter 720 and none of them is state.
-
-**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn. The place behind the chair of the woman of about sixty is `day − 1484`, is 397 days old at the opening of Volume 17, is 504 days old at its close, and is printed on **one file of each movement and on no other** — in Movement I, on Chapter 824. The load-book run is 823 at Chapter 820, 824 at Chapter 821 and 833 at Chapter 830, with `(entry − chapter) = {3}` on every row. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, and is not absolved.**
+**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn. The place behind the chair of the woman of about sixty is `day − 1484`, is 425 days old at Chapter 841 and 436 at Chapter 850, and is printed on **one file of each movement and on no other** — **Movement I printed it on Chapter 824, and Movement II printed it on no file at all.** The load-book run is 823 at Chapter 820, 824 at Chapter 821, 833 at Chapter 830 and 843 at Chapter 840, with `(entry − chapter) = {3}` on every row. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, and is not absolved.**
 
 ---
 
@@ -99,3 +97,54 @@
 ## The one thing Movement I leaves open that Movement II exists to answer
 
 **A region is about to be given a name in this city by a person with no standing to give it a name, and the name will be wrong, and nobody in this city can correct it.** And: **one of the four words over the ruled line means the opposite on the other side of the border, and Chapter 829 established that the two sets of four words are not the same without saying which is right.** Those two are the whole of Movement II and they are stated in full at `workspace/volume-17/batch-0002/PROMPT.md` §2.
+
+# LIVE — CONTINUITY, VOLUME 17 MOVEMENT II, CHAPTERS 831 TO 840. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+## The settled arithmetic, re-derived and not read off a chapter
+
+| Series | Anchor | At Chapter 840 | At the Volume 17 close |
+| --- | --- | --- | --- |
+| The room off that service road | `day − 362` | 1,544 | 1,626 |
+| The card in the rail, which takes two | `day − 358` | 1,548 | 1,630 |
+| The hardboard's twelfth line | `day − 442` | 1,464 | 1,546 |
+| The thirteenth | `day − 491` | 1,415 | 1,497 |
+| The fourteenth | `day − 526` | 1,380 | 1,462 |
+| The fifteenth | `day − 547` | 1,359 | 1,441 |
+| The sixteenth | `day − 572` | 1,334 | 1,416 |
+| The seventeenth | `day − 590` | 1,316 | 1,398 |
+| The eighteenth | `day − 644` | 1,262 | 1,344 |
+| The nineteen, last line in use | `day − 666` | 1,240 | 1,322 |
+| The hold on nine crates | `day − 729` | 1,177 | 1,259 |
+| The man of about fifty-one at the north wall | `day − 756` | 1,150 | 1,232 |
+| What is still owed | `day − 672` | 1,234 | 1,316 |
+| The post at that corridor end | `day − 814` | 1,092 | 1,174 |
+| The nine hand copies of the front of one page | `day − 796` | 1,110 | 1,192 |
+| The separation | `day − 982` | 924 | 1,006 |
+| **The place behind the woman's chair** | `day − 1484` | **422** | **504, seventy-two weeks to the day** |
+| **The woman's page in the ring binder** | `day − 1573` | **333** | **415** |
+
+**No anchor has moved since Volume 01. The four free checks hold on all ten rows of Movement II: the card-minus-room invariant is {4}, the fourteen-less-fifteen is {21}, the fifty-one-less-hold is {−27} and the eighteen-less-sixteen is {−72}.** The four are identities and their clean set is a property of the anchor table and not evidence about a line of prose; that standing withdrawal is unchanged.
+
+## What Movement II added to the continuity of this manuscript
+
+1. **A name exists in this city for a stretch of country over a border, and it is the name of a town rather than the name of the region.** It is `Aldermere`. It came off a wall map about two generations old, was put up four years ago out of a tube in a cupboard in a transport office, and was written down on a piece of paper on the first Monday of Movement II and read out once. **The other name in use in this city is `Ashlade`.** **No page of Movement II names anybody who kept it that way, because there is nobody to name and there was never a decision.** The two names were already being argued about in one office about four years before the Monday.
+2. **The third of the four words means the opposite on the other side of the border.** Found by a man of about forty-four on Chapter 836. **The four words themselves are printed on no page of either movement.**
+3. **The institution holds a version for about nine weeks and has said in writing that it will not ask them anything.** That is the volume's one panel, at Chapter 834, and it will not be repeated. **The cost is about nine hundred pounds and about nine weeks of one person's working time, and nobody in this city has offered any of it.**
+4. **The count at the sixty-first sitting is sixty-six, of which sixty-one correspond, and the book did not open.** The next count is at the sixty-second sitting, Chapter 856, day 1932, and the book shuts again there.
+5. **There is no procedure anywhere in this city for putting a question to somebody who has not agreed to be asked, and that fact is now on the record in three rooms and one corridor.** Chapter 830's man of about thirty-four has been told it on a Friday, Chapter 831's man of about thirty-four has said it in a room of nine, and Chapter 836's man of about twenty-eight has been told it in four seconds and did not expect it.
+
+## What a later pass may not re-open, and it is the whole list
+
+- **The woman of about thirty-four does not know that one of the four words means the opposite, and no chapter of this volume may put it to her as a correction.** She was not in the room on Chapter 836 and this movement says so on the page.
+- **The man of about forty-four's refusal to be the one who says it over a border is not retaken.** Nobody asked him to take it again on any of the ten days.
+- **The man of about thirty-one has not taken the map down and nobody has asked him to.**
+- **The name in pencil on the back of the form stays on it**, and the man of about thirty-four who wrote it was not asked for it again in this movement.
+- **The register of correct acts that changed nothing is four and is not a fifth, and nobody counts it.**
+- **The binder does not come out.** The woman's page is not read and she is not named and nobody apologises to her.
+- **Whether the practice the four hundred kept after the district left in Volume 16 worked is not this volume's to say.**
+- **Iona Sorn is not absolved and is not on a page of Movement II.**
+- **The day charge of a file is one of that day's job prices and is not the sum of them.** That is the house convention, it is what Movement I does, and Movement II does it on all ten files.
+
+## The one thing Movement II leaves open that Movement III exists to answer
+
+**Four hundred people use a thing every day, none of them is on a form of this body, and none of them can be put on one, and the discovery is an omission and not a secret.** And: **a region has a name in this city that is the wrong size, and nine people are using it, and Movement III opens on the Monday after a woman decided one thing about that and told nobody what it was.**
