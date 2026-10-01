@@ -1,3 +1,18 @@
+# SUPERSEDED — 1 OCTOBER 2026 — THIS FILE NO LONGER DESCRIBES ITS OWN DIRECTORY, AND THE CORRECTION IS BELOW
+
+**This file was written by the Volume 16 close, dated 30 September 2026, and its central claim was that this directory held a statement and not a phase. That claim has stopped being true and everything else in it has not.** `workspace/volume-17/` is now populated: `ARITHMETIC-AND-CALENDAR.md`, `batch-0001/` with Chapters 821 to 830 and its `SUMMARY.md`, and `batch-0002/` with a `PROMPT.md` that dispatches Movement II. **A pass that reads only this file's old heading will conclude that Volume 17 does not exist and that the manuscript ends at Chapter 820. Both are false. The manuscript stands at Chapter 830.**
+
+**WHAT SUPERSEDED IT, AND IT IS NOT A DECISION.** Nothing here has been reversed by an owner, and nothing here has been ratified. The continuation directive at `workspace/continuation/next-0016/PROMPT.md` instructed that a complete volume be followed by a planned next volume and its first batch, and that directive created Volume 17 the way an earlier directive created Volume 16. **`NOVEL_SPEC.md`'s eighth block still says the Volume 17 decision has not been taken, still names the repository owner as the party who has to take it, and still forbids any agent pass from writing that paragraph. That block is untouched and correct.** So the true position, which this file now states rather than the position it used to state, is:
+
+- **Volume 17 exists on disk and is written to Chapter 830. That is a fact and not an authorization.**
+- **The owner decision has not been taken. The default if it never is, per the eighth block, is still that the manuscript ends at Chapter 820.**
+- **`outline/series.md` line 6 and `outline/ending.md` line 77 still say 760 chapters and neither may be edited by a writing, review or close pass.** The disagreement between the plan of record and the manuscript is on the record here rather than reconciled by an agent, which is what the Volume 16 close meant to achieve and what this file is now corrected to keep achieving.
+- **The three questions below are still unsettled, and the fourth is now five: the four debts listed at item 3 stand exactly as the Volume 16 close left them, and a fifth has joined them — that a volume was written past the point where the plan of record says the book ends, and that the writing was done on a directive rather than on a decision.**
+
+**The reasoning that follows, from the Volume 16 close, is kept and is still the reasoning that applies to the owner decision. It is history and not state, and it is kept because deleting an unratified volume's founding document is a worse act than correcting its heading.**
+
+---
+
 # THERE IS NO NEXT PHASE IN THIS DIRECTORY, AND HERE IS WHY, DATED BY THE VOLUME 16 CLOSE
 
 **This directory holds a statement and not a phase. It exists because the Volume 16 close was required to record which of the two things it is — a volume closed and followed by another volume, or a volume closed and not followed by another — and it is the second of those. The controller's selection rule finds a directory holding a `PROMPT.md` and no `.done`, so a directory with this file in it and no `PROMPT.md` is correctly not selectable, and this directory is deliberately empty of a prompt.**

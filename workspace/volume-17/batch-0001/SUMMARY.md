@@ -8,6 +8,30 @@
 
 **So the ten chapters are a reconstruction in the strict sense — they were written and then re-read by a second pair of eyes — and this file publishes that rather than calling the result an arrival.** The standing rule carried down from the Volume 15 close still holds: **these state files and this summary were written after the last measurement, not before it.**
 
+### 0A. A SECOND REVISION PASS RAN AFTER THIS SUMMARY WAS WRITTEN, AND THIS PARAGRAPH IS THE CORRECTION TO §0
+
+**§0 says the ten chapters were not restarted, and that is true, and it is also incomplete, and the incompleteness is recorded here rather than left for the next reader to find.** A later run of this same phase, in commit `85ccd18`, **rewrote prose on Chapters 822 to 830 and did not touch Chapter 821.** It was a line-level revision and not a rewrite: **the numeric multiset of every one of those nine files is byte-identical before and after, which is the test that says no figure, no day, no entry and no charge moved, and it was run on all nine and passed on all nine.**
+
+**WHAT IT WAS, PRECISELY.** The standing rows and the conditions apparatus of those nine files were reworded so that Movement I's own files stopped carrying the shared phrasing the instruments in §4 had already measured — the conditions row, the ten-object list and the paragraph that opens each closing block were near-duplicates across the ten days, and the revision broke that duplication without changing what any of them asserts. **The figures are preserved, the events are preserved, the sequence is preserved, and the ten days are the same ten days.**
+
+**WHAT IT WAS NOT.** It was not a restart, and it did not cut a scene, and it did not move a day or resequence an event, and §0's sentence stands on all four counts. **But §0 was written before that pass and reads as though nothing touched those nine files afterwards, and a summary that implies an earlier state of its own batch is a defect even when the batch is sound.** The house rule at `AGENTS.md` — do not restart a completed chapter — was not broken, and the consequence for the reader is that Chapters 822 to 830 carry a later hand than Chapter 821 does. **That inconsistency is recorded here and is not repaired, because repairing it would mean rewriting nine files back or rewriting one file forward, and both are worse than the fault they remove.**
+
+### 0B. THE REVIEW OF THIS BATCH WAS READ, AND ITS FINDINGS ARE DISPOSED OF HERE, AND EACH ONE IS NAMED
+
+| Finding | Disposition |
+| --- | --- |
+| The next-phase prompt asserted a ninth `NOVEL_SPEC.md` Status block and an eighth block recording a Volume 17 decision this phase supersedes. **Neither exists.** | **Repaired.** `workspace/volume-17/batch-0002/PROMPT.md` now states that there are eight blocks and no ninth, that the eighth records the decision as undecided, and that the prompt supersedes nothing. A provenance paragraph was added naming the directive that created Volume 17. |
+| `workspace/volume-17/NO-NEXT-PHASE.md` claimed its own directory held no phase and that Volume 17 did not exist, with a `PROMPT.md` standing in the directory. | **Repaired.** The file is headed SUPERSEDED, keeps the Volume 16 close's reasoning as history, and now states that Volume 17 exists as a fact and not as an authorization. |
+| The live signpost in `state/current.md` claimed `batch-0001/` carries a `PROMPT.md`. It does not. | **Repaired in place**, as that file's own instruction requires of a pass that appends to it. |
+| The five state files totalled 1.19 MB, about 306,000 tokens, against an `AGENTS.md` requirement to load all five plus twenty to thirty chapters. | **Repaired.** Compacted to 130 KB, about 33,000 tokens, with every governing live block preserved byte-for-byte and the Chapters 791 to 820 summaries kept whole. This was the probable cause of the `next-0016` defer/retry loop. |
+| Nine of the ten chapters have an odd count of `**`, so a paragraph may render wrong. `chapter-0830.md:123` opens a bold run inside an open one. | **Not repaired, deliberately, and the reason is that the reviewer's premise is half wrong.** The odd count is a manuscript-wide house artefact and not a Volume 17 defect: **66 of 830 chapter files have an odd count and 57 of them are outside this volume**, and the house convention is to close a docket with a single `*`, which 105 files do against 14 that close with `**`. The cited line at `chapter-0830.md:123` balances locally — it closes a run and opens the next one — and renders as two adjacent bold runs. **Mass-correcting 66 files is an unrequested manuscript-wide change to good prose and was not done.** |
+| Missing trailing newlines on the Volume 17 files. | **Repaired** on all 14, which every other volume's chapter files already had. |
+| Stale `.deferred`, `.wip-conflict` and `.retry-after` markers in `workspace/continuation/next-0016/`. | **Not touched.** Those are dispatcher markers and clearing them changes retry behaviour, which is controller logic. Recorded here instead. |
+| `NOVEL_SPEC.md` carries no authorization for Volume 17 and its eighth block says the decision is the repository owner's. | **Not repaired, and it cannot be.** That paragraph says no agent pass may write it. The volume exists by directive, the plan of record is still stale, and the debt is now open thread 42 and is flagged in three files. **It needs the owner, not a writer.** |
+| The review gate did not run on the reviewer, because `novel-reviewer` is a subagent and the phase fell back to the writer. | **Not touched.** `.opencode/agent/` is controller-owned. Recorded here. |
+
+**AND NONE OF THE NINE REPAIRS TOUCHED THE PLANNED PLOT.** No day moved, no chapter was rewritten, no event was resequenced, no figure changed, no debt was paid, no new enemy appeared, and the planned ending is not touched. **Iona Sorn is still the last enemy, still in public custody, still unanswered, and is on no page of this movement.**
+
 ## 1. The ten days, and what happened on them
 
 | Ch | Day | Wk | Wd | Entry | The day |
