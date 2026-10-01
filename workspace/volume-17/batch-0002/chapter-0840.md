@@ -6,7 +6,7 @@
 
 Nine names and nine dates went onto that Friday's sheet, the ninth at about twenty to five. The shutter came down at about ten.
 
-**Those four rooms off that service road stand at one thousand five hundred and forty-four days, two hundred and twenty weeks and four days, and the card on end in the rail beside that door is one thousand five hundred and forty-eight, two hundred and twenty weeks and one day, and the rail takes two.**
+**Those four rooms off that service road stand at one thousand five hundred and forty-four days, two hundred and twenty weeks and four days, and the card on end in the rail beside that door is one thousand five hundred and forty-eight, two hundred and twenty-one weeks and one day, and the rail takes two.**
 
 **Line seventeen is one thousand three hundred and sixteen days, a hundred and eighty-eight weeks to the day. The post at that corridor end is one thousand and ninety-two, a hundred and fifty-six weeks to the day. The separation is nine hundred and twenty-four days, a hundred and thirty-two weeks to the day.**
 
@@ -105,14 +105,14 @@ A depot on a road in a fourth district, about nine people standing around a tabl
 A woman of about thirty-four came in at about half past five and said she has never used the name and is not going to, and that the man at the bus stop did not say it either.
 A man of about thirty-four asked about four of those nine to say it out loud and about four did and about four would not, and said afterwards that it did not sound like a place.
 **Before she left she decided one thing about next week and did not say it out loud. About two people in that depot worked out what it was and neither of them said it either.**
-The count of the leaves on a printed sheet is not on any page of this movement.
-That Friday's money was thirty-one pounds and not a penny more or less. Nobody thanked anybody on it, nobody forgave anybody on it, and nothing was taught or shown or put to anybody in any room in this city.*
+This movement gives the number of leaves on a printed sheet nowhere.
+That Friday's money was a hundred and two pounds and not a penny more or less. Nobody thanked anybody on it, nobody forgave anybody on it, and nothing was taught or shown or put to anybody in any room in this city.*
 
-*Conditions and docket.* **Callers on that Friday: nine. Work dated on it: nine, the last of the nine entered at about twenty to five. About an hour of that Friday was a depot on a road in a fourth district and about two hours of the rest of it were a board stack, a length of running-in rail, nine pallets and a fire door closer.
+*Conditions and docket.* **Callers on that Friday: nine. Work carried to it: nine, of which the ninth went in at about twenty to five. About an hour of that Friday was a depot on a road in a fourth district and about two hours of the rest of it were a board stack, a length of running-in rail, nine pallets and a fire door closer.
 Four rooms off that service road and one behind the other three: one thousand five hundred and forty-four days, two hundred and twenty weeks and four days.
-The card in a rail that takes two: one thousand five hundred and forty-eight days, two hundred and twenty weeks and one day.
-Twelfth on the board of two nails: one thousand four hundred and sixty-four days, two hundred and eight weeks to the day.
-Thirteenth: one thousand four hundred and fifteen days, two hundred weeks and three days.
+The card in a rail that takes two: one thousand five hundred and forty-eight days, two hundred and twenty-one weeks and one day.
+Twelfth on the board of two nails: one thousand four hundred and sixty-four days, two hundred and nine weeks and one day.
+Thirteenth: one thousand four hundred and fifteen days, two hundred and two weeks and one day.
 Fourteenth: one thousand three hundred and eighty days, one hundred and ninety-seven weeks and one day.
 Fifteenth: one thousand three hundred and fifty-nine days, one hundred and ninety-four weeks and one day.
 Sixteenth: one thousand three hundred and thirty-four days, one hundred and ninety weeks and four days.
@@ -125,18 +125,18 @@ What is still owed: one thousand two hundred and thirty-four days, one hundred a
 The post at that corridor end: one thousand and ninety-two days, one hundred and fifty-six weeks to the day.
 The nine hand copies of the front of one page, one corner torn, eight unfinished, not two compared: one thousand one hundred and ten days, one hundred and fifty-eight weeks and four days.
 The separation, in a one-line box about sixteen months old: nine hundred and twenty-four days, one hundred and thirty-two weeks to the day.
-That flat: four names on the tenancy, the heat not turned down since the autumn, four boards out of a stack, a mortar line above a water line, a batten under a restack, a solvent, a new piece of tray and four holding-down bolts.
+That flat: four names on the tenancy, the heat not turned down since the autumn, four boards out of a stack, a mortar line above a water line, a batten under a restack, two sleepers packed at both ends, and a split pin.
 Not asked and not given: nobody in that depot asked the man of about thirty-four why he wanted to hear the name said out loud, and nobody asked the woman of about thirty-four what the town is called, and she said out loud nothing about what she had decided for next week.
-Work: nine, four boards, a mortar mix, a batten, two blades, about nine millimetres of gauge, four boards cut off and shimmed, four millimetres out of one arm, a split pin, nothing escalated, nothing handed back.
-Charge: thirty-one pounds, exact.*
+Work: nine, four boards, a mortar mix, a batten, a steel shim at both ends of each sleeper, four boards cut off and shimmed, four millimetres out of one arm, a split pin, nothing escalated, nothing handed back.
+Charge: a hundred and two pounds, exact.*
 
-*Conditions of the close.* **The book bound in green in that first floor above a line in Saltmarket stands at sixty-seven lines. The tin on the same table stands at seventy-three with its lid down. This page does not set one of those against the other and neither is made into the other anywhere.
+*Conditions of the close.* **The book bound in green in that first floor above a line in Saltmarket stands at sixty-seven lines. The other one of the two on that table is on seventy-three with the lid shut. This page does not set one of those against the other and neither is made into the other anywhere.
 The ninth chair in that first floor is hard against the wall with its back to the whole of the room and did not move on that Friday and its mover is named on no page of this stretch of days.
 Under a building in a first district there is a room and at about eleven on that Friday there was no light in it. There is none in it now.
-The place behind the chair of the woman of about sixty stands empty, as it has stood since a week in the spring, and **no figure is given for it anywhere in this movement, and the difference between its age on this Friday and its age at any other point in this stretch of days is not printed as a number on any page of this batch.**
+**Nothing in this movement puts a number against the one place in that room that has stood empty since a week in the spring, and the difference between its age on this Friday and its age at any other point in this stretch of days is not printed as a number on any page of this batch.**
 That register of correct acts with no consequence stood at four when the day began and it stands at four, and nobody in this city counts it, and nine people saying a name out loud in a depot about ten minutes apart is not on it and has not been counted on it by anybody.*
 
 *What the day did not settle, and the rest of it.* **Ten objects are named in the sentence below and no line of this page joins two of them. The shutter. A board on two nails carrying nineteen ruled lines. A doorway standing open on a card folded once. The front of one page copied out by hand. A cage down the side of a counter. A strip of paper cut narrow with one word on it. A book in a green binding. A rail taking two with a card standing on end in one of them. A tin with its lid down. A ring binder on a back shelf.
 The form that a person carried back on a bus is not the board on two nails and is not the printed sheet that went up on a board by two drawing pins. A clipboard with a name on it in a hand that had never seen that place is a seventh thing and none of the ten.
-A dated rule stands over a separate matter and its records are open to anybody who asks for them. A dated rule stands over a separate matter, its records open to anybody who asks, and under it a woman of fifty-three is held on a first floor with a list on the inside of that door. About nine people in this city were part of a network once and are not in one now, and nothing has been put to any of them.
+What stands over a separate matter under a dated rule is open to anybody who asks for it, and under it a woman of fifty-three is held on a first floor with a list on the inside of that door. About nine people in this city were part of a network once and are not in one now, and nothing has been put to any of them.
 Nobody thanked anybody and nobody forgave anybody on that Friday. A region was given a name in this city by a man who keeps a wall map and has never been to the place it names, the name is the name of a town and not the name of the region, and it is on nine clipboards in a depot and on nothing over there, and nine people in this city cannot say whether it is the name of anything, and a woman who carried a form back on a bus decided one thing about next week and said it to nobody.**

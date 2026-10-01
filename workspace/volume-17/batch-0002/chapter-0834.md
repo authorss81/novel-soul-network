@@ -8,7 +8,7 @@ That Thursday's sheet carried nine names and nine dates, the last of the nine ta
 
 **The card in the rail by that door is one thousand five hundred and forty days, two hundred and twenty weeks to the day, and it is four days ahead of the four rooms, which stand at one thousand five hundred and thirty-six. The rail takes two.**
 
-**Line twelve is one thousand four hundred and fifty-six days, two hundred and seven weeks to the day. Line thirteen is one thousand four hundred and seven, two hundred weeks and one day. Line fourteen is one thousand three hundred and seventy-two, a hundred and ninety-six weeks to the day.**
+**Line twelve is one thousand four hundred and fifty-six days, two hundred and eight weeks to the day. Line thirteen is one thousand four hundred and seven, two hundred and one weeks to the day. Line fourteen is one thousand three hundred and seventy-two, a hundred and ninety-six weeks to the day.**
 
 ---
 
@@ -137,13 +137,13 @@ The cost on that card is about nine hundred pounds and about nine weeks of one p
 **A woman of about thirty-nine wrote one word on the paper under the card and did not say what it was and nobody asked her. The word is named above and this page does not explain it.**
 A man of about twenty-eight asked whether anybody in this city has ever asked anybody over there anything about this, and was told no in four seconds, and said he had not expected that.
 The count of leaves on a printed sheet is not on any page of this movement.
-That Thursday came to thirty-one pounds, exact. Not one person thanked another that day and not one forgave another, and in no room in this city did anybody teach or demonstrate or examine anything to anybody.*
+That Thursday came to ninety-three pounds, exact. Not one person thanked another that day and not one forgave another, and in no room in this city did anybody teach or demonstrate or examine anything to anybody.*
 
 *Conditions and docket.* **Callers on that Thursday: nine. Work dated for it: nine, the last name entered at about twenty to five. About an hour and a half of that Thursday was that room over a shop and about two hours of the rest of it were about nine metres of shelving, a handrail, four feet of guttering and four hooks.
-Four rooms off that service road and one behind the other three: one thousand five hundred and thirty-six days, two hundred and twenty weeks to the day.
+Four rooms off that service road and one behind the other three: one thousand five hundred and thirty-six days, two hundred and nineteen weeks and three days.
 The card in a rail that takes two, four days ahead of them: one thousand five hundred and forty days, two hundred and twenty weeks to the day.
-Twelfth on the board of two nails: one thousand four hundred and fifty-six days, two hundred and seven weeks to the day.
-Thirteenth: one thousand four hundred and seven days, two hundred weeks and one day.
+Twelfth on the board of two nails: one thousand four hundred and fifty-six days, two hundred and eight weeks to the day.
+Thirteenth: one thousand four hundred and seven days, two hundred and one weeks to the day.
 Fourteenth: one thousand three hundred and seventy-two days, one hundred and ninety-six weeks to the day.
 Fifteenth: one thousand three hundred and fifty-one days, one hundred and ninety-three weeks to the day.
 Sixteenth: one thousand three hundred and twenty-six days, one hundred and eighty-nine weeks and three days.
@@ -159,7 +159,7 @@ The separation, in a one-line box about sixteen months old: nine hundred and six
 That flat: four names on the tenancy, the heat not turned down since the autumn, three uprights let into a floor, four plugs filled in a handrail, four rafter tails let into a plumb, two hooks moved into a frame stile.
 Not asked and not given: nobody asked the man of about fifty-two why the first line was not the one that mattered and he was not asked, and nobody asked the woman of about thirty-nine where the word came from and she was not asked.
 Work: nine, three uprights, one brace, four plugs, four lengths, two hooks, nothing escalated, nothing handed back.
-Charge: thirty-one pounds, exact.*
+Charge: ninety-three pounds, exact.*
 
 *Conditions of the close.* **The book bound in green in that first floor above a line in Saltmarket stands at sixty-seven lines and the tin on the same table stands at seventy-three with its lid down, and the two figures are nowhere added to one another on this page.
 The ninth chair is against the wall with its back to the room and it did not move on that Thursday and its mover is named nowhere in this stretch of days.

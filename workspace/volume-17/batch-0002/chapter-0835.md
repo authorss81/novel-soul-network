@@ -91,10 +91,10 @@ The four hundred over there are not mentioned on this page and the four hundred 
 That Friday was worth thirty-one pounds, exact. Nobody thanked a person that day, nobody forgave a person, and nothing was taught or shown or put to anybody in any room in this city.*
 
 *Conditions and docket.* **Callers on that Friday: fourteen. Work dated on it: fourteen, the last of the fourteen entered at about twenty to five. About four hours of that Friday were the counter itself and about two hours of the rest of it were a chain, a gate that was holding, and about nine jobs that are not on this page.
-Four rooms off that service road and one behind: one thousand five hundred and thirty-seven days, two hundred and twenty weeks to the day.
+Four rooms off that service road and one behind: one thousand five hundred and thirty-seven days, two hundred and nineteen weeks and four days.
 The card in the two-place rail by that door: one thousand five hundred and forty-one days, two hundred and twenty weeks and one day.
-Twelfth on the board of two nails: one thousand four hundred and fifty-seven days, two hundred and seven weeks and one day.
-Thirteenth: one thousand four hundred and eight days, two hundred weeks and one day.
+Twelfth on the board of two nails: one thousand four hundred and fifty-seven days, two hundred and eight weeks and one day.
+Thirteenth: one thousand four hundred and eight days, two hundred and one weeks and one day.
 Fourteenth: one thousand three hundred and seventy-three days, one hundred and ninety-six weeks and one day.
 Fifteenth: one thousand three hundred and fifty-two days, one hundred and ninety-three weeks and one day.
 Sixteenth: one thousand three hundred and twenty-seven days, one hundred and eighty-nine weeks and four days.

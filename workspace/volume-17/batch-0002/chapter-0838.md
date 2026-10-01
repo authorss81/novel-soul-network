@@ -6,13 +6,13 @@
 
 Nine names went onto that Wednesday's sheet and nine dates with them, the ninth at about twenty to five. The shutter came down at about ten.
 
-**Line eighteen is one thousand two hundred and sixty days, a hundred and eighty weeks to the day. The man of about fifty-one against the north wall is one thousand one hundred and forty-eight days, a hundred and sixty-four weeks to the day. What is still owed is one thousand two hundred and thirty-two, one hundred and seventy-five weeks and four days.**
+**Line eighteen is one thousand two hundred and sixty days, a hundred and eighty weeks to the day. The man of about fifty-one against the north wall is one thousand one hundred and forty-eight days, a hundred and sixty-four weeks to the day. What is still owed is one thousand two hundred and thirty-two, one hundred and seventy-six weeks to the day.**
 
 **Behind the chair of the woman of about sixty a place has stood empty since a week in the spring, and it is empty on that Wednesday, and this page does not set a figure against it.**
 
 The ninth chair is against that wall with its back to the whole of the room. **It did not move on that Wednesday, and on no page of this stretch of days is the person who moves it named.**
 
-Nobody in that room asked her about the place and nobody in that room has asked her about it in about fifty-nine weeks.
+Nobody in that room asked her about the place and nobody in that room has asked her about it in a long time, and this page does not say how long a time that is.
 
 ---
 
@@ -113,14 +113,14 @@ That first floor above a line in Saltmarket held the sixty-first sitting. About 
 **The place behind the chair of the woman of about sixty stood empty and no figure is given for it on this page. The ninth chair did not move and its mover is named nowhere in this stretch of days.**
 The form with a box at the bottom of it and the word *as it has been* in the box was argued about for about four minutes by about four people, three of whom said it was a fact and one of whom said it was a way of not writing a date, and a fifth said both of those were the same thing said by two people who would rather not be the one who was wrong.
 About half an hour of that Wednesday was the corridor outside, with a man of twenty-two in it who had one sentence ready about the five that are not correspond and did not say it.
-The count of the leaves on a printed sheet is not on any page of this movement.
+The leaf count of a printed sheet is on no page of this movement.
 That Wednesday was worth seventy-four pounds, exact. Not one person thanked another that day, not one forgave another, and nothing was taught or shown or put to anybody in any room in this city.*
 
 *Conditions and docket.* **Callers on that Wednesday: nine. Work dated on it: nine, the last of the nine entered at about twenty to five. About an hour was that first floor, about half an hour was a corridor outside it, and about two hours of the rest of it were a handrail, nine nosings, a painted window and a rail painted in patches.
 Four rooms off that service road and one behind the other three: one thousand five hundred and forty-two days, two hundred and twenty weeks and two days.
 The card in a rail that takes two: one thousand five hundred and forty-six days, two hundred and twenty weeks and six days.
 Twelfth on the board of two nails: one thousand four hundred and sixty-two days, two hundred and eight weeks and six days.
-Thirteenth: one thousand four hundred and thirteen days, two hundred weeks and three days.
+Thirteenth: one thousand four hundred and thirteen days, two hundred and one weeks and six days.
 Fourteenth: one thousand three hundred and seventy-eight days, one hundred and ninety-six weeks and six days.
 Fifteenth: one thousand three hundred and fifty-seven days, one hundred and ninety-three weeks and six days.
 Sixteenth: one thousand three hundred and thirty-two days, one hundred and ninety weeks and two days.

@@ -6,7 +6,7 @@
 
 Nine names went onto that Wednesday's sheet and nine dates went with them, the last of the nine taken at about twenty to five. The shutter came down at about ten.
 
-**Line eighteen is one thousand two hundred and fifty-three days, a hundred and seventy-nine weeks to the day. The man of about fifty-one against that north wall is one thousand one hundred and forty-one days, a hundred and sixty-three weeks to the day. What is still owed is one thousand two hundred and twenty-five, one hundred and seventy-four weeks and six days.**
+**Line eighteen is one thousand two hundred and fifty-three days, a hundred and seventy-nine weeks to the day. The man of about fifty-one against that north wall is one thousand one hundred and forty-one days, a hundred and sixty-three weeks to the day. What is still owed is one thousand two hundred and twenty-five, one hundred and seventy-five weeks to the day.**
 
 ---
 
@@ -121,7 +121,7 @@ A man of about forty-four said both names are in use in this city and that a reg
 About half an hour of that Wednesday was a corridor outside that room with four people in it and none of them went in.
 No count was given on that Wednesday and no number was said in that room, because a number is said at a sitting and a sitting is a Wednesday of every fourth week and this was not one of them.
 The number of leaves on a printed sheet is not on any page of this movement.
-That Wednesday brought twenty-six pounds, exact. Nobody said thank you to anybody that day and nobody forgave anybody, and nowhere in this city was anything taught to a person or shown to one or put to one.*
+That Wednesday brought ninety-three pounds, exact. Nobody said thank you to anybody that day and nobody forgave anybody, and nowhere in this city was anything taught to a person or shown to one or put to one.*
 
 *Conditions and docket.* **Callers on that Wednesday: nine. Work dated on it: nine, the last name entered at about twenty to five. About an hour of that Wednesday was that first floor, about half an hour of it a corridor outside, and about two hours of the rest of it were a landing rail, one shutter, a length of pipe and a fascia.
 Four rooms off that service road and one behind: one thousand five hundred and thirty-five days, two hundred and nineteen weeks and two days.
@@ -143,7 +143,7 @@ The separation, in a one-line box about sixteen months old: nine hundred and fif
 That flat: four names on the tenancy, the heat not turned down since the autumn, a strip of paint taken off a rail, eight holes filled, a slotted bracket, and four rafter tails let into a plumb.
 Not asked and not given: nobody in that room asked the man of about forty-four why he had nothing further and he was not asked, and nobody asked the woman of about thirty-four a second question about the name and she was not asked.
 Work: nine, one strip, eight holes, four inches, four brackets, nothing escalated, nothing handed back.
-Charge: twenty-six pounds, exact.*
+Charge: ninety-three pounds, exact.*
 
 *Conditions of the close.* **The book in that first floor is bound in green and stands at sixty-seven lines. The tin beside it stands at seventy-three and keeps its lid down. Nothing on this page adds one to the other.
 The ninth chair is against the wall with its back to the whole of the room and it did not move on that Wednesday and its mover is named on no page of this stretch of days.

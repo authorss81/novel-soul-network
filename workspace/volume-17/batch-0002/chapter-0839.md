@@ -6,9 +6,9 @@
 
 Nine names and nine dates went onto that Thursday's sheet, the ninth of the dates taken at about twenty to five. The shutter came down at about ten.
 
-**Those four rooms off that service road stand at one thousand five hundred and forty-three days, two hundred and twenty weeks and three days, and the card on end in the rail by that door is one thousand five hundred and forty-seven, two hundred and twenty weeks to the day, and the rail takes two.**
+**Those four rooms off that service road stand at one thousand five hundred and forty-three days, two hundred and twenty weeks and three days, and the card on end in the rail by that door is one thousand five hundred and forty-seven, two hundred and twenty-one weeks to the day, and the rail takes two.**
 
-**Line thirteen is one thousand four hundred and fourteen days, two hundred weeks and two days. Line fourteen is one thousand three hundred and seventy-nine, a hundred and ninety-seven weeks to the day. Line fifteen is one thousand three hundred and fifty-eight, one hundred and ninety-three weeks and five days.**
+**Line thirteen is one thousand four hundred and fourteen days, two hundred and two weeks to the day. Line fourteen is one thousand three hundred and seventy-nine, a hundred and ninety-seven weeks to the day. Line fifteen is one thousand three hundred and fifty-eight, one hundred and ninety-four weeks to the day.**
 
 ---
 
@@ -84,7 +84,7 @@ He took the timber out, closed the cover, and put a bar through its handle and t
 
 ---
 
-**That Thursday at about half past six found her where she is found on every evening of this stretch, at the chair in the fourth of four rooms, the door of that room shut, and the eighth of eight thirty-two hundred days gone — three hundred and thirty-two days — on the shelf behind her, unread, and nobody in this city has put one question to her about it or is going to.**
+**That Thursday at about half past six found her where she is found on every evening of this stretch, at the chair in the fourth of four rooms, the door of that room shut, and the eighth of eight — three hundred and thirty-two days — on the shelf behind her, unread, and nobody in this city has put one question to her about it or is going to.**
 
 ---
 
@@ -93,15 +93,15 @@ Thursday of week 288, at ten. That is the one hundred and forty-fourth day of th
 A counter with eleven callers on it, about two hours of it.
 **A woman of about twenty-nine who had been in the room off a road on the Monday used the third of the four words four times in about eleven minutes, in the sense she had brought into that room, and nobody in that shop corrected her, because correcting her would have needed somebody to know what the word means over a border and not one of the about nine people in that shop has been there. She did not know she was doing it.**
 She said she had understood about four of the eight words a man of about forty-four had read out and nobody asked her which four.
-A man of about thirty-four asked whether anybody in this city had told anybody over there about that word, was told no in about four seconds with a reason about the shop, said he had been told no by about four people in about nine days and had stopped minding, and that what he wanted was a room. He did not pay and was not asked to and nobody has written down that he came in.
-The count of the leaves on a printed sheet is not on any page of this movement.
-Twenty-six pounds, exact, and exact only, came in on that Thursday. Nobody thanked anybody and nobody forgave anybody on it, and no room in this city taught or showed or put anything to anybody.*
+A man of about thirty-four asked whether anybody in this city had told anybody over there about that word, was told no in about four seconds with a reason about the shop, said he had been told no by about four people in about nine days and had stopped minding, and that what he wanted was a room. He left without paying, was not asked to, and nobody has written down that he came in.
+Nowhere in this movement is the number of leaves on a printed sheet given.
+Ninety-five pounds, exact, and exact only, came in on that Thursday. Nobody thanked anybody and nobody forgave anybody on it, and no room in this city taught or showed or put anything to anybody.*
 
-*Conditions and docket.* **Callers on that Thursday: eleven. Work dated on it: eleven, the last of the eleven entered at about twenty to five. About two hours of that Thursday were a counter and about two hours of the rest of it were four shutters, a fascia, a canopy bracket and a drain cover.
+*Conditions and docket.* **Callers on that Thursday: eleven. Work dated for it: eleven, that one entered at about twenty to five. About two hours of that Thursday were a counter and about two hours of the rest of it were four shutters, a fascia, a canopy bracket and a drain cover.
 Four rooms off that service road and one behind the other three: one thousand five hundred and forty-three days, two hundred and twenty weeks and three days.
-The card in a rail that takes two, four days ahead of them: one thousand five hundred and forty-seven days, two hundred and twenty weeks to the day.
-Twelfth on the board of two nails: one thousand four hundred and sixty-three days, two hundred and eight weeks to the day.
-Thirteenth: one thousand four hundred and fourteen days, two hundred weeks and two days.
+The card in a rail that takes two, four days ahead of them: one thousand five hundred and forty-seven days, two hundred and twenty-one weeks to the day.
+Twelfth on the board of two nails: one thousand four hundred and sixty-three days, two hundred and nine weeks to the day.
+Thirteenth: one thousand four hundred and fourteen days, two hundred and two weeks to the day.
 Fourteenth: one thousand three hundred and seventy-nine days, one hundred and ninety-seven weeks to the day.
 Fifteenth: one thousand three hundred and fifty-eight days, one hundred and ninety-four weeks to the day.
 Sixteenth: one thousand three hundred and thirty-three days, one hundred and ninety weeks and three days.
@@ -117,7 +117,7 @@ The separation, in a one-line box about sixteen months old: nine hundred and twe
 That flat: four names on the tenancy, the heat not turned down since the autumn, four barrels reversed, eight holes filled, four rafter tails let into a plumb, four bolts into carrying timber, and a bar and a key through a drain handle.
 Not asked and not given: nobody in that shop corrected the woman of about twenty-nine and she was not corrected and did not know, and nobody in that shop asked her which four of the eight words she had understood.
 Work: eleven, four barrels, four lengths, four bolts, four inches, a bar, a key, nothing escalated, nothing handed back.
-Charge: twenty-six pounds, exact.*
+Charge: ninety-five pounds, exact.*
 
 *Conditions of the close.* **The green-bound book in that first floor above a line in Saltmarket stands at sixty-seven lines and the tin beside it stands at seventy-three with its lid down. Neither of those two figures is set against the other here.
 The ninth chair in that first floor stands against the wall with its back to the room and did not move on that Thursday and its mover is named nowhere in this stretch of days.
@@ -126,5 +126,5 @@ That register of things done correctly that changed nothing stood at four when t
 
 *What the day did not settle, and the rest of it.* **The ten objects named below are named one at a time and no sentence of this file sets two of them together. The shutter. A board on two nails with nineteen ruled lines on it. A doorway held open by a card folded once through. The front of one page copied out by hand. A cage along the side of a counter. A strip of paper, cut narrow, one word on it. A book bound in green. A rail that takes two, with a card standing on end in one of them. A tin with its lid shut. A ring binder on a back shelf.
 A form carried back on a bus by a person is not the board on two nails and is not the printed sheet pinned to a board by two drawing pins. A length of cord bought on a Thursday and carried out in a hand is a seventh thing and none of the ten.
-A dated rule stands over a separate matter and its records are open to anybody who asks for them. A woman of fifty-three is held on a first floor and the inside of that door carries a list, and this file does not touch that and does not soften it. About nine people in this city were once part of a network and are not in one now, and nothing has been put to any of them, and this file is not a place where that would be done.
+A woman of fifty-three is held on a first floor under a dated rule, the inside of that door carries a list, and this file does not touch that and does not soften it. About nine people in this city were once part of a network and are not in one now, and nothing has been put to any of them, and this file is not a place where that would be done.
 Nobody thanked anybody and nobody forgave anybody on that Thursday. A woman was told a word on the Monday and went on using it the wrong way four times in about eleven minutes in a shop without knowing, and nobody in that shop could have corrected her, and a man asked whether anybody had told anybody over there and was told no and said that what he wanted was a room, and nobody in this city is going to build him one.**

@@ -143,7 +143,18 @@
 - **The binder does not come out.** The woman's page is not read and she is not named and nobody apologises to her.
 - **Whether the practice the four hundred kept after the district left in Volume 16 worked is not this volume's to say.**
 - **Iona Sorn is not absolved and is not on a page of Movement II.**
-- **The day charge of a file is one of that day's job prices and is not the sum of them.** That is the house convention, it is what Movement I does, and Movement II does it on all ten files.
+- **THE DAY CHARGE OF A FILE IS THE SUM OF THAT FILE'S JOB PRICES AND NOT ONE OF THEM.** Movement I and Volume 16 both state a day's take as a total and neither prints a price beside each job. Movement II prints a price beside each of four jobs, and **the earlier version of this block asserted here that the day's charge was one of those prices and that that was the house convention. It is not: it was a defect of six files, it has been repaired, and the line as it stood would have taught Movement III to repeat it.** **Chapters 831 and 838 always carried the correct sum and the other six did not; the six are now ninety-three, ninety-five and a hundred and two pounds and the two were twenty-six and seventy-four.**
+
+## What the review pass of Movement II changed in the continuity of this manuscript, and it is six things
+
+1. **The day's charge is the sum of the day's job prices, on all ten files.** The line above records the correction and the six files it was wrong on.
+2. **The place behind the woman's chair is named on Chapter 838 and on no other file of Movement II.** The earlier version of `state/current.md` said it was on no file at all and said the same of the ninth chair; **both halves of that were wrong, the ninth chair being on all ten files.**
+3. **Twenty-five interval renderings were repaired and no day figure moved.** **The figure families Movement III will meet are unchanged and the rows are unchanged; what changed is how twenty-five of them are rendered, and a pass that compares against this file's figures rather than against the files themselves will not see that anything happened.**
+4. **Chapter 840's conditions rows no longer carry three items belonging to Chapter 836's page**, and no other file carries an item off another's page.
+5. **Fifteen apparatus sentences and one body sentence were reworded and one redundant sentence was cut**, so that no sentence of twelve words or more stands in two of the ten files at either scope. **No fact, figure, day, entry, price, refusal or name was altered by any of them.**
+6. **One false figure was removed from Chapter 839** and one near-figure from Chapter 838, and the place behind the chair is no longer named a second time on Chapter 840.
+
+**None of the six is a change to the plot, to a debt, to an open thread, to the woman's page, to the register of four, or to the direction of the volume.**
 
 ## The one thing Movement II leaves open that Movement III exists to answer
 
