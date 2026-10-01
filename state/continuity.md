@@ -1,8 +1,8 @@
-# LIVE — CONTINUITY AT CHAPTER 840. VOLUME 17 IS OPEN AND MOVEMENT II IS WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY, VOLUME 17 MOVEMENT II*, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE.
+# LIVE — CONTINUITY AT CHAPTER 850. VOLUME 17 IS OPEN AND MOVEMENT III IS WRITTEN. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST. THE GOVERNING BLOCK IS AT THE FOOT, HEADED *CONTINUITY, VOLUME 17 MOVEMENT III*, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE.
 
-**THE MANUSCRIPT STANDS AT CHAPTER 840, THE FRIDAY OF WEEK 288, DAY 1906, LOAD-BOOK ENTRY 843, AND VOLUME 17 IS OPEN WITH MOVEMENT II WRITTEN. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY, VOLUME 17 MOVEMENT II* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
+**THE MANUSCRIPT STANDS AT CHAPTER 850, THE FRIDAY OF WEEK 290, DAY 1920, LOAD-BOOK ENTRY 853, AND VOLUME 17 IS OPEN WITH MOVEMENT III WRITTEN. THE GOVERNING BLOCK OF THIS FILE IS THE ONE HEADED *CONTINUITY, VOLUME 17 MOVEMENT III* AT THE FOOT OF IT, AND EVERY BLOCK BELOW THIS ONE IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS.**
 
-**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn. The place behind the chair of the woman of about sixty is `day − 1484`, is 425 days old at Chapter 841 and 436 at Chapter 850, and is printed on **one file of each movement and on no other** — **Movement I printed it on Chapter 824, and Movement II printed it on no file at all.** The load-book run is 823 at Chapter 820, 824 at Chapter 821, 833 at Chapter 830 and 843 at Chapter 840, with `(entry − chapter) = {3}` on every row. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, and is not absolved.**
+**WHAT IS SETTLED, AND WHAT IS NOT.** The settled page anchor is **`day − 1573` and it governs**; `day − 1578` is withdrawn and printed as withdrawn. The place behind the chair of the woman of about sixty is `day − 1484`, is 425 days old at Chapter 841 and 436 at Chapter 850, and is printed on **one file of each movement and on no other** — **Movement I printed it on Chapter 824, Movement II on Chapter 838, and Movement III on Chapter 843.** The load-book run is 823 at Chapter 820, 824 at Chapter 821, 833 at Chapter 830 and 843 at Chapter 840, with `(entry − chapter) = {3}` on every row. `state/phase-ledger.json` is controller-owned and was read and not written. **Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, and is not absolved.**
 
 ---
 
@@ -159,3 +159,59 @@
 ## The one thing Movement II leaves open that Movement III exists to answer
 
 **Four hundred people use a thing every day, none of them is on a form of this body, and none of them can be put on one, and the discovery is an omission and not a secret.** And: **a region has a name in this city that is the wrong size, and nine people are using it, and Movement III opens on the Monday after a woman decided one thing about that and told nobody what it was.**
+
+# LIVE — CONTINUITY, VOLUME 17 MOVEMENT III, CHAPTERS 841 TO 850. DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. THIS BLOCK IS THE STATE OF THIS FILE.
+
+## The settled arithmetic, re-derived and not read off a chapter
+
+| Series | Anchor | At Chapter 850 | At the Volume 17 close |
+| --- | --- | --- | --- |
+| The room off that service road | `day − 362` | 1,558 | 1,626 |
+| The card in the rail, which takes two | `day − 358` | 1,562 | 1,630 |
+| The hardboard's twelfth line | `day − 442` | 1,478 | 1,546 |
+| The thirteenth | `day − 491` | 1,429 | 1,497 |
+| The fourteenth | `day − 526` | 1,394 | 1,462 |
+| The fifteenth | `day − 547` | 1,373 | 1,441 |
+| The sixteenth | `day − 572` | 1,348 | 1,416 |
+| The seventeenth | `day − 590` | 1,330 | 1,398 |
+| The eighteenth | `day − 644` | 1,276 | 1,344 |
+| The nineteen, last line in use | `day − 666` | 1,254 | 1,322 |
+| The hold on nine crates | `day − 729` | 1,191 | 1,259 |
+| The man of about fifty-one at the north wall | `day − 756` | 1,164 | 1,232 |
+| What is still owed | `day − 672` | 1,248 | 1,316 |
+| The post at the corridor end | `day − 814` | 1,106 | 1,174 |
+| The nine hand copies of the front of one page | `day − 796` | 1,124 | 1,192 |
+| The separation | `day − 982` | 938 | 1,006 |
+| **The place behind the woman's chair** | `day − 1484` | **436** | **504, seventy-two weeks to the day** |
+| **The woman's page in the ring binder** | `day − 1573` | **347** | **415** |
+
+**No anchor has moved since Volume 01. The four free checks hold on all ten rows of Movement III: the card-minus-room invariant is {4}, the fourteen-less-fifteen is {21}, the fifty-one-less-hold is {−27} and the eighteen-less-sixteen is {−72}.** The four are identities and their clean set is a property of the anchor table and not evidence about a line of prose; that standing withdrawal is unchanged.
+
+## What Movement III added to the continuity of this manuscript
+
+1. **THE PRACTICE IS DESCRIBED IN THREE PLACES IN THIS CITY AND IN NO PLACE ON PURPOSE, AND ALL THREE ARE ABOUT NINE YEARS OLD.** A wages book in a fourth district kept by a man of about sixty who has kept it since before the spring four years ago; a day book at a works gate in a second district, with four words written in a margin about nine seconds after a man asked how long the thing takes; and a laundry book in a first district kept by a woman of about forty-one who was counting what came in on a Thursday and wrote it in her own book because she had not been asked to write it anywhere. **None of the three writers knows what they wrote and not one of the three has been told.**
+2. **NOT ONE OF THE THREE CAN BE READ BY ANYBODY WHO DOES THE PRACTICE.** Every word in all three is in this city's language, none of the three is in the language of a person who does the thing, and not one of the four hundred has ever seen any of them. **This is the movement's finding and it is an omission and not a secret, and no page of the movement names anybody who kept it that way, because there is nobody to name and there was never a decision.**
+3. **A MAN OF ABOUT FIFTY-TWO SAID, IN ABOUT NINE SECONDS AT CHAPTER 843, THAT THERE IS NO PLACE IN THIS CITY WHERE THE PRACTICE IS WRITTEN DOWN ON PURPOSE, THAT THERE NEVER HAS BEEN, AND THAT THIS IS NOT BECAUSE ANYBODY DECIDED THERE SHOULD NOT BE ONE.** He said it to the room and not to about nine people, and nobody asked him what the three places are. **This is the sentence Movement IV exists to live with, and it cannot be taken back, softened or improved on.**
+4. **THE FINDING WAS FOUND BY ABOUT NINE PEOPLE WHO WORK IN A FIRST DISTRICT AND WAS OFFERED TO ONE OF THEM, WHO SAID NO IN ABOUT FOUR SECONDS.** It is not his. Nobody in this city has given it to anybody, and about four people who know about it say that if it is anybody's it belongs to the people who looked, and about four say that means nobody.
+5. **A MAN OF ABOUT FORTY-FOUR, WHO IS A LANDLORD OF ONE BUILDING IN A SECOND DISTRICT AND OF NOTHING ELSE, SAID AT CHAPTER 848 THAT A LANDLORD HOLDS PAPER AND NOT PEOPLE, THAT THIS IS THE CORRECT ARRANGEMENT, AND THAT IT IS ALSO THE REASON NOBODY CAN BE FOUND.** Four documents about four hundred people are on a shelf at the back of that building. **He may not be the person who signs anything in this volume and was not the person any form was put up to.**
+6. **THE REFUSAL AT CHAPTER 849.** A form about the size of a folded sheet of writing paper with a box at the bottom of it, four words above the box and a space about the width of a thumb under them. A woman of about thirty-four, the only person in this city who has been over a border and come back with one of these, was asked in front of about nine people and refused in about four seconds. **Her reason is about a signature and not about the border: a signature is a person saying they stand behind a thing, and she has never spoken to one of the four hundred people and does not know one of their names, and her name is not the one being described.**
+7. **THE FINDING ABOUT THE THREE BOOKS WAS NOT PUT IN FRONT OF THE WOMAN OF ABOUT THIRTY-FOUR AS A CORRECTION, AND SHE WAS TOLD NOTHING.** On Chapter 846 she sat in the room where all three were read out for about an hour, said the word not once, asked about the numbers and about the laundry book for this year, and was not asked why she had said nothing. A man of about fifty-two told her in about nine seconds that he was not going to ask her anything and wanted her to know that he was not going to.
+
+## What a later pass may not re-open, and it is the whole list
+
+- **The man of about fifty-two's sentence at Chapter 843 stands and is not to be softened, qualified or repeated as a discovery.** It is a finding about the absence of a procedure and not about a rule having been broken.
+- **The woman of about thirty-four is not told that one of the four words means the opposite, and no chapter of this volume may put it to her as a correction.** She has now been in two rooms in this movement and said nothing about the word in either.
+- **The three accidental records are not turned into a document in this volume.** A man of about twenty-six asked for the four words to be copied out and printed on Chapter 842 and was refused in about four seconds, **and the reason was about the sending and not about the ink, and nobody in that corridor agreed with him and nobody disagreed.**
+- **The register of correct acts that changed nothing is four and is not a fifth, and nobody counts it.**
+- **The binder does not come out.** The woman's page is not read and she is not named and nobody apologises to her.
+- **Whether the practice the four hundred kept after the district left in Volume 16 worked is not this volume's to say.**
+- **Iona Sorn is not absolved and is not on a page of Movement III.**
+- **The day's charge of a file is the sum of that file's four job prices and not one of them.** Movement III's charges are **31, 26, 95, 95, 102, 55, 75, 26, 102 and 95 pounds**, and each is the sum of the four prices printed beside the four jobs on that page.
+
+## The two figure forms, and what Movement III found about the instrument that checks them
+
+**A figure between one hundred and one hundred and ninety-nine reads `a hundred and N` in a body and `one hundred and N` in a conditions row. Eighteen rows in this movement carried the body form in the apparatus**, on Chapters 841, 842, 843, 844, 845, 846, 848, 849 and 850, **and every day figure was correct throughout, because the two forms differ only in two words and the arithmetic is identical in both.** The day-and-weeks pair walk could not see a single one of them: it reads the value, not the scope. **All eighteen were repaired to the row form and a scope-form walk, asserted on the two renderings and run at both scopes, now returns zero.**
+
+## The one thing Movement III leaves open that Movement IV exists to answer
+
+**Somebody has to be told, in advance, what they are staying inside of, and the institution has no form for saying it and no procedure for asking whether anybody would accept it.** And: **the refusal at Chapter 849 stands on the record as a refusal about a signature, and nobody in that room agreed with it and nobody disagreed, and about four people in that room had wanted the signature and about four had not dared to want it.** Movement IV is the movement that has to live with both.
