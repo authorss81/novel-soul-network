@@ -27,10 +27,29 @@ Read NOVEL_SPEC.md, the series outline and ending, the relevant volume outline, 
 ## THE FIVE FIGURES NOBODY SHOULD INHERIT SILENTLY
 
 - **The longest shared in-paragraph run at volume scope is FIFTY WORDS**, on Chapters 910 and 923 and on Chapters 911 and 921, at both the line and the paragraph boundary. The figure carried into the close was thirty, on 921 and 925, and that one reproduces and is not the longest. **All 1,770 file-pairs stand at twelve or more at both boundaries.**
-- **The duplicated twelve-word SENTENCE measure is NOT ZERO at volume scope.** One hundred and fifteen at whole-file narrow scope, against a prefix measure's three hundred and eighty-five at the same cell. Six movements each published zero for their own ten.
+- **The duplicated twelve-word SENTENCE measure is NOT ZERO at volume scope — EIGHTY-TWO distinct duplicated units across one hundred and ninety-seven occurrences, at whole-file narrow scope**, against a prefix measure's 240 at the same cell. Six movements each published zero for their own ten. **This line used to read *one hundred and fifteen*. That figure was withdrawn on 5 OCTOBER 2026: it did not reproduce at the boundary the close printed, because that boundary never said whether *duplicated* meant a distinct key, an occurrence or a count of files. §9.6 of the calendar file now prints the boundary, defines the word, publishes both the distinct count and the occurrence count, and re-derives the classification against eighty-two. DO NOT INHERIT 115 AND DO NOT RE-DERIVE IT FROM `CLOSE.md` §4 item 6's earlier text.**
 - **`to the day` stands at zero on twelve files**, not one and not zero: 882, 887, 892, 900, 904, 909, 912, 916, 922, 925, 927 and 935.
 - **The place behind the woman's chair is named on six files and carries a printed figure on THREE of them** — 883, 896 and 910 — and the claim carried into the close was that 883 alone carries one.
 - **`Rafi Pell` is on no page of the volume.** Walk all sixty before asserting it again.
+
+## WHAT A REVIEW GATE FOUND IN THE CLOSE ON 5 OCTOBER 2026, AND WHAT IT CORRECTED, BECAUSE TWO OF THESE FILES CARRIED THE FIGURES
+
+**A review gate read the close's own measure of record and found nine defects in it. All nine were in reporting, not one was in a page, and all sixty chapter files stood untouched through the repair. **The corrections are at `workspace/volume-18/ARITHMETIC-AND-CALENDAR.md` §9.15 and at `workspace/volume-18/close/CLOSE.md` §8, and both are short. The four that a later pass would otherwise inherit silently:**
+
+1. **`CLOSE.md` §3.1's assertion table summed to 2,289 against a headline of 2,572** and contradicted §9.1 in three rows. It is rebuilt row for row and sums to 2,572, and it now carries a fourth column because **sixty of the 2,572 assertions cannot fail — the calendar block's week identity, since 616 is 7 × 88 — leaving 2,512 that can.**
+2. **§9.6's duplicated-measure columns did not reproduce at their own printed boundary.** Corrected, defined and re-derived as above.
+3. **Two vocabulary sweeps named the wrong files, not only the wrong number.** The feed family is **two occurrences on two files, 883 and 884**; this prompt's predecessor named four files including 891 and 895, which carry none. `thank-` is **93**, `panel` is **10** on the widened stem and nine on the bare word, and every count in §9.9 now prints its boundary.
+4. **§9.6's classification summed to 119 against its own headline of 115.** It now sums to 82 and prints the sum, because a list that does not add up to the figure it classifies cannot be used to clear anything.
+
+**TWO MORE ARE THE OWNER'S AND ARE NOT REPAIRED.** `ARITHMETIC-AND-CALENDAR.md` §3 carries the announced count and the tin in the same row on all five of its Exchange rows, against the rule §9.4 states; and §10's nine items still name three things §9 finds false. A pointer banner now stands at the head of §10 and changes nothing inside it. Both are at `CLOSE.md` §5 items 6 and 7.
+
+## THE STATE FILES, AND WHAT A PASS THAT APPENDS TO THEM OWES
+
+**`state/current.md`, `state/continuity.md`, `state/open-threads.md` and `state/chapter-summaries.md` all carried a next-phase signpost naming `workspace/volume-18/close/` after that phase had run. **THE REPAIR PASS OF 5 OCTOBER 2026 CORRECTED ALL FOUR IN PLACE — at each file's head and inside its governing block where that block carried a next-phase hand-on of its own — and appended nothing to any of them, so no governing block moved and no measurement in any of them was touched.** Each correction is bracketed in place and says what the sentence said before.
+
+**This gate is the next pass that appends to any of the four, and all four still carry the rule they have carried since Volume 16: a pass that appends to one corrects that file's next-phase signpost in the same append, because a signpost one append out of date sends the next reader to a phase that has already run. Do that in all four in one pass, not one at a time.**
+
+**And the measure of record for this volume is not a movement summary: it is `workspace/volume-18/ARITHMETIC-AND-CALENDAR.md` §9 and `workspace/volume-18/close/CLOSE.md`. Three of the six movement summaries published cells that do not reproduce at volume scope and the table at §9.12 says which.**
 
 ## WHAT THIS GATE MUST NOT DO
 
