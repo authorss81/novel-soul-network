@@ -14,6 +14,8 @@ Nine callers came into that shop on that Friday between about seven and about ha
 
 Nobody in that room has said how long it has been there. Nobody in this city has said who put it against that wall.
 
+**And behind the chair that the woman of about forty-three sits in there is a space in the floor and on the wall that has had nothing standing against it since a week in the spring. This page names it once and puts no figure on it, and no other page of this movement names it at all.**
+
 ---
 
 **That sheet with four columns was on its own table from about seven on that Friday, and the fifth heading stood over nothing on all nine of its rows, and it was on that table at about nine and it will be on that table on the next ordinary morning with the fifth heading standing over nothing on all nine of its rows.**
@@ -36,7 +38,7 @@ Nobody in that room said where a key had gone. Nobody in that room asked the per
 
 ---
 
-**The man of twenty-two was in that room on that Friday, asked nothing and signing nothing, and he stood at the back by the rail with the card in it, and he is not the person who signs anything in this city.**
+**The man of twenty-two was in that room on that Friday, asked nothing and signing nothing, and he stood at the back with the card in the rail beside him, and he is not the person who signs anything in this city.**
 
 He has said since that he was in that room about nine times in four years and had looked at the table every time, and that there is a fifth heading on that sheet and that he has not seen anybody write in it and that he is not going to be the first one.
 
@@ -89,10 +91,10 @@ The card standing in that rail is creased once and it is the only one there: one
 That line, the twelfth of nineteen on the board that is up on two nails: one thousand six hundred and thirty-nine days, two hundred and thirty-four weeks and one day
 The line the thirteenth of those nineteen, and nothing has ever gone on it: one thousand five hundred and ninety days, two hundred and twenty-seven weeks and one day
 The line the fourteenth of that board of nineteen, with nothing written on it: one thousand five hundred and fifty-five days, two hundred and twenty-two weeks and one day
-Three lines from the top of that board, which is the fifteenth of the nineteen: one thousand five hundred and thirty-four days, two hundred and nineteen weeks and one day
+Low down on that board, which makes it the fifteenth of the nineteen: one thousand five hundred and thirty-four days, two hundred and nineteen weeks and one day
 On that board of nineteen the sixteenth has never been touched with a pen: one thousand five hundred and nine days, two hundred and fifteen weeks and four days
 Under the sixteenth on that board stands the seventeenth of the nineteen: one thousand four hundred and ninety-one days, two hundred and thirteen weeks to the day
-Six lines from the bottom of that board, which makes it the eighteenth of the nineteen: one thousand four hundred and thirty-seven days, two hundred and five weeks and two days
+Near the foot of that board, which makes it the eighteenth of the nineteen: one thousand four hundred and thirty-seven days, two hundred and five weeks and two days
 The line at the bottom of that board of nineteen, ruled last: one thousand four hundred and fifteen days, two hundred and two weeks and one day
 The figure on that open page in front of him that nobody has collected: one thousand four hundred and nine days, two hundred and one weeks and two days
 A hold laid across nine crates and the floor that is under all of them: one thousand three hundred and fifty-two days, one hundred and ninety-three weeks and one day
@@ -100,12 +102,13 @@ That man of about fifty-one has not moved off that north wall: one thousand thre
 Nine written copies of the front of a single page, torn at the corner: one thousand two hundred and eighty-five days, one hundred and eighty-three weeks and four days
 That corridor's last post stands at the end of it, worn about halfway up: one thousand two hundred and sixty-seven days, one hundred and eighty-one weeks to the day
 A line inside a box off that road, written about sixteen months ago: one thousand and ninety-nine days, one hundred and fifty-seven weeks to the day
+The space behind that woman's chair, which has stood empty since a week in the spring, which this page names once in its body and once here, and which carries no figure on this page or on any other
 That Friday's four jobs: a garage given a way of its own, a machine taken off the lighting, a plastic fitting earthed at its conduit, a socket moved onto a spare.
 Nobody was asked and nobody was given anything: nobody in that room asked the person who came on the Sunday why she came, nobody in that room said where a key had gone, and nobody in that room said one word about the fifth heading
-Work on that Friday: nine. nine, about nine people in a room and nothing decided in any of it. Nothing escalated, nothing handed back.
-The charge for those four jobs was forty-two pounds, exact, and each was priced first.**
+Work on that Friday: nine, nine, about nine people in a room and nothing decided in any of it. Nothing escalated, nothing handed back.
+Charge: forty-two pounds, exact, on those four jobs, and each was priced first.**
 
-*Conditions of the close.* **The book with the green cover stood at sixty-nine lines and no line was taken off it. Seventy-three stood on the tin beside that book and the lid of that tin did not move. The ninth of that row stood with its back to the room and its seat to the wall and it did not move. There is a shut door on the fourth of those four rooms at about half past six on that Friday, a woman of about thirty behind it, and a binder on the shelf at the back that did not come out, and this page prints no figure for it. That room beneath the building in a first district stood dark at about eleven on that Friday and it is dark now and it stays shut. The register of correct acts that changed nothing stands at four and nothing on any of these ten days went on it; it is a figure in a sentence and not a number that anybody here keeps. That shutter was down at about ten on that Friday and no later..
+*Conditions of the close.* **The book with the green cover stood at sixty-nine lines and no line was taken off it. Seventy-three stood on the tin beside that book and the lid of that tin did not move. The ninth of that row stood with its back to the room and its seat to the wall and it did not move. There is a shut door on the fourth of those four rooms at about half past six on that Friday, a woman of about thirty behind it, and a binder on the shelf at the back that did not come out, and this page prints no figure for it. That room beneath the building in a first district stood dark at about eleven on that Friday and it is dark now and it stays shut. The register of correct acts that changed nothing stands at four and nothing on any of these ten days went on it; it is a figure in a sentence and not a number that anybody here keeps. That shutter was down at about ten on that Friday and no later.**
 
 *What the day did not settle, and the rest of it.* **Below are ten objects, one apiece, and this page never puts two of them in a sentence together.
 The book in a green binding stood shut that evening.
@@ -118,7 +121,7 @@ A board of nineteen ruled lines hanging by two nails.
 That shutter went down at about ten.
 A rail with two places cut in it, with a card standing in one of them.
 The binder that is a ring binder, standing on a shelf at the back.
-All ten of those are named above, and three others are not: the form that came back on a bus, that cage down one side of that counter, and the printed sheet that somebody put up by two drawing pins. that Those four columns, and that fifth heading with nothing under it, are one of the ten and not one more.
+All ten of those are named above, and three others are not: the form that came back on a bus, that cage down one side of that counter, and the printed sheet that somebody put up by two drawing pins. Those four columns, and that fifth heading with nothing under it, are one of the ten and not one more.
 A shut door on the fourth of those four rooms, a woman of about thirty behind it, and nothing on this page counting her, describing her or printing a figure for the page in the binder on that shelf.
 Under a dated rule stands a question that is not this question, and the records behind it are there in public and anybody in this city may come and ask to see them.
 On that Friday nobody thanked anybody and nobody forgave anybody, and nothing in this movement has been decided, and about four people in that room have said since that each of them would have asked somebody why they came.**

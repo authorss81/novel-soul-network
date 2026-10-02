@@ -22,7 +22,7 @@ Nobody in that room asked about the Sunday. Nobody in that room had been in the 
 
 He said: it takes a room a week to come back.
 
-He said it to her and she heard it and did not reply to it, and about four people in that room were close enough to hear it and about four of them have said since that they have not been able to give it a meaning that holds.
+He said it to her and she heard it and did not reply to it, and about four people in that room were near enough to hear all of it, and each of those four has said since that the sentence has never once fitted anything they could put a name to.
 
 **He was not in that room off that road on that Sunday. He does not know what happened in it. He has said since that he was not asked and that he would have gone if he had been asked and that nobody asked him.**
 
@@ -87,12 +87,12 @@ Monday of week 313, at ten. That is the two hundred and thirty-first day of this
 That row of four converted units off the service road, one of them warm all year: one thousand seven hundred and fifteen days, two hundred and forty-five weeks to the day
 That single card, creased once, standing in the rail that takes two: one thousand seven hundred and nineteen days, two hundred and forty-five weeks and four days
 Twelve lines from the top of that board of nineteen, on two nails: one thousand six hundred and thirty-five days, two hundred and thirty-three weeks and four days
-Under that twelfth line there is a thirteenth and there is nothing on itThe thirteenth of the nineteen, ruled immediately below the twelfth: one thousand five hundred and eighty-six days, two hundred and twenty-six weeks and four days
+Under that twelfth line there is a thirteenth, and nothing has ever been written against it: one thousand five hundred and eighty-six days, two hundred and twenty-six weeks and four days
 The fourteenth of those nineteen, ruled a line under the thirteenth: one thousand five hundred and fifty-one days, two hundred and twenty-one weeks and four days
-That board's fifteenth line, three lines down from the top of it: one thousand five hundred and thirty days, two hundred and eighteen weeks and four days
+That board's fifteenth line, ruled well down the middle of it: one thousand five hundred and thirty days, two hundred and eighteen weeks and four days
 That sixteenth line is the one nobody has ever reached on that board: one thousand five hundred and five days, two hundred and fifteen weeks to the day
 That seventeenth line of that board has nothing written against it either: one thousand four hundred and eighty-seven days, two hundred and twelve weeks and three days
-That second line from the top of that board, which is the eighteenth of nineteen: one thousand four hundred and thirty-three days, two hundred and four weeks and five days
+That second line up from the foot of that board, which is the eighteenth of nineteen: one thousand four hundred and thirty-three days, two hundred and four weeks and five days
 That bottom line of that board is the nineteenth of the nineteen: one thousand four hundred and eleven days, two hundred and one weeks and four days
 The amount still owing on that page, which lies open in front of that man: one thousand four hundred and five days, two hundred weeks and five days
 That hold lies across nine crates and across the ground beneath them: one thousand three hundred and forty-eight days, one hundred and ninety-two weeks and four days
@@ -102,10 +102,10 @@ At the end of that corridor a post stands and the floor is worn at its foot: one
 Inside a box off that road there is one line, and it was written sixteen months back: one thousand and ninety-five days, one hundred and fifty-six weeks and three days
 That Monday's four jobs: a fridge given a way of its own, a hold-open magnet given a way of its own, a pump moved off the last spare, a lamp holder earthed at its ring.
 No question was put and nothing was given: nobody in that room asked the man of about thirty-three where that sentence came from, nobody in that room asked anybody what happened in that room off the road on the Sunday, and nobody in that room said one word about the fifth heading
-Called in: nine. nine, one thing said into a face and not answered. Nothing escalated, nothing handed back.
+Work: nine, nine, one thing said into a face and not answered. Nothing escalated, nothing handed back.
 Charge: thirty-seven pounds, exact, and every one of those four jobs was priced before the work was done.**
 
-*Conditions of the close.* **In the green binding there were sixty-nine lines ruled and the number of them was the same at the shutter. The tin beside that binding stood at seventy-three with the lid on it and it stayed that way. That ninth chair stood where it stands every day of this movement and no page names whoever would move it. By about half past six on that Monday the door of the fourth of those four rooms was shut, a woman of about thirty was behind it, and the binder on the back shelf came off no shelf, and no figure for the page in it is printed here. The room underneath that building in a first district had nothing burning in it at about eleven on that Monday and has nothing burning in it at this hour. Nothing this week was added to the register of correct acts that changed nothing; it stood at four and stands at four, it is a figure in a sentence and not a count that anybody keeps. It was about ten when that shutter came down on that Monday..
+*Conditions of the close.* **In the green binding there were sixty-nine lines ruled and the number of them was the same at the shutter. The tin beside that binding stood at seventy-three with the lid on it and it stayed that way. That ninth chair stood where it stands every day of this movement and no page names whoever would move it. By about half past six on that Monday the door of the fourth of those four rooms was shut, a woman of about thirty was behind it, and the binder on the back shelf came off no shelf, and no figure for the page in it is printed here. The room underneath that building in a first district had nothing burning in it at about eleven on that Monday and has nothing burning in it at this hour. Nothing this week was added to the register of correct acts that changed nothing; it stood at four and stands at four, it is a figure in a sentence and not a count that anybody keeps. It was about ten when that shutter came down on that Monday.**
 
 *What the day did not settle, and the rest of it.* **The ten objects below are named one to a sentence, and no sentence here takes two of them.
 The shutter down at about ten and no later.
@@ -118,9 +118,9 @@ A card creased once and a doorway standing open on it.
 Nine hand copies of the front of that page, a corner torn off each.
 The tin with its lid down and still down.
 A strip of paper, cut narrow, with one word on it.
-Not one of those ten, and outside them: what came back on a bus, that cage down one side of a counter, and the printed sheet that went up by two drawing pins. that The four columns and the heading over nothing belong to those ten and are not a new one of them.
+Not one of those ten, and outside them: what came back on a bus, that cage down one side of a counter, and the printed sheet that went up by two drawing pins. Those four columns and the heading over nothing belong to those ten and are not a new one of them.
 Behind a shut door on the fourth of those four rooms stands a woman of about thirty, and this page leaves her where she stands, uncounted and undescribed, with nothing printed for the page in the binder on that back shelf.
 Something else in this city stands under a dated rule, and the records of that something are in public and are argued about, and anybody may come and ask to see them.
-a man said one thing into a face about a Sunday he was not in, and about four people in that room have said since that each of them would have asked somebody about that Sunday and did not, and nobody thanked anybody on that Monday and nobody forgave anybody.**
+A man said one thing into a face about a Sunday he was not in, and about four people in that room have said since that each of them would have asked somebody about that Sunday and did not, and nobody thanked anybody on that Monday and nobody forgave anybody.**
 
 ---

@@ -1,6 +1,6 @@
 # Chapter 929 — A Thursday Of The Thirteenth Week, A Bench Until Two And A Counter Until About Six Before It, Then About Two Hours Of That Thursday Evening In That First Floor Above A Line In Saltmarket Where Two Kinds Of Room Came Up Again And Where One Of The Two Is Still Standing There With Nothing In It And About Four People Have Said Since That They Have Been Doing The Other Thing Since A Man Of About Thirty-Three Said It, And Forty-Four Pounds For Four Jobs
 
-**Two kinds of room came up that Thursday, one set out for people before anybody went in and one with people already in it, and a bench until two and a counter until about six had been that day, and then about two hours of that evening went into that first floor above the line, where about nine people were and about four of them had been counting the wrong one for about four years.**
+**Two kinds of room came up, one set out for people before anybody went in and one with people already in it, and the day had been a bench until two and a counter until about six, and about two hours of that evening went into that first floor above the line, where about nine people were and about four of them had been counting the first of those two for about four years.**
 
 ---
 
@@ -14,7 +14,7 @@ Eleven callers came into that shop on that Thursday between about seven and abou
 
 **The first of those two rooms is that first floor above the line in Saltmarket, and there are nine chairs standing in a row in it in the same gaps, and anybody can go up that stair and count them.**
 
-The second of those two rooms is the room off that road that was used on the Sunday and on no other day of that week, and there is nothing set out in it of any kind, and there are no chairs in it at all, and anybody can go in there and count the people in it.
+The second of those two rooms is the room off that road that was used on the Sunday and on no other day at all, and there is nothing set out in it of any kind, and there are no chairs in it at all, and anybody can go in there and count the people in it.
 
 **Nobody in that room counted the people in that other room on that Sunday. Nobody in that room has counted them since. Nobody in that city has said since how many people were in that other room on that Sunday.**
 
@@ -48,11 +48,11 @@ A second of those four has said since that he does not agree that the second of 
 
 Nobody in that room put it either way on that Thursday, and nobody there said the other half of it out loud either.
 
-**He was in that room on that Thursday, a man of twenty-two, asked nothing and signing nothing, and he stood at the back by the rail with the card in it and did not sit down.**
+**He was in that room on that Thursday, a man of twenty-two, asked nothing and signing nothing, and he stood at the back where the rail is and did not sit down in one of those nine chairs.**
 
 ---
 
-**What was left of that Thursday went into about two hours in the same yard and the same building, and four jobs went into it.**
+**What was left of that Thursday went into the same two hours in the same yard and the same building as it does on the other four days of this week, and four jobs went into it.**
 
 A board in a workshop had two circuits on one way out because the spare had been used by something that had since been taken away, so that one of them was always at the end of what the board could give.
 
@@ -91,7 +91,7 @@ Thursday of week 313, at ten. That is the two hundred and thirty-fourth day of t
 **That Thursday was not a sitting and no figure was said out loud anywhere in this city. Nine chairs stand in a row in that first floor above the line and can be counted by anybody who goes up that stair. The room off that road used on the Sunday has nothing set out in it and no chairs in it, and nobody counted the people in it on that Sunday and nobody in this city has said since how many were in it. At about half past seven a man of about thirty-three said those two things again into the face of that room in about nine seconds, and nobody in that room said he was wrong and nobody agreed with him. About four of the people in that room have said since that they have all been counting the first of those two things ever since he said it. That Thursday was forty-four pounds, exact, on four jobs.**
 
 
-*Conditions and docket.* **eleven callers that Thursday. eleven on the day's list, the last coming at about half past nine.
+*Conditions and docket.* **Callers on that Thursday: eleven. Entered on that day's book: eleven, the last of them at about half past nine.
 Off that service road, four units, and one of those four is the warm one: one thousand seven hundred and eighteen days, two hundred and forty-five weeks and three days
 One card in that rail by that first door, creased once, is all that rail holds: one thousand seven hundred and twenty-two days, two hundred and forty-six weeks to the day
 Down twelve of the nineteen lines on that board hung by two nails: one thousand six hundred and thirty-eight days, two hundred and thirty-four weeks to the day
@@ -110,10 +110,10 @@ The corridor ends at a post and that post has been leaned on for years: one thou
 That box off that road has one line written inside it, some sixteen months back: one thousand and ninety-eight days, one hundred and fifty-six weeks and six days
 That Thursday's four jobs: a second circuit given a way of its own, a machine taken off a wall heater, a stair light given a way of its own, a corridor plate put back on over the wire properly.
 Not asked, not answered and not given: nobody in that room asked the man of about thirty-three why he had said those two things a second time, and nobody in that room counted the people in that other room, and nobody in that room said what either of those two kinds of room changes
-Work: eleven -- eleven, two kinds of room set side by side and nothing either of them can be used for -- nothing escalated, nothing handed back.
+Work: eleven, eleven, two kinds of room set side by side and nothing either of them can be used for; nothing escalated, nothing handed back.
 Charge: forty-four pounds, exact; four jobs, four prices, all agreed before the work.**
 
-*Conditions of the close.* **Sixty-nine lines were ruled in that book and that is what it stood at when the shutter came down. The tin next to the green binding carried seventy-three and nobody lifted that lid. That chair, the ninth, kept its back to that room and its seat against that wall for the whole of that Thursday. The fourth of those four rooms has a shut door at about half past six on that Thursday, a woman of about thirty behind it, and a binder on that back shelf which came out of nothing, and this page prints no figure for the page in it. The room under that building in a first district is dark, was dark at about eleven on that Thursday, and has not been opened. That register of correct acts that changed nothing is at four and has been at four all week, and no day of this movement added one instance to it or printed a fifth, and nobody counts it. At about ten that Thursday finished with the shutter down..
+*Conditions of the close.* **Sixty-nine lines were ruled in that book and that is what it stood at when the shutter came down. The tin next to the green binding carried seventy-three and nobody lifted that lid. That chair, the ninth, kept its back to that room and its seat against that wall for the whole of that Thursday. The fourth of those four rooms has a shut door at about half past six on that Thursday, a woman of about thirty behind it, and a binder on that back shelf which came out of nothing, and this page prints no figure for the page in it. The room under that building in a first district is dark, was dark at about eleven on that Thursday, and has not been opened. That register of correct acts that changed nothing is at four and has been at four all week, and no day of this movement added one instance to it or printed a fifth, and nobody counts it. At about ten that Thursday finished with the shutter down.**
 
 *What the day did not settle, and the rest of it.* **Ten objects are set down below, a sentence each, and no sentence of them holds two.
 The ring binder standing on that back shelf.
@@ -126,7 +126,7 @@ A narrow strip of paper cut out of a sheet, one word on it.
 The ruled board with nineteen ruled lines on it, hung on two nails.
 The shutter down at ten, and it was ten.
 A rail with two places cut in it and a card in one.
-Three objects sit outside all ten of those: that form which came back by bus, the cage on one side of that counter, and the printed sheet a person pinned up with two drawing pins. that The four columns with that empty heading stand among the ten named above and are not one more than those ten.
+Three objects sit outside all ten of those: that form which came back by bus, the cage on one side of that counter, and the printed sheet a person pinned up with two drawing pins. Those four columns with that empty heading stand among the ten named above and are not one more than those ten.
 On the fourth of those four rooms there is a shut door, and a woman of about thirty is behind it, and no part of this page counts her or describes her or prints a figure for the page in the binder standing on that back shelf.
 Some other question in this city is under a dated rule, and the records behind that one are in public and are disputed, and anybody may come and ask for them.
 Nobody thanked anybody on that Thursday, nobody forgave anybody, and two kinds of room stood in the same city on one evening, one of them countable and one of them not, and about four of the people in that room have said since that they had been counting the countable one for about four years.**

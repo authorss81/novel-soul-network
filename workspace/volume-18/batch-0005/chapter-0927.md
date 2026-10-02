@@ -83,7 +83,7 @@ Tuesday of week 313, at ten. That is the two hundred and thirty-second day of th
 **Nothing was sat on that Tuesday and no figure was spoken aloud in any room in this city. Nobody in that room has asked the person who came on the Sunday one question about why she came, and about four people in that room have said since that they would have asked her. A woman of about twenty-nine, who is a relative of one of the nine and is not on that sheet, was in that room, and about four people in that room have said since that she had not been in any room in this city for about four years before the Tuesday before, and that nobody in that room has ever said before that evening that a person simply coming into it was a thing that happened. Those four jobs came to forty-three pounds on that Tuesday, exact.**
 
 
-*Conditions and docket.* **ten people came into that shop on that Tuesday. ten entered that day, the last of them at about half past four.
+*Conditions and docket.* **Callers on that Tuesday: ten. Entered on that day's book: ten, the last of them at about half past four.
 Four units converted off that service road, and a fifth thing about one of them is heat: one thousand seven hundred and sixteen days, two hundred and forty-five weeks and one day
 A card creased once across the middle in the rail by that first door: one thousand seven hundred and twenty days, two hundred and forty-five weeks and five days
 That board carries nineteen ruled lines and this is number twelve of them: one thousand six hundred and thirty-six days, two hundred and thirty-three weeks and five days
@@ -92,7 +92,7 @@ Two lines below the twelfth on that board, which makes this the fourteenth: one 
 The fifteenth of the nineteen on that board, ruled and left as it is: one thousand five hundred and thirty-one days, two hundred and eighteen weeks and five days
 The sixteenth of the nineteen, ruled in and never once written on: one thousand five hundred and six days, two hundred and fifteen weeks and one day
 The seventeenth of the nineteen, ruled directly under the sixteenth: one thousand four hundred and eighty-eight days, two hundred and twelve weeks and four days
-The eighteenth of those nineteen lines, ruled at the head of that board: one thousand four hundred and thirty-four days, two hundred and four weeks and six days
+The eighteenth of those nineteen lines, ruled at the foot of that board: one thousand four hundred and thirty-four days, two hundred and four weeks and six days
 The nineteenth of those nineteen lines, ruled at the foot of that board: one thousand four hundred and twelve days, two hundred and one weeks and five days
 That open page in front of that man carries a figure that is still owed: one thousand four hundred and six days, two hundred weeks and six days
 A standing hold over nine crates and over the floor those crates are on: one thousand three hundred and forty-nine days, one hundred and ninety-two weeks and five days
@@ -103,9 +103,9 @@ A single written line in one of those boxes off that road, some sixteen months o
 That Tuesday's four jobs: two circuits given ways of their own, a machine taken off the crane socket, a gate light taken off the meter way, an immersion earthed at its element.
 Put to nobody and given to nobody: nobody in that room asked the one who came on the Sunday why she came, nobody in that room asked the woman of about twenty-nine why she had come back, and nobody in that room said which of the nine anybody in it is
 Work: ten, and ten, two women nobody in that room had been told about and no questions asked of either; nothing was escalated and nothing was handed back.
-forty-three pounds, exact, on four jobs, and every one of them was priced before it was done.**
+Charge: forty-three pounds, exact, on four jobs, and every one of them was priced before it was done.**
 
-*Conditions of the close.* **That book in a green binding stood at sixty-nine lines all evening and nothing was entered in it. That tin stood at seventy-three and the lid was not taken off it at any point that Tuesday. The ninth chair did not shift at any point on that Tuesday and nothing on this page names whoever would shift it. That fourth room of those four had its door shut from about half past six on that Tuesday, a woman of about thirty behind it, and a binder standing on a shelf at the back that did not come out, and nothing is printed here for the page inside it. Nobody has opened the room under that building in a first district and at about eleven on that Tuesday it was dark. That register of correct acts that changed nothing was at four when that shop opened and is at four at the shutter, and it is not counted by anybody in this city, and nothing this week was put on it. The shutter came down about ten, which is the hour it comes down..
+*Conditions of the close.* **That book in a green binding stood at sixty-nine lines all evening and nothing was entered in it. That tin stood at seventy-three and the lid was not taken off it at any point that Tuesday. The ninth chair did not shift at any point on that Tuesday and nothing on this page names whoever would shift it. That fourth room of those four had its door shut from about half past six on that Tuesday, a woman of about thirty behind it, and a binder standing on a shelf at the back that did not come out, and nothing is printed here for the page inside it. Nobody has opened the room under that building in a first district and at about eleven on that Tuesday it was dark. That register of correct acts that changed nothing was at four when that shop opened and is at four at the shutter, and it is not counted by anybody in this city, and nothing this week was put on it. The shutter came down about ten, which is the hour it comes down on every other day of this movement.**
 
 *What the day did not settle, and the rest of it.* **Ten objects, named one apiece in what follows, and no sentence beneath this brings two together.
 That shutter, down by about ten.
@@ -118,7 +118,7 @@ Nine hand copies of one page's front and a missing corner on every one.
 A tin with the lid down and the lid not touched.
 The narrow strip of paper with one word written across it.
 Nineteen ruled lines ruled across a board on two nails.
-Three things stand clear of all ten of those: the bus form that came back, the cage down one side of this counter, and the printed sheet somebody put up with two drawing pins. that Counted inside those ten are those four columns and that empty fifth heading, and they are not an eleventh.
+Three things stand clear of all ten of those: the bus form that came back, the cage down one side of this counter, and the printed sheet somebody put up with two drawing pins. Counted inside those ten are those four columns and that empty fifth heading, and they are not an eleventh.
 A woman of about thirty is behind the shut door of the fourth of those four rooms, and this page neither counts her nor describes her nor prints any figure for the page in the binder on the shelf at the back of that room.
 A dated rule stands over a question that has nothing to do with this one, and its records are public and disputed and open to anybody who comes for them.
 There was no thanking of anybody on that Tuesday and nobody forgave anybody; two people came into that room whom nobody in it had been told about, and about four people in that room have said since that each of them would have asked the other why and did not.**

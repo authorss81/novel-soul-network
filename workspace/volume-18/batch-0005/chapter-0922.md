@@ -24,7 +24,7 @@ Nobody in that room had met her there before. She had not been in that room in a
 
 **She came in at about half past seven and she sat down in that row of chairs, and at the end of that evening nobody in that room could have said which of the nine she had sat in.**
 
-She said one thing into somebody's face in that room at about nine o'clock. It was said quietly and it was said to one person, and nobody else heard all of it, and it was not long.
+She said one thing into somebody's face in that room at about nine o'clock. It was said quietly and it was said to one person, and nobody else heard all of it.
 
 **It was not written down. Nobody in that room wrote it down, nobody has written it down since, and nobody in that room has said one word about what it was to anybody outside that room.**
 
@@ -82,10 +82,10 @@ He took the bell onto a way of its own and proved it from the push with the ligh
 
 *925.
 Tuesday of week 312, at ten. That is the two hundred and twenty-seventh day of this stretch of days. Eight callers came into that shop on that Tuesday, the last of them at about twenty to five.
-**No sitting was held on that Tuesday and nothing was counted aloud in any room in this city. That first floor above the line held about nine people from about half past six, and one of them was not one of the usual ones, and nobody in that room had been told that anybody was coming. What was said in that room that evening was said into a face and was not written down, and nothing about it has reached the Wednesday. forty-two pounds is what that Tuesday came to, exact.**
+**No sitting was held on that Tuesday and nothing was counted aloud in any room in this city. That first floor above the line held about nine people from about half past six, and one of them was not one of the usual ones, and nobody in that room had been told that anybody was coming. What was said in that room that evening was said into a face and was not written down, and nothing about it has reached the Wednesday. Forty-two pounds is what that Tuesday came to, exact.**
 
 
-*Conditions and docket.* **eight callers came into that shop on that Tuesday. eight of them went onto that day's book, the last at about twenty to five.
+*Conditions and docket.* **Callers on that Tuesday: eight. Entered on that day's book: eight, the last at about twenty to five.
 Four shops converted behind that service road, one of the four kept warm: one thousand seven hundred and nine days, two hundred and forty-four weeks and one day
 One card, creased once, in the two-place rail beside that first door: one thousand seven hundred and thirteen days, two hundred and forty-four weeks and five days
 The twelfth line down on that board of nineteen, which hangs on two nails: one thousand six hundred and twenty-nine days, two hundred and thirty-two weeks and five days
@@ -107,7 +107,7 @@ Asked of nobody and given to nobody: nobody in that room asked the woman who had
 Work: eight, eight, one person in that room who had not been in it before, one thing said into a face. Nothing escalated and nothing handed back.
 Charge: forty-two pounds, exact, and all four of those were priced before the work.**
 
-*Conditions of the close.* **The book in that green binding stood at sixty-nine lines at about half past six and stood at sixty-nine lines at the shutter. The tin beside that book stood at seventy-three with its lid down and nobody put a hand on that lid. The ninth chair had its back to that whole room and its seat against that wall and it did not shift. Behind the shut door of the fourth of those four rooms there was a woman of about thirty from about half past six, the binder on the back shelf came off no shelf, and nothing is printed here for the page in it. Nothing had been burning in the room under that building in a first district at about eleven on that Tuesday, and nothing is burning in it now. That register of correct acts that changed nothing stood at four and stands at four, it is a figure in a sentence rather than a count anybody keeps, and no fifth of it has been printed on any page of this movement. That shutter went down at about ten on that Tuesday and not before..
+*Conditions of the close.* **The book in that green binding stood at sixty-nine lines at about half past six and stood at sixty-nine lines at the shutter. The tin beside that book stood at seventy-three with its lid down and nobody put a hand on that lid. The ninth chair had its back to that whole room and its seat against that wall and it did not shift. Behind the shut door of the fourth of those four rooms there was a woman of about thirty from about half past six, the binder on the back shelf came off no shelf, and nothing is printed here for the page in it. Nothing had been burning in the room under that building in a first district at about eleven on that Tuesday, and nothing is burning in it now. That register of correct acts that changed nothing stood at four and stands at four, it is a figure in a sentence rather than a count anybody keeps, and no fifth of it has been printed on any page of this movement. That shutter went down at about ten on that Tuesday and not before.
 
 *What the day did not settle, and the rest of it.* **Ten objects are named under this heading, one apiece, and no sentence here brings two of them together.
 Nine hand copies of the front of one page, each with a corner gone.
@@ -120,7 +120,7 @@ A rail with two places cut into it, with one card in one of them.
 A ring binder standing on a shelf at the back of a shut room.
 A sheet carrying four columns and a fifth heading that nothing has ever been written under.
 The book in its green binding, shut.
-Outside all ten of those stand three things, which are what came back on that bus, the cage down one side of a counter, and the printed sheet somebody pinned up by two drawing pins. that Those four columns with that empty fifth heading belong inside those ten and are not an eleventh of them.
+Outside all ten of those stand three things, which are what came back on that bus, the cage down one side of a counter, and the printed sheet somebody pinned up by two drawing pins. Those four columns with that empty fifth heading belong inside those ten and are not an eleventh of them.
 Behind a shut door on the fourth of those four rooms there was a woman of about thirty from about half past six, the binder on the back shelf came off no shelf, and nothing is printed here for the page in it.
 A dated rule stands over some other question altogether, and the records behind that one are public and are disputed, and anybody in this city is free to come and ask for them.
 No one thanked anybody on that Tuesday and nobody forgave anybody; one woman came into that room who had not been in it in about four years, and about four people in that room would have asked her why and did not.**

@@ -1,6 +1,6 @@
 # Chapter 925 — The One Sunday Of This Movement, A Bench Until Two And A Counter Until About Six That Is The Shape Of Every Other Day And Not The Shape Of This One, Two Hours In A Room Off A Road That Is Not The Room Above The Line And Is Not The Four Converted Units, One Of The Nine Come In Without Being Asked And Nobody In That Room Had Been Told That Anybody Was Coming, The Shutter Down At About Two, And Forty-Two Pounds For Four Jobs
 
-**Nothing in that city runs on the one day of this week, and about two hours of that Sunday went into a room off a road that is neither the room above a line nor the four converted units, and fewer than nine people were in it, and a bench until two and a counter until about six had gone before it. Nothing was counted aloud and nothing was put into any book.**
+**Nothing runs on the one day of this week, a bench until two and a counter until about six is the shape of the other nine days and not of this one, and about two hours of that Sunday went into a room off a road that is neither the room above a line nor the four converted units, and fewer than nine people were in it, and no count was said.**
 
 ---
 
@@ -42,13 +42,13 @@ Nobody in that room has said since what the question was. About four people in t
 
 That sheet was not in that room. That book was not in that room. Nobody wrote anything down in that room that evening and nobody has entered a word of that evening into anything at all.
 
-**That room was not taken by anybody for anything on that Sunday, and this page does not say what it was taken for, and nobody in that room has said what anybody came there for.**
+**That room was not taken by anybody for anything on that Sunday, nobody in that room has said what anybody came there for, and this page does not say it either.**
 
 Whether those nine rows had been dealt with was not said out loud in that room on that Sunday, and the other side of it was not said out loud either.
 
 ---
 
-**The man of twenty-two was not in that room on that Sunday and nobody in that city has asked him about that Sunday by anybody.**
+**The man of twenty-two was not in that room on that Sunday, and nobody in that city has asked him about that Sunday.**
 
 He has said since that he was in his own rooms on that Sunday and that he heard about it about a week afterwards from somebody who has not said who, and that he has not been able to get any of it out of that person, and that he has stopped trying.
 
@@ -84,16 +84,16 @@ He put in the rating stamped on that plate and proved the whole way with a load 
 
 ---
 
-**The fourth of those four rooms does not open on the day of this week that this page is about, and this page prints no figure for anything on the shelf at the back of it and does not say what is or is not behind that door.**
+**The fourth of those four rooms does not open on the one day of the week that this page is about, and this page prints no figure for anything standing on the shelf at the back of it.**
 
 ---
 
 *928.
 Sunday of week 312, at two. That is the two hundred and thirtieth day of this stretch of days. That Sunday brought four callers into that shop, the last of them at about half past one.
-**There was no sitting on that Sunday and nothing in this city was counted out loud in a room. About two hours of that Sunday went into a room off a road that is not the room above the line and is not the four converted units, and fewer than nine people were in it. One of the nine came into that room without being asked, and nobody in that room had been told that anybody was coming. What she said there was a question and nobody in that room answered it, and nothing that was said there has been entered anywhere since. forty-two pounds, exact, on that Sunday.**
+**There was no sitting on that Sunday and nothing in this city was counted out loud in a room. About two hours of that Sunday went into a room off a road that is not the room above the line and is not the four converted units, and fewer than nine people were in it. One of the nine came into that room without being asked, and nobody in that room had been told that anybody was coming. What she said there was a question and nobody in that room answered it, and nothing that was said there has been entered anywhere since. Forty-two pounds is what that Sunday came to, exact.**
 
 
-*Conditions and docket.* **four callers on that Sunday. four went on the book for that Sunday, the last at about half past one.
+*Conditions and docket.* **Callers on that Sunday: four. Entered on that day's book: four, the last of them at about half past one.
 Four converted units at the back off that road, a warm one among them: one thousand seven hundred and fourteen days, two hundred and forty-four weeks and six days
 The card in that rail holds the doorway of that first shop open: one thousand seven hundred and eighteen days, two hundred and forty-five weeks and three days
 The twelfth of those nineteen lines, ruled on a board hung up by two nails: one thousand six hundred and thirty-four days, two hundred and thirty-three weeks and three days
@@ -102,7 +102,7 @@ Fourteen lines down that board, and nobody has written against this one: one tho
 Fifteen lines down, ruled under the fourteenth of that board: one thousand five hundred and twenty-nine days, two hundred and eighteen weeks and three days
 Sixteen lines down that board, and nothing has ever been put against it: one thousand five hundred and four days, two hundred and fourteen weeks and six days
 Seventeen lines down, three days under the one above it on that board: one thousand four hundred and eighty-six days, two hundred and twelve weeks and two days
-Eighteen lines down, ruled at the top end where the board is hardest to reach: one thousand four hundred and thirty-two days, two hundred and four weeks and four days
+Eighteen lines down, ruled at the foot end where the board is hardest to reach: one thousand four hundred and thirty-two days, two hundred and four weeks and four days
 Nineteen lines down, and that is the bottom of that board: one thousand four hundred and ten days, two hundred and one weeks and three days
 What the open page in that man's hands is still owed, and has been for years: one thousand four hundred and four days, two hundred weeks and four days
 The hold over nine crates, and under those crates the floor as well: one thousand three hundred and forty-seven days, one hundred and ninety-two weeks and three days
@@ -111,16 +111,16 @@ Nine hand copies of one page's front, and a corner gone off every one of them: o
 That post at the end of the corridor, worn smooth where hands go: one thousand two hundred and sixty-two days, one hundred and eighty weeks and two days
 That one written line in a box off that road, filled in about sixteen months back: one thousand and ninety-four days, one hundred and fifty-six weeks and two days
 That Sunday's four jobs: a freezer put back on its earth, a washer given a way of its own, a gate light earthed to a steel post, a fuse put into an empty holder.
-Not put to anybody and given to nobody: nobody in that room asked the one of the nine why she had come on that Sunday, nobody in that room answered the question she asked, and nobody has entered a word of that evening into anything
-Work: four. four, about two hours in a room off a road and one person nobody in that room had been told about. Nothing escalated and nothing handed back.
-The four came to forty-two pounds, exact, and each was priced before it was done.**
+No question put and no answer written down: nobody in that room asked the one of the nine why she had come on that Sunday, nobody in that room answered the question she asked, and nobody has entered a word of that evening into anything
+Work: four, four, about two hours in a room off a road and one person nobody in that room had been told about. Nothing escalated and nothing handed back.
+Charge: forty-two pounds, exact, and each was priced before it was done.**
 
-*Conditions of the close.* **The book in its green binding stood at sixty-nine lines, and it took nothing on that Sunday. The lid of that tin was down and the tin stood at seventy-three all evening. Against that wall, with its back turned on the whole of that room, the ninth chair stood all evening. The fourth of those four rooms does not open on the one day of the week this page is about, and this page does not say what is behind that door and prints no figure for the page in the binder at the back. That room under the building in a first district was dark at about eleven on that Sunday and has not been opened at any point. That register of correct acts that changed nothing has stood at four since that shop opened and stands at four at the shutter, and nobody in this city keeps a figure of it, and no day of this movement added anything to it. That Sunday ended when the shutter came down at about ten..
+*Conditions of the close.* **The book in its green binding stood at sixty-nine lines, and it took nothing on that Sunday. The lid of that tin was down and the tin stood at seventy-three all evening. Against that wall, with its back turned on the whole of that room, the ninth chair stood all evening. That fourth room of those four does not open on the one day of the week this page is about, and nothing is printed here for any page standing on the shelf at the back of it. That room under the building in a first district was dark at about eleven on that Sunday and has not been opened at any point. That register of correct acts that changed nothing has stood at four since that shop opened and stands at four at the shutter, and nobody in this city keeps a figure of it, and no day of this movement added anything to it. That Sunday ended when the shutter came down at about two, and on no other day of this movement does it come down at that hour.**
 
 *What the day did not settle, and the rest of it.* **Ten objects are named in the lines beneath this heading and no sentence of them takes two at once.
 One narrow strip of paper with a single word written on it.
 A board with nineteen ruled lines on it, hung by two nails.
-A shutter down at about ten.
+A shutter down at about two, and not at ten as it is on the other nine days of this movement.
 A rail with two places cut in it and a card standing in one of them.
 That ring binder, standing on a shelf at the back.
 A sheet of four columns with a fifth heading printed over them, and not one mark in it.
@@ -128,7 +128,7 @@ The green binding, and the book in it shut.
 One doorway standing open on a card creased once across the middle.
 Nine hand copies of the front of a single page, all of them damaged at a corner.
 One tin with its lid down, and its lid is down.
-Three things lie outside all ten of those: the form that came back on a bus, the cage down one side of the counter, and the printed sheet somebody pinned to a wall by two drawing pins. that Those four columns and that empty heading are one of the ten named above and are not one more than they are.
+Three things lie outside all ten of those: the form that came back on a bus, the cage down one side of the counter, and the printed sheet somebody pinned to a wall by two drawing pins. Those four columns and that empty heading are one of the ten named above and are not one more than they are.
 The fourth of those four rooms has a shut door and a woman of about thirty behind that door, and this page does not count her and does not describe her and prints no figure for the page in the binder standing on that shelf.
 Over another question stands a dated rule, and what is written behind that one is in public and is disputed, and a person in this city may come at any time and ask for it.
 Nobody said thank you to anybody on that Sunday and nobody forgave anybody, one of the nine came into a room nobody knew she was coming into, and about four people in that room have said since that they would have asked her why and did not.**

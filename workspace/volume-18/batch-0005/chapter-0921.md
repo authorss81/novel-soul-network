@@ -26,9 +26,11 @@ She has said since that she looked at it once and then looked at it again about 
 
 Nobody in that room saw it emptied. Nobody in this city has said who emptied it. Nobody in that room has said one word about it to anybody.
 
-**About four people in that room have said since that they were not looking at it at about seven on that Monday, and that they would not have been looking at it if they had been awake, and that they have not stopped thinking about it since.**
+**About four people in that room have said since that they were not looking at it at about seven on that Monday, and that they had other things to be doing at about seven on a Monday, and that they have not stopped thinking about it since.**
 
-The woman of about forty-three said one thing into a face about it and nobody said anything back to her, and what she said was that something has been done to that space by somebody and that she is not going to sit down and work out who.
+The woman of about forty-three said one thing into somebody's face about it at about seven and nobody said anything back to her.
+
+She said: somebody has been at that space, and I am not going to sit here and work out who.
 
 ---
 
@@ -88,7 +90,7 @@ Its fourteenth: one thousand five hundred and forty-four days, two hundred and t
 Its fifteenth of them: one thousand five hundred and twenty-three days, two hundred and seventeen weeks and four days
 Its sixteenth, and nothing has ever been written against it: one thousand four hundred and ninety-eight days, two hundred and fourteen weeks to the day
 The seventeenth: one thousand four hundred and eighty days, two hundred and eleven weeks and three days
-The eighteenth of that board, ruled at the top where nobody reaches: one thousand four hundred and twenty-six days, two hundred and three weeks and five days
+The eighteenth of that board, ruled at the foot where nobody reaches: one thousand four hundred and twenty-six days, two hundred and three weeks and five days
 The last of the nineteen: one thousand four hundred and four days, two hundred weeks and four days
 What is owed on that open page lying in front of that man: one thousand three hundred and ninety-eight days, one hundred and ninety-nine weeks and five days
 A hold laid over nine crates and over the ground under them: one thousand three hundred and forty-one days, one hundred and ninety-one weeks and four days
@@ -101,7 +103,7 @@ Not asked of anybody and given to nobody: nobody in that room asked the woman of
 Work: nine, nine, one form found empty and one space nobody can account for, nothing escalated, nothing handed back.
 Charge: forty pounds, exact, and each of those four was priced before it was done.**
 
-*Conditions of the close.* **The book in the green binding stood at sixty-nine lines and did not change at any hour of that Monday. The tin standing beside it stood at seventy-three with its lid down, and it was not opened at any part of that Monday. That ninth chair stood with its seat against that wall and its back to that room for every hour of that Monday. The fourth of those four rooms had its door shut at about half past six on that Monday, a woman of about thirty behind it, and a binder on the shelf at the back that did not come out, and this page prints no figure for the page in it. The room under that building in a first district was dark at about eleven on that Monday and is dark at this hour, and it has not been opened. That register of correct acts that changed nothing stood at four when that shop opened and stands at four at the shutter, and nobody in this city keeps a figure of it, and no day of this movement added anything to it. The shutter came down at about ten on that Monday..
+*Conditions of the close.* **The book in the green binding stood at sixty-nine lines and did not change at any hour of that Monday. The tin standing beside it stood at seventy-three with its lid down, and it was not opened at any part of that Monday. That ninth chair stood with its seat against that wall and its back to that room for every hour of that Monday. The fourth of those four rooms had its door shut at about half past six on that Monday, a woman of about thirty behind it, and a binder on the shelf at the back that did not come out, and this page prints no figure for the page in it. The room under that building in a first district was dark at about eleven on that Monday and is dark at this hour, and it has not been opened. That register of correct acts that changed nothing stood at four when that shop opened and stands at four at the shutter, and nobody in this city keeps a figure of it, and no day of this movement added anything to it. The shutter came down at about ten on that Monday.
 
 *What the day did not settle, and the rest of it.* **Ten objects are named in what follows and no sentence brings any two of them together.
 A book in a green binding, shut that evening.
@@ -114,7 +116,7 @@ The shutter, down at about ten.
 A rail with two places cut into it, and one card in it.
 A ring binder standing on a shelf at the back.
 A sheet with four columns on it and a fifth heading over the fourth, empty on all nine rows.
-Three things stand outside all ten of those: the form that came back on a bus, the cage down one side of that counter, and the printed sheet somebody put up by two drawing pins. that Those four columns and that empty fifth heading are one of the ten named above and are not one more than the ten are.
+Three things stand outside all ten of those, and none of them is a new one: the form that came back on a bus, the cage down one side of that counter, and the printed sheet somebody put up by two drawing pins. Those four columns and that empty fifth heading are inside the ten named above and do not make an eleventh.
 Behind a shut door in the fourth of those four rooms is a woman of about thirty, and this page does not count her, does not describe her, and prints no figure for the page in the binder on the shelf behind her.
 A dated rule stands over a question that is not this question, and the records behind it are public and disputed and anybody in this city may come and ask for them.
 Nobody thanked anybody on that Monday and nobody forgave anybody, nobody in that room asked the woman of about forty-three a single question about an empty space, and about four of the nine people in that room have not stopped thinking about it.**

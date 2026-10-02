@@ -80,13 +80,13 @@ He put in the rating on that plate and proved the machine through a full cycle.
 
 ---
 
-**On that Wednesday the fourth of those four rooms was shut by about half past six, a woman of about thirty was behind that door, the binder on the shelf at the back did not come out, and this page prints no figure for anything on that shelf.**
+**On that Wednesday the fourth of those four rooms was shut by about half past six and a woman of about thirty was behind that door, and whatever is standing on the shelf at the back of that room stayed where it was, and nothing is printed here for any page in it.**
 
 ---
 
 *931.
 Wednesday of week 313, at ten. That is the two hundred and thirty-third day of this stretch of days. Eight callers came into that shop on that Wednesday, the last of them at about twenty to five.
-**There was no sitting on that Wednesday, and nothing at all in this city was said aloud as a figure. At about eight o'clock a man of about thirty-three read nine dates down a page in his own handwriting in about nine seconds in front of that room and showed that the fourth of them was earlier than the third and the eighth earlier than the seventh, and nobody had asked him to do it and he had not done it in about four years. Nobody in that room said he was wrong and nobody said the nine dates run in order, and nobody in that room was able to use it. Nobody in that room said that those nine rows had been dealt with and nobody said that they had not. forty-two pounds exactly, on that Wednesday.**
+**There was no sitting on that Wednesday, and nothing at all in this city was said aloud as a figure. At about eight o'clock a man of about thirty-three read nine dates down a page in his own handwriting in about nine seconds in front of that room and showed that the fourth of them was earlier than the third and the eighth earlier than the seventh, and nobody had asked him to do it and he had not done it in about four years. Nobody in that room said he was wrong and nobody said the nine dates run in order, and nobody in that room was able to use it. Nobody in that room said that those nine rows had been dealt with and nobody said that they had not. Forty-two pounds is what that Wednesday came to, exact.**
 
 
 *Conditions and docket.* **That Wednesday at the counter: eight callers. That day's entries: eight, and the last of them at about twenty to five.
@@ -96,9 +96,9 @@ The twelfth line of that board, which is on two nails and has nineteen lines: on
 One below the twelfth, which makes it the thirteenth of that board: one thousand five hundred and eighty-eight days, two hundred and twenty-six weeks and six days
 That board's fourteenth line, ruled and left, and there is nothing on it: one thousand five hundred and fifty-three days, two hundred and twenty-one weeks and six days
 One under the fourteenth on that board, and that is the fifteenth of them: one thousand five hundred and thirty-two days, two hundred and eighteen weeks and six days
-Four lines from the top of that board, and it is the sixteenth of the nineteen: one thousand five hundred and seven days, two hundred and fifteen weeks and two days
-Five lines down on that board, and it is the seventeenth of the nineteen: one thousand four hundred and eighty-nine days, two hundred and twelve weeks and five days
-Near the top of that board, being the eighteenth of the nineteen: one thousand four hundred and thirty-five days, two hundred and five weeks to the day
+Low down on that board, and it is the sixteenth of the nineteen: one thousand five hundred and seven days, two hundred and fifteen weeks and two days
+Under the sixteenth on that board, and it is the seventeenth of the nineteen: one thousand four hundred and eighty-nine days, two hundred and twelve weeks and five days
+Near the foot of that board, being the eighteenth of the nineteen: one thousand four hundred and thirty-five days, two hundred and five weeks to the day
 The last ruled line on that board, which is the nineteenth of the nineteen: one thousand four hundred and thirteen days, two hundred and one weeks and six days
 What that man is owed on the page left open in front of him: one thousand four hundred and seven days, two hundred and one weeks to the day
 Nine crates with a hold across them and across the floor under them: one thousand three hundred and fifty days, one hundred and ninety-two weeks and six days
@@ -107,11 +107,11 @@ Nine hands have each written out the front of that one page and torn a corner of
 A standing post at that corridor's end where the floor has gone thin: one thousand two hundred and sixty-five days, one hundred and eighty weeks and five days
 One line in a box off that road, put there about sixteen months ago and not since: one thousand and ninety-seven days, one hundred and fifty-six weeks and five days
 That Wednesday's four jobs: a socket given a way of its own, an outlet taken off a plant, a bay lamp taken off the gate light, a fuse put to the stamped rating.
-nobody in that room asked the man of about thirty-three what those nine dates meant, nobody in that room said that he was wrong, and nobody in that room could say what anybody should now do differently because of them, and nothing was given to anybody
+Put to nobody and got from nobody: nobody in that room asked the man of about thirty-three what those nine dates meant, nobody in that room said that he was wrong, and nobody in that room could say what anybody should now do differently because of them, and nothing was given to anybody
 The day's work: eight, eight, one page of nine dates read out in about nine seconds and no question taken up, with nothing escalated and nothing handed back.
-That Wednesday came to forty-two pounds, exact, and nothing on it was priced afterwards.**
+Charge: forty-two pounds, exact, and every one of those four jobs was priced before it was done.**
 
-*Conditions of the close.* **The binding in that room is green and the book in it stood at sixty-nine lines on that Wednesday. On the table beside that book there is a tin, and it stood at seventy-three with its lid down. With its back to that room and its seat against that wall, that ninth chair stood at about half past six and at about ten. From about half past six on that Wednesday the door of the fourth of those four rooms was shut, with a woman of about thirty behind it and a binder on the shelf at the back that did not come out, and no figure for the page inside it is printed here. In the room under that building in a first district there was no light at about eleven on that Wednesday and there is no light in it now. The register of correct acts that changed nothing stood at four, stands at four, and no fifth of it has been printed on any of the ten days of this movement; it is a figure in a sentence and not a count. Down came the shutter at about ten on that Wednesday..
+*Conditions of the close.* **The binding in that room is green and the book in it stood at sixty-nine lines on that Wednesday. On the table beside that book there is a tin, and it stood at seventy-three with its lid down. With its back to that room and its seat against that wall, that ninth chair stood at about half past six and at about ten. From about half past six on that Wednesday the door of the fourth of those four rooms was shut, with a woman of about thirty behind it and a binder on the shelf at the back that stayed where it is, and no figure is printed here for the page inside it. In the room under that building in a first district there was no light at about eleven on that Wednesday and there is no light in it now. The register of correct acts that changed nothing stood at four, stands at four, and no fifth of it has been printed on any of the ten days of this movement; it is a figure in a sentence and not a count. Down came the shutter at about ten on that Wednesday.**
 
 *What the day did not settle, and the rest of it.* **This block names ten objects, one in each sentence, and never two in the same sentence.
 A ring binder that stands on a shelf at the back.
@@ -124,7 +124,7 @@ That tin with its lid down.
 A strip of paper with one word on it, cut narrow.
 A board on two nails carrying nineteen ruled lines.
 The shutter, and it went down at about ten.
-Beyond those ten there are three things: the form that came back on a bus, the cage down the side of that counter, and the printed sheet somebody set up by two drawing pins. that Those four columns and that fifth heading over nothing are part of the ten above and not a further object.
+Beyond those ten there are three things: the form that came back on a bus, the cage down the side of that counter, and the printed sheet somebody set up by two drawing pins. Those four columns and that fifth heading over nothing are part of the ten above and not a further object.
 This page says nothing about the woman of about thirty behind the shut door of the fourth of those four rooms: she is not counted here, she is not described here, and no figure is printed for the page in the binder on that shelf.
 There is a dated rule over another question entirely, and what stands behind it is public and disputed, and anybody in this city is free to come and ask for it.
 Nobody was thanked by anybody on that Wednesday and nobody forgave anybody, a man of about thirty-three showed nine dates that do not run in order to about nine people who could not use it, and about four of those people have said since that they understood all of it and not what it was for.**

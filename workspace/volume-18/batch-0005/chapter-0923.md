@@ -16,7 +16,7 @@ Ten names went onto that Wednesday and ten dates went with them, the tenth of th
 
 She said: seventy-two, of which sixty-seven correspond.
 
-She said it once and she did not say it twice and she did not explain it, and a man of about thirty-four said nothing at all, which is what a man in that room has done every fourth Wednesday for about nineteen years.
+She said it once and she did not say it twice and she did not explain it, and a man of about thirty-four said nothing at all, which is what a man in that room has done at every one of those for about nineteen years.
 
 **Nobody in that room said anything for about nine seconds afterwards.**
 
@@ -115,9 +115,9 @@ One written line in a box off that road, filled in some sixteen months back: one
 That Wednesday's four jobs: a basin given a pipe of its own, a floodlight earthed to a building, a machine-room light given a way of its own, a clock earthed to the building.
 Not asked and not given: nobody in that room asked the woman who holds that room why she did not open the book, nobody asked the man of twenty-two what he meant about the fifth column, and nobody in that room said one word about the oldest of those nine dates
 Done that Wednesday: ten, ten, one count given into a room and one hand put flat on a book; nothing escalated, nothing handed back.
-forty-three pounds, exact, and each of those four jobs was priced before it was done.**
+Charge: forty-three pounds, exact, and each of those four jobs was priced before it was done.**
 
-*Conditions of the close.* **Sixty-nine lines stood ruled in that green binding and not one of them was added to on that Wednesday. Seventy-three was the figure on the tin beside it and its lid stayed down the whole of that Wednesday. That ninth chair was set against that wall with its back to everybody and it was set against it again at the shutter. The fourth of those four rooms stood shut from about half past six with a woman of about thirty behind its door and a binder on the shelf at the back of it, and no figure for the page in that binder is printed on this page. The room under that building in a first district stood dark at about eleven on that Wednesday and stands dark at this hour and nobody has opened it. The register of correct acts that changed nothing stood at four and is at four still, and nothing that was said in that room is on it, and no page of this movement has added anything to it or printed a fifth. At about ten on that Wednesday the shutter came down..
+*Conditions of the close.* **Sixty-nine lines stood ruled in that green binding and not one of them was added to on that Wednesday. Seventy-three was the figure on the tin beside it and its lid stayed down the whole of that Wednesday. That ninth chair was set against that wall with its back to everybody and it was set against it again at the shutter. The fourth of those four rooms stood shut from about half past six with a woman of about thirty behind its door and a binder on the shelf at the back of it, and no figure for the page in that binder is printed on this page. The room under that building in a first district stood dark at about eleven on that Wednesday and stands dark at this hour and nobody has opened it. The register of correct acts that changed nothing stood at four and is at four still, and nothing that was said in that room is on it, and no page of this movement has added anything to it or printed a fifth. At about ten on that Wednesday the shutter came down.**
 
 *What the day did not settle, and the rest of it.* **This closing block carries ten objects and every sentence in it below carries exactly one of them.
 Nine hand copies of the front of one page, a corner off every copy.
@@ -130,7 +130,7 @@ The ring binder standing on a shelf at the back of that room.
 One sheet with four columns ruled into it, a fifth heading standing over the fourth and nothing anywhere under it.
 A book with a green binding, shut that evening.
 A card creased once, holding a doorway open.
-Three things are outside all ten of those, and they are the form that came back on a bus, the cage down that counter's side, and the printed sheet somebody put up on a wall by two drawing pins. that Those four columns and that fifth heading over nothing are counted among the ten above and are not a further one of them.
+Three things are outside all ten of those, and they are the form that came back on a bus, the cage down that counter's side, and the printed sheet somebody put up on a wall by two drawing pins. Those four columns and that fifth heading over nothing are counted among the ten above and are not a further one of them.
 A shut door on the fourth of those four rooms has a woman of about thirty behind it, and nothing on this page counts her or describes her or carries a figure for the page in the binder on that shelf.
 A dated rule stands over this question and not over that one, and what stands behind it is in public and is argued over, and any person in this city may come and ask to see it.
 Nobody in this city thanked anybody on that Wednesday and nobody forgave anybody, a book was put flat by a hand and not opened, a count was said once, and about four people in that room would have asked a man of twenty-two a question about a column and did not.**
