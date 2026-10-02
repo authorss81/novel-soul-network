@@ -30,14 +30,14 @@ Nobody in that room has said that the nine rows have been dealt with. Nobody in 
 
 ---
 
-**On the reverse of that form there is an objection printed, in the same four-line shape as the sheet above it, and nothing has been written against it and nothing has been written under it.**
+**On the reverse of that form there is an objection printed in four lines, of which the first three are the same three that stand at the top of the front of it, and the fourth is the reverse's own, and nothing has been written against it and nothing has been written under it.**
 
 **Nobody was asked about this date.**
 **This date is not an agreement.**
 **No person on this form was asked anything.**
 **Nine people cannot be given one day and be nine.**
 
-That fourth line was added after the third and before that form was carried out of that room, and nobody in this city has said who added it.
+That last line belongs to the reverse and is not the fourth line that stands on the front of that sheet, which is a different line and says that nothing on the reverse has been answered. It was added after the three above it and before that form was carried out of that room, and nobody in this city has said who added it.
 
 Nobody has written anything against it. Nobody in that room has asked whether anything is going to be.
 
@@ -67,7 +67,7 @@ A socket in a laundry had been put in on the lighting because there was nothing 
 
 She took that socket onto a supply of its own and proved it with the lights off.
 
-"**Twelve pounds,**" he said. "**A machine socket on the lighting is a machine that only runs in daylight. About four of those sockets in that room are on a lighting way, and one of them has been a wash that cannot be done after dark for about four years.**"
+"**Twelve pounds,**" she said. "**A machine socket on the lighting is a machine that only runs in daylight. About four of those sockets in that room are on a lighting way, and one of them has been a wash that cannot be done after dark for about four years.**"
 
 A floodlight in a yard had been put in with its earth taken off the conduit at a point that had been disturbed by a drain and left with nothing to bite on.
 
@@ -79,13 +79,13 @@ An extractor in a workshop had been put in on a supply that came off a welder's 
 
 She gave it a way of its own and ran it through a cycle with the welder going.
 
-"**Nine pounds,**" he said. "**An extract on a welder's supply stops when the welding stops. About four of those extractors in that workshop are supplied that way, and one of them has been a bench with the fumes standing on it for about four years.**"
+"**Nine pounds,**" she said. "**An extract on a welder's supply stops when the welding stops. About four of those extractors in that workshop are supplied that way, and one of them has been a bench with the fumes standing on it for about four years.**"
 
 A switch in a passage had been put in a plastic enclosure on the wall with the conduit entering it directly, so that the cable was pinched where it went in.
 
 She fitted a proper gland and proved the enclosure with the plate off.
 
-"**Nine pounds,**" he said. "**Conduit straight into a box with no gland pinches the cable. About four of those boxes in that passage were done that way, and one of them has been a switch that has worked loose for about four years.**"
+"**Nine pounds,**" she said. "**Conduit straight into a box with no gland pinches the cable. About four of those boxes in that passage were done that way, and one of them has been a switch that has worked loose for about four years.**"
 
 **Forty-two pounds is what those four came to on that Wednesday, exact.**
 

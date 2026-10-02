@@ -76,7 +76,7 @@ A light in a porch had been put in off the front door circuit, so that the porch
 
 She gave that porch light its own supply and proved it with the door circuit on and off.
 
-"**Eight pounds,**" he said. "**A porch light on the door circuit is a porch that is dark when somebody is on the step. About four of those porches in that row are on the door circuit, and one of them has been a door nobody could see from the path for about four years.**"
+"**Eight pounds,**" she said. "**A porch light on the door circuit is a porch that is dark when somebody is on the step. About four of those porches in that row are on the door circuit, and one of them has been a door nobody could see from the path for about four years.**"
 
 **Forty pounds is what those four came to on that Wednesday, exact.**
 

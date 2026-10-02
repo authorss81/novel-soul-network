@@ -1,4 +1,4 @@
-# Chapter 933 — The Friday That Ended That Week, A Bench Until Two And A Counter Until About Six Before It, And Then A Man Of About Thirty-Three Who Was Not Entitled To Measure Anything Putting A Thumb On A Space In A Form And Being Right About It, And An Empty Place Behind A Chair Named Once And Counted By Nobody, And Forty-Three Pounds For Four Jobs
+# Chapter 933 — The Friday That Ended That Week, A Bench Until Two And A Counter Until About Six Before It, And Then A Man Of About Thirty-Three Who Was Not Entitled To Measure Anything Putting A Thumb On A Space In A Form And Nobody In That Room Contradicted Him, And An Empty Place Behind A Chair Named Once And Counted By Nobody, And Forty-Three Pounds For Four Jobs
 
 **Nothing was entered on that Friday, and that Friday was a bench until two and a counter until about six and then the ordinary end of a week in one room, where about nine people stood about a table and a man who had no standing to measure anything was allowed to put a thumb on a space in a form.**
 
@@ -72,7 +72,7 @@ A socket in a corridor had been put in on a ring that two other sockets were als
 
 She took it off that ring and gave it a spur and proved the corridor end with the ring loaded.
 
-"**Nine pounds,**" he said. "**Three sockets on one ring is three sockets that go out together. About four of those ends in that corridor are wired like that, and one of them has been a corridor where a cleaner could not tell which end had gone for about four years.**"
+"**Nine pounds,**" she said. "**Three sockets on one ring is three sockets that go out together. About four of those ends in that corridor are wired like that, and one of them has been a corridor where a cleaner could not tell which end had gone for about four years.**"
 
 **Forty-three pounds is what those four came to on that Friday, exact.**
 
@@ -119,7 +119,7 @@ A doorway standing open on a card creased once across the middle of it.
 A narrow strip of paper with one word on it.
 A board of nineteen ruled lines up on two nails.
 Nine hand copies of the front of one page, every one of them torn at a corner.
-The tin beside that book, its lid down.
+The tin standing where it stands, its lid down.
 That shutter, which came down at about ten.
 One sheet of four columns with a fifth heading printed over the fourth, nothing in it on any row.
 Outside those ten stand three more, named only to say where they are not: a form that came back on a bus, that cage down one side of that counter, and the printed sheet up by two drawing pins. Those four columns and that empty fifth heading are counted in the ten above and are not added to them.

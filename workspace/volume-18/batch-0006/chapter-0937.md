@@ -109,7 +109,7 @@ Charge: forty-two pounds, exact, on those four jobs, each priced before any of i
 
 *What the day did not settle, and the rest of it.* **Ten objects are named below, one apiece, and no sentence in this block takes two of them together.
 A card creased once, holding a doorway open.
-That tin, lid down, standing beside that book.
+That tin, with its lid down, standing on that shelf.
 Nine hand copies of the front of one page, a corner off every copy.
 A strip of paper cut narrow, with one word on it.
 A green-bound book, shut.

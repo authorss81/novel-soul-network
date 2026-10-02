@@ -1,4 +1,4 @@
-# Chapter 935 — The Tuesday Of That Same Week, A Bench Until Two And A Counter Until About Six Before It, And Then A Printed Form Going Up On A Wall In A Passage About Nine People Pass Every Day Carrying At Its Top The Reason It Exists In Four Short Lines, And About Nine Of Those People Reading It Before They Ever Reach The Room, And Forty-Four Pounds For Four Jobs
+# Chapter 935 — The Tuesday Of That Same Week, A Bench Until Two And A Counter Until About Six Before It, And Then A Printed Form Going Up On A Wall In A Passage About Nine People Pass Every Day Carrying At Its Top The Reason It Exists In Four Lines And Not One More Of Them, And About Nine Of Those People Reading It Before They Ever Reach The Room, And Forty-Four Pounds For Four Jobs
 
 **Up by two drawing pins went a sheet of paper on that Tuesday, in a passage about nine people went past every day of the week, and the day under it was a bench until two and a counter until about six, the same as every other day of that week.**
 

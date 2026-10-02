@@ -108,7 +108,7 @@ Charge: forty pounds, exact, on those four jobs, each one priced before it was b
 *What the day did not settle, and the rest of it.* **Ten things are named below, one apiece, and this page never puts two of them in a sentence together.
 The binder standing on a shelf at the back of a room.
 A board carrying nineteen ruled lines, up on two nails.
-A tin beside a book, lid down.
+A tin on the shelf with its lid down.
 A card creased once, holding a doorway open.
 One sheet of four ruled columns with a fifth heading printed over the fourth of them, empty on all nine rows.
 Nine hand copies of the front of one page, each torn at a corner.

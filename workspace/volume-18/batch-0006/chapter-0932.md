@@ -119,7 +119,7 @@ One sheet divided into four columns, its fifth heading standing over the fourth 
 A strip of paper cut narrow with a word on it in one hand.
 A rail with two slots cut in it, and a card in one of them.
 A board with nineteen ruled lines hanging from two nails.
-A tin with its lid down, standing beside that book.
+A tin with the lid down, on the shelf it has always stood on.
 Outside those ten, and named for that reason: the form that came back on a bus, the cage down one side of that counter, and the printed sheet up by two drawing pins. The fifth heading over nothing is one of the ten and is not counted again.
 Behind the shut door of the fourth of those four rooms there is a woman of about thirty, and nothing here counts her or names her or sets down a figure for what is on the binder shelf.
 Under a dated rule there is a different question, and the records behind that one are public and can be asked for.

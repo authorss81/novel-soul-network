@@ -113,7 +113,7 @@ A narrow strip of paper cut to a width, with one word on it.
 A board carrying nineteen ruled lines, up on two nails.
 A single binder with rings in it, standing on a back shelf.
 A card creased once through the middle, holding a doorway open.
-The tin beside that book, lid down.
+The tin on the shelf, its lid down where it has been.
 Nine hand copies of the front of a page, every one torn at a corner.
 A rail with two places cut in it and one card in one of them.
 One sheet of four columns with a fifth heading printed over the fourth, empty on all nine rows.

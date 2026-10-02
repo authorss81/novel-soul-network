@@ -1,4 +1,4 @@
-# Chapter 938 — The Friday Of That Same Week, A Bench Until Two And A Counter Until About Six Before It, And Then The Objection To One Date For Nine People Said Out Loud On A Face In About Nine Seconds By The One Of The Nine Who Came Into That Room On A Sunday Two Weeks Earlier Without Being Asked, And Nobody Agreeing With It And Nobody Answering It, And Forty-Three Pounds For Four Jobs
+# Chapter 938 — The Friday Of That Same Week, A Bench Until Two And A Counter Until About Six Before It, And Then The Objection To One Date For Nine People Said Out Loud On A Face In About Nine Seconds By The One Of The Nine Who Came Into A Room At The Back Of A Hall On A Sunday Without Being Asked, And Nobody Agreeing With It And Nobody Answering It, And Forty-Three Pounds For Four Jobs
 
 **Nine seconds and a face were the whole of that Friday's business in that room, and before it there had been a bench until two and a counter until about six and about nine callers through a shop door, and afterwards nothing anybody in that room could do.**
 
@@ -10,7 +10,7 @@ Between about seven and about half past nine on that Friday, nine callers came i
 
 ---
 
-**She came in at about half past six on that Friday without having been asked to, the same way she had come into that room on the Sunday two weeks before, and about nine people were there and she went to the one nearest the table.**
+**She came in at about half past six on that Friday without having been asked to, the same way she had come into the room at the back of a hall off a road on that Sunday, and about nine people were there and she went to the one nearest the table.**
 
 "One day. You have written it over nine of us."
 
@@ -60,7 +60,7 @@ A light in a car park had been put in on a spur that came off a lamp column at a
 
 She re-made that earth at the column and proved the light with a meter.
 
-"**Ten pounds,**" he said. "**An earth cut out of a column and not made good puts every light on it on nothing. About four of those columns in that car park have been cut into, and one of them has been a light with no earth behind it for about four years.**"
+"**Ten pounds,**" she said. "**An earth cut out of a column and not made good puts every light on it on nothing. About four of those columns in that car park have been cut into, and one of them has been a light with no earth behind it for about four years.**"
 
 A socket in a passage had been put in on a spur that already carried four outside lights and had been at its limit with them.
 
@@ -117,7 +117,7 @@ One ring binder, standing on a shelf at the back of that room.
 A doorway held open by a card creased once through its middle.
 That tin, lid down, where it has been.
 Three things lie outside those ten and are named here only to place them: a cage down one side of a counter, a printed sheet up by two drawing pins, and a form that came back on a bus. Those four columns and that fifth heading over nothing are among the ten and are not an eleventh.
-Behind the shut door of the fourth of those four rooms there is a woman of about thirty, and nothing here counts her, describes her, or carries the figure of the page in the binder.
+Behind the shut door of that fourth room there is a woman of about thirty, and no part of this block counts her, describes her, or carries the figure of the page in the binder.
 Some other question entirely sits under a dated rule, and what stands behind that one can be seen by anybody.
 On that Friday nobody in this city thanked anybody and nobody forgave anybody, and one of the nine said one sentence into a face and nobody answered it and it has been written down since in a place nobody has read, and it stands.**
 
