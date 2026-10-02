@@ -4,13 +4,13 @@
 
 ---
 
-Nine names went on that Monday's sheet and nine dates went with them, the last taken at about twenty to five. The shutter came down at about ten. The cage in the round-the-side had been going about four times in the fortnight and the van was not needed.
+Nine names went on that Monday's sheet and nine dates went with them, the last one at about twenty to five, and the shutter came down. The cage in the round-the-side had been going about four times in the fortnight and the van was not needed.
 
-**The four converted units off that service road have stood one thousand six hundred and thirty-one days, which is two hundred and thirty-three weeks to the day. The card creased once that holds a doorway open in the rail by that door is four days further on, at one thousand six hundred and thirty-five, or two hundred and thirty-three weeks and four days, and the rail takes two.**
+**The four converted units off that service road have stood one thousand six hundred and thirty-one days, and that is two hundred and thirty-three weeks to the day. The card creased once that holds a doorway open in the rail by that door is four days further on, at one thousand six hundred and thirty-five, or two hundred and thirty-three weeks and four days, and the rail takes two.**
 
-**On the board of two nails the eighteenth of the nineteen ruled lines has been ruled for one thousand three hundred and forty-nine days, a hundred and ninety-two weeks and five days. What is still owed on the open page in front of the man of about fifty-one is one thousand three hundred and twenty-one days, and that man himself is one thousand two hundred and thirty-seven days old in that spot, a hundred and seventy-six weeks and five days.**
+**On the board of two nails the eighteenth of the nineteen ruled lines has been ruled for one thousand three hundred and forty-nine days, one hundred and ninety-two weeks and five days. What is owed on the open page lying in front of the man of about fifty-one is one thousand three hundred and twenty-one days, and that man himself is one thousand two hundred and thirty-seven days old in that spot, one hundred and seventy-six weeks and five days.**
 
-The separation stands at one thousand and eleven days, a hundred and forty-four weeks and three days, in a one-line box about sixteen months old.
+The separation stands at one thousand and eleven days, one hundred and forty-four weeks and three days, in a one-line box about sixteen months old.
 
 ---
 
@@ -106,7 +106,7 @@ She said a gate in that yard had been reported for four years and was still open
 
 ---
 
-**At about half past six the fourth of those four rooms was shut with a woman of about thirty behind the door, and the binder on the shelf at the back of that room has not been out since a week in the spring of a year nobody in this city counts any more.**
+**Behind the shut door of the fourth of those four rooms there was a woman of about thirty at about half past six, and the binder on the shelf at the back of that room has not been out since a week in the spring of a year nobody in this city counts any more.**
 
 **Nobody has put a question to her about that page and nobody ever is going to, and this page does not print how long it has been on that shelf, because the last time this manuscript printed that figure it printed it for the last time.**
 
@@ -142,21 +142,21 @@ The man of about fifty-one against the north wall of that first floor: one thous
 The open page lying open in front of him there: one thousand three hundred and twenty-one days, one hundred and eighty-eight weeks and five days
 The fitting standing at the far end of that corridor: one thousand one hundred and seventy-nine days, one hundred and sixty-eight weeks and three days
 Nine hands' copies of the front of one page, a corner torn off, eight of them not brought through, and no two of the nine side by side: one thousand one hundred and ninety-seven days, one hundred and seventy-one weeks to the day
-One line inside one box in a room off that road, and about sixteen months have gone by since it was filled in: one thousand and eleven days, one hundred and forty-four weeks and three days
+Inside one box in a room off that road is a single line, and about sixteen months have gone by since it was filled in: one thousand and eleven days, one hundred and forty-four weeks and three days
 That yard and that building, four jobs in: a block, a switch, a holder and a stop.
 Not asked and not given: nobody asked the man of twenty-two what was in the fourth column of that sheet and nobody has asked him since, and the fifth column was empty on all nine rows when he read it and was empty on all nine rows when the day ended.
 Work: nine, one decline, nothing escalated, nothing handed back.
 Charge: thirty-one pounds, exact.**
 
-*Conditions of the close.* **The book with a green cover in the first floor above a line in Saltmarket is on sixty-eight lines and the tin beside it is on seventy-three with the lid down, and neither figure has been arrived at by using the other one.
+*Conditions of the close.* **The book with a green cover in the first floor above a line in Saltmarket is on sixty-eight lines and the tin beside it on seventy-three with its lid down, and neither figure has been arrived at by using the other one.
 The ninth chair in that first floor is hard against that wall with its back to the whole of the room. It did not move on that Monday and it does not move on any of the days of this stretch, and no page of this stretch names whoever moves it.
-Behind the woman of about sixty there is a space that has had nothing in it since a week in the spring. Nobody has asked her about it and nobody is going to, and this page does not put a figure on it.
-Under a building in a first district there was nothing burning in that room at about eleven on that Monday and there is nothing burning in it at this hour, and no light has ever been asked for in it by anybody here.
+The woman of about sixty was not in that first floor on that Monday and nobody sent for her, and she is on no body that meets in that room and no minute of that room carries her name.
+Under a building in a first district there was nothing burning in that room at about eleven on that Monday, and at this hour there is nothing burning in it either, and nobody here has ever asked for a light in it.
 The register of correct acts that changed nothing stood at four when that room opened and stands at four now, and nobody in this city counts it, and nothing that happened on that Monday is on it because nothing that happened on that Monday was an act.**
 
-*What the day did not settle, and the rest of it.* **This passage sets down ten objects, and nothing beneath it couples any two of them. The book in a green binding. A doorway held open on a card creased once. Nine hand copies of the front of one page. The tin with its lid down. A strip of paper cut narrow with one word on it. The board on two nails with nineteen ruled lines. The shutter. The rail with two places in it. The ring binder standing on a shelf at the back. A sheet with four columns and a fifth one that nobody has ever filled in.**
+*What the day did not settle, and the rest of it.* **Beneath this are ten objects named, and nothing below couples any two of them. The book in a green binding. A doorway held open on a card creased once. Nine hand copies of the front of one page. The shutter. A strip of paper cut narrow with one word on it. The tin with its lid down. The board on two nails with nineteen ruled lines. The rail with two places in it. The ring binder standing on a shelf at the back. A sheet with four columns and a fifth one that nobody has ever filled in.**
 The form that came back on a bus is not one of those ten, and the cage down one side of that counter has left the ten and joins this paragraph, and the sheet those four columns are on is not an eleventh thing because somebody has looked at it four times. It is no more the board on two nails than it is the printed sheet that went up by two drawing pins.
 A dated rule stands over a matter entirely apart from this page, and whoever wants the records behind it can come and have them.
-A woman of fifty-three is being held on a first floor with a list on the inside of her door and has not answered anything. Nobody in this city has thanked a man of twenty-two for not asking a question and nobody ever is going to.
+On a first floor of a building in this city a woman of fifty-three is being held, and the list of what she has not answered is on the inside of her door. Nobody in this city has thanked a man of twenty-two for not asking a question and nobody ever is going to.
 
 ---

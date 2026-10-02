@@ -4,13 +4,13 @@
 
 ---
 
-Ten names went on that Tuesday's sheet and ten dates with them, the last taken at about twenty to five. The shutter came down at about ten.
+Ten names and ten dates went onto that Tuesday's sheet, and the tenth of them at about twenty to five, and then the shutter came down.
 
 **Those four converted units behind that service road stand at one thousand six hundred and thirty-two days, and the seventeenth of the nineteen lines ruled on the board on two nails has been ruled for one thousand four hundred and four days, which is two hundred weeks and four days.**
 
-**The hold over those nine crates has been on for one thousand two hundred and sixty-five days, a hundred and eighty weeks and five days. The nine hands' copies of the front of one page have been in those nine hands for one thousand one hundred and ninety-eight days, a hundred and seventy-one weeks and one day, and no two of the nine has ever been set one against another.**
+**The hold over those nine crates has been on for one thousand two hundred and sixty-five days, one hundred and eighty weeks and five days. The nine hands' copies of the front of one page have been in those nine hands for one thousand one hundred and ninety-eight days, one hundred and seventy-one weeks and one day, and no two of the nine has ever been set one against another.**
 
-The separation is at one thousand and twelve days, a hundred and forty-four weeks and four days.
+The separation is at one thousand and twelve days, one hundred and forty-four weeks and four days.
 
 ---
 
@@ -20,7 +20,7 @@ They had come because a woman of about nineteen had walked into the middle of th
 
 She said: load means too much, and it also means gone.
 
-She said those nine words into the face of a woman of about forty-three and she did not say them twice, and she said them standing, and she is nineteen and she reads on Fridays.
+She said that into the face of a woman of about forty-three, and she did not say it twice, and she said it standing, and she is nineteen and she reads on Fridays.
 
 **Nobody in that hall said whether she had got it and about four people in that hall have said since that she had got it, and about four have said since that she had said it in the wrong building.**
 
@@ -130,7 +130,7 @@ The hold over nine crates and the floor they stand on: one thousand two hundred 
 The man of about fifty-one with his back to that north wall: one thousand two hundred and thirty-eight days, one hundred and seventy-six weeks and six days
 What is owed on the open page in front of him: one thousand three hundred and twenty-two days, one hundred and eighty-eight weeks and six days
 The fitting standing at that corridor's end: one thousand one hundred and eighty days, one hundred and sixty-eight weeks and four days
-Nine copies of the front of one page in nine hands, a corner torn off, eight never brought through, and not two of them laid beside each other: one thousand one hundred and ninety-eight days, one hundred and seventy-one weeks and one day
+Nine copies of the front of one page, one in each of nine hands, a corner torn off, eight never brought through, and none of the nine laid beside another: one thousand one hundred and ninety-eight days, one hundred and seventy-one weeks and one day
 One line inside one box in that room off the road, filled in about sixteen months back: one thousand and twelve days, one hundred and forty-four weeks and four days
 That yard and that building: a plate cut to fit, a rail made true, a nipple moved, an earth put back on a frame.
 Not asked and not given: nobody asked how a woman of forty-three knew which of two things a word meant on a given row, and nobody has asked her, and the fifth column was empty on all nine rows when she took the sheet back at about a quarter to nine.
@@ -138,14 +138,14 @@ Work: ten, one refusal in about four seconds given to himself, nothing escalated
 Charge: forty-four pounds, exact.**
 
 *Conditions of the close.* **The book with the green cover in that first floor stands at sixty-eight lines and the tin beside it stands at seventy-three with its lid down, and no figure on this page was arrived at by measuring another one.
-That ninth chair is against a wall with its back to every part of that room, and it did not move on that Tuesday and nothing written this stretch names whoever does.
-There is a space behind the woman of about sixty and there has been nothing in it since a week in the spring, and this page puts no number on it and neither does any other page of this stretch.
-A room under a building in a first district stood with nothing burning in it at about eleven on that Tuesday and stands with nothing burning in it at this hour, and no light has ever been asked for in it.
-The register of correct acts that changed nothing stood at four at the beginning of that Tuesday and stands at four at the end, and nobody keeps a figure of it. Nine words said into a face in a hall is not on it and a woman of nineteen is not on it and a refusal given to himself is not on it.**
+That ninth chair stands with its back to every part of that room, and it did not move on that Tuesday, and nothing written this stretch names whoever does.
+A hall in a fourth district is used on Fridays and on no other day of the week, and about nine people were standing in it on a Tuesday for the first time anybody there can remember.
+That room under a building in a first district stood dark at about eleven on that Tuesday and is dark at this hour, and nobody has ever put a light on in it.
+The register of correct acts that changed nothing stood at four at the beginning of that Tuesday and stands at four at the end, and nobody keeps a figure of it. What she said into a face in a hall is not on it and a woman of nineteen is not on it and a refusal given to himself is not on it.**
 
-*What the day did not settle, and the rest of it.* **Ten objects stand named underneath and no sentence after this one brings two of them together. A slip of paper the width of a finger with one word on it and a cut down one side of it. A book in a green cover. A card creased once holding a doorway open. Nine hands' copies of the front of one page. The board on two nails. The shutter. The tin with its lid down. The rail that holds two. The binder on its back shelf. A sheet with four columns and a fifth one nobody has filled in.**
+*What the day did not settle, and the rest of it.* **Underneath are the ten of them, and no sentence after this one brings two of them together. A slip of paper the width of a finger with one word on it and a cut down one side of it. A book in a green cover. A card creased once holding a doorway open. Nine hands' copies of the front of one page. The board on two nails. The shutter. The tin with its lid down. The rail that holds two. The binder on its back shelf. A sheet with four columns and a fifth one nobody has filled in.**
 The cage down one side of that counter is outside all ten of them and stays outside, and the form that came back on a bus is outside all ten of them too, and a hall on a fourth district road is not a room where a person is asked to be quiet. Nobody has put a figure on a page in a ring binder and nobody is going to.
 A dated rule stands over a matter that is not on this page, and whoever wants the papers behind it can come and have them.
-Nobody thanked anybody and nobody forgave anybody on that Tuesday, and a woman of about nineteen said nine words to a woman of about forty-three, and one of them has said since that she answered the other question on purpose and nobody has asked her which one.
+Nobody thanked anybody and nobody forgave anybody on that Tuesday, and a woman of about nineteen said it to a woman of about forty-three, and one of them has said since that she answered the other question on purpose and nobody has asked her which one.
 
 ---

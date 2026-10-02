@@ -1,14 +1,14 @@
 # Chapter 887 — A Tuesday Of The Second Week, A Bench Until Two And A Counter Until About Six, About Nine Metres Of A Corridor Near Civic Spine In Which A Woman Of About Twenty-Four Asked A Man Of Twenty-Two One Question And Got An Answer That Was About The Question, And Twenty-Six Pounds For Four Jobs
 
-**A Tuesday was a bench until two and a counter until about six, and about four minutes of it at about ten to nine was a corridor near Civic Spine with a door at one end of it and a door at the other. One question was asked in that corridor and one answer came back and neither of the two of them said another word that night.**
+**A Tuesday was a bench until two, and then a counter until about six, and four minutes of it at about ten to nine was a corridor near Civic Spine with a door at one end of it and a door at the other. One question was asked in that corridor and one answer came back and neither of the two of them said another word that night.**
 
 ---
 
-Nine names went on that Tuesday's sheet and nine dates with them, the last taken at about twenty to five. The shutter came down at about ten.
+Nine names and as many dates were entered on that Tuesday, the ninth of them at about twenty to five. The shutter came down at about ten.
 
 **The four converted units off that service road stand at one thousand six hundred and thirty-nine days, two hundred and thirty-four weeks and one day. The fifteenth of the nineteen ruled lines is one thousand four hundred and fifty-four days, two hundred and seven weeks and five days.**
 
-**The eighteenth line is one thousand three hundred and fifty-seven days, a hundred and ninety-three weeks and six days, and what is owed on the open page lying open in front of the man of about fifty-one is one thousand three hundred and twenty-nine days, a hundred and eighty-nine weeks and six days. That man himself is one thousand two hundred and forty-five days in that spot, a hundred and seventy-seven weeks and six days. The hold over nine crates has gone on for one thousand two hundred and seventy-two days, a hundred and eighty-one weeks and five days.**
+**The eighteenth line is one thousand three hundred and fifty-seven days, one hundred and ninety-three weeks and six days, and what that open page is still owed comes to one thousand three hundred and twenty-nine days, one hundred and eighty-nine weeks and six days. That man himself is one thousand two hundred and forty-five days in that spot, one hundred and seventy-seven weeks and six days. The hold over nine crates has gone on for one thousand two hundred and seventy-two days, one hundred and eighty-one weeks and five days.**
 
 ---
 
@@ -86,18 +86,18 @@ He cut it off, took the box out far enough, and refitted a sound face.
 
 ---
 
-**By half past six the fourth of those four rooms had been shut with a woman of about thirty behind it, and the binder on the back shelf of that room has not come out on any of the days of this stretch, and no figure for it is printed on this page or on any other page of them.**
+**A woman of about thirty was behind the shut door of the fourth of those four rooms by about half past six, and the ring binder on the back shelf of that room has not come out on any of the days of this stretch, and no figure for it is printed on this page or on any other page of them.**
 
 ---
 
 *890.
-Tuesday of week 302, at ten. That is the one hundred and ninety-second day of this stretch of days. Nine names and nine dates went onto that Tuesday, the last of them at about twenty to five.
+Tuesday of week 302, at ten. That is the one hundred and ninety-second day of this stretch of days. Nine names and nine dates went onto that Tuesday, the ninth of them at about twenty to five.
 **No sitting and no number said anywhere in this city on that Tuesday.
 About four minutes of that evening was a corridor with a door at each end of it and a light over the middle of it that has been out for about four months. A woman of about twenty-four asked a man of twenty-two whether he was going to be the one who ends them. He said he did not know and she said that was an answer about the question and he said yes.
 Then she opened a file on him about a decision of his own, read it in about four minutes, told him she had three questions in it, asked none of them, and did not tell him what was in it. He asked whether she had opened anything else and she said yes. That Tuesday was worth twenty-six pounds, exact.**
 
 *Conditions and docket.* **Callers on that Tuesday: nine. Entered on that day's book: nine, the last of the nine names taken at about twenty to five. About four minutes of that evening went into that corridor; a detector head, a bell, a panel light and a face took the other two hours.
-Those four units off that service road, one of them warm: one thousand six hundred and thirty-nine days, two hundred and thirty-four weeks and one day
+The four converted units off that service road, and one of them is the warm one: one thousand six hundred and thirty-nine days, two hundred and thirty-four weeks and one day
 The card creased once in the rail that takes two: one thousand six hundred and forty-three days, two hundred and thirty-four weeks and five days
 The twelfth of the nineteen ruled lines: one thousand five hundred and fifty-nine days, two hundred and twenty-two weeks and five days
 Its thirteenth line: one thousand five hundred and ten days, two hundred and fifteen weeks and five days
@@ -107,27 +107,27 @@ Its sixteenth line: one thousand four hundred and twenty-nine days, two hundred 
 Its seventeenth line: one thousand four hundred and eleven days, two hundred and one weeks and four days
 Its eighteenth line: one thousand three hundred and fifty-seven days, one hundred and ninety-three weeks and six days
 Its nineteenth line, and it is the last of them: one thousand three hundred and thirty-five days, one hundred and ninety weeks and five days
-The hold over nine crates and the boards they stand on: one thousand two hundred and seventy-two days, one hundred and eighty-one weeks and five days
-The man of about fifty-one against the north wall of that first floor: one thousand two hundred and forty-five days, one hundred and seventy-seven weeks and six days
+A hold has been on there over nine crates and over the boards they stand on: one thousand two hundred and seventy-two days, one hundred and eighty-one weeks and five days
+A man of about fifty-one stands with his back to that north wall: one thousand two hundred and forty-five days, one hundred and seventy-seven weeks and six days
 What is owed on the page open in front of him there: one thousand three hundred and twenty-nine days, one hundred and eighty-nine weeks and six days
 The fitting standing at the end of that corridor: one thousand one hundred and eighty-seven days, one hundred and sixty-nine weeks and four days
 Nine hands' writing of the front of one page, one corner torn off, eight not brought through, not two of the nine brought together: one thousand two hundred and five days, one hundred and seventy-two weeks and one day
-One line inside one box in a room off that road, filled in about sixteen months back: one thousand and nineteen days, one hundred and forty-five weeks and four days
+One line in one box in a room off that road, and about sixteen months have gone by since anybody wrote in it: one thousand and nineteen days, one hundred and forty-five weeks and four days
 That yard and that building, four jobs in: a head back on a base, a bell inside a room, a switch on the neutral, a tester proved it.
 Not asked and not given: she did not tell him what was in that file and he did not ask, and she said yes to a question about anything else and did not say about what, and neither of them has asked the other one about it since.
 Work: nine, one decline, nothing escalated, nothing handed back.
 Charge: twenty-six pounds, exact.**
 
-*Conditions of the close.* **The green-covered book upstairs is on sixty-eight lines and the tin beside it is on seventy-three with its lid down, and neither of those figures came from the other.
-The ninth chair is against a wall with its back to everything done in that room, and it did not move on that Tuesday and nothing written in this stretch of days names whoever moves it.
-The space behind the woman of about sixty has nothing standing in it and this page puts no figure on it and no other page of this stretch does either.
-There is a room under a building in a first district and at about eleven on that Tuesday there was nothing burning in it and there is nothing burning in it at this hour, and no light has ever been asked for in it here.
-The register of correct acts that changed nothing stood at four at the start of that Tuesday and is standing at four at the end of it, and nobody in this city keeps a figure of it. A file opened on a man in a corridor and not closed by him is not on it.**
+*Conditions of the close.* **Upstairs the green-covered book stands on sixty-eight lines and the tin beside it on seventy-three, lid down, and neither of those two figures came out of the other one.
+That ninth chair has its back to the whole of that room, it did not move on that Tuesday, and nothing written in this stretch of days names whoever moves it.
+A light over the middle of about nine metres of that corridor has been out for about four months, and nobody in either of those two buildings has reported it, and this page does not say who should.
+There is a room under a building in a first district and at about eleven on that Tuesday there was nothing burning in it, and at this hour there is nothing burning in it either, and nobody has ever put a light on in it.
+The register of correct acts that changed nothing was at four at the start of that Tuesday and is at four at the end of it, and nobody in this city keeps a figure of it. A file opened on a man in a corridor and not closed by him is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and no sentence below it brings two of them together. The rail with two places in it. A doorway held open by a card creased once. The tin with its lid down. Nine hand copies of the front of one page. A book in a green binding. The board on two nails. The shutter. A strip of paper cut narrow with one word on it. The ring binder standing on a shelf at the back. A sheet with four columns and a fifth one nobody has ever filled in.
-The cage down one side of a counter stands outside all ten and so does the form that came back on a bus and so does the form with four columns and a fifth nobody has filled in. Nine metres of corridor is not an eleventh thing because two people said one question and one answer in it.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and no sentence below it brings two of them together. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. The tin with its lid down. The shutter. A book in a green binding. The binder standing on a shelf at the back, a strip of paper cut narrow with one word on it, and a sheet with four columns under a fifth heading nobody has ever written in.
+The cage down one side of a counter stands outside all ten, and so does the form that came back on a bus. Nine metres of corridor is not an eleventh thing because two people said one question and one answer in it, and a sheet carrying four columns and an empty fifth is one of the ten and not one more.
 A light over the middle of that corridor has been out for about four months and neither of the two people who pass under it has ever reported it and this page does not say who should.
-A dated rule stands over a question that is not this one, and the records behind it are public and disputed and available to anybody who comes and asks.
+A dated rule stands over a question that is not this one, and the records behind it are public and disputed and open to anybody who comes and asks for them.
 Nobody thanked anybody and nobody forgave anybody on that Tuesday. A man of twenty-two was asked whether he was going to be the one who ends them and he did not know, and that is printed, and nobody in this city has said it was the wrong answer and nobody has ever said it was anything else.**
 
 ---

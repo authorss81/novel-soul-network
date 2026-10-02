@@ -4,11 +4,11 @@
 
 ---
 
-Nine names went on that Wednesday's sheet and nine dates with them, the last taken at about twenty to five. The shutter came down at about ten.
+That Wednesday's sheet took nine names and nine dates, the last of the nine at about twenty to five, and then the shutter came down.
 
 **That board on two nails carries nineteen ruled lines and the twentieth has never been opened. The twelfth of the nineteen has been ruled for one thousand five hundred and fifty-three days, two hundred and twenty-one weeks and six days, and the thirteenth for one thousand five hundred and four, two hundred and fourteen weeks and six days.**
 
-**The nineteenth is the last one that anybody has ruled and it stands at one thousand three hundred and twenty-nine days, a hundred and eighty-nine weeks and six days. The hold on those nine crates has gone on for one thousand two hundred and sixty-six days, a hundred and eighty weeks and six days. The fitting at the end of that corridor is one thousand one hundred and eighty-one days old, a hundred and sixty-eight weeks and five days.**
+**The nineteenth is the last one that anybody has ruled and it stands at one thousand three hundred and twenty-nine days, one hundred and eighty-nine weeks and six days. The hold on those nine crates has gone on for one thousand two hundred and sixty-six days, one hundred and eighty weeks and six days. One fitting at the end of that corridor is one thousand one hundred and eighty-one days old, which is one hundred and sixty-eight weeks and five days.**
 
 **And behind the woman of about sixty there is a space that has had nothing standing in it since a week in the spring, and it is five hundred and eleven days, and five hundred and eleven days is seventy-three weeks to the day.**
 
@@ -34,7 +34,7 @@ She said in about nine seconds that she took the word out of the fourth column o
 
 She said: I did not know it came in two kinds.
 
-Those are nine words and she said them and then she stopped, and about nine seconds passed, and nobody in that room said anything in those nine seconds.
+She said that and then she stopped, and about nine seconds passed, and nobody in that room said anything in those nine seconds.
 
 **Nobody in that room said she had to apologise for it and nobody in that room said she had not, and about four people in that room have said since that somebody should have said something and did not.**
 
@@ -44,7 +44,7 @@ She is not on any body in this city. She has no post and no vote and no minute a
 
 ---
 
-**The ninth chair in that first floor is hard against that wall with its back to the whole of the room, and it is about nine inches from the space behind her chair that has had nothing in it since a week in the spring.**
+**That ninth chair is hard against that wall with its back to the whole of the room, and it stands about nine inches from the space behind her chair that has had nothing in it since a week in the spring.**
 
 It did not move on that Wednesday, and it did not move when she said it, and about four people in that room have said since that they looked at it while she was talking and neither of them saw anybody near it.
 
@@ -90,14 +90,14 @@ He took the earth off the conduit and put it on the frame, and proved the fittin
 
 ---
 
-**By half past six the fourth of those four rooms had been shut with a woman of about thirty behind it, and the binder on the shelf at the back of that room was where it had been since a week in the spring and nobody in this city prints how many days that is.**
+**By half past six the fourth of those four rooms had been shut with a woman of about thirty behind it, and the ring binder on that shelf was where it had been since a week in the spring, and nobody in this city prints how many days that is.**
 
 ---
 
 *886.
-Wednesday of week 301, at ten. That is the one hundred and eighty-eighth day of this stretch of days. Nine names and nine dates went onto that Wednesday, the last of them at about twenty to five.
+Wednesday of week 301, at ten. That is the one hundred and eighty-eighth day of this stretch of days. Nine names went onto that Wednesday with nine dates, the ninth of the dates at about twenty to five.
 **THIS WAS NOT A SITTING. No number was said in any room in this city on that Wednesday, and the next Wednesday of every fourth week that carries one is thirteen days ahead of it.
-About nine people were in a first floor above a line in Saltmarket from about half past six. A woman of about sixty told them from the back of the room, in about nine seconds, that she wrote the tick-box, after a week of about seven evenings, out of another form, not knowing that it came in two kinds.
+About nine people were in that first floor above the line from about half past six. A woman of about sixty told them from the back of the room, in about nine seconds, that she wrote the tick-box, after a week of about seven evenings, out of another form, not knowing that it came in two kinds.
 A man of about thirty-three put his hand flat on the fourth column for about nine seconds and said nothing. A man of twenty-two was in the room, was asked nothing, and signed nothing, and said afterwards that he had understood both of the things the word meant and had not known which was which.
 That Wednesday was worth nineteen pounds, exact.**
 
@@ -116,24 +116,24 @@ The hold over nine crates and the boards under them: one thousand two hundred an
 The man of about fifty-one standing with his back to that north wall: one thousand two hundred and thirty-nine days, one hundred and seventy-seven weeks to the day
 The open page lying in front of him there: one thousand three hundred and twenty-three days, one hundred and eighty-nine weeks to the day
 The fitting at the end of that corridor: one thousand one hundred and eighty-one days, one hundred and sixty-eight weeks and five days
-Nine hands' copies of the front of one page, a corner torn, eight not brought through, and not two of them side by side: one thousand one hundred and ninety-nine days, one hundred and seventy-one weeks and two days
+Nine hands' copies of the front of one page, a corner torn, eight of them not brought through, and not two of them side by side: one thousand one hundred and ninety-nine days, one hundred and seventy-one weeks and two days
 One line inside one box in a room off that road, and the filling-in of it was about sixteen months back: one thousand and thirteen days, one hundred and forty-four weeks and five days
 The space behind the chair of the woman of about sixty, which has had nothing standing in it since a week in the spring, and which nobody has asked her about and which this page is the only page of this stretch to put a figure on: five hundred and eleven days, seventy-three weeks to the day
 That yard and that building, four jobs in: a lid clipped on, a tail split, an earth moved off a conduit, a clip put back.
 Not asked and not given: nobody asked the woman of about sixty why she put that word in that box, nobody has asked her since, and nobody in that room said she had to apologise for it and nobody said she had not.
-Work: nine, one refusal in about nine seconds given to a man of about thirty-three in front of nine people, nothing escalated, nothing handed back.
+Work: nine, one refusal of about nine seconds, given to a man of about thirty-three in front of nine people, with nothing escalated and nothing handed back.
 Charge: nineteen pounds, exact.**
 
 *Conditions of the close.* **The book in the green binding upstairs is on sixty-eight lines and the tin beside it is on seventy-three with the lid down, and neither figure came out of the other one.
 That ninth chair is against that wall with its back to everything done in that room. It did not move on that Wednesday and it did not move while she was talking, and this stretch of days names nobody who has ever shifted it.
 Behind that same wall there is a space that has stood empty since a week in the spring and stood empty on that Wednesday, and five hundred and eleven days is the figure this manuscript puts on it once and once only in this stretch.
-Under a building in a first district there was nothing burning in that room at about eleven on that Wednesday and there is nothing burning in it at this hour, and nobody here has ever asked for a light in it.
-The register of correct acts that changed nothing stood at four when that room opened and stands at four now, and nobody in this city keeps a figure of it. A woman of about sixty telling a room something about herself from the back of it is not on it, and neither is a hand put flat on a column for about nine seconds.**
+There was nothing burning in the room under that building in a first district at about eleven on that Wednesday, and there is nothing burning in it at this hour, and nobody here has ever asked for a light in it.
+That register was at four when the room opened and is at four at the end of that Wednesday, and it is a figure in a sentence and not a count anybody keeps. A woman of about sixty telling a room something about herself from the back of it is not on it, and neither is a hand put flat on a column for about nine seconds.**
 
-*What the day did not settle, and the rest of it.* **Ten objects stand named in the passage underneath and nothing below brings any two of them together. The board on two nails with nineteen ruled lines and a twentieth left blank. A doorway held open by a card creased once. Nine hand copies of the front of one page. The tin with its lid down. A strip of paper cut narrow with one word on it. The shutter. The book in a green binding. The rail with two places in it. Four columns and an empty fifth, on a sheet about the size of a folded sheet of writing paper. The ring binder standing on a shelf at the back.
-The binder on that shelf is not one of the ten tonight, and neither is the sheet it stands behind, and the form that came back on a bus is not one of them either. A sheet is not an eleventh thing because nine people have stood on the other side of it. It is no more the board than it is the printed sheet that went up by two drawing pins.
-A space behind a chair with nothing in it for five hundred and eleven days is not on this list and no sentence on this page puts it beside the rail or the binder or the book.
-A woman of fifty-three is being held on a first floor with a list on the inside of her door and has answered nothing in about four years. Nobody thanked anybody in that room on that Wednesday and nobody has thanked the woman who wrote the box since.
-About four people in this city have said since that a woman of about nineteen had got it, and about four have said since that she said it in the wrong building, and those two are not the same statement.**
+*What the day did not settle, and the rest of it.* **Ten objects stand named in the passage underneath and nothing below brings any two of them together. The board on two nails with nineteen ruled lines and a twentieth left blank. The tin with its lid down. A doorway held open by a card creased once. The shutter. Nine hand copies of the front of one page. The rail with two places in it. The book in a green binding. A strip of paper cut narrow with one word on it. Four columns and an empty fifth, on a sheet about the size of a folded sheet of writing paper. The ring binder standing on a shelf at the back.
+The form that came back on a bus is not one of the ten tonight, and the cage down one side of that counter is not one of them either, and a sheet anybody has read four times is not an eleventh. The sheet those four columns are on is the last of the ten. It is no more the board than it is the printed sheet that went up by two drawing pins.
+A space behind a chair with nothing in it for five hundred and eleven days is not on this list, and no sentence on this page sets it beside anything that is.
+In custody on a first floor of a building in this city there is a woman of fifty-three, and what she has not answered is written on the inside of her door, and nobody in this city has been down to read it. Nobody thanked anybody in that room on that Wednesday and nobody has thanked the woman who wrote the box since.
+About four people in this city have said since that the woman who read it out in that hall on the Tuesday had got it, and about four have said since that she said it in the wrong building, and those two are not the same statement.**
 
 ---

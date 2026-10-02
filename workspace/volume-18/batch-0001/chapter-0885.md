@@ -1,14 +1,14 @@
 # Chapter 885 — A Friday, A Bench Until Two And A Counter Until About Six, A Hall In A Fourth District At About Seven Where A Man Of About Fifty-Seven Talked For About Four Minutes About Anything At All And Then Could Not Answer A Question About Himself, And Thirty-Seven Pounds For Four Jobs
 
-**A Friday was a bench until two and a counter until about six, and about an hour and a half of it was in a hall in a fourth district with about nine people in it and a man of about fifty-seven in the middle of the floor. He talked for about four minutes and then a woman asked him a question about himself and he could not answer it.**
+**A Friday was a bench until two, and then a counter until about six, and an hour and a half of it went into a hall in a fourth district with about nine people in it and a man of about fifty-seven in the middle of the floor. He talked for about four minutes and then a woman asked him a question about himself and he could not answer it.**
 
 ---
 
-Nine names went on that Friday's sheet and nine dates with them, the last taken at about twenty to five. The shutter came down at about ten.
+On that Friday nine names and nine dates were written down, the ninth of the dates at about twenty to five. The shutter came down at about ten.
 
-**The seventeenth of the nineteen ruled lines on that board on two nails is one thousand four hundred and seven days old, and that is two hundred and one weeks to the day. The fitting at the end of that corridor is one thousand one hundred and eighty-three days, a hundred and sixty-nine weeks to the day. The separation in its one-line box is one thousand and fifteen days, a hundred and forty-five weeks to the day, and describes nothing.**
+**The seventeenth of the nineteen ruled lines on that board on two nails is one thousand four hundred and seven days old, and that is two hundred and one weeks to the day. At the end of that corridor a fitting has stood for one thousand one hundred and eighty-three days, which is one hundred and sixty-nine weeks to the day. The separation in its one-line box is one thousand and fifteen days, one hundred and forty-five weeks to the day, and describes nothing.**
 
-**The eighteenth line is one thousand three hundred and fifty-three days, a hundred and ninety-three weeks and two days, and what is owed on the open page lying open in front of the man of about fifty-one is one thousand three hundred and twenty-five days, a hundred and eighty-nine weeks and two days. That man himself is one thousand two hundred and forty-one days in that spot, a hundred and seventy-seven weeks and two days.**
+**The eighteenth line is one thousand three hundred and fifty-three days, one hundred and ninety-three weeks and two days, and the figure still owed on that open page is one thousand three hundred and twenty-five days, one hundred and eighty-nine weeks and two days. That man himself is one thousand two hundred and forty-one days in that spot, one hundred and seventy-seven weeks and two days.**
 
 ---
 
@@ -28,7 +28,9 @@ She said: do you still know how to do the thing you came in here to talk about.
 
 She asked it a second time, more slowly, with the same words.
 
-**And he said no, in about nine seconds, into her face, and he did not say it unkindly and he did not apologise for it, and nobody in that hall has said since that he should have.**
+He said: no, and please do not ask me that again.
+
+**He said it in about nine seconds into her face, and he did not say it unkindly and he did not apologise for it, and nobody in that hall has said since that he should have.**
 
 ---
 
@@ -64,7 +66,7 @@ He said afterwards, at about a quarter to nine, that the man of about thirty-thr
 
 ---
 
-**The rest of that Friday was about two hours in a fourth district and four jobs in it.**
+**The remainder of that Friday was a fourth district and about two hours of the day, and four jobs were done in it.**
 
 A swing mirror in a washroom in the same building had been hung on one screw through a plastic boss, so that the whole of it swung when anybody shut the door.
 
@@ -94,12 +96,12 @@ He took the wedge away and adjusted the closer so the door sits on its seal.
 
 ---
 
-**By half past six the fourth of those four rooms had been shut with a woman of about thirty behind it, and the binder on the back shelf of that room has not come out on any of the days of this stretch and no figure for how long it has been there is printed on any page of them.**
+**The fourth of those four rooms was shut at about half past six with a woman of about thirty behind it, and no binder has come off the back shelf of it on any day of this stretch, and no page of them prints a figure for how long it has stood there.**
 
 ---
 
 *888.
-Friday of week 301, at ten. That is the one hundred and ninetieth day of this stretch of days. Nine names and nine dates went onto that Friday, the last of the dates at about twenty to five.
+Friday of week 301, at ten. That is the one hundred and ninetieth day of this stretch of days. Nine names went onto that Friday with nine dates, the ninth name at about twenty to five.
 **No sitting and no number said anywhere in this city on that Friday.
 A man of about fifty-seven talked for about four minutes in a hall in a fourth district about doors, a bus, two men he worked with about nine years ago and a price somebody paid. Nobody interrupted him. A woman of about thirty-one then asked him a question about himself and he carried on for about nine seconds and stopped, and said no in about nine seconds into her face, and did not apologise for it and was not asked to.
 A woman of about thirty-eight asked him what his name was and he answered that in about four seconds. Nobody asked him a third question.
@@ -107,8 +109,8 @@ A woman of about forty-three said nothing at all for eleven minutes and one thin
 
 *Conditions and docket.* **Callers on that Friday: nine. Dated jobs: nine, the ninth name taken at about twenty to five. That hall took an hour and a half of that evening, and a mirror, a batten, a restrictor and a wedge had about two hours of the rest of it.
 Those four converted units off that service road: one thousand six hundred and thirty-five days, two hundred and thirty-three weeks and four days
-The card creased once in the rail that takes two: one thousand six hundred and thirty-nine days, two hundred and thirty-four weeks and one day
-The twelfth of the nineteen ruled lines on the board: one thousand five hundred and fifty-five days, two hundred and twenty-two weeks and one day
+The creased card standing in the two-place rail: one thousand six hundred and thirty-nine days, two hundred and thirty-four weeks and one day
+The twelfth of those nineteen ruled lines, on that board: one thousand five hundred and fifty-five days, two hundred and twenty-two weeks and one day
 Its thirteenth line: one thousand five hundred and six days, two hundred and fifteen weeks and one day
 Its fourteenth line: one thousand four hundred and seventy-one days, two hundred and ten weeks and one day
 Its fifteenth line: one thousand four hundred and fifty days, two hundred and seven weeks and one day
@@ -120,21 +122,21 @@ The hold over nine crates and over what they stand on: one thousand two hundred 
 The man of about fifty-one against that north wall: one thousand two hundred and forty-one days, one hundred and seventy-seven weeks and two days
 The sum owed on the open page lying open in front of him: one thousand three hundred and twenty-five days, one hundred and eighty-nine weeks and two days
 The fitting standing at the end of that corridor: one thousand one hundred and eighty-three days, one hundred and sixty-nine weeks to the day
-Nine hands' writing of the front of one page, a corner torn off, eight of them not brought through, no two of the nine set side by side: one thousand two hundred and one days, one hundred and seventy-one weeks and four days
-One line inside one box in that room off the road, and it was filled in about sixteen months back: one thousand and fifteen days, one hundred and forty-five weeks to the day
+Nine hands' writing of the front of one page, a corner torn, eight never brought through, and the nine are not compared: one thousand two hundred and one days, one hundred and seventy-one weeks and four days
+One line inside one box in that room off the road, filled in about sixteen months back and not touched since: one thousand and fifteen days, one hundred and forty-five weeks to the day
 That washroom and that yard, four jobs in: a mirror fixed on two, an earth path made, a restrictor into masonry, a wedge taken out from under a door.
 Not asked and not given: nobody in that hall asked a man of about fifty-seven a third question, and nobody has asked him since, and nobody has asked the woman of about forty-three why she went over the fourth column twice without stopping on it.
 Work: nine, one refusal in about nine seconds into a face and one unanswered question, nothing escalated, nothing handed back.
 Charge: thirty-seven pounds, exact.**
 
-*Conditions of the close.* **The book in that first floor upstairs stands at sixty-eight lines and the tin beside it at seventy-three, and this page did not get one of those figures out of the other.
+*Conditions of the close.* **The book in that first floor upstairs is on sixty-eight lines and the tin beside it on seventy-three, and this page did not get one of those two figures out of the other.
 The ninth chair in that room is against a wall with its back to everything done in it, and it did not move on that Friday and no page of this stretch names whoever shifts it.
-The space behind the woman of about sixty was empty when that room opened and is empty now, and this page puts no figure on it and neither does any other page of this stretch.
-The room under a building in a first district had nothing burning in it at about eleven on that Friday and has nothing burning in it at this hour, and nobody in this city has ever asked for a light in it.
-The register of correct acts that changed nothing is a figure in a sentence and is not a count. It stood at four and stands at four. A man who cannot answer a question about himself is not on it and a woman who says nothing for eleven minutes is not on it and neither is four minutes of the fastest talk anybody in this city has heard this year.**
+A man who can talk for about four minutes about anything at all in this city cannot answer one question about himself, and that is not written down anywhere but on this page.
+Nothing has been burning in the room under that building in a first district since about eleven on that Friday and nothing is burning in it now, and nobody in this city has ever asked that room for a light.
+The register of correct acts that changed nothing is not a count and this page does not make it one. It stood at four and stands at four. A man who cannot answer a question about himself is not on it and a woman who says nothing for eleven minutes is not on it and neither is four minutes of the fastest talk anybody in this city has heard this year.**
 
-*What the day did not settle, and the rest of it.* **The passage underneath names ten objects and no sentence after it brings any two of them together. Nine hand copies of the front of one page. The board on two nails. A doorway held open on a card creased once. The shutter. The tin with its lid down. A page with four columns and a fifth one that nobody has filled in. The book in a green binding. A strip of paper cut narrow with one word on it. The rail with two places in it. The binder standing on a shelf at the back.
-The cage stays outside all ten of them and so does the form that came back on a bus and so does that page of four columns. A man who talks for four minutes and then stops is not an eleventh thing because eleven people watched.
+*What the day did not settle, and the rest of it.* **The passage underneath names ten objects and no sentence after it brings any two of them together. The board on two nails. Nine hand copies of the front of one page. A doorway held open on a card creased once. The shutter. The tin with its lid down. A page with four columns and a fifth one that nobody has filled in. The book in a green binding. The rail with two places in it. A strip of paper cut narrow with one word on it. The binder standing on a shelf at the back.
+The cage stays outside all ten of them, and so does the form that came back on a bus. A man who talks for four minutes and then stops is not an eleventh thing because eleven people watched, and a page carrying four columns with nothing under its fifth heading is one of the ten and not one more than them.
 A woman of about thirty is behind a shut door in a fourth room and this page does not describe her and does not print how long anything has been on the shelf behind that door.
 A dated rule stands over a matter that has nothing to do with any of this, and the records behind it are public and disputed and available to anybody who comes.
 Nobody thanked anybody on that Friday and nobody forgave anybody. A man of about fifty-seven was asked a question he could not answer and was not asked it twice, and he did not apologise and nobody has ever said that he should have, and nobody has thanked the woman who wrote him down on a kitchen table either.**
