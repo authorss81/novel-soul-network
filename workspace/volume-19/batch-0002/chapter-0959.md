@@ -1,12 +1,12 @@
 # Chapter 959 — The Sunday He Did Not Ask
 
-**A Sunday was a bench until noon and a counter until two, and the shutter came down at two, and Marek walked Talia to the stop and did not ask her the thing he had carried for nine days.**
+**A Sunday was a bench until noon and a counter until two, and the shutter came down at two, and Marek walked Talia to the stop because the bus was late and did not ask her the thing he had carried for nine days.**
 
 ---
 
 Five callers wandered through that shop on that Sunday, the last near half past one, and the shutter dropped at two.
 
-**The four converted units off that service road stood at one thousand seven hundred and seventy days, two hundred and fifty-two weeks and six days. The request in the drawer in a second district was seventeen days old on that Sunday.**
+**The four converted units off that service road stood at one thousand seven hundred and seventy days, two hundred and fifty-two weeks and six days. The request in the drawer in a second district was nineteen days old on that Sunday.**
 
 ---
 

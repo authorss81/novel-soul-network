@@ -90,7 +90,7 @@ He rewired it and proved the case with the holder out.
 
 An outside light in the yard had been wired with a four amp fuse in a fitting rated for thirteen, so that nothing on it had ever been protected properly.
 
-She put the right fuse in and proved it.
+She put the thirteen-amp fuse in and proved it.
 
 "**Eleven pounds,**" she said. "**Four amps in a thirteen is a fitting that has never been tested. About four of those outside lights in that yard have a fuse like that in them, and one of them has been a light that nobody has been able to trust for about four years.**"
 
@@ -104,7 +104,7 @@ He fitted a cover, sealed it and proved it with the plate off.
 
 ---
 
-**That Thursday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Thursday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and this page sets no figure against what is inside it.**
 
 ---
 
@@ -135,7 +135,7 @@ Work: nine, one thing wanted off a wall and not got, nothing escalated, nothing 
 Charge: thirty-five pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two this page prints no figure for either of them and has not made one out of the other.
-That ninth chair has its back to the whole of that room and it did not move on that Thursday, and nothing in this stretch of days puts a name to whoever has been moving it. The empty place behind that chair was not named on that Thursday and and no figure for it is printed anywhere in this movement.
+That ninth chair has its back to the whole of that room and it did not move on that Thursday, and nothing in this stretch of days puts a name to whoever has been moving it. The empty place behind that chair was not named on that Thursday and no figure for it is printed anywhere in this movement.
 There is a room under a building in a first district and at about eleven on that Thursday there was nothing burning in it, and nothing is burning in it at this hour either, and nobody has ever been in that room with a lamp.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Thursday and the end of it, and no person in this city has ever entered it in a book. A notice left up on a wall against the wish of the room that made it is not on it.**
 

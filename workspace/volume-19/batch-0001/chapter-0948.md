@@ -120,7 +120,7 @@ She found the spur, cut it out and proved the board full and empty.
 
 ---
 
-**That Tuesday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Tuesday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and this page puts no figure to the page inside it.**
 
 ---
 
@@ -151,7 +151,7 @@ Work: nine, one request signed and one name crossed off it, nothing escalated, n
 Charge: thirty-nine pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two no figure for either of those two is printed here and none was arrived at from the other.
-That ninth chair has its back to the whole of that room and it did not move on that Tuesday, and the moving of it is unattributed in every page of this stretch of days. The empty place behind that chair was not named on that Tuesday and and this movement gives it no figure on any of its pages.
+That ninth chair has its back to the whole of that room and it did not move on that Tuesday, and the moving of it is unattributed in every page of this stretch of days. The empty place behind that chair was not named on that Tuesday and this movement gives it no figure on any of its pages.
 There is a room under a building in a first district and at about eleven on that Tuesday there was nothing burning in it, and nothing is burning in it at this hour either, and no lamp in that building has ever been turned on in it.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Tuesday and the end of it, and it is not on any list that anybody keeps in this city. A name put on a request about nine people who cannot be named is not on it.**
 

@@ -132,7 +132,7 @@ He cleared it, put the lid on, sealed it and proved the box with the lid off.
 
 ---
 
-**That Thursday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Thursday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and no figure for the page inside it appears on this page.**
 
 ---
 
@@ -163,7 +163,7 @@ Work: nine, one page accepted by a person who is not the requester, nothing esca
 Charge: thirty-four pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and neither of those two figures is printed on this page in any form.
-That ninth chair has its back to the whole of that room and it did not move on that Thursday, and no page of this stretch of days says who last moved it. The empty place behind that chair was not named on that Thursday and and it is printed without a figure on every page of this movement.
+That ninth chair has its back to the whole of that room and it did not move on that Thursday, and no page of this stretch of days says who last moved it. The empty place behind that chair was not named on that Thursday and it is printed without a figure on every page of this movement.
 There is a room under a building in a first district and at about eleven on that Thursday there was nothing burning in it, and nothing is burning in it at this hour either, and it is unlit and has been since it was made.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Thursday and the end of it, and it stays at four without anybody doing anything about it. A page agreed to be read by somebody who is not the man who asked for it is not on it.**
 

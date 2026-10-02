@@ -6,7 +6,7 @@
 
 Nine callers filed through that shop on that Friday, the last at twenty past nine, and the shutter clicked down at ten.
 
-**The four converted units off that service road stood at one thousand seven hundred and sixty-eight days, two hundred and fifty-two weeks and four days. The request in the drawer in a second district was fifteen days old on that Friday.**
+**The four converted units off that service road stood at one thousand seven hundred and sixty-eight days, two hundred and fifty-two weeks and four days. The request in the drawer in a second district was seventeen days old on that Friday.**
 
 ---
 

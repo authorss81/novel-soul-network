@@ -122,7 +122,7 @@ She put a single pole on and proved both halves.
 
 ---
 
-**That Monday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Monday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and the page inside it is carried without a figure on this page.**
 
 ---
 
@@ -153,7 +153,7 @@ Work: nine, one offer made and refused four times over, nothing escalated, nothi
 Charge: forty-eight pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and this page prints neither of those two numbers and does not set one beside the other.
-That ninth chair has its back to the whole of that room and it did not move on that Monday, and nobody in this stretch of days has written down who moves it. The empty place behind that chair was not named on that Monday and and no page here prints any figure at all for it.
+That ninth chair has its back to the whole of that room and it did not move on that Monday, and nobody in this stretch of days has written down who moves it. The empty place behind that chair was not named on that Monday and no page here prints any figure at all for it.
 There is a room under a building in a first district and at about eleven on that Monday there was nothing burning in it, and nothing is burning in it at this hour either, and nothing has been burning in there since it was made.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Monday and the end of it, and nobody in this city has been asked to hold the number. An offer made and refused is not on it and a column not printed is not on it.**
 

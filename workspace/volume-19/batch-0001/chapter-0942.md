@@ -18,7 +18,7 @@ He said: somebody put a pen to it and nine people went in as nine.
 
 He said: that was in a room in a second district and the room is a landlord and a filing system and it is still there.
 
-**Nobody in that room said anything for about nine seconds and then the woman of about forty-three asked him one question and it was the right one and she asked it flat and without any weight on it at all.**
+**Nobody in that room said anything for about nine seconds and then the woman of about forty-three asked him one question and it was the one worth asking and she asked it flat and without any weight on it at all.**
 
 She said: by whom.
 
@@ -98,7 +98,7 @@ He cut it back to sound flex, fitted a proper gland and proved the lamp.
 
 ---
 
-**That Tuesday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Tuesday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and no figure for the page inside it is printed on this page.**
 
 ---
 
@@ -129,7 +129,7 @@ Work: nine, one refusal that was not a refusal, nothing escalated, nothing hande
 Charge: thirty-nine pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and this page does not set one of those two against the other and prints neither.
-That ninth chair has its back to the whole of that room and it did not move on that Tuesday, and no page of this stretch of days says who moves it. The empty place behind that chair was not named on that Tuesday and and no page of this movement puts a figure on it.
+That ninth chair has its back to the whole of that room and it did not move on that Tuesday, and no page of this stretch of days says who moves it. The empty place behind that chair was not named on that Tuesday and no page of this movement puts a figure on it.
 There is a room under a building in a first district and at about eleven on that Tuesday there was nothing burning in it, and nothing is burning in it at this hour either, and not one person has ever switched a light on in there.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Tuesday and the end of it, and nobody in this city keeps a count of them. A room that will not show the same file twice is not on it.**
 

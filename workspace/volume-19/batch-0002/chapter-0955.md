@@ -6,7 +6,7 @@
 
 Eight callers drifted through that shop on that Saturday, the last at half past nine, and the shutter came down at ten.
 
-**The four converted units off that service road stood at one thousand seven hundred and sixty-two days, two hundred and fifty-one weeks and five days. The printed form on a wall in a fourth district was twenty-nine days old and had not moved.**
+**The four converted units off that service road stood at one thousand seven hundred and sixty-two days, two hundred and fifty-one weeks and five days. The printed form on a wall in a fourth district was thirty-two days old and had not moved.**
 
 ---
 
@@ -30,7 +30,7 @@ He said: the clinic's. Nine years I have kept that wall clear for one sheet at a
 
 She said: and this sheet has had its month.
 
-He said: it has had twenty-nine days. A sheet gets its season.
+He said: it has had thirty-two days. A sheet gets its season.
 
 ---
 

@@ -104,7 +104,7 @@ He made a cover, fitted it, sealed it and proved the box with the lid off.
 
 ---
 
-**That Saturday the fourth of those four rooms was shut at twenty-five past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Saturday the fourth of those four rooms was shut at twenty-five past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and what is inside it is given no figure on this page.**
 
 ---
 
@@ -135,7 +135,7 @@ Work: seven, one name given out loud and not written, nothing escalated, nothing
 Charge: thirty-two pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and there is no number here for either of those two and there was none to take.
-That ninth chair has its back to the whole of that room and it did not move on that Saturday, and no hand in this stretch of days has signed for the moving of it. The empty place behind that chair was not named on that Saturday and and this movement prints no figure for it anywhere on its own pages.
+That ninth chair has its back to the whole of that room and it did not move on that Saturday, and no hand in this stretch of days has signed for the moving of it. The empty place behind that chair was not named on that Saturday and this movement prints no figure for it anywhere on its own pages.
 There is a room under a building in a first district and at about eleven on that Saturday there was nothing burning in it, and nothing is burning in it at this hour either, and it has stood dark on every night of this stretch of days.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Saturday and the end of it, and it stands where it has stood for about four years. A name given out loud in a room and not written down is not on it.**
 

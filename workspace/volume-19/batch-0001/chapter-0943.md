@@ -112,7 +112,7 @@ She gave the till a way of its own and proved both.
 
 ---
 
-**That Wednesday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Wednesday the fourth of those four rooms was shut at half past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and the page inside it is given no figure at all on this page.**
 
 ---
 
@@ -137,13 +137,13 @@ The man of about fifty-one, unmoved from that north wall: one thousand three hun
 Nine copies of the front of one page, each of them torn at a corner: one thousand three hundred and eleven days, one hundred and eighty-seven weeks and two days
 The post at the far end of that corridor, its face worn halfway up: one thousand two hundred and ninety-three days, one hundred and eighty-four weeks and five days
 One written line written inside that box off that road: one thousand one hundred and twenty-five days, one hundred and sixty weeks and five days
-That shop and that flat over it, four jobs in: a landing socket onto a way of its own, a taped flex cut back to sound, a switch to the right side of a door, a till off the freezer.
+That shop and that flat over it, four jobs in: a landing socket onto a way of its own, a taped flex cut back to sound, a switch on the door side of a door frame, a till off the freezer.
 Not asked and not given: she was not asked to use that office, and he did not ask her twice, and nobody has said since whether that was a decision or an accident.
 Work: nine, one question answered before it was finished, nothing escalated, nothing handed back.
 Charge: thirty-seven pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two no figure for either of those two appears on this page and neither was taken from the other.
-That ninth chair has its back to the whole of that room and it did not move on that Wednesday, and this stretch of days does not name the person who moves it anywhere. The empty place behind that chair was not named on that Wednesday and and not one page of this movement prints a figure for it.
+That ninth chair has its back to the whole of that room and it did not move on that Wednesday, and this stretch of days does not name the person who moves it anywhere. The empty place behind that chair was not named on that Wednesday and not one page of this movement prints a figure for it.
 There is a room under a building in a first district and at about eleven on that Wednesday there was nothing burning in it, and nothing is burning in it at this hour either, and it has never once been lit.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Wednesday and the end of it, and it is a thing said in a sentence and not a number anybody keeps. A question put to a person who could not answer it without an office is not on it.**
 

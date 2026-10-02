@@ -6,7 +6,7 @@
 
 Nine callers came and went through that shop on that Tuesday, the ninth near twenty-five past nine, and the shutter came to at ten.
 
-**The four converted units off that service road stood at one thousand seven hundred and seventy-two days, two hundred and fifty-three weeks and one day. The request in the drawer in a second district was nineteen days old on that Tuesday.**
+**The four converted units off that service road stood at one thousand seven hundred and seventy-two days, two hundred and fifty-three weeks and one day. The request in the drawer in a second district was twenty-one days old on that Tuesday.**
 
 ---
 
@@ -121,7 +121,7 @@ The twelfth of nineteen ruled lines on that board up on two nails: one thousand 
 The thirteenth of those lines, ruled under the twelfth and blank: one thousand six hundred and forty-three days, two hundred and thirty-four weeks and five days
 The fourteenth of that board, ruled below the thirteenth, blank: one thousand six hundred and eight days, two hundred and twenty-nine weeks and five days
 The fifteenth of that board, low among the nineteen: one thousand five hundred and eighty-seven days, two hundred and twenty-six weeks and five days
-The sixteenth of those lines, never once written on: one thousand five hundred and fifty-six days, two hundred and twenty-two weeks and four days
+The sixteenth of those lines, never once written on: one thousand five hundred and sixty-two days, two hundred and twenty-three weeks and one day
 The seventeenth of the nineteen, standing under the sixteenth: one thousand five hundred and forty-four days, two hundred and twenty weeks and four days
 The eighteenth of that board, second up from its foot: one thousand four hundred and ninety days, two hundred and twelve weeks and six days
 The nineteenth and last ruled line on that board: one thousand four hundred and sixty-eight days, two hundred and nine weeks and five days

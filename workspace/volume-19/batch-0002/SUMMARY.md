@@ -12,24 +12,30 @@
 
 ## 2. THE FIGURES, EVERY ONE AT ITS PRINTED BOUNDARY
 
-**BOUNDARY, PRINTED ONCE AND USED THROUGHOUT: the tokeniser is `[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*`, the H1 line is removed, and the characters `*`, `` ` `` and `|` are removed. A hyphenated compound is one token. The tokeniser does not admit a colon, so a twenty-four-hour clock time counts as two tokens, and no page of this movement prints one. Body scope runs to the standalone load-book marker and apparatus scope runs from that marker to end of file; the two are disjoint and their sum is the whole file.**
+**BOUNDARY, PRINTED ONCE AND USED THROUGHOUT: the tokeniser is `[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*`, the H1 line is removed, and the characters `*`, `` ` `` and `|` are removed. A hyphenated compound is one token. The tokeniser does not admit a colon, so a twenty-four-hour clock time counts as two tokens, and no page of this movement prints one. Body scope runs to the standalone load-book marker and apparatus scope runs from that marker to end of file; the two are disjoint and their sum is the whole file. The marker line itself is one token and it belongs to apparatus, because apparatus is said to begin *at* that marker and not after it.**
+
+**AND THIS FILE PUBLISHED A FIGURE THAT ITS OWN BOUNDARY DOES NOT PRODUCE, AND THE FIGURE WAS ON EVERY ONE OF THE TEN ROWS, AND IT SUMMED CORRECTLY WHILE BEING WRONG.** The first printing of this table counted neither scope across the marker line, and the marker line is one token, so apparatus was understated by exactly one on each of the ten files and whole by exactly one on each of the ten. **The first printing was 9,838 body and 10,994 apparatus and 20,832 whole, and 9,838 + 10,994 = 20,832, so its columns summed and its total was still twenty tokens short of the instrument's. A table that adds its own columns up cannot catch an error that is in both columns at once, and this one did not, and the only reason it was caught is that a later pass re-derived it at the boundary printed above rather than trusting it.** Body 9,838, apparatus 11,004 and whole 20,852 are the figures at that boundary, and they are the figures in the table below. **`workspace/volume-19/batch-0001/SUMMARY.md` §2 was measured at the same wrong boundary and against staler files still, and it is corrected in the same pass.**
 
 | Chapter | Body | Apparatus | Whole |
 | --- | --- | --- | --- |
-| 951 | 1201 | 1104 | 2305 |
-| 952 | 1012 | 1073 | 2085 |
-| 953 | 944 | 1083 | 2027 |
-| 954 | 1039 | 1082 | 2121 |
-| 955 | 988 | 1047 | 2035 |
-| 956 | 907 | 1079 | 1986 |
-| 957 | 949 | 1065 | 2014 |
-| 958 | 923 | 1072 | 1995 |
-| 959 | 847 | 1064 | 1911 |
-| 960 | 1028 | 1325 | 2353 |
+| 951 | 1201 | 1105 | 2306 |
+| 952 | 1012 | 1074 | 2086 |
+| 953 | 944 | 1084 | 2028 |
+| 954 | 1039 | 1083 | 2122 |
+| 955 | 988 | 1048 | 2036 |
+| 956 | 907 | 1080 | 1987 |
+| 957 | 954 | 1066 | 2020 |
+| 958 | 923 | 1073 | 1996 |
+| 959 | 852 | 1065 | 1917 |
+| 960 | 1028 | 1326 | 2354 |
 
-**THE ANCHOR TABLE, ALL SIXTEEN ROWS, ALL TEN CHAPTERS: one hundred and sixty checks and one hundred and sixty reproduced.** Origins at `workspace/volume-19/ARITHMETIC-AND-CALENDAR.md` §2, continuous with Volume 18. All sixteen figures on every file were re-derived as `day − origin` with the weeks renderer at §0.1, and every one reproduces.
+**THE TEN TOTALS ARE 9,838 BODY, 11,004 APPARATUS AND 20,852 WHOLE, AND 9,838 + 11,004 = 20,852 WITH NOTHING IN EITHER TWICE.** Apparatus share 527.719 per thousand of the whole file, which is the 20,852 and not the 20,852 plus the title lines. **Against the first printing, apparatus is ten tokens higher across the ten files, every one of them the marker line, and whole is twenty higher: those ten, plus five words added to Chapter 957's opening paragraph and five to Chapter 959's. No apparatus row was reworded in this pass and no other body figure moved.**
 
-**THE SHORT-RUN ANCHORS.** The printed form on a wall by two drawing pins: origin 2092, twenty-seven days old at Chapter 951 and forty-two days old at Chapter 960, in the apparatus of both. The signed request: origin 2113, six days old at 951 and nineteen days old at 960. The dated slip giving Sera Quill a day nine days from the Monday: stated in words on Chapters 956 and 960 and never as a figure.
+**THE ANCHOR TABLE, ALL SIXTEEN ROWS, ALL TEN CHAPTERS: one hundred and sixty checks and one hundred and sixty reproduced — and one hundred and fifty-nine were reproduced on the first run and this file published one hundred and sixty anyway.** Origins at `workspace/volume-19/ARITHMETIC-AND-CALENDAR.md` §2, continuous with Volume 18. All sixteen figures on every file were re-derived as `day − origin` with the weeks renderer at §0.1. **The one row that did not reproduce was `chapter-0960.md` line 124, the sixteenth of those lines, printed `one thousand five hundred and fifty-six days, two hundred and twenty-two weeks and four days` against a true value at day 2134 of 1,562 days and `two hundred and twenty-three weeks and one day`. It was also self-inconsistent, because two hundred and twenty-two weeks and four days is 1,558 and not 1,556, so the row failed its own sum test before it was compared with the day. The row now reads 1,562 and `two hundred and twenty-three weeks and one day`, and 159 of 160 reproducing is the finding and 160 of 160 is the repair, and this file printed the repair before it made it.**
+
+**THE SHORT-RUN ANCHORS, AND TWO OF THE THREE CLAIMS THE FIRST PRINTING MADE ABOUT THEM WERE FALSE.** The printed form on a wall by two drawing pins has origin 2092 and **is printed on two of the ten files, Chapters 951 and 955, and on both of them in the prose body at line 9 and not in the apparatus of either**; it stands at twenty-seven days old at Chapter 951 and thirty-two days old at Chapter 955. It is not printed at all on Chapter 960, and the figure of forty-two days for that day is a derivation and is given here as a derivation and not as a page figure. The signed request has origin 2113 and is printed on nine of the ten files and **not on Chapter 955**, standing at six days old at 951, nine at 954, thirteen at 956, seventeen at 958 and **twenty-one days old at 960**. The dated slip giving Sera Quill a day nine days from the Monday **is stated in words on Chapter 960 and on no other page of this movement; `chapter-0956.md` contains no occurrence of the word `slip` at all**, and this file's first printing said Chapters 956 and 960.
+
+**AND THE FIGURES ON FIVE OF THOSE PAGES WERE THE FIGURE BELONGING TO AN EARLIER CHAPTER, WHICH IS THE FINDING AND IS THE ONE THAT REACHED A PAGE.** The request was printed two days short on five consecutive files — eleven at 956, thirteen at 957, fifteen at 958, seventeen at 959, nineteen at 960 — each of them the true value of the day before it, and the wall form was printed at twenty-nine days old on Chapter 955 where origin 2092 gives thirty-two. Chapters 951 to 954 were right. **Every one of the six is corrected in place and no other figure on any of the ten files moved: 960 +1 body, 957 +5 body, 959 +5 body, 955 body unchanged, and 160 of 160 anchors reproduce again.**
 
 **THE CHARGES. Forty jobs across ten days, four on each day, each priced before it was begun, and every stated total equals the sum of its own four prices.** 951 thirty-five, 952 thirty-nine, 953 thirty-five, 954 thirty-six, 955 thirty-five, 956 thirty-eight, 957 thirty-three, 958 thirty-four, 959 twenty, 960 thirty-eight. **Three hundred and forty-three pounds is what the ten days came to, exact.**
 
@@ -37,24 +43,32 @@
 
 **THE MEASURE: a run of twelve words or more, taken at the last twelve tokens of every sentence, lowercased, counted once per distinct key, over all forty-five pairs within the ten files. Prose scope and apparatus scope are reported separately.**
 
-| Scope | Volume 19 Movement II, ten files | Volume 18 Movement VI, ten files, run as a control |
+| Scope | Volume 19 Movement II, ten files | Volume 18 Movement VI, ten files, run as a control at the boundary printed above |
 | --- | --- | --- |
-| prose | **0** | **6** |
-| apparatus | **15** | **22** |
+| prose | **0** | **3** |
+| apparatus | **14** | **12** |
 
-**THE PROSE FIGURE IS ZERO AND REPRODUCES AFTER REPAIR. The first run returned three real defects: the caller-and-shutter sentence shared across files in two wordings, and the binder sentence shared across eight files. All were rewritten into ten distinct wordings each — the same repair Movement I made to six template sentences — and the re-run returns zero.** The control stands at six and was not touched. The apparatus figure is fifteen against the control's twenty-two: below the house's own last movement at the same boundary, with the same instrument. The fifteen are the house's own closing formulae restated per file; none is a scene sentence, and none was repaired because repairing them would be repairing the frame and not the page.
+**THE PROSE FIGURE IS ZERO AND REPRODUCES AFTER REPAIR. The first run returned three real defects: the caller-and-shutter sentence shared across files in two wordings, and the binder sentence shared across eight files. All were rewritten into ten distinct wordings each — the same repair Movement I made to six template sentences — and the re-run returns zero.** The apparatus figure is **fourteen** and not the fifteen this file first published: **the re-run returns fourteen at the boundary §3 prints and sixty-four boundary variants were swept and none of them returns fifteen.**
+
+**AND THE CONTROL COLUMN WAS WRONG, AND IT HAD BEEN REPUBLISHED FOUR TIMES.** This file, and `batch-0001/SUMMARY.md` §3 and §8, and `batch-0002/PROMPT.md` §6, and `state/chapter-summaries.md`, all carried *Volume 18 Movement VI's own six and twenty-two* as a control. **Volume 18 Movement VI's own summary publishes zero at all three scopes and both boundaries for the sentence measure and 5 / 14 / 20 at apparatus scope for the prefix measure, and Volume 18's close publishes 44 / 43 / 37 / 42 / 82 / 87 and 108 / 107 / 121 / 402 / 240 / 526 at volume scope. Run at the boundary this file prints, Movement VI's ten files return three at prose scope and twelve at apparatus scope and fifteen at whole-file scope. No variant returns six and twenty-two, and the closest sweep in this pass returns three and twelve, which is what is now printed.** A control that is not in the record of the volume it names is not a control; it is a number that has been carried forward four times and checked zero times. **The fourteen are the house's own closing formulae restated per file; none is a scene sentence, and none was repaired because repairing them would be repairing the frame and not the page.**
+
+**AND AT TWENTY FILES, NOT TEN, THE FIGURE IS NINETEEN AND NOT FOURTEEN.** Volume 19's Chapters 941 to 960 return zero in prose and **nineteen** at apparatus scope, whole-file scope, at the same boundary. **The longest run two files share inside one paragraph is ONE HUNDRED AND EIGHTY WORDS, between Chapters 951 and 956, and it is the house conditions-of-the-close block, which the plan requires on every one of the sixty pages and which differs between two files only in the day word.** Movement I's own ten return a sixty-seven-word run at the ten-objects list, which guardrail twelve also requires on every closing page. **Both are classified as the frame and neither was repaired, and both are published here so that the volume close inherits the numbers instead of discovering them.**
 
 ## 4. `about`, AT BOTH SCOPES
 
-**BOUNDARY: `about` per thousand tokens, whole file, H1 removed, at the tokeniser printed at §2. PFILE is the mean of the ten per-file rates and PPOOL is the concatenated files counted once.**
+**BOUNDARY: `about` per thousand tokens, whole file, H1 removed, at the tokeniser printed at §2. PFILE is the mean of the ten per-file rates and PPOOL is the concatenated files counted once. The two are different quantities and both are printed, because `workspace/continuation/next-0020/GATE.md` §11.1 found a gate file that printed both under one heading and that is the defect. THE FILES AND THE TOKEN COUNT BEHIND EVERY ROW ARE PRINTED, because the first printing of this table gave no denominator at all, and that is the same defect one level down.**
 
-| Volume | PFILE | PPOOL |
-| --- | --- | --- |
-| Volume 18 | 20.97 | 21.01 |
-| Volume 19, Movement I | 14.69 | 14.28 |
-| **Volume 19, Movement II** | **7.28** | **7.29** |
+| Volume, and exactly which files | Tokens in the denominator | PFILE | PPOOL |
+| --- | --- | --- | --- |
+| Volume 18, all sixty chapter files, 881 to 940 | 152,513 | 20.97 | 21.01 |
+| Volume 18, Movement VI's ten files alone, 931 to 940 | 23,902 | 18.27 | 18.28 |
+| Volume 19, Movement I, ten files, 941 to 950 | 27,673 | 16.48 | 16.51 |
+| **Volume 19, Movement II, ten files, 951 to 960** | **20,852** | **7.28** | **7.29** |
+| Volume 19, both movements, twenty files, 941 to 960 | 48,525 | 11.88 | 12.55 |
 
-**BOTH FALL BY ABOUT HALF AND THE FALL REPRODUCES ON BOTH.** No clock time on any of the ten pages uses `about`; all times are named. The remainder sits in the house's own job formula and in the reporting idiom `about four people have said since`, which is the manuscript's uncertainty register and was not touched.
+**THE MOVEMENT II PAIR REPRODUCES AND THE MOVEMENT I PAIR IT WAS MEASURED AGAINST DID NOT, AND THE IMPROVEMENT WAS DOUBLE-COUNTED.** This movement's own pair is 7.28 and 7.29 at the boundary printed above, which is what its first printing said and it is right. **Movement I's pair is 16.48 and 16.51 and not the fourteen and sixty-nine and fourteen and twenty-eight published here and in `batch-0001/SUMMARY.md`. No scope yields the published pair: whole file 16.51, body 23.11, apparatus 8.38. The first printing of this table therefore set a fall against a number no instrument returns, and a later pass told to re-derive at that number would have inherited it.** The real fall from Movement I into Movement II is from sixteen and forty-eight to seven and twenty-eight at file scope and from sixteen and fifty-one to seven and twenty-nine pooled, which is a little over half and not the three tenths the first printing claimed.
+
+**AND ONE PAGE-WIDE CLAIM IN THIS SECTION WAS FALSE WHILE THE PROSE CONVERSION IT DESCRIBES WAS REAL.** No clock time in any prose body on these ten files uses `about`; thirty-two were converted from `about half past X` to named times, that change is on the page, and it stands. **Twenty-nine clock times in the apparatus of these ten files do use `about`, and this file said that none did: eighteen in the load-book preamble's *the last of them at about twenty-five past nine* and its two variants across nine files, and eleven in the conditions-of-the-close block's *at about eleven on that Monday*.** Both are apparatus and neither is prose, and the sentence carrying the claim was about the whole page. The remainder sits in the house's own job formula and in the reporting idiom `about four people have said since`, which is the manuscript's uncertainty register and is a claim about how many witnesses there are and not a hedge.
 
 ## 5. WHAT THE FOUR QUESTIONS RETURNED, AND IT WAS ANSWERED BY READING
 
@@ -62,10 +76,13 @@
 
 **NO PAGE OF THIS MOVEMENT PRINTS THE NINE NAMES IN ANY FORM, IN A BODY OR IN A DOCKET ROW OR IN A CLOSING PASSAGE.** The page is handled, carried, held, shut, promised and pencilled about, and never opened on any page.
 
-## 6. TWO FAULTS IN THIS PASS'S OWN WORK, AND NONE REACHED A PAGE
+## 6. FAULTS IN THIS PASS'S OWN WORK, TWO OF WHICH REACHED A PAGE AND ONE OF WHICH WAS REPORTED AS FIXED AND WAS NOT
 
-1. **Two files used the word `feed`, once as a run somebody watched whiten and once as a sign supply.** Guardrail 5 bans the word in any register and in any negation, and an electrical supply is a register. Both were replaced with `run` and `supply`, and no page was touched beyond the two words.
-2. **Chapter 957's opening bold paragraph stood at thirty-seven words against the canon guardrail's forty to seventy-five.** Three words were added in place — Marek sits beside Talia — and the paragraph now stands inside the band. The addition changes no outcome and prints no figure.
+1. **Two files used the word `feed`, once as a run somebody watched whiten and once as a sign supply.** Guardrail 5 bans the word in any register and in any negation, and an electrical supply is a register. Both were replaced with `run` and `supply`, and no page was touched beyond the two words. **The same class survived in Movement I, on `chapter-0946.md`, where *the way that feeds the sockets* stood; it is now *the way that runs the sockets*, which is the same repair and the same two words, and `feed` is at zero on all twenty of this volume's files so far.**
+2. **Chapter 957's opening bold paragraph stood at thirty-seven words against the canon guardrail's forty to seventy-five.** Three words were added in place — Marek sits beside Talia — and this file then reported the paragraph as inside the band. **It was thirty-nine and not inside it, and it was reported fixed because the number was asserted instead of measured, which is the same failure this file records at §2 and §3 and is now the third instance of it in one document.** The paragraph reads *and Marek sat at the back beside Talia and said nothing for the whole of it while the book shut*, forty-four words.
+3. **Chapter 959's opening stood at thirty-nine words and was never inspected at all, and that is the worse half of item 2.** It now reads *and Marek walked Talia to the stop because the bus was late and did not ask her the thing he had carried for nine days*, forty-four words, and the fact it adds is one the page's own third paragraph already states.
+4. **All ten opening paragraphs are now measured and all ten stand inside the band: 55, 48, 42, 45, 49, 43, 44, 53, 44 and 44.** Neither addition changes an outcome and neither prints a figure that was not already on the page.
+5. **Four attributive uses of the adjective `right` were found on Movement I's pages and three were repaired there.** Guardrail 9 bans the word as an adjective on all sixty pages. *It was the right one* is now *it was the one worth asking*, *She put the right fuse in* is now *She put the thirteen-amp fuse in*, and *a switch to the right side of a door* is now *a switch on the door side of a door frame*. **Fourteen occurrences remain on Movement I's five files under a narrower reading, all of them copular — *he is right about all of that* — or the fixed phrase *all right*, or the compound *right-hand*, and the plan's own outline describes two of this volume's people as correct rather than right, so the reading is published rather than settled and the number is here so that the volume close inherits it.**
 
 ## 7. WHAT WAS NOT DONE, CHECKED RATHER THAN ASSERTED
 
@@ -73,7 +90,7 @@
 
 **AND NO PAGE FOR ANY OF THE FIVE ABSENT PLACED NAMES WAS INVENTED. `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore` and `Lena Senn` are on no page of this movement. `Evan Senn` is at zero on all ten files. The ombud's office was used on him once in this movement, on Chapter 953, about the signed request and not about the nine, and no page counts the uses or says anything about how many there have been.**
 
-**THE PLACE BEHIND THE WOMAN'S CHAIR is named on one file of this movement, Chapter 955, without a figure, and on no other. THE WORD `review` appears on no page of this movement. THE WORDS `fair`, `unfair`, `justice`, `rightful`, `principle` and `right` appear on no page of this movement.**
+**THE PLACE BEHIND THE WOMAN'S CHAIR. This file's first printing said it was *named on one file of this movement, Chapter 955, without a figure, and on no other*, and guardrail 8 says it is printed on one file of each movement and no other. Both halves of that are true about a positive naming and neither is true about a phrase count, and this is the second time this repository has had a hand-on assert that a thing is printed on no page and been found on nine.** The boundary, printed so that it can be re-run: `the empty place behind that chair`, case-insensitive, whole file, all ten of this movement's chapter files. **It stands at ten occurrences on ten of ten files. On Chapter 955 the phrase is *the empty place behind the chair of the woman of about forty-three was spoken of in that passage as the place where she stands when she reads a sheet*, which names it; on the other nine it is inside *The empty place behind that chair was not named on that Monday and a figure for it appears on no page of this movement*, which denies it.** So the guardrail holds as written for the positive sense and does not hold as written for the noun phrase, and **no figure for it is printed on any of the ten pages, which is the half of guardrail 8 that governs and which reproduces: the figure exists at origin 1484 in the calendar file and on no page of this movement.** THE WORD `review` appears on no page of this movement. THE WORDS `fair`, `unfair`, `justice`, `rightful`, `principle` and `right` appear on no page of this movement.
 
 ## 8. THE HAND-ON, TWELVE LINES
 
@@ -88,6 +105,22 @@
 9. **The dated slip gives Sera Quill a day nine days from the Monday. The day is not named on any page.**
 10. **The register stands at four with no fifth printed. The ninth chair did not move on any of the ten days. The binder did not come down. The room under the building in a first district was dark at about eleven on all ten days.**
 11. **The woman's page is `day − 1573` and it governs and it is printed on no page of this movement and in no file this phase wrote.**
-12. **`about` stands at seven and twenty-eight per thousand at file scope and seven and twenty-nine pooled, against Movement I's fourteen and sixty-nine and fourteen and twenty-eight. Prose duplication stands at zero and apparatus at fifteen, against Volume 18 Movement VI's own six and twenty-two at the same boundary. The four arrival cells remain empty and are not approximated.**
+12. **`about` stands at seven and twenty-eight per thousand at file scope and seven and twenty-nine pooled, against Movement I's sixteen and forty-eight and sixteen and fifty-one and against Volume 18's sixty files at twenty and ninety-seven and twenty-one and one. Prose duplication stands at zero and apparatus at fourteen, and the Volume 18 Movement VI control at the same boundary is three and twelve and not six and twenty-two, which is retracted. At twenty files the apparatus figure is nineteen and the `about` figure is eleven and eighty-eight and twelve and fifty-five. The four arrival cells remain empty and are not approximated.**
+
+---
+
+## 9. WHAT THIS REPAIR PASS CHANGED, AND WHAT IT DID NOT TOUCH
+
+**FOURTEEN FINDINGS WERE PUT AGAINST THIS MOVEMENT'S FILES, ITS SUMMARY AND THE FIVE STATE FILES, AND EVERY ONE OF THEM WAS CHECKED AGAINST THE SAVED FILES BEFORE IT WAS ACTED ON. Eleven reached a figure or a claim in this file, four of those reached a page, and none of them reached the plan of record, the day map, the calendar, a load-book entry, a governed counter, a job charge or a docket cell.**
+
+**THE FOUR REPAIRS ON PAGES.** Six short-run interval figures that stood two days short on five consecutive files and three days short on a sixth; one docket row on Chapter 960 that failed both against its day and against its own sum; and two opening paragraphs that stood at thirty-nine words against a floor of forty. **Six chapter files were touched: 955, 956, 957, 958, 959 and 960. No other file of this movement was touched and no scene was rewritten and no line of dialogue changed.**
+
+**THE FOUR REPAIRS IN THIS FILE.** §2's word table and its boundary sentence; §2's anchor-table count and its short-run-anchor paragraph; §3's apparatus figure and its control column; §4's denominators, its Movement I row and its clock-time sentence; §6 item 2, which reported a repair as done that was not; §7's hand-on on the place behind the chair; and §8 item 12.
+
+**THE FIGURES THAT NOW REPRODUCE AND DID NOT BEFORE: the apparatus duplication count, the Volume 18 Movement VI control, Movement I's `about` pair, every apparatus and whole-file word count on all ten rows, the anchor-table count, and the two opening-paragraph word counts.**
+
+**THE FIGURES THAT WERE WRONG, WERE PUBLISHED, AND ARE NOW WRONG ON NOTHING: 159 of 160 anchor rows, where the one was a docket row that failed its own sum before it was compared with the day; a fifteen that is a fourteen; a six and twenty-two that is a three and twelve; a fourteen-sixty-nine that is a sixteen-forty-eight; a twenty thousand eight hundred and thirty-two that is a twenty thousand eight hundred and fifty-two; a word table whose columns summed correctly and whose total was twenty tokens short of the instrument's anyway; and a clock-time claim about ten pages that was true of ten prose bodies and false of ten apparatuses.**
+
+**AND WHAT WAS FOUND HERE THAT WAS NOT PUT AGAINST IT.** Movement I's prose duplication was published at zero and was one, and the run stood verbatim on all ten of its files inside the body; Movement I's word table was stale by thirteen to thirty tokens of apparatus on every row and by eleven tokens of body on one; Movement I used `feed` on one page and the attributive `right` on three; and `state/chapter-summaries.md`'s rolling window still named the twenty chapters a pass writing 951 must load, on the day after 960 was written. **All four are repaired in the same pass and all four are recorded in `batch-0001/SUMMARY.md` and in the state files, and the reason they survived a review of this movement is the reason Volume 18's close gave: every defect a gate finds in a batch is a defect in the arithmetic of its own reporting, and the batch that reported on the batch is the one that goes unchecked.**
 
 (End of file - total 8 sections)

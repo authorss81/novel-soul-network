@@ -6,7 +6,7 @@
 
 Nine callers stepped through that shop on that Monday, the ninth of them at twenty-five past nine, and the shutter settled at ten.
 
-**The four converted units off that service road stood at one thousand seven hundred and sixty-four days, two hundred and fifty-two weeks to the day. The request in the drawer in a second district was eleven days old on that Monday.**
+**The four converted units off that service road stood at one thousand seven hundred and sixty-four days, two hundred and fifty-two weeks to the day. The request in the drawer in a second district was thirteen days old on that Monday.**
 
 ---
 

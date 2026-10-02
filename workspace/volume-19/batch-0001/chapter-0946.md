@@ -100,7 +100,7 @@ The shutter came down at about two. She left before it came down and she said no
 
 **The rest of that Sunday went into a kitchen and a hall for about an hour, and four jobs went into them.**
 
-A light over a kitchen door had been put in on the way that feeds the sockets, so that the whole of that way was behind one switch.
+A light over a kitchen door had been put in on the way that runs the sockets, so that the whole of that way was behind one switch.
 
 He took it off and put it on a way of its own and proved it.
 
@@ -128,7 +128,7 @@ She cut a new face, refitted it and proved it.
 
 ---
 
-**That Sunday the fourth of those four rooms was shut by half past one with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Sunday the fourth of those four rooms was shut by half past one with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and no figure is printed here for the page inside it.**
 
 ---
 
@@ -159,7 +159,7 @@ Work: four, one refusal given by the person it concerned, nothing escalated, not
 Charge: twenty-two pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two this page carries neither of those two figures and does not compare them.
-That ninth chair has its back to the whole of that room and it did not move on that Sunday, and this stretch of days does not say who has been moving it or when. The empty place behind that chair was not named on that Sunday and and it has no figure printed for it anywhere in this movement.
+That ninth chair has its back to the whole of that room and it did not move on that Sunday, and this stretch of days does not say who has been moving it or when. The empty place behind that chair was not named on that Sunday and it has no figure printed for it anywhere in this movement.
 There is a room under a building in a first district and at about eleven on that Sunday there was nothing burning in it, and nothing is burning in it at this hour either, and there is no light in it at this hour and there never has been.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Sunday and the end of it, and there is no ledger in this city that carries it. A name not written down at the asking of the person it belongs to is not on it.**
 

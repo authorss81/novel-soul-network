@@ -124,7 +124,7 @@ He cut it out, ran a proper lead and proved the lamp.
 
 ---
 
-**That Wednesday the fourth of those four rooms was shut at twenty-five past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off that shelf, and this page prints no figure for the page inside it.**
+**That Wednesday the fourth of those four rooms was shut at twenty-five past six with a woman of about thirty behind that door, and the binder on the shelf at the back of that room did not come off it, and the page inside it stands here without a figure of any kind.**
 
 ---
 
@@ -155,7 +155,7 @@ Work: nine, one refusal and one silence, nothing escalated, nothing handed back.
 Charge: fifty-six pounds, exact.**
 
 *Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two this page prints neither of them and would not know what to do with the difference.
-That ninth chair has its back to the whole of that room and it did not move on that Wednesday, and this stretch of days leaves the moving of it without a name. The empty place behind that chair was not named on that Wednesday and and a figure for it appears on no page of this movement.
+That ninth chair has its back to the whole of that room and it did not move on that Wednesday, and this stretch of days leaves the moving of it without a name. The empty place behind that chair was not named on that Wednesday and a figure for it appears on no page of this movement.
 There is a room under a building in a first district and at about eleven on that Wednesday there was nothing burning in it, and nothing is burning in it at this hour either, and there has never been a light in it at that hour or any other.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Wednesday and the end of it, and no clerk in this city has ever been given it to write down. A man carrying a book out of a room in a coat is not on it, and a page nobody has read is not on it.**
 

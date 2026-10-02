@@ -1,12 +1,12 @@
 # Chapter 957 — The Sitting Where The Book Shuts
 
-**A Wednesday was a bench until noon and then a hall with chairs in rows, and it was the sixty-ninth sitting in this city, and Marek sat at the back beside Talia and said nothing while the book shut.**
+**A Wednesday was a bench until noon and then a hall with chairs in rows, and it was the sixty-ninth sitting in this city, and Marek sat at the back beside Talia and said nothing for the whole of it while the book shut.**
 
 ---
 
 Seven callers crossed that shop on that Wednesday, all of them between eight and nine, and the shutter descended at ten.
 
-**The four converted units off that service road stood at one thousand seven hundred and sixty-six days, two hundred and fifty-two weeks and two days. The request in the drawer in a second district was thirteen days old on that Wednesday.**
+**The four converted units off that service road stood at one thousand seven hundred and sixty-six days, two hundred and fifty-two weeks and two days. The request in the drawer in a second district was fifteen days old on that Wednesday.**
 
 ---
 
