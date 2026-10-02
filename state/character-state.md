@@ -338,3 +338,24 @@
 ## WHAT DID NOT MOVE ON ANY PAGE
 
 **Iona Sorn, fifty-three, in public custody, unanswered, not absolved, and at zero on all ten files.** Nobody has offered it to her again. The answer to Volume 08's question is still a chair he does not sit in. The room under the building in a first district is dark on all ten days. The ninth chair did not move on any of the ten days and its mover is named on none. **No cast count in this file moved by this phase except the one the plan of record fixes, which is six spent against eight.**
+
+# LIVE — AFTER THE MEASUREMENT AND REPAIR PASS ON CHAPTERS 881 TO 890. THIS BLOCK IS THE STATE OF THIS FILE.
+
+**WHO IS ON WHICH PAGE OF MOVEMENT I, AFTER THIS PASS. No person was added to a page and no person was removed from one.**
+
+- **A man of twenty-two**, the only page he is on is Chapter 887 as a man of twenty-two, and he is on the other nine without a name. **He is not the person who signs anything in this stretch of days.** On 889 he refused in about four seconds, into the face of the man of about thirty-three and not into the room, and on a stair afterwards he stood about nine minutes and could not tell whether the four seconds were the reason. **Nobody in this city has asked him and nobody has answered it for him.**
+- **Talia Venn, twenty-four, the independent consent ombud, IS ON CHAPTER 887 AND NO OTHER, AND HER NAME IS AT ZERO ON ALL TEN FILES**, where she is a woman of about twenty-four. That is the plan of record's practice in Volume 17 as well and is not an omission. **She asked him one question and got an answer about the question and not about either of them, opened a file on him about a decision of his own, told him she had three questions in it, asked none of them, and did not tell him what was in it. She saved nothing, resolved nothing, and appears on no other page.**
+- **A woman of about forty-three** is on 881, 882, 885 and 890 and nowhere else. **She has never been thanked and nobody has asked her why she went over the fourth column twice without stopping on it.**
+- **A woman of about nineteen** is on 882 and nowhere else. She reads in a hall on Fridays and said, in nine words into a face, that the word means too much on some rows and gone on others.
+- **A woman of about sixty** is on 883 and nowhere else, has no post and no vote and no minute, and nobody has thanked her.
+- **A man of about fifty-seven** is on 885 and 886 and nowhere else.
+- **A man of about thirty-three** is on 884, 888 and 889 and nowhere else.
+- **A woman of about thirty-one** is on 885 and 888 and nowhere else.
+- **Asha Reed is on 884 and no other of the ten, in her own name, and she is a return and not a spend.**
+- **The woman of about thirty is behind the shut door of the fourth of those four rooms on all ten days. She is not named, is not a category, is not counted, is not described and is not asked a question. Nobody apologises to her. Her page's figure is printed nowhere in this volume.**
+- **Sera Quill, Rafi Pell, Leo Marr, Oren Vey, Iven Sore, Dessa Kwan and Lena Senn are on none of the ten files, which is what the plan of record gives Movement I.**
+- **Evan Senn's name is at zero on all ten files. Iona Sorn is the last enemy in this manuscript, is in public custody, is unanswered, is not absolved, has not been offered it again, and is at zero on all ten files.**
+
+**THE SPEND COUNT IS UNCHANGED AT SEVEN AGAINST A CEILING OF EIGHT, WITH ONE SLOT REMAINING, AND NO SLOT WAS CONVERTED FROM UNSPENT TO SPENT BY THIS PASS.** The prompt's own sixth spend, a man of about nineteen who takes minutes in a corridor, is on no file and stays recorded unspent, because Chapter 887's only scene is a corridor the plan of record gives to two people alone. **The seventh, a woman of about thirty-one who is not on the prompt's list, still carries the discovery on 888 and the question on 885.** Asha Reed's return and Talia Venn's office are still not spends.
+
+**THE FOUR ARRIVAL CELLS ARE EMPTY AND ARE PRINTED EMPTY**, and an empty cell is not a count of zero. The register of correct acts that changed nothing stands at four, is printed as a figure in a sentence on all ten files, is counted by nobody in this city, and **no instance was added to it by this pass and no fifth was printed.**

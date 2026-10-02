@@ -1,6 +1,6 @@
-# Chapter 888 — A Wednesday Of The Second Week, A Bench Until Two And A Counter Until About Six, About Two Hours In A Room Off A Service Road Where The Fifth Column Was Found To Have A Heading On All Nine Rows And Nothing In It On Any Of Them, And Forty-Eight Pounds For Four Jobs
+# Chapter 888 — A Wednesday Of The Second Week, A Bench Until Two, Then A Counter Until About Six, And Then About Two Hours In A Room Off A Service Road Where The Fifth Column Was Found To Have A Heading On All Nine Rows And Nothing In It On Any Of Them, And Forty-Eight Pounds For Four Jobs
 
-**A Wednesday was a bench until two, then a counter until about six, and about two hours of the rest of it were in a room off that service road with about nine people in it. The fifth column turned out to have a heading over all nine rows and nothing at all under it on any of them, and a man of about thirty-three put that in one sentence in about nine seconds.**
+**A Wednesday was a bench until two and afterwards a counter until about six, and about two hours of the rest of it were in a room off that service road with about nine people in it. The fifth column turned out to have a heading over all nine rows and nothing at all under it on any of them, and a man of about thirty-three put that in one sentence in about nine seconds.**
 
 ---
 
@@ -26,7 +26,7 @@ He said: that sheet has been due for about four years.
 
 He said that the oldest of the nine rows is about four years old and that every row of them has the same heading and nothing in it, and that a heading with nothing under it on every row is not a thing anybody has forgotten to fill in, because somebody would have filled one in.
 
-**Nobody in that room said what would go in it and about four people in that room have said since that they each had an answer ready and kept it to themselves and have not been asked for it since.**
+**Nobody in that room said what would go in it, and four people in that room have said since that they each had an answer ready and kept it to themselves and have not been asked for it since.**
 
 ---
 
@@ -60,13 +60,13 @@ He said that there are about nine empty squares on that sheet and that the sheet
 
 ---
 
-**The balance of that Wednesday was a fourth district and about two hours of it, and four jobs were got through in those two hours.**
+**The balance of that Wednesday was a fourth district and about two hours of it, and four jobs got through in those two hours.**
 
 A machine guard in the same yard had been left hinged with two screws and none of them into the frame, so that the whole of it came away if it was pushed.
 
 He took it off, made up the two holes, and fixed it to the frame everywhere it was meant to be fixed.
 
-"**Fifteen pounds,**" he said. "**A guard with no screws into the frame is a card. About four of those guards in that yard are fixed that way, and one of them has been a report of a hand that went in for about four years.**"
+"**Fifteen pounds,**" he said. "**A guard with no screws into the frame is a card. About four of those guards in that yard are hung off two screws and nothing else, and one of them has been a report of a hand that went in for about four years.**"
 
 The supply hose of a washing machine in the same building had been routed behind a drawer that came out, so that every time the drawer came out it pulled at the joint.
 
@@ -96,13 +96,13 @@ He lifted the mat, moved the socket up the wall, and proved the circuit.
 
 *891.
 Wednesday of week 302, at ten. That is the one hundred and ninety-third day of this stretch of days. Eleven names and eleven dates went onto that Wednesday, the last of them at about twenty to five.
-**No sitting on that Wednesday and no number said out loud in any room in this city, and the Wednesday of every fourth week that carries one is thirteen days ahead of it.
+**No sitting on that Wednesday and no number said out loud in any room in this city, and the next one of those is thirteen days ahead of it.
 A woman of about thirty-one found at about half past seven that all nine rows of that sheet carry the heading *review* and that nothing has ever been under the heading on any of them. A man of about thirty-three said in one sentence that every row of it has been due for about four years, and then said what a review is for, which is to ask the person.
 A woman of about forty-three said the sheet goes back on the table every Monday and does not go into a drawer, and then said the fourth column is the reason the fifth one is empty and would say nothing else about it.
-A man of twenty-two was in that room, was asked nothing, signed nothing, and said that he counts about nine empty squares every Monday and cannot say why. That Wednesday was worth forty-eight pounds, exact.**
+A man of twenty-two sat in that room, was asked nothing, signed nothing, and said that he counts about nine empty squares every Monday and cannot say why. That Wednesday was worth forty-eight pounds, exact.**
 
-*Conditions and docket.* **Callers on that Wednesday: eleven. Dated jobs: eleven, the eleventh name taken at about twenty to five. Two hours of that evening went into the room off that service road; a guard, a hose, an alarm and a socket took the other two hours.
-Those four converted units behind that service road, one of them the warm one and one of them at the back of the other three: one thousand six hundred and forty days, two hundred and thirty-four weeks and two days
+*Conditions and docket.* **Callers on that Wednesday: eleven. Dated jobs: eleven, the eleventh name taken at about twenty to five. Two hours of that evening went into the room off that service road; a guard, a hose, an alarm and a socket had the remainder of it.
+Those four units off that service road, of which one has the heat in it and the fourth stands well behind the other three: one thousand six hundred and forty days, two hundred and thirty-four weeks and two days
 The card creased once standing in the rail that holds two: one thousand six hundred and forty-four days, two hundred and thirty-four weeks and six days
 The twelfth of the nineteen lines ruled on that board: one thousand five hundred and sixty days, two hundred and twenty-two weeks and six days
 Its thirteenth line: one thousand five hundred and eleven days, two hundred and fifteen weeks and six days
@@ -116,23 +116,23 @@ The hold over nine crates and over the floor under them: one thousand two hundre
 The man of about fifty-one with his shoulder to that north wall: one thousand two hundred and forty-six days, one hundred and seventy-eight weeks to the day
 The page open on that table in front of him: one thousand three hundred and thirty days, one hundred and ninety weeks to the day
 The fitting at that corridor's end: one thousand one hundred and eighty-eight days, one hundred and sixty-nine weeks and five days
-Nine hands' copies of the front of one page, and a corner torn off each, eight of them not brought through, and not one of the nine set side by side: one thousand two hundred and six days, one hundred and seventy-two weeks and two days
+The front of one page written out by hand into nine hands, a corner torn off every one of them, eight of them never brought through, and not one of the nine set side by side: one thousand two hundred and six days, one hundred and seventy-two weeks and two days
 One line inside one box in that room off the road, and the writing of it was about sixteen months back: one thousand and twenty days, one hundred and forty-five weeks and five days
 That yard and that building, four jobs in: a guard made to the frame, a hose clipped out of a drawer, an alarm past its date replaced, a socket lifted off the floor.
-Not asked and not given: nobody in that room said what would go in the fifth column, and about four people in it have said since that they each had an answer ready and kept it, and nobody in that room asked the woman of about forty-three for anything else about the fourth column.
+Not asked and not given: nobody in that room said what would go in the fifth column, and four people there have said since that each of them had an answer ready and kept it, and nobody in that room asked the woman of about forty-three for anything else about the fourth column.
 Work: eleven, nothing escalated, nothing handed back.
 Charge: forty-eight pounds, exact.**
 
-*Conditions of the close.* **In the first floor above that line the book with a green cover is on sixty-eight lines and the tin beside it is at seventy-three with its lid down, and no figure here was got out of another one.
+*Conditions of the close.* **Upstairs in that first floor, the book with a green cover is on sixty-eight lines and the tin beside it is at seventy-three with its lid down, and no figure here was got out of another one.
 That ninth chair stands with its back hard to the whole of that room, it did not move on that Wednesday, and no page of this stretch of days names whoever would move it.
 About nine empty squares are standing on a sheet on that table in a first floor and every one of them sits under a heading, and nothing has ever been written under any of them.
 At about eleven on that Wednesday the room under that building in a first district had nothing burning in it, and it has nothing burning in it at this hour, and nobody in this city has ever asked for a light in that room.
 The register of correct acts that changed nothing is a figure in a sentence, and no count of it is kept in this city. It stood at four when that room opened and stands at four. A heading read out loud for the first time in about four years is not on it and a sheet that does not go into a drawer is not on it.**
 
-*What the day did not settle, and the rest of it.* **This passage sets down ten objects, and no sentence after this one puts two of them together. A card creased once holding a doorway open. Nine hand copies of the front of one page. The board on two nails with nineteen ruled lines. A sheet with four columns and a fifth that has never had anything in it on any of the nine rows. The tin with its lid down. The rail that holds two. The shutter. A strip of paper cut narrow with one word on it. A book in a green binding. The binder on a shelf at the back.
+*What the day did not settle, and the rest of it.* **This passage sets down ten objects, and no sentence after this one puts two of them together. A card creased once holding a doorway open. Nine hand copies of the front of one page. The board on two nails with nineteen ruled lines. A sheet with four columns and a fifth that has never had anything in it on any of the nine rows. The tin with its lid down. The rail that holds two. The shutter. A slip of paper cut narrow, with one word on it. A book in a green binding. The ring binder, standing at the back of that room.
 The form that came back on a bus stands outside all ten of them, and so does the printed sheet that went up by two drawing pins. About nine empty squares are not an eleventh thing because a man of twenty-two counts them, and a sheet carrying four columns and a fifth that has never held anything is one of the ten and not one more.
 A woman of about thirty is behind a shut door in the fourth of those four rooms, and this page does not count her and does not say what is on the shelf behind that door.
-A dated rule stands over a question that is not this one, and whoever wants the papers behind it can come and have them.
+There is a dated rule standing elsewhere over a question nobody in that room has asked, and its papers are open to anybody who comes for them.
 Nobody thanked anybody on that Wednesday and nobody forgave anybody. A man of about thirty-three said what a review is for and a man of twenty-two counted nine squares and neither of them has been thanked by anybody in this city since.**
 
 ---

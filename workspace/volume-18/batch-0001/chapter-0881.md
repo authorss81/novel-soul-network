@@ -127,7 +127,7 @@ He read it three times standing at the counter and did not ask anybody what it w
 Nine hand copies of the front of one page: one thousand one hundred and ninety-seven days, one hundred and seventy-one weeks to the day, one corner torn off, eight of them not brought through, and no two of the nine set side by side.
 
 *Conditions and docket.* **Callers on that Monday: nine. Dated jobs: nine, last name taken at about twenty to five. About half an hour of the day belonged to that stair, and a block, a switch, a holder and a stop had the rest of it.
-Those four converted units off that service road, one of them warm and one of them behind the other three: one thousand six hundred and thirty-one days, two hundred and thirty-three weeks to the day
+The four of those converted units off that service road, one of them behind the other three: one thousand six hundred and thirty-one days, two hundred and thirty-three weeks to the day
 The card creased once in the rail by that first door, and the rail holds two: one thousand six hundred and thirty-five days, two hundred and thirty-three weeks and four days
 The twelfth of the nineteen ruled lines on that board on two nails: one thousand five hundred and fifty-one days, two hundred and twenty-one weeks and four days
 Its thirteenth line: one thousand five hundred and two days, two hundred and fourteen weeks and four days

@@ -1,6 +1,6 @@
 # Chapter 884 — A Thursday, A Bench Until Two And A Counter Until About Six, About Two Hours Of A Room Off A Service Road Where Somebody Asked Where A Form Came From And Was Told That Two Places Had Copied Ours And That Nobody Had Decided Anything, And Fifty-Two Pounds For Four Jobs
 
-**A Thursday was a bench until two and a counter until about six, and then about two hours of it was in a room off that service road with about nine people in it. Somebody asked where a form came from and got an answer that took about nine seconds and that nobody in that room had expected.**
+**A Thursday was a bench until two, a counter until about six, and then two hours of the evening in a room off that service road with nine people sitting in it. Somebody asked where a form came from and got an answer that took about nine seconds and that nobody in that room had expected.**
 
 ---
 
@@ -95,7 +95,7 @@ A woman of about thirty-eight asked where the four columns came from and got nin
 A man of twenty-two was in that room, was asked nothing, signed nothing, and said one thing about dust. That Thursday was worth fifty-two pounds, exact.**
 
 *Conditions and docket.* **Callers on that Thursday: eleven. Entered on that day's book: eleven, the eleventh of them at about twenty to five. That room off the service road took two hours of the evening; a bracket, a closer arm, an enclosure lid and a joint took the other two.
-The four units behind that service road, one of them warm and the fourth of them standing behind the other three: one thousand six hundred and thirty-four days, two hundred and thirty-three weeks and three days
+Those four converted units behind that service road, of which one has the heat in it and the fourth stands at the back of the other three: one thousand six hundred and thirty-four days, two hundred and thirty-three weeks and three days
 The card creased once in the rail that holds two: one thousand six hundred and thirty-eight days, two hundred and thirty-four weeks to the day
 The twelfth of the nineteen ruled lines: one thousand five hundred and fifty-four days, two hundred and twenty-two weeks to the day
 Its thirteenth line: one thousand five hundred and five days, two hundred and fifteen weeks to the day
@@ -119,12 +119,12 @@ Charge: fifty-two pounds, exact.**
 *Conditions of the close.* **The green-covered book in that first floor is on sixty-eight lines and the tin next to it is on seventy-three, lid down, and this page has not arrived at one of those figures by using the other.
 That ninth chair stands with its back hard against a wall and it did not move on that Thursday, and nothing written in this stretch of days names whoever moves it.
 The same four columns and the same fifth heading stand on a desk in two other cities, and nobody in this city has put a question to the people who sit at those desks about what is on theirs.
-The room under a building in a first district was dark at about eleven on that Thursday, and at this hour it is dark, and nobody in this city has ever asked for a light in it.
-The register of correct acts that changed nothing is a figure in a sentence and nobody in this city counts it. It stood at four when that room opened and stands at four, and a form being copied by two cities without anybody deciding anything is not on it, and nothing on this page says it should be.**
+The room under that building in a first district had nothing burning in it at about eleven on that Thursday and has nothing burning in it now, and no light has ever been asked for there.
+The register of correct acts that changed nothing stands at four where it has stood all this week, and nobody in this city keeps a tally of it. Two forms taken by two places nobody here has met, and neither of the two of them deciding anything, are not on it, and this page does not put them there.**
 
-*What the day did not settle, and the rest of it.* **The ten of them are set down in the line underneath, and no sentence further down this page sets two of them beside each other. A rail with two places in it. A book in a green cover. The tin with its lid down. Nine hand copies of the front of one page. The board on two nails. The shutter. A strip of paper cut narrow with a single word on it. The ring binder on a shelf at the back. A card creased once standing in the rail by that first door. A sheet of about nine rows, with four columns and a fifth heading on every row of it.
+*What the day did not settle, and the rest of it.* **The ten of them are set down in the line underneath, and no sentence further down this page sets two of them beside each other. A rail that takes two. A book in a green cover. A tin with its lid down. Nine hands' copies of the front of one page, a corner torn off. The board on two nails. The shutter. A strip of paper cut narrow with a single word on it. The ring binder on a shelf at the back. A card creased once standing in the rail by that first door. A sheet of about nine rows, with four columns and a fifth heading on every row of it.
 That cage down one side of a counter is not on the list of ten and does not go on it, and neither is the form that came back on a bus. Thirty-six rows in three cities are not a thing, and four columns with a fifth heading on them is one of the ten and not one more than them, even where it stands in more than one country.
 A dated rule stands over a question entirely apart from this page, and the papers behind it are public and disputed and whoever wants them can come.
-Nobody thanked anybody and nobody forgave anybody on that Thursday. A man of about thirty-three said the whole of it about nobody deciding anything, and it was he who then told Asha Reed she had got it, and nobody in this city has thanked either of them.**
+Nobody thanked anybody on that Thursday and nobody forgave anybody. A man of about thirty-three said the whole of it about nobody deciding anything, and it was he who then told Asha Reed she had got it, and nobody in this city has thanked either of them.**
 
 ---

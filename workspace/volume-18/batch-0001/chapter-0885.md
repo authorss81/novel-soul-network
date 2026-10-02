@@ -123,7 +123,7 @@ The man of about fifty-one against that north wall: one thousand two hundred and
 The sum owed on the open page lying open in front of him: one thousand three hundred and twenty-five days, one hundred and eighty-nine weeks and two days
 The fitting standing at the end of that corridor: one thousand one hundred and eighty-three days, one hundred and sixty-nine weeks to the day
 Nine hands' writing of the front of one page, a corner torn, eight never brought through, and the nine are not compared: one thousand two hundred and one days, one hundred and seventy-one weeks and four days
-One line inside one box in that room off the road, filled in about sixteen months back and not touched since: one thousand and fifteen days, one hundred and forty-five weeks to the day
+One line inside one box in that room off that road, and about sixteen months have gone by since it was filled in: one thousand and fifteen days, one hundred and forty-five weeks to the day
 That washroom and that yard, four jobs in: a mirror fixed on two, an earth path made, a restrictor into masonry, a wedge taken out from under a door.
 Not asked and not given: nobody in that hall asked a man of about fifty-seven a third question, and nobody has asked him since, and nobody has asked the woman of about forty-three why she went over the fourth column twice without stopping on it.
 Work: nine, one refusal in about nine seconds into a face and one unanswered question, nothing escalated, nothing handed back.

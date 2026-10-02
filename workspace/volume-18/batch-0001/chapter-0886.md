@@ -1,6 +1,6 @@
 # Chapter 886 — A Monday Of The Second Week, A Bench Until Two And A Counter Until About Six, A Yard In A Fourth District Where A Man Of About Fifty-Seven Put His Own Two Hands On A Bench And They Were Looked At For The First Time In About Nine Years, And Sixty-One Pounds For Four Jobs
 
-**A Monday was a bench until two, and then a counter until about six, and half an hour of it went into a yard in a fourth district with a man of about fifty-seven and about four tools out of a bag. He had come about the last of his own grip and nothing else, and what was found was ordinary, and it is not a finding.**
+**A Monday was a bench until two, then a counter until about six, and half an hour of it went into a yard in a fourth district with a man of about fifty-seven and about four tools out of a bag. He had come about the last of his own grip and nothing else, and what was found was ordinary, and it is not a finding.**
 
 ---
 
@@ -46,13 +46,13 @@ He said that in about four seconds and then he got on with it and did not say an
 
 **He did not go back to the hall that week and nobody asked him to and nobody in this city has asked him why.**
 
-The woman of about forty-three came to that yard on the Thursday of the following week on her own account and watched him do the last two of the four jobs and said nothing at all about either hand.
+The woman of about forty-three came to that yard later in that week on her own account and stood at the end of the bench while he worked and said nothing at all about either hand.
 
 **She has said since that she was not going to say anything about them and that she had worked out by about the second minute of standing there that this was not a thing to say anything about.**
 
 ---
 
-**The rest of that Monday was about two hours in a fourth district and four jobs in it.**
+**What was left of that Monday was two hours in a fourth district with four jobs in it.**
 
 A motor starter in the same yard had an overload reset pushed in and latched, so that when it had tripped nobody could tell whether it had tripped or whether somebody had put it back.
 
@@ -89,7 +89,7 @@ He cut it out, made it up with the tool, and proved it.
 *889.
 Monday of week 302, at ten. That is the one hundred and ninety-first day of this stretch of days. Ten names went onto that Monday with ten dates, the tenth name at about twenty to five.
 **Nothing was sat in and no number was said out loud in any room in this city on that Monday.
-A man of about fifty-seven put two hands on a bench in a yard in a fourth district at about half past five with a hold-up lamp on them, and nobody in that yard had looked at them before. A grip has gone in two fingers and not a nerve, and there is a difference between those two and it is about four hours of a morning. He asked in about four seconds whether anybody was going to tell him what had happened to it, and he was told, and it took about nine seconds, and it was not a discovery.
+A man of about fifty-seven put two hands on a bench in a yard in a fourth district at about half past five with a hold-up lamp on them, and nobody in that yard had looked at them before. A grip has gone in two fingers and not a nerve, and there is a difference between those two and it is about four hours of a morning. In about four seconds he wanted to know what had happened to it, and he was told, and the telling took about nine seconds, and it was not a discovery.
 He said: I would rather one of them were broken too. He said it in about four seconds and then did half an hour of work and said nothing else about either hand.
 He did not go back to the hall that week and nobody asked him to. That Monday was worth sixty-one pounds, exact.**
 
@@ -110,7 +110,7 @@ The open page lying open there in front of him: one thousand three hundred and t
 The fitting standing at that corridor end: one thousand one hundred and eighty-six days, one hundred and sixty-nine weeks and three days
 Nine copies of the front of one page in nine hands, one corner torn, eight not brought through, and not two of them compared: one thousand two hundred and four days, one hundred and seventy-two weeks to the day
 In one box in that room off the road there is a single line, filled in about sixteen months back: one thousand and eighteen days, one hundred and forty-five weeks and three days
-That yard and that building, four jobs in: a reset unlatched, a flex freed from a clamp, a plug replaced, a trap made up with a tool.
+That yard and that building, and four jobs went into it: a reset unlatched, a flex freed from a clamp, a plug replaced, a trap made up with a tool.
 Not asked and not given: nobody asked the man of about fifty-seven what had happened to his hand and nobody has asked him since, and he said that he would rather one of them had been broken as well and nobody in that yard said anything back to it.
 Work: ten, one question asked by the man and answered in nine seconds, nothing escalated, nothing handed back.
 Charge: sixty-one pounds, exact.**
@@ -121,10 +121,10 @@ Two hands of a man of about fifty-seven were on a bench under a lamp for about h
 Under a building in a first district there is a room with nothing burning in it at about eleven on that Monday and nothing burning in it at this hour, and no light has ever been asked for there.
 That register is a figure in a sentence and nobody counts it. It stood at four and stands at four, and two hands on a bench with a lamp on them is not on it and is not going to be.**
 
-*What the day did not settle, and the rest of it.* **Ten objects are named below and no sentence after this one puts two of them side by side. A book in a green binding. The board on two nails with nineteen ruled lines. A card creased once holding a doorway open. The shutter. The rail that takes two. Nine hand copies of the front of one page. The tin with its lid down. The binder on a shelf at the back. A strip of paper cut narrow with one word on it. A sheet with four columns and a fifth nobody has ever filled in.
-A form that came back on a bus is outside all ten of them, and so is a hold-up lamp standing on a bench. A sheet with four columns and a fifth nobody has ever filled in is the ninth of the ten and not one more, and somebody looking at two hands for half an hour is not one either.
+*What the day did not settle, and the rest of it.* **Ten things are named below and no sentence after this one puts two of them side by side. A book in a green binding. The board on two nails with nineteen ruled lines. A card creased once holding a doorway open. The shutter. The rail that takes two. Nine hand copies of the front of one page. The tin with its lid down. The binder on a shelf at the back. A strip of paper cut narrow with one word on it. A sheet with four columns and a fifth nobody has ever filled in.
+A form that came back on a bus is outside all ten of them, and so is a hold-up lamp standing on a bench. That four-column page with its unused heading is the ninth of those ten and not one more, and somebody looking at two hands for half an hour is not one either.
 A woman of about thirty is behind the shut door of the fourth of those four rooms and this page does not describe her, does not count her and does not print a figure for anything on the shelf behind her.
 A dated rule stands over an entirely separate matter and this page reads nothing into it, and whoever wants the records behind it can come and have them.
-Nobody thanked anybody and nobody forgave anybody on that Monday. A man of about fifty-seven put his hands on a bench and was told an ordinary thing and said he would rather it had not been that, and nobody in this city has thanked anybody for either.**
+Nobody on that Monday thanked anybody and nobody forgave anybody. A man of about fifty-seven put his hands on a bench and was told an ordinary thing and said he would rather it had not been that, and nobody in this city has thanked anybody for either.**
 
 ---

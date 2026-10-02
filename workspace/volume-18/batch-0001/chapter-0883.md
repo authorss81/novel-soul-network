@@ -72,19 +72,19 @@ A saddle clip on a cold feed in the same yard had been screwed to a run of pipe 
 
 He took the clip off, fitted one either side of the joint, and proved it.
 
-"**Five pounds,**" he said. "**A clip across a joint is a joint held by two screws and a piece of steel. About four of those clips in that yard are fixed that way, and one of them has been a split that somebody has blamed on the pipe for about four years.**"
+"**Five pounds,**" he said. "**A clip across a joint is a joint held by two screws and a piece of steel. About four of those clips in that yard were put on in that manner, and one of them has been a split that somebody has blamed on the pipe for about four years.**"
 
 A meter tail in the same building had two conductors going into one way out, so that the second of them could not be taken out without taking the first one out as well.
 
 He split them, gave each its own way out, and proved the panel.
 
-"**Five pounds,**" he said. "**Two conductors in one way out is a conductor you cannot change on its own. About four of those tails in that panel are doubled up that way, and one of them has been a meter reading that could not be believed for about four years.**"
+"**Five pounds,**" he said. "**Two conductors in one way out is a conductor you cannot change on its own. About four of those tails in that panel have two wires where there should be two ways, and one of them has been a meter reading that could not be believed for about four years.**"
 
 A light on a machine in the same place had been earthed to a length of conduit that was itself hung on the wall on two clips.
 
 He took the earth off the conduit and put it on the frame, and proved the fitting.
 
-"**Four pounds,**" he said. "**An earth on conduit is an earth on whatever the conduit is touching. About four of those lights in that building are earthed that way, and one of them has been reported as a light that will not switch off for about four years.**"
+"**Four pounds,**" he said. "**An earth on conduit is an earth on whatever the conduit happens to be touching. About four of those fittings in that building are earthed across a length of conduit, and one of them has been reported as a light that will not switch off for about four years.**"
 
 **Nineteen pounds is what those four came to on that Wednesday, exact.**
 
@@ -116,7 +116,7 @@ The hold over nine crates and the boards under them: one thousand two hundred an
 The man of about fifty-one standing with his back to that north wall: one thousand two hundred and thirty-nine days, one hundred and seventy-seven weeks to the day
 The open page lying in front of him there: one thousand three hundred and twenty-three days, one hundred and eighty-nine weeks to the day
 The fitting at the end of that corridor: one thousand one hundred and eighty-one days, one hundred and sixty-eight weeks and five days
-Nine hands' copies of the front of one page, a corner torn, eight of them not brought through, and not two of them side by side: one thousand one hundred and ninety-nine days, one hundred and seventy-one weeks and two days
+One page front written out longhand into nine hands, a corner torn, eight of them not brought through, and not two of them side by side: one thousand one hundred and ninety-nine days, one hundred and seventy-one weeks and two days
 One line inside one box in a room off that road, and the filling-in of it was about sixteen months back: one thousand and thirteen days, one hundred and forty-four weeks and five days
 The space behind the chair of the woman of about sixty, which has had nothing standing in it since a week in the spring, and which nobody has asked her about and which this page is the only page of this stretch to put a figure on: five hundred and eleven days, seventy-three weeks to the day
 That yard and that building, four jobs in: a lid clipped on, a tail split, an earth moved off a conduit, a clip put back.

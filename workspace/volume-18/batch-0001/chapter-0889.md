@@ -1,10 +1,10 @@
-# Chapter 889 — A Thursday Of The Second Week, A Bench Until Two And A Counter Until About Six, About Two Hours In A Room Off A Service Road Where About Nine People Tried To Find Somebody To Sign A Review Of Nine Rows They Are Not Allowed To Ask About And A Man Of Twenty-Two Said No In About Four Seconds, And Forty-One Pounds For Four Jobs
+# Chapter 889 — A Thursday Of The Second Week, An Hour In A Room Off That Service Road After A Bench Until Two And A Counter Until About Six, Where About Nine People Spent It Trying To Find Somebody To Sign A Review Of Nine Rows They Are Not Allowed To Ask About, And A Man Of Twenty-Two Said No In About Four Seconds, And Forty-One Pounds For Four Jobs
 
-**A Thursday was a bench until two, and then a counter until about six, and a room off that service road afterwards, with about nine people in it. Somebody asked who would sign the review, and the only person in that room who could have held nine separate things up at once was a man of twenty-two, and he said no in about four seconds, for a reason about himself.**
+**A Thursday was a bench until two and a counter until about six, and then that service road's room afterwards, with nine people standing in it. Somebody asked who would sign the review, and the only person in that room who could have held nine separate things up at once was a man of twenty-two, and he said no in about four seconds, for a reason about himself.**
 
 ---
 
-Ten names were written on that Thursday's sheet and ten dates beside them, the last of the ten at about twenty to five. The shutter came down at about ten.
+Ten names were written on that Thursday's sheet and ten dates beside them, the last of the ten at about twenty to five. The shutter came down about ten, and the till was counted after it.
 
 **The card creased once in the two-place rail by that first door stands at one thousand six hundred and forty-five days, and that is two hundred and thirty-five weeks to the day.**
 
@@ -36,7 +36,7 @@ He said that into the face of the man of about thirty-three and not into the roo
 
 He said that the reason was not about the nine and that the nine did not need him at all, and that this is what he could say about it and that it is the whole of what he can say about it.
 
-**Nobody in that room said that was the reason and nobody in that room said it was not the reason, and about four people in that room have said since that they each decided in about nine seconds not to ask him which one it was.**
+**Nobody in that room said that was the reason and nobody in that room said it was not the reason, and there are people in that room who have not given their reason for keeping quiet about it.**
 
 ---
 
@@ -98,7 +98,7 @@ He cut the face off, extended the box, and refitted the socket at working height
 
 *892.
 Thursday of week 302, at ten. That is the one hundred and ninety-fourth day of this stretch of days. That Thursday took ten names and ten dates, the tenth of the dates at about twenty to five.
-**No sitting and no number said in any room in this city on that Thursday.
+**No sitting on that Thursday, and no figure was said out loud in any room in this city.
 About nine people spent half an hour in a room off a service road trying to find somebody to sign a review of nine rows that they are not allowed to ask anybody about. A man of about thirty-three named the only person in the room who could hold nine separate arrangements up at once, and a man of twenty-two said no in about four seconds: you would need me nine times all at once.
 About nine seconds later the room did nothing, on purpose, without anybody voting on it, and the sheet went back on the table to be put back on the table on Monday. A woman of about thirty-four asked him at a counter at about half past two whether he was the reason it did not happen, and he said no. That Thursday was worth forty-one pounds, exact.**
 
@@ -117,20 +117,20 @@ The hold over those nine crates, and over the floor beneath them: one thousand t
 The man of about fifty-one against that north wall: one thousand two hundred and forty-seven days, one hundred and seventy-eight weeks and one day
 The sum still owed on the page lying open in front of him: one thousand three hundred and thirty-one days, one hundred and ninety weeks and one day
 One fitting stands at the end of that corridor: one thousand one hundred and eighty-nine days, one hundred and sixty-nine weeks and six days
-Nine hands' copies of the front of one page, one corner torn off each, eight of them not carried through, and none of the nine laid beside another: one thousand two hundred and seven days, one hundred and seventy-two weeks and three days
+Nine hands' copies of a page front, one corner torn off each, eight of them not carried through, and none of the nine laid beside another: one thousand two hundred and seven days, one hundred and seventy-two weeks and three days
 Inside one box in that room off the road there is one line, and it was filled in about sixteen months back: one thousand and twenty-one days, one hundred and forty-five weeks and six days
-That yard and that building, four jobs in: a box made and drawn into, a reflector taken off, a filter changed, a socket lifted to working height.
-Not asked and not given: nobody in that room asked the man of twenty-two which of two reasons he had actually given, and about four people in it have said since that they each decided in about nine seconds not to ask.
-Work: ten, one refusal in about four seconds given to a man of about thirty-three in front of nine people, and nothing went back and nothing escalated.
+That yard and that building on that day, four jobs in: a box made and drawn into, a reflector taken off, a filter changed, a socket lifted to working height.
+Not asked and not given: nobody in that room asked the man of twenty-two which of two reasons he had actually given, and four people in that room have said since that each of them decided in about nine seconds not to ask.
+Work: ten, one refusal of about four seconds into a face, and nothing went back and nothing escalated.
 Charge: forty-one pounds, exact.**
 
-*Conditions of the close.* **In the room upstairs the book with the green cover is on sixty-eight lines and the tin beside it is on seventy-three with its lid down, and this page has not arrived at one of those by using the other one.
-The ninth chair in that first floor stands with its back to every part of that room. It did not move on that Thursday and no page of this stretch of days names whoever would move it.
+*Conditions of the close.* **In the room upstairs the book with the green cover is on sixty-eight lines, the tin beside it is on seventy-three with its lid down, and neither of those two numbers came out of the other.
+The ninth chair in that first floor stands with its back to every part of that room, it did not move on that Thursday, and this stretch of days puts no name against it.
 A room off that service road spent half an hour deciding nothing at all, and it did it without anybody voting on it, and that is the whole of what that half hour was for.
 The room under that building in a first district is as dark at this hour as it was at about eleven on that Thursday, and no light has ever been asked for there by anybody.
 It stood at four when that room opened and it is at four at this hour, and nobody in this city counts the correct acts that changed nothing and nobody ever will again. A man saying no in about four seconds is not on it and a room doing nothing on purpose is not on it.**
 
-*What the day did not settle, and the rest of it.* **The ten are set down in the passage below, and no sentence after it sets any two of them beside each other. The board on two nails with nineteen ruled lines. Nine hand copies of the front of one page. A card creased once holding a doorway open. The shutter. The rail that holds two. A strip of paper cut narrow with one word on it. A book in a green binding. The tin with its lid down. A sheet of four columns and a fifth that has stayed empty on all nine rows. The ring binder standing on a shelf at the back.
+*What the day did not settle, and the rest of it.* **They are set down in the passage below, and no sentence after it sets any two of them beside each other. The board on two nails with nineteen ruled lines. Nine hands' copies of a page front. A doorway kept open by a card creased once. The shutter. The rail that takes two. A slip of paper cut to a finger's width, with one word on it. A book in a green cover. The tin with its lid down. A sheet of four columns and a fifth that has stayed empty on all nine rows. The ring binder standing on a shelf at the back.
 What came back on a bus on that Thursday is outside all ten of them, and so is the printed sheet that was pinned up by two drawing pins. A four-column sheet, empty in its fifth column on all nine rows, is one of the ten and not an eleventh thing, because two people in a room have now argued about it. It resembles the board on two nails no more than it resembles the printed sheet.
 In the fourth of those four rooms there is a woman of about thirty behind a shut door, and this page does not say how long anything has been on the shelf behind her.
 A dated rule stands over a question entirely apart from this one, and what stands behind it is public and disputed, and it is open to anybody who comes for it.
