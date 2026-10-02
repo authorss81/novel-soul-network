@@ -1,0 +1,149 @@
+# Chapter 889 — A Thursday Of The Second Week, A Bench Until Two And A Counter Until About Six, About Two Hours In A Room Off A Service Road Where About Nine People Tried To Find Somebody To Sign A Review Of Nine Rows They Are Not Allowed To Ask About And A Man Of Twenty-Two Said No In About Four Seconds, And Forty-One Pounds For Four Jobs
+
+**A Thursday was a bench until two and a counter until about six, and then a room off that service road with about nine people in it. Somebody asked who would sign the review, and the only person in that room who could have held nine separate things up at once was a man of twenty-two, and he said no in about four seconds, for a reason about himself.**
+
+---
+
+Ten names went on that Thursday's sheet and ten dates with them, the last taken at about twenty to five. The shutter came down at about ten.
+
+**The card creased once in the two-place rail by that first door stands at one thousand six hundred and forty-five days, and that is two hundred and thirty-five weeks to the day.**
+
+**Six of the figures in this stretch carry a whole number of weeks on that day and every one of them is correct: the twelfth line at one thousand five hundred and sixty-one days, two hundred and twenty-three weeks to the day; the thirteenth at one thousand five hundred and twelve, two hundred and sixteen weeks to the day; the fourteenth at one thousand four hundred and seventy-seven, two hundred and eleven weeks to the day; the fifteenth at one thousand four hundred and fifty-six, two hundred and eight weeks to the day; the nineteenth and last at one thousand three hundred and thirty-seven days, one hundred and ninety-one weeks to the day; and the hold over those nine crates at one thousand two hundred and seventy-four days, one hundred and eighty-two weeks to the day.**
+
+---
+
+**The asking started at about ten past seven and it went on for about half an hour, and about nine people in that room asked about four people who were not in it, and nobody had been told to ask.**
+
+The shape of it was plain by about half past seven: nine rows, one heading, nothing under it, and about four years on the oldest of them. Somebody had to put something in that column, and putting something in it meant signing the sheet, and signing the sheet meant being the person who decided what went in the fifth column of a thing about nine people.
+
+**About four people in that room said in that half hour that this could not be done, and about four people said it could be done and did not say by whom.**
+
+---
+
+**And then a man of about thirty-three said the name of the only person in that room who could make it hold, and he did not say it in a voice, and everybody heard him.**
+
+He said, in about nine seconds, that there is exactly one thing in this city that could hold nine separate arrangements up at once, and that it is a person, and that the person is standing by the door.
+
+**Nobody in that room looked at the man by the door for about nine seconds and then about four of them did, and nobody in that room said his name.**
+
+He said: you would need me nine times all at once.
+
+Those are nine words and he said them into the face of the man of about thirty-three and not into the room, and he had said them in about four seconds, and the man of about thirty-three had not finished asking him.
+
+---
+
+**Nobody in that room asked him how often his hands are not that and nobody there has put it to him since, and about four people in that room have said since that they would have asked and did not.**
+
+He said that the reason was not about the nine and that the nine did not need him at all, and that this is what he could say about it and that it is the whole of what he can say about it.
+
+**Nobody in that room said that was the reason and nobody in that room said it was not the reason, and about four people in that room have said since that they each decided in about nine seconds not to ask him which one it was.**
+
+---
+
+**And about nine seconds after he had said no, the room did the other thing, and it did it without anybody voting on it, and what it did was nothing.**
+
+The man of about thirty-three folded the sheet back the way it came and said that the sheet goes back on the table on Monday as it goes back on the table on every Monday, and that the fifth column would be empty on all nine rows on Monday, and that he was not going to sign anything that evening.
+
+Nobody argued with him and nobody agreed with him, and about four people in that room said afterwards that they had thought about four minutes earlier that there was a third thing the room could do and that there was not.
+
+The man of twenty-two was still in that room when it was said and was asked nothing about it, and he stayed until about nine.
+
+---
+
+**He was at that counter at about half past two and a woman of about thirty-four came in and asked him whether he had heard about a room off a service road.**
+
+He said that he had.
+
+She said: are you the reason that it did not happen.
+
+He said: no.
+
+**Nobody in that shop asked a second question and nobody in that shop has asked one since, and about four people in that shop have said since that they would have asked and did not.**
+
+---
+
+**What was left of that Thursday was a fourth district and about two hours of the day, and four jobs went into those two hours.**
+
+A conduit box in the same yard had a lid screwed to nothing, because the box itself had never had any thread in it.
+
+He made up four holes, fitted a box that had a lid, and drew the cable into it.
+
+"**Fifteen pounds,**" he said. "**A box with a lid screwed to it is a lid on nothing. About four of those boxes in that yard have lids on them, and one of them has been a cable that has been pulled out by hand for about four years.**"
+
+A heat lamp in the same building had a reflector behind the bulb, so that it was throwing its heat at a wall two inches away.
+
+He took the reflector off, refixed the lamp clear of the wall, and proved it.
+
+"**Eleven pounds,**" he said. "**A heat lamp pointed at a wall is a paint job for the plasterboard. About four of those lamps in that building have reflectors behind them, and one of them has been a scorched patch for about four years.**"
+
+A hand dryer in the same place had a filter in it that had been in about four years and had turned the colour of a used cloth.
+
+He took it out, put a new one in, and proved it.
+
+"**Nine pounds,**" he said. "**A filter in four years is a fan with nothing left on it. About four of those dryers in that building have filters that old, and one of them has been a complaint about smell for about four years.**"
+
+A socket face in the same room had been set at floor level in a workshop, where a barrow stands over it four days a week.
+
+He cut the face off, extended the box, and refitted the socket at working height.
+
+"**Six pounds,**" he said. "**A socket at floor level in a workshop is a socket nobody can reach and everybody trips over. About four of those sockets in that building are at floor level, and one of them has been a barrow that would not go past for about four years.**"
+
+**Forty-one pounds is what those four came to on that Thursday, exact.**
+
+---
+
+**By half past six the fourth of those four rooms had been shut with a woman of about thirty behind it, and the binder on the shelf at the back of that room has not come out, and this page does not print a figure for it.**
+
+---
+
+*892.
+Thursday of week 302, at ten. That is the one hundred and ninety-fourth day of this stretch of days. Ten names and ten dates went onto that Thursday, the last of them at about twenty to five.
+**No sitting and no number said in any room in this city on that Thursday.
+About nine people spent half an hour in a room off a service road trying to find somebody to sign a review of nine rows that they are not allowed to ask anybody about. A man of about thirty-three named the only person in the room who could hold nine separate arrangements up at once, and a man of twenty-two said no in about four seconds: you would need me nine times all at once.
+About nine seconds later the room did nothing, on purpose, without anybody voting on it, and the sheet went back on the table to be put back on the table on Monday. A woman of about thirty-four asked him at a counter at about half past two whether he was the reason it did not happen, and he said no. That Thursday was worth forty-one pounds, exact.**
+
+*Conditions and docket.* **Callers on that Thursday: ten. Dated jobs: ten, the tenth of them taken at about twenty to five. That room off that service road took two hours of the evening and a box, a lamp, a filter and a socket took the other two hours.
+Those four converted units behind that service road, one warm and one of them behind the other three: one thousand six hundred and forty-one days, two hundred and thirty-four weeks and three days
+The card creased once in the rail that takes two: one thousand six hundred and forty-five days, two hundred and thirty-five weeks to the day
+The twelfth of the nineteen ruled lines on the board: one thousand five hundred and sixty-one days, two hundred and twenty-three weeks to the day
+Its thirteenth line: one thousand five hundred and twelve days, two hundred and sixteen weeks to the day
+Its fourteenth line: one thousand four hundred and seventy-seven days, two hundred and eleven weeks to the day
+Its fifteenth line: one thousand four hundred and fifty-six days, two hundred and eight weeks to the day
+Its sixteenth line: one thousand four hundred and thirty-one days, two hundred and four weeks and three days
+Its seventeenth line: one thousand four hundred and thirteen days, two hundred and one weeks and six days
+Its eighteenth line: one thousand three hundred and fifty-nine days, one hundred and ninety-four weeks and one day
+Its nineteenth line, and no line has been ruled under it: one thousand three hundred and thirty-seven days, one hundred and ninety-one weeks to the day
+The hold over nine crates and the floor beneath them: one thousand two hundred and seventy-four days, one hundred and eighty-two weeks to the day
+The man of about fifty-one against that north wall: one thousand two hundred and forty-seven days, one hundred and seventy-eight weeks and one day
+The sum owed on the page open in front of him there: one thousand three hundred and thirty-one days, one hundred and ninety weeks and one day
+The fitting at the end of that corridor: one thousand one hundred and eighty-nine days, one hundred and sixty-nine weeks and six days
+Nine copies of the front of one page in nine hands, one corner torn off, eight not carried through, and no two of the nine set side by side: one thousand two hundred and seven days, one hundred and seventy-two weeks and three days
+One line inside one box in that room off the road, filled in about sixteen months back: one thousand and twenty-one days, one hundred and forty-five weeks and six days
+That yard and that building, four jobs in: a box made and drawn into, a reflector taken off, a filter changed, a socket lifted to working height.
+Not asked and not given: nobody in that room asked the man of twenty-two which of two reasons he had actually given, and about four people in it have said since that they each decided in about nine seconds not to ask.
+Work: ten, one refusal in about four seconds given to a man of about thirty-three in front of nine people, nothing escalated, nothing handed back.
+Charge: forty-one pounds, exact.**
+
+*Conditions of the close.* **In the room upstairs the book with the green cover is on sixty-eight lines and the tin beside it is on seventy-three with its lid down, and this page has not arrived at one of those by using the other one.
+The ninth chair in that first floor stands with its back to every part of that room. It did not move on that Thursday and no page of this stretch of days names whoever would move it.
+Behind the woman of about sixty there is still nothing standing, and no figure for that space is printed anywhere in this stretch except on the Wednesday, and there is one figure and one only.
+The room under a building in a first district had nothing burning in it at about eleven on that Thursday and has nothing burning in it at this hour, and no light has ever been asked for there by anybody.
+The register of correct acts that changed nothing stood at four when that room opened and stands at four now, and nobody in this city counts it and nobody ever will again. A man saying no in about four seconds is not on it and a room doing nothing on purpose is not on it.**
+
+*What the day did not settle, and the rest of it.* **Ten objects are named in the passage below and no sentence after it sets any two of them beside each other. The board on two nails with nineteen ruled lines. A card creased once holding a doorway open. Nine hand copies of the front of one page. The shutter. The rail that holds two. A book in a green binding. A strip of paper cut narrow with one word on it. The tin with its lid down. A sheet of four columns and a fifth that has stayed empty on all nine rows. The ring binder standing on a shelf at the back.
+The form that came back on a bus is outside all ten of them and so is the four-column sheet, empty in its fifth column on all nine rows, and a sheet is not an eleventh thing because two people in a room have now argued about it. It resembles the board on two nails no more than it resembles the printed sheet that was pinned up by two drawing pins.
+A woman of about thirty is behind the shut door of the fourth of those four rooms and this page does not describe her and does not print how long anything has been on the shelf behind her.
+A dated rule stands over a question entirely apart from this one and the records behind it are public and disputed and available to anybody who comes.
+Nobody thanked anybody and nobody forgave anybody on that Thursday. A man of twenty-two said no in about four seconds to being used nine times over, and about four people in that room have said since that they wanted to ask him why and did not, and nobody has ever answered it for him.**
+
+---
+
+*And afterwards, on a stair in a second district with a door closer on the top step, the man of twenty-two stood for about nine minutes.*
+
+He has said since that he was not able to tell whether the four seconds had been the reason or whether the four seconds had come out before there was a reason, and that he has gone back up the stair both times without deciding it, and that he did not decide it on the second Monday either.
+
+**Nobody in that building asked him. Nobody in this city has asked him. About four people in that room have said since that they would have asked him and did not.**
+
+**Nobody has answered the question for him and this page does not answer it either.**
+
+---

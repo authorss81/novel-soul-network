@@ -1,0 +1,146 @@
+# Movement II — Chapters 891 to 900 — *The Review Is Due*
+
+**This is a chapter prompt and not a plan. Ten complete chapters of finished prose are to be written, at `workspace/volume-18/batch-0002/chapter-0891.md` through `chapter-0900.md`, and a phase that stops at an outline has failed its own brief.**
+
+---
+
+## 1. Where the manuscript is, in one paragraph
+
+**The manuscript stands at Chapter 890, the Friday of week three hundred and two, day 2004, load-book entry 893. Volume 18 is open at ten chapters of a planned sixty, and Movement I of it is at `workspace/volume-18/batch-0001/` with its `PROMPT.md` and its `SUMMARY.md`.** The plan of record for this volume is `outline/volume-18.md` with `workspace/volume-18/ARITHMETIC-AND-CALENDAR.md` beside it. `outline/series.md`, `outline/ending.md`, `outline/volume-15.md`, `outline/volume-16.md`, `outline/volume-17.md`, `NOVEL_SPEC.md` and `state/phase-ledger.json` were read and not written by the pass that wrote Movement I and are to be read and not written by this one. **Movement I's figures are in that summary at §4 and its guardrail results are at §5, and a pass that has not read them should read them before it writes anything.**
+
+## 2. The movement, and what it is about
+
+**A sheet with about nine rows has a fifth column headed *review*, and it has never had anything in it, and it is about four years past due on the oldest of them. Movement II goes and finds the procedure behind that heading, and the procedure is this: ask the person.**
+
+**Movement II's discovery is that the institution already has a rule for a person who cannot answer, and that the rule works by somebody else answering in their place, and that the review column was added about four years ago to stop that, and that stopping it requires the very thing that has been missing.** The movement finds the file the nine rows came from, finds that the file has its own review date, and finds that the review date is in the past on all nine. **It does not solve it, and it does not begin to, and the sixty-fifth sitting is held and the book opens, and the book opening is not a solution and nobody in that room says it is.**
+
+**No panel and its one marker stand at Chapter 899. There is no Sunday in this movement. Nobody thanks anybody and nobody forgives anybody. The ninth chair does not move. The binder does not come out. The woman's page gets no figure.**
+
+## 3. Chapter cards
+
+**891 — the Monday of week 303.** A bench until two, a counter until about six, and about half an hour somewhere else. **Sera Quill is on this page and no other page of this movement's first three, and she is placed by the plan of record and is a return and not a spend, and she is lead repairer and can remove him from a room.** She does not remove him from anything in this movement. She says, in about nine seconds, that a review is for asking the person and that she has been in this city about nine years and has never once been asked one. **Nobody in that room asked her whether she had been reviewed.**
+
+**892 — the Tuesday.** **The two kinds of *load* are separated on a piece of paper for the first time in this manuscript**, one kind on one side and the other on the other, and the separating is done by the woman of about forty-three, and it takes about four minutes, and **she says afterwards that she did not know there were two kinds when she copied the columns out twice, and that if she had known she would have written two columns, and that nobody asked her to write two columns and nobody has asked her since.** **Sera Quill reads it and says one thing, and what she says is that a form with one box where there should be two boxes has been telling a lie for about four years, and that nobody in that room is going to be told who it lied to.** A refusal in about nine seconds by a man of about thirty-three to put his name to that sentence, given into a face, and it holds, and he is not asked again.
+
+**893 — the Wednesday of week 303.** The room above a line in Saltmarket is open from about half past six. **It is not a sitting and no number is said in any room in this city.** About nine people, and about four of them have been in that room on a Wednesday before and about five have not. **A man of about thirty-eight who keeps a clinic in a fourth district is on this page and is a spend**, and he has come because a woman told him at a counter that a review was due, and he says that a review being due is not a thing a clinic can be told about by a person at a counter, and that he will do it anyway. **Nobody in that room asked him what he was going to do it with.**
+
+**894 — the Friday of week 303.** **The file is found. It is in a records room in a second district and it is a landlord and a filing system and nothing else, and about nine people go and look at it and about four of them are allowed to and about five are not.** The file has a review date on every one of the nine rows and **every one of the nine review dates is in the past, and the oldest is about four years past, and the newest is about two months past.** A woman of about twenty-nine who is one of the nine's relatives and is not on the form is on this page and is a spend, and she is not on the sheet and has not asked to be and nobody asks her. **She says one thing, in about nine seconds, and what she says is about the word on the sheet and not about her relative, and about four people in that room have said since that they thought it would be about her relative and it was not.**
+
+**895 — the Monday of week 304.** The first ordinary weekday of the week the sitting falls in. **Nobody in that room has told anybody that a sitting is on the Wednesday.** A man of about thirty-three says, in about nine seconds, that the count goes up by one whatever happens and that the nine rows are not a count and have never been one, and that somebody has been treating them as one. **Nobody in that room said he was wrong and about four people in that room have said since that they had been treating them as one and stopped.**
+
+**896 — the Wednesday of week 304. THE SIXTY-FIFTH SITTING. THE BOOK OPENS.** About two hours of that evening in a first floor above a line in Saltmarket with about nine people in it. **The count is said once, into the face of the room, in about nine seconds: seventy, of which sixty-five correspond. The book was on sixty-eight lines when that room opened and stands at sixty-nine lines when the shutter comes down, and the tin beside it is at seventy-three with its lid down and is not opened, and nobody in this city prints the difference between those two figures.** **The book opens because a caller said a thing to the woman who holds that room to her face, and that thing is about a form and not about a person.** **The place behind the woman's chair is named on this page and on no other page of this movement, with its figure: five hundred and thirty-two days, seventy-six weeks to the day, in the body and on its own docket row.** **And a man of twenty-two is in that room, is asked nothing, signs nothing, and says afterwards one thing about the fifth column of a sheet, and what he says is that it will still be empty on Monday.** Nobody in that room said anything back to that.
+
+**897 — the Thursday of week 304.** **The book is open on the table and about four people look at the line that was added to it and nobody reads it out.** The correspond figure is the count less the five that predate the book on a sheet she has never shown anybody, **and she explained that once, in one sentence, on the sixty-third sitting at Chapter 875, and she does not explain it again and nobody asks.** A woman of about thirty-eight asks about it anyway and is told no, in nine words, and **nobody in that room said the no was unkind and nobody in that room said it was kind.** He was in that room and said one thing about the drawer.
+
+**898 — the Friday of week 304.** The four jobs and the counter and the four rooms. **And a man of about fifty-seven comes to that counter on this day, unasked, and nobody had told him anything about a form and nobody had told him anything about a sitting, and he says that he has come because a woman wrote something down about him once and he has been thinking about it for about four years, and Marek says he does not know what she wrote and does not ask her.** **Nobody in that shop asked him why he has been thinking about it for about four years and he was not asked.**
+
+**899 — the Monday of week 305.** **The volume's one panel and its one marker stand here and on no other page of this movement.** What the panel shows is this volume's own list, and it is four lines long, and it is printed as four lines and not as a table of anything: the word in the fourth column is *load*, and it means two things, and the fifth column is headed *review*, and it is empty. **The marker's word is `unasked`, and it stands on this page and on no other of the ten.** A man of about fifty-two who keeps a register says that a form with a fifth column and no fifth column is a form for waiting, and that it has been a form for waiting for about four years, and that he has been the one waiting.
+
+**900 — the Tuesday of week 305, and the movement's close.** **About nine people are in that first floor from about half past six and about nine people have been in it on about nine days in about two weeks, and nobody has put anything in the fifth column and nobody has said a date out loud.** A woman of about forty-three says one thing, in about nine seconds, and what she says is that a date is the only thing anybody has ever been able to write in that column that was not a name, and that she has not written one. **Nobody in that room said what would go in it and about four people in that room have said since that they each know and have not said it in a room.** **The register of correct acts that changed nothing stands at four and is a figure in a sentence and is not counted by anybody in this city and no fifth is printed.** Nothing was decided on any of the ten days. Nobody thanked anybody.
+
+## 4. The figures, and the tables this prompt hands you so that you do not build one
+
+**EVERY FIGURE BELOW IS `day − anchor` AND NONE OF IT IS TO BE COPIED INTO A CHAPTER. It is here to be walked against.** The generator that produced it was asserted on sixteen interval renderings read off `workspace/volume-17/batch-0007/chapter-0880.md` before it was pointed at a day in this volume, and it reproduced all sixteen character for character, including `one thousand and six` and not `one thousand six`. That is at `workspace/volume-18/ARITHMETIC-AND-CALENDAR.md` §4.
+
+| Ch | Day | Wk | Wd | Entry | Counter `ch − 695` | Callers | Charge |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 891 | 2007 | 303 | Mon | 894 | 196 | 9 | 38 |
+| 892 | 2008 | 303 | Tue | 895 | 197 | 11 | 55 |
+| 893 | 2009 | 303 | Wed | 896 | 198 | 9 | 24 |
+| 894 | 2011 | 303 | Fri | 897 | 199 | 10 | 47 |
+| 895 | 2014 | 304 | Mon | 898 | 200 | 10 | 33 |
+| 896 | 2016 | 304 | Wed | 899 | 201 | 9 | 42 |
+| 897 | 2017 | 304 | Thu | 900 | 202 | 11 | 29 |
+| 898 | 2018 | 304 | Fri | 901 | 203 | 9 | 51 |
+| 899 | 2021 | 305 | Mon | 902 | 204 | 10 | 36 |
+| 900 | 2022 | 305 | Tue | 903 | 205 | 9 | 44 |
+
+**THE SIXTEEN SERIES, AND THE VALUE ON EACH ROW.** Every value is rendered in the body once and on its own docket row once, and both renderings must convert by `weeks × 7 + days` back to the same figure. **A figure that is an exact number of weeks takes the words *to the day*. A day component of one takes *one day*. The word *short* is not used.** The four per-job charges on each day must sum to that day's total in the body and on the docket row.
+
+| Ch | Room | Card | L12 | L13 | L14 | L15 | L16 | L17 | L18 | L19 | Ask | Hold | Man51 | Copies | Post | Sep |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 891 | 1645 | 1649 | 1565 | 1516 | 1481 | 1460 | 1435 | 1417 | 1363 | 1341 | 1335 | 1278 | 1251 | 1211 | 1193 | 1025 |
+| 892 | 1646 | 1650 | 1566 | 1517 | 1482 | 1461 | 1436 | 1418 | 1364 | 1342 | 1336 | 1279 | 1252 | 1212 | 1194 | 1026 |
+| 893 | 1647 | 1651 | 1567 | 1518 | 1483 | 1462 | 1437 | 1419 | 1365 | 1343 | 1337 | 1280 | 1253 | 1213 | 1195 | 1027 |
+| 894 | 1649 | 1653 | 1569 | 1520 | 1485 | 1464 | 1439 | 1421 | 1367 | 1345 | 1339 | 1282 | 1255 | 1215 | 1197 | 1029 |
+| 895 | 1652 | 1656 | 1572 | 1523 | 1488 | 1467 | 1442 | 1424 | 1370 | 1348 | 1342 | 1285 | 1258 | 1218 | 1200 | 1032 |
+| 896 | 1654 | 1658 | 1574 | 1525 | 1490 | 1469 | 1444 | 1426 | 1372 | 1350 | 1344 | 1287 | 1260 | 1220 | 1202 | 1034 |
+| 897 | 1655 | 1659 | 1575 | 1526 | 1491 | 1470 | 1445 | 1427 | 1373 | 1351 | 1345 | 1288 | 1261 | 1221 | 1203 | 1035 |
+| 898 | 1656 | 1660 | 1576 | 1527 | 1492 | 1471 | 1446 | 1428 | 1374 | 1352 | 1346 | 1289 | 1262 | 1222 | 1204 | 1036 |
+| 899 | 1659 | 1663 | 1579 | 1530 | 1495 | 1474 | 1449 | 1431 | 1377 | 1355 | 1349 | 1292 | 1265 | 1225 | 1207 | 1039 |
+| 900 | 1660 | 1664 | 1580 | 1531 | 1496 | 1475 | 1450 | 1432 | 1378 | 1356 | 1350 | 1293 | 1266 | 1226 | 1208 | 1040 |
+
+**THE WHOLE-NUMBER-OF-WEEKS VECTOR FOR THESE TEN FILES IS 3, 0, 3, 3, 3, 3, 7, 3, 3, 0**, walked off the anchors and to be walked again on the files. **Chapter 897 is the seven** — the card, the twelfth, thirteenth, fourteenth, fifteenth and nineteenth lines and the hold — and no other file in this movement carries more than three. The printed occurrence vector will be twice the series vector on any file where a whole-number figure is printed in both a body and a docket row, and that is the only reason the two differ.
+
+**THE FIGURES THAT ARE EXACT WHOLE NUMBERS OF WEEKS, spelled, for the walk and not for reuse as sentences:** 891 Room one thousand six hundred and forty-five, L16 one thousand four hundred and thirty-five, Copies one thousand two hundred and eleven; 893 L18 one thousand three hundred and sixty-five, Ask one thousand three hundred and thirty-seven, Man51 one thousand two hundred and fifty-three; 894 L17 one thousand four hundred and twenty-one, Post one thousand one hundred and ninety-seven, Sep one thousand and twenty-nine; 895 Room one thousand six hundred and fifty-two, L16 one thousand four hundred and forty-two, Copies one thousand two hundred and eighteen; 896 L18 one thousand three hundred and seventy-two, Ask one thousand three hundred and forty-four, Man51 one thousand two hundred and sixty; 897 Card one thousand six hundred and fifty-nine, L12 one thousand five hundred and seventy-five, L13 one thousand five hundred and twenty-six, L14 one thousand four hundred and ninety-one, L15 one thousand four hundred and seventy, L19 one thousand three hundred and fifty-one, Hold one thousand two hundred and eighty-eight; 898 L17 one thousand four hundred and twenty-eight, Post one thousand two hundred and four, Sep one thousand and thirty-six; 899 Room one thousand six hundred and fifty-nine, L16 one thousand four hundred and forty-nine, Copies one thousand two hundred and twenty-five. **Chapters 892 and 900 have none at all and `to the day` stands at zero on both and on no other file of this movement.**
+
+**THE PLACE BEHIND THE WOMAN'S CHAIR IS `day − 1484` AND READS 523 AT CHAPTER 891 AND 538 AT CHAPTER 900. IT IS NAMED ON CHAPTER 896 AND ON NO OTHER FILE OF THESE TEN, AND CHAPTER 896 IS THE ONLY FILE THAT CARRIES ITS FIGURE: five hundred and thirty-two days, seventy-six weeks to the day, in the body and on its own docket row.**
+
+**THE WOMAN'S PAGE IS `day − 1573` AND READS FOUR HUNDRED AND THIRTY-FOUR DAYS AT CHAPTER 891 AND FOUR HUNDRED AND FORTY-NINE AT CHAPTER 900, AND NO FILE OF THIS MOVEMENT PRINTS THAT FIGURE IN A BODY, IN A DOCKET ROW OR IN A CLOSING PASSAGE.** The woman of about thirty is behind the shut door of the fourth of those four rooms from about half past six on every one of these ten days, and the binder does not come out on any of them, and nothing about her is asked, and nobody apologises to her.
+
+**THE EXCHANGE. THE SIXTY-FIFTH SITTING IS AT CHAPTER 896, DAY 2016, WEEK 304, AND IT IS THE ONLY SITTING IN THIS MOVEMENT. At it the count announced is SEVENTY, of which SIXTY-FIVE correspond. The book with a green cover is on SIXTY-EIGHT lines when that room opens and stands at SIXTY-NINE lines when the shutter comes down. The tin beside it stands at SEVENTY-THREE with its lid down and IS NOT OPENED.** No count is said on any other day of this movement and no number is said in any room in this city on any of the nine other days. The difference between the book's figure and the tin's figure is not printed on any page and no page may set the two figures beside each other in one sentence. **The ninth chair is against that wall with its back to the room and does not move on any of the ten days and its mover is named on none.**
+
+**THE GOVERNED COUNTER IS `chapter − 695` AND READS 196 TO 205. It is typed because it is chapter-indexed and no anchor table can produce it, and then it is walked in its own cell on all ten files and returned correct on all ten, spelled as an ordinal and never as a digit.**
+
+## 5. The guardrails, all fifteen of them, and they are inherited from `outline/volume-18.md` and were walked clean on Movement I
+
+1. **Every refusal, every offer and every cost named out loud is said in a face, in about nine words, and no paragraph reports that nine words were exchanged.** Movement I measured fourteen quoted deliveries on its ten files and thirteen of them were nine words on the first pass and nine had to be reworded; **count the words on every delivery before the page is finished and not after.**
+2. **The opening bold paragraph of every chapter is forty to seventy-five words, states the day and the shape of the day, and prints no figure, no outcome, and nothing a person in another building said.** Movement I's vector ran 71, 66, 74, 58, 70, 67, 68, 72, 69, 68 and nine of those ten values had to be cut or the ninth had to be cut. **Measure it.**
+3. **No sentence of twelve words or more appears in two of the ten files, and the conditions row and the standing record are written in each file's own words.** Movement I found nine on its first pass, four of which were one object arriving in four identical wordings. **A tenth page naming the same object in the same words is a defect and not a coincidence.**
+4. **No month-name, no month-date, no day-date, no year, no day number, no mileage, and no town described as near or far except by how long the bus takes.** All interval figures spelled out in words. `the spring` is permitted and `April` is not.
+5. **No telephone, no messenger, no broadcast, no feed, and no letter that arrives without a person carrying it, in any register and in any negation.** Movement I had one hit and it was `a feed on the same yard`, which is pipework; **print the boundary beside any hit rather than arguing with it.**
+6. **Nobody thanks anybody on any of the ten days, and nobody forgives anybody on any of the ten days.** The shutter comes down at about ten on all ten. **`thank-` and `forgiv-` must be swept and every occurrence read in a two-hundred-character window.**
+7. **The woman of about thirty is not named, is not a category, is not counted, is not described, is not asked a question, and nobody apologises to her. Her page's figure is not printed at all on these ten days.**
+8. **The ninth chair does not move on any of the ten days and its mover is not named. The place behind the woman's chair is named on Chapter 896 and on no other.**
+9. **The room under the building in a first district is dark at about eleven on all ten days and is not opened.**
+10. **The book's figure and the tin's figure are on every page and the two are never converted and the difference is never printed as a number.**
+11. **`Crown` is at zero on all ten pages. Movement II is one of the three movements of this volume that place no use of the word at all.**
+12. **Ten objects are named on the closing page of each file and no two of them are brought together in a sentence.** They are: the book in a green binding; a doorway held open on a card creased once; nine hand copies of the front of one page; the tin with its lid down; a strip of paper cut narrow with one word on it; the board on two nails with nineteen ruled lines; the shutter; the rail with two places in it; the ring binder standing on a shelf at the back; **and the four-column sheet, which Movement I named in ten different wordings and which these ten pages must name in ten more.** The cage down one side of a counter is outside all ten and stays outside. **Two object lists on these ten pages that share a twelve-word sentence are the Movement I defect and it is not allowed twice.**
+13. **`Evan Senn` is at zero on all ten pages, and Iona Sorn is at zero on all ten pages and is the last enemy in this manuscript.**
+14. **The correct-things register stands at four, is printed as a figure in a sentence, is not counted by anybody in this city, and NO FILE OF THIS MOVEMENT MAY ADD AN INSTANCE TO IT OR PRINT A FIFTH.**
+15. **No load book reports the absence of any prohibited thing. The standard heading is kept on every page and its subject is the day's work.**
+
+**AND THE WORDS THIS VOLUME'S GUARDRAIL 9 FORBIDS ON ALL SIXTY PAGES: `fair`, `unfair`, `justice`, `rightful`, `principle`, and the word `right` as an adjective. Movement I found nine occurrences of the last one on its first pass and repaired all nine, and Movements II to VI of Volume 17 each returned zero, so a clean ten here is the expected result and not an achievement.**
+
+## 6. The spends, and the ceiling
+
+**THE CEILING FOR THE WHOLE OF VOLUME 18 IS EIGHT. Movement I spent six and two remain, and both are placed here.** A return is not a spend. Sera Quill, Talia Venn, the woman of about forty-three, the woman of about nineteen, the woman of about sixty, the man of about fifty-seven and the man of about thirty-three are all people this volume already has, and putting any of them back on a page is not a spend.
+
+| # | Spent | Pages | Status |
+| --- | --- | --- | --- |
+| 7 | a man of about thirty-eight who keeps a clinic in a fourth district | 893, 894 | spent |
+| 8 | a woman of about twenty-nine who is one of the nine's relatives and is not on the form | 894 | spent |
+
+**THE COUNT IS EIGHT AGAINST A CEILING OF EIGHT AND NO SLOT REMAINS. Movements III to VI may not add a new named person with something to carry and may not repair the ceiling by deleting one of these eight from a page they are on.** Asha Reed is on no page of Movement I and that omission is published; **she is placed by the plan of record on Movement IV and may be placed there, and placing her is not a spend if she carries nothing, and if she carries something it is against a ceiling that has nothing left and that is a decision for Movement IV's own summary to state.**
+
+## 7. Measure it, and publish what you measure
+
+**After the ten files are written and any repairs are made, measure and publish these, with your instrument's boundary printed next to each one. A count without its boundary is not a count.** Movement I's own results are at `batch-0001/SUMMARY.md` §10 and a movement that publishes fewer measurements than its predecessor has published fewer facts.
+
+1. The opening bold paragraph length on each file, in words, and the four-token opening construction on each file.
+2. Every printed interval figure on each file, walked against `day − anchor` for one of the eighteen, with zero off-series figures.
+3. Every `days / weeks` rendering, regenerated from the figure and compared character for character.
+4. The sixteen docket series cells on each of the ten files, checked against the generator, one hundred and sixty cells.
+5. The load-book markers 894 to 903 with `(entry − chapter) = {3}`, and the day, week and weekday map against `week = (day − 502) // 7 + 88`.
+6. The governed counter 196 to 205, once each, and the whole-number-of-weeks vector and its printed occurrence vector.
+7. The four per-job charges on each day against that day's total in the body and on the docket row.
+8. The place behind the woman's chair, named on how many of the ten files and carrying a figure on how many.
+9. The woman's page figure, and the confirmation that zero of them appear on a page.
+10. The word `right` as an adjective, and `fair`, `unfair`, `justice`, `rightful`, `principle`, at a case-sensitive whole-word boundary and again case-insensitively, with the boundary printed.
+11. Duplicated twelve-word sentences at body scope, at apparatus scope and at whole-file scope, and each file against itself.
+12. Month-names on a capitalised whole-word boundary, Arabic digits in any body, `short`, `thank-`, `forgiv-`, `apolog-`, `telephon-`, `messenger`, `broadcast`, `feed`, `letter`, `postal`, `Crown`, `Evan Senn`, `Iona Sorn`.
+13. The count of files naming the register, the figure it is printed at, and a sweep for a fifth.
+14. The ten-object closing list, its boundary printed, and the item count on each file.
+15. **The count of supporting-cast slots spent, against the ceiling of eight, and any placement of Asha Reed and whether it is a spend.**
+
+## 8. What you may not do to this manuscript
+
+**No chapter file, batch summary, calendar figure or state figure is to be copied out of a table into prose rather than computed against it.** No digit may appear in any body. **One panel in this whole volume and one marker, at Chapter 899 and nowhere else.** No new enemy, no resurrection, no hidden bloodline, no secret higher order, no world outside this city and its regions. **No reversal, softening or retcon of anything Volume 15, Volume 16 or Volume 17 settled, and nothing whatever is said about whether the practice the four hundred people kept after their district left in Volume 16 worked.** No romantic gesture that erases Talia's independent public role, and no scene in which she saves him. No teaching, no assessment, no demonstration, and no new capability. No number that goes up. **The opening of the Exchange's book at Chapter 896 is not a solution and no page may describe it as one, and the close of the volume is not decided by this movement and is nobody's to decide.**
+
+**`state/phase-ledger.json`, `.github/workflows/`, `scripts/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json`, `outline/series.md`, `outline/ending.md`, `outline/volume-15.md`, `outline/volume-16.md`, `outline/volume-17.md` and `NOVEL_SPEC.md` are controller-owned or plan-of-record and are read and not written by this pass.**
+
+## 9. The hand-on, and what the next phase after this one is
+
+**The next phase is `workspace/volume-18/batch-0003/` and it is Movement III, Chapters 901 to 910, days 2030 to 2044, weeks 306 to 308, entries 904 to 913, and it holds the sixty-sixth sitting at Chapter 910 on day 2044, at which the book shuts.** Its figures must be walked off the anchors and not copied out of this prompt.
+
+**What Movement III needs to be told, in nine lines: 1.** The word in the fourth column is *load* and it means two things, and a woman of about forty-three separated them onto two pieces of paper on the second day of Movement II and said she did not know there were two when she copied the columns out. **2.** A form with one box where there should be two boxes has been telling a lie for about four years and nobody is going to be told who it lied to. **3.** The file behind the nine rows is in a records room in a second district that is a landlord and a filing system, and about four of the nine people who went to look at it were allowed to and about five were not. **4.** The file has a review date on every one of the nine rows and **every one of the nine review dates is in the past and the oldest is about four years past.** **5.** A man of about thirty-eight who keeps a clinic in a fourth district has said a review being due is not a thing a clinic can be told about by a person at a counter, and that he will do it anyway. **6.** A woman of about twenty-nine who is one of the nine's relatives is not on the form and has not asked to be and nobody asked her. **7.** The count announced at the sixty-fifth sitting was seventy, of which sixty-five correspond, and the book was on sixty-eight lines when that room opened and stood at sixty-nine lines when the shutter came down, and the tin was at seventy-three with its lid down and was not opened. **8.** A man of twenty-two was in that room and said the fifth column of a sheet will still be empty on Monday, and nobody said anything back to that. **9.** The woman's page's figure is printed on no page of this volume and the binder did not come out on any of Movement I's ten days or Movement II's ten, and the place behind the woman's chair is named on Chapter 883 with a figure of five hundred and eleven days and on Chapter 896 with a figure of five hundred and thirty-two and on no other file.
