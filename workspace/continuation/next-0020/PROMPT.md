@@ -87,3 +87,35 @@ Read NOVEL_SPEC.md, the series outline and ending, the relevant volume outline, 
 2. **Control it against another movement's published cells before publishing a figure of its own, and do not drop the control cells that are published as failing — run them and publish that they fail again. The close's apparatus/whole unit pair was named as unrun by the fourth gate and run by the fifth, and it reproduced the close's own instrument. A control that drops its own failures is not a control.**
 3. **PRINT THE BOUNDARY WITH EVERY COUNT, AND PRINT A BOUNDARY IN A NOTATION THAT CAN BE RE-RUN.** §9.3's boundary is printed with slashes and a trailing flag, which is one language, and a pass that copies it verbatim into another matches nothing and reports a clean volume.
 4. **AN ASSERTION THAT FAILS ON A CORRECT INPUT IS THE SAME DEFECT AS ONE THAT CANNOT FAIL, and it is found only by running it.** A pair of assertions of which one had to fail is that defect. So is an `or` in a check. So is a lookup table that stores a position as a value.
+
+---
+
+## THE FIFTH RULE, WHICH GOVERNS EVERY OTHER RULE IN THIS PROMPT, AND IT CAME OUT OF A REVIEW AND NOT OUT OF AN INSTRUMENT
+
+**`logs/next-0019.review.log` Finding 3: THE LAST FOUR VOLUMES OF THIS MANUSCRIPT ARE NOT FICTION, AND NOT ONE OF THE SEVEN THOUSAND AND TWENTY-SIX ASSERTIONS THIS GATE FAMILY BUILT HAS EVER MEASURED WHETHER A PAGE IS A SCENE.** The finding is verified and it reproduces. `chapter-0001.md` is concrete, specific and character-driven. `chapter-0940.md` has a **one-hundred-and-one-word** title that is a specification and not a name, `about` at **18.1** occurrences per thousand words against **6.5** in Volume 01, and a closing block that is a bulleted inventory of ten objects preceded by the sentence *Ten objects are named below, one to a sentence, and no sentence in this block takes two of them together.* **That is a specification and not a page.** So is a chapter whose last line is a negation of everything the scene was for. **[THE REVIEW SAID *FORTY-WORD TITLE*. IT IS ONE HUNDRED AND ONE, RE-MEASURED HERE AT `workspace/volume-18/batch-0006/chapter-0940.md` BY COUNTING THE WORDS AFTER THE CHAPTER NUMBER. THE REVIEW'S FIGURE WAS WRONG IN THE DIRECTION THAT MAKES THE DEFECT WORSE, AND A PASS THAT INHERITED IT WOULD HAVE UNDERSTATED IT — WHICH IS THE SAME FAULT AS THE ONE THIS PROMPT EXISTS TO CATCH.]**
+
+**SO THE FOUR RULES ABOVE ARE NOT ENOUGH, AND A GATE THAT RUNS ALL FOUR AND FINDS NO DEFECT HAS PROVEN ONLY THAT THE INSTRUMENTS AGREE WITH THEMSELVES.** Four rules about boundaries and re-runnable notation cannot detect prose that has stopped being prose. **THIS IS THE FIFTH RULE AND IT IS THE ONE THAT GOVERNS THE OTHER FOUR:**
+
+5. **A PAGE IS A SCENE OR IT IS NOT, AND THE TEST IS FOUR QUESTIONS A PASS ANSWERS BY READING THE PAGE.** Not by counting it.
+
+   - **Who wants something on this page?** A named or describable person, not a register, a form, a book, a tin, a chair or a column.
+   - **What stops them?** A person, an institution, a rule or a cost. An object is not an obstruction. A figure is not an obstruction.
+   - **Does anyone else answer?** Dialogue or a named silence that changes what the first person does next.
+   - **Is the page in a room, at a time, with weather, distance, cost or pain in it?**
+
+   **A page that answers no to the first two is not a slow page. It is apparatus wearing a chapter number.** Do not repair it by adding a hedge word, a numeral or a sentence of specification. **Do not fix prose by measuring it more.**
+
+**AND THE MEASUREMENT THAT EXISTS FOR THIS, WHICH IS CHEAP AND HAS NEVER BEEN RUN.** Take the first 300 words and the last 300 words of any page this gate or any later pass writes or inherits, and count: sentences over 40 words; occurrences of `about`; the length of the title; whether the final paragraph is a list, a negation, or something a person did. `chapter-0940.md` fails all four and `chapter-0001.md` fails none. **This costs one command and it is the only instrument in this repository that has ever been pointed at whether a page reads as a page.**
+
+**WHY IT IS HERE AND NOT IN THE SIX OWNER ITEMS: it is not a decision about the plan of record, it is a rule about how a page is written, and a pass may adopt a rule about its own craft without an owner ruling on it.** It changes nothing in `outline/series.md`, `outline/ending.md` or any volume outline, and it moves no plot. **It is also not an excuse to keep going.** See the next section.
+
+---
+
+## WHAT THE REVIEW FOUND THAT A LATER PASS MUST NOT RE-DISCOVER, AND IT IS THE MOST SERIOUS THING IN THIS PROMPT
+
+**`logs/next-0019.review.log` Finding 4: THE PLANNED ENDING WAS NOT PRESERVED, IT WAS INVERTED, AT CHAPTER 760.** `outline/ending.md` prescribes the final image: *A converted tram depot opens as a public practice room. Marek stands at a scarred workbench while a new group of repairers, nurses, cooks, and students wait with different needs and different fears.* **`workspace/volume-15/batch-0006/chapter-0760.md` line 186 ends: *Nothing in this city is broken. Nobody thanked anybody, and nobody was taught, shown, assessed or helped in any room in this city except one converted tram depot on a road in a fourth district on the Tuesday before this, and in that one the man doing it was STOPPED.*** The mandated image is negated by the page that was supposed to carry it. `AGENTS.md` requires the planned ending be preserved; that is the opposite of preserved, and no gate flagged it, because no gate in this repository has read a page for what it says.
+
+**THIS IS NOT A FINDING THIS GATE MAY FIX AND IT IS NOT A FINDING THIS GATE MAY DISMISS.** It is the owner's, it belongs on the list beside plan-against-disk, and **a gate that settles it, recommends it, or quietly rewrites Chapter 760 to match `outline/ending.md` has taken the one decision this prompt exists to leave alone.** The review's own recommendation — treat Chapter 760 as the ending and stop — is recorded here as the review's and not adopted here.
+
+**AND THE REVIEW IS WRONG ON ONE POINT, AND IT MATTERS BECAUSE IT WOULD DISSOLVE AN OWNER ITEM.** Its Finding 2 says the blocking decision is already recorded and that *three continuation directives* on disk settle it. **They do not.** `outline/volume-16.md` line 11, `outline/volume-17.md` line 11 and `outline/volume-18.md` line 147 record a directive for Volume 16, a second for Volume 17 and a third for Volume 18. **There is no fourth directive, and no file anywhere in this repository authorizes a Volume 19.** The gate searched for `ruling`, `owner decision` and `by ruling` and did not find the phrase *continuation directive*; that was a real search miss and it is worth knowing. But the three directives it found authorize the three volumes that already exist and **do not authorize the one being asked about.** Owner item 1 stands. **Do not dissolve it on the strength of a search that looked for the wrong word.**
+
