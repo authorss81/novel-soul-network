@@ -4,7 +4,7 @@
 
 ---
 
-Nine callers came through that shop on that Wednesday, the first of them a little after seven and the ninth taken at ten to nine, and that shutter came down at about ten.
+Nine callers came through that shop on that Wednesday, the first of them a little after seven and the ninth taken at about half past nine, and that shutter came down at about ten.
 
 **The four converted units off that service road stood at one thousand seven hundred and forty-five days, two hundred and forty-nine weeks and two days. The post at the far end of that corridor had its face worn halfway up one thousand two hundred and ninety-three days, one hundred and eighty-four weeks and five days.**
 
@@ -118,7 +118,7 @@ She gave the till a way of its own and proved both.
 
 *946.
 Wednesday of week 317, at ten. That is the one hundred and eighty-eighth day of this stretch of days. That Wednesday brought nine callers in and took nine names, and the ninth of the nine was entered at about half past nine.
-**Nothing sat in on that That day and that day and this city heard no figure spoken in any room on it. He went up a first floor in a second district with one question written out on the back of a docket and she answered it before he finished asking it. She told him what the answer costs in four points and put a thumb on the fourth one. He got two words into asking her to use the office she holds and she stopped him, and he did not ask her again. That Wednesday was worth thirty-seven pounds, exact.**
+**Nothing sat in on that Wednesday and that day and this city heard no figure spoken in any room on it. He went up a first floor in a second district with one question written out on the back of a docket and she answered it before he finished asking it. She told him what the answer costs in four points and put a thumb on the fourth one. He got two words into asking her to use the office she holds and she stopped him, and he did not ask her again. That Wednesday was worth thirty-seven pounds, exact.**
 
 *Conditions and docket.* **Callers on that Wednesday: nine. Entered on that day's book: nine, and the ninth of the nine taken at about half past nine.
 Four units standing off that service road, one of them carrying heat: one thousand seven hundred and forty-five days, two hundred and forty-nine weeks and two days
@@ -142,13 +142,13 @@ Not asked and not given: she was not asked to use that office, and he did not as
 Work: nine, one question answered before it was finished, nothing escalated, nothing handed back.
 Charge: thirty-seven pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two no figure for either of those two appears on this page and neither was taken from the other.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and no figure for either of those two appears on this page and neither was taken from the other.
 That ninth chair has its back to the whole of that room and it did not move on that Wednesday, and this stretch of days does not name the person who moves it anywhere. The empty place behind that chair was not named on that Wednesday and not one page of this movement prints a figure for it.
 There is a room under a building in a first district and at about eleven on that Wednesday there was nothing burning in it, and nothing is burning in it at this hour either, and it has never once been lit.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Wednesday and the end of it, and it is a thing said in a sentence and not a number anybody keeps. A question put to a person who could not answer it without an office is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and this passage keeps them apart on purpose and says so. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back, a narrow strip of paper with one word on it, and a docket with eleven words on the back of it.
-The cage down one side of a counter stands outside all ten, and so does a form that came back on a bus. A sheet carrying five columns with one date in the fifth on nine rows is one of the ten and not one more.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and this passage keeps them apart on purpose and says so. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A narrow strip of paper with one word on it. A docket with eleven words on the back of it.
+The cage down one side of a counter stands outside all ten, and so does a printed form that came back on a bus. A sheet carrying five columns with one date in the fifth on nine rows is one of the ten and not one more.
 A light over the middle of about nine metres of a corridor in a second district has been out for about four months and the woman who works at the top of it has the only key to the cupboard it is in and has not been asked to get it.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and nobody has to be a somebody to ask for them.
 Nobody thanked anybody and nobody forgave anybody on that Wednesday. A man asked a woman one question and got the answer and the cost and left the room with the question still his, and she approved nothing and he signed nothing, and neither of them has said to anybody that the other one was right.**

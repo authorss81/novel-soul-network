@@ -92,7 +92,7 @@ The man of about sixty-one said: I will have an answer in about nine days and yo
 
 **The rest of that Tuesday went into two rooms above a shop in a fourth district for about two hours, and four jobs went into them.**
 
-A socket in the back room had been put in on a way that also fed the freezer in the front.
+A socket in the back room had been put in on a way that also runs the freezer in the front.
 
 She gave it a way of its own and proved the freezer with the room off.
 
@@ -116,7 +116,7 @@ She found the spur, cut it out and proved the board full and empty.
 
 "**Thirteen pounds,**" she said. "**One spur left on a full board is the thing that happens just before somebody puts in a bigger board. About four of those boards in that row have one spare way left, and one of them has been a shop that has been about to have a fire for about four years.**"
 
-**Thirty-nine pounds is what those four came to on that Tuesday, exact.**
+**Thirty-nine pounds is what those four came to on that Tuesday, and that is the whole of it.**
 
 ---
 
@@ -125,7 +125,7 @@ She found the spur, cut it out and proved the board full and empty.
 ---
 
 *951.
-Tuesday of week 318, at ten. That is the one hundred and ninety-third day of this stretch of days. That Tuesday brought nine callers through and took nine names for them, the last of the nine at about half past nine.
+Tuesday of week 318, at ten. That is the one hundred and ninety-third day of this stretch of days. That Tuesday brought nine callers through and took nine names for them, the last of the nine at about twenty minutes past nine.
 **Nothing sat in on that Tuesday and that day and nobody in this city said a figure out loud in a room. A man of about sixty-one who holds a records room in a second district read a request standing up and said that the last one he had was for a copy and the copy did not come back, and that he would not put a page into the hands of a person he could not name, and that he would not put it into his own name either. The name at the top of the request was crossed out and the name of a man of twenty-two was written underneath it, and the man of about sixty-one said that the page will not come to him. He will have an answer in about nine days. That Tuesday was worth thirty-nine pounds, exact.**
 
 *Conditions and docket.* **Callers on that Tuesday: nine. Entered on that day's book: nine, and the last of the nine taken at about twenty minutes past nine.
@@ -150,12 +150,12 @@ Not asked and not given: nobody in that room asked the man of about sixty-one wh
 Work: nine, one request signed and one name crossed off it, nothing escalated, nothing handed back.
 Charge: thirty-nine pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two no figure for either of those two is printed here and none was arrived at from the other.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and no figure for either of those two is printed here and none was arrived at from the other.
 That ninth chair has its back to the whole of that room and it did not move on that Tuesday, and the moving of it is unattributed in every page of this stretch of days. The empty place behind that chair was not named on that Tuesday and this movement gives it no figure on any of its pages.
 There is a room under a building in a first district and at about eleven on that Tuesday there was nothing burning in it, and nothing is burning in it at this hour either, and no lamp in that building has ever been turned on in it.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Tuesday and the end of it, and it is not on any list that anybody keeps in this city. A name put on a request about nine people who cannot be named is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects, each in its own line, and no sentence below carries a pair. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back, a narrow strip of paper with one word on it, and a pen in a pocket that has never once been used for the thing it was put in for.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects, each in its own line, and no sentence below carries a pair. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A narrow strip of paper with one word on it. A pen in a pocket that has never once been used for the thing it was put in for.
 The cage down one side of a counter stands outside all ten, and so does a second chair on a landing that nobody waits in. A request for one page of one book is one of the ten and not one further, and the drawer it will sit in is not named here.
 The first document in this matter carrying a name carries one, and it is not one of the nine, and the person whose name it is had not noticed his own name on it until a man in a second district read it back to him.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and there is no standing anybody has to have to ask for them.

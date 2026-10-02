@@ -1,16 +1,16 @@
 # Chapter 949 — A Man Who Will Not Read It Out
 
-**A Wednesday was a bench until two and a counter until about six and then a warm room, and a man of about sixty-one came up those stairs with a book under his arm after about nine days and put it on a table and said he was not going to read it out, and the reason he gave was correct.**
+**A Wednesday was a bench until two and a counter until about six and then a warm room, and a man of about sixty-one came up those stairs with a book under his arm the morning after that Tuesday and put it on a table and said he was not going to read it out, and the reason he gave was correct.**
 
 ---
 
-Nine callers came through that shop on that Wednesday, and the ninth of them was written in the book at half past nine, and that shutter came down at about ten.
+Nine callers came through that shop on that Wednesday, and the ninth of them was written in the book at about twenty-five past nine, and the shutter came down at about ten.
 
 **The four converted units off that service road stood at one thousand seven hundred and fifty-two days, two hundred and fifty weeks and two days. The man of about fifty-one had not moved off that north wall for one thousand three hundred and fifty-eight days, one hundred and ninety-four weeks to the day.**
 
 ---
 
-**He came up those stairs on the Wednesday rather than sending anybody and nobody in that room had asked him to come and about four people in that room have said since that a man who has been refused twice in four years walking up a stair uninvited is not a thing anybody had a category for.**
+**He came up those stairs on the Wednesday rather than sending anybody and nobody in that room had asked him to come and about four people in that room have said since that a man who does not let anybody past that desk walking up a stair uninvited is not a thing anybody had a category for.**
 
 He put the book on the table. It is about the size of a novel and the spine has been re-taped twice.
 
@@ -48,7 +48,7 @@ Marek said: and it is not you.
 
 Marek said: it is not you because you have said so.
 
-He said: it is not me because of what I said on the Tuesday before last and you did not hear it.
+He said: it is not me because of what I said to you yesterday and you did not hear it.
 
 ---
 
@@ -82,19 +82,19 @@ He said: whoever reads it is holding it from the moment they open it.
 
 He said: that is the actual arrangement and there is no way round it and you have signed up for the other half of it and the other half is that you will never know.
 
-**Nobody in that room said one word back to him about that.**
+**Nobody in that room said one word back to him about that, and he did not stand there waiting for one.**
 
 He said: I have carried it for nine years. You are about to carry it for about nine days and you will not like that either.
 
 ---
 
-**He took the book off the table and put it under his arm and went down those stairs, and it took him about four minutes to go down a stair he has gone up and down about nine thousand times, and about four people in that room have said since that they watched him go and that none of them said anything while he was going.**
+**He took the book off the table, put it under his arm and went down those stairs, and it took him about four minutes to go down a stair he has gone up and down about nine thousand times, and about four people in that room have said since that they watched him go and that none of them said anything while he was going.**
 
 **The book went back to a second district in a coat, on a bus that takes about twenty minutes, and it did not come back on that Wednesday and it did not come back on the Thursday either.**
 
 ---
 
-**The rest of that Wednesday went into a yard and a garage behind it for about two hours, and four jobs went into them.**
+**The rest of that Wednesday went into a yard and a garage behind it, about two hours of it, and four jobs went into them.**
 
 A roller door in that garage had its guide rails set about an inch out from the jamb on one side, so that the door came down out of square.
 
@@ -108,7 +108,7 @@ She put an earth in at the fitting and proved the case from the floor.
 
 "**Eleven pounds,**" she said. "**A light over a bench with no earth is a bench somebody is standing on. About four of those fittings in that row are un-earthed, and one of them has been a bench that two men have been frightened of for about four years.**"
 
-A socket in the office of that garage had been put in on a way that also fed the compressor, so that the compressor stopped whenever anything was plugged in.
+A socket in the office of that garage had been put in on a way that also runs the compressor, so that the compressor stopped whenever anything was plugged in.
 
 He gave the socket a way of its own and ran the compressor with a kettle on the socket.
 
@@ -130,9 +130,9 @@ He cut it out, ran a proper lead and proved the lamp.
 
 *952.
 Wednesday of week 318, at ten. That is the one hundred and ninety-fourth day of this stretch of days. That Wednesday's book closed at nine names and the ninth of them was written at about twenty-five past nine.
-**Nothing sat in on that That day and that day and no room in this city had a figure said in it. A man of about sixty-one came up that stair uninvited with a book under his arm, put it on a table, said he had found the page and would not read it out, and gave the reason that he is a landlord and a filing system and does not decide what is said about what he holds. He said it cannot be the woman of forty-three and cannot be the man who signed the request, because the man who signed it is the wrong man to be the one who reads it. Nobody asked the next question. That Wednesday was worth fifty-six pounds, exact.**
+**Nothing sat in on that Wednesday and that day and no room in this city had a figure said in it. A man of about sixty-one came up that stair uninvited with a book under his arm, put it on a table, said he had found the page and would not read it out, and gave the reason that he is a landlord and a filing system and does not decide what is said about what he holds. He said it cannot be the woman of forty-three and cannot be the man who signed the request, because the man who signed it is the wrong man to be the one who reads it. Nobody asked the next question. That Wednesday was worth fifty-six pounds, exact.**
 
-*Conditions and docket.* **Callers on that Wednesday: nine. Entered on that day's book: nine, and the ninth of those nine names taken at about twenty-five past nine.
+*Conditions and docket.* **Callers on that Wednesday: nine. Entered on that day's book: nine, and the ninth of those nine names written at about twenty-five past nine.
 Four units standing off that service road, one of them carrying heat: one thousand seven hundred and fifty-two days, two hundred and fifty weeks and two days
 The one card in that rail, once creased across its middle: one thousand seven hundred and fifty-six days, two hundred and fifty weeks and six days
 The twelfth of nineteen ruled lines on that board up on two nails: one thousand six hundred and seventy-two days, two hundred and thirty-eight weeks and six days
@@ -154,12 +154,12 @@ Not asked and not given: one question was not asked, and the woman who could hav
 Work: nine, one refusal and one silence, nothing escalated, nothing handed back.
 Charge: fifty-six pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two this page prints neither of them and would not know what to do with the difference.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and this page prints neither of them and would not know what to do with the difference.
 That ninth chair has its back to the whole of that room and it did not move on that Wednesday, and this stretch of days leaves the moving of it without a name. The empty place behind that chair was not named on that Wednesday and a figure for it appears on no page of this movement.
 There is a room under a building in a first district and at about eleven on that Wednesday there was nothing burning in it, and nothing is burning in it at this hour either, and there has never been a light in it at that hour or any other.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Wednesday and the end of it, and no clerk in this city has ever been given it to write down. A man carrying a book out of a room in a coat is not on it, and a page nobody has read is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and the sentence rule for this passage is one to a line. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A binder standing on a shelf at the back. A narrow strip of paper with one word on it. A book with a spine taped twice.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and the sentence rule for this passage is one to a line. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A binder standing on a shelf at the back. A narrow strip of paper with one word on it. A printed form up on a wall by two drawing pins. A book with a spine taped twice.
 The cage down one side of a counter stands outside all ten, and so does a request in a drawer in a second district with one name crossed off it and one name under it. A page of nine names is not on that page and is not on this one and this page does not print it.
 A man who asked about nine people has been told he will never be told who they are, and he has signed up for that in his own name, and he has not been told who will be told.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and they are on open access at a counter on a first floor.

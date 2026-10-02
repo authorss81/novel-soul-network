@@ -6,7 +6,7 @@
 
 Seven callers came through that shop on that Saturday between about nine and about one, and that shutter came down at about two.
 
-**The four converted units off that service road stood at one thousand seven hundred and forty-eight days, two hundred and forty-nine weeks and five days. That space on the sheet marked for a date stood at one thousand four hundred and thirty-eight days, two hundred and five weeks and three days, and the date had been standing in it for sixteen days.**
+**The four converted units off that service road stood at one thousand seven hundred and forty-eight days, two hundred and forty-nine weeks and five days. That space on the sheet marked for a date stood at one thousand four hundred and thirty-eight days, two hundred and five weeks and three days, and the date had been standing in it for ten days.**
 
 ---
 
@@ -134,13 +134,13 @@ Not asked and not given: nobody in that room asked the woman of about fifty-one 
 Work: seven, one name given out loud and not written, nothing escalated, nothing handed back.
 Charge: thirty-two pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and there is no number here for either of those two and there was none to take.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and there is no number here for either of those two and there was none to take.
 That ninth chair has its back to the whole of that room and it did not move on that Saturday, and no hand in this stretch of days has signed for the moving of it. The empty place behind that chair was not named on that Saturday and this movement prints no figure for it anywhere on its own pages.
 There is a room under a building in a first district and at about eleven on that Saturday there was nothing burning in it, and nothing is burning in it at this hour either, and it has stood dark on every night of this stretch of days.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Saturday and the end of it, and it stands where it has stood for about four years. A name given out loud in a room and not written down is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects are named underneath and the naming is the whole of it. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back, and a sheet with five columns lying flat on a table with a hand beside it and not on it.
-The cage down one side of a counter stands outside all ten, and so does a printed form up on a wall by two drawing pins in a fourth district. A narrow strip of paper with one word on it is one of the ten and not one further.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and it names them one to a line and the naming is the whole of it. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A narrow strip of paper with one word on it. A printed form up on a wall by two drawing pins.
+The cage down one side of a counter stands outside all ten, and so does a sheet of five columns lying flat on a table with a hand beside it and not on it. That sheet is the thing the day was about and it is counted once.
 A name was given out loud in that room on that Saturday and it is not on anything in this city except a woman of about fifty-one and about nine people who were in the room, and about four of those nine have said since that they each have it and that having it is not the same as it being anywhere.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and they have never been closed to a person who asks.
 Nobody thanked anybody and nobody forgave anybody on that Saturday. A woman came into a room to find out whether a day was hers and left without finding out, and nobody wrote her name down, and nobody asked her why she came.**

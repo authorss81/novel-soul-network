@@ -54,7 +54,7 @@ She said: show me.
 
 He gave her the docket and she read it standing up on the stair with the light over the landing that works and she turned it round and read it and turned it back and gave it to him.
 
-She said: right.
+She said: that is correct.
 
 ---
 
@@ -102,13 +102,13 @@ She said: I want somebody else holding the other end of it. Two people holding o
 
 ---
 
-**The rest of that Thursday went into a corridor and a yard for about two hours, and four jobs went into them.**
+**The rest of that Thursday went into a corridor and a yard, about two hours of it, and four jobs went into them.**
 
 An emergency light in that corridor had been wired with a non-maintained fitting on a supply that is switched off at the isolator at night, so that it did nothing after about midnight.
 
 She put a maintained fitting on and proved it on its own supply with the isolator open.
 
-"**Nine pounds,**" she said. "**An emergency light on a switched supply is a light that is off when it is wanted. About four of those fittings in that block are non-maintained or badly fed, and one of them has been a corridor that has been dark at the end of it for about four years.**"
+"**Nine pounds,**" she said. "**An emergency light on a switched supply is a light that is off when it is wanted. About four of those fittings in that block are non-maintained or badly wired, and one of them has been a corridor that has been dark at the end of it for about four years.**"
 
 A socket in that yard had been put in with an earth taken off a water pipe at a point where the pipe had been cut and rejoined.
 
@@ -140,7 +140,7 @@ He cleared it, put the lid on, sealed it and proved the box with the lid off.
 Thursday of week 318, at ten. That is the one hundred and ninety-fifth day of this stretch of days. That Thursday took nine names for the nine callers who came through, and the ninth of them at about twenty past nine.
 **Nothing sat in on that Thursday and that day and no figure came out of a mouth in this city. A man of twenty-two caught a woman he works for on a stair at four past eight and asked her to read a page, and she said no to the page and yes to reading it and told him she will not do it in that room. She read the request standing up on that stair and did not say the name on it out loud. She said that opening it makes her the person holding it, that she will have to decide what to do with nine names before she tells him whether she has read them, and that he will not be able to help. She said she will not do it on her own and that she has four people in her head and has not asked any of them. That Thursday was worth thirty-four pounds, exact.**
 
-*Conditions and docket.* **Callers on that Thursday: nine. Entered on that day's book: nine, and the last of those nine names taken at about twenty past nine.
+*Conditions and docket.* **Callers on that Thursday: nine. Entered on that day's book: nine, and the last of those nine names entered at about twenty past nine.
 Four units standing off that service road, one of them carrying heat: one thousand seven hundred and fifty-three days, two hundred and fifty weeks and three days
 The one card in that rail, once creased across its middle: one thousand seven hundred and fifty-seven days, two hundred and fifty-one weeks to the day
 The twelfth of nineteen ruled lines on that board up on two nails: one thousand six hundred and seventy-three days, two hundred and thirty-nine weeks to the day
@@ -162,16 +162,16 @@ Not asked and not given: nobody on that stair asked Sera Quill which of the four
 Work: nine, one page accepted by a person who is not the requester, nothing escalated, nothing handed back.
 Charge: thirty-four pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and neither of those two figures is printed on this page in any form.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two figures is printed on this page in any form.
 That ninth chair has its back to the whole of that room and it did not move on that Thursday, and no page of this stretch of days says who last moved it. The empty place behind that chair was not named on that Thursday and it is printed without a figure on every page of this movement.
 There is a room under a building in a first district and at about eleven on that Thursday there was nothing burning in it, and nothing is burning in it at this hour either, and it is unlit and has been since it was made.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Thursday and the end of it, and it stays at four without anybody doing anything about it. A page agreed to be read by somebody who is not the man who asked for it is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects follow, in single lines, and no two are ever named in one breath. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A drawer in a second district.
-The cage down one side of a counter stands outside all ten, and so does a printed form up on a wall by two drawing pins, and so does a narrow strip of paper with one word on it. A page of nine names in a book is none of the ten and is not counted here and this page does not print it.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects follow, in single lines, and no two are ever named in one breath. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A printed form up on a wall by two drawing pins. A drawer in a second district.
+The cage down one side of a counter stands outside all ten, and so does a narrow strip of paper with one word on it, and it is a strip and not a sheet and this page does not fold it into the ten. A page of nine names in a book is none of the ten and is not counted here and this page does not print it.
 Two people holding one page is not two people reading it, and nobody in this city has yet been asked to hold the other end of it, and the man who asked for the page will find that out at the same time as everybody else.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and nothing about asking for them is restricted.
-Nobody thanked anybody and nobody forgave anybody on that Thursday. A man of twenty-two asked a woman on a stair to do a thing he cannot do himself and she said yes and then said what the yes would cost, and he has not asked her again and has not asked anybody else, and the ninth day from the day before yesterday falls tomorrow and about four people in this city are counting it and are not saying so.**
+Nobody thanked anybody and nobody forgave anybody on that Thursday. A man of twenty-two asked a woman on a stair to do a thing he cannot do himself and she said yes and then said what the yes would cost, and he has not asked her again and has not asked anybody else, and the ninth day from that Tuesday is seven days off and about four people in this city are counting it and are not saying so.**
 
 ---
 

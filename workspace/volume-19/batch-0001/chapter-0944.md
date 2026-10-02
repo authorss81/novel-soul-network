@@ -26,7 +26,7 @@ She said: the man from the clinic.
 
 **The man of about thirty-eight came up those stairs on that Thursday because he is in that room on a Thursday and always has been, and he heard the last of it standing at the bottom of the stair, and he said his name and the floor of the clinic where he keeps it and neither of those was asked for.**
 
-He said: I put it up. I carried it out of that room on the Tuesday before last and I put it up myself and I did it in about twenty minutes and I did not ask anybody.
+He said: I put it up. I carried it out of that room three Tuesdays ago and I put it up myself and I did it in about twenty minutes and I did not ask anybody.
 
 He said: and I am not taking it down.
 
@@ -62,7 +62,7 @@ He said: you did.
 
 **And then she asked him what the notice is for, and he opened his mouth, and nothing came out of it for about four seconds, and then he said the true answer and the true answer was a sentence about himself.**
 
-He said: I do not know. I have looked at it every day for the two weeks it has been up and I have not been able to say what it is asking anybody to do.
+He said: I do not know. I have looked at it every day for the two weeks and two days it has been up and I have not been able to say what it is asking anybody to do.
 
 **Nobody in that room said one word back to him about that, and the man of about thirty-eight said one word, which was no, and it was not said at him.**
 
@@ -134,13 +134,13 @@ Not asked and not given: nobody in that room asked the man of about thirty-eight
 Work: nine, one thing wanted off a wall and not got, nothing escalated, nothing handed back.
 Charge: thirty-five pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two this page prints no figure for either of them and has not made one out of the other.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and this page prints no figure for either of them and has not made one out of the other.
 That ninth chair has its back to the whole of that room and it did not move on that Thursday, and nothing in this stretch of days puts a name to whoever has been moving it. The empty place behind that chair was not named on that Thursday and no figure for it is printed anywhere in this movement.
 There is a room under a building in a first district and at about eleven on that Thursday there was nothing burning in it, and nothing is burning in it at this hour either, and nobody has ever been in that room with a lamp.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Thursday and the end of it, and no person in this city has ever entered it in a book. A notice left up on a wall against the wish of the room that made it is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects, one to a line, and nothing below joins any two of them. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back, a narrow strip of paper with one word on it, and a printed form on a wall in a fourth district standing up by two drawing pins.
-The cage down one side of a counter stands outside all ten, and so does a box of drawing pins with about four left in it. A form carrying five columns with one date in the fifth on nine rows is one of the ten and not one more.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects, one to a line, and nothing below joins any two of them. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A narrow strip of paper with one word on it. A printed form on a wall in a fourth district standing up by two drawing pins.
+The cage down one side of a counter stands outside all ten, and so does a box of drawing pins with about four left in it. A form carrying five columns with one date in the fifth on nine rows is one of the ten and not one more of them.
 The day a notice goes up and the day it comes down are two different days and only one of them has anybody standing at the wall, and no page of this movement prints either of those days.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and the counter for them is open to whoever walks up to it.
 Nobody thanked anybody and nobody forgave anybody on that Thursday. A woman wanted something off a wall and a man said no with a reason that was correct, and a third man said the reason was correct out loud, and nobody in that room put the notice down and nobody in that room picked it up.**

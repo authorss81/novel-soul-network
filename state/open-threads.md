@@ -294,7 +294,7 @@
 
 ---
 
-# LIVE — THE REVIEW-FIX PASS ON CHAPTERS 961 TO 970 OPENED NO THREAD, SETTLED NO THREAD, CANCELLED NO THREAD AND ADDED A SEVENTH OWNER ITEM TO NOTHING. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **THE GOVERNING BLOCK OF THIS FILE IS THIS ONE AND IT IS ALSO THE LAST `# LIVE` HEADING IN IT.**
+# ARCHIVE — THE REVIEW-FIX PASS ON CHAPTERS 961 TO 970 OPENED NO THREAD, SETTLED NO THREAD, CANCELLED NO THREAD AND ADDED A SEVENTH OWNER ITEM TO NOTHING. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **RELABELLED AS ARCHIVE BY THE REPAIR PASS ON CHAPTERS 941 TO 950, WHICH OPENED ONE THREAD AND SETTLED NONE. THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IS NOT THIS ONE.**
 
 **THIS IS THE SIX-THREAD STATE OF MOVEMENT III UNCHANGED, AND THE SIX THREADS IN THE BLOCK ABOVE ARE STILL THE SIX THREADS.** Nothing in that block was reopened, reworded in substance, narrowed or widened by this pass. **The manuscript is at Chapter 970. A thread is a thing that is open in the world of the book, and nothing happened in the world of the book.**
 
@@ -309,3 +309,34 @@
 **THE SEVEN OWNER ITEMS ARE UNRULED, NONE IS SETTLED, NONE IS RECOMMENDED, AND NO EIGHTH IS OPENED.**
 
 **THE NEXT PHASE IS `workspace/volume-19/batch-0004/`, MOVEMENT IV, CHAPTERS 971 TO 980, DAYS 2156 TO 2168, WEEKS 324, 325 AND 326, ENTRIES 974 TO 983, WITH THE SEVENTIETH SITTING AT CHAPTER 971 ON DAY 2156 WHERE THE BOOK OPENS.**
+
+---
+
+# LIVE — THE REPAIR PASS ON CHAPTERS 941 TO 950 OPENED ONE THREAD, SETTLED NO THREAD, CANCELLED NO THREAD AND ADDED A SEVENTH OWNER ITEM TO NOTHING. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **THE GOVERNING BLOCK OF THIS FILE IS THIS ONE AND IT IS ALSO THE LAST `# LIVE` HEADING IN IT.**
+
+**THE MANUSCRIPT IS AT CHAPTER 970 AND EVERY STORY THREAD ABOVE THIS LINE STANDS EXACTLY AS IT STOOD. NONE WAS OPENED, SETTLED, CANCELLED OR ANSWERED BY THIS PASS.** The one thread this pass opens is not a thread in the story. It is a conflict between two files of the plan of record, it is recorded here rather than in the owner list, and **it is not an owner item and no owner item was opened for it.**
+
+## THE ONE THREAD THIS PASS OPENS
+
+**TWO PLAN FILES DISAGREE ABOUT WHEN THE PRINTED FORM ON THE WALL WAS PUT UP, AND THE ORDER THEY DISAGREE ABOUT IS IMPOSSIBLE AS PRINTED.**
+
+- `workspace/volume-19/ARITHMETIC-AND-CALENDAR.md` §2.1 gives the form **an origin of 2092 and says it went up on the Tuesday of week 315.**
+- `outline/volume-19.md` says the fifth column **was filled in on the Wednesday of week 316**, which the same calendar puts at **day 2100**, and that the form then went out of the room and across the city and up on the wall.
+
+**Day 2092 is eight days before day 2100. A form cannot be posted on a wall carrying a date that has not been written into it yet, so one of the two files has the order wrong and the arithmetic cannot decide which.** Chapter 945's own body resolves it in favour of the calendar, because it calls the evening the column was filled in *the Wednesday before last* and the detector puts that Wednesday at day 2100, ten days before Chapter 945; **the repair pass set the date's age at ten days and left the wall form's age at the calendar's origin rather than deciding the plan's conflict by editing a page.**
+
+**WHO OWNS IT.** Not a writer's pass. **`workspace/volume-19/ARITHMETIC-AND-CALENDAR.md` §6 says the volume close owes section 9 beside it, at volume scope, and the close is the first pass in a position to put the two plan files in one order.** It is carried in full at `workspace/volume-19/batch-0001/SUMMARY.md` §11.
+
+**WHY IT MATTS TO A LATER PASS AND NOT ONLY TO A CLOSER.** A pass that re-derives Chapter 944's two interval figures from `outline/volume-19.md` instead of from the calendar gets *two weeks* and gets *three Tuesdays ago*, and will not know which of the two it has. **The same nine lines now stand on Chapter 944 and they are only correct under one of the two files.**
+
+## AND WHAT DID NOT HAPPEN HERE, CHECKED RATHER THAN ASSERTED
+
+**No owner decision was settled and none recommended, item six and its four inner decisions included. No seventh item was opened.** The plan-against-disk difference is owner item 1 and is exactly as open as it was; a repair pass on Chapters 941 to 950 does not decide whether this manuscript ends at 760. The support-spend overage, the plan's phrase on Chapter 933 and the fifth column's heading were not touched. **The placed cast of five names — `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore`, `Lena Senn` — is at zero on all ten of these files and no page was invented for any of them.** The ombud's office was not used on Marek on any of these ten days, and this file makes no statement about how many times it has been used in this manuscript.
+
+**No debt of the nine, the seventeen or the four was paid, cancelled, opened or answered.** The ninth chair did not move on any of Movement I's ten days and its mover is named on none of them. The register of correct acts that changed nothing was not counted and no fifth of it is printed. No two of the nine hand copies were compared. The woman of about thirty was not asked anything. No offer was made to Iona Sorn, who is at zero on all thirty of this volume's files. **No Exchange figure is printed in any file this pass wrote and the difference between the book and the tin is printed nowhere.** The four arrival cells remain empty and are not approximated. **The woman's page governs and its figure is printed in no file this pass wrote, including this one and including the rewritten movement summary, whose previous printing asserted the same thing while printing it.**
+
+**THE SIZE OF THIS FILE, MEASURED BOTH SIDES AGAINST THE COMMIT BOTH FIGURES WERE TAKEN AT. It stood at 60,867 bytes at `18468b4` and is 65,476 bytes after this block, which is above the about-sixty-KB mark this set works to. This pass appended and did not compact, and the deferral is recorded as one because the reason is the file's own standing rule and not laziness. Every block in this file that is large enough to reclaim space either carries an open thread or is already an index of blocks that carried one, and this file's criterion before it indexes anything is that the block indexed *carried no open thread*. Compacting this file means consolidating its live thread inventory into one block first, and that is a job for the Volume 19 close, which is the pass that owns the volume's records. A pass that compacts this file by indexing a thread-bearing block will lose the thread, and a thread lost to a byte count is worse than a file that is five kilobytes over.**
+
+## THE NEXT PHASE
+
+**`workspace/volume-19/batch-0004/` — Movement IV, Chapters 971 to 980, days 2156 to 2168, weeks 324, 325 and 326, entries 974 to 983. Unchanged by this pass, and its prompt is already written.**

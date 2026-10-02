@@ -4,7 +4,7 @@
 
 ---
 
-Nine callers came through that shop on that Monday, and the last of them was at the counter at about a quarter to nine, and that shutter came down at about ten.
+Nine callers came through that shop on that Monday, and the last of them was at the counter at about twenty-five past nine, and that shutter came down at about ten.
 
 **The four converted units off that service road stood at one thousand seven hundred and fifty days, two hundred and fifty weeks to the day. The one card in that rail, once creased across its middle, stood at one thousand seven hundred and fifty-four days, two hundred and fifty weeks and four days.**
 
@@ -26,7 +26,7 @@ He said: I have had that in my coat since the winter before and I have taken it 
 
 She said: that column will say what we told and it will not say what they were told.
 
-**Nobody in that room said one word back to her about that.**
+**Nobody in that room said one word back to her about that, and about four people in that room have said since that they had each understood it at once and had not liked it.**
 
 He said: it will say the day.
 
@@ -94,7 +94,7 @@ It said *told*.
 
 **The rest of that Monday went into a yard and a shop behind it for about two hours, and four jobs went into them.**
 
-A socket in that shop had been put in above a sink on a way that also fed a machine two rooms away.
+A socket in that shop had been put in above a sink on a way that also runs a machine two rooms away.
 
 She gave the socket its own way and proved the machine with the sink off.
 
@@ -127,10 +127,10 @@ She put a single pole on and proved both halves.
 ---
 
 *950.
-Monday of week 318, at ten. That is the one hundred and ninety-second day of this stretch of days. That Monday put nine names onto that day's book for nine callers, the last of them at about twenty minutes past nine.
-**Nothing sat in on that That day and that day and not one figure was said aloud in any room here. A man of about fifty-two who keeps a register put a six-column version of that form on a table with the word told penciled over the sixth, and said it had been in his coat since the winter before. A woman of about forty-three said the column would say what the room told and not what anybody was told. A man of about thirty-three said a column is cheaper than a person and that is why it will happen. A man offered to be the name under the column and about four people said they would rather he did not. Nothing was decided. At about half past nine the word told was found written in pencil in the margin of a copy of that form and rubbed out, and nobody in that room said one word about it. That Monday was worth forty-eight pounds, exact.**
+Monday of week 318, at ten. That is the one hundred and ninety-second day of this stretch of days. That Monday put nine names onto that day's book for nine callers, the last of them at about twenty-five past nine.
+**Nothing sat in on that Monday and that day and not one figure was said aloud in any room here. A man of about fifty-two who keeps a register put a six-column version of that form on a table with the word told penciled over the sixth, and said it had been in his coat since the winter before. A woman of about forty-three said the column would say what the room told and not what anybody was told. A man of about thirty-three said a column is cheaper than a person and that is why it will happen. A man offered to be the name under the column and about four people said they would rather he did not. Nothing was decided. At about half past nine the word told was found written in pencil in the margin of a copy of that form and rubbed out, and nobody in that room said one word about it. That Monday was worth forty-eight pounds, exact.**
 
-*Conditions and docket.* **Callers on that Monday: nine. Entered on that day's book: nine, and the ninth of those nine names taken at about twenty-five past nine.
+*Conditions and docket.* **Callers on that Monday: nine. Entered on that day's book: nine, and the ninth of those nine names entered at about twenty-five past nine.
 Four units standing off that service road, one of them carrying heat: one thousand seven hundred and fifty days, two hundred and fifty weeks to the day
 The one card in that rail, once creased across its middle: one thousand seven hundred and fifty-four days, two hundred and fifty weeks and four days
 The twelfth of nineteen ruled lines on that board up on two nails: one thousand six hundred and seventy days, two hundred and thirty-eight weeks and four days
@@ -152,13 +152,13 @@ Not asked and not given: nobody in that room asked who wrote the word in that ma
 Work: nine, one offer made and refused four times over, nothing escalated, nothing handed back.
 Charge: forty-eight pounds, exact.**
 
-*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and neither of those two and this page prints neither of those two numbers and does not set one beside the other.
+*Conditions of the close.* **Upstairs the green-covered book stands where Volume 18 left it and the tin beside it stands where Volume 18 left it, and this page prints neither of those two numbers and does not set one beside the other.
 That ninth chair has its back to the whole of that room and it did not move on that Monday, and nobody in this stretch of days has written down who moves it. The empty place behind that chair was not named on that Monday and no page here prints any figure at all for it.
 There is a room under a building in a first district and at about eleven on that Monday there was nothing burning in it, and nothing is burning in it at this hour either, and nothing has been burning in there since it was made.
 A figure of four stands against the register of correct acts that changed nothing at both the start of that Monday and the end of it, and nobody in this city has been asked to hold the number. An offer made and refused is not on it and a column not printed is not on it.**
 
-*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and no clause below sets any two of them side by side. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back, and a form with five columns and a margin with something in it that has been rubbed at.
-The cage down one side of a counter stands outside all ten, and so does a sheet with six columns and one penciled word, folded once and back in a coat. A narrow strip of paper with one word on it is one of the ten and not one further.
+*What the day did not settle, and the rest of it.* **The passage under this one names ten objects and no clause below sets any two of them side by side. The rail with two places in it. A doorway held open by a card creased once. The board on two nails. Nine hand copies of the front of one page. A tin whose lid is down. The shutter. A book in a green binding. The binder standing on a shelf at the back. A narrow strip of paper with one word on it. A form with five columns and a margin with something in it that has been rubbed at.
+The cage down one side of a counter stands outside all ten, and so does a sheet with six columns and one penciled word, folded once and back in a coat. A six-column sheet is a different sheet and this page does not put it in with the ten.
 A word written in a margin and rubbed out is the only mark made on any paper in this matter this week, and about four people know whose hand it was and not one of them has said, and the paper it was rubbed out on has not been turned over by anybody.
 A dated rule stands over a question that is not this one, and the records behind it are public and disputed, and they can be read by anybody who asks at the door.
 Nobody thanked anybody and nobody forgave anybody on that Monday. A man put a word over a sixth column and took it back into his coat, and a woman said it would say the wrong thing, and a third man said it would happen anyway, and nobody was appointed to anything and nobody has said since that that is the end of it.**
