@@ -24,7 +24,7 @@ Marek said: and if I am not in it.
 
 Sera Quill said: **then you wait, and waiting is the whole of what you signed for, and I am not going to soften it because it is a Saturday.**
 
-**Nobody in that room said one word for about nine seconds, and Marek has said since that he had expected her to say it kindly and that she had said it plainly and that this was the first time in nine days that he had been glad of anything.**
+**He had about nine seconds in which to have said something and he did not use them, and Marek has said since that he had expected her to say it kindly and that she had said it plainly and that this was the first time in nine days that he had been glad of anything.**
 
 Marek said: I could carry things.
 
@@ -66,7 +66,7 @@ Sera Quill said: it has a column.
 
 The woman of about forty-three said: it has a column and **there is something written in it.**
 
-**Nobody in that room said anything for about nine seconds, and Marek has said since that he had been ready for anything on that Saturday except that, and that he sat down on the edge of the counter and did not get up again until about ten.**
+**He was not ready for that, and it took him about nine seconds to stop standing as if he were, and Marek has said since that he had been ready for anything else on that Saturday and that he sat down on the edge of the counter and did not get up again until about ten.**
 
 Sera Quill said: you have not read it.
 
@@ -80,7 +80,7 @@ Marek said: what is written.
 
 The woman of about forty-three said: **I am not going to tell you and I am going to shut that tray and if you want it in a month you can have it in a month.**
 
-**Nobody in that room said one word for about nine seconds, and about four people in that room have said since that Marek put his hand flat on that counter where a page had once lain with nine rows on it and no names, and that his hands were no good and that he left it there anyway.**
+**For about nine seconds he said one word to himself and no word at all to anybody in that room, and about four people in that room have said since that Marek put his hand flat on that counter where a page had once lain with nine rows on it and no names, and that his hands were no good and that he left it there anyway.**
 
 ---
 

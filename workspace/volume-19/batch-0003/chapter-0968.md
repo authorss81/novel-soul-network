@@ -26,7 +26,7 @@ Marek said: the woman of about fifty-one.
 
 He said: I have never known her name.
 
-**Nobody in that room said anything for about nine seconds, and Marek has said since that this was the first time in five weeks that a person in that room had wanted to give somebody something rather than keep it.**
+**He took about nine seconds over it, and Marek has said since that this was the first time in five weeks that a person in that room had wanted to give somebody something rather than keep it.**
 
 Marek said: you do not know her name.
 
@@ -52,7 +52,7 @@ Sera Quill said: **you want to give her a sheet she can put a name in.**
 
 He said: I want to give her a sheet of her own. That is what I have got.
 
-**Nobody in that room said anything for about nine seconds, and about four people in that room have said since that he said the last part to the table and not to her, and that he had clearly worked it out about nine seconds after he had said it.**
+**He said the last part to the table and not to her, and about four people in that room have said since that he worked it out about nine seconds after he had said it and that he worked it out by himself.**
 
 Sera Quill said: I have read it.
 
@@ -76,7 +76,7 @@ She said: nothing. You keep it.
 
 He said: **I have kept it for four years and it is the reason I asked you for it in the first place, and I gave it away for a week and it did not come back, and that is the whole of my own business with it.**
 
-**Nobody in that room said one word for about nine seconds, and the woman of about forty-three has said since that she had heard that sentence twice in nine years from two different people and had never once heard it mean anything else.**
+**The woman of about forty-three did not come in for about nine seconds, and she has said since that she had heard that sentence twice in nine years from two different people and had never once heard it mean anything else.**
 
 Marek said: what would go in it.
 
@@ -100,7 +100,7 @@ The woman of about forty-three said: it stays because nobody here holds it.
 
 He said: **it was never my copy to hold. I told you that on a Thursday and I have not changed my mind about it since.**
 
-**Nobody in that room said anything for about nine seconds, and about four people in that room have said since that the copy stayed where he had put it and that nobody put a hand on it for the rest of that evening, and that at about ten it was still there.**
+**About four people in that room have said since that after about nine seconds of nobody speaking the copy stayed where he had put it, and that nobody put a hand on it for the rest of that evening, and that at about ten it was still there.**
 
 ---
 

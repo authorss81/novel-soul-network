@@ -58,7 +58,7 @@ He said: **it is the only question there is, and you are the only person in this
 
 ---
 
-**Nobody at that desk said one word for about nine seconds, and Marek has said since that he watched the man of about fifty-two work out that he had lost, and that he worked it out slowly, and that Marek could not have helped him if he had tried.**
+**It took the man of about fifty-two about nine seconds to work out that he had lost, and he worked it out slowly, and Marek has said since that he watched the whole of it and that he could not have helped him if he had tried.**
 
 **And then the man of about fifty-two asked her to take the copy and keep it, and about four people at that counter have said since that this was the last thing he did that day and that he said it in nine words.**
 

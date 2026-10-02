@@ -26,7 +26,7 @@ Marek said: it is a job card.
 
 She said: **it is a job card with four names on the back of it and a line under each name.**
 
-**Nobody in that room said anything for about nine seconds, and Talia has said since that she let the quiet stand because a file requires it and not because she wanted to.**
+**She let the quiet stand for about nine seconds, and Talia has said since that a file requires that and not her wanting it.**
 
 Marek said: it is not a list.
 
@@ -84,7 +84,7 @@ Marek said: no.
 
 ---
 
-**Nobody in that room said one word for about nine seconds, and Marek has said since that he did not say anything, and that the not saying was the first honest thing he had managed in a month.**
+**About nine seconds went past in which he said nothing at all, and Marek has said since that the not saying was the first honest thing he had managed in a month.**
 
 She said: I have heard them.
 

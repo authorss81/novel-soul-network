@@ -20,7 +20,7 @@ She said: I have not asked yet.
 
 He said: **you were standing in the room.**
 
-**Nobody in that room said anything for about nine seconds, and the woman of about forty-five has said since that she had prepared about four sentences on the bus and used none of them and that the two words were the whole answer.**
+**About nine seconds went past and she took none of them, and the woman of about forty-five has said since that she had prepared about four sentences on the bus and that the two words were the whole answer.**
 
 She said: I am holding it.
 
@@ -36,7 +36,7 @@ He said: nine years would make it the same, and I have not got nine years spare.
 
 ---
 
-**Nobody in that room said one word for about nine seconds, and about four people who work in that building have said since that they heard the exchange from the other end of the room and that nobody moved and that the labels on the shelves all faced out at the same angle while it happened.**
+**About nine seconds passed in which nobody in that room said one word, and about four people who work in that building have said since that they heard the exchange from the other end of the room and that nobody moved and that the labels on the shelves all faced out at the same angle while it happened.**
 
 **And then the man of about sixty-one said the thing he said to nobody in nine years, and about four people in that building have said since that he said it to a stranger because a stranger could not do anything with it.**
 
@@ -54,7 +54,7 @@ She said: I can use that. I am holding it.
 
 He said: **you cannot. You have never seen the page and you have said out loud that you have not, and that is the only thing about you that makes you safe in this room.**
 
-**Nobody in that room said anything for about nine seconds, and she has said since that the last part was the first time in her life that a rule was used to keep her somewhere rather than to keep her out, and that she did not know what to do with it.**
+**It was about nine seconds before she answered, and she has said since that the last part was the first time in her life that a rule was used to keep her somewhere rather than to keep her out, and that she did not know what to do with it.**
 
 She said: are you frightened.
 

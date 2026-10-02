@@ -22,7 +22,7 @@ He said: no they are not.
 
 She said: **that is what I want a person to say out loud in a room, so that there is one more person who has said it.**
 
-**Nobody at that counter said anything for about nine seconds, and about four people in that queue have said since that somebody at the back of it said the word pencilled and somebody else said the word ruled and neither of them was talking to anybody.**
+**Two words came from the back of that queue about nine seconds apart, and about four people in that queue have said since that one of them was the word pencilled and one of them was the word ruled and that neither of the people who said either of them was talking to anybody.**
 
 ---
 
@@ -42,7 +42,7 @@ He said: nobody moves a thing and rules it again in ink.
 
 She said: **a person does if they have been told it is not their margin.**
 
-**Nobody in that room said one word for about nine seconds, and Marek has said since that he stood at that counter and understood that a thing which had been one man's small private wish for seventeen days had become a thing anybody with a ruler and a biro could do.**
+**About nine seconds of that queue went past with nobody speaking, and Marek has said since that he stood at that counter and understood that a thing which had been one man's small private wish for seventeen days had become a thing anybody with a ruler and a biro could do.**
 
 ---
 
@@ -64,7 +64,7 @@ She said: then it stops here.
 
 The man of about fifty-two said: **it stopped here two days ago. It has been made twice by somebody and you have found it twice because you are the only person in this city who still looks in that tray.**
 
-**Nobody in that room said anything for about nine seconds, and the woman of about forty-three has said since that she put both sheets back in the tray and shut it and did not say anything else about it for the rest of the day, and that her hands were not steady and that she did not mention that either.**
+**Putting the two sheets back took about nine seconds and nothing was said while it was done, and the woman of about forty-three has said since that she shut the tray and did not say anything else about it for the rest of the day, and that her hands were not steady and that she did not mention that either.**
 
 ---
 

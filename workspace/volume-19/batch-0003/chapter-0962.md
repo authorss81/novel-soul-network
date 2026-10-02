@@ -22,7 +22,7 @@ Marek said: yes.
 
 She said: and I am standing on the other side of my own door.
 
-**Nobody in that room said anything for about nine seconds, and the woman of about forty-three has said since that she counted them and that the counting was hers and not his.**
+**She counted about nine seconds of it from behind the till, and the woman of about forty-three has said since that the counting was hers and not his.**
 
 She said: I want you in the building.
 
@@ -62,7 +62,7 @@ Sera Quill said: **stand on your own landing with your back to your own door and
 
 ---
 
-**Nobody in that room said one word for about nine seconds, and about four people in that room have said since that the woman of about forty-five put her hand flat on the counter the way she had heard somebody else do it, and that nobody told her she had done it.**
+**It was about nine seconds before the woman of about forty-five spoke, and about four people in that room have said since that she put her hand flat on the counter the way she had heard somebody else do it, and that nobody told her she had done it.**
 
 She said: and if she does not call me in.
 

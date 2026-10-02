@@ -20,7 +20,7 @@ Marek said: and.
 
 She said: **that is all you get.**
 
-**Nobody in that room said one word for about nine seconds, and Marek has said since that he had the whole night worked out and about four different sentences ready and that he stood there and used none of them, because she had told him on a Friday to say it again on the day and he had said it again on the day by saying nothing.**
+**He said nothing for about nine seconds, and Marek has said since that he had the whole night worked out and about four different sentences ready and that he stood there and used none of them, because she had told him on a Friday to say it again on the day and he had said it again on the day by saying nothing.**
 
 ---
 
@@ -42,7 +42,7 @@ She said: how much work.
 
 Sera Quill said: **about nine things, and a road, and a decision at the end of the road that is mine and not yours.**
 
-**Nobody in that room said anything for about nine seconds, and the woman of about forty-three has said since that the quiet at that end of the counter was the loudest thing she has ever heard in that shop.**
+**The quiet at that end of the counter went on for about nine seconds, and the woman of about forty-three has said since that it was the loudest thing she has ever heard in that shop.**
 
 ---
 

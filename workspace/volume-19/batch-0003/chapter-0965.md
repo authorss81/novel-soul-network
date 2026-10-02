@@ -42,7 +42,7 @@ Marek said: **that question was not mine to ask.**
 
 She said: **then whose was it.**
 
-**Nobody in that room said one word for about nine seconds, and about four people in that room have said since that the woman of about fifty-one stood absolutely still and did not help anybody, and that she had been waiting a long time for one of them to reach for the answer.**
+**About four people in that room have said since that the woman of about fifty-one stood absolutely still through about nine seconds in which nobody spoke, and did not help anybody, and that she had been waiting a long time for one of them to reach for the answer.**
 
 Marek said: hers.
 
@@ -64,7 +64,7 @@ She said: so the question goes nowhere.
 
 Talia said: **the question goes to the only person in this room who is not allowed to be the one to ask it, and he has just said so himself, and that is not a failure, that is the arrangement.**
 
-**Nobody in that room said anything for about nine seconds, and Marek has said since that he stood there and let it be put on him in front of a stranger, and that he has not decided yet whether he will forgive her for it.**
+**Nothing was said in that room for about nine seconds, and Marek has said since that he stood there and let it be put on him in front of a stranger, and that he has not decided yet whether he will forgive her for it.**
 
 She said: I will come back when somebody asks.
 
