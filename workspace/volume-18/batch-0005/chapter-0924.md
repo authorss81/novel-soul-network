@@ -1,6 +1,6 @@
 # Chapter 924 — A Thursday Of That Same Week, A Bench Until Two And A Counter Until About Six Before It, And Then About Two Hours Of That Evening In That First Floor Above A Line In Saltmarket Where About Nine People Were And Where Four Of The People Who Had Been In That Room On The Wednesday Were Not In It And Nobody In That Room Has Said Why Any One Of Those Four Is Not, And Thirty-Nine Pounds For Four Jobs
 
-**Thursday of that week began with a bench until two and a counter until about six, and the whole of the evening after that went into that first floor above a line in Saltmarket, where about nine people were. That Thursday carried no sitting, and nothing was counted aloud in any room in this city.**
+**Thursday of that week began with a bench until two and a counter until about six, and the whole of what was left of that day went into one room above a line in Saltmarket, and about nine people were in that room. That Thursday carried no sitting, and nothing was counted aloud in any room in this city.**
 
 ---
 
@@ -99,7 +99,7 @@ One line inside one of those boxes off that road, and about sixteen months since
 That Thursday's four jobs: a socket given a way of its own, a switch moved to the near side of a fire door, a machine taken off its own frame, an alley light given a switch inside.
 Not put to anybody and given to nobody: nobody in that room asked any one of the four who was not there why the other three were not there, and nobody in that room asked the woman of about forty-three whether she expected to be asked
 Work: nine, nine, four people absent from a room and no reason given for any of them. Nothing was escalated and nothing was handed back.
-Charge for that Thursday: thirty-nine pounds, exact, and every one of those four was priced first.**
+Charge: thirty-nine pounds, exact, and every one of those four was priced first.**
 
 *Conditions of the close.* **That green binding stood at sixty-nine lines from the hour that room opened to the hour the shutter came down. The tin standing next to that book stood at seventy-three, lid down, and it was not opened once. The ninth chair kept that wall at its back and that room at its front and it moved on no day of this movement. Nobody opened the fourth of those four rooms on that Thursday; its door was shut, there was a woman of about thirty behind it, the binder on the back shelf did not come out, and this page prints no figure for it. At about eleven on that Thursday there was no light in the room under that building in a first district and there is none in it now. Nothing that was said in that room is on the register of correct acts that changed nothing; it stood at four and stands at four, and it is not a count that anybody in this city keeps. The shutter for that Thursday came down at about ten.**
 
