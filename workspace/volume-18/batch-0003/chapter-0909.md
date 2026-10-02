@@ -36,7 +36,7 @@ One has said since that the person she would name is the one person in this city
 
 **The man of about thirty-three was in that room and said nothing at all about the sentence, and has said since that she is the first person he has heard say it who has no reason to want it said and that he had not thought of that before she said it.**
 
-He was in that room, a man of twenty-two, and was asked nothing and signed nothing, and he has said since that the sentence is true and that he cannot check it and that those two things have been sitting side by side in his head for about four years.
+The man of twenty-two was in that room and was asked nothing and signed nothing, and he has said since that the sentence is true and that he cannot check it and that those two things have been sitting side by side in his head for about four years.
 
 **Nobody in that room has asked him which two things and he has not been asked twice.**
 

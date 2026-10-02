@@ -70,9 +70,9 @@ He gave the outlet a way of its own off a spare board and proved both.
 
 A ramp light in a yard had its ring on the same terminal as the line, so that its earth came off the moment the circuit went live.
 
-She moved the ring onto its own terminal and proved it with the circuit off and on.
+He moved the ring onto its own terminal and proved it with the circuit off and on.
 
-"**Nine pounds,**" she said. "**A ring on the line is a lamp with no earth. About four of those fittings in that yard are wired that way, and one of them has been an intermittent fault at that ramp for about four years.**"
+"**Nine pounds,**" he said. "**A ring on the line is a lamp with no earth. About four of those fittings in that yard are wired that way, and one of them has been an intermittent fault at that ramp for about four years.**"
 
 **Forty-three pounds is what those four came to on that Friday, exact.**
 
@@ -111,7 +111,7 @@ Charge: forty-three pounds, exact, and it was the largest day of that week.**
 Nobody asked why that ninth chair is where it is, it stayed against that wall with its back to that room on that Friday, and nobody in this city is named on any page of this stretch of days as having moved it.
 Nobody asked the woman of about thirty behind that shut door anything at all, nothing was taken off the binder on the shelf at the back of that room, and this page prints no figure for anything standing on that shelf.
 Nobody asked for that room under that building in a first district to be lit, it was dark at about eleven on that Friday, it is dark at this hour, and it has not been opened.
-Nobody in this city counts that register of correct acts that changed anything; the figure on it is four, it stood at four when that room opened and stands at four now, and no fifth is printed on this page.**
+Nobody in this city counts that register of correct acts that changed nothing; the figure on it is four, it stood at four when that room opened and stands at four now, and no fifth is printed on this page.**
 
 *What the day did not settle, and the rest of it.* **Nine of the ten things under this heading have been on a table in this city for about four years and the tenth has not, and they are named here and no sentence below joins any two of them together. A book in a green binding. A card creased once across a doorway. Nine hand copies of the front of one page. A tin with its lid down. A strip of paper, cut to a finger's width, with one word on it. A board on two nails with nineteen ruled lines on it. The shutter. A rail with two places in it. A ring binder on a shelf at the back of a shut room. Four columns on one sheet and a fifth heading over them with nothing in it on any of nine rows.
 Three of them are outside all ten as well: the form that came back on a bus, the cage that stands down one side of that counter, and the printed sheet somebody put up on a wall by two drawing pins. Those four columns and that empty fifth heading stand inside the ten and are not one more than them, whatever anybody thinks about a file that does not run in order.

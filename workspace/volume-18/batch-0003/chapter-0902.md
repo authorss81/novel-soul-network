@@ -28,11 +28,13 @@ About four people in that room have said since that they have started using the 
 
 ---
 
-**A man of about thirty-three asked one thing at about a quarter to eight, and it was the first time anybody had asked it out loud in a room in this city.**
+**A man of about thirty-three asked one thing at about a quarter to eight, and it was the first time anybody had asked that question out loud in a room in this city.**
+
+He asked: who is we.
 
 He put it flatly and asked for nothing back.
 
-**Nobody in that room answered that either. About nine people were in it and one of them said *we* about half a minute later, in another sentence, without appearing to have heard the question at all.**
+**Nobody in that room answered that either, and about nine people were in it and one of them said *we* about half a minute later, in another sentence, without appearing to have heard the question at all.**
 
 ---
 

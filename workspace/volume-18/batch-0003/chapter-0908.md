@@ -1,6 +1,6 @@
 # Chapter 908 — A Monday Of The Eighth Week, A Bench Until Two And A Counter Until About Six, Then About Two Hours Of That Evening In That First Floor Above The Line With About Nine People In It And Nobody In That Room Having Told Anybody That Anything Falls On The Wednesday, A Man Of Twenty-Two Saying A Date Out Loud And Writing It On A Piece Of Paper Of His Own And Then Crossing It Out About Three Quarters Of An Hour Later, And Nobody Asking Him Why, And Forty-One Pounds For Four Jobs
 
-**The Monday of that week put a bench until two and a counter until about six, and then that evening, after about two hours of the counter, went into that first floor above the line, where about nine people were, and nothing was counted aloud in this city that day.**
+**The Monday of that week put a bench until two and a counter until about six, and then that evening went, for about two hours, into that first floor above the line, where about nine people were, and nothing was counted aloud in this city that day.**
 
 ---
 

@@ -20,7 +20,7 @@ The nine lines went down the paper under it. He ruled them in about nine seconds
 
 ---
 
-**And then he asked, one at a time, going along the table, and he asked about nine people, and not one of the nine was in the room.**
+**And then he asked, one at a time, going along the table, and he asked about nine people, and one of the nine was in the room.**
 
 He asked the woman who holds that room, and she said that she was in the room, and he ruled nothing and said nothing.
 
@@ -92,7 +92,7 @@ He put the lamp on a way of its own and proved the circuit with everything runni
 
 *907.
 Tuesday of week 307, at ten. That is the two hundred and ninth day of this stretch of days. Nine names and nine dates went onto that Tuesday, the ninth of the dates at about twenty to five.
-**No sitting was held on that Tuesday and no figure was said out loud in any room in this city. A man of about thirty-three put a piece of paper of his own on that table with a heading written at the top of it and nine lines ruled under the heading, and asked about nine people one at a time, and not one of the nine was in that room, and nothing was written on any of the nine lines. Nobody in that room worked out how anybody would know, and about four of them have said since that they worked it out within about nine days and have not said it in a room. That Tuesday was worth forty pounds, exact.**
+**No sitting was held on that Tuesday and no figure was said out loud in any room in this city. A man of about thirty-three put a piece of paper of his own on that table with a heading written at the top of it and nine lines ruled under the heading, and asked about nine people one at a time, and one of the nine was in that room and one had come to it once, and nothing was written on any of the nine lines. Nobody in that room worked out how anybody would know, and about four of them have said since that they worked it out within about nine days and have not said it in a room. That Tuesday was worth forty pounds, exact.**
 
 *Conditions and docket.* **Callers on that Tuesday: nine. Entries on that day's book: nine names and nine dates, the ninth of the dates at about twenty to five. The four units off that road and the fourth of them a long way behind the other three: one thousand six hundred and seventy-four days, two hundred and thirty-nine weeks and one day
 The card in that rail by that first door, folded once across the middle: one thousand six hundred and seventy-eight days, two hundred and thirty-nine weeks and five days
@@ -112,7 +112,7 @@ The fitting at that corridor's end: one thousand two hundred and twenty-two days
 One line inside one box in that room off that road, filled in about sixteen months back: one thousand and fifty-four days, one hundred and fifty weeks and four days
 The four jobs that Tuesday, in that yard and in that building: an earth taken onto a case, a supply given to a barrier arm, a heater bonded to the building instead of to trunking, a lamp given a circuit of its own.
 Not asked of anybody and not given: nobody in that room worked out how anybody would know, nobody asked the man of about thirty-three what he intended to do with the paper, and nobody asked the woman of about twenty-nine why she had been the ninth one asked.
-Work: nine, nine questions asked of nine people who were not in the room, nothing escalated, nothing handed back.
+Work: nine, nine questions asked of nine people, one of them the woman who holds that room, nothing escalated, nothing handed back.
 Charge: forty pounds, exact, and every one of those four was priced before it was done.**
 
 *Conditions of the close.* **That first floor's book in the green binding was on sixty-nine lines that Tuesday and its tin was on seventy-three with the lid down, and one of those two figures was not worked out of the other one.
@@ -125,6 +125,6 @@ That register of correct acts that changed nothing stood at four in the morning 
 Three items stand clear of all ten of these: the form that came back on a bus, the cage down one side of that counter, and the printed sheet that went up by two drawing pins. Those four columns and that empty fifth heading belong inside the ten and are not one more than the ten, whatever a piece of paper of somebody's own says on somebody else's table.
 Behind a shut door in the fourth of those four rooms is a woman of about thirty, and this page does not count her and does not describe her and puts no figure on the page in the binder behind her.
 A dated rule stands over a question that is not this question, and what stands behind it is open to anybody who comes and asks for it.
-Nobody thanked anybody on that Tuesday and nobody forgave anybody, nine lines were ruled and nine people said they had not been there, and nobody in this city has asked any of the nine for anything since.**
+Nobody thanked anybody on that Tuesday and nobody forgave anybody, nine lines were ruled and seven of the nine said they had not been there, and nobody in this city has asked any of the nine for anything since.**
 
 ---

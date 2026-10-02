@@ -72,11 +72,11 @@ He put an isolator in above it and proved it off and on with everything downstre
 
 "**Thirteen pounds,**" he said. "**A sub-main with no isolator above it is a supply that has to be pulled to be worked on. About four of those switches in that workshop have nothing above them, and one of them has been a board nobody could dead for about four years.**"
 
-A socket in a print bay of an office had its ring on the same terminal as the line, so that its earth came off the instant the circuit went live.
+A socket in a print bay of an office had a rewireable fuse in it that had been filled with a piece of bare copper off the roll instead of the fuse the plate was stamped for, so that the fuse had been carrying the fault it was there to stop.
 
-She took that ring onto a terminal of its own and proved it with the circuit off and on.
+He pulled the copper out, put in one of the rating stamped on that plate, and proved the whole circuit with a load on it.
 
-"**Twelve pounds,**" she said. "**A ring on the line is a socket that is only earthed while it is switched off. About four of those sockets in that print bay are wired that way, and one of them has been an earth reading of nothing on a working tester for about four years.**"
+"**Twelve pounds,**" he said. "**A fuse made of copper is no fuse at all. About four of those rewireables in that bay have a piece of wire where the fuse goes, and one of them has been an office with a fault nobody could account for in about four years.**"
 
 A light over a fire point in a corridor had its own battery on a shelf above it that nobody had ever looked at, and it was eleven weeks past the date on the label.
 
@@ -119,7 +119,7 @@ Nine hands' copies of the front of one page, and no two of the nine brought toge
 The fitting at that corridor's end: one thousand two hundred and thirty days, one hundred and seventy-five weeks and five days
 One line inside one box off that road, filled in about sixteen months back: one thousand and sixty-two days, one hundred and fifty-one weeks and five days
 The space behind that woman's chair, which has had nothing standing in it since a week in the spring, which nobody in this city has asked her about, and which no page of this stretch of days names except this one: five hundred and sixty days, eighty weeks to the day
-That Wednesday's four jobs: an isolator put above a sub-main, a ring moved onto its own terminal, a battery replaced at a fire point, a hose reel given a way of its own.
+That Wednesday's four jobs: an isolator put above a sub-main, a fuse of the stamped rating put into a rewireable holder, a battery replaced at a fire point, a hose reel given a way of its own.
 Asked of nobody, answered by nobody: nobody in that room put it to the woman who holds that room that she had not opened the book, nobody asked the man of twenty-two one thing about the piece of paper with two sides, and nobody in this city has said which of the two sentences about those nine rows is a true one.
 Work: nine, one count given into a room and four statements of about nine seconds into the back of it, nothing escalated, nothing handed back.
 Charge: forty-four pounds, exact, and the four came to that between them.**
@@ -129,7 +129,7 @@ That green binding stood at sixty-nine lines when that room opened and at sixty-
 That ninth chair was against that wall with its back to that room when the count was said and it was against that wall when the shutter came down, and nothing on this page names whoever moved it or would move it.
 That fourth of those four rooms had its door shut with a woman of about thirty behind it and a binder on the shelf at the back that did not come out, and this page prints no figure for anything on that shelf.
 The room under that building in a first district was dark at about eleven on that Wednesday and is dark at this hour, and it has never been opened by anybody.
-Nothing that was said that evening is on that register of correct acts that changed anything; it stood at four when that room opened and stands at four at the shutter, it is a figure in a sentence and not a count that anybody keeps, and no fifth of it is printed on any page of this movement.**
+Nothing that was said that evening is on that register of correct acts that changed nothing; it stood at four when that room opened and stands at four at the shutter, it is a figure in a sentence and not a count that anybody keeps, and no fifth of it is printed on any page of this movement.**
 
 *What the day did not settle, and the rest of it.* **Ten objects are named in the lines under this one and no sentence beneath it brings two of them together. A book in a green binding, shut. A tin with its lid down. A doorway standing open on a card creased once. Nine hand copies of the front of one page. A strip of paper cut narrow with one word on it. A board on two nails with nineteen ruled lines across it. The shutter. A rail with two places cut into it. The ring binder standing on that shelf at the back of that room, with its door shut. Four columns on one sheet and a fifth heading over them, empty on all nine rows.
 Three of these stand outside all ten, and they are, in that order, the cage down one side of that counter, what somebody put up on a wall by two drawing pins, and the form that came back on a bus. Those four columns and that empty heading belong among those ten and are not an eleventh of them, and a book shutting on a Wednesday evening has not moved where they stand.

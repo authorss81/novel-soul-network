@@ -10,7 +10,7 @@ Eleven names and eleven dates went onto that Wednesday, the eleventh of the date
 
 ---
 
-**At about ten past seven a man of about thirty-three said four things in about nine seconds, and they ran to four sentences and were not a minute long, and he did not sit down afterwards.**
+**At about ten past seven a man of about thirty-three said four things in about nine seconds, and none of them took longer than the one before it, and he did not sit down afterwards.**
 
 He said: there are two things here and not one.
 
@@ -32,7 +32,7 @@ It has been about a fortnight since about nine people went and looked at it. Abo
 
 ---
 
-A man of twenty-two was in that room, asked nothing, signed nothing, and has said since that he thought about the second of those two things on the walk to the stop and got as far as the word *evidence* and did not use it.
+A man of twenty-two was in that room on that Wednesday as well, and nobody asked him a thing and he put his name to nothing, and he has said since that he thought about the second of those two things on the walk to the stop and got as far as the word *evidence* and did not use it.
 
 He said afterwards, at about half past seven, that the piece of paper with the two kinds on it is the only thing he has ever seen that anybody can check, and that nobody has ever asked him to check it.
 
