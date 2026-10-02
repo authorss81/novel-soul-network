@@ -14,7 +14,7 @@ Nine names were written onto that Monday and nine dates went with them, the last
 
 The landing was off a stair that came up between two shops and went on to four rooms nobody used the stairs for. The light over it had been reported as being on in the day as well as the night, and the switch beside the door was the landlord's, and the light was on the meter that fed the whole of the stair.
 
-He proved both of them with a tester and wrote it on a card and put the card on the desk of the shop at the bottom and said he would take the card back in about nine days.
+A man of twenty-two proved both of them with a tester and wrote it on a card and put the card on the desk of the shop at the bottom and said he would take the card back in about nine days.
 
 **Nobody at that desk read the card to him and nobody at that desk has asked him about it, and about four people in that building have said since that the man who owns those stairs has never once come up them.**
 

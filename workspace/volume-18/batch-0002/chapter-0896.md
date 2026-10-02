@@ -20,7 +20,7 @@ She said it once and she did not say it twice and she did not explain it, and a 
 
 **Nobody in that room said anything for about nine seconds afterwards, and the woman of about thirty-eight who had asked about the second figure four weeks before did not ask about it this time.**
 
-The second figure is that one less five, and the five are older than that book and are written down on a sheet she has never shown anybody, and she has never said that twice.
+The second figure is the count less the five that predate that book, and the five are written down on a sheet she has never shown anybody, and she has never said that twice.
 
 ---
 
@@ -50,7 +50,7 @@ The tin beside it was not opened that evening and stood at seventy-three.
 
 **Nobody in that room said that the book opening settled anything, and nobody in that room has said anything of the kind since, and about four people in that room have said since that they wanted somebody to say it out loud and that nobody would take the sentence and say it for them.**
 
-**He was in that room that evening, asked nothing at all, signed nothing, and he is not the person who signs anything in this stretch of days. He has said since that he was not asked anything because nobody thought there was anything to ask him, and that this is the fourth time in about four months that it has happened to him and that he has stopped taking it as a thing to work out.**
+**A man of twenty-two was in that room that evening, asked nothing at all, signed nothing, and he is not the person who signs anything in this stretch of days. He has said since that he was not asked anything because nobody thought there was anything to ask him, and that this is the fourth time in about four months that it has happened to him and that he has stopped taking it as a thing to work out.**
 
 He said afterwards, at about twenty to eight, that the fifth column of that sheet would still be empty on Monday.
 
@@ -68,7 +68,7 @@ He took the loop out, re-terminated the tail, and proved it.
 
 "**Twelve pounds,**" he said. "**A switch with a loop behind the plate is a switch that holds itself on. About four of those switches in that passage have loops behind them, and one of them has been a light nobody could put out for about four years.**"
 
-A meter tail in a yard there had one of its two conductors cut back at the gland and pushed inside the sheath
+A meter tail in a yard there had one of its two conductors cut back at the gland and pushed inside the sheath, so that it was carrying on one conductor and the board had been counting two.
 
 He pulled the tail back out, made both conductors off properly, and proved the board.
 
@@ -96,7 +96,7 @@ He took the unit off the timber, made up proper fixings into the wall, and prove
 
 *899.
 Wednesday of week 304, at ten. That is the two hundred and first day of this stretch of days. Nine names and nine dates went onto that Wednesday, the ninth of the dates at about twenty to five.
-**This was a sitting. It is the only sitting in this stretch of days and the count was said once into the face of that room: seventy, of which sixty-five correspond. The second of those two figures is that one less five, and the five are older than the book and are on a sheet she has never shown anybody.
+**This was a sitting. It is the only sitting in this stretch of days and the count was said once into the face of that room: seventy, of which sixty-five correspond. The second of those two figures is the count less the five that predate the book, and the five are on a sheet she has never shown anybody.
 A woman who had come into that room about four times and had never been asked what for was asked, and said that a form asks her one thing twice in two boxes that do not mean the same thing, and asked for one of them to be taken off. The book with a green cover stood at sixty-eight lines when that room opened and at sixty-nine lines when the shutter came down, and the tin beside it stood at seventy-three and was not opened. Nobody in that room said the book opening settled anything. A man of twenty-two said afterwards that the fifth column of that sheet would still be empty on Monday, and nobody in that room said anything back to that. That Wednesday was worth forty-two pounds, exact.**
 
 *Conditions and docket.* **Callers on that Wednesday: nine. Names and dates on that day: nine, the ninth of the dates at about twenty to five. Those four units behind that service road, and the fourth stands a long way back: one thousand six hundred and fifty-four days, two hundred and thirty-six weeks and two days
@@ -127,8 +127,8 @@ Behind the shut door of the fourth of those four rooms there is a woman of about
 Under that building in a first district there was nothing burning in that room at about eleven on that Wednesday and there is nothing burning in it at this hour, and nobody in this city has ever asked that room for a light.
 The register of correct acts that changed nothing was at four when that room opened and it stands at four at the end of that Wednesday, and it is a figure in a sentence and not a count that anybody keeps. A book opening is not on it, and a woman asking for one box to be taken off a form is not on it, and a man saying a column would be empty again on the Monday is not on it.
 
-*What the day did not settle, and the rest of it.* **Ten things are named in the lines under this one and no sentence below it brings two of them together. A book with a green cover, open on a table.A doorway kept open by a single creased card. Nine hand copies of the front of one page, a torn corner on each. A tin with its lid down. A strip of paper cut narrow, with one word on it. A board on two nails with nineteen lines ruled on it. The shutter. A rail with two places in it. A ring binder on a shelf at the back of a shut room. A four-column sheet with a fifth heading standing over nothing.
-Three things stand outside all ten of them, and they are the form that came back on a bus, the cage down one side of that counter, and the printed sheet that went up by two drawing pins Four columns with an empty fifth heading is the last of these ten and not one more, whatever anybody said about it standing at the front of a table.
+*What the day did not settle, and the rest of it.* **Ten things are named in the lines under this one and no sentence below it brings two of them together. A book with a green cover, open on a table. A doorway kept open by a single creased card. Nine hand copies of the front of one page, a torn corner on each. A tin with its lid down. A strip of paper cut narrow, with one word on it. A board on two nails with nineteen lines ruled on it. The shutter. A rail with two places in it. A ring binder on a shelf at the back of a shut room. A four-column sheet with a fifth heading standing over nothing.
+Three things stand outside all ten of them, and they are the form that came back on a bus, the cage down one side of that counter, and the printed sheet that went up by two drawing pins. Four columns with an empty fifth heading is the last of these ten and not one more, whatever anybody said about it standing at the front of a table.
 A woman of about thirty is behind the shut door of the fourth of those four rooms, and this page does not count her and does not say anything about a shelf behind that door.
 A dated rule stands over a question that is not this one at all, and the records behind it are there for anybody who comes and asks to see them.
 Nobody thanked anybody on that Wednesday and nobody forgave anybody. A book was opened in that room for the first time in about four years and about nine people said afterwards that it had settled nothing, and nobody in this city has thanked any of them.**

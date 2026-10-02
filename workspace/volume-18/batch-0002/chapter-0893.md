@@ -80,7 +80,7 @@ A cooker outlet in a kitchen of that building was on a spur with a freezer stand
 
 He took the freezer off the spur, put it on its own, and proved the ring.
 
-"**Six pounds,**" he said. "**A freezer and a cooker on one spur is a choice nobody in that kitchen gets to make.About four of those spurs in that building put two heavy things on them together, and one of them has been tripped every Sunday for about four years.**"
+"**Six pounds,**" he said. "**A freezer and a cooker on one spur is a choice nobody in that kitchen gets to make. About four of those spurs in that building put two heavy things on them together, and one of them has been tripped every Sunday for about four years.**"
 
 **Twenty-four pounds is what those four came to on that Wednesday, exact.**
 
@@ -121,7 +121,7 @@ The ninth chair in that room has its back to everything that gets done in it and
 At about eleven on that Wednesday nothing was burning in the room under that building in a first district, nothing is burning in it at this hour either, and nobody in this city has ever lit that room.
 No count of that register of correct acts that changed nothing is kept in this city; it stood at four when that room opened and is at four now. A man standing up in a room and saying he will do it properly is not on it, and a room in which nobody asked the obvious question is not on it.
 
-*What the day did not settle, and the rest of it.* **Ten things are named in the list underneath and no sentence after it brings two of them together. A book in a green binding lying open on a table in that first floor. A doorway propped open by a card creased once. Nine hand copies of the front of one page, a corner off every one of them. A tin with its lid down.A strip of paper cut down to about a finger's width, with one word written on it. Nineteen ruled lines on a board on two nails. The shutter, down at about ten. A wall rail with two notches cut into it. A ring binder standing at the back of a shut room. A sheet carrying four columns and a fifth heading over nothing on nine rows.
+*What the day did not settle, and the rest of it.* **Ten things are named in the list underneath and no sentence after it brings two of them together. A book in a green binding lying open on a table in that first floor. A doorway propped open by a card creased once. Nine hand copies of the front of one page, a corner off every one of them. A tin with its lid down. A strip of paper cut down to about a finger's width, with one word written on it. Nineteen ruled lines on a board on two nails. The shutter, down at about ten. A wall rail with two notches cut into it. A ring binder standing at the back of a shut room. A sheet carrying four columns and a fifth heading over nothing on nine rows.
 Three things are outside all ten of them: the form that came back on a bus, the cage down one side of that counter, and the printed sheet that went up by two drawing pinsFour columns, and nothing at all under a fifth heading, is the last of these ten and not one more, whatever anybody decides to do about it on a Wednesday of this city.
 Behind the shut door of the fourth of those four rooms is a woman of about thirty, and this page neither counts her nor prints anything about a shelf standing at the back of that room.
 A dated rule stands over a matter that is not this one; what stands behind it is public and disputed and open to anybody who comes and asks.

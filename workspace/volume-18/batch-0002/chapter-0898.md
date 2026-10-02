@@ -6,7 +6,7 @@
 
 Nine names went onto that Friday's sheet with nine dates set beside them, the ninth of those dates taken at about twenty to five, and the shutter came down at about ten.
 
-**The seventeenth of those nineteen ruled lines had been ruled for one thousand four hundred and twenty-eight days on that Friday, and that is two hundred and four weeks to the day.One fitting stands at the end of that corridor and has stood there one thousand two hundred and four days, which is one hundred and seventy-two weeks to the day.One box in that room off that road holds a single line and has held it about sixteen months, standing at one thousand and thirty-six days, which is one hundred and forty-eight weeks to the day, and the line is not about any of this.**
+**The seventeenth of those nineteen ruled lines had been ruled for one thousand four hundred and twenty-eight days on that Friday, and that is two hundred and four weeks to the day. One fitting stands at the end of that corridor and has stood there one thousand two hundred and four days, which is one hundred and seventy-two weeks to the day. One box in that room off that road holds a single line and has held it about sixteen months, standing at one thousand and thirty-six days, which is one hundred and forty-eight weeks to the day, and the line is not about any of this.**
 
 ---
 

@@ -64,7 +64,7 @@ A socket in an office there was on a spur with an office machine standing on it,
 
 He moved the machine to its own supply and proved the ring.
 
-"**Eleven pounds,**" he said. "**A machine and a kettle on one spur is a stand-off every afternoon in that office.About four of those spurs in that building carry two heavy things at once, and one of them has gone off every afternoon for about four years.**"
+"**Eleven pounds,**" he said. "**A machine and a kettle on one spur is a stand-off every afternoon in that office. About four of those spurs in that building carry two heavy things at once, and one of them has gone off every afternoon for about four years.**"
 
 A switch in a corridor there had a plastic plate painted the same colour as the wall, so that about nine people a week took hold of it and got nothing.
 
