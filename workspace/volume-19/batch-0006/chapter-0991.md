@@ -156,13 +156,13 @@ The man of about thirty-three said: **no. You did not do it in front of me and I
 
 ---
 
-**One shop, one yard and one kitchen took what was left of that Monday, about two hours of it, and four jobs went into them.**
+**One shop, one yard and one of those two rooms took what was left of that Monday, about two hours of it, and four jobs went into them.**
 
 A flex in that yard had been run across a floor and pinned down under the corner of a rug.
 
 He took it up, cut it back to the socket and made a gland at it.
 
-"**Eight pounds,**" she said. "**A wire held down by a rug is a wire somebody will tread on for years and never know it is there. Four of those runs are in that yard. One of them has been a floor a child has walked on.**"
+"**Eight pounds,**" he said. "**A wire held down by a rug is a wire somebody will tread on for years and never know it is there. Four of those runs are in that yard. One of them has been a floor a child has walked on.**"
 
 A lamp in that shop had its holder screwed to a length of pipe let into the ceiling where no ceiling was.
 
@@ -174,13 +174,13 @@ A bell in that second room had been wired straight onto the line with nothing at
 
 He fitted an isolator ahead of the bell and proved it dead with the transformer switched off.
 
-"**Nine pounds,**" she said. "**A bell on the line hums when nobody is pressing it and after a while nobody hears anything. Nine of those bells in that row are straight on the line. One of them has been a kitchen somebody has blamed on the wiring before either of them moved in.**"
+"**Nine pounds,**" he said. "**A bell on the line hums when nobody is pressing it and after a while nobody hears anything. Nine of those bells in that row are straight on the line. One of them has been a kitchen somebody has blamed on the wiring before either of them moved in.**"
 
 A socket in that yard had been put in on a lead that came off a joint buried under the paving.
 
 He lifted the paving, dug the buried joint out, made it good and laid the paving back over it.
 
-"**Seven pounds,**" he said. "**A joint under paving waits for the day somebody digs, and on that day it is not the digger's fault. Joints in that yard are under paving, and one of them has been a path somebody has dug at for four years.**"
+"**Seven pounds,**" he said. "**A joint under paving waits for the day somebody digs, and on that day it is not the digger's fault. Joints under that paving are the same in every yard on that row, and one of them has been walked over every day for four years.**"
 
 **Thirty-one pounds was the whole of that Monday's four, exact.**
 
@@ -211,7 +211,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand three hundred and ninety-three days, one hundred and ninety-nine weeks to the day
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and seventy-five days, one hundred and ninety-six weeks and three days
 One written line written inside that box off that road: one thousand two hundred and seven days, one hundred and seventy-two weeks and three days
-That shop, that yard and that kitchen in: a flex lifted off a rug, a holder taken off a pipe, an isolator put in front of a bell, a paving joint dug out.
+That shop, that yard and one of those two rooms in: a flex lifted off a rug, a holder taken off a pipe, an isolator put in front of a bell, a paving joint dug out.
 Not asked and not given: nobody in that room asked that woman what her six years were for a second time, and she did not offer it again, and nobody asked the man of about thirty-three which of three people has a thing wrong.
 Work: nine callers, one room walked to, one question asked and refused, one bill paid out of a shop's own takings, nothing escalated, nothing handed on.
 Charge: thirty-one pounds, exact.**

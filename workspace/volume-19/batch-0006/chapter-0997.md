@@ -36,7 +36,7 @@ Marek said: **I signed a request asking that room to look at that book, and my n
 
 ---
 
-**And about nine seconds went on after that, and about four people in that room have said since that he said it in about nine seconds and that nobody counted them and that everybody in that room was counting.**
+**And about nine seconds went on after that, and about four people in that room have said since that he said it in about nine seconds and that everybody in that room was counting.**
 
 The woman of about fifty-four said: **you have said what it says about you.**
 
@@ -86,7 +86,7 @@ The woman of about fifty-four said: **that is the whole of what you came up here
 
 ---
 
-**And then Sera Quill said one sentence from the side of the room with her coat still on, and about four people who were in that room have said that it was four sentences short of the length everybody in that room had been expecting.**
+**And then Sera Quill said it from the side of the room with her coat still on, and about four people who were in that room have said that it came in four sentences short of the length everybody in that room had been expecting.**
 
 Sera Quill said: **I am not going to read anything out and I have said that in this room before and I am not going to take it back tonight.**
 
@@ -124,7 +124,7 @@ The woman of about forty-five said: **I have not told you. I have told four othe
 
 ---
 
-**And a man at the back of that room said one thing about somebody who was not in it, and that man had said in this city he would not be in that room at all and had said why.**
+**And a man at the back of that room said one thing about somebody who was not in it, and the man he was speaking about had said in this city that he would not be in that room at all and had said why.**
 
 Marek said: **he is not here.**
 
@@ -134,7 +134,7 @@ Marek said: **he gave me the reason for it on a Tuesday and I have not argued wi
 
 The woman of about fifty-four said: **and nobody has asked him twice.**
 
-Marek said: **nobody has asked him twice.**
+Marek said: **nobody has asked him twice, and nobody is going to.**
 
 ---
 
@@ -142,13 +142,13 @@ Marek said: **nobody has asked him twice.**
 
 ---
 
-**That kitchen, that shop and that yard took what was left of that Thursday, and four jobs went into them.**
+**That shop and that kitchen took what was left of that Thursday, and four jobs went into them.**
 
 A lamp in that shop had a rose painted into the ceiling with the edge gone so that it could not be told from the plaster by looking at it.
 
 He cut the paint back round the whole of it, made the edge clean and proved the fitting.
 
-"**Eight pounds,**" she said. "**A rose painted into a ceiling is a lamp that can only be found by feeling for it. Roses in that shop are painted into the ceiling, and one of them has been a bedroom somebody has had to feel along the wall for about two years.**"
+"**Eight pounds,**" he said. "**A rose painted into a ceiling is a lamp that can only be found by feeling for it. Roses in that shop are painted into the ceiling, and one of them has been a bedroom somebody has had to feel along the wall for about two years.**"
 
 A plug in that shop had been opened and closed twice with a knife and had been put back with the pins a little apart.
 
@@ -160,13 +160,13 @@ A heater in that kitchen had been put in on a lead that ran across the doorway t
 
 He re-routed it along the skirting, made a proper end at it and proved the floor dry.
 
-"**Nine pounds,**" she said. "**A lead across a doorway is a lead somebody pulls and a floor that is wet. Leads in that kitchen are like it, and one of them has been a doorway a child has been tripped over for four years.**"
+"**Nine pounds,**" he said. "**A lead across a doorway is a lead somebody pulls and a floor that is wet. Leads in that kitchen are like it, and one of them has been a doorway a child has been tripped over for four years.**"
 
 A wall light in that shop had been put in on a junction box with no earth terminal on it at all.
 
 He took the box out, fitted one with an earth terminal and proved it with an instrument.
 
-"**Seven pounds,**" she said. "**A junction box with no earth in it is a box that has never been thought about. Boxes in that row have no earth in them, and one of them has been a shop front somebody has had to wash around about two years.**"
+"**Seven pounds,**" he said. "**A junction box with no earth in it is a box that has never been thought about. Boxes in that row have no earth in them, and one of them has been a shop front somebody has had to wash around about two years.**"
 
 **Those four on that Thursday came to thirty-one pounds, exact.**
 
@@ -197,7 +197,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand four hundred and three days, two hundred weeks and three days
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and eighty-five days, one hundred and ninety-seven weeks and six days
 One written line written inside that box off that road: one thousand two hundred and seventeen days, one hundred and seventy-three weeks and six days
-That shop, that yard and that kitchen in: a rose cut back out of the paint, a plug rebuilt after a knife, a lead moved off a doorway, a junction box given an earth.
+That shop and that kitchen in: a rose cut back out of the paint, a plug rebuilt after a knife, a lead moved off a doorway, a junction box given an earth.
 Not asked and not given: nobody in that room asked Marek what the page says about the nine, and he did not say it, and nobody asked the woman of about forty-five how she came to be holding what she is holding.
 Work: twelve callers, one man standing up in a room with nine chairs in it and saying one thing about himself and one thing about what is not his, nothing escalated, nothing handed on.
 Charge: thirty-one pounds, exact.**

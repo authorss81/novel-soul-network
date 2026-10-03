@@ -38,7 +38,7 @@ Sera Quill said: **no. If you write it down it is a thing you know.**
 
 ---
 
-**And then Marek said the thing about the holders, and he said it out loud in a room with about nine people in it and about four of them have said since that it was the first time a piece of paper in this matter had had two holders spoken against it in one sentence.**
+**And then Marek said the thing about the holders, and he said it out loud in a room with about nine people in it, and about four of them have said since that he put two names to one piece of paper where about nine people could hear him do it.**
 
 Marek said: **there are two people in this city who hold this. She does, because she found it, and I do, because I signed the paper that got it out of a room in a second district.**
 
@@ -48,7 +48,7 @@ Marek said: **not both of them together, and not with the other one in the room.
 
 The woman of about fifty-four said: **where does that go.**
 
-Marek said: **nowhere. There is nowhere in this matter to put two names and there is not going to be any.**
+Marek said: **nowhere. There is nowhere in this matter to write two names down, and there is not going to be one.**
 
 The woman of about fifty-four said: **then say it again and let about nine people hear it, because that is the only copy of it there is going to be.**
 
@@ -114,17 +114,17 @@ He took the perspex off, moved the box onto the frame and proved the lamp.
 
 "**Twelve pounds,**" he said. "**A box behind a perspex sheet is a box that cannot be seen and cannot be reached. Boxes in that row are like it, and one of them has been a shop front somebody has had to change a lamp over the pavement for about two years.**"
 
-A yard light in that shop had been fitted with no gland at all where the cable left the fitting and had been left with the cable going straight out.
+A yard light in that yard had been fitted with no gland at all where the cable left the fitting and had been left with the cable going straight out.
 
 He made a gland, re-made the entry and proved the fitting with the lamp on.
 
-"**Eleven pounds,**" she said. "**A cable out of a fitting with nothing round it is a cable that gets wet at the edge. Fittings in that yard are like it, and one of them has been a yard somebody has had to wipe about four times a day.**"
+"**Eleven pounds,**" he said. "**A cable out of a fitting with nothing round it is a cable that gets wet at the edge. Fittings in that yard are like it, and one of them has been a yard somebody has had to wipe about four times a day.**"
 
 A lamp in that kitchen had been switched from two places by two two-way switches put in on a lighting circuit.
 
 He took the two-way switches out, put ordinary ones in and proved both points.
 
-"**Ten pounds,**" she said. "**A two-way switch on a lighting circuit is a switch that hands the lamp to a different lamp. Switches in that kitchen are like it, and one of them has been a kitchen where the light comes on in the wrong place for four years.**"
+"**Ten pounds,**" he said. "**A two-way switch on a lighting circuit is a switch that hands the lamp to a different lamp. Switches in that kitchen are like it, and one of them has been a kitchen where the light comes on in the wrong place for four years.**"
 
 A meter box in that shop had a fuse holder in it with no fuse in it at all and a piece of copper bridging the gap.
 
@@ -178,4 +178,4 @@ Nobody thanked anybody on that Wednesday and nobody forgave anybody. A book came
 
 ---
 
-*END OF MOVEMENT VI, CHAPTER 1000. WEDNESDAY OF WEEK 332. LOAD-BOOK ENTRY 1003. THE BOOK OPENS.*
+*END OF MOVEMENT VI, CHAPTER 1000. WEDNESDAY OF WEEK 332. LOAD-BOOK ENTRY 1003.*

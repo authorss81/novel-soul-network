@@ -6,11 +6,11 @@
 
 That Monday took ten callers and ten names were marked against it, none of them out of order, and the shutter came down at ten.
 
-**The four converted units off that service road stood at one thousand eight hundred and forty-one days, two hundred and sixty-three weeks to the day. The request in that second-district drawer was ninety days old that Monday, and the man it was signed by had been paid for two printings out of his own shop.**
+**The four converted units off that service road stood at one thousand eight hundred and forty-one days, two hundred and sixty-three weeks to the day. The request in that second-district drawer was ninety days old that Monday, and Marek had been in the room it came out of twice.**
 
 ---
 
-**She had not telephoned and nobody sent for her. She came in at about half past seven with her coat off and did not sit down, and about four people in that shop have said since that she had been in that room on the Thursday and had not slept much in the three days since, which is not a thing anybody in that shop said out loud.**
+**Nobody had sent for her and she had not asked to come. She came in at about half past seven with her coat off and did not sit down, and about four people in that shop have said since that she had been in that room on the Thursday and had not slept much in the three days since, which is not a thing anybody in that shop said out loud.**
 
 Marek said: **you have done something.**
 
@@ -90,6 +90,18 @@ Marek said: **that is decent of you and I am not going to argue with it.**
 
 The man of about sixty-one said: **do not hand me a thing I have not picked up.**
 
+Marek said: **then say one thing about the printing and I will not ask again.**
+
+The man of about sixty-one said: **no.**
+
+Marek said: **I have paid twice and I cannot say a figure.**
+
+The man of about sixty-one said: **you may say it cost money. You may not say who.**
+
+Marek said: **that is the first of this I can use.**
+
+The man of about sixty-one said: **it is not for you.**
+
 ---
 
 **And Marek said the cost out loud at that counter in about nine words, and the woman of about forty-five heard it and did not turn round, and about four people in that shop have said that they heard it and that she had been told nothing.**
@@ -114,7 +126,7 @@ Marek said: **I know. You have told me.**
 
 ---
 
-**One kitchen, one shop and one yard took the last of that Monday, and four jobs went into them.**
+**One kitchen, one shop and one of those two rooms took the last of that Monday, and four jobs went into them.**
 
 A free-standing heater in that shop had been run off an extension lead that was under the rug it was standing on.
 
@@ -126,7 +138,7 @@ A lamp holder in that shop had been left on a lamp that made the holder hot enou
 
 He took the lamp off, checked the holder against the fitting and put it back.
 
-"**Eight pounds,**" she said. "**A holder hotter than the lamp is a lamp on the wrong wattage. Holders in that shop are on the wrong wattage, and one of them has been a counter somebody has switched off about four times a day.**"
+"**Eight pounds,**" he said. "**A holder hotter than the lamp is a lamp on the wrong wattage. Holders in that shop are on the wrong wattage, and one of them has been a counter somebody has switched off about four times a day.**"
 
 A socket in that kitchen had been put in on a wall too close to the sink for anybody to put a wet hand on it and stay dry.
 
@@ -138,7 +150,7 @@ A bell transformer in that second room had been mounted on the pipe that the hot
 
 He moved it off the pipe onto a cold one, made good both fixings and proved it.
 
-"**Eight pounds,**" she said. "**A transformer on a hot pipe is a transformer that cooks itself. Transformers in that room are on pipes, and one of them has been a corridor somebody has not had a bell out of for about four months.**"
+"**Eight pounds,**" he said. "**A transformer on a hot pipe is a transformer that cooks itself. Transformers in that room are on pipes, and one of them has been a corridor somebody has not had a bell out of for about four months.**"
 
 **The four jobs done on that Monday came to thirty-six pounds, exact.**
 
@@ -169,8 +181,8 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand four hundred and seven days, two hundred and one weeks to the day
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and eighty-nine days, one hundred and ninety-eight weeks and three days
 One written line written inside that box off that road: one thousand two hundred and twenty-one days, one hundred and seventy-four weeks and three days
-That shop, that yard and that kitchen in: a lead taken out from under a rug, a holder matched to a lamp, a socket moved round from a sink, a bell transformer moved off a hot pipe.
-Not asked and not given: nobody in that shop asked that woman who she had given her pencil to, and she did not say, and nobody asked the man of about sixty-one what the second run came to.
+That kitchen, that shop and one of those two rooms in: a lead taken out from under a rug, a holder matched to a lamp, a socket moved round from a sink, a bell transformer moved off a hot pipe.
+Not asked and not given: nobody in that shop asked that woman who she had given her pencil to, and she did not say, and the man of about sixty-one was asked one thing about the second run and gave nothing back.
 Work: ten callers, one page handed to one person and the name of that person not spoken, one second run paid for, nothing escalated, nothing handed on.
 Charge: thirty-six pounds, exact.**
 

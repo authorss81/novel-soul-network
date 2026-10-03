@@ -154,7 +154,7 @@ A lamp in that shop had been left with a holder painted round so that it could n
 
 He cut the paint back off that holder, unscrewed it and proved the lamp would light.
 
-"**Eleven pounds,**" she said. "**A holder painted in is a bulb that cannot be changed in a room somebody has to light by hand. Four of those holders in that row are painted in, and one of them has been a bedroom somebody has carried a lamp out of since the shop changed hands.**"
+"**Eleven pounds,**" he said. "**A holder painted in is a bulb that cannot be changed in a room somebody has to light by hand. Four of those holders in that row are painted in, and one of them has been a bedroom somebody has carried a lamp out of since the shop changed hands.**"
 
 An isolator in that kitchen had been fitted on the wrong side of a boiler and had been switched on by somebody at some point in its life.
 
@@ -166,7 +166,7 @@ A lamp in that shop had been put in on a lead that had been spliced with tape in
 
 He opened the rose, cut the splice out, re-terminated the lead and made it good.
 
-"**Nine pounds,**" she said. "**A splice under a rose is a splice somebody finds when the ceiling comes down. Splices in that block are taped, and one of them has been a shop ceiling nobody has had up since the year the roof was done.**"
+"**Nine pounds,**" he said. "**A splice under a rose is a splice somebody finds when the ceiling comes down. Splices in that block are taped, and one of them has been a shop ceiling nobody has had up since the year the roof was done.**"
 
 A bell in that yard had been left on the line so that it hummed whenever anything at all was switched anywhere in that row.
 

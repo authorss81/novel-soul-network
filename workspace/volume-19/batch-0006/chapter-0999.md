@@ -10,7 +10,7 @@ That Friday took eight callers through that shop and eight names were written ag
 
 ---
 
-**Nobody had been told about that Friday except the woman who keeps the room, and about four people who sit in that room have said since that she put a bench along one wall on the Thursday evening and that nobody asked her where it had come from.**
+**Nobody in that room had been told what that Friday was for except the woman who keeps it, and about four people who sit in that room have said since that she put a bench along one wall on the Thursday evening and that nobody asked her where it had come from.**
 
 The woman of about fifty-four said: **there are about sixteen of you.**
 
@@ -118,7 +118,7 @@ The woman of about fifty-four said: **I am not going to ask now either, and you 
 
 ---
 
-**Four jobs went into that room, that yard and that shop on that Friday, about two hours of the day.**
+**Four jobs went into that passage, that room and that kitchen on that Friday, about two hours of the day.**
 
 A light fitting in that passage had its chain earthed to a water pipe running behind the plaster.
 
@@ -130,19 +130,19 @@ A pendant in that room had been hung over a bench where people worked with their
 
 He took it up, shortened the flex and hung it clear of the working height.
 
-"**Ten pounds,**" she said. "**A lamp over a bench is a lamp in somebody's eyes all day. Lamps in that room hang low, and one of them has been a bench somebody has had a cap on for about two years.**"
+"**Ten pounds,**" he said. "**A lamp over a bench is a lamp in somebody's eyes all day. Lamps in that room hang low, and one of them has been a bench somebody has had a cap on for about two years.**"
 
 A socket in that kitchen had been put in on an old round-pin pattern and then rewired behind an adaptor with tape.
 
 He took the adaptor out, made a proper socket to the pattern and proved it.
 
-"**Nine pounds,**" she said. "**Tape behind an adaptor is somebody's hands at about eleven at night. Sockets in that street are like that, and one of them has been a kitchen a woman has been proud of for four years.**"
+"**Nine pounds,**" he said. "**Tape behind an adaptor is somebody's hands at about eleven at night. Sockets in that street are like that, and one of them has been a kitchen a woman has been proud of for four years.**"
 
 A boiler in that room had been left with its case open over the floor of a cupboard.
 
 He closed the case, put the clips back and proved it with the boiler hot.
 
-"**Ten pounds,**" she said. "**A boiler case open on a cupboard floor is a cupboard nobody can put anything in. Cases in that block are like it, and one of them has been a cupboard somebody has been standing in front of for about a winter.**"
+"**Ten pounds,**" he said. "**A boiler case open on a cupboard floor is a cupboard nobody can put anything in. Cases in that block are like it, and one of them has been a cupboard somebody has been standing in front of for about a winter.**"
 
 **Forty pounds is the sum of that Friday's four, exact.**
 
@@ -173,7 +173,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand four hundred and eleven days, two hundred and one weeks and four days
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and ninety-three days, one hundred and ninety-nine weeks to the day
 One written line written inside that box off that road: one thousand two hundred and twenty-five days, one hundred and seventy-five weeks to the day
-That shop, that yard and that room in: a chain earth pulled off a water pipe, a pendant raised over a bench, a taped adaptor taken out, a boiler case closed.
+That passage, that room and that kitchen in: a chain earth pulled off a water pipe, a pendant raised over a bench, a taped adaptor taken out, a boiler case closed.
 Not asked and not given: nobody asked Sera Quill what she found, and she said nothing about it, and nobody asked the woman of about sixty-two to stand up again, and she did not.
 Work: eight callers, one room with about sixteen people in it and a woman standing at the side of it, one word not said, nothing escalated, nothing handed on.
 Charge: forty pounds, exact.**

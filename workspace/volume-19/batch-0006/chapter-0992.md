@@ -134,7 +134,7 @@ Marek said: **I know.**
 
 ---
 
-**Two rooms and that yard took the rest of that Tuesday along with the shop, and four jobs went into them.**
+**Two rooms and that yard took the rest of that Tuesday along with the shop and that kitchen, and four jobs went into them.**
 
 A cooker in that second room had been put in with its flex taken through the plaster and no sleeve in the hole at all.
 
@@ -146,13 +146,13 @@ A switch in that yard had been put in over a cold pipe with the plaster cut away
 
 He made that pipe safe, filled the hole where the plaster had been cut away and refitted the plate true.
 
-"**Eight pounds,**" she said. "**A switch over a pipe is a switch somebody will cut into the day they are hanging a cupboard. Switches in that block are over a pipe, and one of them has been an outside wall somebody has been working at for the whole of the time he has been in trade.**"
+"**Eight pounds,**" he said. "**A switch over a pipe is a switch somebody will cut into the day they are hanging a cupboard. Switches in that block are over a pipe, and one of them has been an outside wall somebody has been working at for the whole of the time he has been in trade.**"
 
 A ceiling holder in that shop had been screwed to a plate that was not a ceiling plate and had been painted the colour of the ceiling.
 
 He took it off, fitted a short length of pipe back to the ceiling and hung the holder off that.
 
-"**Ten pounds,**" she said. "**A holder on the wrong plate comes down with the first good pull and takes the flex with it. Ceilings in that block are like it, and one of them has been a shop that has had a shade in the air about two years.**"
+"**Ten pounds,**" he said. "**A holder on the wrong plate comes down with the first good pull and takes the flex with it. Ceilings in that block are like it, and one of them has been a shop that has had a shade in the air about two years.**"
 
 A meter tail in that kitchen had been cut short and left with the ends bare at the board.
 
@@ -189,7 +189,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand three hundred and ninety-four days, one hundred and ninety-nine weeks and one day
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and seventy-six days, one hundred and ninety-six weeks and four days
 One written line written inside that box off that road: one thousand two hundred and eight days, one hundred and seventy-two weeks and four days
-That shop, that yard and those two rooms in: a flex sleeved in its hole, a hole over a pipe filled and a plate squared, a holder taken off a wrong plate, a meter tail made good.
+That shop, that yard, that kitchen and one of those two rooms in: a flex sleeved in its hole, a hole over a pipe filled and a plate squared, a holder taken off a wrong plate, a meter tail made good.
 Not asked and not given: nobody in that room asked the woman of about fifty-four for a name against an hour, and she gave none, and nobody asked the man of about thirty-three to say out loud whether one of the three of them has it wrong.
 Work: eight callers, one room opened to anybody and closed at the same hour as every other day, one refusal given twice, nothing escalated, nothing handed on.
 Charge: thirty-six pounds, exact.**

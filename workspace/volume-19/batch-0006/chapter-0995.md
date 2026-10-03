@@ -110,13 +110,13 @@ The woman of about fifty-one said: **I know that you know. I came anyway.**
 
 ---
 
-**One shop, one yard and one kitchen had about two hours of that Saturday in them and there was not a fifth job.**
+**One shop, one yard and one of those two rooms had about two hours of that Saturday in them and there was not a fifth job.**
 
 A switch in that shop had been fitted over the frame of a door so that the door could not open past about four inches.
 
 He shifted the plate round onto the wall beside that opening and filled the two holes properly.
 
-"**Seven pounds,**" she said. "**A switch on a frame is a door that has got used to being hit. Four of those plates in that block are on a frame, and one of them has been a door somebody has squeezed for as long as anybody there can remember.**"
+"**Seven pounds,**" he said. "**A switch on a frame is a door that has got used to being hit. Four of those plates in that block are on a frame, and one of them has been a door somebody has squeezed at every time they came in and out of that shop.**"
 
 A lamp in that shop had a rose screwed to nothing but plaster, with the screw turning in the plaster and nothing behind it.
 
@@ -128,7 +128,7 @@ An outside light in that yard had been put in on a lead that lay in the puddle i
 
 He lifted it out of the water, re-routed it up the wall and fitted a gland.
 
-"**Eight pounds,**" she said. "**A light lying in the water it lights is a light that is out. Four of those leads in that yard are like it, and one of them has been a yard somebody has stood in about a winter wondering why it is dark.**"
+"**Eight pounds,**" he said. "**A light lying in the water it lights is a light that is out. Four of those leads in that yard are like it, and one of them has been a yard somebody has stood in about a winter wondering why it is dark.**"
 
 Two bells in that second room had been wired to two different transformers with two different polarities so that they sounded at each other.
 
@@ -165,7 +165,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand three hundred and ninety-eight days, one hundred and ninety-nine weeks and five days
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and eighty days, one hundred and ninety-seven weeks and one day
 One written line written inside that box off that road: one thousand two hundred and twelve days, one hundred and seventy-three weeks and one day
-That shop, that yard and that kitchen in: a switch moved off a door frame, a rose given a box of its own, an outside light lifted out of a puddle, two bells put on one transformer.
+That shop, that yard and one of those two rooms in: a switch moved off a door frame, a rose given a box of its own, an outside light lifted out of a puddle, two bells put on one transformer.
 Not asked and not given: nobody in that shop asked that woman of about twenty-nine who told her there was an address, and she did not say, and nobody asked her whether the day on that sheet was hers.
 Work: eleven callers, three days of nothing coming of a sheet, one stranger told where a room was, nothing escalated, nothing handed on.
 Charge: twenty-nine pounds, exact.**

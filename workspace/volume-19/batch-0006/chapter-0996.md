@@ -10,7 +10,7 @@ Nine callers went through that shop on that Monday and the ninth of them stood a
 
 ---
 
-**There were about thirteen people in that room and nine chairs and nobody had been asked to stand up and about four people who sit in that room have said since that it was the fullest it has been in six years and that nobody in it knew why.**
+**There were about thirteen people in that room and nine chairs and about four people who sit in that room have said since that it was the fullest it has been in six years and that nobody in it knew why.**
 
 The woman of about fifty-four said: **count them.**
 
@@ -138,7 +138,7 @@ Talia said: **you were about to.**
 
 ---
 
-**Four jobs went into that shop, that yard and those two rooms on that Monday, and about two hours of it went with them.**
+**Four jobs went into that yard, that kitchen and that second room on that Monday, and about two hours of it went with them.**
 
 A cooker in that second room had been put in on a ring that was not earthed at all and had been used like that for years.
 
@@ -150,7 +150,7 @@ A lamp over a hatch in that kitchen had been wired into a lighting circuit with 
 
 He cut the circuit back, fitted a lamp holder and a flex to the circuit and proved it.
 
-"**Ten pounds,**" she said. "**A light on a lighting circuit with nothing in it is a light somebody has changed three times and thrown away three times. Lights in that row are like it, and one of them has been a hatch somebody has worked under in the dark for about two years.**"
+"**Ten pounds,**" he said. "**A light on a lighting circuit with nothing in it is a light somebody has changed three times and thrown away three times. Lights in that row are like it, and one of them has been a hatch somebody has worked under in the dark for about two years.**"
 
 A socket in that second room had a faceplate fixed straight over a hole in the wall that was never cut out.
 
@@ -162,7 +162,7 @@ A stair light in that yard had a metal fitting screwed to a plastic box with not
 
 He replaced the box with a metal one, earthed it off the board and proved the stairwell.
 
-"**Eleven pounds,**" she said. "**Metal on plastic is a fitting that waits for the plastic to go. Fittings in that block are on plastic boxes, and one of them has been a stair somebody has put a hand on about a hundred times.**"
+"**Eleven pounds,**" he said. "**Metal on plastic is a fitting that waits for the plastic to go. Fittings in that block are on plastic boxes, and one of them has been a stair somebody has put a hand on about a hundred times.**"
 
 **What those four on that Monday came to was forty-three pounds, exact.**
 
@@ -193,7 +193,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand four hundred days, two hundred weeks to the day
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and eighty-two days, one hundred and ninety-seven weeks and three days
 One written line written inside that box off that road: one thousand two hundred and fourteen days, one hundred and seventy-three weeks and three days
-That shop, that yard and those two rooms in: a ring given an earth, a lamp fitted where there was none, a socket plate squared over a hole, a stair light put on a metal box.
+That yard, that kitchen and that second room in: a ring given an earth, a lamp fitted where there was none, a socket plate squared over a hole, a stair light put on a metal box.
 Not asked and not given: nobody asked the woman of about fifty-four whether she would put her own room on a sheet, and she was not asked twice, and nobody asked Talia what her office made of it.
 Work: nine callers, one room fuller than it has been since the woman began running it, one cost named out loud by somebody with no office, nothing escalated, nothing handed on.
 Charge: forty-three pounds, exact.**

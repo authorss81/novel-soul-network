@@ -116,7 +116,7 @@ Marek said: **I have been sitting in this shop for about two months waiting for 
 
 ---
 
-**What was left of that Thursday went into one shop, one yard and one room, and four jobs went into them.**
+**What was left of that Thursday went into one shop, one room and that kitchen, and four jobs went into them.**
 
 A socket in that room had been put in on a wall where somebody could reach it from the side of a bath.
 
@@ -128,7 +128,7 @@ A lighting circuit in that kitchen had a fuse in it two sizes over what the cabl
 
 He took the fuse out, fitted one of the rating that cable wanted and proved the board with an instrument.
 
-"**Eleven pounds,**" she said. "**A fuse that is too big is a fuse that has never been asked to do anything. Fuses in that row are too big, and one of them has been a kitchen somebody has had to keep the lights off in since the shop changed hands.**"
+"**Eleven pounds,**" he said. "**A fuse that is too big is a fuse that has never been asked to do anything. Fuses in that row are too big, and one of them has been a kitchen somebody has had to keep the lights off in since the shop changed hands.**"
 
 A lamp in that shop had been put in on a flex that had been painted at both ends where it came out of the holders.
 
@@ -140,7 +140,7 @@ An earth clamp in that kitchen had been put on the wrong terminal of a board, on
 
 He took it off the pipe, fitted it to the bar and proved the earth with an instrument.
 
-"**Eleven pounds,**" she said. "**A clamp on a water pipe is an earth that works until somebody puts a stopcock in. Clamps in that street are on pipes, and one of them has been a kitchen that has been fine for a year and a half.**"
+"**Eleven pounds,**" he said. "**A clamp on a water pipe is an earth that works until somebody puts a stopcock in. Clamps in that street are on pipes, and one of them has been a kitchen that has been fine for a year and a half.**"
 
 **Forty-three pounds is what the four of that Thursday came to, exact.**
 
@@ -171,7 +171,7 @@ The man of about fifty-one, unmoved from that north wall: one thousand four hund
 Nine copies of the front of one page, each of them torn at a corner: one thousand three hundred and ninety-six days, one hundred and ninety-nine weeks and three days
 The post at the far end of that corridor, its face worn halfway up: one thousand three hundred and seventy-eight days, one hundred and ninety-six weeks and six days
 One written line written inside that box off that road: one thousand two hundred and ten days, one hundred and seventy-two weeks and six days
-That shop, that yard and that room in: a socket moved round out of reach of a bath, a fuse changed to what the circuit wanted, a flex unpainted at both ends, a clamp moved onto the earth bar.
+That shop, that room and that kitchen in: a socket moved round out of reach of a bath, a fuse changed to what the circuit wanted, a flex unpainted at both ends, a clamp moved onto the earth bar.
 Not asked and not given: nobody in that queue asked the woman of about forty-three a fourth time who made the mark, and she did not say it a fourth time, and the man of about thirty-three was not asked whether it was him.
 Work: ten callers, one question asked at a counter and refused without an answer, one answer given that was not the answer asked for, nothing escalated, nothing handed on.
 Charge: forty-three pounds, exact.**
