@@ -175,7 +175,7 @@
 
 ---
 
-# LIVE — THE CAST AFTER THE VOLUME 20 MOVEMENT IV WRITER PASS, AT CHAPTER 1040. NOBODY ENTERED, NOBODY LEFT, NOBODY CHANGED NAME, AGE, JOB OR SEX, AND ONE PERSON SAID OUT LOUD THAT SHE WOULD RATHER BE AN ORDINARY CALLER. DATED 6 OCTOBER 2026, WHICH IS THE DAY THIS PASS RAN, AND **THE ORDER OF THESE BLOCKS IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.** **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT; KEEP THOSE TWO THE SAME BLOCK.**
+# LIVE — THE CAST AFTER THE VOLUME 20 MOVEMENT IV WRITER PASS AND ITS REVIEW-FIX PASS, AT CHAPTER 1040. NOBODY ENTERED, NOBODY LEFT, NOBODY CHANGED NAME, AGE, JOB OR SEX, AND ONE PERSON SAID OUT LOUD THAT SHE WOULD RATHER BE AN ORDINARY CALLER. DATED 6 OCTOBER 2026, WHICH IS THE DAY THIS PASS RAN, AND **THE ORDER OF THESE BLOCKS IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.** **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT; KEEP THOSE TWO THE SAME BLOCK.**
 
 ## 1. NOBODY CAME AND NOBODY WENT, AND THE PROOF IS THE LIST
 
@@ -204,6 +204,12 @@
 ## 3. THE ONLY PASSAGE TOUCHED, AND IT IS A WORD AND NOT A FACT
 
 **Four uses of the word `right` were repaired on three of these ten pages and two uses of the bare word `purpose` on a fourth, and every one of the six was inside somebody's mouth or inside a closing sentence and not one of them changed what that person said or did.** The repair this pass is least pleased with is a woman of about forty-three's own sentence, which now reads *I was not wrong four times*, because it is her mouth and she had to be given the sentence. **The `woman of about thirty`, who stands behind the fourth of those four doors, is named nowhere, counted nowhere, described nowhere and asked nothing on all ten pages, appears once on each of them in one clause, and is not the woman of about thirty-nine who answers the volume at Chapter 1058 and the two are never in a room together.** The woman of about thirty-four is a third person and is not either of them.
+
+## 4. THE REVIEW-FIX PASS AND WHAT IT DID TO THIS CAST, WHICH IS NOTHING, AND WHY THAT IS THE POINT
+
+**Ten sentences on those ten pages were rewritten on 6 October 2026 and not one of them is a word anybody in the list above said in a scene.** *One,* the sentence about what a person may read behind a dated rule, which appears in each page's apparatus and is in nobody's mouth — it asserts the same three facts as before and the modal is unchanged, eight pages reading *may* and two reading *can*. *Two,* four words of Chapter 1034's opening paragraph, which is a frame and not a speech: the four are four of the people who came up that stair, which is a subset of the room and always was, and the woman of about sixty-two who came up that afternoon and sat down is unaffected by it.
+
+**SO: NOBODY ENTERED, NOBODY LEFT, NOBODY CHANGED NAME, AGE, JOB OR SEX, AND NOBODY SAID ANYTHING DIFFERENT FROM WHAT §2 ABOVE SAYS THEY SAID.** The one correction in this movement's own record was in a measure and not in a cast: a summary gave Chapter 1031's printer scene to the man of about thirty-seven, and §2 above and the page itself both give it to Marek. **A pass reading this file next should take §2 as the record of what these people did, and should not take any figure from any measure of record as a fact about them.**
 
 **THE NEXT PHASE IS `workspace/volume-20/batch-0005/`, MOVEMENT V, CHAPTERS 1041 TO 1050, DAYS 2285 TO 2298, ITS SUNDAY AT CHAPTER 1042, THE SEVENTY-FIFTH SITTING AT CHAPTER 1048 WHERE THE BOOK OPENS, AND THE MOVEMENT WHERE A MAN OF ABOUT THIRTY WHO CAME ON A RUMOUR STANDS IN THAT ROOM AND CANNOT ANSWER THE THIRD OF THREE THINGS OUT LOUD IN FRONT OF ABOUT NINE PEOPLE.** Its prompt was created by this pass and is the only prompt this pass created. **No prompt exists for any chapter after Chapter 1050.**
 

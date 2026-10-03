@@ -147,7 +147,7 @@ Four stood on that register of correct acts that changed nothing at the two ends
 
 *What the day did not settle, and the rest of it.* **Ten objects are named at the foot of this page and this page does not bring two of them into one sentence. Two nicks cut into that rail. A card about the size of a hand, three questions on it, nothing above it, creased once across the middle. A board up on two nails. Nine corners torn off nine fronts. The tin with its lid down. The shutter. The book in the green binding. The binder at the back of that shelf. A slip with a date on it. A pencil lying in a margin.
 Six things stand outside that count and none of them is in any of it: the cage down one side of that counter, a carrier bag under a long bench with two hundred and fifty sheets in it, a plastic sleeve in a drawer in a first district with nine words and a date in it, a folded paper in a second district's drawer with one name struck through above another written under it, a page of nine names, and a leaflet taped to the lower of two clean rectangles in a fourth district.
-A dated rule stands above a question that does not belong to this page, and whatever is filed behind it may be read by any person who asks to see it.
+Whatever has been filed behind a dated rule over a question that is not this page's may be read by any person who asks.
 Nobody thanked anybody on that Saturday and nobody forgave anybody. A man of about thirty-seven told that room in about nine sentences that what he does at a door works, and said that the one thing that cannot be said against it is the reason it works, and about nine people in that room heard that and did not say the reason.**
 
 ---

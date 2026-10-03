@@ -1,6 +1,6 @@
 # Chapter 1034 — She Sat Down For Half An Hour
 
-**A Sunday kept that counter open from about ten until about two and the shutter always comes down early on it, and about four people came up that stair in the afternoon of that Sunday who had not been in that room since the Wednesday.**
+**A Sunday kept that counter open from about ten until about two and the shutter always comes down early on it, and about four of the people who came up that stair in the afternoon of that Sunday had not been in that room since the Wednesday.**
 
 ---
 
@@ -151,7 +151,7 @@ Four stood on that register of correct acts that changed nothing at both ends of
 
 *What the day did not settle, and the rest of it.* **Ten objects are named at the foot of this page and this page keeps them apart. Two nicks cut into that rail. A card about the size of a hand carrying three questions and nothing standing over them, creased once across the middle. A board up on two nails. Nine corners torn off nine fronts. The tin with its lid down. The shutter. The book in the green binding. The binder at the back of that shelf. A slip with a date on it. A pencil lying in a margin.
 Six objects are named here outside the ten and none of them goes in a count: the cage down one side of that counter, a carrier bag under a long bench with two hundred and fifty sheets in it, a plastic sleeve in a drawer in a first district with nine words and a date in it, a folded paper in a second district's drawer with one name struck through above another written under it, a page of nine names, and a leaflet gummed to the lower of two clean rectangles in a fourth district.
-A dated rule stands over a question that is not this page's, and whatever has been filed behind it can be read by anybody who asks to see it.
+Somebody ruled a date over a question that is not on this page, and whatever has been filed behind that rule can be read by anybody who asks to see it.
 Nobody thanked anybody on that Sunday and nobody forgave anybody. A woman of about sixty-two came up that stair and sat down and was asked nothing at all, and one of about thirty-four said she had wanted to ask her something since the first day she came, and was told she was not going to.**
 
 ---

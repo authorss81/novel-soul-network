@@ -143,7 +143,7 @@ Four stood on that register of correct acts that changed nothing at each end of 
 
 *What the day did not settle, and the rest of it.* **Ten things are named at the foot of this page and this page will not put two of them into one sentence. A pair of nicks in that rail. A creased card the size of a palm carrying three questions with nothing over the top of them. A board hanging on two nails. Nine torn corners on nine fronts. The lidded tin. The shutter. The green-bound book. The binder standing at the back of that shelf. A dated slip. A pencil down the side of a margin.
 Six further objects stand outside that count and none of them is added to it: the cage along one side of that counter, a carrier bag pushed under a long bench with two hundred and fifty sheets in it, a plastic sleeve in a first-district drawer holding nine words and a date, a folded sheet in a second-district drawer with one name struck through and another written under it, a leaflet gummed to the lower of two clean rectangles in a fourth district, and a page carrying nine names.
-Above a question belonging to some other page there stands a dated rule, and whoever asks to see may read what has been kept behind it.
+Somebody else's question has a dated rule standing over it, and whatever has been kept behind that rule may be read by any person who asks for it.
 Nobody thanked anybody on that Wednesday and nobody forgave anybody. A man of about sixty-one was told for the fourth time that there is nothing to print, and a man got four seconds into a sentence about a bench and gave it up, and said out loud that there are four people who would write a heading tomorrow and that he is not going to be the one who asks.**
 
 ---

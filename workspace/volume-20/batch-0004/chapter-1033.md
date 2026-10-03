@@ -155,7 +155,7 @@ Four stood on that register of correct acts that changed nothing at the top and 
 
 *What the day did not settle, and the rest of it.* **Ten objects stand named at the foot of this page and not two of them appear in the same sentence here. Two nicks cut in that rail. A card about the size of a hand on which three questions sit with no heading above them, creased once across the middle. A board up on two nails. Nine corners torn off nine fronts. The tin with its lid down. The shutter. The book in the green binding. The binder at the back of that shelf. A slip with a date on it. A pencil lying in a margin.
 Named outside the ten and in no count on this page: the cage down one side of that counter, a carrier bag under a long bench with two hundred and fifty sheets in it, a plastic sleeve in a drawer in a first district with nine words and a date in it, a folded paper in a second district's drawer with one name struck through above another written under it, a leaflet taped to the lower of two clean rectangles in a fourth district, and one page with nine names on it.
-Over a question that is not this page's stands a dated rule, and anything filed behind it may be read by any person who asks for it.
+What is filed behind a dated rule standing over a question that is not this page's may be read by any person who asks for it.
 Nobody thanked anybody on that Saturday and nobody forgave anybody. A man was told at a counter that there is no form, went up anyway, came down with the same two bags, and asked the question nobody in that room can finish saying.**
 
 ---
