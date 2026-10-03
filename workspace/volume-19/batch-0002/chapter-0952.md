@@ -98,7 +98,7 @@ She cut an access hatch and cleaned the fan and proved it quiet.
 
 "**Eight pounds,**" she said. "**A fan with no hatch is a hum nobody can stop. Four of those fans in that block are boxed in, and one of them has been a hum somebody has slept through for four years.**"
 
-**Thirty-nine pounds is what those four came to on that Tuesday, exact.**
+**Thirty-nine pounds is all those four came to on that Tuesday, exact.**
 
 ---
 
