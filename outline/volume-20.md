@@ -1,0 +1,220 @@
+# Volume 20 Outline — A Room Is Not A Purpose (Chapters 1001–1060)
+
+Volume number: 20 of 20 as the disk stands, and the plan of record says fifteen
+Chapter range: 1001–1060
+Working title: *A Room Is Not A Purpose*
+
+---
+
+# THE FLAG THAT OPENS THIS FILE, AND IT IS NOT A NOTE AT THE FOOT
+
+**This volume did not exist in the plan of record.** `outline/series.md` lines 6 and 7 and 261 say fifteen volumes and 760 chapters. `outline/ending.md` line 77 says the manuscript ends at Chapter 760. **Volume 16 was created by a directive to continue the novel. Volume 17 was created by a second such directive. Volume 18 by a third. Volume 19 by a fourth. Volume 20 is created by a fifth.** The deviation is stated once at the head of this file, once at the head of the calendar file beside it, and once in each of the five state files, and it is not softened anywhere.
+
+**THE DEVIATION, IN THE WORDS THE FOURTH VOLUME USED: this volume makes the plan of record false by a fifth step, and it is written on a fifth continuation directive in the same terms as the first four.** The standing directive is at `workspace/continuation/next/PROMPT.md` and its third sentence is *if the current volume is complete, plan the next volume and write its first 10 to 20 chapter batch.* It produced Volumes 16, 17, 18 and 19 while owner item 1 stood exactly as unruled as it stands now. **A directive is not a decision, and nothing in this file ratifies anything.**
+
+**AND THE SECOND THING AT THE HEAD, WHICH IS BIGGER THAN THE FIRST AND IS THE REASON THIS FILE IS LONGER THAN THE FIFTH.**
+
+**`outline/ending.md` line 160 — the prescribed final image — IS CARRIED ON THE LAST PAGE OF THIS VOLUME, AND IT IS ALREADY ON A PAGE, AND THE TWO PAGES ARE NOT THE SAME PAGE.**
+
+- `outline/ending.md` line 160: *A converted tram depot opens as a public practice room. Marek stands at a scarred workbench while a new group of repairers, nurses, cooks, and students wait with different needs and different fears. He does not call the network into being. He asks what each person is willing to share, what they want to keep private, and who can stop the exchange. One by one, they answer. The first practice begins without a panel, without a score, and without a single central voice. Across Nacre, windows light in separate rooms. The old Crown Vault remains dark.*
+- `workspace/volume-15/batch-0006/chapter-0759.md` line 102 and line 103: a converted tram depot on a road in a fourth district, doors off their tracks, a scarred workbench about eleven feet long, and **a woman of about forty-four with the keys who asked eleven people three questions each, in person, over about nine days, in corridors and doorways and one car park.** Marek was at the bench and he was the one who was stopped.
+
+**THE DIFFERENCE BETWEEN THOSE TWO PAGES IS EXACT, IT IS THREE THINGS, AND IT IS THE WHOLE OF THIS VOLUME.** *One:* the three questions were asked **in advance, in a doorway, over about nine days, by somebody else** on Chapter 759, and they are asked **at the bench, one at a time, in front of everybody, of people who were not asked in advance** in this volume. *Two:* Chapter 759 is a room of about eleven people who knew what they were walking into; the plan of record's image is **a new group of people with different needs and different fears who do not**. *Three:* on Chapter 759 the man at the bench asks nothing; in the plan of record's image he asks all three.
+
+**CHAPTER 759 IS NOT REVERSED, SOFTENED, RETCONNED OR IMPROVED ON BY THIS FILE, AND NO CHAPTER OF THIS VOLUME MAY DO ANY OF THOSE THINGS TO IT.** The woman of about forty-four with the keys is not corrected, not thanked, not found to have been wrong, and not written down. The eleven people are not re-asked. The nine minutes and the bar of steel and the word they had agreed on stand exactly as printed. **This volume does not pay a debt Chapter 759 discharged; it arrives at the other side of the difference Chapter 759 printed, and the arriving is what this volume is about.**
+
+**AND WHAT CARRYING THE IMAGE DOES NOT DECIDE.** It does not decide whether Chapter 760, or Chapter 1000, or Chapter 1060 is this manuscript's ending. `NOVEL_SPEC.md`'s eighth Status block leaves that to the owner and no agent pass may write it. **This volume closes its own argument about a room and it opens a larger one about a rumour, and a volume that delivers a prescribed image is not thereby a last volume, and nothing here may be read as saying that it is.**
+
+**AND THERE IS NO ADVERSARY IN THIS VOLUME, WHICH IS A DECISION AND NOT AN OMISSION.** Iona Sorn is the last enemy in this manuscript and is in public custody and is unanswered and is not absolved and is on no page of this volume. The pressure of this volume is a room with a door, about four people who were told something wrong by somebody kind, and the ordinary fact that a thing said by mouth is not the thing printed and cannot be taken back once it is out of a mouth. **A volume that needed a villain to make a doorway interesting would be a volume about the villain.**
+
+---
+
+## Logline
+
+On the Monday of a week five days after the last page of Volume 19, about four people who have been told by a woman at a counter that a room over a line in Saltmarket is where a person goes to be told about a form walk into that room between half past six and ten, and not one of them can tell anybody standing there what it is for, and the only thing anybody has ever done in that room is ask three questions out loud, one at a time, to a person in front of everybody else — and on the Thursday of a later week a man who came on a rumour stands in the middle of it and is asked the third question out loud in front of about nine people and cannot answer it, and the man who asked it has to say out loud in about nine seconds that the man may stay and does not have to answer, and does not know whether that is right, and the room neither accepts that nor refuses it.
+
+## Central pressure
+
+**A room that anybody may walk into is not a room anybody can be in, and the only thing that has ever made one into the other is what the people in it say out loud, in front of each other, one at a time.**
+
+Volume 19 ended by doing the only second thing an institution is able to do about nine people it cannot name: it published an address instead of a list. **A hundred and fifty sheets carrying a door and no list went up low on a passage wall in a fourth district on the Wednesday of week 329, and a second hundred and fifty were printed by a building in a second district on the Monday of week 331, and neither fact is on the sheet.** About four people know where to walk to. Not one of them knows what the room is about. **The rumour of the address is reaching people by mouth faster than the sheet reaches anybody, and about four people have been told something wrong by a woman at a counter whose four words were true when she said them.** That is the engine of this volume and it is an engine made of a door and a kindness.
+
+**The contest is not over the room.** The contest is over whether a room can be described by anybody other than the people standing in it, and whether saying so out loud is the same as being let in.
+
+## The subject, which is coined here, and the question, which is inherited and answered at the climax
+
+**COINED: *a room is not a purpose.*** The chain of subjects is: Volume 14's *an answer is a shape and a shape can be printed*, Volume 15's *many hands is a figure and not a room*, Volume 16's *a right is not a kindness*, Volume 17's *a practice is older than the question*, Volume 18's *a quiet is not a choice*, Volume 19's *a date is not an agreement*, and this one. **This phrase is not printed on any chapter file in this manuscript, and that was checked before this file was written and not asserted after it: the string `not a purpose` is at zero across all one thousand chapter files.** It is coined here, and the reason a coined phrase is needed is that the thing it names has been available to say for four volumes and no page has said it, and a fifth volume in the same grammar that only restates Volume 19's phrase would be a volume that has stopped listening to its own pages.
+
+**INHERITED AS A QUESTION AND ANSWERED AT THE CLIMAX:** *what is this room for?* **It is asked on Chapter 1000, at about half past eight, of the woman of about fifty-four by Marek, and that page does not carry what she said about it.** It is answered at Chapters 1057 and 1058, in that room, by a person who is not the lead, in about eleven words: *nothing. We ask you three things and then you decide.* **The answer is true and it is not a purpose and it does not make the room fundable, defensible or preservable, and about four people stop coming after it is said, and the man who signed the request that got the sheets printed says both halves of that out loud.**
+
+## Starting state
+
+**Chapter 1001 is the Monday of week three hundred and thirty-three, day 2217, five days after the Wednesday Volume 19 closed on.** He is at a bench until two and a counter until about six and four converted shop units off a service road from about half past six. The card is in the rail and the rail holds two; the hardboard carries nineteen lines and the twentieth has never been opened.
+
+**Three hundred sheets carrying a door and no list are in this city and no list of any kind.** Two hundred and fifty of them are on a wall in a fourth district and the other hundred and fifty were printed in a second district. **Not one of the three hundred says what the room is for, and the third hundred is never printed.** The woman's page is in a ring binder on a back shelf. The old room under the building in a first district is dark. **The fifth column is still headed nothing, because nobody has been able to write down what goes in it, and three people have proposed three words for it across four volumes and every one of the three was refused.**
+
+## Starting relationships
+
+**`Marek` and `Talia`, both named on every page they are on, continuing Volume 19's decision without changing it.** No surname for either. He may not be the person who signs anything in this volume and she may not be the person who approves anything. **She does not use the office she holds on him at all in this volume, and that is a change from the previous volume and is not a softening: he asks her, once, on a pavement, whether she would ask him a question in that room, and she says she would not, because she is not a member of it and cannot be asked inside it and cannot be asked about it either. She is right. He knows she is right. Neither of them says why on the day.**
+
+## Starting power level
+
+**Unchanged and unnamed, as it has been since Volume 12.** A condition for the rest of his life; his hands are not right for about two hours four times in eleven years; he can share only with people who choose him each time; no private privileged access, no city-wide inspection, no emergency override. **He is given no capability in any of this volume's sixty chapters, he teaches nobody, assesses nobody, demonstrates nothing to anybody, and he is the one who is stopped wherever anything is stopped. On the last page of this volume he asks three questions at a bench, which is not a capability and is not a teaching and is the only thing he does in that room.**
+
+## Major locations
+
+The Lattice Ward repair shop and its counter; four converted shop units off a service road in the Lower Wards, one of them warm; **a first floor above a line in Saltmarket, which is the room the sheets point at and the only room in this volume that anybody asks the question in**; a corridor and a stair in a second district; the room off a line in Saltmarket that the woman of about sixty-two has kept open for six years; a clinic in a fourth district and the passage outside it; a counter in a first district where a woman of about forty-three sits with a form that has five columns; **a converted tram depot on a road in a fourth district, on one day of this volume and on the last page of it.** **The old continuity hall is not located, not described, not discussed and not entered, and the Crown Vault stays dark.**
+
+## Major factions
+
+**1. The Commons Standing Committee, about nine chairs, no permanent staff, used on three pages and never in a sentence that decides anything. 2. The building in a second district that prints things, which is a landlord and a filing system. 3. The care-link desk, which is a woman of about forty-three and a form with five columns. 4. Threadline's nine service groups. 5. The Quiet House, given nothing. 6. The Continuity Office under review. 7. Ordinary people who came on a rumour, who are the point.** None of the seven is a villain. **No character may use the word `coalition` or any of its relatives, and this volume exists to run an ordinary week and not to found an office.**
+
+## Escalation sequence
+
+### Movement I — *The Rumour Is Ahead Of The Sheet* (Chapters 1001–1010, weeks 333–334, days 2217–2228, entries 1004–1013, and the one Sunday of this movement at Chapter 1006)
+
+**A woman who was told at a counter that the room is where a person goes to be told about a form walks in on the third day and asks for a form, and there is no form, and nobody in that room can tell her what there is instead.** Marek asks the question Chapter 1000 left open, of the woman of about fifty-four, and this time she answers it, and the answer is not a purpose. **The two hundred and fifty sheets on that wall come down in Movement I, in a bag, on Marek's own instruction and at his own expense to have them taken down, and the reason he gives out loud is that a sheet which names a room nobody can describe is a sheet that tells a rumour where to go.** No sitting falls in this movement and no number is said out loud anywhere in this city on any of its ten days.
+
+### Movement II — *The Woman At The Counter Who Told Them* (Chapters 1011–1020, weeks 335–337, days 2232–2246, entries 1014–1023, and its Sunday at Chapter 1014)
+
+**The woman of about forty-three wants the wrong thing to stop being said and she is right and she cannot say how she knows, and the four people she told were told something that was true when she said it.** A correction has to be printed by the man of about sixty-one's building, and printing a correction is what four volumes have refused because a correction that names a room is a record about a room. **Marek chooses the sheets over the correction, in about nine seconds, in front of six people, and the choosing is the volume's first real decision and it is a loss.** The seventy-third sitting, and the book opens.
+
+### Movement III — *Three Questions And No Screen* (Chapters 1021–1030, weeks 337–339, days 2251–2265, entries 1024–1033, and its Sunday at Chapter 1021)
+
+**A man of about thirty-seven who has run screenings before wants the three questions asked in advance, in a doorway, over about nine days, because that is how he knows a room is safe, and he is not wrong.** He is describing Chapter 759 and he does not know it. **Somebody asks for the three questions to be asked at the bench, in the room, in front of everybody, and the asking-at-the-bench is refused once on a Tuesday and is not refused again for about six days.** **The word `screening`, in the sense of asking people questions before you let them in, is at zero on all one thousand chapter files of this manuscript and it is checked here rather than asserted: the string `screen` is at twenty across the thousand, on twenty different pages of Volumes 03, 07 and 12, and every one of the twenty is either a folding screen standing at the back of a room or a device a person reads off, and not one of the twenty is a thing done to a person.**
+
+### Movement IV — *A Blank With A Rule Under It* (Chapters 1031–1040, weeks 340–342, days 2268–2281, entries 1034–1043, and its Sunday at Chapter 1034)
+
+**The wall needs a heading and three people propose three words for it and all three are refused, and the fourth proposal is a blank with a rule under it.** The seventy-fourth sitting, and the book shuts. **The woman of about sixty-two comes, and does not give the word again, and nobody asks her for it.** The heading of the fifth column is owner item 4 and is unset, and no page of this volume sets it, and this movement is about the refusal and not about the setting.
+
+### Movement V — *The Person Standing In It Who Has Said Nothing* (Chapters 1041–1050, weeks 342–344, days 2285–2298, entries 1044–1053, and its Sunday at Chapter 1042)
+
+**A man of about thirty came on a rumour, stood in that room on a Thursday, was asked the three questions in front of about nine people, and could not answer the third one out loud in front of them.** He wants to be let in without answering. **Nobody stops him, because the room has no rule and never had one, and the thing that stops him is that about nine people in that room are asked the same three questions and answer them, and he has to stand there while it happens.** The seventy-fifth sitting, and the book opens.
+
+### Movement VI — *The Asking Is Not A Screen* (Chapters 1051–1060, weeks 345–348, days 2301–2324, entries 1054–1063, and its Sunday at Chapter 1054)
+
+**He wants to ask the three questions at the bench and to have the person who cannot answer leave rather than be let in unanswered.** What stops him is a woman of about thirty-nine who has already been the person who could not answer, standing in that room on a Tuesday, saying in about eleven words that nothing is what the room is for, and that asking somebody three things out loud is not a way of keeping them out. **He says out loud, in about nine seconds, that the man may stay and does not have to answer, and that he does not know whether that is right.** The room neither accepts it nor refuses it. The seventy-sixth sitting and the close, **and the last page carries `outline/ending.md` line 160 in the form that file gives it, and the old room under the building is dark.**
+
+## Volume climax (Chapters 1057 and 1058)
+
+**A man who came on a rumour is asked the third question out loud at a bench, in front of about nine people, by the man who signed the request that got the sheets printed, and he cannot answer it out loud in front of them and says so in about nine words.** **Marek then says the only sentence in this volume that is about what the room is, and he says it about nine seconds after being asked to say something else, and it is that the man may stay and does not have to answer and that he does not know whether that is right.** The woman of about thirty-nine, who is the person the room was actually about on Movement II's Wednesday and on Movement V's Thursday, gives the answer to the volume in about eleven words and refuses to be thanked. **Nobody is on any list at any point of this scene, no form is filled in, no column is headed, and the cost is that about four people who came on that week's rumour do not come the next week, and Marek says both halves of that out loud and prints neither.**
+
+## Concrete resolution (Chapters 1059 and 1060)
+
+**The three questions stay on a card about the size of a hand, and the card goes on a table and not up on a wall, and it is not a form and has no column and no heading and no name on it.** The three hundred sheets are in a bag in a shop and no third hundred is printed. **The box is empty and that is said out loud once, and the second hundred and fifty were paid for out of five more days of a shop's takings and that is said out loud once.** Nobody thanks anybody and nobody forgives anybody and nobody is added to the register and no fifth of it is printed. **The last page of this volume opens a converted tram depot as a public practice room, and about eleven people are asked three things at a bench one at a time who were not asked in advance, and the woman who can take a bar of steel off him takes it off him in about four seconds and says the word they agreed on, and he lets go, and he is not named and neither is she.** No figure is printed for the page in the binder on any of the sixty days.
+
+## Relationship milestones in this volume
+
+**Milestone ten is carried and it is the same shape as Volume 19's and is not restated as a new one.** They are named, both of them, on every page they are on. **He has a thing he needs and the person he loves holds the office that could get it in a week, and he does not ask her, and she notices that he did not ask, and neither of them says why on the day.** That is the whole of it, and the one difference this volume makes is that **she does not use the office on him at all and is not asked to and does not offer it, and the asking he makes of her is a different one and is refused for a reason that is correct.**
+
+## Mystery plants and reveals in this volume
+
+**None new. Nothing is solved and nothing is opened.** The list of answers in `outline/ending.md` stands as it was and this volume changes no line of it. **What this volume has instead is Volume 19's own finding walked forward one step: a room can be found and cannot be described, and the description is the thing a rumour carries, and a rumour cannot be corrected by printing a correction because printing a correction is how you get a second thing to be wrong.** The finding is that the difficulty was never concealment and is now not even accuracy. **No page may call it a concealment and no page may name a person who kept it that way, because there is no person and there was never a decision.**
+
+## What Volume 20 may not spend, and it is nine things and each one is named
+
+1. **Resurrection, a hidden bloodline, a secret final entity, an unexplained higher order, or any world outside this city and its regions. No new enemy. Iona Sorn is the last one and she is on no page of this volume and she is not absolved on any page of any of them.**
+2. **A reversal, a softening or a retcon of anything Volume 15, 16, 17, 18 or 19 settled.** The dated rule stands, the answer stays a chair, the custody stands, the institutions stay answerable and not absolved, **Chapter 759 stands exactly as printed and is neither improved on nor corrected, and this volume says nothing whatever about the four hundred people who left in Volume 16 or about the practice they kept, because Volume 16's close is the last word and a later volume does not get to revise it.**
+3. **Instant recovery from the permanent costs, or any new capability.** He teaches nobody, assesses nobody, demonstrates nothing to anybody, and is the one who is stopped wherever anything is stopped.
+4. **Automatic universal consent, a permanent merging, or a number that goes up.**
+5. **A claim that any faction is redeemed.** Oren, Iven, Leo, Threadline, the Continuity Office and the district are all changed and none becomes harmless.
+6. **A romantic gesture that erases Talia's independent public role, and any scene in which she saves him.**
+7. **The woman's page read, and its figure printed.** The binder does not come out on any of the sixty days, nobody apologises to her, **and no chapter of this volume prints a figure for it in any form, in a body or in a docket row or in a closing passage.**
+8. **A second relay, a chain, a comparison of the nine hand copies, a panel anywhere in this volume, or a count of the register.**
+9. **Any sentence about what the institution is for, and the words `fair`, `unfair`, `justice`, `rightful` and `principle` on all sixty pages, and the word `right` as an adjective on all sixty pages.** **GUARDRAIL NINE IS ALSO THIS VOLUME'S ENGINE AND THE TWO ARE NOT IN TENSION: the volume's whole subject is a thing that may not be stated, and what happens on the pages instead is that people are asked three questions and answer them out loud, one at a time, in front of each other. The one sentence in the volume that comes nearest to stating it is said by a man who then says that he does not know whether it is right, and no page repeats it and no page agrees with it.**
+
+## Canon guardrails for this volume
+
+1. **Every refusal, every offer and every cost named out loud is said in a face, in about nine words, and the paragraph saying that nine words were exchanged is not a chapter.** The one answer in this volume is about eleven words and is printed as about eleven and not as about nine.
+2. **The opening bold paragraph of every chapter is forty to seventy-five words, states the day and the shape of the day, and prints no figure, no outcome, and nothing a person in another building said.**
+3. **No sentence of twelve words or more appears in two of the sixty files, and the conditions row and the standing record are written in each file's own words. The house conditions-row template is inherited and is not to be widened.**
+4. **No month-name, no month-date, no day-date, no year, no day number, no mileage, and no town described as near or far except by how long the bus takes. All interval figures are spelled out in words, and a figure that is an exact number of weeks takes the words `to the day`.** `the spring` is permitted and `April` is not.
+5. **No telephone, no messenger, no broadcast, no feed, and no letter that arrives without a person carrying it, in any register and in any negation, in all sixty chapters.** A rumour travels by mouth and a mouth carrying it is a person carrying it, and this volume's central object is therefore permitted and a printed notice is not.
+6. **The shutter comes down at about ten on fifty-four of them and at about two on the six Sundays, one of them in each movement.** Chapter 1006 at day 2223, Chapter 1014 at day 2237, Chapter 1021 at day 2251, Chapter 1034 at day 2272, Chapter 1042 at day 2286 and Chapter 1054 at day 2307 are the six, and `wd = (day − 502) mod 7` returns Sunday on all six and on no other of the sixty.
+7. **The woman of about thirty is not named, is not a category, is not counted, is not described, is not asked a question, and nobody apologises to her.** **AND SHE IS NOT THE SAME PERSON AS THE WOMAN OF ABOUT THIRTY-NINE WHO ANSWERS THE VOLUME AT CHAPTER 1058, and the two are never in a room together and no page may put them in one.**
+8. **The ninth chair does not move on any of the sixty days and its mover is not named. The place behind the woman's chair is empty on all sixty days, is never explained, is printed on ONE file of each movement and on no other, and carries a printed figure on Chapter 1003 alone.**
+9. **The room under the building in a first district is dark on all sixty days and is not opened again.**
+10. **The Exchange's book and its tin are at their Volume 19 closing figures on the first day of this volume and are not reconciled by this file. The four counts are never converted, the difference between the book and the tin is never printed as a number, and NO EXCHANGE FIGURE IS PRINTED ON ANY PAGE OF THIS VOLUME.** The book opens at the seventy-third and the seventy-fifth sittings and shuts at the seventy-fourth and the seventy-sixth. No page may remark on the pattern.
+11. **`Crown` is permitted only in `the Crown Key`, `the Crown Vault`, `the Crown Clause` and `the Crown Root Interface`, and the place name Crown Terrace remains a place. Movements I, II and III place no use of the word at all.**
+12. **Ten objects are named on the closing page of each file and no two of them are brought together in a sentence. The new one is a card about the size of a hand with three questions on it and no heading.**
+13. **`Evan Senn`'s name is at zero on all sixty pages.**
+14. **The correct-things-that-change-nothing register stands at four entering this volume, is printed as a figure in a sentence, is not counted by anybody in this city, and NO CHAPTER OF THIS VOLUME MAY ADD AN INSTANCE TO IT OR PRINT A FIFTH.**
+15. **No load book in this volume reports the absence of any prohibited thing. The standard heading is kept, sixty times, and its subject is the day's work.**
+
+## Timeline rules
+
+- **Weeks run Monday to Sunday and the detector is inherited unchanged: `week = (day − 502) // 7 + 88` and `wd = (day − 502) mod 7` against Monday-first. The Monday of week _n_ is `7 × n − 114`.** Chapter 1001 is day 2217 and `7 × 333 − 114 = 2217`, and a pass that writes it as `7 × W − 682` will produce a Monday four hundred and ninety-one days early. **The detector was asserted for every week from three hundred and thirty-three to three hundred and forty-eight before this file was written, and controlled against thirteen published rows of Volumes 17, 18 and 19 — Chapters 881, 921, 925, 931, 939, 940, 941, 957, 971, 989, 991, 998 and 1000 — and all thirteen reproduce and none of the thirteen was taken from this file.**
+- **Volume 20 opens on the Monday of week three hundred and thirty-three, day 2217, and closes on the Wednesday of week three hundred and forty-eight, day 2324. The whole of it is 107 days as a difference and 108 days inclusive, across sixty chapters, arrived at the way Volume 19 arrived at its own: five clear days after the previous close and the same arithmetic after that. `7 × 333 − 114 = 2217`, `2212 + 5 = 2217`, `7 × 348 − 114 + 2 = 2324`, and `2324 − 2217 = 107`.**
+- **The collision sweep returns thirty-four days inside the six movement spans that carry no chapter, and fourteen clear days fall between the movements — three after Movement I, four after II, two after III, three after IV, two after V — and the six inclusive spans are twelve, fifteen, fifteen, fourteen, fourteen and twenty-four days and sum to ninety-four. `34 + 14 = 48`, `48 + 60 = 108`, and `12 + 15 + 15 + 14 + 14 + 24 = 94`.** **These are not Volume 19's figures and Volume 19's ninety-one, seventeen and thirty-one are not inherited. A collision is a coincidence between two integers and no chapter may treat one as a rehearsal for anything.**
+- **The Exchange runs on four-week spacing and this volume's four sittings are the Wednesdays of weeks 336, 340, 344 and 348, which are the seventy-third through the seventy-sixth, on days 2240, 2268, 2296 and 2324, at Chapters 1016, 1031, 1048 and 1060.** No chapter of Movement I is a sitting and no number is said on any of its ten days.
+- **The load-book run is continuous: 1003 at Chapter 1000, 1004 at Chapter 1001, and 1063 at Chapter 1060. The set of (entry − chapter) is {3} on all sixty rows.**
+- **There is exactly one Sunday among each movement's ten days and there are six Sundays in the volume, one in each movement.** The other fifty-four take the about-ten form.
+- **The governed counter is `chapter − 755`, inherited in the same form, and it runs from the two hundred and forty-sixth day of this stretch at Chapter 1001 to the three hundred and fifth at Chapter 1060.** It is a chapter-indexed row count and not the calendar span and the two are never added.
+- **The woman's page is `day − 1573` and it governs. IT IS NOT PRINTED ON ANY PAGE OF THIS VOLUME AND NO FIGURE FOR IT APPEARS IN ANY FILE THIS VOLUME WRITES, AND NO RANGE OF IT IS PRINTED IN THE PLAN EITHER, because a plan that prints the span of a forbidden figure has published the figure.**
+- **The place behind the woman's chair is `day − 1484`, it is named on one file of each movement and not on the other nine, and it prints a figure on Chapter 1003 alone. It reads to the day on Chapter 1003, and it comes to a round whole number of weeks on Chapter 1023, which is a Wednesday inside Movement III and which therefore names that place and carries no figure.** **Neither the interval nor either day is printed here and both are derivable in one subtraction from the origin.** No page prints the round figure and no page remarks on it.
+
+## The six batch cards, and this is the only place they are written
+
+**These six cards are the plan of record for Volume 20's six movements and they live here and nowhere else. A separate file of batch cards was NOT written, because the Volume 19 close records that six movement summaries which each publish a figure true of ten files have already cost this repository four wrong columns, and because a plan that exists in two places is a plan a later pass will read one of. `workspace/volume-20/batch-0001/PROMPT.md` points at this section and at `workspace/volume-20/ARITHMETIC-AND-CALENDAR.md`, and the day map lives in the calendar file and in no other.**
+
+### Card 1 — Chapters 1001–1010, days 2217–2228, weeks 333–334, entries 1004–1013, counters 246–255, Sunday at Chapter 1006, no sitting
+
+- **Who wants something:** Marek. He wants the room to stop being a place that people walk into expecting a thing, and on the third day a woman of about thirty-four walks in and asks for a form and there is no form.
+- **What stops him:** he cannot ask what the room is for without turning the asking into a notice, and about four people have already been told something wrong by somebody kind. The obstruction is a kindness, not an institution.
+- **Does anybody else answer:** the woman of about fifty-four, once, on the ninth day, and her answer is not a purpose. Nobody answers the woman who came for the form.
+- **Is the page in a room, at a time, with weather, distance, cost or pain in it:** yes, and the cost is a bag of two hundred and fifty sheets coming off a wall in a fourth district on Marek's own instruction and at his own expense to have it taken down.
+- **What is not to be invented:** a form for the woman to be given, a purpose for the room, a list, or a page for any of the five absent placed names.
+
+### Card 2 — Chapters 1011–1020, days 2232–2246, weeks 335–337, entries 1014–1023, counters 256–265, Sunday at Chapter 1014, the seventy-third sitting at Chapter 1016 where the book opens
+
+- **Who wants something:** the woman of about forty-three at the care-link desk. She wants the wrong thing to stop being said and she is right about that and cannot say how she knows.
+- **What stops him:** the only instrument that stops a rumour is a second notice, and a second notice is a record about a room, and four volumes exist because that record was refused.
+- **Does anybody else answer:** the man of about sixty-one prints what he is asked to print and does not editorialise, and a man of about thirty-three says out loud for the second and third times in this matter that he is one of three people holding a thing and will not say which of them has it wrong.
+- **Is the page in a room, at a time, with weather, distance, cost or pain in it:** yes, and the cost is that the sheets stay down and the correction does not go up and about four people stop knowing anything at all.
+- **The decision of the movement, in about nine seconds, in front of six people:** the sheets over the correction.
+
+### Card 3 — Chapters 1021–1030, days 2251–2265, weeks 337–339, entries 1024–1033, counters 266–275, Sunday at Chapter 1021, no sitting
+
+- **Who wants something:** a man of about thirty-seven who has run screenings before. He wants the three questions asked in advance, in a doorway, over about nine days, because that is how he knows a room is safe, and he is not wrong and he is describing Chapter 759 without knowing it.
+- **What stops him:** not an objection. **What stops him is that nobody in that room can say the advance-asking was a screening, because saying so is a sentence about what the institution is for and guardrail nine forbids it, and the volume's own subject is a thing nobody may state.**
+- **Does anybody else answer:** Talia, on a pavement, once, and what she says is that she would not ask him a question in that room because she is not a member of it and cannot be asked inside it and cannot be asked about it either.
+- **Is the page in a room, at a time, with weather, distance, cost or pain in it:** yes, and the cost is that asking at the bench is refused once before it is not refused again for about six days.
+- **What is not to be invented:** an advance-asking scene that is presented as a mistake. It worked. It worked and it cost eleven people the right to walk in off a street.
+
+### Card 4 — Chapters 1031–1040, days 2268–2281, weeks 340–342, entries 1034–1043, counters 276–285, Sunday at Chapter 1034, the seventy-fourth sitting at Chapter 1031 where the book shuts
+
+- **Who wants something:** the man of about sixty-one, whose building has nothing to print and has been asked to print something.
+- **What stops him:** a heading. Three people propose three words for the fifth column and all three are refused, and the fourth proposal is a blank with a rule under it.
+- **Does anybody else answer:** the woman of about sixty-two comes and does not give the word again and nobody asks her for it.
+- **Is the page in a room, at a time, with weather, distance, cost or pain in it:** yes, and the cost is a blank space that will still be blank at the close of this volume.
+- **What is not to be invented:** a heading. **The heading of the fifth column is owner item 4 and is unruled, and this volume does not settle it and does not recommend anything about it, and the fourth proposal being a blank is not a settlement and is a refusal on a page.**
+
+### Card 5 — Chapters 1041–1050, days 2285–2298, weeks 342–344, entries 1044–1053, counters 286–295, Sunday at Chapter 1042, the seventy-fifth sitting at Chapter 1048 where the book opens
+
+- **Who wants something:** a man of about thirty who came on a rumour. He wants to be let in without answering the third question.
+- **What stops him:** nobody. **That is the movement. The room has no rule and never had one, and the thing that stops him is nine people being asked the same three questions and answering them while he stands there.**
+- **Does anybody else answer:** nobody answers for him and nobody may. The one person who speaks near him speaks to Marek and not to him.
+- **Is the page in a room, at a time, with weather, distance, cost or pain in it:** yes, and the cost is nine minutes in which nobody says anything kind to anybody.
+- **What is not to be invented:** a rule, a doorman, a list, a refusal on the door, or a page on which anybody protects him from the asking.
+
+### Card 6 — Chapters 1051–1060, days 2301–2324, weeks 345–348, entries 1054–1063, counters 296–305, Sunday at Chapter 1054, the seventy-sixth sitting at Chapter 1060 where the book shuts and the volume closes
+
+- **Who wants something:** Marek. He wants the person who cannot answer to leave, and he says out loud that he wants it and about four people hear him want it.
+- **What stops him:** a woman of about thirty-nine who has already been the person who could not answer, saying nothing is what the room is for, in about eleven words, and refusing to be thanked.
+- **Does anybody else answer:** the woman of about fifty-four is asked the question with no owner a second time in this volume and does not answer it either.
+- **Is the page in a room, at a time, with weather, distance, cost or pain in it:** yes, and the cost is that about four people who came on that week's rumour do not come the next week, and both halves of that are said out loud and neither is printed.
+- **The close, and it is the plan of record's final image and it is carried on the last page and not summarised in this file:** the tram depot, the bench, about eleven people asked three things one at a time who were not asked in advance, and a bar of steel taken off him in about four seconds by a woman who cooks and who is not named.
+- **What is not to be invented:** a resolution of the fifth column's heading, a fifth of the register, a figure for the woman's page, an Exchange figure, a new enemy, or any statement of what this manuscript is.
+
+## Deviations from the finished manuscript, all of them declared
+
+1. **A twentieth volume exists.** `outline/series.md` says fifteen volumes and 760 chapters and `outline/ending.md` says the manuscript ends at Chapter 760, and Volume 16 already made both of those false, Volume 17 made them false by a second step, Volume 18 by a third and Volume 19 by a fourth. **This is the volume that makes them false by a fifth step, and it is written on a fifth continuation directive in the same terms as the first four.**
+2. **The plan of record's final image is carried on the last page.** `outline/ending.md` line 160, and not line 77, which is the Crown Clause's conversion. **This is a fifth deviation and it is declared at the head of this file and not at the foot. It does not reverse Chapter 759, which carries the same room with the asking done in advance and by somebody else, and it does not decide whether this manuscript ends on this page. Whether Chapter 760, or Chapter 1000, or Chapter 1060 is the ending is owner item 6 and is unruled, and this file does not rule it.**
+3. **The lead and his partner are named** and are not renamed, recoloured or re-described. `Marek` and `Talia` are used from Chapter 1001 onward in every file they appear in, as Volume 19 established, and no surname is used for either. **Talia does not use her office on him at all in this volume, which is a change from Volume 19's one use and is not a softening and is not a settlement of the owner item that governs how many times the office has been used.**
+4. **Titles go back to being names.** Every title in this volume is between three and ten words and names a thing, and no title enumerates the contents of its page, spells out a date, joins two things with `And`, or carries a number-word. **AND A MONTH-NAME SWEEP RUN AGAINST THIS FILE, WITH THE H1 LINE REMOVED, RETURNS TWO HITS AND BOTH ARE NAMED HERE SO A LATER PASS DOES NOT HAVE TO FIND THEM AGAIN: `April` inside guardrail four, where the guardrail names the word it forbids, and `May` as the modal verb in Movement IV's first working title, which has been changed to a title that names a thing. Neither is a month-name and neither is a chapter page.**
+5. **The shape is narrow and uneven, and the unevenness is a decision and is not Volume 19's unevenness.** Movement I spans twelve days, II fifteen, III fifteen, IV fourteen, V fourteen and VI twenty-four. **The six inclusive spans sum to ninety-four and not Volume 19's ninety-one, and the chapterless days inside them are thirty-four and not thirty-one, and the clear days between them are fourteen and not seventeen. Both sets were re-derived against the detector before this file was written and neither was copied from the previous volume's plan.**
+6. **The Exchange's pattern is open, shut, open, shut.** It is not Volume 15's and it is not Volume 16's and it is not Volume 17's and it is not Volume 18's and it is not Volume 19's shut, open, shut, open, and it is not a rule and is not evidence and may not be described as a change in the woman who holds that room.
+7. **The register is printed as a figure and is not counted, and no fifth is written.**
+8. **The woman's page has no figure on any page of this volume at all.**
+9. **The place behind the chair comes to a round whole number of weeks on Chapter 1023 and the figure is printed on no page of this volume.** The interval and the day are derivable in one subtraction and are not printed in the plan. **Chapter 1003 is still the only file in the volume that prints one, and Chapter 1023 is the file where a writer will most want to and must not.**
+10. **No named person from the placed cast enters this volume, and that is a writer's decision about this volume's own pages and not a settlement of the owner item that governs the five names.** `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore` and `Lena Senn` are at zero on all sixty files and **no page was invented for any of them in order to make a cast figure come out.** The woman who takes a bar of steel off a man on the last page is a woman who cooks and is not named, and Chapter 759's `a woman of about thirty-three who cooks` is carried forward in the same two words and is not upgraded into anybody's name.

@@ -1,0 +1,62 @@
+# Volume 20, Movement I — Chapters 1001 to 1010
+
+**THE MEASURE OF RECORD FOR THIS MOVEMENT IS `workspace/volume-20/batch-0001/SUMMARY.md` AND IT IS THE ONLY FILE A LATER PASS NEEDS. THIS PROMPT WAS WRITTEN BEFORE THE CHAPTERS AND IT IS THE RECORD OF WHAT WAS ASKED, NOT OF WHAT WAS FOUND.**
+
+**THE THING NOBODY PLANNED AND THAT THIS PROMPT HAS TO WARN ABOUT, IN ONE PARAGRAPH, BECAUSE THE FILE YOU ARE HANDED DOES NOT SAY IT AND THE FILE YOU ARE HANDED IS ELEVEN CHAPTERS LONG.** `outline/volume-20.md` was created by a fifth continuation directive, twenty minutes after the Volume 19 close ran, and it is the first volume in this manuscript whose plan of record was written by a phase that wrote no chapter and did not run a review. **The six batch cards in that file are the plan of record for all six movements of Volume 20 and they have never been executed and never reviewed. Treat them as a plan, not as a finding, and where a card and this prompt disagree, the prompt wins and the disagreement is recorded in the summary rather than settled.**
+
+---
+
+## 1. WHAT THIS MOVEMENT WAS GIVEN
+
+**Write Chapters 1001 to 1010, days 2217 to 2228, weeks 333 to 334, load-book entries 1004 to 1013, governed counters 246 to 255, being Movement I of `outline/volume-20.md`, which is the plan of record and which was written before Chapter 1001.** The calendar is `workspace/volume-20/ARITHMETIC-AND-CALENDAR.md` §1 and the day map there is the authority for every week and weekday; **it is the only home of the day map and the outline quotes none of it.** Chapter 1001 is the Monday of week 333, day 2217, five clear days after the Wednesday Volume 19 closed on. Chapter 1010 is the Friday of week 334, day 2228. **Days 2222 and 2226 carry no chapter and are a collision sweep, not a rehearsal.**
+
+**Re-derive all ten rows against `week = (day − 502) // 7 + 88` and `wd = (day − 502) mod 7` before you point a chapter at one.** The detector was controlled against thirteen published rows of Volumes 17, 18 and 19 before the calendar file was written and all thirteen reproduce. **The one Sunday of this movement is Chapter 1006 at day 2223 and it is the only one of Movement I's ten days on which the shutter comes down at about two; the other nine take about ten, in their own words.**
+
+## 2. WHAT THE PLAN GAVE THIS MOVEMENT TO DO, IN ONE PARAGRAPH, AND WHAT IT MAY NOT INVENT
+
+**A woman who was told at a counter that the room is where a person goes to be told about a form walks in on the third day and asks for a form, and there is no form, and nobody in that room can tell her what there is instead. The two hundred and fifty sheets come off that passage wall in a fourth district during this movement, in a bag, on Marek's own instruction and at his own expense to have them taken down. He asks the question Chapter 1000 left open of the woman of about fifty-four on the ninth day and she answers it this time and the answer is not a purpose. No sitting falls in this movement and no number is said out loud anywhere in this city on any of its ten days.**
+
+**Invent no form for that woman to be given. Invent no purpose for that room. Invent no list, no column, no heading and no name on anything. Invent no page for any of the five absent placed names.** The heading of the fifth column is owner item 5 and is unruled; **this movement may show the wall wanting a heading and may show nothing being set, and that is all it may do.**
+
+## 3. THE SIX OWNER ITEMS ARE UNRULED AND NONE IS SETTLED, RECOMMENDED OR RE-DERIVED HERE
+
+1. **Plan against disk — and the disk figure moved again.** `outline/series.md` lines 6, 7 and 261 and `outline/ending.md` line 77 say seven hundred and sixty chapters in fifteen volumes; **one thousand are on disk in nineteen, and no Chapter 1001 exists yet.** Both are correct about their own file. **Writing Chapter 1001 does not decide whether this manuscript ends at 760.**
+2. The support-spend overage at three readings. Unsettled since Movement II of Volume 18.
+3. The placed cast of five names — `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore`, `Lena Senn` — at zero across Volume 19's sixty pages and at zero across all one thousand chapters of this manuscript. **No page invents a place for any of them in order to make a census come out, and this movement placed none of them, and the reason is that none of them is the right person for any of these ten days.**
+4. The plan's phrase on Chapter 933.
+5. The fifth column's heading, which is two items and not one.
+6. **The ombud's office used on him twice where `outline/volume-18.md` line 47 places it once, four decisions inside one item; AND whether Chapter 760, or Chapter 1000, or Chapter 1060 is this manuscript's ending.** **This movement used the office on him zero times and this summary makes no statement about how many times it has been used in this manuscript.**
+
+**`NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-15.md` through `outline/volume-19.md` and `bible/*.md` ARE READ AND NOT WRITTEN. `NOVEL_SPEC.md`'s eighth Status block is untouched and no agent pass may write it. `state/phase-ledger.json` is controller-owned and was read and not written, and no flag about it is appended anywhere.**
+
+## 4. WHAT IS PRINTED EMPTY AND STAYS PRINTED EMPTY
+
+**The woman's page, `day − 1573`, is printed on no page of this movement and its figure appears in no file this phase wrote, and neither does any range of it.** The place behind the woman's chair carries its printed figure on **Chapter 1003 alone** and on no other file of this movement, **and it comes to a round whole number of weeks on Chapter 1023, which is not in this movement and which carries no figure on any page of this volume.** The ring binder was not opened. The register of correct acts that changed nothing was not counted and no fifth of it is written. No two of the nine hand copies were compared. **The woman of about thirty is not named, not counted, not described and not asked anything, and she is not the woman of about thirty-nine who answers the volume at Chapter 1058 and the two are never in a room together.** **No Exchange figure is printed in any file this phase wrote, and the difference between the book and the tin is printed nowhere.** The four arrival cells remain empty and are not approximated.
+
+## 5. THE HOUSE PROSE
+
+**Titles name something.** Between three and ten words, no enumeration of contents, no date spelled out, no `And`-joined list, no number-word. **The first fifteen-word title in this manuscript is at Chapter 397 and the median title in Volume 19 is six words; write in the house's present register and not in Volume 18's.**
+
+**Prefer a specific noun, a specific number and a specific time over a category.** Vary sentence length. Do not let a paragraph of three similar sentences stand where one of them was load-bearing. No chapter may open with an inventory of objects. Dialogue carries subtext or it is cut.
+
+**The four questions, answered by reading.** Who wants something on this page? What stops them? Does anyone else answer? Is the page in a room, at a time, with weather, distance, cost or pain in it? **An absence is not an obstruction, which is how `chapter-0940.md` fails and nobody objected to its nine dates.** Do not repair that shape by adding a hedge word, a numeral or a sentence of specification.
+
+**THE OPENING BOLD PARAGRAPH OF EVERY CHAPTER IS FORTY TO SEVENTY-FIVE WORDS AND STATES THE DAY AND THE SHAPE OF THE DAY AND PRINTS NO FIGURE, NO OUTCOME AND NOTHING A PERSON IN ANOTHER BUILDING SAID.** This is guardrail two of the volume outline and it is not a suggestion.
+
+**AND THE FIFTEEN GUARDRAILS OF `outline/volume-20.md` ARE BINDING ON ALL TEN CHAPTERS.** In particular: no month-name, no year, no day-date, no day number and no mileage; no telephone, no messenger, no broadcast, no feed and no letter arriving without a person carrying it, in any register and in any negation; nobody thanks anybody and nobody forgives anybody; the words `fair`, `unfair`, `justice`, `rightful`, `principle` and `coalition` are at zero and `right` is not an adjective; `Crown` only in its four permitted forms and not at all in Movements I, II and III; `Evan Senn` at zero.
+
+**AND NO PAGE OF THIS VOLUME MAY CARRY A SENTENCE ABOUT WHAT THE INSTITUTION IS FOR.** That is guardrail nine and **it is also the volume's engine, so a writer who cannot get round it will not notice it and a writer who gets round it will have written a different volume.** What happens instead is that people are asked three questions out loud, one at a time, in front of each other.
+
+## 6. WHAT THE MOVEMENT HAS TO CARRY FORWARD
+
+**Three hundred sheets carrying a door and no list are in this city and no list of any kind, and by the end of this movement two hundred and fifty of them are in a bag.** A rumour of the address is reaching people by mouth faster than the sheet reaches anybody, and about four people have been told something wrong by a woman at a counter whose four words were true when she said them. **A question was asked on Chapter 1000 at about half past eight of the woman of about fifty-four and that page does not carry what she said about it, and this movement asks it again on its ninth day and gets an answer that is not a purpose.** A copy of that sheet with an empty fifth column is on a table in a shop and is on its sixty-seventh night at Chapter 1001. A man of about thirty-three is one of three people holding a thing and will not say which of them has it wrong. The register stands at four. The ninth chair did not move. The room under the building in a first district is dark. **Iona Sorn is at zero on all one thousand chapters of this manuscript except nine, and she is in public custody and is unanswered and is not absolved, and no chapter of this volume may soften that by one word.**
+
+## 7. THE MEASURE, AND THE HOUSE RULES FOR THIS FILE
+
+**The measure of record for these ten files is `workspace/volume-20/batch-0001/SUMMARY.md` and it must publish, at a boundary you print before you fill any cell: the body and apparatus word counts per file and the total, with body plus apparatus equal to whole on all ten rows; `about` per thousand at file scope and pooled, **under all three case conventions, with the denominator beside every cell**; prose and apparatus duplication **with both paragraph rules and both counting conventions printed beside every cell**; guardrail three **as the plan writes it, whole normalised sentence as the key and a twelve-token floor, and not the last-twelve-tokens proxy, because the proxy is blind to a shared run at the start of a longer sentence and it has already let one breach through in this manuscript**; the standing anchors table as a named scope of its own; and the ten day-map rows re-derived rather than read from the calendar.
+
+**Control every instrument against a measure of record that already exists before you point it at a page.** Volume 19's record at `workspace/volume-19/batch-0001/SUMMARY.md` is the nearest. **A month sweep that prints twelve zeroes is a sweep that has not been run** — Volume 19's close found a thirteenth month-name hiding inside the modal verb *may*, and a whole-word sweep returned zero while the prohibited thing stood on a page in a past tense inside a negation. **Sweep the stems, not the whole words.**
+
+**Keep every state file under about sixty kilobytes and compact a file's own archive in the same pass that made it too large, never in a later one.** Append one dated block at the foot of each and rewrite line 1 in the same pass. **The governing block of each file is the last `# LIVE` heading in it and is also the last block in it; keep those two the same block so the two rules cannot diverge.** Do not cite `logs/*.review.log`: `logs/` is gitignored, no review log has ever been committed, and name the finding and the file it applies to instead.
+
+**AND CREATE EXACTLY ONE NEXT PHASE PROMPT, WHICH IS `workspace/volume-20/batch-0002/PROMPT.md`, MOVEMENT II, CHAPTERS 1011 TO 1020, DAYS 2232 TO 2246, WEEKS 335 TO 337, ENTRIES 1014 TO 1023, THE SUNDAY AT CHAPTER 1014, AND THE SEVENTY-THIRD SITTING AT CHAPTER 1016 ON DAY 2240 WHERE THE BOOK OPENS.** Creating that prompt is a named step in this phase and is not optional and is the only prompt it may create. **A batch that exists is audited and not rewritten**, so if the pass finds Chapters 1011 to 1020 already on disk, verify and repair them and say so, and do not write them a second time.
