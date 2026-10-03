@@ -114,19 +114,19 @@ Talia said: **then you have about nine seconds to change your mind and about nin
 
 ---
 
-**One shop and one hall took what was left of that Thursday, about two hours of it, and four jobs went into them.**
+**One shop and one hall took what was left of that Thursday, about two hours of it, and four jobs went into them in that order.**
 
 A bell in that shop had been fitted on a door that opens outwards, so that the bell could not be seen from inside and the door could not be held open.
 
 He took the bell off and re-hung it where a hand could reach it from inside.
 
-"**Nine pounds,**" she said. "**A bell you cannot see is a bell you cannot answer. Two of those are like it are on outward doors in that row, and one of them has been a shop somebody has had to prop for four years.**"
+"**Nine pounds,**" she said. "**A bell you cannot see is a bell you cannot answer. Two of those are like it. They are on outward doors in that row, and one of them has been a shop somebody has had to prop for four years.**"
 
 A light in that hall had been put in on the emergency circuit, so that it came on with the alarm.
 
 He took it off that way and put it on the house circuit and proved it.
 
-"**Ten pounds,**" he said. "**A light on the alarm circuit is a light that tells you about a fault instead of about a room. That fault is four times over in that row fittings in that block are on it, and one of them has been a landing somebody has walked up in the dark for four years.**"
+"**Ten pounds,**" he said. "**A light on the alarm circuit is a light that tells you about a fault instead of about a room. That fault is four times over in that row. Fittings in that block are on it, and one of them has been a landing somebody has walked up in the dark for four years.**"
 
 A socket in that shop had been put in on the underside of a counter with the earth taken off the metalwork of the counter.
 

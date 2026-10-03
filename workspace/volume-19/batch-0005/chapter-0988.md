@@ -110,13 +110,13 @@ A plug in that shop had been rewired so that the pin went in the top on one side
 
 He took it out and rewired it the way the rest of the room was wired.
 
-"**Eight pounds,**" she said. "**A plug that goes in two ways is a plug somebody is going to put in the wrong way. Four rows in that street are like it in that building are, and one of them has been a counter somebody has been unplugging for four years.**"
+"**Eight pounds,**" she said. "**A plug that goes in two ways is a plug somebody is going to put in the wrong way. Four rows in that street are like it. Plugs in that building go in two ways, and one of them has been a counter somebody has been unplugging for four years.**"
 
 A cooker in that kitchen had a trailing lead that had been taped along the skirting and had gone under the fridge.
 
 He took the lead out, shortened it and brought it up at the worktop.
 
-"**Nine pounds,**" he said. "**A lead under a fridge is a lead that gets crushed every time the fridge moves. Half of those are like it in that street are, and one of them has been a kitchen somebody has moved about for four years.**"
+"**Nine pounds,**" he said. "**A lead under a fridge is a lead that gets crushed every time the fridge moves. Half of those are like it. Leads in that street are under something, and one of them has been a kitchen somebody has moved about for four years.**"
 
 A lamp in that shop had been put in on a rose screwed to a ceiling that had a pipe running under the plaster across it.
 
@@ -128,7 +128,7 @@ A switch in that kitchen had been put in next to the boiler so that the boiler's
 
 He moved the switch onto a proper way and proved the boiler came off its own isolator.
 
-"**Six pounds,**" he said. "**A boiler on a light switch is a boiler nobody can isolate. Four of those in that block are, and one of them has been a kitchen somebody has been nervous of and nobody has ever asked about it.**"
+"**Six pounds,**" he said. "**A boiler on a light switch is a boiler nobody can isolate. Four of those boilers in that block are on a light switch, and one of them has been a kitchen somebody has been nervous of and nobody has ever asked about it.**"
 
 **Those four came to thirty pounds on that Tuesday, exact.**
 

@@ -104,31 +104,31 @@ Marek said: **you have come in to have said it out loud in a room with somebody 
 
 ---
 
-**One shop, one yard and one kitchen took what was left of that Thursday, about two hours of it, and four jobs went into them.**
+**One shop, one yard and one kitchen took what was left of that Thursday, about two hours of it, and four jobs went into them, and there was not a fifth.**
 
 An outside light in that shop had been put in on the alarm circuit so that it came on with the alarm and stayed on.
 
 He took it off that way and put it on its own and proved it.
 
-"**Eleven pounds,**" she said. "**A light that comes on with the alarm is a light that is on for the alarm and not for the yard. Two of those are like it fittings in that row are on it, and one of them has been a yard somebody has walked in the dark for four years.**"
+"**Eleven pounds,**" she said. "**A light that comes on with the alarm is a light that is on for the alarm and not for the yard. Two of those are like it. Fittings in that row are on it, and one of them has been a yard somebody has walked in the dark for four years.**"
 
 A socket in that yard had been put in on a lead that came off a joint buried under the paving, so that the joint was live whenever the socket was.
 
 He dug the joint out, made it good and re-made the paving over it.
 
-"**Ten pounds,**" he said. "**A joint under paving is a joint nobody finds until the paving comes up. That fault is four times over in that row in that yard are, and one of them has been a path somebody has dug at for four years.**"
+"**Ten pounds,**" he said. "**A joint under paving is a joint nobody finds until the paving comes up. That fault is four times over in that row. Joints in that yard are under paving, and one of them has been a path somebody has dug at for four years.**"
 
 A switch in that kitchen had been put in with a fuse bigger than the circuit and a spare way left blank in front of it.
 
 He fitted a fuse of the size that circuit wanted, blanked the spare way and proved the board.
 
-"**Nine pounds,**" she said. "**A blank way left open is an invitation with a cover on. Four of those boards in that block are, and one of them has been a kitchen somebody has been afraid of for four years.**"
+"**Nine pounds,**" she said. "**A blank way left open is an invitation with a cover on. Four of those boards in that block are left blank, and one of them has been a kitchen somebody has been afraid of for four years.**"
 
 A lamp in that shop had been left with a holder that had been painted round so that it could not be unscrewed.
 
 He cut the paint back, freed the holder and proved the lamp lit.
 
-"**Nine pounds,**" he said. "**A holder painted in is a bulb that cannot be changed in a room somebody has to light. Four of those in that row are, and one of them has been a room somebody has had to carry a lamp out of since the shop changed hands.**"
+"**Nine pounds,**" he said. "**A holder painted in is a bulb that cannot be changed in a room somebody has to light. Four of those holders in that row are painted in, and one of them has been a room somebody has had to carry a lamp out of since the shop changed hands.**"
 
 **Those four came to thirty-nine pounds on that Thursday, exact.**
 
@@ -140,7 +140,7 @@ He cut the paint back, freed the holder and proved the lamp lit.
 
 *993.
 Thursday of week 328, at ten. That is the two hundred and thirty-fifth day of this stretch of days. Six callers came into that shop on that Thursday and six names went onto that day's book, the last of them let away about half past eight.
-**No figure was spoken aloud in that city on that Thursday, and about four people have said since that there was one. A woman was told what a Wednesday had cost, and a woman was told no by somebody who had been standing in the room.** Thirty-nine pounds, exact.*
+**No figure was spoken aloud in that city on that Thursday, and about four people in that shop have said so since. A woman was told what a Wednesday had cost, and a woman was told no by somebody who had been standing in the room.** Thirty-nine pounds, exact.*
 
 *Conditions and docket.* **Callers on that Thursday: six. Written onto that Thursday's book: six, the last of those six let away about half past eight.
 Four units standing off that service road, one of them carrying heat: one thousand eight hundred and twenty-three days, two hundred and sixty weeks and three days

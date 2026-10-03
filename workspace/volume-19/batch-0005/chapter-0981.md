@@ -72,11 +72,11 @@ Marek said: no.
 
 The man of about thirty-three said: you have not asked.
 
-Marek said: **she told me on the Monday that I was not to ask her what she had decided, on any Monday, and she has now said it twice, and I am not going to spend that to be the man who finally made her say it.**
+Marek said: **she has said it twice and I am not going to spend that.**
 
 The man of about thirty-three said: **I do not care which day of the week it is. I am asking you to be the one who asks.**
 
-Marek said: **if I ask her then the asking is mine, and the finding is mine from that minute, and she has kept her name off this for a year.**
+Marek said: **if I ask her then the asking is mine and so is the finding.**
 
 **And about nine seconds passed at that counter, and about four people who were in that shop have it that neither of them said anything for the length of it and that four callers came through the door in that time and were served without either of them noticing.**
 
@@ -106,13 +106,13 @@ A socket in that yard had been put in on a length of flex that came round a corn
 
 He took the flex off the nail, cut it back to the socket and made a proper gland at it.
 
-"**Eight pounds,**" she said. "**Nothing in this row has held a wire but a nail. Every one of those is the same are like it, and one of them is a corner somebody has swept round a hundred times and never looked at.**"
+"**Eight pounds,**" she said. "**Nothing in this row has held a wire but a nail. Every one of those is the same. They are like it, and one of them is a corner somebody has swept round a hundred times and never looked at.**"
 
 A lamp in that shop had a holder screwed to a ceiling rose that was not the same size as the rose.
 
 He fitted a short length of pipe back to the ceiling and hung the holder off that.
 
-"**Seven pounds,**" he said. "**A holder bolted to the wrong rose comes down with the first good pull. Three of those in that block are like it ceilings have one, and the one I would not leave is a shop that has had a shade in the air for four years.**"
+"**Seven pounds,**" he said. "**A holder bolted to the wrong rose comes down with the first good pull. Three of those in that block are like it. Ceilings have one, and the one I would not leave is a shop that has had a shade in the air for four years.**"
 
 A switch in one of those rooms had been fitted over the lintel of a door so that the door could not open past about four inches.
 
@@ -124,7 +124,7 @@ A bell in that second room, about nine feet back from the door, had been wired t
 
 He put an isolator in ahead of it and proved the bell dead with the transformer off.
 
-"**Six pounds,**" he said. "**A bell wired straight to a line is a bell that hums when you are not pressing it. Four of those in that row are, and one of them has been a kitchen somebody has blamed on the wiring before either of them moved in.**"
+"**Six pounds,**" he said. "**A bell wired straight to a line is a bell that hums when you are not pressing it. Four of those bells in that row are on the line itself, and one of them has been a kitchen somebody has blamed on the wiring before either of them moved in.**"
 
 **Twenty-seven pounds is all that Saturday's four came to, exact.**
 

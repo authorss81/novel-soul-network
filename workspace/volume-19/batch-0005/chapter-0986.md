@@ -54,7 +54,7 @@ Marek said: **it stays on the table.**
 
 The man of about thirty-three said: **you have just said it stays on the table.**
 
-Marek said: **it stays where she said it stays, and she said it stays where it lies, and if I put it in a drawer then in about four months somebody will ask me who moved it and I will have to say a man asked me to and that is a worse sentence than the one I have now.**
+Marek said: **Somebody will ask me who moved it and I will have to name him.**
 
 ---
 
@@ -104,19 +104,19 @@ Marek said: **and I am not going to be thanked for either of them.**
 
 ---
 
-**One yard, one kitchen and two shops took what was left of that Saturday, about two hours of it, and four jobs went into them.**
+**One yard, one kitchen and two shops took what was left of that Saturday, about two hours of it, and four jobs went into them, one after another.**
 
 A floodlight in that yard had been mounted on a bracket that was bolted to nothing but a wooden lintel.
 
 He cut two fixings into the brick above the lintel and made the bracket solid.
 
-"**Eleven pounds,**" she said. "**A floodlight hung off a lintel is a floodlight waiting for weather. Every one of those is the same brackets in that row are on timber, and one of them has been a yard somebody has been watching in bad weather for four years.**"
+"**Eleven pounds,**" she said. "**A floodlight hung off a lintel is a floodlight waiting for weather. Every one of those is the same. Brackets in that row are on timber, and one of them has been a yard somebody has been watching in bad weather for four years.**"
 
 A cooker in that first shop had been put in with a flex that came out of the wall and immediately through the back of the cupboard above it.
 
 He rerouted the flex through the side of the cupboard and sleeved it.
 
-"**Twelve pounds,**" he said. "**A flex that goes straight into the back of a cupboard is a flex that gets nicked every time anything is taken out. Three of those in that block are like it in that row are like it, and one of them has been a kitchen somebody has taken things out of carefully for four years.**"
+"**Twelve pounds,**" he said. "**A flex that goes straight into the back of a cupboard is a flex that gets nicked every time anything is taken out. Three of those in that block are the same. Flexes in that row are like it, and one of them has been a kitchen somebody has taken things out of carefully for four years.**"
 
 A socket in that kitchen had been put in on an old bakelite plate with the earth taken off the conduit it sat on.
 
@@ -128,7 +128,7 @@ A light in that second shop had been put in on a pendant that hung over the midd
 
 He cut the flex out, shortened the drop and rewired it without a twist.
 
-"**Eight pounds,**" he said. "**A flex twisted into itself is a flex that has been cut shorter than it says. Four of those pendants in that row are, and one of them has been a doorway somebody has walked under ducking before either of them moved in.**"
+"**Eight pounds,**" he said. "**A flex twisted into itself is a flex that has been cut shorter than it says. Four of those flexes in that row are twisted into themselves, and one of them has been a doorway somebody has walked under ducking before either of them moved in.**"
 
 **Those four came to forty pounds on that Saturday, exact.**
 

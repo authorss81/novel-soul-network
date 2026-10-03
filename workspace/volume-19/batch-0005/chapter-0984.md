@@ -28,7 +28,7 @@ Sera Quill said: **a Monday went by and there was nobody in here but you and abo
 
 Marek said: I did not ask you on it and nobody in this building did either.
 
-Sera Quill said: **no. You kept that, and you kept it in a shop where it would have been easy and about four hundred times cheaper for you not to.**
+Sera Quill said: **no. You kept that, and you kept it in a shop where it would have been easy, and cheaper for you not to.**
 
 ---
 
@@ -54,7 +54,7 @@ Sera Quill said: **I will be asked how I knew, and I will not answer that, and i
 
 Marek said: you do not know what you will be asked.
 
-Sera Quill said: **I have had about four months to work out what I will be asked and it is one question and it is how I knew.**
+Sera Quill said: **I have had about five weeks to work out what I will be asked and it is one question and it is how I knew.**
 
 Marek said: and if somebody asks it in front of the nine.
 
@@ -86,7 +86,7 @@ Marek said: one thing before I move.
 
 Sera Quill said: **you have been standing like that for about nine seconds. Say it or do not.**
 
-Marek said: **the woman of about forty-five has already refused once this week to be a second voice, and if you stand in that room the only true answer to how you knew puts her in it with you, and you have not asked her, and she said no on a Saturday about three days ago.**
+Marek said: **the woman of about forty-five has already refused once to be a second voice, and if you stand in that room the only true answer to how you knew puts her in it with you, and you have not asked her, and she said no on a Saturday about three days ago.**
 
 Sera Quill said: **no. And she can stand up in front of about nine people on the day and refuse again, and I will stand there anyway and I will not say a word about her.**
 
@@ -106,13 +106,13 @@ A cooker in that first room, about nine feet from the door, had its earth taken 
 
 He took the earth off the pipe and put it on the appliance and proved it dead with the isolator off.
 
-"**Twelve pounds,**" she said. "**A gas pipe is not an earth, whatever anybody in that trade says to you. That is four times over in that row cookers in that street are like it, and one of them has been a kitchen somebody has wiped round for four years.**"
+"**Twelve pounds,**" she said. "**A gas pipe is not an earth, whatever anybody in that trade says to you. That is four times over in that row. Cookers in that street are like it, and one of them has been a kitchen somebody has wiped round for four years.**"
 
 A light in that second room, about nine feet above the floor, had been put in on a rose with two holes in the back of it and a third hole made by the man who fitted it.
 
 He turned the rose out, made the third hole the same as the other two and proved the fitting.
 
-"**Six pounds,**" he said. "**A rose with a hole in it that is not a fixing is somebody's idea of a fixing. The whole of that row is like it roses in that row have one, and one of them has been a ceiling somebody has looked up at for four years.**"
+"**Six pounds,**" he said. "**A rose with a hole in it that is not a fixing is somebody's idea of a fixing. The whole of that row is like it. Roses in that row have one, and one of them has been a ceiling somebody has looked up at for four years.**"
 
 A socket in that yard had been put in on an old round box that had no back on it and had been painted shut.
 

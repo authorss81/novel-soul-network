@@ -106,7 +106,7 @@ The woman of about fifty-four said: **that is it. That is what comes down off th
 
 Marek said: **and the book.**
 
-The woman of about fifty-four said: **shut, and I will not say what it is beside, and there is a woman at that counter the next day who has been waiting about four years to be asked a question and this was not it.**
+The woman of about fifty-four said: **shut, and I will not say what it is beside, and there is a woman at that counter the next day who has been waiting about four months to be asked a question and this was not it.**
 
 ---
 
@@ -116,25 +116,25 @@ A socket in that yard had been put in on a plate with the earth taken off the co
 
 He earthed it off the box, fitted a plate with an earth on it and proved it dead.
 
-"**Ten pounds,**" she said. "**A plate that is its own earth is a plate that goes live the day the conduit is disturbed. That is four times over in that row in that row are, and one of them has been a wall somebody has been working on for four years.**"
+"**Ten pounds,**" she said. "**A plate that is its own earth is a plate that goes live the day the conduit is disturbed. That is four times over in that row. Plates in that row are their own earth, and one of them has been a wall somebody has been working on for four years.**"
 
 A lamp in that shop had been put in on a rose that had been painted round with the ceiling, so that it could not be told from the ceiling.
 
 He cut the paint back, made the edge clean and proved the fitting.
 
-"**Eight pounds,**" he said. "**A rose painted into a ceiling is a lamp that is only findable by feel. The whole of that row is like it in that shop are, and one of them has been a ceiling somebody has had to feel for in four years.**"
+"**Eight pounds,**" he said. "**A rose painted into a ceiling is a lamp that is only findable by feel. The whole of that row is like it. Roses in that shop are painted into the ceiling, and one of them has been a ceiling somebody has had to feel for in four years.**"
 
 A cooker in that second room had been put in with its flex through the plaster with no sleeve at all.
 
 He cut back, sleeved the flex properly and proved it.
 
-"**Nine pounds,**" she said. "**A flex through plaster with nothing in the hole is a flex somebody will cut one day with a screwdriver. Four of those in that street are, and one of them has been a kitchen somebody has been careful in since the year the roof was done.**"
+"**Nine pounds,**" she said. "**A flex through plaster with nothing in the hole is a flex somebody will cut one day with a screwdriver. Four of those flexes in that street are through plaster with nothing in the hole, and one of them has been a kitchen somebody has been careful in since the year the roof was done.**"
 
 A switch in that yard had been put in over a cold pipe with the plaster cut away around it.
 
 He made the pipe safe, filled the hole properly and refitted the plate square.
 
-"**Seven pounds,**" he said. "**A switch over a pipe is a switch somebody will cut into one day. Four of those plates in that block are, and one of them has been an outside wall somebody has been working at for the whole of the time he has been in trade.**"
+"**Seven pounds,**" he said. "**A switch over a pipe is a switch somebody will cut into one day. Four of those switches in that block are over a pipe, and one of them has been an outside wall somebody has been working at for the whole of the time he has been in trade.**"
 
 **Those four came to thirty-four pounds on that Wednesday, exact.**
 

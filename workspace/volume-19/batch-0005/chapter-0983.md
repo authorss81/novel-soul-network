@@ -94,19 +94,19 @@ Marek said: **it is worth less to her by about the whole of what I did it for, a
 
 ---
 
-**One shop, one yard and two rooms took the rest of that Monday, and four jobs went into them.**
+**One shop, one yard and two rooms took the rest of that Monday, and four jobs went into them in a queue behind one man.**
 
 A socket in that yard had been put in above a water butt on a piece of slate bedded in cement, so that the plate was bedded in cement as well.
 
 He cut the slate out, bedded a box properly and proved the plate with a lamp.
 
-"**Nine pounds,**" she said. "**Anything bedded in cement is a thing you break to get at. Four rows in that street are like it plates in that row are bedded in something, and one of them has been an outside wall somebody has been afraid of leaning on for four years.**"
+"**Nine pounds,**" she said. "**Anything bedded in cement is a thing you break to get at. Four rows in that street are like it. Plates in that row are bedded in something, and one of them has been an outside wall somebody has been afraid of leaning on for four years.**"
 
 A switch in that shop had its box mounted on the plaster with a screw through the plaster only, so that the whole of it came away from the wall with the plate off.
 
 He cut two fixings into the brick and made the box solid in the wall.
 
-"**Eight pounds,**" he said. "**A box screwed to plaster is a box waiting to be a hole. Half of those are like it switches in that row are fixed to nothing but plaster, and one of them has been a counter somebody has hit with a tray for four years.**"
+"**Eight pounds,**" he said. "**A box screwed to plaster is a box waiting to be a hole. Half of those are like it. Switches in that row are fixed to nothing but plaster, and one of them has been a counter somebody has hit with a tray for four years.**"
 
 A light in one of those rooms had been wired into a lamp holder with the supply and the return both in the brass, so that there was nothing to earth.
 

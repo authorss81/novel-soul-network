@@ -24,7 +24,7 @@ The woman of about forty-three said: **two days before a Wednesday that nobody h
 
 Marek said: nobody has stood in front of it as far as you know and as far as I know.
 
-The woman of about forty-three said: **somebody said yes in about nine words in a shop on the Tuesday, I have not been told and I have not asked, and I have opened a drawer two days early because I am sixty-one and a drawer is a thing you can do at sixty-one.**
+The woman of about forty-three said: **somebody said yes in about nine words in a shop on the Tuesday, I have not been told and I have not asked, and I have opened a drawer on the thirtieth day because I am sixty-one and a drawer is a thing you can do at sixty-one.**
 
 Marek said: you are saying somebody is going to and about four of us have been waiting for it.
 
@@ -66,7 +66,7 @@ The woman of about forty-three said: **no.**
 
 Marek said: you have read it twice.
 
-The woman of about forty-three said: **twice. Once in a drawer and once on a counter with six people standing behind me, and about four of them heard the word *rows* and about nine of them will remember it.**
+The woman of about forty-three said: **twice. Once in a drawer and once on a counter with six people standing behind me, and about four of them heard the word rows and about nine of them will remember it.**
 
 Marek said: that was not careful and I did not ask you to be careful.
 
@@ -108,13 +108,13 @@ A meter in that first shop, about nine feet in from the door, had a tail that ha
 
 He cut it back, terminated it properly and sealed the enclosure where it had been opened.
 
-"**Seven pounds,**" she said. "**A meter with a joint outside its own box is a meter anybody can reach. All four of those are the same job tails in that row are like it, and one of them has been a cupboard somebody has been careful about for four years.**"
+"**Seven pounds,**" she said. "**A meter with a joint outside its own box is a meter anybody can reach. All four of those are the same job. Tails in that row are like it, and one of them has been a cupboard somebody has been careful about for four years.**"
 
 A light in that passage had been put in on a junction box mounted upside down, so that the lid was on the floor side.
 
 He turned it upright, moved the cables out of the way and proved it.
 
-"**Six pounds,**" he said. "**A junction box upside down is a lid that cannot be fixed. Not one of those is unusual boxes in that block are, and one of them has been a passage somebody has put a ladder up in the dark for four years.**"
+"**Six pounds,**" he said. "**A junction box upside down is a lid that cannot be fixed. Not one of those is unusual. Boxes in that block are upside down, and one of them has been a passage somebody has put a ladder up in the dark for four years.**"
 
 A socket in that second shop had been put in on a plate held by two screws, one of which went into a plasterboard joint and turned in the hand.
 
@@ -126,7 +126,7 @@ A bell in that passage had been left disconnected at the far end when somebody r
 
 He found the break, joined it back and proved the bell from the button.
 
-"**Six pounds,**" he said. "**A bell that was disconnected by accident is a bell that everybody reports as broken. Four of those bells in that row are, and one of them has been a landing somebody has stopped answering for four winters and one summer.**"
+"**Six pounds,**" he said. "**A bell that was disconnected by accident is a bell that everybody reports as broken. Four of those bells in that row are cut off at the back, and one of them has been a landing somebody has stopped answering for four winters and one summer.**"
 
 **Those four came to twenty-five pounds on that Monday, exact.**
 

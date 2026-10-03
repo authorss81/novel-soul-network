@@ -96,13 +96,13 @@ A lamp in that kitchen had been put in with the flex running through a joint tha
 
 He opened the joint back up, found the flex buried in filler and drew it out and put it in a moulded box.
 
-"**Eleven pounds,**" she said. "**Filler over a joint hides the one thing you would want to see. All four of those are the same job joints in that street have been made good twice, and one of them has been a kitchen somebody has opened up twice for other reasons.**"
+"**Eleven pounds,**" she said. "**Filler over a joint hides the one thing you would want to see. All four of those are the same job. Joints in that street have been made good twice, and one of them has been a kitchen somebody has opened up twice for other reasons.**"
 
 A socket in that passage, about nine feet in from the door, had been put in on a plate that was a different size from the box behind it.
 
 He took the plate off, packed the gap and fitted one that sat square.
 
-"**Eight pounds,**" he said. "**A plate that does not cover its own box is an open edge you can put a screwdriver in. Not one of those is unusual plates in that row are undersized, and one of them has been a passage somebody has walked along in the dark for four years.**"
+"**Eight pounds,**" he said. "**A plate that does not cover its own box is an open edge you can put a screwdriver in. Not one of those is unusual. Plates in that row are undersized, and one of them has been a passage somebody has walked along in the dark for four years.**"
 
 An outside light on that shop had been wired on the far side of a meter cupboard, so that the switch did nothing to it.
 
