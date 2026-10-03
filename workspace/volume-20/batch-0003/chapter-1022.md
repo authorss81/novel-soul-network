@@ -92,7 +92,7 @@ A light in that yard had been put in on a lead going through the middle of a joi
 
 He took the lead off the joint, made it up properly and proved the light from the gate.
 
-"**Nine pounds,**" he said. "**A lead through the middle of a joint is a joint that opens the day somebody pulls the cable. Lights in that yard are like that, and one of them has been a fence a man has had to keep a ladder out of for about four years.**"
+"**Nine pounds,**" he said. "**A lead through the middle of a joint is a joint that opens the day somebody pulls the cable. Lights in that yard are like that, and one of them has been a fence a man has had to get a ladder over for about four years.**"
 
 A cooker in that kitchen had its earth taken from the incoming water pipe.
 

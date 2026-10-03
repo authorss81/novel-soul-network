@@ -84,7 +84,7 @@ The woman of about fifty-four said: **then he has at least been quick about it. 
 
 A socket in that shop had been put in under a window with the earth taken off the frames.
 
-He brought the earth up to the box and proved the socket with a kettle.
+He brought the earth up to that box and proved the socket with a kettle.
 
 "**Nine pounds,**" he said. "**An earth off window frames is an earth that stops being an earth the day a frame swells. Sockets in that shop are like it, and one of them has been a window a person has had to shut in the wind.**"
 
@@ -142,7 +142,7 @@ Charge: thirty-six pounds, exact.**
 
 *Conditions of the close.* **At ten on that Wednesday the book in the green binding was shut and the tin beside it was down, and this page carries no figure for either of them and no difference between them.
 The ninth chair went through that Wednesday with its back turned and did not turn by a leg, and no line in this volume names whoever last turned it.
-The room under a building in a first district was dark at ten on that Wednesday and is dark now, and it is not opened again.
+Below a building in a first district a room was dark at ten on that Wednesday, and it is dark still, and nobody opens it again.
 Four stood on that register of correct acts that changed nothing at both ends of that Wednesday, and no person in this city enters it, and a man saying out loud that he was afraid is not on it.**
 
 *What the day did not settle, and the rest of it.* **This page sets down ten objects, and no sentence below carries two of them at once. Two nicks cut into that rail. A card about the size of a hand on which three questions stand under nothing at all, creased once across the middle. A board up on two nails. Nine corners torn off nine fronts. The tin with its lid down. The shutter. The book in the green binding. The binder at the back of that shelf. A slip with a date on it. A pencil lying in a margin.
