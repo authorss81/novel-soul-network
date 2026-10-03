@@ -130,7 +130,7 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand five hundred and forty-five days, two hundred and twenty weeks and five days
 One written line written inside that box off that road: one thousand three hundred and seventy-seven days, one hundred and ninety-six weeks and five days
 That shop, that yard, that kitchen and that second unit in: a block connector buried under a rose taken out and a proper joint made, a socket brought down to a height a person can see, four inches of grout taken out of a tiled wall, a pull cord untied from a pipe and a switch cut in.
-Not asked and not given: the woman of about thirty-nine was not asked anything on that Wednesday and was not spoken of in that shed, the man of about forty-four was not given a reason for not asking her, and no description of that room was given to anybody in that room.
+Not asked and not given: no fault on that fourth door was asked after by anybody in that shed, no name was given of the person who had been given the day, and no sheet went out of that shop with any of it on it.
 Work: thirteen callers, about nine people in a shed with nobody at the front of it, two decisions taken out loud and one of them taken back by the man who made it first, two people who left that room still talking, and four fittings made good in four rooms.
 Charge: eighty-two pounds, exact.**
 
@@ -146,4 +146,4 @@ Nobody thanked anybody on that Wednesday and nobody forgave anybody. A woman of 
 
 ---
 
-*END OF MOVEMENT II, CHAPTER 1080. WEDNESDAY OF WEEK 353. LOAD-BOOK ENTRY 1083. END OF MOVEMENT II, VOLUME 21, WITH CHAPTERS 1081 TO 1090 DISPATCHED.*
+*END OF MOVEMENT II, CHAPTER 1080. WEDNESDAY OF WEEK 353. LOAD-BOOK ENTRY 1083.*

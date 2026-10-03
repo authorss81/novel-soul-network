@@ -1,6 +1,6 @@
 # Chapter 1076 — It Was Not Hers To Give Again
 
-**A Thursday was a bench until about two and a counter until six and then four converted units off that service road, and the middle of that Thursday was spent in a launderette in a second district on a plastic chair with one machine at the end of it stopped and all the rest of them going.**
+**A Thursday was a bench until about two and a counter until six and then four converted units off that service road, and the middle of that Thursday was spent in a launderette in a second district on a plastic chair with two machines going at the far end of that row and one at the other end of it stopped.**
 
 ---
 
@@ -156,7 +156,7 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand five hundred and thirty-nine days, two hundred and nineteen weeks and six days
 One written line written inside that box off that road: one thousand three hundred and seventy-one days, one hundred and ninety-five weeks and six days
 That shop, that yard, that kitchen and that second unit in: paint taken back off a plate to its edge, expanding foam cut out of a chase and the chase filled, an oven terminal made the size it should be, an earth put back on its own metal and off its plate.
-Not asked and not given: that third question was not put a third time, the rest of what that woman knows was not asked for and not given, the machine at the end of that launderette was not made good and was not going to be, and no address was carried out of that building.
+Not asked and not given: no fault on the machine at the end of that launderette was asked after by anybody in that room, no basket was given to the woman who came in carrying her own, and no address of that building was carried out of it.
 Work: eleven callers, one question put twice and refused twice, one refusal given out loud on behalf of somebody who cannot be thanked for one, one man told he would stop asking before he stopped, and four fittings made good in four rooms.
 Charge: sixty-nine pounds, exact.**
 

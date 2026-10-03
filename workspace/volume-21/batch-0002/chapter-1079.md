@@ -1,6 +1,6 @@
 # Chapter 1079 — Nobody Knows Where It Started
 
-**A Tuesday was a bench until about two and a counter until six and then four converted units off that service road, and that Tuesday was spent asking four people the same short question in four rooms and getting four different answers that all said the same thing.**
+**A Tuesday was a bench until about two and a counter until six and then four converted units off that service road, and that Tuesday was spent asking four people the same short question at one counter and getting four different answers that all said the same thing.**
 
 ---
 
@@ -142,12 +142,12 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand five hundred and forty-four days, two hundred and twenty weeks and four days
 One written line written inside that box off that road: one thousand three hundred and seventy-six days, one hundred and ninety-six weeks and four days
 That shop, that yard, that kitchen and that second unit in: two neutrals separated on a rose, an earth taken off a screw in a batten and put on a box, a terminal block moved off the back of a cooker, a brace hole enlarged and sleeved.
-Not asked and not given: the woman of about thirty-nine was not asked a fifth time by anybody in this city on that Tuesday, no description of that room was given to the woman of about fifty-five or to anybody else, and no correction was offered to her by anybody in that shop.
+Not asked and not given: no fault on that counter was asked after by the woman of about fifty-five, no name was given of the person who first said it, and no sheet went out of that shop with any of it on it.
 Work: nine callers, four people asked one question each and four people unable to name where they had it, one woman told out loud that there is no answer and that none will be invented, and four fittings made good in four rooms.
 Charge: seventy-five pounds, exact.**
 
 *Conditions of the close.* **The green-bound book and the tin beside it were shut at ten on that Tuesday and no page of this file gives a figure for either one of them or any difference between them.
-Through every hour of that Tuesday that ninth chair went on facing the same wall and not one leg of it went round. **Nobody laid a hand on it, nobody in that room looked at it, and whoever last turned it is not named in this file.**
+Through every hour of that Tuesday that ninth chair went on facing the same wall and not one leg of it went round. Nobody laid a hand on it, nobody in that room looked at it, and whoever last turned it is not named in this file.
 The room under a building in a first district was dark at ten on that Tuesday and is dark now, and no chapter of this volume opens it.
 That register of correct acts that changed nothing said four at both ends of that Tuesday, nobody in this city is entered on it, and a man telling a stranger at a counter that he has nothing is not an entry on it.**
 

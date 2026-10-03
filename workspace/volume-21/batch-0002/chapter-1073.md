@@ -88,7 +88,7 @@ The woman of about forty-four said: **No. And I did not ask her a second time, w
 
 ---
 
-**Nobody thanked anybody in that shop on that Thursday and nobody forgave anybody, and about four people heard a third person describe a refusal that had happened on a bench outside a clinic in about nine words, and did not hear what came after it.**
+**Nobody thanked anybody in that shop on that Thursday and nobody forgave anybody, and about four people heard a third person describe a refusal that had happened on a bench outside a clinic in one short sentence, and did not hear what came after it.**
 
 ---
 
@@ -128,7 +128,7 @@ He took it back up and into the box and proved the light with the door shut and 
 
 *1076.
 Thursday of week 351, at ten. That is the three hundred and eighteenth day of this stretch of days. Ten callers came into that shop on that Thursday and ten names were written against that day's line, the last of them let away by about half past eight.
-**A woman of about forty-four said at a counter that she had been asked on a bench outside a clinic in a fourth district at about eleven for one sentence in her own words and had been refused in eight words, and that after the refusal about four people on that bench heard something further that was not about the room, and that she would not repeat it in that shop. The day's four jobs came to seventy-four pounds, exact.**
+**A woman of about forty-four said at a counter that she had been asked on a bench outside a clinic in a fourth district at about eleven for one sentence in her own words and had been refused, and had been told that it was not to be had in anybody else's words, and that after the refusal about four people on that bench heard something further that was not about the room, and that she would not repeat it in that shop. The day's four jobs came to seventy-four pounds, exact.**
 
 *Conditions and docket.* **Callers on that Thursday: ten. Entered onto that day's line: ten, one of them before that shop opened and the last of them gone by half past seven.
 Four units standing off that service road, one of them carrying heat: one thousand nine hundred and eighty-four days, two hundred and eighty-three weeks and three days
@@ -148,7 +148,7 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand five hundred and thirty-two days, two hundred and eighteen weeks and six days
 One written line written inside that box off that road: one thousand three hundred and sixty-four days, one hundred and ninety-four weeks and six days
 That shop, that yard, that kitchen and that second unit in: three cables put back on three terminals, a hard gasket replaced on an outdoor plate, cement taken out of a junction box, a cable taken off the floor and into a switch.
-Not asked and not given: the rest of what was said on that bench was not repeated in that shop, no fault was described to the woman of about forty-four, and nothing about that clinic went on a sheet.
+Not asked and not given: no fault on that bench was asked after by anybody in that shop, no price was given for the half hour a woman of about forty-four sat on it, and nothing about that clinic went on a sheet.
 Work: ten callers, one refusal described by the person who heard it and the rest of it withheld, one man told that about four people hold a piece of a thing and none of them holds all of it, and four fittings made good in four rooms.
 Charge: seventy-four pounds, exact.**
 

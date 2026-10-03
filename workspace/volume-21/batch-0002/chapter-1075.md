@@ -40,7 +40,7 @@ The man of about fifty-eight said: **Is it.**
 
 Marek said: **A counter, a corridor, a bench outside a clinic, and now a stair, and you are the fourth and I have met none of the other three.**
 
-**And that was nine words, and about four people in that shop have said since that they have now heard her refuse three people in three weeks and that nobody in that shop has heard her say the sentence at any hour of any of them.**
+**And about four people in that shop have said since that they have now heard her refuse three people in three weeks and that nobody in that shop has heard her say the sentence at any hour of any of them.**
 
 The man of about fifty-eight said: **She said, you are asking me now and I am going up. That is what she said and I have been carrying it down about nine steps.**
 

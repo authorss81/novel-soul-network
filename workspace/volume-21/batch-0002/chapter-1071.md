@@ -1,6 +1,6 @@
 # Chapter 1071 — Somebody Asked Her In A Shop
 
-**A Monday was a bench until about two and a counter until six and then four converted units off that service road, and that Monday was wet from first light with the front of that shop turned round at about eleven because the rain was coming in under that door, which meant everybody who came through that day came through fast.**
+**A Monday was a bench until about two and a counter until six and then four converted units off that service road, and that Monday was wet from first light with the front of that shop propped open at about eleven because the rain was coming in under that door, which meant everybody who came through that day came through fast.**
 
 ---
 

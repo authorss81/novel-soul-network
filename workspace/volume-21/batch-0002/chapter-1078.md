@@ -6,7 +6,7 @@
 
 Eight callers came into that shop on that Monday and eight names were written against that Monday's line as each of them came in, the last of them let away at about half past eight, and the shutter came down at ten.
 
-**Those four converted units off that service road stood at one thousand nine hundred and eighty-eight days, two hundred and eighty-four weeks to the day. There is a hundred and sixty-eight days of paper in that carrier bag under that long bench, a hundred and fifty-four days of the printing that has never been on a wall is in the same decade, and a hundred and forty-five days is how long a woman at a desk in a first district has been carrying a sentence she did not write.**
+**Those four converted units off that service road stood at one thousand nine hundred and eighty-eight days, two hundred and eighty-four weeks to the day. There is a hundred and sixty-eight days of paper in that carrier bag under that long bench, a hundred and fifty-four days of the printing that has never been on a wall is in the same stretch of days, and a hundred and forty-five days is how long a woman at a desk in a first district has been carrying a sentence she did not write.**
 
 ---
 
