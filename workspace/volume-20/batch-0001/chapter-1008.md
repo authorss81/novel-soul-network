@@ -1,4 +1,4 @@
-# Chapter 1008 — A Ladder And Two Drawing Pins
+# Chapter 1008 — The Wage Envelope Was Thinner
 
 **A Tuesday was a bench until two and a counter until six and then a passage off a clinic in a fourth district, where a man with a ladder and two drawing pins had been waiting about four weeks to be told to take a sheet of paper off a wall, and was told to on that Tuesday, and was paid on that Tuesday, and asked nothing about it.**
 
@@ -131,22 +131,22 @@ Tuesday of week 334, at ten. That is the two hundred and fifty-third day of this
 **That Tuesday carried no figure of this matter in a voice anywhere in that city, and a sheet of paper was paid for coming off a wall, and the second printing of it had never been on that wall at all. Forty-seven pounds, exact.*
 
 *Conditions and docket.* **Callers on that Tuesday: twelve. Written against that Tuesday's book: twelve, every one of them before they went.
-Four units standing off that service road, one of them carrying heat: 1863 days, two hundred and sixty-six weeks and one day
-The one card in that rail, once creased across its middle: 1867 days, two hundred and sixty-six weeks and five days
-The twelfth of nineteen ruled lines on that board up on two nails: 1783 days, two hundred and fifty-four weeks and five days
-The thirteenth of those lines, ruled under the twelfth and blank: 1734 days, two hundred and forty-seven weeks and five days
-The fourteenth of that board, ruled below the thirteenth, blank: 1699 days, two hundred and forty-two weeks and five days
-The fifteenth of that board, low among the nineteen: 1678 days, two hundred and thirty-nine weeks and five days
-The sixteenth of those lines, never once written on: 1653 days, two hundred and thirty-six weeks and one day
-The seventeenth of the nineteen, standing under the sixteenth: 1635 days, two hundred and thirty-three weeks and four days
-The eighteenth of that board, second up from its foot: 1581 days, two hundred and twenty-five weeks and six days
-The nineteenth and last ruled line on that board: 1559 days, two hundred and twenty-two weeks and five days
-That space on the sheet marked for a date, which stood empty for all of the above: 1553 days, two hundred and twenty-one weeks and six days
-The hold across nine crates and the floor beneath every one of them: 1496 days, two hundred and thirteen weeks and five days
-The man of about fifty-one, unmoved from that north wall: 1469 days, two hundred and nine weeks and six days
-Nine copies of the front of one page, each of them torn at a corner: 1429 days, two hundred and four weeks and one day
-The post at the far end of that corridor, its face worn halfway up: 1411 days, two hundred and one weeks and four days
-One written line written inside that box off that road: 1243 days, one hundred and seventy-seven weeks and four days
+Four units standing off that service road, one of them carrying heat: one thousand eight hundred and sixty-three days, two hundred and sixty-six weeks and one day
+The one card in that rail, once creased across its middle: one thousand eight hundred and sixty-seven days, two hundred and sixty-six weeks and five days
+The twelfth of nineteen ruled lines on that board up on two nails: one thousand seven hundred and eighty-three days, two hundred and fifty-four weeks and five days
+The thirteenth of those lines, ruled under the twelfth and blank: one thousand seven hundred and thirty-four days, two hundred and forty-seven weeks and five days
+The fourteenth of that board, ruled below the thirteenth, blank: one thousand six hundred and ninety-nine days, two hundred and forty-two weeks and five days
+The fifteenth of that board, low among the nineteen: one thousand six hundred and seventy-eight days, two hundred and thirty-nine weeks and five days
+The sixteenth of those lines, never once written on: one thousand six hundred and fifty-three days, two hundred and thirty-six weeks and one day
+The seventeenth of the nineteen, standing under the sixteenth: one thousand six hundred and thirty-five days, two hundred and thirty-three weeks and four days
+The eighteenth of that board, second up from its foot: one thousand five hundred and eighty-one days, two hundred and twenty-five weeks and six days
+The nineteenth and last ruled line on that board: one thousand five hundred and fifty-nine days, two hundred and twenty-two weeks and five days
+That space on the sheet marked for a date, which stood empty for all of the above: one thousand five hundred and fifty-three days, two hundred and twenty-one weeks and six days
+The hold across nine crates and the floor beneath every one of them: one thousand four hundred and ninety-six days, two hundred and thirteen weeks and five days
+The man of about fifty-one, unmoved from that north wall: one thousand four hundred and sixty-nine days, two hundred and nine weeks and six days
+Nine copies of the front of one page, each of them torn at a corner: one thousand four hundred and twenty-nine days, two hundred and four weeks and one day
+The post at the far end of that corridor, its face worn halfway up: one thousand four hundred and eleven days, two hundred and one weeks and four days
+One written line written inside that box off that road: one thousand two hundred and forty-three days, one hundred and seventy-seven weeks and four days
 That shop, that yard and that kitchen in: one neutral bar split into two, flex cut back off a copper patch, a socket boxed into a hollow wall, a hood switch brought out of a cupboard.
 Not asked and not given: the man with the ladder was not told what to say if anybody asked him and told them nothing, and Marek was not told which of the three of them has stopped saying it.
 Work: twelve callers, one passage walked to, one sheet paid for coming off a wall on Thursday, nothing escalated, nothing handed on.

@@ -4,6 +4,18 @@
 
 ---
 
+## 0A. A LATER PASS REPAIRED ONE THING ON ALL TEN OF THESE FILES, AND EVERY FIGURE BELOW THAT DEPENDS ON A TOKEN COUNT IS RE-DERIVED
+
+**ON THE ELEVENTH PASS TO LOOK AT THIS MOVEMENT — the Movement I audit and repair pass — the sixteen standing-anchor docket rows on all ten of these files were found printing their day figure in Arabic digits, `944 days`, where `outline/volume-20.md` guardrail four requires that *all interval figures are spelled out in words* and where all nine hundred and sixty anchor rows of Volume 19 print the word form. All one hundred and sixty rows were converted to words. The renderer was controlled against Chapter 1000 on disk, which prints the word form, at sixteen of sixteen before it was pointed at a single row here. No other line of any of these ten files was touched, and no prose was touched on any of them.**
+
+**WHAT THIS DOES AND DOES NOT CHANGE.** The body is untouched and the body column below is unchanged at 19,239. The apparatus rises by exactly eighty tokens on every one of the ten files, which is sixteen rows at five tokens each, and the whole-file column rises with it. **The `about` hit counts are untouched at 638, 641, 3, 92 and 730, 733, 3 — only the denominators move, and every rate therefore falls.** The duplication measure is untouched: the anchor block is sixteen unterminated rows inside one unterminated block, so converting its figures changes no sentence key, and all six distinct-key counts in §6 were re-run before and after and are identical, 516, 548, 163, 163, 679 and 711. **§6, §7 and every guardrail sweep in §11 stand as published. §4 and §5 are corrected here and the earlier figures are named in this block so that a pass holding a copy of them knows what changed.**
+
+**THE FIGURES THAT WERE RIGHT AND HAVE BEEN OVERTAKEN, STATED PLAINLY, ON THE HOUSE'S OWN PRINCIPLE** — a pair that was correct about its own files has been overtaken by the files, and that is a different thing from having been wrong: apparatus **9,771 → 10,569**, whole **29,010 → 29,808**, apparatus share **336.88 → 354.57** per thousand, whole-file case-insensitive pooled **25.27 → 24.59** and file-scope **25.43 → 24.73**, apparatus-scope **9.42 → 8.70**, and the sentence at §5.1 that reads *twenty-five and twenty-seven hundredths pooled* is now *twenty-four and fifty-nine hundredths pooled*. **The body figures, the day map, the anchors at 160 of 160, the zero on guardrail three and the zero on every sweep are all unchanged.**
+
+**AND ONE HOUSE FIGURE QUOTED IN `workspace/volume-20/batch-0003/PROMPT.md` STILL STANDS, BECAUSE IT IS A KEY COUNT AND NOT A TOKEN COUNT.** That prompt quotes Movement II's instrument measuring Movement I and reports *429 distinct keys on Movement I's ten files against a published 575*. Movement I's whole-file distinct-key count is 575 before and after the repair, and the same repair was applied to Movement II's own files with the same null result.
+
+---
+
 ## 1. WHAT THIS MOVEMENT IS, IN ONE PARAGRAPH, AND WHAT IT IS NOT
 
 **The woman of about forty-three who said the four words comes to a repair shop with a folded piece of paper and asks for it to be printed, and it is never printed, and every reason it is not printed is given by a person.** She wants it to stop being said and she cannot say how she knows it has been said wrongly, and she can answer three of the four questions a printer in a second district asks and cannot answer the fourth, which is the date, because she did not write the day down when she heard it. A man carries those four questions across a city to a floor of about eleven desks and asks them in about nine seconds each. A man with a clipboard puts a printed leaflet up on the lower of two clean rectangles in a fourth district at about half past six in the morning, on his own initiative, and says he has put about nine hundred of them up in that district and never taken one down. A woman of about fifty-four says nine words in a room off a line in Saltmarket and is not wrong. A man opens the drawer he keeps things in and explains that a drawer is not a promise and is not a refusal either, and that he has about nine things in it and cannot tell anybody which are his decisions and which are somebody's silence. A Wednesday evening in a repair shop has about nine people in it saying nothing at all for about an hour and a half, and a man behind a counter finds he cannot put that into a sentence and writes nothing down. **On the Monday of the seventh week, in front of six people, he says in about eleven words that he would have to sign nine words he has never read, and the piece of paper goes back inside a coat, and a woman of about forty-three says she is not going to argue with him and that there is no room in this city that will take her being told she was not mistaken.** On the last day a woman of about thirty-four goes into a queue after about three weeks of not going into one and is told, by the woman who said the four words, that it was not pretended.
@@ -72,23 +84,23 @@
 
 | Chapter | Body | Apparatus | Whole |
 | --- | --- | --- | --- |
-| 1011 | 2390 | 944 | 3334 |
-| 1012 | 2424 | 955 | 3379 |
-| 1013 | 2228 | 989 | 3217 |
-| 1014 | 1539 | 981 | 2520 |
-| 1015 | 1785 | 980 | 2765 |
-| 1016 | 1574 | 1011 | 2585 |
-| 1017 | 1969 | 956 | 2925 |
-| 1018 | 1234 | 964 | 2198 |
-| 1019 | 2232 | 988 | 3220 |
-| 1020 | 1864 | 1003 | 2867 |
-| **Total** | **19,239** | **9,771** | **29,010** |
+| 1011 | 2390 | 1024 | 3414 |
+| 1012 | 2424 | 1035 | 3459 |
+| 1013 | 2228 | 1069 | 3297 |
+| 1014 | 1539 | 1061 | 2600 |
+| 1015 | 1785 | 1060 | 2845 |
+| 1016 | 1574 | 1091 | 2665 |
+| 1017 | 1969 | 1034 | 3003 |
+| 1018 | 1234 | 1044 | 2278 |
+| 1019 | 2232 | 1068 | 3300 |
+| 1020 | 1864 | 1083 | 2947 |
+| **Total** | **19,239** | **10,569** | **29,808** |
 
-**19,239 + 9,771 = 29,010 with nothing in either column twice.** Apparatus share 336.88 per thousand of the whole file. **These are measures of ten files. The measure of record for Volume 20 is not written yet and is owed to the Volume 20 close at `workspace/volume-20/close/CLOSE.md`, and a pass writing Chapter 1021 must not carry any figure in this table into a page.**
+**19,239 + 10,569 = 29,808 with nothing in either column twice.** Apparatus share 354.57 per thousand of the whole file. **The apparatus column, both totals and that share were 9,771, 29,010 and 336.88 until the repair recorded at §0A, which converted one hundred and sixty anchor rows on these ten files from digits to words and cost each file exactly eighty tokens of apparatus; the body column was never affected and 19,239 is the figure this section published before that repair.** **These are measures of ten files. The measure of record for Volume 20 is not written yet and is owed to the Volume 20 close at `workspace/volume-20/close/CLOSE.md`, and a pass writing Chapter 1021 must not carry any figure in this table into a page.**
 
-**THE THREE BIGGEST PAGES AND WHY, AND ONE FIGURE THAT IS A FINDING.** Chapter 1012 is the largest at 3,379 because it carries the whole of the printer's four questions and the argument about a date; Chapter 1011 is next at 3,334 because the woman arrives with the paper and the three ways forward are set out in one evening; Chapter 1013 is third at 3,217 because it carries a floor of about eleven desks, a bus of about twenty minutes each way and a leaflet going up in a passage. **Chapter 1018 is the smallest at 2,198 and it is the only page in this movement with almost nobody in it from the matter, and it is the busiest day the shop has ever had, at sixteen callers and fifty-eight pounds, and the two facts are on the same page and neither is remarked on.**
+**THE THREE BIGGEST PAGES AND WHY, AND ONE FIGURE THAT IS A FINDING.** Chapter 1012 is the largest at 3,459 because it carries the whole of the printer's four questions and the argument about a date; Chapter 1011 is next at 3,414 because the woman arrives with the paper and the three ways forward are set out in one evening; Chapter 1013 is third at 3,297 because it carries a floor of about eleven desks, a bus of about twenty minutes each way and a leaflet going up in a passage. **Chapter 1018 is the smallest at 2,278 and it is the only page in this movement with almost nobody in it from the matter, and it is the busiest day the shop has ever had, at sixteen callers and fifty-eight pounds, and the two facts are on the same page and neither is remarked on.**
 
-**AND THE MOVEMENT'S PAGES ARE LONGER THAN MOVEMENT I'S, WHICH IS A FINDING AND NOT A STYLE.** Movement I's ten files total 23,518 whole-file tokens and this movement's total 29,010, which is twenty-three per cent more on ten pages of the same book, and the excess is almost entirely in the body, which runs 19,239 against Movement I's 14,000, thirty-seven per cent more. **The cause is on the page and is a fact about the two movements: Movement I's engine is a discovery, and a discovery is short because nobody knows anything and everybody says a little; Movement II's engine is an argument between people who have each already found something out, and an argument runs long because each of them has to be answered.** The apparatus share fell from 404.7 per thousand to 336.9 for the same reason. **No page was padded to produce this and no page was cut to remove it.**
+**AND THE MOVEMENT'S PAGES ARE LONGER THAN MOVEMENT I'S, WHICH IS A FINDING AND NOT A STYLE.** Movement I's ten files total 24,318 whole-file tokens and this movement's total 29,808, which is twenty-three per cent more on ten pages of the same book, and the excess is almost entirely in the body, which runs 19,239 against Movement I's 14,000, thirty-seven per cent more. **The cause is on the page and is a fact about the two movements: Movement I's engine is a discovery, and a discovery is short because nobody knows anything and everybody says a little; Movement II's engine is an argument between people who have each already found something out, and an argument runs long because each of them has to be answered.** The apparatus share fell from 424.3 per thousand to 354.6 for the same reason, and both of those figures are the post-repair ones at §0A. **No page was padded to produce this and no page was cut to remove it.**
 
 ## 5. `about`, AT THREE SCOPES AND UNDER ALL THREE CASE CONVENTIONS, WITH THE DENOMINATOR BESIDE EVERY CELL
 
@@ -97,12 +109,12 @@
 | body | case-sensitive | 638 | 19239 | 33.51 | 33.16 |
 | body | case-insensitive | 641 | 19239 | 33.72 | 33.32 |
 | body | capital-form-only | 3 | 19239 | 0.21 | 0.16 |
-| apparatus | case-sensitive | 92 | 9771 | 9.40 | 9.42 |
-| apparatus | case-insensitive | 92 | 9771 | 9.40 | 9.42 |
-| apparatus | capital-form-only | 0 | 9771 | 0.00 | 0.00 |
-| whole file | case-sensitive | 730 | 29010 | 25.30 | 25.16 |
-| whole file | case-insensitive | 733 | 29010 | 25.43 | 25.27 |
-| whole file | capital-form-only | 3 | 29010 | 0.13 | 0.10 |
+| apparatus | case-sensitive | 92 | 10569 | 8.69 | 8.70 |
+| apparatus | case-insensitive | 92 | 10569 | 8.69 | 8.70 |
+| apparatus | capital-form-only | 0 | 10569 | 0.00 | 0.00 |
+| whole file | case-sensitive | 730 | 29808 | 24.61 | 24.49 |
+| whole file | case-insensitive | 733 | 29808 | 24.73 | 24.59 |
+| whole file | capital-form-only | 3 | 29808 | 0.12 | 0.10 |
 
 **PFILE is the mean of the ten per-file rates and PPOOL is the concatenated files counted once. The two are different quantities and both are printed.**
 
@@ -110,20 +122,20 @@
 
 | Chapter | Whole-file tokens | case-insensitive | rate | case-sensitive | rate | capital-only |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1011 | 3334 | 80 | 24.00 | 80 | 24.00 | 0 |
-| 1012 | 3379 | 79 | 23.38 | 79 | 23.38 | 0 |
-| 1013 | 3217 | 80 | 24.87 | 80 | 24.87 | 0 |
-| 1014 | 2520 | 71 | 28.17 | 71 | 28.17 | 0 |
-| 1015 | 2765 | 75 | 27.12 | 75 | 27.12 | 0 |
-| 1016 | 2585 | 65 | 25.15 | 65 | 25.15 | 0 |
-| 1017 | 2925 | 70 | 23.93 | 69 | 23.59 | 1 |
-| 1018 | 2198 | 61 | 27.75 | 59 | 26.84 | 2 |
-| 1019 | 3220 | 81 | 25.16 | 81 | 25.16 | 0 |
-| 1020 | 2867 | 71 | 24.76 | 71 | 24.76 | 0 |
+| 1011 | 3414 | 80 | 23.43 | 80 | 23.43 | 0 |
+| 1012 | 3459 | 79 | 22.84 | 79 | 22.84 | 0 |
+| 1013 | 3297 | 80 | 24.26 | 80 | 24.26 | 0 |
+| 1014 | 2600 | 71 | 27.31 | 71 | 27.31 | 0 |
+| 1015 | 2845 | 75 | 26.36 | 75 | 26.36 | 0 |
+| 1016 | 2665 | 65 | 24.39 | 65 | 24.39 | 0 |
+| 1017 | 3003 | 70 | 23.31 | 69 | 22.98 | 1 |
+| 1018 | 2278 | 61 | 26.78 | 59 | 25.90 | 2 |
+| 1019 | 3300 | 81 | 24.55 | 81 | 24.55 | 0 |
+| 1020 | 2947 | 71 | 24.09 | 71 | 24.09 | 0 |
 
 ### 5.1 THIS MOVEMENT IS ABOVE THE STANDING TARGET AND THIS FILE SAYS SO INSTEAD OF FIXING IT
 
-**Twenty-five and twenty-seven hundredths pooled, twenty-five and forty-three hundredths at file scope, case-insensitively, against the standing target of nineteen. That is a deviation of about a third and it is the largest single finding in this movement and it is not repaired.** Movement I sits at nineteen and twenty-six hundredths pooled; Volume 19's sixty files sit at fifteen and thirty-nine. **The cause is located and it is not diffuse.** The word does three jobs in this book and only one of them is a hedge: it is the uncertainty register for a claim about how many witnesses there are, it is the designation idiom in *the woman of about forty-three* and *the man of about sixty-one*, and it is the clock and duration register in *at about half past seven* and *for about four years*. The designation idiom and the job formula account for most of the count and both scale with the length of the pages, and this movement's pages are twenty-three per cent longer. The excess over Movement I after that adjustment is in the dialogue, and **the reason is that this movement is about how well people know something and the house's way of hedging a claim in a person's mouth is this one word.**
+**Twenty-four and fifty-nine hundredths pooled, twenty-four and seventy-three hundredths at file scope, case-insensitively, against the standing target of nineteen — and both figures are the post-repair ones at §0A, the earlier pair of twenty-five and twenty-seven and twenty-five and forty-three having been correct about the files as they stood. That is a deviation of about a third and it is the largest single finding in this movement and it is not repaired.** Movement I sits at eighteen and sixty-three hundredths pooled after the same repair; Volume 19's sixty files sit at fifteen and thirty-nine. **The cause is located and it is not diffuse.** The word does three jobs in this book and only one of them is a hedge: it is the uncertainty register for a claim about how many witnesses there are, it is the designation idiom in *the woman of about forty-three* and *the man of about sixty-one*, and it is the clock and duration register in *at about half past seven* and *for about four years*. The designation idiom and the job formula account for most of the count and both scale with the length of the pages, and this movement's pages are twenty-three per cent longer. The excess over Movement I after that adjustment is in the dialogue, and **the reason is that this movement is about how well people know something and the house's way of hedging a claim in a person's mouth is this one word.**
 
 **AND WHAT THIS PASS DID NOT DO, WHICH IS THE DECISION.** It did not run a mechanical substitution over ten files it had just written, and the reason is the one at `NOVEL_SPEC.md`'s fifth Status block: an instrument that damages prose must not be run first, and a hedge pass that rewrites prose and then reprints the rate is the exact failure this repository has already paid for once. **The figure is published here, the per-file table is published so that a later pass can see which pages carry it, and the decision about whether nineteen is the target for this volume is left where it belongs, which is to the Volume 20 close at sixty files.**
 

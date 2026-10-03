@@ -155,22 +155,22 @@ Monday of week 337, at ten. That is the two hundred and sixty-fourth day of this
 **A piece of paper was not printed, and the four jobs that followed the end of it came to thirty-six pounds, exact.*
 
 *Conditions and docket.* **Callers on that Monday: seven. Entered onto that Monday's book: seven, six of them still in that shop at about half past seven.
-Four units standing off that service road, one of them carrying heat: 1883 days, two hundred and sixty-nine weeks to the day
-The one card in that rail, once creased across its middle: 1887 days, two hundred and sixty-nine weeks and four days
-The twelfth of nineteen ruled lines on that board up on two nails: 1803 days, two hundred and fifty-seven weeks and four days
-The thirteenth of those lines, ruled under the twelfth and blank: 1754 days, two hundred and fifty weeks and four days
-The fourteenth of that board, ruled below the thirteenth, blank: 1719 days, two hundred and forty-five weeks and four days
-The fifteenth of that board, low among the nineteen: 1698 days, two hundred and forty-two weeks and four days
-The sixteenth of those lines, never once written on: 1673 days, two hundred and thirty-nine weeks to the day
-The seventeenth of the nineteen, standing under the sixteenth: 1655 days, two hundred and thirty-six weeks and three days
-The eighteenth of that board, second up from its foot: 1601 days, two hundred and twenty-eight weeks and five days
-The nineteenth and last ruled line on that board: 1579 days, two hundred and twenty-five weeks and four days
-That space on the sheet marked for a date, which stood empty for all of the above: 1573 days, two hundred and twenty-four weeks and five days
-The hold across nine crates and the floor beneath every one of them: 1516 days, two hundred and sixteen weeks and four days
-The man of about fifty-one, unmoved from that north wall: 1489 days, two hundred and twelve weeks and five days
-Nine copies of the front of one page, each of them torn at a corner: 1449 days, two hundred and seven weeks to the day
-The post at the far end of that corridor, its face worn halfway up: 1431 days, two hundred and four weeks and three days
-One written line written inside that box off that road: 1263 days, one hundred and eighty weeks and three days
+Four units standing off that service road, one of them carrying heat: one thousand eight hundred and eighty-three days, two hundred and sixty-nine weeks to the day
+The one card in that rail, once creased across its middle: one thousand eight hundred and eighty-seven days, two hundred and sixty-nine weeks and four days
+The twelfth of nineteen ruled lines on that board up on two nails: one thousand eight hundred and three days, two hundred and fifty-seven weeks and four days
+The thirteenth of those lines, ruled under the twelfth and blank: one thousand seven hundred and fifty-four days, two hundred and fifty weeks and four days
+The fourteenth of that board, ruled below the thirteenth, blank: one thousand seven hundred and nineteen days, two hundred and forty-five weeks and four days
+The fifteenth of that board, low among the nineteen: one thousand six hundred and ninety-eight days, two hundred and forty-two weeks and four days
+The sixteenth of those lines, never once written on: one thousand six hundred and seventy-three days, two hundred and thirty-nine weeks to the day
+The seventeenth of the nineteen, standing under the sixteenth: one thousand six hundred and fifty-five days, two hundred and thirty-six weeks and three days
+The eighteenth of that board, second up from its foot: one thousand six hundred and one days, two hundred and twenty-eight weeks and five days
+The nineteenth and last ruled line on that board: one thousand five hundred and seventy-nine days, two hundred and twenty-five weeks and four days
+That space on the sheet marked for a date, which stood empty for all of the above: one thousand five hundred and seventy-three days, two hundred and twenty-four weeks and five days
+The hold across nine crates and the floor beneath every one of them: one thousand five hundred and sixteen days, two hundred and sixteen weeks and four days
+The man of about fifty-one, unmoved from that north wall: one thousand four hundred and eighty-nine days, two hundred and twelve weeks and five days
+Nine copies of the front of one page, each of them torn at a corner: one thousand four hundred and forty-nine days, two hundred and seven weeks to the day
+The post at the far end of that corridor, its face worn halfway up: one thousand four hundred and thirty-one days, two hundred and four weeks and three days
+One written line written inside that box off that road: one thousand two hundred and sixty-three days, one hundred and eighty weeks and three days
 That kitchen, that yard and that shop in: two bare terminals made off, a switch given an earth, a lamp boxed into a ceiling, a socket moved three feet to a cooker.
 Not asked and not given: Marek was not asked for a name on the bottom line of anything, and a woman of about forty-three did not give the second reason she had for bringing it in, and a man at a counter did not use the office he holds on anybody.
 Work: seven callers, six people in the room from about half past seven until about ten, about nine seconds in which a piece of paper was decided against, nothing escalated, nothing handed on.
