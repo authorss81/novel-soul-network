@@ -98,7 +98,7 @@ A lamp in that yard had been hung off a length of flex tied round a nail and ove
 
 He took it down, made a proper fixing on the post and proved the lamp.
 
-"**Five pounds,**" he said. "**A lamp tied to a nail is a lamp that moves every time the gate does. Lamps in that yard are like that, and one of them has been a gate somebody has had to prop open with about four years.**"
+"**Five pounds,**" he said. "**A lamp tied to a nail is a lamp that moves every time the gate does. Lamps in that yard are like that, and one of them has been a gate somebody has had to prop open for about four years.**"
 
 A stair light had been put in on the stairs with no earth at all and a metal holder anybody could stand on.
 
