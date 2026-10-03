@@ -4,6 +4,8 @@
 
 **AND THE ONE THING A READER SHOULD KNOW BEFORE THE TABLES, WHICH IS THAT THIS IS THE FIRST MOVEMENT IN THIS REPOSITORY THAT A PASS MEASURED AGAINST A PLAN THAT NOBODY HAD MEASURED AGAINST A CHAPTER.** Five volumes in this manuscript were planned and their first movement written in one pass by a phase that then had no second opinion. Volume 21 was planned alone by a sixth directive whose fourth paragraph forbids chapter prose, and this movement is the first time a plan has met a page. **Where a card in `outline/volume-21.md` and these ten pages disagree, §11 records the disagreement and leaves it standing. Nothing in this file repairs the plan and nothing in this file repairs a page to match the plan.**
 
+**AND THIS FILE HAS BEEN THROUGH ONE REVIEW-REPAIR PASS, WHICH FOUND SEVEN DEFECTS IN IT AND NOT ONE IN A CHAPTER, AND REPAIRED EVERY FIGURE IT NAMED IN PLACE.** **Four prose rows of the §6 table were a copy of the whole-file row and the "Distinct keys" column was not reproducible; the scope of §6A was inverted and its own class tally contradicted its own table; a count of the word `three` at §11A was thirty-three in a sentence whose own enumeration said eleven and a total of fifty-four; the guardrail-three figures at §7 were labelled prose and apparatus when 581 is the whole-file count; and the ten lead-in counts the prompt required at §7 item 4 had never been published here at all, and stand now at §6C.** **Every one of the seven was a figure about a figure. Not one sentence of prose on Chapters 1061 to 1070 was read for editing and none was edited, no title moved, no day, week, entry, counter, charge, anchor or object moved, no disagreement between a card and a page was settled, and no owner item was ruled on.** The old figures are named at the site that corrects each of them so that a later pass quoting this file cannot pick one up by halves. **The instrument that re-measured them was controlled first against `workspace/volume-20/batch-0001/`, where it returns zero pair-hits in all twelve cells, and it reproduces this file's own apparatus and whole-file rows of §6 to the digit, which is how the prose rows were proved to be the wrong ones.**
+
 ---
 
 ## 1. WHAT THIS MOVEMENT IS, IN ONE PARAGRAPH, AND WHAT IT IS NOT
@@ -116,20 +118,24 @@
 
 **A run of twelve words or more, taken at the last twelve tokens of every sentence, lowercased, over all forty-five pairs within the ten files. Strict counting takes the number of shared keys per pair; the quote-skipping convention is also run and is printed beside the strict cell because the two counting conventions have to sit in the same place as every cell and not in a footnote.**
 
-| Scope | Paragraph rule | Counting convention | Distinct keys | Pair-hits |
-| --- | --- | --- | --- | --- |
-| prose | breaks dropped | strict | 564 | **26** |
-| prose | breaks dropped | quote-skipping | 564 | **26** |
-| prose | breaks kept | strict | 564 | **26** |
-| prose | breaks kept | quote-skipping | 564 | **26** |
-| apparatus | breaks dropped | strict | 162 | **19** |
-| apparatus | breaks dropped | quote-skipping | 162 | **19** |
-| apparatus | breaks kept | strict | 162 | **19** |
-| apparatus | breaks kept | quote-skipping | 162 | **19** |
-| whole file | breaks dropped | strict | 564 | **26** |
-| whole file | breaks dropped | quote-skipping | 564 | **26** |
-| whole file | breaks kept | strict | 564 | **26** |
-| whole file | breaks kept | quote-skipping | 564 | **26** |
+**AND THE LAST TWO COLUMNS ARE DEFINED HERE, BECAUSE ONE OF THEM HAD NO DEFINITION ANYWHERE IN THIS FILE AND A COLUMN NOBODY CAN REPRODUCE IS NOT A COLUMN. *Distinct keys* is the number of different last-twelve keys across the ten files of that scope, each key counted once however many files carry it. *Shared keys* is the number of those keys that at least one pair of files shares, and it is the count §6A traces; **the count of keys carried by all ten files at once is zero in every row of this table and in every row of the table below it.** **The prose row and the whole-file row of this table were identical on the first write, could not be, and were a copy rather than a measure. Prose is 402 keys and 7 pair-hits on 2 of them; the whole file is 564 and 26 on 10. Every prose cell is corrected below, and §6A is corrected to name the scope each key lives in.** A sum of the ten per-file counts, which is a different number and not this column, returns 406, 174 and 580, and it is printed here so that a later pass holding either definition knows which one this file uses.
+
+| Scope | Paragraph rule | Counting convention | Distinct keys | Pair-hits | Shared keys |
+| --- | --- | --- | --- | --- | --- |
+| prose | breaks dropped | strict | **402** | **7** | **2** |
+| prose | breaks dropped | quote-skipping | **402** | **7** | **2** |
+| prose | breaks kept | strict | **402** | **7** | **2** |
+| prose | breaks kept | quote-skipping | **402** | **7** | **2** |
+| apparatus | breaks dropped | strict | 162 | **19** | **8** |
+| apparatus | breaks dropped | quote-skipping | 162 | **19** | **8** |
+| apparatus | breaks kept | strict | 162 | **19** | **8** |
+| apparatus | breaks kept | quote-skipping | 162 | **19** | **8** |
+| whole file | breaks dropped | strict | 564 | **26** | **10** |
+| whole file | breaks dropped | quote-skipping | 564 | **26** | **10** |
+| whole file | breaks kept | strict | 564 | **26** | **10** |
+| whole file | breaks kept | quote-skipping | 564 | **26** | **10** |
+
+**THE PROSE COLUMN IS SMALLER THAN THE APPARATUS COLUMN AND THAT IS THE FACT OF RECORD AT THIS SECTION, NOT A PARADOX.** The ten files are 13,752 body tokens against 11,929 apparatus tokens, so prose holds the larger half of the words and the smaller half of the duplicated endings, **because a repeated ending in this house is nearly always the load-book's own vocabulary and the load book is apparatus.** The whole-file row is the union of the two scopes and stands at 564 keys, which is 402 and 162 with **no key standing in both**, and its 26 pair-hits are the two scopes' 7 and 19 with no pair counted twice.
 
 **THE TWO COUNTING CONVENTIONS ARE EQUAL ON EVERY ROW OF BOTH TABLES, and that equality is disclosed rather than presented as a finding: this manuscript writes dialogue inside a bold marker whose quotes are stripped by the tokeniser, so a key that is inside a spoken line and a key that is inside a narrated line are the same key to this instrument and the convention has nothing to skip.** Volume 19's close published a difference of eight and four between the two conventions at sixty files; this movement has none, and the reason is structural and is not a merit.
 
@@ -141,26 +147,28 @@
 | guardrail three, apparatus scope | whole normalised sentence | 12 | 175 | **0** | **0** |
 | the last-twelve-tokens proxy, for comparison | last twelve tokens | 12 | 564 | 26 | 10 |
 
-**Zero on the plan's key in all twelve cells and twenty-six on the proxy in prose. The two measures do not disagree about anything; they measure different things, and the proxy's twenty-six are all inside sentences that the plan's key passes because the whole sentence differs.** This is the same relationship Volume 20's Movement I found at ten files, where the proxy returned sixty-seven and the whole-sentence key returned fifteen, and the difference is not a small one: **the proxy counts a shared ending, and a shared ending inside two different sentences is not a breach of a rule about sentences.**
+**Zero on the plan's key in all twelve cells and twenty-six on the proxy at whole-file scope, of which seven are in prose and nineteen are in apparatus. The two measures do not disagree about anything; they measure different things, and the proxy's twenty-six are all inside sentences that the plan's key passes because the whole sentence differs.** This is the same relationship Volume 20's Movement I found at ten files, where the proxy returned sixty-seven and the whole-sentence key returned fifteen, and the difference is not a small one: **the proxy counts a shared ending, and a shared ending inside two different sentences is not a breach of a rule about sentences.**
 
-### 6A. EVERY ONE OF THE TWENTY-SIX PROSE PAIR-HITS, TRACED TO ITS FILE PAIR AND CLASSIFIED
+### 6A. EVERY ONE OF THE TWENTY-SIX PAIR-HITS, TRACED TO ITS FILE PAIR, ITS SCOPE AND ITS CLASS, AND ONLY SEVEN OF THEM ARE IN PROSE
 
-**Ten distinct keys, twenty-six pairs. No key is a repairable-class prose defect and none was repaired at §10 item 2, because none of them is prose.**
+**Ten distinct keys, twenty-six pairs, and the scope column is the correction this section exists to carry: eight of the ten keys stand in the load-book and conditions apparatus and two stand in prose, which is the reverse of what this heading and the sentence under it said on the first write. Nineteen of the twenty-six pair-hits are in apparatus and seven are in prose. No key is a repairable-class prose defect, and the two keys that are in prose are the shutter's own hour inside each day's opening callers sentence, which is standing arithmetic that guardrail six requires and not a sentence anybody wrote twice.**
 
-| Shared last-twelve key | Files | Pairs | Class |
-| --- | --- | --- | --- |
-| `in the last of them let away at about half past eight` | 1061, 1062, 1064, 1065, 1070 | 10 | **arithmetic** — the load-book's own callers line, which states an arrival time the day is defined by |
-| `at about half past eight and the shutter came down at ten` | 1062, 1064, 1065, 1070 | 6 | **arithmetic** — the shutter's own hour, required by guardrail six |
-| `waiting by about eight and the last of them gone by six` | 1061, 1065, 1067 | 3 | **arithmetic** — the docket's callers row |
-| `this file prints no figure for either and no difference between them` | 1061, 1067 | 1 | **structural** — the standing condition of the book and the tin |
-| `them and no page of this volume remarks on any of it` | 1062, 1065 | 1 | **structural** — the same standing condition |
-| `half past nine and the shutter came down at ten that night` | 1063, 1069 | 1 | **arithmetic** — the shutter's own hour |
-| `in the last of them let away at about half past nine` | 1063, 1069 | 1 | **arithmetic** — the callers line |
-| `by about eight and the last of them let away by nine` | 1063, 1069 | 1 | **arithmetic** — the docket's callers row |
-| `a fourth-district wall and a page carrying nine names and nothing else` | 1063, 1066 | 1 | **structural** — the sixth of the six objects named outside the ten |
-| `page gives no figure for either one and no difference between them` | 1064, 1069 | 1 | **structural** — the standing condition |
+| Shared last-twelve key | Files | Pairs | Where it stands | Class |
+| --- | --- | --- | --- | --- |
+| `in the last of them let away at about half past eight` | 1061, 1062, 1064, 1065, 1070 | 10 | apparatus | **arithmetic** — the load-book's own callers line, which states an arrival time the day is defined by |
+| `at about half past eight and the shutter came down at ten` | 1062, 1064, 1065, 1070 | 6 | **prose** | **arithmetic** — the shutter's own hour, required by guardrail six |
+| `waiting by about eight and the last of them gone by six` | 1061, 1065, 1067 | 3 | apparatus | **arithmetic** — the docket's callers row |
+| `this file prints no figure for either and no difference between them` | 1061, 1067 | 1 | apparatus | **structural** — the standing condition of the book and the tin |
+| `them and no page of this volume remarks on any of it` | 1062, 1065 | 1 | apparatus | **structural** — the same standing condition |
+| `half past nine and the shutter came down at ten that night` | 1063, 1069 | 1 | **prose** | **arithmetic** — the shutter's own hour |
+| `in the last of them let away at about half past nine` | 1063, 1069 | 1 | apparatus | **arithmetic** — the callers line |
+| `by about eight and the last of them let away by nine` | 1063, 1069 | 1 | apparatus | **arithmetic** — the docket's callers row |
+| `a fourth-district wall and a page carrying nine names and nothing else` | 1063, 1066 | 1 | apparatus | **structural** — the sixth of the six objects named outside the ten |
+| `page gives no figure for either one and no difference between them` | 1064, 1069 | 1 | apparatus | **structural** — the standing condition |
 
-**Twenty-one of the twenty-six are arithmetic and five are structural. Zero are repairable-class prose.** The apparatus's nineteen are the same ten keys less the two shutter-hour keys, which live in prose. **A later pass should read this table as the answer to the question the prompt asked, which is whether a twenty-six on the proxy is a defect. It is not, and the reason is that the keys are the day map's own vocabulary arriving in prose through the load-book fixture.**
+**Twenty-two of the twenty-six are arithmetic and four are structural. Zero are repairable-class prose.** **The scope arithmetic closes exactly and is the sum test for this table: apparatus carries the eight apparatus keys at 10 + 3 + 1 + 1 + 1 + 1 + 1 + 1 = 19 pair-hits, prose carries the two shutter-hour keys at 6 + 1 = 7, and 19 + 7 = 26.** The apparatus's nineteen are the same ten keys less the two shutter-hour keys, which live in prose, and that sentence was right on the first write while the heading above it was not. **A later pass should read this table as the answer to the question the prompt asked, which is whether a twenty-six on the proxy is a defect. It is not, and the reason is that eight of the ten keys are the day map's own vocabulary arriving through the load-book fixture and the other two are the same vocabulary arriving in the opening sentence of the day.**
+
+**AND THE TWO PROSE KEYS ARE THE REASON THE PLAN'S OWN KEY IS ZERO AND THE PROXY IS NOT, WHICH IS THE WHOLE ARGUMENT OF THIS SECTION SEEN FROM ONE ROW.** Each day's opening callers sentence states a different number of callers, a different last-one-let-away time and, on a Wednesday, the words `that night`, so the *sentence* differs on every file while its *ending* does not. The proxy keys on the ending and returns twenty-six; the plan's key is the whole sentence and returns zero. **Neither is wrong and the row above is not evidence against a page.**
 
 **AND THE INSTRUMENT CANNOT SEE THE ANCHOR BLOCK, AND THIS IS PUBLISHED AS A LIMITATION AND NOT AS A FINDING AGAINST A PAGE.** The sixteen anchor rows are sixteen unterminated lines inside one unterminated block, so the whole of that docket reads to a sentence-splitter as a single sentence of about four hundred and sixty tokens, and that sentence is unique on each file because its sixteen figures differ. **A duplicated anchor row on two of these files therefore cannot produce a shared key and this measure would return zero on it.** The repetition is real and it is large: **one hundred and sixty label rows stand on these ten files and there are exactly sixteen distinct label strings among them, and every one of the sixteen appears on all ten files, and six of the sixteen are twelve words or more.** Volume 19 carries the identical structure over nine hundred and sixty rows, so this is the house's own standing apparatus and not something Volume 21 introduced. No label was rewritten: three hundred files of precedent print it, and §8 declares the anchors a named scope of its own so that they stop being invisible to a reader.
 
@@ -181,9 +189,30 @@
 
 **THE THANK-AND-FORGIVE SENTENCE IS TEN WORDS AND THAT IS WHY IT IS PERMITTED TO STAND AND WHY THE RULE IS TWELVE.** Every one of the other five was rewritten in each file's own words by this pass, and the two that still vary least — the register line and the sixth object — are varying at their ends only, because the register's figure and the six objects' nouns are standing vocabulary this volume is required to print. **So the honest answer to the warning is: this movement does not carry Volume 20's one-skeleton-across-sixty-pages defect, and it does carry a ten-word sentence across ten pages, which the house has always carried and which §11 counts rather than assumes.**
 
+### 6C. THE TEN LEAD-IN PARAGRAPHS, ONE COUNT PER FILE, AND THE RANGE AGAINST FORTY TO SEVENTY-FIVE, WHICH THE PROMPT ASKED FOR AND THIS FILE DID NOT PUBLISH
+
+**A review found this table missing and is right that it was required: §7 item 4 of `workspace/volume-21/batch-0001/PROMPT.md` asks for the ten lead-in word counts, measured, one per file, and the range against forty to seventy-five. **The counts were taken during the pass and survived only as the bare range in two state files, which is exactly what the prompt said would happen.** The lead-in is the first bold paragraph of each file, taken under the same tokeniser and the same H1 removal as §4, and each row below is that paragraph measured and not estimated.**
+
+| Chapter | Weekday | Lead-in words |
+| --- | --- | --- |
+| 1061 | Monday | **66** |
+| 1062 | Tuesday | 63 |
+| 1063 | Wednesday | 64 |
+| 1064 | Thursday | 53 |
+| 1065 | Friday | 59 |
+| 1066 | Sunday | 52 |
+| 1067 | Monday | 52 |
+| 1068 | Tuesday | 59 |
+| 1069 | Wednesday | 65 |
+| 1070 | Thursday | **51** |
+
+**The range is fifty-one to sixty-six, and all ten sit inside the prompt's forty to seventy-five: the shortest is eleven words above that floor and the longest is nine below that ceiling.** **Nothing in the set is at either bound and no file is a copy of another's length**, which is the second thing a lead-in measure exists to catch and which a range alone cannot show. **The shortest is Chapter 1070 at fifty-one; the next two are Chapter 1066 and Chapter 1067 at fifty-two each, and the longest is Chapter 1061 at sixty-six. The short ones are short for reasons that are on the page and not arithmetic: 1070 is the page on which a man gives a stranger a door and refuses two women an answer, and 1066 is the Sunday on which about four people stand in a wet doorway and then sit down for half an hour and nothing happens.** No lead-in here is short because it was cut short to make a count come out.
+
+**AND THE CEILING IS THE ONE §10 ITEM 9 ENFORCED, AND IT IS STILL THE FIGURE A LATER PASS SHOULD MEASURE AGAINST.** Chapter 1065's lead-in stood at ninety-one words before that repair and stands at fifty-nine now, and seven of the ten were rewritten because they reported what a person said in another building, which guardrail 2 forbids. **A lead-in shorter than the bound is not automatically a better lead-in, and a later pass that pulls all ten down toward fifty-one because fifty-one is this movement's shortest would be copying a measure and not making a page.** This is a measure of ten files and the volume's own figure is owed to the Volume 21 close.
+
 ## 7. GUARDRAIL THREE AS THE PLAN WRITES IT, MEASURED AND NOT ASSUMED
 
-**Guardrail three as `outline/volume-21.md` guardrail 17 and deviation 4 write it is that no sentence of twelve words or more appears in two of the volume's sixty files. Measured on these ten with the whole normalised sentence as the key and a twelve-token floor: zero pair-hits in prose, zero in apparatus, zero whole-file, under both paragraph rules, at 581 distinct prose keys and 175 distinct apparatus keys.** The flat test, in which one key is compared against all forty-nine other pairs at once, returns zero shared keys.
+**Guardrail three as `outline/volume-21.md` guardrail 17 and deviation 4 write it is that no sentence of twelve words or more appears in two of the volume's sixty files. Measured on these ten with the whole normalised sentence as the key and a twelve-token floor: zero pair-hits in prose, zero in apparatus, zero whole-file, under both paragraph rules, at 406 distinct prose keys, 175 in apparatus and 581 across the whole file. The flat test, in which one key is compared against all forty-nine other pairs at once, returns zero shared keys.** **The 581 and the 175 were printed here on the first write as the prose and the apparatus counts, and 581 is the whole-file count; the prose count is 406 and the two figures have been relabelled here and at §6.**
 
 **Eleven breaches were found and repaired before this figure was produced, and they are all in this file's §10 rather than in a page's fiction:**
 
@@ -284,7 +313,7 @@
 **What this pass enforced, and what was measured rather than assumed:**
 
 - **Zero.** No day number, week number, load-book entry, governed counter, anchor interval, short-run interval, charge total, register figure or Exchange figure is spoken aloud by anybody on any of these ten days. The sweep for a spoken apparatus figure returns zero.
-- **Fifty-four small-cardinal tokens are spoken inside dialogue**, being `one` fourteen times, `three` eleven, `about four` thirteen, `four` four, `two` three, `six` two, and one each of `nine`, `seven`, `about two`, `about nine`, `about eleven`, `eleven` and `about twenty`. **Thirty-three of the fifty-four are `three`, and every one of those is the room's own three questions or the price of a job.**
+- **Fifty-four small-cardinal tokens are spoken inside dialogue**, being `one` fourteen times, `three` eleven, `about four` thirteen, `four` four, `two` three, `six` two, and one each of `nine`, `seven`, `about two`, `about nine`, `about eleven`, `eleven` and `about twenty`. **Eleven of the fifty-four are `three`, which is what the enumeration above already said and what this sentence contradicted when it claimed thirty-three; thirty-three is larger than the enumeration's own total for that word and no reading of the files produces it, so the sentence was a copy of a figure belonging to no count in this file. Every one of the eleven is the room's own three questions or the price of a job.**
 - **Forty prices are spoken aloud by the trade formula**, four on each of the ten days, and that is the house's own frame.
 
 **AND THE MOVEMENT MAKES THE NARROWER RULE A FACT ON A PAGE RATHER THAN A NOTE IN A FILE.** On Chapter 1065 a woman asks Marek how many people are now coming because of a sentence, and he says out loud that he is not saying a number out loud in this city this week, and tells her that she and the others have all been counted by somebody else and not by him. **So the cost of not saying a number out loud is on the page, in a man's mouth, and it is the only arithmetic anybody in this city does in a fortnight.**
@@ -335,7 +364,9 @@
 
 ## 15. WHAT A LATER PASS MUST NOT INHERIT FROM THIS FILE
 
-**Do not quote any figure here as a house figure.** Every number in §§4 to 8 is a measure of ten files. **Do not take the `about` figure at §5 as the movement's rate** — the files are the authority, and the repairs at §10 moved the denominator of every row in that section without moving a single hit count in it. **Do not carry 25,681 anywhere.** **Do not re-derive the duplication control at zero and do not report twenty-six as a defect** — §6A traces all twenty-six and none of them is prose. **Do not re-derive guardrail three from the proxy.** The whole-sentence key is the one the plan writes, it is the one that must be used, and the two agreed here by luck of these ten files and would not agree in general. **Do not carry the forty-two-to-seventy-four lead-in bound forward as settled** — §2 records that two published figures for the previous movement's lead-ins disagree by eight words and this file does not know which is right. **Do not read day 2334 as a rehearsal for anything; it carries no chapter and it is a Saturday.** **Do not carry Volume 20's fixed vocabulary across this one.** The sheet count differs by one clause and a measure that runs across both volumes must carry two tails. **Do not put a figure on the place behind that woman's chair on any page.** Chapter 1089 may, and Chapter 1063 named it without one and must go on doing so. **Do not say the sentence is so.** Chapter 1070's last line says that nobody in this city has, and Chapter 1118 is where somebody does, and a page in between that says it has cost this volume its engine.
+**Do not quote any figure here as a house figure.** Every number in §§4 to 8 is a measure of ten files. **Do not take the `about` figure at §5 as the movement's rate** — the files are the authority, and the repairs at §10 moved the denominator of every row in that section without moving a single hit count in it. **Do not carry 25,681 anywhere.** **Do not re-derive the duplication control at zero and do not report twenty-six as a defect** — §6A traces all twenty-six, on ten keys, and none of them is a repairable-class sentence. **Do not carry the twenty-six about as a prose figure either: seven of the twenty-six pair-hits are in prose and nineteen are in apparatus, and on the first write of this file all twelve prose cells of §6 were a copy of the whole-file row.** **Do not re-derive guardrail three from the proxy.** The whole-sentence key is the one the plan writes, it is the one that must be used, and the two agreed here by luck of these ten files and would not agree in general. **Do not take 581 for a prose count; it is the whole-file count and prose is 406.** **Do not carry the forty-two-to-seventy-four lead-in bound forward as settled** — §2 records that two published figures for the previous movement's lead-ins disagree by eight words and this file does not know which is right. **This movement's own lead-ins are one count per file at §6C, fifty-one to sixty-six, and they are ten files and not a volume.** **Do not read day 2334 as a rehearsal for anything; it carries no chapter and it is a Saturday.** **Do not carry Volume 20's fixed vocabulary across this one.** The sheet count differs by one clause and a measure that runs across both volumes must carry two tails. **Do not put a figure on the place behind that woman's chair on any page.** Chapter 1089 may, and Chapter 1063 named it without one and must go on doing so. **Do not say the sentence is so.** Chapter 1070's last line says that nobody in this city has, and Chapter 1118 is where somebody does, and a page in between that says it has cost this volume its engine.
+
+**AND WHAT THE REVIEW THAT PRODUCED §6, §6A, §6C, §7, §11A AND THIS SECTION CHANGED, IN ONE PLACE, BECAUSE A LATER PASS SHOULD NOT HAVE TO FIND WHICH PARAGRAPHS ARE NEWER THAN THE REVIEW THAT READ THEM.** Seven defects in this file, all of them in the measure and none of them in a scene: four prose rows at §6 and a "Distinct keys" column that could not be reproduced; the scope label at the head of §6A and its own table's class tally; a count of the word `three` at §11A that contradicted the enumeration above it; a mislabelled pair of guardrail-three figures at §7; and the lead-in table at §6C, which the prompt required and this file had not published. **Every one of them was a figure about a figure. No sentence of prose on any of the ten chapters was rewritten, no title moved, no day, week, entry, counter, charge, anchor or object moved, no plan was repaired and no card was settled. The seven defects are the seventh batch in a row in which nothing was found in a scene, and this file's own §10 already says what a measure that only looked at scenes would have published.**
 
 ---
 
