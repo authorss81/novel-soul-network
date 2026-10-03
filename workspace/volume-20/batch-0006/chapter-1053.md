@@ -1,6 +1,6 @@
 # Chapter 1053 — The Woman Who Came Back
 
-**That Friday ran a counter from about ten and then four converted units off that service road, and about nine people went up that stair after six, and a woman of about thirty-nine sat down at that bench for the fifth time and was asked three things out loud and got two of them.**
+**That Friday ran a counter from about ten and then four converted units off that service road, and about nine people went up that stair after six, and a woman of about thirty-four came in through that door with the same folder under her arm that she had carried in on the Monday.**
 
 ---
 
@@ -30,7 +30,7 @@ The woman of about thirty-nine said: **My mother's name, and yes, and I have sai
 
 The woman of about thirty-four said: **nobody has said that in this room in about four months.**
 
-The woman of about thirty-nine said: **I have been saying it in about nine kitchens for about four weeks and it is the same sentence every time and I would like somebody to notice.**
+The woman of about thirty-nine said: **I have been saying it in nine kitchens for four weeks and it comes out the same every time and I would like somebody to notice.**
 
 ---
 
@@ -144,7 +144,7 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand four hundred and ninety-one days, two hundred and thirteen weeks to the day
 One written line written inside that box off that road: one thousand three hundred and twenty-three days, one hundred and eighty-nine weeks to the day
 That shop, that yard, that kitchen and that cupboard in: a dead cable lifted out of a rose, a plate carried onto masonry, a block changed out, a holder moved off a door.
-Not asked and not given: the third of three things was not put to her a second time and she did not give it, the folder under that arm was not opened and was not mentioned by anybody but the woman carrying it, and nobody in this city was asked for a heading.
+Not asked and not given: the third of three things was not put to her a second time and she did not give it, the folder under that arm was not opened and was not mentioned by anybody but the woman carrying it, and about nine people in that room heard her say out loud that she was not going to answer it and not one of them asked her again.
 Work: six callers, two of three things answered out loud at that bench, one turned down out loud instead of stopped at, and one question asked at that counter after the shutter was half down. Nothing was written on and nothing was passed anywhere.
 Charge: seventy-one pounds, exact.**
 

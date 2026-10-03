@@ -1,6 +1,6 @@
 # Chapter 1055 — What He Said He Was Going To Ask
 
-**That Wednesday was a bench until two and a counter until six and then four converted units off that service road, and about nine people went up that stair, and a man at that bench was asked by two people in front of everybody what he was going to do on a Tuesday and gave the same answer twice.**
+**That Wednesday was a bench until two and a counter until six and then four converted units off that service road, with eleven callers through that door in the course of it, and about nine people went up that stair after six.**
 
 ---
 
@@ -16,7 +16,7 @@ The woman of about thirty-nine said: **what are you going to do on that Tuesday.
 
 Marek said: **I do not know.**
 
-The woman of about thirty-nine said: **You told me on Friday that you had said that nine words twice this week and that the third time would be in that room. That was a plan with a date on it and a date is not a plan.**
+The woman of about thirty-nine said: **You told me on Friday that you did not know what happens to me on that Tuesday, and then you told me the third time of that sentence was going to be said in that room. That was a plan with a date on it and a date is not a plan.**
 
 Marek said: **that is the criticism I would have made of it myself, and I made it to a woman on Saturday and not to nine people.**
 
@@ -40,7 +40,7 @@ The woman of about thirty-nine said: **that is the second sentence this month I 
 
 The man of about thirty said: **you said Wednesday.**
 
-Marek said: **you said Wednesday and I have not written it down. It is the Tuesday of the week after next and I am saying it now because you asked me for it in front of nine people and that is the whole of what a date in this room is.**
+Marek said: **you said Wednesday and I have not written it down. It is the Tuesday of next week and I am saying it now because you asked me for it in front of nine people and that is the whole of what a date in this room is.**
 
 The man of about thirty said: **I will be here.**
 
@@ -50,7 +50,7 @@ The man of about thirty said: **that is the ninth time somebody has not asked me
 
 ---
 
-**And then a man of about thirty-three said out loud, for the eighth time in this volume, that there are three of them holding a thing and one of them has it wrong, and about four people in that room have said since that nobody looked up when he said it.**
+**And then a man of about thirty-three said out loud, for the eighth time anybody in that room has heard it said, that there are three of them holding a thing and one of them has it wrong, and about four people in that room have said since that nobody looked up when he said it.**
 
 The man of about thirty said: **is that room going to keep asking that last thing after Tuesday.**
 
@@ -86,7 +86,7 @@ He changed the block and proved the lamp from the floor.
 
 "**Nineteen pounds,**" he said. "**A cracked block is a joint that has been made and then used as a step. Blocks in that shop are like that, and one of them has been a rose about four of them have had to change a bulb and wonder why it flickered first.**"
 
-A socket at that gate had been put in on a plate with a earth taken off it entirely and a length of copper twisted round the fixing screw.
+A socket at that gate had been put in on a plate with the earth taken off it entirely and a length of copper twisted round the fixing screw.
 
 He brought the earth into the box and proved the socket from the path.
 

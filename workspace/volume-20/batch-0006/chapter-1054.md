@@ -1,6 +1,6 @@
 # Chapter 1054 — A Sunday With Nobody Asked Anything
 
-**That Sunday kept that counter open from about ten until about two and about four people went up the stair after it, and nobody was asked anything all afternoon, and a man began a sentence at about one and gave it up before the end of it.**
+**That Sunday kept that counter open from about ten until about two, and the shutter comes down early on a Sunday, and about four people went up that stair in the afternoon of it, and the rest of that day was four jobs in four rooms off that service road.**
 
 ---
 
@@ -24,7 +24,7 @@ The woman of about fifty-four said: **I know. I have watched you do it four time
 
 **And then a woman of about thirty-nine looked at the strip of wall behind that chair for about nine minutes and then asked the woman who keeps that room a question about it, out loud, and got an answer that was not an explanation.**
 
-The woman of about thirty-nine said: **I have looked at that wall four times and there has been nothing on it every time, and I have never once asked what it is.**
+The woman of about thirty-nine said: **I have looked at that wall on every visit I have made to this room and there has been nothing on it every time, and I have never once asked what it is.**
 
 The woman of about fifty-four said: **there is nothing on it.**
 
@@ -70,7 +70,7 @@ The woman of about thirty-nine said: **You have just said what it is and you sai
 
 **The four jobs that Sunday went into that passage, that cellar, that kitchen and that yard, and they came to fifty-nine pounds, exact.**
 
-A lamp in that passage had been put in on a rose that had been fixed with arawlplug of wood pushed into the plaster.
+A lamp in that passage had been put in on a rose that had been fixed with a raw plug of wood pushed into the plaster.
 
 He cut it out, put in a proper box and proved the lamp from the door.
 
@@ -124,11 +124,11 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand four hundred and ninety-three days, two hundred and thirteen weeks and two days
 One written line written inside that box off that road: one thousand three hundred and twenty-five days, one hundred and eighty-nine weeks and two days
 That passage, that cellar, that kitchen and that yard in: a wooden plug cut out, a lid cleaned back, staples lifted off a worktop, a cover made to reach the whole of a fitting.
-Not asked and not given: nobody in that room was asked one of three things, the sentence begun at that bench was not finished by its owner or by anybody else, and the strip of wall behind that chair was named once and nothing was said about what it was for.
+Not asked and not given: nobody in that room was asked one of three things, the sentence begun at that bench was not finished by its owner or by anybody else, and about four people sat through a whole afternoon in a room where the only sentence anybody said was one about how little anybody knew each other.
 Work: five callers, four people up a stair and nobody asked anything, one sentence begun and given up at four words, and one afternoon in which a woman said the only sentence anybody said. Nothing was escalated and nothing was handed on.
 Charge: fifty-nine pounds, exact.**
 
-*Conditions of the close.* **From about two on that Sunday onward that table held nothing open: the book in the green binding lay shut, and the tin beside it kept its lid down and the tin beside it kept its lid down, and this page gives no figure for either one of them and no difference between them.
+*Conditions of the close.* **From about two on that Sunday onward that table held nothing open: the book in the green binding lay shut, and the tin beside it kept its lid down, and this page gives no figure for either one of them and no difference between them.
 The ninth chair did not turn on its floor at any point of that Sunday, and nobody in this volume names the hand that last turned it.
 That room under a building in a first district was dark on that Sunday and is dark now and this volume does not open it on any of its pages.
 Four stood on that register of correct acts that changed nothing at both ends of that Sunday, no person in this city is written on it, and a sentence begun and not finished is not on it.**

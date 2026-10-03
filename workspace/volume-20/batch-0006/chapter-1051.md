@@ -1,6 +1,6 @@
 # Chapter 1051 — He Got The Rest Of It Out Loud
 
-**A Monday was a bench until two and a counter until six and then that shop until ten, and a man behind that counter said out loud, to a woman carrying a folder and to about four other people standing in that shop, the rest of a thing he has been carrying since the Friday.**
+**A Monday was a bench until two and a counter until six and then that shop until ten, with a woman of about thirty-four working the middle of it and a folder under her arm, and the shutter down at ten, and about four people in that shop who had not come in as callers and had not gone out again.**
 
 ---
 
@@ -130,11 +130,11 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand four hundred and eighty-seven days, two hundred and twelve weeks and three days
 One written line written inside that box off that road: one thousand three hundred and nineteen days, one hundred and eighty-eight weeks and three days
 That shop, that landing, that kitchen and that yard in: a box closed and an earth brought in, two seats cut into solid, a spur lifted off a ring, a lid turned the other way up.
-Not asked and not given: the man of about thirty was not told what Marek wants and did not ask for it, the woman of about thirty-four was not given a reason because there is not one, and nobody in that shop was asked for a heading.
+Not asked and not given: the man of about thirty was not told what Marek wants and did not ask for it, the woman of about thirty-four was not given a reason because there is not one, and about four people in that shop heard the whole of it and none of them put any of it back to him.
 Work: eight callers, one want said out loud with no reason attached to it, and two sentences at a door by a man who had said nothing for about nine minutes. Nothing was written on and nothing went anywhere else.
 Charge: sixty-four pounds, exact.**
 
-*Conditions of the close.* **Shut at about ten on that Monday was that book in the green binding, and the tin beside it had its lid down and the tin beside it had its lid down, and no figure for either one of them is on this page and none for anything between them.
+*Conditions of the close.* **Shut at about ten on that Monday was that book in the green binding, and the tin beside it had its lid down, and no figure for either one of them is on this page and none for anything between them.
 The ninth chair stood all that Monday with its back to the room it is in and did not go round by so much as a leg, and the hand that last turned it is named nowhere in this volume.
 Nothing has been lit in that room under a building in a first district since that Monday and nothing is lit in it now, and this volume does not open it on any page of its own.
 That register of correct acts that changed nothing stood at four at both ends of that Monday, nobody in this city writes on it, and a man saying out loud what he wants is not on it.**

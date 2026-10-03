@@ -1,6 +1,6 @@
 # Chapter 1052 — The Want Said Out Loud In That Room
 
-**That Wednesday went up that stair after six with about nine people in it, and a man at that bench said out loud, in one go and without stopping, the thing he had said in a shop on the Monday, and about four of the nine heard the want in it and said nothing at all.**
+**That Wednesday was a counter from about ten until six with a bench standing empty behind it, and about nine people went up that stair in the evening, and the fourth of those four rooms was shut at half past six and the shutter came down at ten.**
 
 ---
 
@@ -28,7 +28,7 @@ Nobody said anything.
 
 Nobody moved a chair.
 
-The woman of about fifty-four looked at the window and not at him.
+The woman of about fifty-four turned her head to the window and kept it there, and did not look at him.
 
 Marek said: **that is nine minutes. I am not going to fill them.**
 
@@ -132,7 +132,7 @@ Nine copies of the front of one page, each of them torn at a corner: one thousan
 The post at the far end of that corridor, its face worn halfway up: one thousand four hundred and eighty-nine days, two hundred and twelve weeks and five days
 One written line written inside that box off that road: one thousand three hundred and twenty-one days, one hundred and eighty-eight weeks and five days
 That shop, that cellar, that kitchen and that corridor in: knock-outs knocked out, a flex lifted out of a floor, an element put on its own terminal, a holder turned round to what it should have been.
-Not asked and not given: nobody was asked whether that want could be written down, the woman of about thirty-nine was not asked the third of three things and did not get near it, and no person in that shop or that room was asked for a heading.
+Not asked and not given: nobody was asked whether that want could be written down, the woman of about thirty-nine was not asked the third of three things and did not get near it, and about nine people in that room sat through nine minutes without one of them saying a kind thing to anybody else in it.
 Work: ten callers, three things asked of nobody and one want said out loud in front of nine people, and about nine minutes in which nothing kind was said. Nothing was escalated, nothing was handed on and no form was filled in.
 Charge: fifty-six pounds, exact.**
 
