@@ -276,6 +276,331 @@
 
 ---
 
-## 9. OWED TO THE VOLUME 20 CLOSE AND WRITTEN BY NOBODY BEFORE IT
+## 9. WRITTEN BY THE VOLUME CLOSE, AND BY NOBODY BEFORE IT
 
-**This section is empty because it is not this file's to fill.** The Volume 20 close writes section 9 and `workspace/volume-20/close/CLOSE.md`, both at volume scope, and both after Chapter 1060, and both are measured rather than inherited. **A pass that fills this section before Chapter 1060 has written a close that has not happened.** Section 9 will carry, at minimum, the word table for all sixty files, the `about` rates under all three case conventions with the denominator beside every row, guardrail three as the plan writes it under both terminator conventions, the duplication measure with both paragraph rules and both counting conventions in the same place as every cell, the standing anchors table as a named scope of its own, and the sixty-row day map re-derived rather than read from section 1.
+**This section was empty until Chapter 1060 existed, and it is written now, after it, at sixty-file scope, measured and not inherited.** Chapter 1060 exists on disk, ends `END OF VOLUME 20`, and carries the plan of record's final image. No chapter of this volume or any earlier volume was edited by this pass. Every number below was derived from the sixty chapter files at `batch-0001/` through `batch-0006/` by the instrument at §9.0, and none was carried forward from any movement summary or any earlier close. Where a published ten-file figure disagrees with this instrument, both are printed and the verdict is printed beside them, including the ones that do not reproduce.
+
+### 9.0 THE BOUNDARY, BUILT BEFORE ANY CELL WAS FILLED
+
+**The boundary is `batch-0006/SUMMARY.md` §0, unchanged from `batch-0005/SUMMARY.md` §0: tokeniser `[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*`, H1 line removed, `*`, `` ` `` and `|` deleted before segmentation, hyphenated compound one token, clock time two tokens; body scope to the standalone load-book marker `^\*\d+\.$`, apparatus scope from that marker to end of file, the marker line one token belonging to apparatus, the two scopes disjoint and summing to the whole file minus the H1 line.** Sentence: a maximal token run whose final token is followed by `.`, `!` or `?`, itself followed by whitespace or end of scope after skipping any closing quotation marks, which is the `quote-skipping` reading `workspace/volume-19/close/CLOSE.md` §17 names; a semicolon and a colon are not terminators. Paragraph rules, both run: breaks KEPT, each non-empty line a block; breaks DROPPED, every run of newlines replaced by a single space. Counting conventions, all three run in every cell: strict counts every qualifying sentence; quotation-state discards a segment lying wholly inside a double-quoted run, state tracked block by block; any-quote discards every segment carrying a double quote in its printed span including its bounding marks. Week `(day − 502) // 7 + 88`, weekday `(day − 502) mod 7` Monday-first, Monday of week _W_ `7 × W − 114`. Cardinal in the house form (§2 of `batch-0006/SUMMARY.md`: the `and` dropped between thousand and hundred, kept between hundred and remainder). Weeks rendering `N weeks to the day` / `N weeks and one day` / `N weeks and M days`. **The instrument raises rather than returning a zero it cannot justify: no marker, no sixteen-row docket, or a rendered figure disagreeing with its own page stops it. It raised nothing on these sixty files.**
+
+**Two properties of this instrument are published because they move cells and a later pass must not mistake them for faults.** *One:* at a floor of twelve tokens, no surviving sentence straddles a quotation boundary, so the any-quote rows equal the quotation-state rows in every prose cell; the apparatus carries almost no double-quoted run, so all three conventions are equal there too. *Two:* closing-quotation transparency is what makes priced dialogue countable at all; a literal splitter blind to `."` returns zeroes about nothing, which is the receipt-not-a-result lesson `batch-0001/SUMMARY.md` §17 records.
+
+### 9.0.1 THE CONTROL, RUN BEFORE ANY CELL WAS FILLED, AT TEN FILES AND AT SIXTY
+
+| Control | Where | Expected | This instrument | Verdict |
+| --- | --- | --- | --- | --- |
+| Movement IV word table | `batch-0004/SUMMARY.md` | 13,406 / 11,197 / 24,603 | 13,406 / 11,197 / 24,603 | **reproduces to the digit** |
+| Movement V lead-ins | `batch-0005/SUMMARY.md` §4 | 51, 44, 54, 50, 53, 48, 54, 61, 72, 52 | 51, 44, 54, 50, 53, 48, 54, 61, 72, 52 | **reproduces, ten of ten** |
+| Movement V day rows | `batch-0005/SUMMARY.md` §3 | 10 of 10 | 10 of 10, days read back out of first anchor rows | **reproduces** |
+| Movement V anchor dockets | `batch-0005/chapter-1041.md`, `-1050.md` | 16 of 16 each | 16 of 16 each | **reproduces** |
+| Movement V word table, apparatus column | `batch-0005/SUMMARY.md` §4 | 11,597 published | 11,757, exactly sixteen higher on each of the ten files; body column reproduces to the digit on all ten | **does not reproduce; SETTLED at §9.2: the published column is one hundred and sixty low against the stated boundary, the numerator is not in doubt, and the sixty-file denominator uses the stated boundary throughout** |
+| Movement VI word table and lead-ins | `batch-0006/SUMMARY.md` §4–5 | 15,112 / 12,193 / 27,305; 55, 56, 54, 47, 59, 54, 74, 59, 51, 58 | 15,124 / 12,223 / 27,347; 61, 48, 53, 50, 42, 54, 74, 59, 51, 58; exact on Chapters 1056–1060, drifting on 1051–1055 only | **new finding, recorded at §9.2; the sixty-file figure is measured from disk text** |
+| `screen` stem, every chapter file on disk | `batch-0003/SUMMARY.md` §14.8 | twenty hits on fourteen files across Volumes 02, 03, 04, 05, 07 and 12 | twenty hits on fourteen files, the same fourteen, across Volumes 02, 03, 04, 05, 07 and 12 | **reproduces to the digit** |
+| Sixteen origins and three short-run origins | §2 and §2.1 | Chapter 1001 and Chapter 1060 columns | 960 of 960 rows render, 960 self-consistent, 960 agreeing with their own page; short-run ages read back at §9.6 | **reproduces** |
+| Movement II / III word tables | `batch-0002/§14`, `batch-0003/§4` | 19,239 / 10,569 / 29,808 and 15,317 / 11,031 / 26,348 | 19,241 / 10,569 / 29,810 and 15,334 / 11,031 / 26,365 | **body two and seventeen high respectively; the recorded stale tables at `batch-0004/SUMMARY.md` §2.3, confirmed and carried into §9.2** |
+
+### 9.1 THE SIXTY-ROW DAY MAP, RE-DERIVED AND NOT READ FROM §1
+
+**Each day below was read back out of its own page, by inverting the first anchor row (`day = printed figure + 362`), and composed with the two detectors; entry is `chapter + 3`, counter `chapter − 755`. All sixty read-back days agree with §1, all sixty weeks and weekdays agree with the detectors, `(entry − chapter) = {3}` and `(counter − chapter) = {−755}` on all sixty. The plan's table stands beside this one as a comparison and was not its source; the re-derivation exists because §2's round-figure paragraph once assigned a round interval to a chapterless day and was corrected to Chapter 1023 in place.**
+
+| Chapter | Day | Week | Weekday | Entry | Counter |
+| --- | --- | --- | --- | --- | --- |
+| 1001 | 2217 | 333 | Monday | 1004 | 246 |
+| 1002 | 2218 | 333 | Tuesday | 1005 | 247 |
+| 1003 | 2219 | 333 | Wednesday | 1006 | 248 |
+| 1004 | 2220 | 333 | Thursday | 1007 | 249 |
+| 1005 | 2221 | 333 | Friday | 1008 | 250 |
+| 1006 | 2223 | 333 | Sunday | 1009 | 251 |
+| 1007 | 2224 | 334 | Monday | 1010 | 252 |
+| 1008 | 2225 | 334 | Tuesday | 1011 | 253 |
+| 1009 | 2227 | 334 | Thursday | 1012 | 254 |
+| 1010 | 2228 | 334 | Friday | 1013 | 255 |
+| 1011 | 2232 | 335 | Tuesday | 1014 | 256 |
+| 1012 | 2233 | 335 | Wednesday | 1015 | 257 |
+| 1013 | 2235 | 335 | Friday | 1016 | 258 |
+| 1014 | 2237 | 335 | Sunday | 1017 | 259 |
+| 1015 | 2238 | 336 | Monday | 1018 | 260 |
+| 1016 | 2240 | 336 | Wednesday | 1019 | 261 |
+| 1017 | 2242 | 336 | Friday | 1020 | 262 |
+| 1018 | 2243 | 336 | Saturday | 1021 | 263 |
+| 1019 | 2245 | 337 | Monday | 1022 | 264 |
+| 1020 | 2246 | 337 | Tuesday | 1023 | 265 |
+| 1021 | 2251 | 337 | Sunday | 1024 | 266 |
+| 1022 | 2253 | 338 | Tuesday | 1025 | 267 |
+| 1023 | 2254 | 338 | Wednesday | 1026 | 268 |
+| 1024 | 2256 | 338 | Friday | 1027 | 269 |
+| 1025 | 2257 | 338 | Saturday | 1028 | 270 |
+| 1026 | 2259 | 339 | Monday | 1029 | 271 |
+| 1027 | 2261 | 339 | Wednesday | 1030 | 272 |
+| 1028 | 2262 | 339 | Thursday | 1031 | 273 |
+| 1029 | 2263 | 339 | Friday | 1032 | 274 |
+| 1030 | 2264 | 339 | Saturday | 1033 | 275 |
+| 1031 | 2268 | 340 | Wednesday | 1034 | 276 |
+| 1032 | 2269 | 340 | Thursday | 1035 | 277 |
+| 1033 | 2271 | 340 | Saturday | 1036 | 278 |
+| 1034 | 2272 | 340 | Sunday | 1037 | 279 |
+| 1035 | 2274 | 341 | Tuesday | 1038 | 280 |
+| 1036 | 2275 | 341 | Wednesday | 1039 | 281 |
+| 1037 | 2277 | 341 | Friday | 1040 | 282 |
+| 1038 | 2278 | 341 | Saturday | 1041 | 283 |
+| 1039 | 2280 | 342 | Monday | 1042 | 284 |
+| 1040 | 2281 | 342 | Tuesday | 1043 | 285 |
+| 1041 | 2285 | 342 | Saturday | 1044 | 286 |
+| 1042 | 2286 | 342 | Sunday | 1045 | 287 |
+| 1043 | 2288 | 343 | Tuesday | 1046 | 288 |
+| 1044 | 2289 | 343 | Wednesday | 1047 | 289 |
+| 1045 | 2291 | 343 | Friday | 1048 | 290 |
+| 1046 | 2292 | 343 | Saturday | 1049 | 291 |
+| 1047 | 2294 | 344 | Monday | 1050 | 292 |
+| 1048 | 2296 | 344 | Wednesday | 1051 | 293 |
+| 1049 | 2297 | 344 | Thursday | 1052 | 294 |
+| 1050 | 2298 | 344 | Friday | 1053 | 295 |
+| 1051 | 2301 | 345 | Monday | 1054 | 296 |
+| 1052 | 2303 | 345 | Wednesday | 1055 | 297 |
+| 1053 | 2305 | 345 | Friday | 1056 | 298 |
+| 1054 | 2307 | 345 | Sunday | 1057 | 299 |
+| 1055 | 2310 | 346 | Wednesday | 1058 | 300 |
+| 1056 | 2313 | 346 | Saturday | 1059 | 301 |
+| 1057 | 2316 | 347 | Tuesday | 1060 | 302 |
+| 1058 | 2319 | 347 | Friday | 1061 | 303 |
+| 1059 | 2322 | 348 | Monday | 1062 | 304 |
+| 1060 | 2324 | 348 | Wednesday | 1063 | 305 |
+
+**Chapters per week: 333 six, 334 four, 335 four, 336 four, 337 three, 338 four, 339 five, 340 four, 341 four, 342 four, 343 four, 344 four, 345 four, 346 two, 347 two, 348 two; 6 + 4 + 4 + 4 + 3 + 4 + 5 + 4 + 4 + 4 + 4 + 4 + 4 + 2 + 2 + 2 = 60.** Six inclusive spans 12, 15, 15, 14, 14 and 24 sum to 94; thirty-four chapterless days inside them; fourteen clear days between the movements (three, four, two, three, two); 34 + 14 = 48, 48 + 60 = 108, and 2324 − 2217 = 107 as a difference. **The six Sundays are Chapters 1006, 1014, 1021, 1034, 1042 and 1054, one per movement, and the detector returns Sunday on those six and on no other of the sixty.**
+
+### 9.2 THE WORD TABLE FOR ALL SIXTY FILES, WITH A SUM TEST ON EVERY ROW
+
+| Chapter | Body | Apparatus | Whole | Sums |
+| --- | --- | --- | --- | --- |
+| 1001 | 1706 | 1051 | 2757 | yes |
+| 1002 | 1347 | 1022 | 2369 | yes |
+| 1003 | 1479 | 1040 | 2519 | yes |
+| 1004 | 1309 | 1008 | 2317 | yes |
+| 1005 | 1285 | 1024 | 2309 | yes |
+| 1006 | 1132 | 1080 | 2212 | yes |
+| 1007 | 1361 | 997 | 2358 | yes |
+| 1008 | 1301 | 997 | 2298 | yes |
+| 1009 | 1749 | 1055 | 2804 | yes |
+| 1010 | 1331 | 1044 | 2375 | yes |
+| 1011 | 2390 | 1024 | 3414 | yes |
+| 1012 | 2424 | 1035 | 3459 | yes |
+| 1013 | 2228 | 1069 | 3297 | yes |
+| 1014 | 1541 | 1061 | 2602 | yes |
+| 1015 | 1785 | 1060 | 2845 | yes |
+| 1016 | 1574 | 1091 | 2665 | yes |
+| 1017 | 1969 | 1034 | 3003 | yes |
+| 1018 | 1234 | 1044 | 2278 | yes |
+| 1019 | 2232 | 1068 | 3300 | yes |
+| 1020 | 1864 | 1083 | 2947 | yes |
+| 1021 | 1789 | 1144 | 2933 | yes |
+| 1022 | 1554 | 1109 | 2663 | yes |
+| 1023 | 1729 | 1087 | 2816 | yes |
+| 1024 | 1505 | 1077 | 2582 | yes |
+| 1025 | 1243 | 1107 | 2350 | yes |
+| 1026 | 1628 | 1108 | 2736 | yes |
+| 1027 | 1545 | 1075 | 2620 | yes |
+| 1028 | 1259 | 1098 | 2357 | yes |
+| 1029 | 1255 | 1092 | 2347 | yes |
+| 1030 | 1827 | 1134 | 2961 | yes |
+| 1031 | 1319 | 1104 | 2423 | yes |
+| 1032 | 1326 | 1138 | 2464 | yes |
+| 1033 | 1165 | 1109 | 2274 | yes |
+| 1034 | 1291 | 1113 | 2404 | yes |
+| 1035 | 1314 | 1108 | 2422 | yes |
+| 1036 | 1295 | 1111 | 2406 | yes |
+| 1037 | 1277 | 1121 | 2398 | yes |
+| 1038 | 1535 | 1119 | 2654 | yes |
+| 1039 | 1289 | 1132 | 2421 | yes |
+| 1040 | 1595 | 1142 | 2737 | yes |
+| 1041 | 1274 | 1152 | 2426 | yes |
+| 1042 | 1175 | 1154 | 2329 | yes |
+| 1043 | 1294 | 1135 | 2429 | yes |
+| 1044 | 1236 | 1167 | 2403 | yes |
+| 1045 | 1269 | 1161 | 2430 | yes |
+| 1046 | 1419 | 1199 | 2618 | yes |
+| 1047 | 1397 | 1180 | 2577 | yes |
+| 1048 | 1239 | 1222 | 2461 | yes |
+| 1049 | 1564 | 1177 | 2741 | yes |
+| 1050 | 1403 | 1210 | 2613 | yes |
+| 1051 | 1325 | 1178 | 2503 | yes |
+| 1052 | 1358 | 1210 | 2568 | yes |
+| 1053 | 1570 | 1178 | 2748 | yes |
+| 1054 | 1313 | 1180 | 2493 | yes |
+| 1055 | 1556 | 1196 | 2752 | yes |
+| 1056 | 1433 | 1193 | 2626 | yes |
+| 1057 | 1498 | 1264 | 2762 | yes |
+| 1058 | 1523 | 1222 | 2745 | yes |
+| 1059 | 1409 | 1242 | 2651 | yes |
+| 1060 | 2139 | 1360 | 3499 | yes |
+| **Total** | **90,375** | **67,095** | **157,470** | **90,375 + 67,095 = 157,470, and the sixty rows sum to the total** |
+
+**Apparatus share 426.08 per thousand of the whole file. Nothing in either column is counted twice and no row is a copy of another. Chapter 1060 is the longest page in the volume by six hundred and fifty-one tokens; it is the only page that carries the accounting and the final image together.**
+
+**THE SIX MOVEMENTS' PUBLISHED FIGURES BESIDE THE SIXTY-FILE FIGURE, SIDE BY SIDE, WHICH IS THE TABLE FOUR WRONG COLUMNS WERE MISSING.** Published body / apparatus / whole against this instrument's re-measurement of the same ten files, then the sixty-file totals of each:
+
+| Movement | Published | Re-measured | Delta body / app / whole |
+| --- | --- | --- | --- |
+| I | 14,000 / 10,318 / 24,318 | 14,000 / 10,318 / 24,318 | 0 / 0 / 0 |
+| II | 19,239 / 10,569 / 29,808 | 19,241 / 10,569 / 29,810 | +2 / 0 / +2, the recorded stale body table |
+| III | 15,317 / 11,031 / 26,348 | 15,334 / 11,031 / 26,365 | +17 / 0 / +17, the recorded stale body table |
+| IV | 13,406 / 11,197 / 24,603 | 13,406 / 11,197 / 24,603 | 0 / 0 / 0 |
+| V | 13,270 / 11,597 / 24,867 | 13,270 / 11,757 / 25,027 | 0 / +160 / +160, sixteen per file on all ten, §9.0.1 settled |
+| VI | 15,112 / 12,193 / 27,305 | 15,124 / 12,223 / 27,347 | +12 / +30 / +42, on Chapters 1051–1055 only; 1056–1060 reproduce to the digit |
+| **Sixty, published sums** | **90,344 / 66,905 / 157,249** | — | — |
+| **Sixty, measured** | — | **90,375 / 67,095 / 157,470** | **+31 / +190 / +221, every unit of it in the three rows above** |
+
+**Fifty of the sixty files reproduce their movement's published row to the digit. The other ten are all accounted for: two stale body columns published before their own repairs, one apparatus column one hundred and sixty low, and five Movement VI files whose bodies were re-shaped after their table was written. No repair moves any of them; findings go here and the repair is a separate decision.**
+
+### 9.3 THE `about` RATES, ALL THREE CASE CONVENTIONS, DENOMINATOR BESIDE EVERY ROW
+
+**Case-sensitive counts lowercase `about` only; case-insensitive counts both forms; capital-form-only counts sentence-initial `About` only. PPOOL is the concatenated sixty counted once; PFILE is the mean of the sixty per-file rates.**
+
+| Scope | Convention | Hits | Denominator | Pooled per thousand | File-scope per thousand |
+| --- | --- | --- | --- | --- | --- |
+| body | case-sensitive | 2,637 | 90,375 | 29.18 | 28.89 |
+| body | case-insensitive | 2,650 | 90,375 | 29.32 | 29.05 |
+| body | capital-form-only | 13 | 90,375 | 0.14 | 0.16 |
+| apparatus | case-sensitive | 543 | 67,095 | 8.09 | 8.00 |
+| apparatus | case-insensitive | 550 | 67,095 | 8.20 | 8.09 |
+| apparatus | capital-form-only | 7 | 67,095 | 0.10 | 0.10 |
+| whole file | case-sensitive | 3,180 | 157,470 | 20.19 | 19.99 |
+| whole file | case-insensitive | 3,200 | 157,470 | 20.32 | 20.12 |
+| whole file | capital-form-only | 20 | 157,470 | 0.13 | 0.13 |
+
+**Per file, whole-file scope, case-sensitive / case-insensitive / capital-form / denominator / case-insensitive rate:**
+
+1001 52/52/0/2757/18.86; 1002 19/19/0/2369/8.02; 1003 61/61/0/2519/24.22; 1004 43/43/0/2317/18.56; 1005 33/33/0/2309/14.29; 1006 51/53/2/2212/23.96; 1007 43/43/0/2358/18.24; 1008 39/39/0/2298/16.97; 1009 68/68/0/2804/24.25; 1010 42/42/0/2375/17.68; 1011 80/80/0/3414/23.43; 1012 79/79/0/3459/22.84; 1013 80/80/0/3297/24.26; 1014 71/71/0/2602/27.29; 1015 75/75/0/2845/26.36; 1016 65/65/0/2665/24.39; 1017 69/70/1/3003/23.31; 1018 59/61/2/2278/26.78; 1019 81/81/0/3300/24.55; 1020 71/71/0/2947/24.09; 1021 68/68/0/2933/23.18; 1022 50/50/0/2663/18.78; 1023 53/53/0/2816/18.82; 1024 51/52/1/2582/20.14; 1025 29/29/0/2350/12.34; 1026 61/61/0/2736/22.30; 1027 61/61/0/2620/23.28; 1028 42/42/0/2357/17.82; 1029 35/35/0/2347/14.91; 1030 65/65/0/2961/21.95; 1031 36/36/0/2423/14.86; 1032 44/45/1/2464/18.26; 1033 20/20/0/2274/8.80; 1034 62/63/1/2404/26.21; 1035 32/33/1/2422/13.63; 1036 47/47/0/2406/19.53; 1037 55/55/0/2398/22.94; 1038 45/45/0/2654/16.96; 1039 51/52/1/2421/21.48; 1040 53/53/0/2737/19.36; 1041 37/37/0/2426/15.25; 1042 48/49/1/2329/21.04; 1043 39/39/0/2429/16.06; 1044 52/52/0/2403/21.64; 1045 48/48/0/2430/19.75; 1046 55/55/0/2618/21.01; 1047 48/48/0/2577/18.63; 1048 52/55/3/2461/22.35; 1049 68/68/0/2741/24.81; 1050 47/47/0/2613/17.99; 1051 44/44/0/2503/17.58; 1052 51/51/0/2568/19.86; 1053 49/49/0/2748/17.83; 1054 54/55/1/2493/22.06; 1055 45/45/0/2752/16.35; 1056 59/60/1/2626/22.85; 1057 54/54/0/2762/19.55; 1058 50/50/0/2745/18.21; 1059 60/61/1/2651/23.01; 1060 79/82/3/3499/23.44.
+
+**WHETHER NINETEEN IS THE TARGET IS SETTLED AS FAR AS A CLOSE CAN SETTLE IT.** Nineteen stands named as the standing target in all six movement prompts, and the sixty-file figure is twenty and thirty-two hundredths pooled and twenty and twelve hundredths at file scope, case-insensitively, above it on either denominator (over the published-denominator sum the same numerator comes to twenty and thirty hundredths). The close does not revise the target, does not rank the movements against it, and does not run any substitution: the word does three jobs in this manuscript — the uncertainty register, the designation idiom, and the clock register — and the sixty-file figure is published with the per-file table so that a later pass can see which pages carry it.
+
+### 9.4 GUARDRAIL THREE AS `outline/volume-20.md` WRITES IT, EIGHTEEN CELLS AND THE FLAT TEST
+
+**Whole normalised sentence as key, lowercased, floor twelve tokens. Pair-hits count file pairs sharing a key; shared keys count distinct keys held by two or more files.**
+
+| Scope | Paragraph rule | Convention | Segments | Distinct | Pair-hits | Shared keys |
+| --- | --- | --- | --- | --- | --- | --- |
+| prose | breaks KEPT | strict | 2,781 | 2,773 | 6 | 4 |
+| prose | breaks KEPT | quotation-state | 2,311 | 2,303 | 6 | 4 |
+| prose | breaks KEPT | any-quote | 2,311 | 2,303 | 6 | 4 |
+| prose | breaks DROPPED | strict | 2,790 | 2,782 | 6 | 4 |
+| prose | breaks DROPPED | quotation-state | 2,320 | 2,312 | 6 | 4 |
+| prose | breaks DROPPED | any-quote | 2,320 | 2,312 | 6 | 4 |
+| apparatus | breaks KEPT | strict | 978 | 964 | 12 | 14 |
+| apparatus | breaks KEPT | quotation-state | 978 | 964 | 12 | 14 |
+| apparatus | breaks KEPT | any-quote | 978 | 964 | 12 | 14 |
+| apparatus | breaks DROPPED | strict | 978 | 964 | 12 | 14 |
+| apparatus | breaks DROPPED | quotation-state | 978 | 964 | 12 | 14 |
+| apparatus | breaks DROPPED | any-quote | 978 | 964 | 12 | 14 |
+| whole file | breaks KEPT | strict | 3,759 | 3,736 | 17 | 18 |
+| whole file | breaks KEPT | quotation-state | 3,289 | 3,266 | 17 | 18 |
+| whole file | breaks KEPT | any-quote | 3,289 | 3,266 | 17 | 18 |
+| whole file | breaks DROPPED | strict | 3,768 | 3,745 | 17 | 18 |
+| whole file | breaks DROPPED | quotation-state | 3,298 | 3,275 | 17 | 18 |
+| whole file | breaks DROPPED | any-quote | 3,298 | 3,275 | 17 | 18 |
+
+**The flat whole-file test, one key compared across all sixty files at once, returns eighteen shared keys.** Every one of the eighteen stands on files of two different movements; no movement shares a key within its own ten. The six published ten-file zeroes are therefore true of ten files and blind at sixty, which is the fourth thing this repository has paid for measuring at movement scope. The eighteen, in full: prose — one work sentence on Chapters 1010, 1014 and 1025; one Tuesday caller line on 1011 and 1022; one printer's fragment on 1030 and 1031; one man's sentence on 1038 and 1047. Apparatus, fourteen — seven card wordings (1003 with 1016; 1001 with 1017; 1020 with 1021; 1015 with 1023; 1030 with 1033; 1019 with 1034; 1044 with 1058); two dated-rule sentences (1011 with 1022; 1020 with 1021); three ten-objects framings (1009 with 1015; 1012 with 1037; 1020 with 1021); one dark-room condition (1006 with 1014); one book line (1010 with 1024). **All eighteen are identical sentences, all are cross-movement, and none is repaired here: the prose four are repairable-class and the apparatus fourteen are structural, the same standing facts reworded per movement with seven card wordings recurring exactly.**
+
+### 9.5 THE DUPLICATION MEASURE, BOTH KEYS BESIDE EVERY CELL, PROXY PAIR-HITS TRACED AND CLASSIFIED
+
+**The plan's key is §9.4. The last-twelve-token proxy takes the last twelve tokens of every qualifying sentence, lowercased. Proxy pair-hits and shared keys beside every cell:**
+
+| Scope | Paragraph rule | Convention | Proxy distinct | Proxy pair-hits | Proxy shared keys |
+| --- | --- | --- | --- | --- | --- |
+| prose | breaks KEPT | strict | 2,736 | 72 | 27 |
+| prose | breaks KEPT | quotation-state | 2,269 | 69 | 24 |
+| prose | breaks KEPT | any-quote | 2,269 | 69 | 24 |
+| prose | breaks DROPPED | strict | 2,745 | 72 | 27 |
+| prose | breaks DROPPED | quotation-state | 2,278 | 69 | 24 |
+| prose | breaks DROPPED | any-quote | 2,278 | 69 | 24 |
+| apparatus | breaks KEPT | strict | 884 | 178 | 56 |
+| apparatus | breaks KEPT | quotation-state | 884 | 178 | 56 |
+| apparatus | breaks KEPT | any-quote | 884 | 178 | 56 |
+| apparatus | breaks DROPPED | strict | 884 | 178 | 56 |
+| apparatus | breaks DROPPED | quotation-state | 884 | 178 | 56 |
+| apparatus | breaks DROPPED | any-quote | 884 | 178 | 56 |
+| whole file | breaks KEPT | strict | 3,619 | 223 | 82 |
+| whole file | breaks KEPT | quotation-state | 3,152 | 220 | 79 |
+| whole file | breaks KEPT | any-quote | 3,152 | 220 | 79 |
+| whole file | breaks DROPPED | strict | 3,628 | 223 | 82 |
+| whole file | breaks DROPPED | quotation-state | 3,161 | 220 | 79 |
+| whole file | breaks DROPPED | any-quote | 3,161 | 220 | 79 |
+
+**Every one of the eighty-two proxy shared keys is traced in `workspace/volume-20/close/CLOSE.md` §4 to its files and classified: arithmetic (docket-figure tails recurring by the origin set), structural (the house's standing conditions, lists and time language, the same on every page by guardrail), or repairable-class prose standing on closed pages. The proxy manufactures hits out of arithmetic on docket-bearing pages by construction — the last twelve tokens of a docket row are the figure and nothing else — and a pass that wants zero on it is asking for anchor figures that never collide, which is arithmetic and not prose.**
+
+### 9.6 THE STANDING ANCHORS AS A SCOPE OF ITS OWN
+
+**Sixteen origins, unchanged from Volume 19 and continuous with Chapter 1000's docket at day 2212: 362, 358, 442, 491, 526, 547, 572, 590, 644, 666, 672, 729, 756, 796, 814 and 982. Nine hundred and sixty origins-against-pages assertions, nine hundred and sixty self-consistency tests (day figure equals seven times weeks plus remainder), nine hundred and sixty own-day agreements: 960 of 960, 960 of 960, 960 of 960.** Exact-week rows per file (anchors whose interval is a whole number of weeks), Chapters 1001 to 1060 in order: 3, 0, 3, 7, 3, 0, 3, 0, 7, 3, 0, 3, 3, 0, 3, 3, 3, 0, 3, 0, 0, 0, 3, 3, 0, 3, 3, 7, 3, 0, 3, 7, 0, 0, 0, 3, 3, 0, 3, 0, 0, 0, 0, 3, 3, 0, 3, 3, 7, 3, 3, 3, 3, 0, 3, 0, 0, 3, 3, 3.
+
+**The three short-run anchors, derived from the day and read back off all sixty pages: the sheet `day − 2189`, the second printing `day − 2203`, the thing said at a counter `day − 2212`.** One hundred and seventy-nine of one hundred and eighty stated figures agree with derivation. The five wording variants are: Chapter 1001 carries the second printing as a fortnight old; 1002 carries the third as in mouths for six days; 1003 as seven days into mouths; 1054 carries the sheet as days of sheets rather than days old; and Chapter 1004 states no age for the third anchor at all, which is the one genuinely absent cell and is a fact about that page and not a defect in it. **The sheet-night run is `day − 2150`, a count of nights and not a chapter index, and the sixty-row run is 67, 68, 69, 70, 71, 73, 74, 75, 77, 78, 82, 83, 85, 87, 88, 90, 92, 93, 95, 96, 101, 103, 104, 106, 107, 109, 111, 112, 113, 114, 118, 119, 121, 122, 124, 125, 127, 128, 130, 131, 135, 136, 138, 139, 141, 142, 144, 146, 147, 148, 151, 153, 155, 157, 160, 163, 166, 169, 172, 174.** Fifty-nine pages state their night and all fifty-nine stated nights were read back; Chapters 1006 to 1010 carry the chapter-stepped run 72, 73, 74, 75, 76 against derived 73, 74, 75, 77, 78, which is Movement I's known disagreement at the joins, named and not smoothed; Chapter 1060 carries no night line, the copy being a shop object and the last page standing in the depot. **The place behind the woman's chair is named on Chapters 1003, 1015, 1023, 1040, 1046 and 1054, one file per movement, and carries its printed figure on Chapter 1003 alone.** Its interval reads to the day on twelve chapter-carrying days (1003, 1012, 1016, 1023, 1027, 1031, 1036, 1044, 1048, 1052, 1055, 1060) and on four chapterless days (2226, 2247, 2282, 2317); of the six naming files only 1023 is itself such a day, and it carries no figure, which is the trap the plan warns of, working as built.
+
+### 9.7 THE SUBSTRING COINCIDENCES, RE-RUN AT SIXTY FILES AND REPORTED AS ONE COUNT
+
+**The rendered string of a forbidden figure appearing as the tail of a longer anchor numeral on another page, both pages in the sixty, ordered pairs of distinct pages: two hundred and eighteen in all, one hundred and twenty-nine of the woman's-page kind and eighty-nine of the place-interval kind.** With both pages inside one movement: I eleven, II seven, III eight, IV eight, V eight, VI three, forty-six in all. **Verdicts on the published movement counts: Movement V's eight reproduces exactly (five and three); Movement VI's three reproduces exactly (two and one); Movement IV's seventeen does not — its fourteen of the first kind reproduce only under a looser anywhere-substring rule (fourteen), while under the tail rule the file's own mechanism describes, those ten pages carry eight (five and three).** No page prints the figure of the thing it belongs to, and repairing any coincidence would mean printing a wrong anchor figure, which is the refusal this repository has recorded twice and records a third time here.
+
+### 9.8 THE NEAR-CLONE INSTRUMENT, TOKEN-BIGRAM JACCARD, AT TEN FILES AND AT SIXTY
+
+**Order-sensitive token-bigram Jaccard over the conditions section, the standing-record section, the ten-objects block, the six-objects sentence and the dated-rule sentence, extraction rules printed in `close/CLOSE.md` §5. Maximum pair, which pair, and mean over all pairs:**
+
+| Block | Sixty-file max | Which pair | Sixty-file mean | Movement VI max | Movement VI pair | Movement VI mean |
+| --- | --- | --- | --- | --- | --- | --- |
+| conditions section | 0.651 | 1009 / 1010 | 0.344 | 0.520 | 1057 / 1059 | 0.356 |
+| standing-record section | 0.652 | 1020 / 1021 | 0.351 | 0.510 | 1054 / 1058 | 0.377 |
+| ten-objects block | 0.787 | 1049 / 1050 | 0.315 | 0.639 | 1054 / 1058 | 0.374 |
+| six-objects sentence | 1.000 | 1004 / 1007 | 0.388 | 0.863 | 1054 / 1060 | 0.608 |
+| dated-rule sentence | 1.000 | 1011 / 1022 | 0.226 | 0.774 | 1057 / 1058 | 0.376 |
+
+**The ten objects and the four standing conditions are the same on every page by guardrail, so the set-based figure on them is uninformative and the order-sensitive figure above is the one that means anything; it measures what fixed vocabulary costs, and the two 1.000 pairs are identical single sentences (the six-objects framing inside Movement I, one dated-rule sentence across Movements II and III) standing on closed pages. The Movement VI means corroborate `batch-0006/SUMMARY.md` §6.2 within extraction tolerance (0.356/0.377/0.374/0.608/0.376 against 0.349/0.383/0.421/0.343/0.177 on differently cut blocks), and the sixty-file maxima are new.**
+
+### 9.9 THE NINE UNREPAIRED NUMBER-WORD TITLES, AND THE ONE MORE IN THIS VOLUME
+
+**Across Chapters 941 to 1030 the nine stand exactly as `batch-0006/SUMMARY.md` §14's closing record lists them: 947 *A Sixth Column Is Offered*, 952 *Four People In Her Head*, 956 *The Second Name*, 961 *Two Copies Of One Pencil Line*, 963 *She Came Back At Nine*, 964 *A Sixth Column On Somebody Else's Form*, 966 *Four Names On The Back Of A Card*, 969 *Two Sheets In One Tray*, and 1011 *The Woman Who Said It First*.** Five carry cardinals (Two twice, Nine, Four twice) and four carry ordinals (Sixth twice, Second, First), and a title carrying an ordinal breaks the rule in fact and not only on paper, because the rule forbids number-words and an ordinal is one. **This close does not repair them.** Of this volume's sixty titles, 1011 is the only one carrying a number-word and 1005 (*He Wrote It And Could Not Finish*) the only one carrying `And`, the latter recorded as unsettled between two wordings of the rule at `batch-0001/SUMMARY.md` §10A and still unsettled here; 1008's and 1012's were repaired in their own movements and stay repaired.
+
+### 9.10 THE THREE THINGS THE VOLUME 19 CLOSE COULD NOT REPAIR, MEASURED AND NOT INHERITED
+
+*One:* `workspace/volume-19/batch-0005/chapter-0989.md:186`, the END line carrying `THE BOOK SHUTS`, still remarks on the pattern its guardrail ten forbids any page to remark on; verified present, the only such tag on those sixty pages, and repairing it moves that page's word count and every denominator built on it. *Two:* the eight prose keys at `workspace/volume-19/close/CLOSE.md` §4 — seven verified letter-perfect on both named files, the eighth (944 with 953) verified modulo the page's comma, all eight still standing across Movements I, II, V and VI of that volume. *Three:* whole-word `right` returns thirteen hits on four files of Volume 19 (942, 943, 946, 947), nine of them predicative (`is right`, `was right`, `have been right`) against the two attributive `right-hand` uses; all four files still carry them. **None of the three is inherited as fact, none is repaired here, and repairing any of them moves a denominator.**
+
+### 9.11 THE GUARDRAIL-BY-GUARDRAIL SWEEP AT SIXTY FILES
+
+**Fifteen guardrails of `outline/volume-20.md`, one table, measured at the H1-removed boundary:**
+
+| Guardrail | Result at sixty files |
+| --- | --- |
+| 1. refusals in about nine words; the one answer in about eleven | `about nine words` on 22 files, 45 occurrences, the house form; `about eleven words` on Chapters 1016, 1019 and 1058, three spends of the reserve, §9.13 |
+| 2. opening bold paragraph forty to seventy-five words, no figure, no outcome, nothing said elsewhere | all sixty inside the band (lowest 42, highest 74); spelled-out figures stand in several openings and no digit stands in any |
+| 3. no sentence of twelve words or more on two files | §9.4: eighteen shared keys, all cross-movement; zero within any movement |
+| 4. no month-name, month-date, day-date, year, day number, mileage; intervals in words; exact weeks take `to the day` | month-names zero; month-dates zero; years zero; mileage zero; colon clock times zero; four-digit figures 63 distinct, 240 occurrences, exactly chapters 1001–1063 with four per file and no interval in digits; week figures 333–348 only |
+| 5. no telephone, messenger, broadcast, feed, carried letter, in any register or negation | telephone, phone, messenger, broadcast, feed, letter, mail, postage all zero; `letterbox` thrice on Chapter 1013, a flex through a plate and not a letter arriving |
+| 6. shutter at about ten on fifty-four, at about two on the six Sundays | §9.11.1: six Sundays about-two, fifty-four ten-form, no cross either way |
+| 7. the woman of about thirty unnamed, uncounted, unasked | no name, no count, no question; never in a room with the woman of about thirty-nine |
+| 8. ninth chair unmoved; place named on one file per movement, figure on 1003 alone | chair unmoved on all sixty, mover named nowhere; named on 1003, 1015, 1023, 1040, 1046, 1054; figure on 1003 alone |
+| 9. room under the building dark on all sixty, never opened | dark on all sixty, opened on none |
+| 10. no Exchange figure; book opens 73rd/75th, shuts 74th/76th; no remark on the pattern | no sitting number, no book or tin figure, no difference, no remark; the END tag of Chapter 989's volume is not this volume's |
+| 11. `Crown` only in four named forms; Crown Terrace a place | `Crown` zero on all sixty, in any form; the final image takes the house form |
+| 12. ten objects one to a sentence; the card the new one | ten present on all sixty, one to a sentence, in sixty wordings; six outside the ten on all sixty |
+| 13. `Evan Senn` zero | `Evan` zero, `Senn` zero |
+| 14. register at four, printed, never a fifth | four on all sixty, in each file's own words, added to by nothing |
+| 15. load book reports no prohibited absence; standard heading sixty times | kept sixty times, subject the day's work |
+
+**§9.11.1 THE SHUTTER.** About-two shutter language on Chapters 1006, 1014, 1021, 1034, 1042 and 1054 and on no other file; ten-form shutter or book-shut language on the other fifty-four and the six Sundays' surrounding days; no file carries the other's form. **Forbidden words, exact patterns printed beside every result:** `fair`, `unfair`, `justice`, `rightful`, `principle`, `coalition` and relatives zero on all sixty; `right` in any use zero on all sixty; bare `purpose` thrice (twice adverbial *on purpose* on Chapter 1003, once the denial *it was not a purpose* on Chapter 1009, which also prints the volume's coined subject inside a denial and is named at §9.13 rather than repaired); `Evan`, `Senn` zero; placed cast `Rafi`, `Pell`, `Dessa`, `Kwan`, `Oren`, `Vey`, `Iven`, `Sore`, `Lena` zero on all sixty, and no page was invented for any of them. **Month sweep, twelve whole-word stems:** eleven return zero; `may` returns forty-seven hits on forty-two files, every one the modal verb (two shown: the dated-rule *may read* and the permission *may write*), and no file carries a month-name. **Communication words** in every register and negation zero throughout, `letterbox` excepted as above. **`screen` zero on all sixty files of this volume; `screening` zero on all sixty and on all one thousand and sixty files on disk.** `Iona Sorn` on no page of this volume. **Sitting numbers, book figures, tin figures, differences: zero. Arrival cells: absent and not approximated. `not a purpose`: once, Chapter 1009, inside a denial.**
+
+### 9.12 THE SIX OWNER ITEMS, ALL UNRULED, AT VOLUME SCOPE
+
+| Item | At Chapter 1001 | At Chapter 1060 | This phase proposes |
+| --- | --- | --- | --- |
+| 1. plan against disk | plan 760 in 15; disk 1,000 in 20 | plan 760 in 15; disk 1,060 in 20 | nothing |
+| 2. support-spend overage at three readings | untouched | untouched | nothing |
+| 3. placed cast of five names | zero on every page so far | zero on all sixty | nothing |
+| 4. plan's phrase on Chapter 933 | untouched | untouched | nothing |
+| 5. fifth column's heading, two items and not one | blank with three refusals behind it | blank with a rule under it, refused as an answer on the page | nothing |
+| 6. ombud's office used on him; whether 760, 1000 or 1060 is the ending | zero uses in every movement of this volume | zero uses in all six movements; the ending undecided | nothing |
+
+### 9.13 TWO DECISIONS SETTLED OUT LOUD, RECORDED AND NOT REVERSED, AND ONE LEFT UNSETTLED
+
+**The word `right`:** `outline/volume-20.md` lines 96 and 100 prescribe Marek's climax sentence with *right*; line 124 forbids the word as an adjective on all sixty pages. The volume prints no use of the word on any of its sixty pages, and Chapter 1057 carries the sentence as *he may stay and he does not have to answer it, and I do not know whether that is the answer.* Recorded; reversing it changes one word on one closed page and is not this phase's to do. **`The Crown Vault`:** `outline/ending.md` line 160 ends *the old Crown Vault remains dark*; guardrail eleven permits the form; Movements I to V place the word at zero and Movement VI at zero, Chapter 1060 taking the house form *the old room under the building is dark*. Recorded; not reversed. **`about eleven words`:** spent on Chapters 1016, 1019 and 1058 against a reserve the volume meant for its one answer. The movement that spent it last printed both readings — a count describing the sentence is describing and not stating; a count is a frame and this volume refused frames — and recorded the disagreement. **This close records the disagreement as unsettled at volume scope: three spends, no page stating what the room is for, no page agreeing with the answer and none repeating one word of it, and either reading writable only by touching a closed page.**
+
+### 9.14 WHAT WAS FOUND AND NOT REPAIRED, AND WHAT WAS NOT SPENT
+
+**Found and not repaired:** the Movement V apparatus column (160 low, §9.2); Movement II and III stale body columns (+2, +17); Movement VI Tables on 1051–1055 (+12/+30 and lead-ins); eighteen cross-movement shared sentences; eighty-two proxy pair-hits; two hundred and eighteen substring coincidences; the chapter-stepped nights on 1006–1010; the absent night on 1060 and the absent third age on 1004; the nine titles and the `And` of 1005; Chapter 1009's denial; the three Volume 19 items; the sentence-scope instrument divergence. **Every repair moves a denominator already published in six movement summaries, so every finding stands as a finding and the repair is a separate decision.** Not spent, on any of the sixty pages: the woman's page (no figure, no range, at any day); the four arrival cells; the fifth of the register; any Exchange figure or difference; any comparison of two hand copies; the fifth column's heading; the plan's phrase on Chapter 933; the ombud's office as used on him in Volume 18; the question of the ending; and Iona Sorn, who is on no page of this volume. **The fifteen guardrails hold on all sixty files with the two recorded readings left reading.**
+
+**Sixty files, one hundred and fifty-seven thousand four hundred and seventy words, three thousand two hundred hedges, nine hundred and sixty anchor rows all rendering, eighteen shared sentences all across movements, and no new enemy. The volume is measured.**
