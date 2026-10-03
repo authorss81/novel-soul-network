@@ -22,7 +22,7 @@ Marek said: you said it in that room.
 
 She said: **I know I said it in that room. I want to hear it in another voice before I go home because I have started to think I made it up.**
 
-**About nine seconds went by at that counter, and about four people in that room have said since that the last caller of that morning had gone out about ten minutes before and that the shop was empty and that neither of them said anything for the length of it.**
+**About nine seconds went by at that counter, and the last caller of that morning had gone out about ten minutes before, and the shop was empty, and neither of them said anything for the length of it.**
 
 Marek said: no.
 
@@ -52,7 +52,7 @@ Marek said: how do you know that.
 
 The woman of about sixty-two said: **because my son came and told me on a Thursday that there are three of them, and he did not say which three, and he has never told me anything in his life without being asked twice.**
 
-**About four people in that room have said since that she said that last part to the counter and not to him, and that her hands were in her coat pockets throughout, and that they were the only part of her he could see.**
+**She said that last part to the counter and not to him. Her hands were in her coat pockets throughout, and they were the only part of her he could see.**
 
 Marek said: you could ask him.
 
@@ -86,7 +86,7 @@ Marek said: you do not know what it is.
 
 The woman of about sixty-two said: **it is whether I said it in that room or in that corridor, and if I said it in that corridor then it happened four years ago and there is nothing in this city anybody can do about it, and if I said it in that room then it is about nine days old and there is still nothing anybody can do about it.** And she said: **both of those are nothing and you would not have got a different one out of me.**
 
-**Nobody thanked that woman on that Sunday and nobody forgave anybody and about four people in that room have said since that she was out of that door inside about four minutes of saying that and that she did not put her coat down on her way out and that nobody offered to.**
+**Nobody thanked that woman on that Sunday and nobody forgave anybody and she was out of that door inside about four minutes of saying that, and she did not put her coat down on her way out, and nobody offered to.**
 
 ---
 
@@ -94,9 +94,9 @@ The woman of about sixty-two said: **it is whether I said it in that room or in 
 
 A light on that shop counter had been put in behind the till so that the till was lit from behind and the front of the counter was not lit at all.
 
-She brought the fitting out in front of the till and proved it at the counter.
+She brought the fitting out in front of the till and stood where the counter stands to see what the till had thrown.
 
-"**Nine pounds,**" she said. "**A light behind a till is a light on the money and not on the counting. Four of those fittings in that row are behind something, and one of them has been a counter somebody has bent over for four years.**"
+"**Nine pounds,**" she said. "**A light behind a till is a light on the money and not on the counting. Four of those fittings are behind something. One of them is a counter somebody has bent over, and it has been four years.**"
 
 A bell push in that passage had been wired with no return at the push, so that the whole of the supply was at the button.
 
@@ -106,9 +106,9 @@ He put a return in at the push and proved it with a lamp.
 
 A socket in that flat had been put in on a skirting board with the earth taken off the board, so that the plate had no earth at all.
 
-She earthed it off the box and proved the plate with a tester.
+She earthed it off the box and made the plate dead with a tester before she put the skirting back.
 
-"**Eight pounds,**" she said. "**A plate with no earth on a skirting is a plate on a piece of wood. Four of those plates in that block are like it, and one of them has been a hall somebody has been careful with for four years.**"
+"**Eight pounds,**" she said. "**A plate with no earth on a skirting is a plate on a piece of wood. That is four of those plates in that block, all like it, and one of them is a hall somebody has been careful with for four years.**"
 
 A switch in that flat had been put in over a joist with the box set at an angle, so that the plate stood proud of the wall by about the width of a coin.
 

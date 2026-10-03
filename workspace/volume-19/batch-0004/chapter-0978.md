@@ -20,11 +20,11 @@ The man of about thirty-three said: it is her son's fault.
 
 The woman of about fifty-four said: **it is nobody's fault. That is what a fault is for, and I have said that to two men in six years and it is the only sentence I have that has ever been any use.**
 
-**Neither of them said anything for a count of about nine, and about four people who sit in that room have said since that they counted the chairs twice that afternoon and that the count came to nine both times, and that nobody in that room was doing the count who was there for anything.**
+**Neither of them said anything for a count of about nine, and they counted the chairs twice that afternoon, and the count came to nine both times, and nobody in that room was doing the count who was there for anything.**
 
 ---
 
-**And the woman of about fifty-one was in that room on that Saturday, and about four people who sit in it have said since that she came in at about half past three and sat down in the same place she has sat in three times and that she had her coat on and that nobody asked her to take it off.**
+**And the woman of about fifty-one was in that room on that Saturday, and she came in at about half past three and sat down in the same place she has sat in three times, and she had her coat on, and nobody asked her to take it off.**
 
 Marek said: you have been before.
 
@@ -48,7 +48,7 @@ Marek said: and if they open it and it is not about you.
 
 The woman of about fifty-one said: **then I will have been in the room, and I will have been in the room on four days out of about nine months, and that is more of it than anybody else has got.**
 
-**Nobody in that room said anything for about nine seconds and about four people who sit in that room have said since that the woman of about fifty-four got up off her chair at that point and went out to the passage and stood there until the end, and that she did not come back in before about four of them had gone.**
+**Nobody in that room said anything for about nine seconds and the woman of about fifty-four got up off her chair at that point and went out to the passage and stood there until the end, and she did not come back in before about four of them had gone.**
 
 Marek said: you should not have to sit in a room like that.
 
@@ -78,9 +78,9 @@ The woman of about fifty-four said: **it is a question everybody asks once. You 
 
 A light in that yard had been put on a fitting that was open at the bottom, so that rain could get into it.
 
-She put a cover on the fitting and proved it with the yard wet down.
+She put a cover on the fitting and left it out in the rain overnight to see whether it filled.
 
-"**Eight pounds,**" she said. "**A fitting open at the bottom is a fitting that fills with water and then with ice. Four of those fittings in that row are open, and one of them has been a yard somebody has had to keep off in bad weather for four years.**"
+"**Eight pounds,**" she said. "**A fitting open at the bottom is a fitting that fills with water and then with ice. Four of those fittings are open. One of them is a yard somebody has had to keep off in bad weather, and it has been four years.**"
 
 A socket in that shop had been put in under a window with nothing over it, so that a wet hand on a plug had gone straight through to the case.
 
@@ -90,9 +90,9 @@ He fitted an enclosure and proved the case earthed.
 
 A switch in one of those rooms had its faceplate fixed over a hole in the plaster that had never been filled, so that the box showed through the plate.
 
-She filled the hole and proved the plate at the fitting.
+She filled the hole, sanded it flat and screwed the plate back on square.
 
-"**Seven pounds,**" she said. "**A plate over a hole is a hole with a lid. Four of those plates in that row are like it, and one of them has been a landing somebody has had to look at twice for four years.**"
+"**Seven pounds,**" she said. "**A plate over a hole is a hole with a lid. Four of those plates in that row are like it, and the one I would not leave is a landing somebody has had to look at twice for four years.**"
 
 A lamp in the second of those rooms had been fitted with a holder that was the wrong pattern for the shade, so that the shade hung loose on it.
 

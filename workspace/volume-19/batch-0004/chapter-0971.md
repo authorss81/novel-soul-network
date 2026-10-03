@@ -10,7 +10,7 @@ That shop took nine callers on that Wednesday and the ninth of the nine came thr
 
 ---
 
-**The woman of about forty-five came in at about two with her coat still on and stood at the customer side of that counter with her hands empty, and about four people who have been in that room have said since that she had come to say one thing and had it ready before the door shut behind her.**
+**The woman of about forty-five came in at about two with her coat still on and stood at the customer side of that counter with her hands empty, and she had come to say one thing and had it ready before the door shut behind her.**
 
 The woman of about forty-five said: I am not going with you this afternoon.
 
@@ -34,7 +34,7 @@ She said: then nobody will have asked me and I will have been there, and those a
 
 ---
 
-**And at four o'clock on that Wednesday he walked about nine minutes to a room off a line in Saltmarket where nine chairs stand in rows and a woman of about fifty-four has kept that room for six years, and about four people who sit in that room have said since that she stood at the door and counted nobody, which is a thing she does.**
+**And at four o'clock on that Wednesday he walked about nine minutes to a room off a line in Saltmarket where nine chairs stand in rows and a woman of about fifty-four has kept that room for six years, and she stood at the door and counted nobody, which is a thing she does.**
 
 The woman of about fifty-four said: you are the fourth one today who has asked me who it is for.
 
@@ -64,7 +64,7 @@ Marek said: then who is in the room.
 
 She said: **anybody. It is for anybody and it is open and the chairs are nine and I have never had to write anything down to fill them.**
 
-**It went on in that room for about nine seconds with nobody speaking in it, and about four people who sit in that room have said since that it was the quietest that room has been and that two of them looked at the ninth chair and neither of them said anything about it.**
+**It went on in that room for about nine seconds with nobody speaking in it, and it was the quietest that room has been, and two of them looked at the ninth chair and neither of them said anything about it.**
 
 Marek said: you could put a notice on the wall.
 
@@ -90,9 +90,9 @@ The woman of about fifty-four said: I am never the last. **That is the whole of 
 
 A light in that flat had a lamp in it of a rating the holder was not made for, so that the holder had come loose where it sat.
 
-He changed the lamp and proved the fitting with the shop dark.
+He changed the lamp with the shop dark and the meter off, and it stayed dead.
 
-"**Eight pounds,**" he said. "**A lamp that is wrong for its holder is a holder working itself loose over about a year. Four of those in that block are lit wrong, and one of them has been a ceiling somebody has stopped looking up at for four years.**"
+"**Eight pounds,**" he said. "**A lamp that is wrong for its holder is a holder working itself loose over about a year. That fault is four times over in one block. The one that has been going longest is a ceiling somebody has stopped looking up at, and it is four years into it.**"
 
 A switch on that stair had been put in with the wires on the wrong way round, so that putting it up put the light out.
 
@@ -102,9 +102,9 @@ She turned the switch round and proved both positions with a lamp.
 
 A bell in that shop had been screwed to a door frame with two short screws, so that it worked loose every time somebody pulled it.
 
-He put it on proper fixings and proved it on the frame.
+He put it on proper fixings and rang it from the door until it answered every time.
 
-"**Eleven pounds,**" he said. "**A bell on two short screws is a bell that stops answering and nobody ever finds out why. Four of those bells in that row are on short screws, and one of them has been a door somebody has stopped knocking on for four years.**"
+"**Eleven pounds,**" he said. "**A bell on two short screws is a bell that stops answering and nobody ever finds out why. I have four of those bells in that row on short screws. One of them is on a door somebody has stopped knocking on, and it has been four years.**"
 
 A socket in that shop had been put in behind the leg of a bench, so that it could not be reached and nothing could be plugged into it.
 

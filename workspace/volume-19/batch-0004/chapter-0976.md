@@ -10,7 +10,7 @@ That Thursday brought nine through that shop, and the ninth of them at about twe
 
 ---
 
-**He had not been in that shop for a fortnight and he came straight to the rail and did not take his coat off, and about four people who have been in that room have said since that he had the air of a man who has driven somewhere to do a thing and has stopped doing it about halfway back.**
+**He had not been in that shop for a fortnight and he came straight to the rail and did not take his coat off, and he had the air of a man who has driven somewhere to do a thing and has stopped doing it about halfway back.**
 
 The man of about thirty-three said: I have come about a room.
 
@@ -44,7 +44,7 @@ The man of about thirty-three said: it is a fact nobody can put a name to.
 
 Marek said: **a fact nobody can put a name to is still a fact, and putting it where nobody can reach it is the only reason it has not done anything yet.**
 
-**About nine seconds passed in that shop with the two of them not talking, and about four people in that room have said since that the man of about thirty-three took the folded paper out of his coat at that point and put it on the counter and did not push it and did not take it back.**
+**About nine seconds passed in that shop with the two of them not talking, and the man of about thirty-three took the folded paper out of his coat at that point and put it on the counter, and did not push it and did not take it back.**
 
 The man of about thirty-three said: **do you know what I am. I am the man who put a sheet down and walked out of it.**
 
@@ -58,7 +58,7 @@ The man of about thirty-three said: **that is the same sentence four people have
 
 ---
 
-**And then the man of about thirty-three told him something he had told nobody, and about four people in that room have said since that he said it flatly and without any weight on it at all, as though he had read it off a job card.**
+**And then the man of about thirty-three told him something he had told nobody, and he said it flatly and without any weight on it at all, as though he had read it off a job card.**
 
 The man of about thirty-three said: she was in the room on Friday.
 
@@ -98,9 +98,9 @@ The man of about thirty-three said: **he will say that is the same thing. It is 
 
 A lamp in that shop had been put in with the neutral and the earth the wrong way round, so that the earth was live whenever the lamp was off.
 
-He put the earth back where it belonged and proved it with a tester.
+He put the earth back where it belonged and left the tester sitting on the bench while he worked.
 
-"**Six pounds,**" he said. "**An earth on the switched side is a live fitting with the switch off. Four of those lamps in that row are wired that way, and one of them has been a bench somebody has not wanted to put a hand near for four years.**"
+"**Six pounds,**" he said. "**An earth on the switched side is a live fitting with the switch off. Four of those lamps are wired that way. One of them is a bench somebody has not wanted to put a hand near, and it has been four years.**"
 
 A switch in that second shop had been fitted into a box with the plaster pushed in behind it and cracked, so that the box was loose in the wall.
 
@@ -110,9 +110,9 @@ She packed the box and proved it with a lamp.
 
 A bell on that stair had its cable run through a hole in the frame with no grommet on it, so that the cable wore where it went through.
 
-She fitted a grommet and proved the bell on the frame.
+She fitted a grommet and pushed the cable back and forth through the hole until the grommet took the wear.
 
-"**Six pounds,**" he said. "**A cable with no grommet is a cable that wears through in about a year. Four of those runs in that stair are like it, and one of them has been a stair somebody has not been able to call up for four years.**"
+"**Six pounds,**" he said. "**A cable with no grommet is a cable that wears through in about a year. That is four of those runs in that stair, all like it, and one of them is a stair somebody has not been able to call up for four years.**"
 
 A fuse in that shop had been replaced with one of a rating above what the circuit was meant to carry.
 

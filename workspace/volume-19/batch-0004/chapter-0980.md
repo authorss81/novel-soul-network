@@ -6,11 +6,11 @@
 
 That Monday put nine names on that day's book, the last of them at twenty past nine, and the shutter came to at ten.
 
-**The four converted units off that service road stood at one thousand eight hundred and six days, two hundred and fifty-eight weeks and four days. The request in the drawer in a second district was fifty-five days old on that Monday.**
+**The four converted units off that service road stood at one thousand eight hundred and six days, two hundred and fifty-eight weeks to the day. The request in the drawer in a second district was fifty-five days old on that Monday.**
 
 ---
 
-**She came in at about seven and sat down with her coat still on and did not take the seat she usually takes, and about four people who have been in that room have said since that she took a chair against the wall and that she put her hands flat on her knees and that she had done that before about two other times in about two months.**
+**She came in at about seven and sat down with her coat still on and did not take the seat she usually takes, and she took a chair against the wall and put her hands flat on her knees, and she had done that before about two other times in about two months.**
 
 Sera Quill said: I am not deciding this week.
 
@@ -28,7 +28,7 @@ Sera Quill said: **it is the answer to you and it is the answer to the question 
 
 ---
 
-**And about nine seconds passed in that room and Marek said nothing at all, and about four people who have been in that room have said since that he did not ask her the next question and that he has said that he wanted to and that he did not.**
+**And about nine seconds passed in that room and Marek said nothing at all, and he did not ask her the next question. He has said that he wanted to and that he did not.**
 
 Marek said: four months.
 
@@ -88,7 +88,7 @@ Marek said: what happens when it does.
 
 Sera Quill said: **I do not know, and if I knew then I would have decided, and I am not going to be able to tell you that this week either.** And she said: **not this week.**
 
-**Nobody thanked anybody on that Monday and nobody forgave anybody, and about four people in that room have said since that the woman of about forty-three had come in at about eight and had not come to the table and had gone out again at about ten to twelve, and that nobody stopped her, and that she was not carrying anything.**
+**Nobody thanked anybody on that Monday and nobody forgave anybody, and the woman of about forty-three had come in at about eight and had not come to the table and had gone out again at about ten to twelve, and nobody stopped her, and she was not carrying anything.**
 
 ---
 
@@ -96,9 +96,9 @@ Sera Quill said: **I do not know, and if I knew then I would have decided, and I
 
 A light in that kitchen had been put in over the sink on a fitting with no earth, so that the fitting was live with the switch off.
 
-She earthed it at the fitting and proved it with a tester.
+She earthed it at the fitting and had the tester sitting on it while the tap ran.
 
-"**Seven pounds,**" she said. "**A light over a sink with no earth is a light over water with no earth. Four of those fittings in that row have no earth, and one of them has been a sink somebody has been standing over carefully for four years.**"
+"**Seven pounds,**" she said. "**A light over a sink with no earth is a light over water with no earth. Four of those fittings have no earth. One of them is a sink somebody has been standing over carefully, and it has been four years.**"
 
 A socket in that shop had been put in on an extension lead that was run under a rug and pinned with two tacks.
 
@@ -108,9 +108,9 @@ He took the lead out of the rug and put the socket on the wall and proved it wit
 
 A switch in that yard had been put in on a round box with no box behind it at all, so that the switch was mounted on nothing.
 
-He fitted a box and proved it with a lamp.
+He fitted a box, packed it and wired the switch into the box rather than into the plaster.
 
-"**Six pounds,**" she said. "**A switch on no box is a switch on the plaster. Four of those in that row are like it, and one of them has been a wall somebody has put a hand flat on for four years.**"
+"**Six pounds,**" she said. "**A switch on no box is a switch on the plaster. That fault is four times over in that row. The one that has been going longest is a wall somebody has put a hand flat on, and it is four years into it.**"
 
 A lamp holder in that kitchen had been fitted with a ring that had been painted into the shade, so that the shade could not be taken off.
 

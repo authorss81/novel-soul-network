@@ -10,7 +10,7 @@ Six people used that counter on that Thursday and the last of them was let away 
 
 ---
 
-**She had come up with a request written on the back of a job card and it was for a single sheet, and about four people who have been in that queue have said since that she had it ready before she was through the door and that she said the word *sheet* before she said anything else.**
+**She had come up with a request written on the back of a job card and it was for a single sheet, and she had it ready before she was through the door, and she said the word *sheet* before she said anything else.**
 
 The woman of about forty-three said: I want one sheet of that form.
 
@@ -42,7 +42,7 @@ Marek said: who will fill it in.
 
 She said: whoever wants it filled in. That has been the answer every time since the winter before last.
 
-**Nobody at that counter said anything for about nine seconds and about four people in that queue have said since that one man near the back said *that is not a sheet* out loud and that nobody turned round and that the woman of about forty-three did not hear him and Marek did.**
+**Nobody at that counter said anything for about nine seconds and one man near the back said *that is not a sheet* out loud, and nobody turned round, and the woman of about forty-three did not hear him and Marek did.**
 
 Marek said: then what will you print it on.
 
@@ -78,7 +78,7 @@ Marek said: that is all four of them gone.
 
 She said: that is what is left.
 
-**Nobody thanked anybody at that counter on that Thursday and nobody forgave anybody, and about four people in that queue have said since that she took the job card back off him without reading the rest of what he had written on it.**
+**Nobody thanked anybody at that counter on that Thursday and nobody forgave anybody, and she took the job card back off him without reading the rest of what he had written on it.**
 
 ---
 
@@ -86,9 +86,9 @@ She said: that is what is left.
 
 A light in that store had been wired through the lamp holder itself, so that changing the bulb meant cutting the lamp out of the circuit.
 
-He took the lamp off the circuit and gave the holder its own way in and proved it.
+He took the lamp off the circuit, gave the holder its own way in and made dead at the fitting with a tester.
 
-"**Nine pounds,**" he said. "**A lamp wired through its own holder is a lamp that is in the way every time a bulb goes. Four of those in that row are wired through the fitting, and one of them has been a stair somebody has had to carry a spare bulb up for four years.**"
+"**Nine pounds,**" he said. "**A lamp wired through its own holder is a lamp that is in the way every time a bulb goes. Four of those lamps are wired through the fitting. One of them is a stair somebody has had to carry a spare bulb up, and it has been four years.**"
 
 A socket in that flat had a fused plug left in it that nobody ever pulled out, so that it could never be used and could never be seen.
 
@@ -98,9 +98,9 @@ She pulled it out, proved the socket and put a blank in its place.
 
 A bell on that shop counter had its wire stapled to the frame in two places, so that the wire had nowhere to move.
 
-He took the staples out and put the wire in a clip and proved it on the frame.
+He took the staples out, put the wire in a clip and rang the bell from the far end of the counter.
 
-"**Six pounds,**" she said. "**A wire stapled twice is a wire that pulls the bell crooked before it moves. Four of those bells in that row are stapled, and one of them has been a counter somebody has had to lean over to reach for four years.**"
+"**Six pounds,**" she said. "**A wire stapled twice is a wire that pulls the bell crooked before it moves. That fault is four times over in that row. The one that has been going longest is a counter somebody has had to lean over to reach for, and it is four years into it.**"
 
 A light in that shop had its switch in a cupboard, so that the light over the bench could only be reached from the doorway.
 

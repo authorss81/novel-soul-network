@@ -46,7 +46,7 @@ Marek said: since the spring.
 
 She said: **since the Wednesday. It has been in that flat with me and it has not been on a bit of paper and it has not been in a drawer and it has not been on a shelf.**
 
-**Not one person in that room spoke for about nine seconds, and about four people who sit in that room have said since that the woman of about fifty-four looked at the floor for the whole of it and that afterwards she did not look up and did not write and did not put a card on the table.**
+**Not one person in that room spoke for about nine seconds, and the woman of about fifty-four looked at the floor for the whole of it, and afterwards she did not look up and did not write and did not put a card on the table.**
 
 Marek said: what do you want done with it.
 
@@ -54,7 +54,7 @@ The woman of about sixty-two said: **nothing. I have wanted it said and it is sa
 
 ---
 
-**And then nobody asked her to sit down again, and nobody said one word to her about it, and about four people who sit in that room have said since that she got to the door in about four seconds and that the door was heavy and that she had to lift it with both hands and that nobody offered to.**
+**And then nobody asked her to sit down again, and nobody said one word to her about it, and she got to the door in about four seconds, and the door was heavy, and she had to lift it with both hands and nobody offered to.**
 
 The woman of about fifty-four said: you are not going to write that down.
 
@@ -66,7 +66,7 @@ Marek said: no.
 
 The woman of about fifty-four said: good. **If it is on anything in here then it is on a card by the door and the next person who reads that card reads that word, and I have not written a list in six years and I am not starting with a woman's word.**
 
-**Nobody thanked that woman on that Friday as she went out, and nobody asked her to wait, and about four people who sit in that room have said since that saying nothing there was the correct thing to do and that not one of them has ever said so out loud, and that she was the eleventh person to come through that door that week and the only one who gave anything away.**
+**Nobody thanked that woman on that Friday as she went out, nobody asked her to wait, and not one of the four of them has ever said out loud that saying nothing there was the correct thing to do. She was the eleventh person to come through that door that week and the only one who gave anything away.**
 
 ---
 
@@ -74,9 +74,9 @@ The woman of about fifty-four said: good. **If it is on anything in here then it
 
 A light on that landing had its switch on the wrong side of the door frame, so that it was lit from the landing and not from the room.
 
-He moved the switch and proved it from inside the room.
+He moved the switch to the other side and tried it from inside the room with the door shut.
 
-"**Seven pounds,**" he said. "**A light switched from the wrong side is a light somebody cannot turn off without standing in the cold. Four of those landings in that block are like that, and one of them has been a door somebody has shut on for four years.**"
+"**Seven pounds,**" he said. "**A light switched from the wrong side is a light somebody cannot turn off without standing in the cold. Four of those landings are like that. One of them is a door somebody has shut on, and it has been four years.**"
 
 A switch in that shop had come loose from its plate and was hanging by its own flex, so that it moved the fitting only when it happened to be hanging square.
 
@@ -86,9 +86,9 @@ She fixed the plate and proved it both ways with a lamp.
 
 An outside light at the back of that shop had been wired from a socket inside, so that a lamp outside went dark every time a kettle came on.
 
-She gave the outside light its own way in and proved it with the row on.
+She gave the outside light its own way in and put the kettle on at the same time to see whether it stayed out.
 
-"**Twelve pounds,**" he said. "**An outside light on an inside way is a yard you cannot see from the yard. Four of those lights in that row are like it, and one of them has been a back door somebody has not been able to open after dark for four years.**"
+"**Twelve pounds,**" he said. "**An outside light on an inside way is a yard you cannot see from the yard. Four of those lights in that row are like it, and the one I would not sign for is a back door somebody has not been able to open after dark for four years.**"
 
 A meter cupboard in that shop had its door off its latch, so that anybody coming in could get at the terminals behind it.
 

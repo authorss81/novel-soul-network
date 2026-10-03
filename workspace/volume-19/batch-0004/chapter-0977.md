@@ -30,7 +30,7 @@ The woman of about forty-three said: **when it is a month. That is what a month 
 
 ---
 
-**About nine seconds went past at that desk without a word at it, and about four people who work in that building have said since that there was a queue of nine behind him that day and that none of the nine said one word, and that two of them left.**
+**About nine seconds went past at that desk without a word at it, and there was a queue of nine behind him that day, and none of the nine said one word, and two of them left.**
 
 Marek said: three sheets in it and one of them has been filled in.
 
@@ -48,7 +48,7 @@ Marek said: what word.
 
 She said: **wait.** And then she said: **and I will say the same word in a month and you may come to this desk and stand where you are standing and I will not have said anything else in between.**
 
-**About four people at that counter have said since that she put both hands flat on the desk at that point and that the queue began to move again and that the woman of about forty-three did not look up at any of the nine.**
+**She put both hands flat on the desk at that point, and the queue began to move again, and the woman of about forty-three did not look up at any of the nine.**
 
 Marek said: what happens in a month.
 
@@ -72,7 +72,7 @@ Marek said: there is a space.
 
 She said: **there is a space in the paper and I have filled it with about nine hundred blanks.**
 
-**That queue kept its own counsel for about nine seconds, and about four people who work in that building have said since that a man near the door laughed once and that she turned round and looked at him and that he did not do it again.**
+**That queue kept its own counsel for about nine seconds, and a man near the door laughed once, and she turned round and looked at him, and he did not do it again.**
 
 Marek said: will you fight it.
 
@@ -88,9 +88,9 @@ She said: no. **And if he has to go to a room to say it out loud then nine peopl
 
 A light in that cellar had been put on a lamp holder with no earth at all, so that the holder was live whenever the circuit was live.
 
-She put an earth on it at the holder and proved it with a tester.
+She put an earth on it at the holder and made dead at the holder itself and not at the lamp.
 
-"**Seven pounds,**" she said. "**A holder with no earth is a holder that can put a hand on the shop's supply. Four of those holders in that row have no earth, and one of them has been a cellar somebody has not been able to go into for four years.**"
+"**Seven pounds,**" she said. "**A holder with no earth is a holder that can put a hand on the shop's supply. Four of those holders have no earth. One of them is a cellar somebody has not been able to go into, and it has been four years.**"
 
 A switch in that shop had been put on a pendant and dropped so far that it hung against the bench.
 
@@ -100,9 +100,9 @@ He shortened it and clamped it and proved it from the bench.
 
 A meter board in one of those flats had its main switch wired on the wrong side, so that the board could not be made dead.
 
-He wired it so the supply is on the load side and proved the board dead.
+He wired it so the supply is on the load side, and then he pulled the main out and put his hand flat on the board to be sure of it.
 
-"**Nine pounds,**" he said. "**A board that cannot be made dead is a board with a supply on it always. Four of those in that block are wired that way, and one of them has been a kitchen somebody has been frightened of for four years.**"
+"**Nine pounds,**" he said. "**A board that cannot be made dead is a board with a supply on it always. That fault is four times over in that block. The one that has been going longest is a kitchen somebody has been frightened of, and it is four years into it.**"
 
 A lamp in the second of those flats had a shade that had come away from its holder and was hanging on by the flex.
 
@@ -120,7 +120,7 @@ She refitted the shade and proved the lamp lit.
 
 *980.
 Friday of week 325, at ten. That is the two hundred and twenty-second day of this stretch of days. Eight callers came through that shop on that Friday and eight names were written onto that day's book, the eighth of them a little before nine.
-**No figure was said aloud anywhere in this city on that Friday. A man went to a tray that was shut for a month and was told to wait, and the woman behind that desk said out loud in front of a queue that she made the word available up herself and that she will do nothing about the fifth column when it is asked about.** Twenty-six pounds, exact.*
+**No figure was said aloud anywhere in this city on that Friday. A man went to a tray that was shut for a month and was told to wait, and the woman behind that desk said out loud in front of a queue that she made the word available up herself and that she will do nothing about the sixth column when it is asked about.** Twenty-six pounds, exact.*
 
 *Conditions and docket.* **Callers on that Friday: eight. Written on that Friday's book: eight, the last of those eight taken a little before nine.
 Four units standing off that service road, one of them carrying heat: one thousand eight hundred and three days, two hundred and fifty-seven weeks and four days

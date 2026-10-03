@@ -38,7 +38,7 @@ Marek said: how many have there been.
 
 The woman of about fifty-one said: three, and one that was shut when I got there.
 
-**The two of them left that silence standing for about nine seconds, and about four people who have been in that room have said since that she had told him a plain fact and that he had asked for it in the wrong order and that neither of them had any way of putting that back.**
+**The two of them left that silence standing for about nine seconds, and she had told him a plain fact and he had asked for it in the wrong order, and neither of them had any way of putting that back.**
 
 Marek said: I am sorry.
 
@@ -50,7 +50,7 @@ She said: nothing.
 
 Marek said: I could ask why you come.
 
-**The woman of about fifty-one said: no, and about four people in that room have said since that she said it before he had finished and that she said it to the counter and not to him and that she has not taken her coat off at any point in the whole of that conversation.**
+**The woman of about fifty-one said: no. **She said it before he had finished, and she said it to the counter and not to him, and she has not taken her coat off at any point in the whole of that conversation.**
 
 The woman of about fifty-one said: **no. If you ask me why I come then I will tell you, and then you will have to carry it, and you have a sheet with a name on it already and that is one too many for you.**
 
@@ -84,7 +84,7 @@ The woman of about forty-five said: **it has not got one and that is not a reaso
 
 ---
 
-**And that Sunday was a bench until noon and a counter until one and about an hour of the two with nothing to do at all, and about four people who have been in that room have said since that the hour is why that shop still has callers on a Sunday and not a queue.**
+**And that Sunday was a bench until noon and a counter until one and about an hour of the two with nothing to do at all, and the hour is the reason that shop still has callers on a Sunday and not a queue.**
 
 ---
 
@@ -92,9 +92,9 @@ The woman of about forty-five said: **it has not got one and that is not a reaso
 
 A light in that shop had been put on a switch that also carried the shop's front roller, so that opening the door put the lights out.
 
-She took the roller onto its own way in and proved it from the doorway.
+She took the roller onto its own way in and stood in the doorway with the door open to check the lights stayed up.
 
-"**Nine pounds,**" she said. "**A roller and a light on one way is a shop that goes dark every time it opens. Four of those in that row are shared, and one of them has been a counter somebody has had to find the switch for four years.**"
+"**Nine pounds,**" she said. "**A roller and a light on one way is a shop that goes dark every time it opens. That fault is shared four times over. One of them is a counter somebody has had to find the switch for, and it has been four years.**"
 
 A lamp in one of those flats had been wired with no return at the fitting, so that the holder carried the whole of the supply.
 
@@ -104,9 +104,9 @@ He put a return in at the holder and proved it with a lamp.
 
 A socket in the second of those flats had its earth taken off the box, so that the plate was live whenever the ring main was on.
 
-She put the earth back on and proved the plate dead.
+She put the earth back on and made dead at the plate with a tester before she let go of it.
 
-"**Seven pounds,**" she said. "**A plate with the earth off is a plate that is live with nothing switched off. Four of those plates in that block have no earth, and one of them has been a skirting somebody has been careful around for four years.**"
+"**Seven pounds,**" she said. "**A plate with the earth off is a plate that is live with nothing switched off. That is four of those plates in that block with no earth, and one of them is a skirting somebody has been careful around for four years.**"
 
 A bulb holder in that shop had its centre contact flattened by a screw that had been driven crooked.
 

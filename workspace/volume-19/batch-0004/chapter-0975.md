@@ -10,7 +10,7 @@ Seven callers used that shop on that Tuesday and the seventh was through the doo
 
 ---
 
-**He had worked out what he was going to say on the bus and about four people have said since that he said a different half of it, and that the woman of about fifty-four was straightening a table at the far end of that room when he came in and did not stop doing it.**
+**He had worked out what he was going to say on the bus and he said a different half of it, and the woman of about fifty-four was straightening a table at the far end of that room when he came in and did not stop doing it.**
 
 Marek said: I want to write it down.
 
@@ -30,7 +30,7 @@ The woman of about fifty-four said: **you have got it in your head and that is a
 
 ---
 
-**About nine seconds went by with the two of them not saying anything, and about four people who sit in that room have said since that a bus went past outside in the middle of it and that the woman of about fifty-four waited for it to go before she said anything else, and that she had not asked him to sit down at any point.**
+**About nine seconds went by with the two of them not saying anything, and a bus went past outside in the middle of it, and the woman of about fifty-four waited for it to go before she said anything else, and she had not asked him to sit down at any point.**
 
 Marek said: what happens to it.
 
@@ -54,7 +54,7 @@ She said: then ask her in four years and she will say it again.
 
 ---
 
-**And then she told him the thing she keeps at the back of that room for anybody who asks her to put a thing on paper, and about four people who sit in that room have said since that she said it standing up and to the window and that it took her about four seconds.**
+**And then she told him the thing she keeps at the back of that room for anybody who asks her to put a thing on paper, and she said it standing up and to the window, and it took her about four seconds.**
 
 The woman of about fifty-four said: **I have run this room for six years on four-week spacing and I have never had a thing on my table that came out of a person.**
 
@@ -82,9 +82,9 @@ She said: I know. **You have got a name on a piece of paper already and a person
 
 A light in one of those stores had been put in at a high level with nothing under it, so that nothing on the floor was ever lit.
 
-He brought a fitting down to working height and proved it over the counter.
+He brought a fitting down to working height and stood a lamp on the floor under it to see what it lit.
 
-"**Thirteen pounds,**" he said. "**A light with nothing under it is a light that lights the ceiling. Four of those fittings in that row are at the wrong height, and one of them has been a shop floor somebody has worked at in the dark for four years.**"
+"**Thirteen pounds,**" he said. "**A light with nothing under it is a light that lights the ceiling. Four of those fittings are at the wrong height. One of them is a shop floor somebody has worked at in the dark, and it has been four years.**"
 
 A lamp in the second of those stores had been wired into a joint box above the ceiling with the box left open.
 
@@ -94,9 +94,9 @@ She closed the box, made good and proved it dead with a tester.
 
 An outside light in the yard behind that shop came on a photocell that was under a shelf, so that it came on in the middle of the afternoon and stayed on all night.
 
-He moved the cell out from under the shelf and proved it in the yard.
+He moved the cell out from under the shelf and stood in the yard at two in the afternoon to see whether it went off.
 
-"**Eleven pounds,**" he said. "**A cell under a shelf is a light that thinks it is night. Four of those in that row are shaded, and one of them has been a yard somebody has had to get used to for four years.**"
+"**Eleven pounds,**" he said. "**A cell under a shelf is a light that thinks it is night. That fault is four times over in that row. The one that has been going longest is a yard somebody has had to get used to, and it is four years into it.**"
 
 A boiler in that boiler house had its flue taken out of a room and not reconnected, so that it was heating nothing.
 
