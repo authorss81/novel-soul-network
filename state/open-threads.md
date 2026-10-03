@@ -1,4 +1,4 @@
-# ARCHIVE-SIGNPOST — THE INVENTORY AFTER THE VOLUME 20 MOVEMENT V WRITER PASS, AT CHAPTER 1050: NO STORY THREAD CLOSED, FOUR ADVANCED, TWO OPENED, ONE ASSIGNED AWAY, ONE RECORDED AS CONTROLLER-OWNED, AND ONE CLASS OF FIGURE COLLISION ENTERED FOR THE VOLUME 20 CLOSE — DATED 6 OCTOBER 2026 BY THE PASS THAT WROTE TEN CHAPTERS. EVERY OTHER BLOCK IN THIS FILE IS ARCHIVE AND IS NOT STATE. **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT, AND THAT BLOCK IS THE ONE HEADED *THE INVENTORY AFTER THE VOLUME 20 MOVEMENT V WRITER PASS*.** **THIS FILE IS EXEMPT AT THIS LINE AND THE EXEMPTION IS RESTATED HERE BY THE PASS THAT APPENDED TO IT: THE LIVE THREAD INVENTORY IS CONTENT AND IS NEVER COMPACTED INTO AN INDEX, THIS FILE IS A LEDGER OF WHAT IS OPEN AND NOT A NARRATIVE OF WHAT HAPPENED, AND THE MARK THE OTHER FOUR STATE FILES OBSERVE IS ABOUT SIXTY KILOBYTES. NO PASS MAY EXTEND THAT EXEMPTION TO ANY OTHER FILE. THIS PASS CARRIES THE EXEMPTION ONCE, HERE AT LINE 1, AND DOES NOT REPEAT IT INSIDE ITS OWN BLOCK.** **THE ORDER OF THE BLOCKS IN THIS FILE IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.**
+# ARCHIVE-SIGNPOST — THE INVENTORY AFTER THE VOLUME 20 MOVEMENT VI WRITER PASS, AT CHAPTER 1060, WHICH IS THE LAST CHAPTER OF VOLUME 20: TWO STORY THREADS CLOSED, FOUR ADVANCED, THREE OPENED, ONE ASSIGNED AWAY AND NOW ASKED, ONE ITEM RECORDED AS CONTROLLER-OWNED, AND THE TEN CHAPTERS OF THIS MOVEMENT ARE SUMMARISED IN `state/chapter-summaries.md` AND MEASURED IN `workspace/volume-20/batch-0006/SUMMARY.md` — DATED 6 OCTOBER 2026 BY THE PASS THAT WROTE TEN CHAPTERS. EVERY OTHER BLOCK IN THIS FILE IS ARCHIVE AND IS NOT STATE. **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT, AND THAT BLOCK IS THE ONE HEADED *THE INVENTORY AFTER THE VOLUME 20 MOVEMENT VI WRITER PASS*.** **THIS FILE IS EXEMPT AT THIS LINE AND THE EXEMPTION IS RESTATED HERE BY THE PASS THAT APPENDED TO IT: THE LIVE THREAD INVENTORY IS CONTENT AND IS NEVER COMPACTED INTO AN INDEX, THIS FILE IS A LEDGER OF WHAT IS OPEN AND NOT A NARRATIVE OF WHAT HAPPENED, AND THE MARK THE OTHER FOUR STATE FILES OBSERVE IS ABOUT SIXTY KILOBYTES. NO PASS MAY EXTEND THAT EXEMPTION TO ANY OTHER FILE. THIS PASS CARRIES THE EXEMPTION ONCE, HERE AT LINE 1, AND DOES NOT REPEAT IT INSIDE ITS OWN BLOCK.** **THE ORDER OF THE BLOCKS IN THIS FILE IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.**
 
 
 # ARCHIVE — THE INVENTORY AFTER THE PASS THAT WROTE MOVEMENT V, WHICH OPENED THREADS 34 AND 35, AMENDED ITEMS 30, 31 AND 33 IN PLACE WITH FOUR FIGURES THAT DID NOT REPRODUCE AT THE BOUNDARY IT PUBLISHED, GAVE THE FOUR INHERITED CHARGE-LINE COLLISIONS AN OWNER, AND INDEXED ONE BLOCK OF `current.md` THAT CARRIED NO OPEN THREAD. **RELABELLED BY THE MOVEMENT VI WRITER PASS. THE MANUSCRIPT NO LONGER STANDS AT CHAPTER 990. ALL FOUR AMENDMENTS, BOTH THREADS AND THE OWNER GIVEN TO THE FOUR COLLISIONS ARE RESTATED IN THE GOVERNING BLOCK AT THE FOOT. THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS AT THE FOOT AND IT IS NOT THIS ONE.**
@@ -787,7 +787,7 @@ Asked once at Chapter 1000 and unanswered on every page since, and **no page of 
 
 ---
 
-# LIVE — THE INVENTORY AFTER THE VOLUME 20 MOVEMENT V WRITER PASS, AT CHAPTER 1050: NO STORY THREAD CLOSED, FOUR ADVANCED, TWO OPENED, ONE ASSIGNED AWAY, ONE RECORDED AS CONTROLLER-OWNED, AND THE TEN CHAPTERS OF THIS MOVEMENT ARE SUMMARISED IN `state/chapter-summaries.md` AND MEASURED IN `workspace/volume-20/batch-0005/SUMMARY.md`. DATED 6 OCTOBER 2026, THE DAY OF THE PROMPT THAT ASKED FOR IT, AND **THE ORDER OF THESE BLOCKS IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.** **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT; KEEP THOSE TWO THE SAME BLOCK.**
+# ARCHIVE — THE INVENTORY AFTER THE VOLUME 20 MOVEMENT V WRITER PASS, AT CHAPTER 1050: NO STORY THREAD CLOSED, FOUR ADVANCED, TWO OPENED, ONE ASSIGNED AWAY, ONE RECORDED AS CONTROLLER-OWNED, AND THE TEN CHAPTERS OF THIS MOVEMENT ARE SUMMARISED IN `state/chapter-summaries.md` AND MEASURED IN `workspace/volume-20/batch-0005/SUMMARY.md`. DATED 6 OCTOBER 2026, THE DAY OF THE PROMPT THAT ASKED FOR IT, AND **THE ORDER OF THESE BLOCKS IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.** **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT; KEEP THOSE TWO THE SAME BLOCK.**
 
 **THIS FILE IS EXEMPT AT ITS LINE 1 AND THE EXEMPTION IS NOT EXTENDED BY THIS BLOCK. The live thread inventory is content and is never compacted into an index, this file is a ledger of what is open and not a narrative of what happened, and the mark the other four state files observe is about sixty kilobytes. NO PASS MAY EXTEND THAT EXEMPTION.**
 
@@ -848,3 +848,80 @@ Asked once at Chapter 1000 and unanswered on every page since, and **no page of 
 **One: plan against disk — the disk now holds one thousand and fifty chapter files in twenty volume directories against a plan of record that says seven hundred and sixty in fifteen, and writing Chapters 1041 to 1050 decided nothing. Two: the support-spend overage at three readings, untouched. Three: the placed cast of five names at zero on these ten pages, and no page was invented for any of them to make a figure come out. Four: the plan's phrase on Chapter 933, untouched. Five: the fifth column's heading, two items and not one, unruled, run against and filled on neither. Six: the ombud's office used on him zero times in this movement and zero in each of the four before it, and whether Chapter 760, Chapter 1000 or Chapter 1060 is the ending is the owner's and is unruled.**
 
 `NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-15.md` through `outline/volume-20.md`, `bible/*.md`, `workspace/volume-19/ARITHMETIC-AND-CALENDAR.md`, the four earlier `workspace/volume-20/batch-000*/SUMMARY.md` files, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` were read and not written, and the last of those is controller-owned. No flag about `state/phase-ledger.json` is appended anywhere in this file or in any chapter file. `state/complete.md` was not written and the declaration that the manuscript is finished remains the owner's decision. No page of Volume 15, 16, 17, 18 or 19 was read for editing and none was edited. No controller file was edited by this pass.
+
+
+---
+
+# LIVE — THE INVENTORY AFTER THE VOLUME 20 MOVEMENT VI WRITER PASS, AT CHAPTER 1060: TWO STORY THREADS CLOSED, FOUR ADVANCED, THREE OPENED, ONE ASSIGNED AWAY AND NOW ASKED, ONE RECORDED AS CONTROLLER-OWNED, AND THE TEN CHAPTERS OF THIS MOVEMENT ARE SUMMARISED IN `state/chapter-summaries.md` AND MEASURED IN `workspace/volume-20/batch-0006/SUMMARY.md`. DATED 6 OCTOBER 2026, THE DAY OF THE PROMPT THAT ASKED FOR IT, AND **THE ORDER OF THESE BLOCKS IS THE ORDER OF THE COMMITS AND NOT THE DATES IN THEIR HEADINGS.** **THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IT IS ALSO THE LAST BLOCK IN IT; KEEP THOSE TWO THE SAME BLOCK.**
+
+**THIS FILE IS EXEMPT AT ITS LINE 1 AND THE EXEMPTION IS NOT EXTENDED BY THIS BLOCK.**
+
+## 1. THREAD ONE — THE WORD THREE PEOPLE HOLD AND ONE OF THE THREE HAS IT WRONG. ADVANCED, AND STAYS OPEN
+
+**The man of about thirty-three said it out loud on Chapter 1055 for the eighth time in this volume and added the thing nobody in that room had heard him say before: that the one of the three who has it wrong does not know it.** He refused to say more, and he told the man of about thirty that the answer was the same every time and the man kept asking it in a different shape. **No word is printed. No page of this movement printed one and no page of this volume has.**
+
+## 2. THREAD TWO — THE MARK AGAINST EVERY ROW OF A SIXTH COLUMN. OPEN AND UNTOUCHED
+
+**Not named, not advanced and not described on any of these ten pages.**
+
+## 3. THREAD THREE AND OWNER ITEM FIVE — THE HEADING OF THE FIFTH COLUMN. OPEN, UNSET, AND RUN AGAINST ON ALL TEN PAGES
+
+**The line ruled under nothing on that card is the whole of what this movement has to say about it, and the card is named on all ten pages with that line and with no word over it.** **No candidate word is proposed, recommended or set on any of these ten pages and no fifth of anything is written.** Nine titles across Chapters 941 to 1030 still carry a number-word and are listed for the Volume 20 close at `workspace/volume-20/batch-0006/SUMMARY.md` §14.
+
+## 4. THREAD FOUR — THE TWO RIVAL COLUMNS. OPEN AND UNTOUCHED
+
+**Not named and not advanced on any of these ten pages.**
+
+## 5. THREAD FIVE, THE QUESTION WITH NO OWNER — **ASKED A SECOND TIME IN THIS VOLUME, NOT ANSWED A SECOND TIME, AND THE ASSIGNMENT IS NOW DISCHARGED**
+
+**`outline/volume-20.md` assigned it to Movement VI with a second asking and a second non-answer. The prompt that asked for Movement V assigned it to Movement V instead, Movement V carried it and did not ask it, and the disagreement was recorded at `batch-0005/SUMMARY.md` §12 and left open. IT IS NOW ASKED AND IT IS ON A PAGE. Marek asked the woman of about fifty-four, out loud and in front of about nine people, on Chapter 1058, the question he had carried for about ten weeks and had asked her once at the end of Volume 19. She said out loud that she is not going to answer it a second time. He said out loud that he was not going to ask it a third time. That is the second asking and the second non-answer and the assignment is discharged. The thread itself is OPEN: it has been asked twice in this volume and answered neither time and nothing in this volume answers it.**
+
+## 6. THREAD SIX — THE MAN OF ABOUT SIXTY-ONE AND HIS PAGE. OPEN AND UNTOUCHED
+
+**He does not appear on any of these ten pages. His four sheets are in his drawer and he was not asked for anything this movement and printed nothing.**
+
+## 7. THREAD SEVEN — THE COPY OF THAT SHEET WITH AN EMPTY FIFTH COLUMN AND ITS NIGHTS. ADVANCED, AND STAYS OPEN
+
+**It was on that table for all ten nights of this movement and was never moved into a drawer, nobody in that shop holds it, and no page of this movement asked Marek to move it.** Its run is derived from the day and not from the chapter index and the convention is `day − 2150`; the ten figures are at `workspace/volume-20/batch-0006/SUMMARY.md` §8.2 and no later pass may carry them forward. **This movement spans twenty-four days for ten chapters, so a run stepped by chapter would be short by fourteen across it, which is the largest such gap in the volume.**
+
+## 8. THREAD EIGHT — THE FOUR FIGURES STANDING BETWEEN THE BOOK AND THE TIN. OPEN AND UNPRINTABLE, UNTOUCHED
+
+**No figure is printed on any of these ten pages, the difference between the book and the tin is printed nowhere, and no page of this movement remarks on which of the two sittings Chapter 1060 is.** Chapter 1060 is a sitting and this file says nothing about it and so do all ten pages.
+
+## 9. THREAD NINE — THE ONE WORD THE WOMAN OF ABOUT SIXTY-TWO GAVE. OPEN AND UNTOUCHED
+
+**She does not appear on any of these ten pages. Nobody asked her for it and she did not give it.**
+
+## 10. TWO THREADS ADVANCED BY THE MOVEMENT'S OWN PAGES
+
+**Thread ten, the man who cannot answer: ADVANCED AND STILL OPEN.** He was asked the last of three things out loud at that bench on Chapter 1057 in front of about nine people and said in about nine words that he cannot do that one with them all there. **Nobody answered for him, nobody may, he was not asked on any of these ten pages whether he will answer, and he never said.** He asked for the Tuesday to be given out loud in front of everybody on Chapter 1052 and got it, and he asked for it again in a different form on Chapter 1055 and was told he was not going to be asked at all. On Chapter 1059 he said out loud that he is not coming up that stair for about four weeks. **Nothing on these ten pages settles it and nothing on them ends him.**
+
+**Thread eleven, Marek's own unasked position: ADVANCED AND NOW SPOKEN.** He finished the sentence he had half-started on Chapter 1050. He said out loud on Chapter 1051 that he wants a person who cannot answer asked to leave rather than let in and left sitting there, and gave no reason for it and said he had got a want and not a reason. He said it again in that room on Chapter 1052 and about four of about nine people heard the want in it and nobody answered him. He said it a third time on Chapter 1057 and said out loud that he would not say it in that room again whatever happened. **And about nine seconds after the woman of about thirty-four asked him to say something else, he said that the man may stay and does not have to answer it and that he does not know whether that is the answer, and about nine people neither accepted that nor refused it.**
+
+## 11. THREE THREADS OPENED BY THE MOVEMENT'S OWN PAGES
+
+**Thread twelve, the woman's answer, and it is answered: OPENED ON CHAPTER 1058 AND ANSWERED IN ABOUT ELEVEN WORDS.** A woman of about thirty-nine who had been in that room four times and had never got to the third of three came back for the fifth time on Chapter 1053, answered two of three things out loud, said out loud that she was not going to answer the third, was told out loud that nobody was going to ask her anything else, and on Chapter 1058 said out loud what that room is for and said out loud before anybody could thank her that she was not going to be thanked for nothing. **No page repeats one word of it and no page agrees with it. The phrase `about eleven words` is printed once in this volume, on the page that carries the answer, and whether printing that count is itself a breach of guardrail nine is recorded unsettled at `workspace/volume-20/batch-0006/SUMMARY.md` §11 and is owed to the Volume 20 close.**
+
+**Thread thirteen, the cost of saying it: OPENED ON CHAPTER 1058.** Four fewer people came up that stair than had come up it on the Saturday. Marek said both halves out loud, that he had counted it on a piece of paper and thrown it away and that it could be what she had said or the rain or something said at a counter in a first district, and that he had three things it could be and no way of telling them apart. **Neither half is printed anywhere and the count is on no list and in no register.**
+
+**Thread fourteen, the tram depot: OPENED AND CLOSED ON CHAPTER 1060.** About eleven people walked into a shed on a road in a fourth district who had not been asked anything in advance, were asked three things at a bench one at a time in front of everybody, and the first practice in that shed began with nobody standing at the front of it. **It is not a new institution and it is not a founding, and no page of this volume calls it one.**
+
+## 12. THREE HOUSE THREADS ADVANCED BY THE INSTRUMENTS AND NOT BY THE PROSE
+
+**The forbidden-word and printed-empty rows are clean on these ten pages: `right` zero, `fair` zero, the bare word `purpose` zero, `Crown` zero, the three questions set out nowhere, a month sweep returning five and all five the modal verb, `screen` zero here and twenty on fourteen files across the whole manuscript.** **Twenty-one block openings were rewritten in twenty-one shapes after a near-clone instrument caught eight of ten conditions rows and eight of ten standing records sharing one opening, which is a class `batch-0005/SUMMARY.md` §13 had already told a later pass to expect.**
+
+**AND TWO FINDINGS ARE ENTERED FOR THE VOLUME 20 CLOSE.** *One:* the substring-coincidence class of `batch-0005/SUMMARY.md` §2.1 runs to three on these ten pages, against eight on Movement V's and seventeen on Movement IV's. *Two:* **this pass's instrument reproduces Movement IV's word table to the digit and Movement V's body column to the digit and returns Movement V's apparatus column one hundred and sixty higher than `batch-0005/SUMMARY.md` §4 publishes, sixteen tokens per file on all ten with no exception. `batch-0005/SUMMARY.md` is a closed phase and was not edited.** Full statement at `workspace/volume-20/batch-0006/SUMMARY.md` §2.1 and §2.2.
+
+## 13. ONE ITEM RECORDED AS CONTROLLER-OWNED AND NOT TOUCHED
+
+**`state/phase-ledger.json` reads `phase-000-bootstrap / planned / attempts: 0` after six completed batches, and this directory carries no `.done`. Both are written by `scripts/novel_runner.sh` on completion, which has not run because the last commit is a save. Recorded and not fixed. No flag about it is appended anywhere in this file or in any chapter file.**
+
+## 14. THE NEXT PHASE IS THE VOLUME 20 CLOSE AND IT IS NOT A BATCH
+
+**`workspace/volume-20/close/PROMPT.md`.** The volume is finished at Chapter 1060 and the close writes `workspace/volume-20/ARITHMETIC-AND-CALENDAR.md` §9 and `workspace/volume-20/close/CLOSE.md`, both at volume scope, and asks for no chapter. **No prompt exists for any chapter after Chapter 1060.**
+
+## 15. THE SIX OWNER ITEMS, ALL UNMOVED
+
+**One: plan against disk — the disk now holds one thousand and sixty chapter files in twenty volume directories against a plan of record that says seven hundred and sixty in fifteen, and writing Chapters 1051 to 1060 decided nothing. Two: the support-spend overage at three readings, untouched. Three: the placed cast of five names at zero on these ten pages, and no page was invented for any of them to make a cast figure come out. Four: the plan's phrase on Chapter 933, untouched. Five: the fifth column's heading, two items and not one, unruled, run against on all ten pages and filled on none. Six: the ombud's office used on him zero times in this movement and zero times in each of the four before it, and whether Chapter 760, Chapter 1000 or Chapter 1060 is the ending is the owner's and is unruled.**
+
+`NOVEL_SPEC.md`, `outline/series.md`, `outline/ending.md`, `outline/volume-15.md` through `outline/volume-20.md`, `bible/*.md`, `workspace/volume-19/ARITHMETIC-AND-CALENDAR.md`, the five earlier `workspace/volume-20/batch-000*/SUMMARY.md` files, `scripts/`, `.github/workflows/`, `.opencode/agent/`, `AGENTS.md`, `PHASE_SYSTEM.md`, `REPO_PLAN.md`, `OUTLINE_GUIDE.md`, `opencode.json` and `state/phase-ledger.json` were read and not written, and the last of those is controller-owned. No flag about `state/phase-ledger.json` is appended anywhere in this file or in any chapter file. `state/complete.md` was not written and the declaration that the manuscript is finished remains the owner's decision. No page of Volume 15, 16, 17, 18 or 19 was read for editing and none was edited. No controller file was edited by this pass.
