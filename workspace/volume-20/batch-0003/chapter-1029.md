@@ -1,6 +1,6 @@
 # Chapter 1029 — The Hour He Did Not Ask Her For
 
-**A Friday was a bench until two and a counter until six and then four converted units off that service road, and a woman who holds an office stood on that service road at about ten past six and walked about nine minutes with him and did not mention it once.**
+**The woman who holds an office stood on that service road at about ten past six and walked about nine minutes with him and did not mention it once, and that Friday was a bench until two and a counter until six and then four converted units off that service road.**
 
 ---
 

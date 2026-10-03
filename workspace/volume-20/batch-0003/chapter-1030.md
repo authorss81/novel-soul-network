@@ -1,6 +1,6 @@
 # Chapter 1030 — There Was Nothing To Print
 
-**A Saturday was a counter from about ten and then four converted units off that service road, and a man of about thirty-seven stopped working at the bottom of that stair on the Friday and came up on the Saturday to say so, and Marek walked about nine minutes into a second district in the afternoon and was told there was nothing to print.**
+**A man of about thirty-seven stopped working at the bottom of that stair on the Friday and came up on that Saturday morning to say so, and a Saturday was a counter from about ten and then four converted units off that service road, and Marek was at that counter when he came in.**
 
 ---
 

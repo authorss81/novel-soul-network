@@ -1,6 +1,6 @@
 # Chapter 1027 — The Reason He Gave Was True
 
-**A Wednesday was a bench until two and a counter until six and then four converted units off that service road, and two people were asked three things at that bench in front of everybody and answered all three, and one of them had been asked on a landing four days ago and changed her answer.**
+**Two people were asked three things at that bench in front of everybody on that Wednesday and answered all three, and one of them had been asked on a landing four days ago and changed her answer, and the rest of that day was a bench until two and a counter until six and then four converted units off that service road.**
 
 ---
 

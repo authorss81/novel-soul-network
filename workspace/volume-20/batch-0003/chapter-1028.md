@@ -1,4 +1,4 @@
-# Chapter 1028 — The Third Thing Nobody Would Say
+# Chapter 1028 — The Place Where She Is Sitting
 
 **A Thursday was a bench until two and a counter until six and then four converted units off that service road, and about four people came up that stair on their own and were asked three things at that bench, and by about half past seven everyone in the room had noticed something about the third one.**
 

@@ -1,6 +1,6 @@
 # Volume 20, Movement III — Chapters 1021 to 1030 — SUMMARY
 
-**Ten chapters written on their first pass, ten files, and then eleven repairs made on the pages by the instruments in this file, every one of which is named below at §10 with the row that found it. This file is the measure of record for Movement III and it is a measure of ten files and not a house figure.**
+**Ten chapters written on their first pass, ten files, and then eight classes of defect repaired on the pages by the instruments in this file, every one of which is named below at §10 with the row that found it. This file is the measure of record for Movement III and it is a measure of ten files and not a house figure.** **THE HEADLINE OF THIS FILE SAID ELEVEN CLASSES ON ITS FIRST PRINTING AND ITS OWN TABLE CARRIES EIGHT NUMBERED ROWS, and the eleven has been corrected to the eight the table can be counted at rather than the table being padded to eleven. §15 records it, and so do four state files and the Movement IV prompt, which had all inherited the figure.**
 
 ## 0. THE BOUNDARY, PRINTED BEFORE ANY CELL BELOW IS FILLED
 
@@ -75,31 +75,35 @@
 | 1024 | 1504 | 1077 | 2581 | yes |
 | 1025 | 1243 | 1107 | 2350 | yes |
 | 1026 | 1625 | 1108 | 2733 | yes |
-| 1027 | 1536 | 1075 | 2611 | yes |
+| 1027 | 1542 | 1075 | 2617 | yes |
 | 1028 | 1257 | 1098 | 2355 | yes |
 | 1029 | 1253 | 1092 | 2345 | yes |
-| 1030 | 1834 | 1134 | 2968 | yes |
-| **Total** | **15,321** | **11,031** | **26,352** | **15,321 + 11,031 = 26,352** |
+| 1030 | 1824 | 1134 | 2958 | yes |
+| **Total** | **15,317** | **11,031** | **26,348** | **15,317 + 11,031 = 26,348** |
 
-**Apparatus share 418.66 per thousand of the whole file. Nothing in either column is counted twice and no row is a copy of another. These figures are a measure of ten files and are not a house figure; the measure of record for Volume 20 is owed to the Volume 20 close, and a pass writing Chapter 1031 must not carry any figure in this table into a page.**
+**Apparatus share 418.67 per thousand of the whole file. Nothing in either column is counted twice and no row is a copy of another. These figures are a measure of ten files and are not a house figure; the measure of record for Volume 20 is owed to the Volume 20 close, and a pass writing Chapter 1031 must not carry any figure in this table into a page.**
 
-**THE OPENING BOLD PARAGRAPH OF EACH OF THE TEN, IN WORDS, BECAUSE THE MOVEMENT III PROMPT ASKS FOR THEM AND BECAUSE `batch-0002/SUMMARY.md` §14.3 IS WHERE THE PRECEDING MOVEMENT'S TEN ARE PUBLISHED.** They stand at **51, 46, 48, 51, 49, 55, 56, 57, 51 and 64**, all inside the forty-to-seventy-five band, **not one of the ten carries a numeral**, and none of them states an outcome or reports anything a person in another building said. **They are a measure of ten pages and not a target.**
+**THE OPENING BOLD PARAGRAPH OF EACH OF THE TEN, IN WORDS, BECAUSE THE MOVEMENT III PROMPT ASKS FOR THEM AND BECAUSE `batch-0002/SUMMARY.md` §14.3 IS WHERE THE PRECEDING MOVEMENT'S TEN ARE PUBLISHED.** They stand at **51, 46, 48, 51, 49, 55, 62, 57, 51 and 54**, all inside the forty-to-seventy-five band, **not one of the ten carries a numeral**, and none of them states an outcome or reports anything a person in another building said. **They are a measure of ten pages and not a target.** **Two OF THE FIGURES IN THIS SENTENCE ARE THE REVIEW-REPAIR PASS'S AND NOT THIS PASS'S, and §15 says which two and why; the first printing of this row read fifty-six for Chapter 1027 and sixty-four for Chapter 1030, and both were the lengths of lead-ins the review-repair pass re-opened.**
 
-**AND THE TEN TITLES, MEASURED AND NOT ASSUMED, AT H1-LINE SCOPE: seven, five, five, seven, six, six, six, six, eight and five words, a median of six, none carrying `And`, none carrying a number-word, none enumerating its contents and none spelling out a date.** Movement I's ten stand at five words and Movement II's at six, so three movements now read five, six and six. **Chapter 1005's title is the one live `And` of the short-title era and this movement did not make it two.**
+**AND THE TEN TITLES, MEASURED AND NOT ASSUMED, AT H1-LINE SCOPE: seven, five, five, seven, six, six, six, six, eight and five words, a median of six, none carrying `And`, none carrying a number-word, none enumerating its contents and none spelling out a date.** Movement I's ten stand at five words and Movement II's at six, so three movements now read five, six and six. **Chapter 1005's title is the one live `And` of the short-title era and this movement did not make it two.** **THE CLAUSE *none carrying a number-word* WAS FALSE ON THE FIRST PRINTING OF THIS ROW AND WAS NOT TRUE OF CHAPTERS 1024 AND 1028, AND IT IS NOW TRUE BECAUSE THAT PASS RENAMED BOTH. §15 carries the two titles as they stood and as they stand, and the word counts are unchanged by the rename, which is why this row's figures did not move.**
+
+**AND THE FINDING THE RENAME UNCOVERED, WHICH IS NOT A DEFECT OF THIS MOVEMENT AND IS A DEFECT OF AN EARLIER AUDIT.** The pass that surveyed all eighty files of the short-title era counted `And` across them and reported three titles and repaired two, **and it did not count number-words across them at all.** Measured at H1 scope over Chapters 941 to 1030, **nine titles carry a number-word and stand unrepaired: Chapter 947 *A Sixth Column Is Offered*, 952 *Four People In Her Head*, 956 *The Second Name*, 961 *Two Copies Of One Pencil Line*, 963 *She Came Back At Nine*, 964 *A Sixth Column On Somebody Else's Form*, 966 *Four Names On The Back Of A Card*, 969 *Two Sheets In One Tray*, and 1011 *The Woman Who Said It First*.** Six of the nine are cardinals and three are ordinals. `outline/volume-20.md` deviation four forbids a number-word in a title without distinguishing the two, and the single precedent for enforcing it, Chapter 1012, was a cardinal. **None of the nine is repaired here, because `batch-0001/` and `batch-0002/` are closed phases and a closed phase is audited and not rewritten, and because a repair that took nine titles across two closed movements is not a review-repair pass's decision to make silently. IT IS RECORDED INSTEAD, at `state/open-threads.md`, and it is owed either to a Volume 20 close that is allowed to touch closed files or to the owner.**
 
 ## 5. `about`, AT THREE SCOPES AND UNDER ALL THREE CASE CONVENTIONS, WITH THE DENOMINATOR BESIDE EVERY CELL
 
 | Scope | Convention | Hits | Denominator | Rate per thousand |
 | --- | --- | --- | --- | --- |
-| body | case-sensitive | 431 | 15321 | 28.13 |
-| body | case-insensitive | 430 | 15321 | 28.07 |
-| body | capital-form-only | 1 | 15321 | 0.07 |
+| body | case-sensitive | 429 | 15317 | 28.01 |
+| body | case-insensitive | 430 | 15317 | 28.07 |
+| body | capital-form-only | 1 | 15317 | 0.07 |
 | apparatus | case-sensitive | 86 | 11031 | 7.80 |
 | apparatus | case-insensitive | 86 | 11031 | 7.80 |
 | apparatus | capital-form-only | 0 | 11031 | 0.00 |
-| whole file | case-sensitive | 517 | 26352 | 19.62 |
-| whole file | case-insensitive | 516 | 26352 | 19.58 |
-| whole file | capital-form-only | 1 | 26352 | 0.04 |
+| whole file | case-sensitive | 515 | 26348 | 19.55 |
+| whole file | case-insensitive | 516 | 26348 | 19.58 |
+| whole file | capital-form-only | 1 | 26348 | 0.04 |
+
+**THE CASE-SENSITIVE AND CASE-INSENSITIVE COLUMNS WERE TRANSPOSED IN THIS TABLE ON ITS FIRST PRINTING, IN TWO OF ITS THREE SCOPES, AND BOTH COLUMNS AND BOTH RATES ARE CORRECTED HERE.** The first printing gave body case-sensitive 431 against case-insensitive 430, and whole-file case-sensitive 517 against case-insensitive 516. **A case-insensitive count cannot be lower than a case-sensitive count of the same token under the same tokeniser, so the first printing was not a measurement that could stand and the instrument that produced it was not trusted again without a hand-check.** There is exactly one capital-form `About` on these ten pages and it is in Chapter 1024's body, which is why the case-sensitive figure is one lower than the case-insensitive figure in both scopes and why the apparatus row is equal under both. **The per-file table immediately below was correct on its first printing and is not transposed, and that is the check that located the fault: a per-file table and a pooled table built from the same ten files cannot disagree in that direction unless one of them has swapped two labels.** §15 records this.
 
 **Per file, whole-file scope, all three conventions:**
 
@@ -111,16 +115,16 @@
 | 1024 | 2581 | 52 | 20.15 | 51 | 19.76 | 1 |
 | 1025 | 2350 | 29 | 12.34 | 29 | 12.34 | 0 |
 | 1026 | 2733 | 61 | 22.32 | 61 | 22.32 | 0 |
-| 1027 | 2611 | 61 | 23.36 | 61 | 23.36 | 0 |
+| 1027 | 2617 | 61 | 23.31 | 61 | 23.31 | 0 |
 | 1028 | 2355 | 42 | 17.83 | 42 | 17.83 | 0 |
 | 1029 | 2345 | 35 | 14.93 | 35 | 14.93 | 0 |
-| 1030 | 2968 | 66 | 22.24 | 66 | 22.24 | 0 |
+| 1030 | 2958 | 65 | 21.97 | 65 | 21.97 | 0 |
 
-**PFILE is the mean of the ten per-file rates and PPOOL is the concatenated files counted once. The two are different quantities and both are printed: PPOOL 19.62 and PFILE 19.40 at whole-file scope, case-insensitively.**
+**PFILE is the mean of the ten per-file rates and PPOOL is the concatenated files counted once. The two are different quantities and both are printed: PPOOL 19.58 and PFILE 19.37 at whole-file scope, case-insensitively.**
 
 ### 5.1 THIS MOVEMENT WAS WRITTEN BELOW THE PRECEDING MOVEMENT'S RATE AND THE PROMPT ASKS WHAT WAS DONE, SO IT IS SAID HERE
 
-**The prompt asks this pass to say whether it wrote Movement III at a lower rate or at the same rate. It wrote it at a lower rate, and the figure is five points lower: nineteen and sixty-two hundredths pooled and nineteen and forty hundredths at file scope, case-insensitively, against Movement II's published twenty-four and fifty-nine hundredths pooled and twenty-four and seventy-three hundredths at file scope. Movement I's are eighteen and sixty-three hundredths pooled and eighteen and fifty-one hundredths at file scope.**
+**The prompt asks this pass to say whether it wrote Movement III at a lower rate or at the same rate. It wrote it at a lower rate, and on the pages as they now stand the figure is five points lower: nineteen and fifty-eight hundredths pooled and nineteen and thirty-seven hundredths at file scope, case-insensitively, against Movement II's published twenty-four and fifty-nine hundredths pooled and twenty-four and seventy-three hundredths at file scope. Movement I's are eighteen and sixty-three hundredths pooled and eighteen and fifty-one hundredths at file scope.** **THE FIRST PRINTING OF THIS SENTENCE READ NINETEEN AND SIXTY-TWO AND NINETEEN AND FORTY, AND BOTH FIGURES WERE CORRECT BEFORE THIS PASS BEGAN: they are this pass's own pool and file-scope rates measured over the pages as first written, and the two paragraphs of §15 moved one file's tokens and one file's hits, which is enough to move a pooled rate by four hundredths and a file-scope rate by three.**
 
 **WHAT WAS DONE WAS NOT A SUBSTITUTION PASS.** No mechanical replacement was run over these files before they were written and none was run over them afterwards, for the reason at `NOVEL_SPEC.md`'s fifth Status block: an instrument that damages prose must not be run first, and a hedge pass that rewrites prose and then reprints the rate is the exact failure this repository has already paid for once. **What was done was a decision about which register the word does in each sentence.** The word is this house's uncertainty register, its designation idiom and its clock-and-duration register, and all three of those jobs are honest uses of it. Movement III took the reading that **a duration is a duration and not a guess, and that the sentence is stronger without the hedge in front of a number the speaker has just watched happen**, so most of the movement's instances are in the idiom and not in front of a figure; and it took the reading that **a quantity of people who have said something since last week is exactly the kind of thing nobody in that city would state flatly**, so the house attribution idiom keeps the word. The three files carrying the lowest rates are the three whose argument is about counting: Chapter 1025 at twelve and thirty-four hundredths, Chapter 1029 at fourteen and ninety-three hundredths and Chapter 1028 at seventeen and eighty-three hundredths.
 
@@ -218,11 +222,11 @@ The sheet that was on the passage wall is `day − 2189`: **sixty-two days old o
 | a sitting number, or any figure for the book or the tin, or any difference between them | 0 | — |
 | the nine words of the correction | 0 | named as nine words on six pages and written out on none |
 | the four words | 0 | named on all ten and printed on none |
-| the ten objects at the foot of each page | 10 files | **all ten present on all ten pages, and no sentence on any of the ten pages holds two of them, checked sentence by sentence** |
+| the ten objects at the foot of each page | 10 files | **all ten present on all ten pages, and the rule as the pages write it holds on all ten: the footer's own claim is that not two of them are brought together in *any one of these sentences*, and each footer's ten sentences carry one object each. The wider claim this row first printed — that no sentence on any of the ten pages holds two of them — is FALSE, and §15 says where the eleven counterexamples are** |
 
 ## 10. WHAT THIS PASS CHANGED ON THE PAGES, AND WHY IT IS PUBLISHED AT THIS LENGTH
 
-**The ten chapters were written complete, and then eleven classes of defect were found by the instruments in this file and repaired by hand, in the same order in which they were found. Nothing below was found by reading the prose. Every item names the row that found it.**
+**The ten chapters were written complete, and then eight classes of defect were found by the instruments in this file and repaired by hand, in the same order in which they were found. Nothing below was found by reading the prose. Every item names the row that found it.** **THE FIRST PRINTING OF THIS SENTENCE SAID ELEVEN CLASSES AND THE TABLE BELOW HAS ALWAYS CARRIED EIGHT NUMBERED ROWS; the count is corrected to eight and no row has been added, because a pass cannot invent three defects to make a headline agree with a table. §15 records this and names the other five places the figure had spread to.**
 
 | # | What was found | Found by | What it was | Done |
 | --- | --- | --- | --- | --- |
@@ -257,4 +261,39 @@ The sheet that was on the passage wall is `day − 2189`: **sixty-two days old o
 
 ---
 
-*Ten chapters, 1021 to 1030, at `workspace/volume-20/batch-0003/`. Day map 2251 to 2264, weeks 337 to 339, load-book entries 1024 to 1033, governed counters 266 to 275. No sitting falls in this movement. **Written complete on the first pass, then eleven classes of defect found by the instruments and repaired by hand, including one hundred and ninety-three guardrail-three pair-hits that were all caused by a house template being copied rather than rewritten. Movement III is handed on. Movement IV is dispatched at `workspace/volume-20/batch-0004/PROMPT.md`, and no prompt exists for any chapter after Chapter 1040.***
+## 15. THE REVIEW-REPAIR PASS OVER THESE TEN FILES, DATED 5 OCTOBER 2026, AND WHAT IT FOUND
+
+**This section is appended by the pass that read `logs/batch-0003.review.log` and it is written in the same form as §8 of `batch-0003/PROMPT.md`: what a later pass found to be wrong is corrected in place above and recorded here, and not deleted.** The review log for this phase is a transcript and not a findings list — **the reviewer subagent fell back to the primary agent and the run was cut off before it wrote a verdict**, its last line being *Anchors all verify. Now the trap guardrails: the empty chair and bold-paragraph lengths.* **Everything below was therefore found by finishing that run's own checks and by auditing this file against its own pages, and no finding below is attributed to a reviewer that did not deliver one.** `logs/` is gitignored and is cited here only as the record of what was and was not delivered, which is the one thing a review log is good for.
+
+### 15.1 THE TWO TRAPS THE CUT-OFF RUN WAS ABOUT TO CHECK, AND BOTH WERE CLEAR
+
+**The place behind the woman's chair.** The calendar file at §2 and §5.7, and §3 of this movement's prompt, all place its printed figure on Chapter 1003 alone; **§5 of that prompt says its printed figure falls on Chapter 1023 alone, which contradicts all three, and the prompt's sentence is the error and not the pages'.** Chapter 1023 names the place once, at the ninth beat, in a sentence where Marek works the sum out with his hands behind him where nine people can see him doing it **and says no word of it aloud**, and no figure, no interval and no day-count for that place is printed on any of these ten pages or anywhere in this file. **The trap was not walked into, and the page's own construction is the reason: the sum is done in front of nine people and the figure is withheld from the reader as it is withheld from the room.** The prompt's sentence is corrected at `workspace/volume-20/batch-0003/PROMPT.md` §5 and recorded in that file's own §9, and it is corrected rather than deleted for the reason §6 of that prompt gives.
+
+**The opening bold paragraphs.** All ten stand inside the forty-to-seventy-five band at **51, 46, 48, 51, 49, 55, 62, 57, 51 and 54** on the pages as they now stand, none carries a numeral, and none states an outcome or reports anything a person in another building said. **The second half of that sentence was false of Chapter 1030 on the first write and is the fourth finding below.**
+
+### 15.2 THE FOUR FINDINGS, ALL TAKEN, AND TWO OF THEM TOOK PAGES
+
+| # | What was found | How it was found | What it was | Done |
+| --- | --- | --- | --- | --- |
+| 1 | Two titles carried a number-word | H1 sweep against `outline/volume-20.md` deviation four, which forbids one | **Chapter 1024 read *A Yes Given On The Second Landing* and Chapter 1028 read *The Third Thing Nobody Would Say*. `Second` and `Third` are number-words, the rule does not distinguish ordinals from cardinals, and the one precedent for enforcing it in this volume is Chapter 1012, renamed for the same reason.** This file's own §4 also asserted *none carrying a number-word*, so the measure and the pages were wrong together | **Chapter 1024 reads *The Yes She Could Not Take Back* and Chapter 1028 reads *The Place Where She Is Sitting*, which is the woman of about thirty-four's own phrase for what the page turns on. Both word counts are unchanged, so §4's row of figures did not move and only its claim had to become true** |
+| 2 | Three pairs of lead-ins shared their opening eight words | the opening-eight-words test the Movement III prompt §1 names and the twelve-token measure cannot perform | **Chapters 1023 and 1027, 1024 and 1029, 1025 and 1030. The prompt warned in advance that this frame was Movement I's single largest exposure at twenty-eight pair-hits across eight of ten files, that it came back on ten files with no prior repair, and that the measure returns zero on all ten and could return nothing else. It came back on six of ten files in three pairs** | **the later file of each pair re-opened: 1027, 1029 and 1030. Each still states its day and the shape of its day and each now leads with that day's own fact. All ten are now distinct at eight words** |
+| 3 | Chapter 1030's lead-in reported what a person in another building said | §6's own rule, read against the page | **the lead-in ended *Marek walked about nine minutes into a second district in the afternoon and was told there was nothing to print*, which is a printer in another district speaking, and it also gave away the page's turn eleven hours before the page delivers it at *then I have nothing to print*** | **the clause is gone. The walk to the second district and the printer's refusal are untouched in the body, where they were already on the page, so nothing was lost but the warning** |
+| 4 | Five cells of this file were wrong about its own pages | §4, §5 and §9 read back against the files | **§5's pooled `about` table had its case-sensitive and case-insensitive columns transposed in two of three scopes; §4's word table and lead-in row went stale the moment findings 1 to 3 were applied; §9's ten-objects row asserted a page-wide rule the pages do not write; and the headline said eleven classes against §10's eight rows** | **all five corrected in place, each with its own paragraph above saying what the first printing said** |
+
+### 15.3 THE TEN-OBJECTS CLAIM, AND WHERE THE ELEVEN COUNTEREXAMPLES ARE
+
+**§9 first printed that *no sentence on any of the ten pages holds two of them, checked sentence by sentence*. That is false and the false part is specific.** The footers carry the rule in Movement II's and Movement III's wording — *not two of them are brought together in any one of **these** sentences* — and by that wording all ten footers pass, one object per sentence, ten sentences, ten objects. **Movement I's wording at Chapter 1010 is wider: *no two of them are brought together in **any** sentence*, and by that wording all ten of these pages fail.**
+
+**Eleven sentences across the ten pages name two of the ten, and they are three inherited frames and not eleven defects.** *One:* on all ten, the closing-conditions sentence names the book in the green binding and the tin beside it together — *By ten on that Wednesday the book in the green binding had been shut and the tin beside it was down* — and it is the same sentence, in ten different wordings, on all ten of Movement II's files, where it stands as `workspace/volume-20/batch-0002/chapter-1020.md` line 157. *Two:* on nine, the day's callers sentence names the shop's own day-book and the shutter — and the day-book is **not** one of the ten objects, which are the book in the green binding, and a sweep that cannot tell two books apart will manufacture this counterexample on its own. *Three:* on ten, the sixteen-row standing-anchor docket names the card, the board, the nicks and the corners, but in sixteen rows and not in one sentence, and an instrument that drops paragraph breaks before it splits sentences will merge sixteen rows into one apparent sentence and report it. **All three are artefacts of a rule stated more widely than the pages state it, and none of them is repaired here, because the book-and-tin row is a required closing condition of this manuscript and not a clause of the ten-objects list, and because the other two are the instrument's and not the page's.** The rule is now printed at §9 as the pages write it, and the wider form is recorded at `state/open-threads.md` as a question about the wording rather than about these ten chapters.
+
+### 15.4 WHAT THIS PASS DID NOT TOUCH, AND WHY
+
+**It did not rewrite a chapter.** Five paragraph-level and two heading-level repairs, on five files, and not one scene, not one dialogue exchange, not one job line and not one word of Marek's or anybody else's mouth. **It did not change the plot, the day map, the anchors, the night run, the charges, the callers, the duplication result or any guardrail sweep, all of which it re-derived and found correct.** **It did not edit `outline/volume-20.md`, `NOVEL_SPEC.md`, `state/phase-ledger.json`, `scripts/`, `.github/workflows/`, `.opencode/agent/` or `AGENTS.md`.** **It did not edit `batch-0001/` or `batch-0002/`, and the nine unrepaired number-word titles it found while renaming two are recorded and not repaired.** **It did not create a prompt.** The Movement IV prompt already existed and was corrected in two places; no prompt for any chapter after Chapter 1040 exists and none was made.
+
+### 15.5 AND THE ONE FIGURE THIS PASS PUTS ON THE RECORD THAT NO INSTRUMENT IN THIS FILE PRODUCED
+
+**Movement III's ten lead-ins, measured at the opening eight words, now stand at zero shared keys across ten files, and the number of files involved in a collision before the repair was six and not four.** `workspace/volume-20/batch-0004/PROMPT.md` §7 states that *four of them still share their opening eight words*, **which is Movement II's published figure carried forward one movement and is wrong about these ten files**: the correct first-printing figure is six files in three pairs, and after the repair it is zero. **That sentence is corrected in place and not deleted, and it is the second time in two phases that a figure about lead-ins has been inherited instead of counted.**
+
+---
+
+*Ten chapters, 1021 to 1030, at `workspace/volume-20/batch-0003/`. Day map 2251 to 2264, weeks 337 to 339, load-book entries 1024 to 1033, governed counters 266 to 275. No sitting falls in this movement. **Written complete on the first pass, then eight classes of defect found by the instruments and repaired by hand, including one hundred and ninety-three guardrail-three pair-hits that were all caused by a house template being copied rather than rewritten. Movement III is handed on, with two titles and three opening paragraphs repaired after the fact by the pass recorded at §15 and with five cells of this file corrected by that same pass. Movement IV is dispatched at `workspace/volume-20/batch-0004/PROMPT.md`, and no prompt exists for any chapter after Chapter 1040.***
