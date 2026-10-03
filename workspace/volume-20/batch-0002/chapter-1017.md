@@ -154,7 +154,7 @@ The fifteenth of that board, low among the nineteen: 1695 days, two hundred and 
 The sixteenth of those lines, never once written on: 1670 days, two hundred and thirty-eight weeks and four days
 The seventeenth of the nineteen, standing under the sixteenth: 1652 days, two hundred and thirty-six weeks to the day
 The eighteenth of that board, second up from its foot: 1598 days, two hundred and twenty-eight weeks and two days
-The nineteenth and last ruled line on that board: 1576 days, two hundred and twenty-five weeks and two days
+The nineteenth and last ruled line on that board: 1576 days, two hundred and twenty-five weeks and one day
 That space on the sheet marked for a date, which stood empty for all of the above: 1570 days, two hundred and twenty-four weeks and two days
 The hold across nine crates and the floor beneath every one of them: 1513 days, two hundred and sixteen weeks and one day
 The man of about fifty-one, unmoved from that north wall: 1486 days, two hundred and twelve weeks and two days

@@ -213,7 +213,7 @@ That space on the sheet marked for a date, which stood empty for all of the abov
 The hold across nine crates and the floor beneath every one of them: 1504 days, two hundred and fourteen weeks and six days
 The man of about fifty-one, unmoved from that north wall: 1477 days, two hundred and eleven weeks to the day
 Nine copies of the front of one page, each of them torn at a corner: 1437 days, two hundred and five weeks and two days
-The post at the far end of that corridor, its face worn halfway up: 1419 days, two hundred and three weeks and six days
+The post at the far end of that corridor, its face worn halfway up: 1419 days, two hundred and two weeks and five days
 One written line written inside that box off that road: 1251 days, one hundred and seventy-eight weeks and five days
 That shop, that yard and that kitchen in: a cable freed from behind a plaster, a socket taken off a batten across a hole, a lead clipped under a shelf, an earth taken off a bracket.
 Not asked and not given: Marek was not told what to print and did not ask, and the man of about thirty-three was not asked who the other two are, and nobody in that building offered a name for the bottom line of anything.
