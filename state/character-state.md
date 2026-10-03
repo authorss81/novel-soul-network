@@ -1,4 +1,5 @@
-# LIVE — VOLUME 19 IS OPEN AND THE MANUSCRIPT STANDS AT CHAPTER 970, THE SATURDAY OF WEEK 323, DAY 2152, ENTRY 973, COUNTER 215. **FOUR PASSES HAVE NOW RAN AGAINST A BATCH WHOSE CHAPTERS ALREADY EXISTED, NONE OF THEM WRITING A CHAPTER, AND NONE OF THE FOUR CHANGING ANYBODY BY EVEN A NAME: NOT AN AGE, NOT A SEX, NOT A REFUSAL, NOT AN OFFER, NOT A COST, NOT A RELATIONSHIP.** THE THIRD RESTORED A MISSING TENTH OBJECT TO `chapter-0961.md`'S CLOSING APPARATUS LIST AND THAT IS NOT A PERSON. THE PASS OF 2 OCTOBER 2026 WAS HANDLED MOVEMENT II'S OWN WRITER PROMPT AGAINST TEN FILES ON DISK, VERIFIED THEM AT A PRINTED BOUNDARY AND REPAIRED ONE WORD ON CHAPTER 952. THE REVIEW-FIX PASS OF 3 OCTOBER 2026 REPAIRED NOTHING ON A PAGE. **THE FOURTH PASS, WHICH IS THIS ONE, EDITED NO CHAPTER AT ALL AND FOUND EIGHT DEFECTS, ALL EIGHT IN MEASURES OR CLAIMS ABOUT MEASURES; IT CORRECTED ONE FIGURE THAT HAD TRAVELLED THROUGH FOUR FILES OF THIS SET, PAID THE SIZE DEFECT IN BYTES, AND SETTLED NO OWNER ITEM.**
+# LIVE — THE CAST AFTER MOVEMENT IV OF VOLUME 19, AT CHAPTER 980. DATED 3 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **THE GOVERNING BLOCK OF THIS FILE IS THIS ONE AND IT IS ALSO THE LAST `# LIVE` HEADING IN IT.**
+
 
 
 **THE SIZE OF THIS FILE, MEASURED BEFORE AND AFTER, BOTH PRINTED AGAINST THE SAME NAMED STATE.** It stood at **118,877 bytes** when this pass began, against the about-sixty-KB rule at its own head, and it was over that figure before this pass and the rule asks that a pass which appends to it compacts it in that same pass rather than deferring it. **The thirteen blocks replaced here stood at 77,830 bytes between them. Nothing in them was summarised, softened, merged or reworded and no person was added, moved or withdrawn, and the whole of them is in the repository history — read it at `git show HEAD:state/character-state.md` and take the line ranges. AN INDEX LINE IS A POINTER AND NOT A SUBSTITUTE.**
@@ -21,6 +22,7 @@
 
 # LIVE — VOLUME 18 IS COMPLETE AND STANDS AT CHAPTER 940. MOVEMENT I SPENT SEVEN SUPPORTING-CAST SLOTS AGAINST A CEILING OF EIGHT AND MOVEMENT II SPENT TWO MORE, MOVEMENT III SPENT ZERO, MOVEMENT IV SPENT ONE — A WOMAN OF ABOUT SIXTY-TWO, THE PLAN OF RECORD'S OWN NAMED CHARACTER FOR THAT MOVEMENT — SO THE COUNT IS PUBLISHED UNSETTLED IN THREE READINGS AT `workspace/volume-18/batch-0004/SUMMARY.md` §6 AND IS NOT SETTLED BY ANY PASS. VOLUME 17 IS CLOSED AT CHAPTER 880 AND ITS PEOPLE DID NOT MOVE. THIS IS THE HEAD OF THE FILE AND IT IS A SIGNPOST AND NOT THE STATE. **THE GOVERNING BLOCK IS THE LAST ONE, HEADED *THE CAST AFTER MOVEMENT VI, WHICH IS THE LAST MOVEMENT OF VOLUME 18, AND WHAT EACH OF THEM DID IN IT*, AND A PASS THAT WANTS THE PEOPLE READS THAT ONE AND NOT THIS ONE. THE PREVIOUS VERSION OF THIS SENTENCE NAMED *THE CAST AFTER MOVEMENT V, AND WHAT EACH OF THEM DID IN IT*, WHICH IS STILL HERE AND IS NOW ARCHIVE; IT IS CORRECTED HERE AND NOT ARGUED, ON 4 OCTOBER 2026, BY THE REVIEW-FIX PASS, WHICH ALSO CORRECTED ONE LINE IN THAT BLOCK IN PLACE.** EVERY BLOCK BETWEEN THIS ONE AND IT IS ARCHIVE AND IS NOT STATE. A PASS THAT APPENDS TO THIS FILE CORRECTS THIS SENTENCE IN THE SAME PASS. THE PREVIOUS VERSION NAMED *THE CAST AFTER MOVEMENT IV, AND WHAT EACH OF THEM DID IN IT*, WHICH IS STILL HERE AND IS NOW FURTHER BACK; IT IS CORRECTED HERE AND NOT ARGUED.**
 
+
 **THE MANUSCRIPT STANDS AT CHAPTER 940, THE WEDNESDAY OF WEEK 316, DAY 2100, LOAD-BOOK ENTRY 943. VOLUME 18 IS COMPLETE AT SIXTY CHAPTERS AND VOLUME 17 IS CLOSED AT SIXTY CHAPTERS.** `workspace/volume-18/batch-0002/` placed two new people and one walk-on and Movement V placed one more, and **the spend accounting is published three ways at `batch-0005/SUMMARY.md` §6 and none of the three is settled here.** **Asha Reed is on no page of Movement II and is placed by `outline/volume-18.md` line 49 on Movement IV. Talia Venn is the ombud, is not a spend, and HER NAME IS AT ZERO ON ALL TEN FILES OF MOVEMENT II, where she does not appear at all; Volume 17 also has `Talia` at zero across all of its pages, and that is the plan of record's practice and not an omission. Sera Quill is on Chapters 891 and 892 of Movement II and on no other, and she removes him from nothing on either. Rafi Pell, Leo Marr, Oren Vey, Iven Sore and Dessa Kwan are on no page of Movement II, which is what the plan of record gives Movement III and is not an omission.** The people of Volume 17 did not move and no chapter of any earlier volume was edited. **THE WOMAN OF ABOUT THIRTY IS BEHIND THE SHUT DOOR OF THE FOURTH OF THOSE FOUR ROOMS ON ALL TEN DAYS AND IS NAMED, CATEGORISED, COUNTED, DESCRIBED AND ASKED NOTHING ON ALL TEN, NOBODY APOLOGISES TO HER, THE BINDER DID NOT COME OUT, AND HER PAGE'S FIGURE IS PRINTED NOWHERE.**
 
 **THE SPEND CEILING OF VOLUME 17 IS EIGHT ACROSS SIXTY CHAPTERS, AND THE COUNT ON THE FIFTY PAGES THAT EXIST IS NINE — OR TEN ON THE FIVE SUMMARIES' OWN OPENING SENTENCES — AGAINST THAT CEILING OF EIGHT, WITH PRINTED REMAINDERS OF SIX, SIX, FOUR AND FOUR.** A person who returns to a room in more than one file is still one person and is still no spend. The nine are named with their pages at §9.7 of `workspace/volume-17/ARITHMETIC-AND-CALENDAR.md`, and the four slots that would have remained were never spent and are named as unspent because no page names them.
@@ -37,6 +39,7 @@
 
 # LIVE — THE PEOPLE ON CHAPTER 890 AFTER THE REVIEW-FIX REPAIRS. THIS BLOCK IS THE STATE OF THIS FILE AND IT IS DATED AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND IS NOT STATE. **NOBODY ENTERED, LEFT, CHANGED NAME, CHANGED AGE OR CHANGED SEX IN THIS PASS.**
 
+
 **THE ONLY PROSE THIS PASS TOUCHED IS TWO SENTENCES IN CHAPTER 883'S APPARATUS, AND NEITHER OF THEM IS ABOUT A PERSON.** The ninth-chair sentence in that file's conditions of the close and the opening of that file's paragraph about what the sheet is not were reworded, because a read-only review found that Chapter 883 used one twelve-word opening twice on its own page and shared another with Chapter 881. **A person is referred to in neither sentence differently than before, no dialogue was reworded, no line of speech was given to or taken from anybody, and no one on any of the ten files was made larger or smaller by it.**
 
 **THE SPEND COUNT IS SEVEN AGAINST A CEILING OF EIGHT AND ONE REMAINS, AND THE HEAD OF THIS FILE SAID SIX AND TWO UNTIL THIS PASS CORRECTED IT.** The prompt's own sixth spend, a man of about nineteen who takes minutes in a corridor, is on no file of Movement I and is recorded unspent with its reason. **A woman of about thirty-one, who is not on the prompt's list, carries the discovery of the fifth column and the question of what a review is for on Chapter 888, and she is recorded as a seventh spend rather than as a walk-on.** Neither correction flatters the pass that found it.
@@ -49,6 +52,7 @@
 
 
 # ARCHIVE INDEXED — 3 OCTOBER 2026, BY THE MOVEMENT V PASS — FOUR SUPERSEDED VOLUME 18 CAST BLOCKS
+
 
 **The four Volume 18 cast blocks from Movement I to Movement III are replaced by one index line each, carrying their own heading and their former line range in this file as of commit `225c65c`. Nothing in them was summarised or reworded. Read one back at `git show 225c65c:state/character-state.md` and take the line range; an index line is a pointer and not a substitute.**
 
@@ -65,6 +69,7 @@
 
 # ARCHIVE INDEXED — 2 OCTOBER 2026, BY THE REPAIR PASS ON CHAPTERS 941 TO 950 — TWO SUPERSEDED VOLUME 18 CAST BLOCKS, FORMERLY LINES 66 TO 125, READ THEM AT `18468b4`
 
+
 **THE TWO BLOCKS THIS ONE REPLACES STOOD AT 15923 BYTES BETWEEN THEM. THE FIRST DECLARES ITSELF SUPERSEDED IN ITS OWN FIRST LINE AND THE SECOND IS VOLUME 18'S LAST MOVEMENT AND IS CARRIED FORWARD BY EVERY VOLUME 19 BLOCK ABOVE AND BY `bible/characters.md`.** Nothing was summarised, softened or reworded, and no name, age, sex, tenure, opinion, refusal, offer or cost was changed, and no chapter was edited. **The whole of them is in the repository history at `git show 18468b4:state/character-state.md`, lines 66 to 125. An index line is a pointer and not a substitute; do not reconstruct a cast block from one.**
 
 - **Formerly lines 66–83** — 6957 bytes — # ARCHIVE — THE CAST AFTER MOVEMENT V OF VOLUME 18, AND WHAT EACH OF THEM DID IN IT. IT SAYS *SUPERSEDED* IN ITS OWN FIRST LINE.
@@ -73,6 +78,7 @@
 ---
 
 # LIVE — THE CAST AFTER VOLUME 19 MOVEMENT I, CHAPTERS 941 TO 950, AND WHAT EACH OF THEM DID IN IT. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **THE GOVERNING BLOCK OF THIS FILE IS THIS ONE AND IT IS ALSO THE LAST `# LIVE` HEADING IN IT.**
+
 
 **Volume 19 opened on the Monday of week 317, day 2105, five days after the Wednesday Volume 18 closed on, and Movement I runs to day 2115. NOTHING IN IT REVERSES, SOFTENS OR RETCONNS ANYTHING VOLUME 15, 16, 17 OR 18 SETTLED. No person below entered a page, left one, changed name, changed age or changed sex in this movement, and no one died.**
 
@@ -114,9 +120,11 @@
 
 # LIVE — THE PEOPLE AT CHAPTER 960, AFTER VOLUME 19 MOVEMENT II. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH IS ARCHIVE AND NOT STATE. **NOBODY ENTERED, LEFT, CHANGED NAME, CHANGED AGE OR CHANGED SEX IN THIS PASS.**
 
+
 **Marek** signed nothing new, asked nothing of Talia, and stays out of the holding. **Talia** used her office on him once about the request and closed the file. **Sera Quill** has a room, a day, and a second holder in a woman of about forty-five, who is frightened and not unwilling. **The man of about sixty-one** holds the book and will open the room on her day. **The woman of about forty-three** keeps the sheet; **the man of about thirty-three** leaves his old copy lying; **the man of about thirty-eight** keeps the notice up; **the man of about fifty-two** reports the pencil. The five placed names and Evan Senn are at zero on all ten files. Iona Sorn is at zero on all ten files.
 
 # ARCHIVE — THE PEOPLE AFTER THE REPAIR PASS ON CHAPTERS 951 TO 960. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND NOT STATE. **NOBODY ENTERED, LEFT, CHANGED NAME, CHANGED AGE OR CHANGED SEX, AND NOBODY'S POSITION ON ANY PAGE MOVED.**
+
 
 **WHAT A PASS LOADING ONLY THIS BLOCK NEEDS ABOUT THE PEOPLE, IN SEVEN LINES.**
 
@@ -134,6 +142,7 @@
 ---
 
 # LIVE — THE PEOPLE AFTER MOVEMENT III OF VOLUME 19, AT CHAPTER 970. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **RELABELLED AS ARCHIVE BY THE REVIEW-FIX BLOCK AT THE FOOT, WHICH CHANGED NOBODY. THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IS NOT THIS ONE.**
+
 
 **NOBODY ENTERED, LEFT, CHANGED NAME, CHANGED AGE OR CHANGED SEX IN THIS PASS, AND NO NEW NAMED PERSON APPEARED ON ANY OF THE TEN FILES.**
 
@@ -162,6 +171,7 @@
 
 # ARCHIVE — THE PEOPLE AFTER THE REVIEW-FIX PASS ON CHAPTERS 961 TO 970, AT CHAPTER 970. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **RELABELLED AS ARCHIVE BY THE REPAIR PASS ON CHAPTERS 941 TO 950, WHICH CHANGED NOBODY. THE GOVERNING BLOCK OF THIS FILE IS THE LAST `# LIVE` HEADING IN IT AND IS NOT THIS ONE.**
 
+
 **NOBODY CHANGED. Not a name, not an age, not a sex, not a tenure, not an opinion, not a refusal, not an offer, not a cost, and not a single line of anybody's dialogue.** The cast after Movement III in the block above is the cast now. **The manuscript is at Chapter 970 and the ten files are the same ten files.**
 
 **THE ONLY THING THIS PASS TOUCHED THAT A CHARACTER COULD BEAR IS THE SENTENCE A CHARACTER IS DESCRIBED IN, AND IT WAS NOT SOMEBODY'S LINE.** One interchangeable sentence about a silence — *Nobody in that room said anything for about nine seconds* — stood on twenty-five paragraphs across the ten chapters, each one followed by a retrospective certification of what somebody later said about it. **Twenty-two of the twenty-five were rewritten into twenty-two different sentences, in the paragraphs that describe the rooms, and three were kept.**
@@ -178,29 +188,8 @@
 
 ---
 
-# ARCHIVE — THE PEOPLE AFTER THE REPAIR PASS ON CHAPTERS 941 TO 950, AT CHAPTER 970. DATED 2 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE. **RELABELLED AS ARCHIVE BY THE PASS HANDLED MOVEMENT II'S OWN PROMPT AGAINST FILES THAT ALREADY EXISTED. THE CLAIM IN THE PREVIOUS WORDING OF THIS HEADING, THAT THE GOVERNING BLOCK OF THIS FILE IS THIS ONE, WAS TRUE WHEN IT WAS WRITTEN AND IS NOT TRUE NOW; THE GOVERNING BLOCK IS THE LAST `# LIVE` HEADING IN THIS FILE AND IT IS AT THE FOOT.**
-
-**NOBODY CHANGED. Not a name, not an age, not a sex, not a tenure, not an opinion, not a refusal, not an offer, not a cost, and not a single line of anybody's dialogue.** The cast after Movement III stands exactly as the block above sets it out. **This pass touched ten pages and every one of the nine defects it repaired was in a closing apparatus, a closing frame, a load-book header or a figure, and none of them is a sentence anybody says.** The lead and his partner are still `Marek` and `Talia`, named on every page either appears in, with no surname for either.
-
-**AND THAT IS THE FINDING ABOUT THE CAST, NOT AN ABSENCE OF ONE. Nine defects on ten pages and not one of them in a scene.** A pass that reports *nothing in the cast changed* on a pass that found nine page defects is either doing a clean repair or is not looking at the right layer, and the useful thing to record is which of the two it was.
-
-**ONE LINE OF DIALOGUE WAS TOUCHED AND IT WAS NOT SOMEBODY'S LINE.** On Chapter 950 a woman reading a docket on a stair said `right.` and she now says `that is correct.` **It is the same word and it is the fourteenth form of a word guardrail nine bans, and the previous measure of record had classified thirteen of the fourteen and left this one out.** All thirteen that remain are accounted for: nine copular, two the fixed phrase *all right*, two the compound *right-hand*, on four files. **Nobody's opinion changed and nobody's mouth moved.**
-
-**AND ONE NARRATOR'S CLAIM ABOUT A PERSON WAS REPLACED BECAUSE A CHAPTER CONTRADICTED IT.** Chapter 949 described the man of about sixty-one as *a man who has been refused twice in four years*, and Chapter 948 has that man granting the only request in four years and refusing the one in front of him. He is now described by what Chapter 948 establishes about him, which is that he does not let anybody past that desk. **He is still a landlord and a filing system, still nine years at it, still right about the envelope, and still not made to give way on any of it.**
-
-## THE CAST FACTS A LATER PASS INHERITS FROM CHAPTERS 941 TO 950, AND THEY DID NOT MOVE
-
-`Marek`, twenty-two, signs a request about nine people he cannot name and it is the first document in this matter with a name on it, and the name is not one of the nine's; **the name the woman of about forty-three wrote at the top of it is crossed off and he has said since that he did not know when he signed that the page would not come to him, and that he would have signed it anyway.** `Talia`, the independent consent ombud, answers him without the office on 943, is in the room on 946 and 949 for reasons of her own, and **the office is not used on him on any of these ten days.** `Sera Quill`, about forty-five, says yes to reading the page, will not do it alone, will not do it in that room, has four people in her head and has asked none of them. The woman of about fifty-one gave her name out loud in that room on the Saturday, would not have it written on the Saturday, and **about nine people hold it and nothing else does.** The man of about thirty-three has been in the records room twice, was given what he asked for both times, and was never shown the hand the nine were written in. The woman of about sixty has two copies of the sheet that disagree in the fifth column and nobody has asked her whose they are. The man of about thirty-eight keeps a clinic for nine years and put the form on the wall himself and will not take it down. The man of about fifty-two offered to be the name under a sixth column and about four people said they would rather he did not. The man of about thirty-three said a column is cheaper than a person and that is why it will happen, and that has not been a lie since.
-
-**AND NOTHING ELSE IS STATE.** No owner item was settled or recommended, no seventh owner item was opened, **Iona Sorn is at zero on all thirty of this volume's files and is in public custody and is unanswered and is not absolved**, and `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore`, `Lena Senn` and `Evan Senn` are all at zero on all ten of these files, and no page was invented for any of them.
-
-**THE SIZE OF THIS FILE, MEASURED BOTH SIDES AGAINST THE COMMIT BOTH FIGURES WERE TAKEN AT, BECAUSE A SIZE PRINTED WITHOUT THE COMMIT IT WAS TAKEN AT CANNOT BE CHECKED.** It stood at **58,408 bytes at `18468b4`**, this pass's append carried it to 63,355, **and it is 48,724 bytes now.** The append put it over the about-sixty-KB mark and **this pass therefore compacted its own archive in the same pass that made it too large**, replacing two superseded Volume 18 cast blocks at 15,923 bytes with one index that names each heading, its byte count and its former line range, and points at the history. **The one Volume 19 Movement I cast block was deliberately left in prose rather than indexed, because it is the canonical cast record for the ten pages this pass repaired and this block corrects it rather than replacing it.**
-
-## THE NEXT PHASE
-
-**`workspace/volume-19/batch-0004/` — Movement IV, Chapters 971 to 980, days 2156 to 2168, weeks 324, 325 and 326, entries 974 to 983. Unchanged by this pass, and its prompt is already written.**
-
 # LIVE — THE PEOPLE AFTER THREE PASSES THAT WROTE NO CHAPTER, AT CHAPTER 970. THE PASS OF 2 OCTOBER 2026 WAS HANDLED MOVEMENT II'S OWN WRITER PROMPT AGAINST TEN CHAPTER FILES THAT ALREADY EXISTED; THE REVIEW-FIX PASS OF 3 OCTOBER 2026 AMENDED THIS BLOCK IN PLACE AND CHANGED NOBODY. **THE GOVERNING BLOCK OF THIS FILE IS THIS ONE AND IT IS ALSO THE LAST `# LIVE` HEADING IN IT.**
+
 
 **NOBODY CHANGED, AND THE CORRECTION TO THE BLOCK ABOVE IS TO ITS HEADING ALONE.** Not a name, not an age, not a sex, not a tenure, not an opinion, not a refusal, not an offer, not a cost, and not a line of anybody's dialogue. **Neither pass wrote a chapter and neither moved a person; together they verified ten chapter files that already existed, changed one word on one of them in a closing charge sentence — which is not a person's line — and repaired one stale heading in `state/chapter-summaries.md` that is not a person's line either.** **The one open prose fault in the volume, the collision between Chapter 950 and Chapter 964, is a duplicated charge formula and not a duplicated line of dialogue, so it moves nobody in this file; its owner now carries it in `workspace/volume-19/batch-0004/PROMPT.md` at §6 and at item 10.**
 
@@ -216,10 +205,23 @@
 
 ---
 
-# LIVE — THE PEOPLE AFTER A THIRD PASS THAT RESTORED ONE OBJECT TO ONE CLOSING APPARATUS BLOCK AND CHANGED NO PERSON. **THE GOVERNING BLOCK OF THIS FILE IS THIS ONE AND IT IS ALSO THE LAST `# LIVE` HEADING IN IT.**
+# LIVE — THE PEOPLE AFTER MOVEMENT IV OF VOLUME 19, AT CHAPTER 980. DATED 3 OCTOBER 2026, AFTER EVERY BLOCK ABOVE, WHICH ARE ARCHIVE AND ARE NOT STATE
 
-**NOTHING ABOUT ANYBODY IN THIS MOVEMENT MOVED, AND THE ONE PAGE REPAIR WAS NOT ABOUT A PERSON.** `chapter-0961.md` named nine objects in its closing ten-objects list and carried no pencil; the tenth is restored in that page's own wording. **The man of about fifty-two who brings the register still rules a line under the copy and still will not say whose hand wrote the word. Marek still has a question he has not finished asking and still has not been refused a second time. Talia has still used her office on him once in this movement and no page counts it. Sera Quill has still not decided and no page has her decide. The woman of about fifty-one has still not been asked why she came. The register still stands at four with no fifth printed.** No name, no age, no sex, no tenure, no opinion, no refusal, no offer and no cost was added, removed or softened on any of the ten files.
 
-**AND THE ONE CAST-LEVEL SWEEP WAS RUN AGAIN AND IS AT ZERO.** `Iona Sorn`, `Evan Senn`, `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore` and `Lena Senn` are on no page of this movement. `fair`, `unfair`, `justice`, `rightful`, `principle`, `right`, `coalition`, `feed`, `telephone`, `messenger`, `broadcast` and `review` are at zero on all ten files. `Marek` stands at one hundred uses, `Talia` at twelve and `Sera Quill` at thirty-six, and the doubled-word sweep returns zero.
+**NOBODY CHANGED NAME, AGE OR SEX IN THIS PASS. FOUR PEOPLE CAME ONTO THE PAGES AND EVERY ONE OF THEM EXISTED INSIDE THIS MATTER BEFORE AND IS NEW ONLY AS A PERSON.** The measure of record for the ten days is `workspace/volume-19/batch-0004/SUMMARY.md` and it is not in this file.
 
-**THE FIGURES A CAST BLOCK MAY CARRY ARE AT `workspace/volume-19/batch-0003/SUMMARY.md` §§12 AND 13**, which is where they are printed with the boundary beside each one. **A FOURTH PASS CORRECTED ONE OF THEM IN SIX PLACES AND IT IS THE `about` PAIR: file scope case-sensitively is 10.99 and not the 10.98 four files carried**, the figure being the mean of ten per-file rates that §4 prints and that average 10.98547, and the pre-repair mean was 10.98949 and also rounds to 10.99. **NOT ONE PERSON CHANGED IN THIS PASS. No age, no sex, no refusal, no offer, no cost, no relationship and no name moved, and the cast-level sweeps were not re-run because nothing a person does or says was touched; the one sentence on `chapter-0961.md` from two passes ago is a closing apparatus object and not a person, and this pass edited no chapter at all.**
+**THE WOMAN OF ABOUT FIFTY-FOUR. NEW TO THE VOLUME.** She has kept a room off a line in Saltmarket for six years and runs a sitting about every four weeks, and the room is open to anybody because nobody can be told in advance who a sitting is for. **She is not an officer of anything, she is not on any form, she is not the institution and she has never been asked who she was before Chapter 971.** She refused twice in nine words — to write down a list, and to write down the word a woman said in her room — and she put ten blanks down on nine chairs and a place behind her own chair on the Saturday and said she would not do it again. **She has not been asked why she keeps that room and no page says.**
+
+**THE WOMAN OF ABOUT SIXTY-TWO. NEW TO THE VOLUME.** She is not one of the nine and has never been on a sheet with nine rows on it and she said so out loud on a page. She carried one word since a Wednesday about four years before Chapter 971, said it once in a room with about nine people in it on the Friday, was not thanked and was not asked to stay, and on the second Sunday asked Marek to say it back to her so that she could hear it in another voice, and he would not, and she said she would rather she had kept it. **She has given away a thing and got nothing for it and no page in this movement forgives anybody, including her son.**
+
+**THE MAN OF ABOUT THIRTY-THREE. NOT NEW; HE GAINED A RELATIONSHIP.** He left the only copy of the sheet with an empty fifth column lying on a table in that shop on day 2150 and has wanted to give it away ever since. **He is the woman of about sixty-two's son, and that is new, and it is the only relationship in this matter that anybody in this matter has said out loud.** On the Thursday he refused to put the copy into a room anybody may walk into, and told Marek that three people have the word and one of the three has it wrong, and would not say which three.
+
+**THE WOMAN OF ABOUT FIFTY-FOUR AND THE WOMAN OF ABOUT SIXTY-TWO ARE NEVER IN A ROOM ALONE WITH EACH OTHER AND ARE NEVER CONFUSED.** The first keeps the room; the second sat at the back of it on the Friday and was absent from it on the Saturday.
+
+**EVERYBODY ELSE.** Marek, twenty-two, is the man of twenty-two throughout and refused one thing this movement that he wanted. Sera Quill has still not decided and is not asked to decide and named three things he could do. Talia used no office and appeared once, at a counter on a Sunday, to say in one line that she is the one person in this city not permitted to ask a woman what she meant. The woman of about forty-five did not go into the room with the book and said why. The woman of about forty-three is the woman who made the form with five columns and has nine hundred blanks behind it. The woman of about fifty-one has been asked why she comes and answered. The woman of about thirty was behind a shut door on all ten days, was not asked anything, was not named, and was in no room with the woman of about fifty-one or the woman of about thirty-three.
+
+**AND THE FIVE ABSENT PLACED NAMES ARE AT ZERO AGAIN.** `Rafi Pell`, `Dessa Kwan`, `Oren Vey`, `Iven Sore` and `Lena Senn` are on no page of this movement and `Evan Senn` is at zero, and no page was invented for any of them. **Iona Sorn is at zero on all forty of this volume's files and is in public custody and is unanswered and is not absolved.**
+
+# ARCHIVE INDEXED — 3 OCTOBER 2026, BY THE MOVEMENT IV WRITER PASS — TWO SUPERSEDED BLOCKS, RECOVER THEM AT `6f90ed8` AND `cde07dc`. **NEITHER CARRIED A LIVE THREAD AND BOTH ARE SUPERSEDED BY THE MOVEMENT IV BLOCK AT THE FOOT OF THIS FILE. NOTHING WAS SUMMARISED, SOFTENED OR REWORDED, NO PERSON CHANGED, AND NO CHAPTER WAS EDITED. AN INDEX LINE IS A POINTER AND NOT A SUBSTITUTE.**
+- The people after the repair pass on Chapters 941 to 950, at Chapter 970, formerly a `# ARCHIVE` block of 5,184 bytes, read at `6f90ed8`.
+- The people after a third pass that restored one object to one closing apparatus block and changed no person, formerly a `# LIVE` block of 2,217 bytes, read at `cde07dc`.

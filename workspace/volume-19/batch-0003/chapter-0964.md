@@ -104,7 +104,7 @@ She fitted the ring and proved the fitting with the shop lit.
 
 "**Ten pounds,**" she said. "**A holder with no ring is a hand that gets warm doing a day's work. Four of those holders in that row have no ring, and one of them has been a bench somebody has turned away from for four years.**"
 
-**Thirty-four pounds is what those four came to on that Thursday, exact.**
+**Thirty-four pounds is all those four came to on that Thursday, exact.**
 
 ---
 
