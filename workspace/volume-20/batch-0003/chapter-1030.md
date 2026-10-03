@@ -108,13 +108,13 @@ A lamp in that shop had been put in with a flex that had been taped where it pas
 
 He took the lamp down, re-routed it away and proved it.
 
-"**Seven pounds,**" he said. "**Flex taped to a hot pipe is flex that has been warm for about four years. Lamps in that shop are like it, and one of them has been a ceiling about four of them have looked up and wondered why the bulb goes.**"
+"**Seven pounds,**" he said. "**Flex taped to a hot pipe is flex that has been warm for about four years. Lamps in that shop are like it, and one of them has been a ceiling that about four of them have looked up and wondered why the bulb goes.**"
 
 A socket in that yard had been put in on a plate that had come away from the brick.
 
 He took it off, re-bedded it and proved the socket.
 
-"**Six pounds,**" he said. "**A plate that has come away is a plate that has been off that wall already. Sockets in that yard are like that, and one of them has been a wall about four of them have had a plug fall out of.**"
+"**Six pounds,**" he said. "**A plate that has come away is a plate that has been off that wall already. Sockets in that yard are like that, and one of them has been a wall that about four of them have had a plug fall out of.**"
 
 A cooker in that kitchen had been put in with a socket above it that had no earth.
 
@@ -126,7 +126,7 @@ An outside light on that wall had been put in on a bracket that had been welded 
 
 He unhooked it, put a proper wall fixing in and proved the light.
 
-"**Six pounds,**" he said. "**A light welded to a fence is a light that belongs to a fence, and the fence has moved. Lights on that wall are like it, and one of them has been a yard about four of them have come home up to.**"
+"**Six pounds,**" he said. "**A light welded to a fence is a light that belongs to a fence, and the fence has moved. Lights on that wall are like it, and one of them has been a yard that about four of them have come home up to.**"
 
 **Twenty-six pounds is the sum of those four on that Saturday, exact.**
 

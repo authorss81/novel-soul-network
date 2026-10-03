@@ -92,19 +92,19 @@ A lamp in that yard had been put in with a ceiling rose that had come away from 
 
 He made a new box in, fixed the rose to it and proved the lamp.
 
-"**Eight pounds,**" he said. "**A rose that has come away is a rose that has been hanging on two screws for about four years. Lamps in that yard are like that, and one of them has been a ceiling about four of them have put a chair under to reach it.**"
+"**Eight pounds,**" he said. "**A rose that has come away is a rose that has been hanging on two screws for about four years. Lamps in that yard are like that, and one of them has been a ceiling that about four of them have put a chair under to reach it.**"
 
 A cooker in that kitchen had been put in with the earth lead cut short at the back.
 
 He re-terminated it, bonded the case and proved the cooker.
 
-"**Ten pounds,**" he said. "**A cooker with its earth cut short is a cooker somebody has already tried to fix. Cookers in that kitchen are like that, and one of them has been a wall about four of them have had a man look at twice.**"
+"**Ten pounds,**" he said. "**A cooker with its earth cut short is a cooker somebody has already tried to fix. Cookers in that kitchen are like that, and one of them has been a wall that about four of them have had a man look at twice.**"
 
 A light in that hallway had two switches at the bottom and none at the top.
 
 He took one out, put it at the top and proved the light from the landing.
 
-"**Nine pounds,**" he said. "**A switch at the bottom and none at the top is a stair somebody has to feel their way down. Lights in that hallway are like it, and one of them has been a landing about four of them have come up in the dark for four years.**"
+"**Nine pounds,**" he said. "**A switch at the bottom and none at the top is a stair somebody has to feel their way down. Lights in that hallway are like it, and one of them has been a landing that about four of them have come up in the dark for four years.**"
 
 **Thirty-six pounds is the sum of those four on that Wednesday, exact.**
 

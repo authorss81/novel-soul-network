@@ -102,7 +102,7 @@ A lamp in that shop had been put in with a holder bent out of shape where a bulb
 
 He took the holder out, put a new one in and proved the lamp.
 
-"**Eight pounds,**" he said. "**A holder bent by somebody's thumb is a holder that has already dropped out once. Holders in that shop are like that, and one of them has been a ceiling about four of them have put a chair ladder under.**"
+"**Eight pounds,**" he said. "**A holder bent by somebody's thumb is a holder that has already dropped out once. Holders in that shop are like that, and one of them has been a ceiling that about four of them have put a chair ladder under.**"
 
 A socket in that yard had been put in outdoors under an open-sided shelter.
 
@@ -120,7 +120,7 @@ A light on that landing had been put in with a switch that worked and a lamp tha
 
 He found the break in the flex, made it up properly and proved the light from the door.
 
-"**Nine pounds,**" he said. "**A switch that works and a lamp that does not is a landing where people stand in the dark working out which of the two is broken. Landings in that block are like it, and one of them has been a front door about four of them have come home up to.**"
+"**Nine pounds,**" he said. "**A switch that works and a lamp that does not is a landing where people stand in the dark working out which of the two is broken. Landings in that block are like it, and one of them has been a front door that about four of them have come home up to.**"
 
 **Thirty-three pounds is the sum of those four on that Wednesday, exact.**
 

@@ -86,13 +86,13 @@ A bell in a hall had its transformer screwed to a skirting board at the bottom o
 
 He took it off, put it on the wall beside the door and proved the bell from the top landing.
 
-"**Five pounds,**" he said. "**A transformer on a skirting is a bell that goes when somebody leans on the wall. Bells in that hall are like that, and one of them has been a front door about four of them have been locked at eleven for four years.**"
+"**Five pounds,**" he said. "**A transformer on a skirting is a bell that goes when somebody leans on the wall. Bells in that hall are like that, and one of them has been a front door that about four of them have been locked at eleven for four years.**"
 
 A socket in that kitchen had been put in over a sink on an old lead with the earth taken off somewhere under the worktop.
 
 He found the earth, took it up to the box and proved the socket with a kettle.
 
-"**Six pounds,**" he said. "**A socket over a sink with no earth is a socket that is wet and un earthed at the same time. Sockets in that street are like it, and one of them has been a kitchen about four of them have had a kettle stood on for four years.**"
+"**Six pounds,**" he said. "**A socket over a sink with no earth is a socket that is wet and un earthed at the same time. Sockets in that street are like it, and one of them has been a kitchen that about four of them have had a kettle stood on for four years.**"
 
 A lamp in that yard had been hung off a length of flex tied round a nail and over the top of a gate post.
 

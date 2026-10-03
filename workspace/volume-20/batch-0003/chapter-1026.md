@@ -116,13 +116,13 @@ A lamp in that shop had been put in with a holder that had been painted round an
 
 He took the lamp down, re-hung it square and proved it.
 
-"**Twelve pounds,**" he said. "**A lamp out of plumb is a lamp that has been pulled and put back by whoever was nearest. Lamps in that shop are like it, and one of them has been a ceiling about four of them have put a chair under.**"
+"**Twelve pounds,**" he said. "**A lamp out of plumb is a lamp that has been pulled and put back by whoever was nearest. Lamps in that shop are like it, and one of them has been a ceiling that about four of them have put a chair under.**"
 
 A socket in that yard had been put in on an extension lead instead of a socket.
 
 He put a socket in and took the lead away.
 
-"**Ten pounds,**" he said. "**A lead instead of a socket is a socket somebody has had to keep one end of a lead in. Sockets in that yard are like that, and one of them has been a wall about four of them have run a lead to.**"
+"**Ten pounds,**" he said. "**A lead instead of a socket is a socket somebody has had to keep one end of a lead in. Sockets in that yard are like that, and one of them has been a wall that about four of them have run a lead to.**"
 
 A cooker in that kitchen had been put in with a wall that had no earth bar in it.
 
@@ -134,7 +134,7 @@ A light in that garage had been put in with a switch that was outside the door.
 
 He moved it inside and proved it from the workbench.
 
-"**Ten pounds,**" he said. "**A switch outside a garage door is a switch that is out of reach in the dark. Lights in that garage are like it, and one of them has been a doorway about four of them have felt for a wall.**"
+"**Ten pounds,**" he said. "**A switch outside a garage door is a switch that is out of reach in the dark. Lights in that garage are like it, and one of them has been a doorway that about four of them have felt for a wall.**"
 
 **Forty-one pounds is the sum of those four on that Monday, exact.**
 

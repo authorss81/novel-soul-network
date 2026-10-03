@@ -82,7 +82,7 @@ A lamp in that yard had been put in on a holder with a piece of tape round the b
 
 He took it off, made a proper holder and proved the lamp.
 
-"**Seven pounds,**" he said. "**Tape round the base of a holder is a holder somebody has already given up on. Lamps in that yard are like that, and one of them has been a wall about four of them have taped.**"
+"**Seven pounds,**" he said. "**Tape round the base of a holder is a holder somebody has already given up on. Lamps in that yard are like that, and one of them has been a wall that about four of them have taped.**"
 
 A cooker in that kitchen had been put in with the cable tied behind it with a bootlace.
 
@@ -94,7 +94,7 @@ A porch light had been put in with a switch that buzzed when it was pressed.
 
 He took it out, found the fault and proved the light from the step.
 
-"**Eight pounds,**" he said. "**A switch that buzzes is a switch with an arc in it about a week before it stops. Porch lights are like that, and one of them has been a step about four of them have come home up in the dark.**"
+"**Eight pounds,**" he said. "**A switch that buzzes is a switch with an arc in it about a week before it stops. Porch lights are like that, and one of them has been a step that about four of them have come home up in the dark.**"
 
 **Thirty-one pounds is the sum of those four on that Friday, exact.**
 

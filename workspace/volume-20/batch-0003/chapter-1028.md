@@ -70,7 +70,7 @@ A distribution board in that shop had two circuits joined together with a bit of
 
 He separated the circuits, put a board where it could be reached and proved the lot.
 
-"**Fourteen pounds,**" he said. "**Two circuits joined together above a ceiling is a board that nobody can get to when it trips. Boards in that shop are like it, and one of them has been a ceiling about four of them have had a chair and a torch under.**"
+"**Fourteen pounds,**" he said. "**Two circuits joined together above a ceiling is a board that nobody can get to when it trips. Boards in that shop are like it, and one of them has been a ceiling that about four of them have had a chair and a torch under.**"
 
 A light in that yard had been put in with a lamp holder screwed into a length of conduit that was hanging on two clips.
 
@@ -88,7 +88,7 @@ A stairwell light had been put in with a lamp in the middle of the flight where 
 
 He took it out, put two lamps in where they could be reached and proved both.
 
-"**Thirteen pounds,**" he said. "**A lamp in the middle of a flight is a lamp that means a ladder in a stairwell. Stairwell lights are like it, and one of them has been a stair about four of them have gone up in the dark for four years.**"
+"**Thirteen pounds,**" he said. "**A lamp in the middle of a flight is a lamp that means a ladder in a stairwell. Stairwell lights are like it, and one of them has been a stair that about four of them have gone up in the dark for four years.**"
 
 **Fifty-two pounds is the sum of those four on that Thursday, exact.**
 

@@ -104,7 +104,7 @@ A bell in that hall had its transformer screwed to the underside of the top trea
 
 He came off it, ran it up the wall beside the banister and proved the bell from the top landing.
 
-"**Five pounds,**" he said. "**A transformer under a tread is a bell that rings when somebody goes upstairs. Bells in that hall are like it, and one of them has been a front door about four of them have been answered at for four years.**"
+"**Five pounds,**" he said. "**A transformer under a tread is a bell that rings when somebody goes upstairs. Bells in that hall are like it, and one of them has been a front door that about four of them have been answered at for four years.**"
 
 A lamp in that yard had been wired from a junction box standing on the ground in a puddle.
 

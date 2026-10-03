@@ -104,7 +104,7 @@ A lamp in that corridor had been put in with the switch in the wrong room and a 
 
 He took the flex out, put a switch in the room the lamp is in and proved it from the door.
 
-"**Eleven pounds,**" he said. "**A lamp you have to walk out of a room to put off is a lamp somebody leaves on. Lamps in that corridor are like it, and one of them has been a landing about four of them have come home up in the dark.**"
+"**Eleven pounds,**" he said. "**A lamp you have to walk out of a room to put off is a lamp somebody leaves on. Lamps in that corridor are like it, and one of them has been a landing that about four of them have come home up in the dark.**"
 
 **Thirty-nine pounds is the sum of those four on that Tuesday, exact.**
 

@@ -96,7 +96,7 @@ A light in that shop had been put in with a fuse that was a piece of copper wire
 
 He took it out, put a proper fuse in and proved the light.
 
-"**Twelve pounds,**" he said. "**A fuse made of bent wire is a fire waiting for a morning. Fuses in that shop are like that, and one of them has been a wall about four of them have had a smell in it and blamed the food.**"
+"**Twelve pounds,**" he said. "**A fuse made of bent wire is a fire waiting for a morning. Fuses in that shop are like that, and one of them has been a wall that about four of them have had a smell in it and blamed the food.**"
 
 A socket in that yard had been put in on a lead that had been buried under paving twice.
 
