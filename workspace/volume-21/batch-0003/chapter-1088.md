@@ -4,7 +4,7 @@
 
 ---
 
-Eleven callers came into that shop on that Tuesday and eleven names went against that Tuesday's book as each of them came in, the last of them gone by about seven, and the shutter came down at ten that night.
+Eleven callers came into that shop on that Tuesday and eleven names were written against that Tuesday's book as each of them came in, the last of them let away at about nine, and the shutter came down at ten that night.
 
 **Those four converted units off that service road stood at two thousand and ten days, two hundred and eighty-seven weeks and one day. What is under that long bench in a carrier bag is a hundred and eighty-three days old and has been in that room longer than anything else in it, the printing that has never once been on a wall in this city is a hundred and sixty-nine days old, and the four words said at a desk in a first district are a hundred and sixty days old.**
 
@@ -86,19 +86,23 @@ A cooker in that kitchen had been put in with the old element still clipped in b
 
 He took the old one out, made off the tails and proved the oven coming up and going off.
 
-**Sixteen pounds**, he said, and stopped there, because he has made that remark in four units this month and a fifth one can go without it.
+**Sixteen pounds**, he said. **Two elements in a cooker is one cooker with a fault in it and no way to find out which.**
 
-**Twenty-four pounds**, he said. **Two elements in a cooker is one cooker with a fault in it and no way to find out which.**
+A light in that second unit had been put in on a fitting that had been earthed to the flex and to nothing else.
+
+He put an earth on the fitting itself and proved the light with the door shut on it.
+
+**Twenty-four pounds**, he said. **An earth that only reaches the flex is an earth that moves every time that door does.**
 
 **Seventy-nine pounds is the sum of those four on that Tuesday, exact.**
 
 ---
 
 *1091.
-Tuesday of week 355, at ten. That is the three hundred and thirty-third day of this stretch of days. Eleven callers came into that shop on that Tuesday and eleven names were written against that day's line, none of them after about seven.
+Tuesday of week 355, at ten. That is the three hundred and thirty-third day of this stretch of days. Eleven callers came into that shop on that Tuesday and eleven names were written against that day's line, the last of them let away at about nine.
 **A man of about fifty-one asked two people in that shed whether a woman of about thirty-nine had said anything on that Wednesday, and was told by one of them that she said nothing at all for about an hour and a half and by the other that she said she would not be thanked for it and will not hand it to a man with a sheet; the man said out loud that he is not going to ask her a fifth time, and Marek told him out loud that he has asked four people in a week and not one could finish a sentence. The day's four jobs came to seventy-nine pounds, exact.**
 
-*Conditions and docket.* **Callers on that Tuesday: eleven. Entered onto that day's line: eleven, three of them waiting by about eight and the last of them gone by about seven.
+*Conditions and docket.* **Callers on that Tuesday: eleven. Entered onto that day's line: eleven, three of them waiting by about eight and one of them let away at about nine.
 Four units standing off that service road, one of them carrying heat: two thousand and ten days, two hundred and eighty-seven weeks and one day
 The one card in that rail, once creased across its middle: two thousand and fourteen days, two hundred and eighty-seven weeks and five days
 The twelfth of nineteen ruled lines on that board up on two nails: one thousand nine hundred and thirty days, two hundred and seventy-five weeks and five days
@@ -115,9 +119,9 @@ The man of about fifty-one, unmoved from that north wall: one thousand six hundr
 Nine copies of the front of one page, each of them torn at a corner: one thousand five hundred and seventy-six days, two hundred and twenty-five weeks and one day
 The post at the far end of that corridor, its face worn halfway up: one thousand five hundred and fifty-eight days, two hundred and twenty-two weeks and four days
 One written line written inside that box off that road: one thousand three hundred and ninety days, one hundred and ninety-eight weeks and four days
-That shop, that yard, that kitchen and that second unit in: a grommet put through a wall for a flex, a bead cut off a plate and the entries made, an old element taken out of a cooker and its tails made off.
+That shop, that yard, that kitchen and that second unit in: a grommet put through a wall for a flex, a bead cut off a plate and the entries made, an old element taken out of a cooker and its tails made off, an earth put on a fitting instead of on the flex of it.
 Not asked and not given: that window was not reported to anybody but the woman of about fifty-four, a coat left on that bench was not taken in by him, and the chase in that kitchen wall was not looked at twice.
-Work: nine callers, two people asked about a woman and neither of them willing, one sheet described out loud as having a hole in it, and four fittings made good in four rooms.
+Work: eleven callers, two people asked about a woman and neither of them willing, one sheet described out loud as having a hole in it, and four fittings made good in four rooms.
 Charge: seventy-nine pounds, exact.**
 
 *Conditions of the close.* **The book in the green binding lay shut on that table all through that Tuesday and the tin beside it had its lid down at every hour of it, and this page gives no figure for either one of those and no difference between them.

@@ -1,6 +1,6 @@
 # Chapter 1089 — Every Answer Came Back A Different Length
 
-**A Wednesday was a bench until about two and a counter until six and then a room on a road in a fourth district where nine people were asked one thing each and the thing being asked of them was not the thing any of them had come for.**
+**A Wednesday was a bench until about two and a counter until six and then four converted units off that service road, and then a room on a road in a fourth district where nine people were asked one thing each and the thing being asked of them was not the thing any of them had come for.**
 
 ---
 
@@ -40,19 +40,19 @@ The man of about fifty-one said: **I know she is not here and I am not asking he
 
 ---
 
-**And then he asked the first one, out loud, and the answer came back out loud, and about four people in that room have said since that the first answer was short and the second one was three times as long and that nobody in that room told either of them how long their own had been.**
+**And then he asked the first one, out loud, and the answer came back out loud in two pieces, and about four people in that room have said since that the first piece was short and the second one was three times as long and that nobody in that room told her how long her own had been.**
 
 The man of about fifty-one said: **What were you asked.**
 
 The woman of about twenty-six said: **Three things.**
 
-The man of about fifty-one said: **And what did you say to them.**
+The man of about fifty-one said: **And the other two.**
 
 The woman of about twenty-six said: **I have not said to anybody this week and you are the one who said it out loud first, so you can have the first one and not the other two.**
 
 ---
 
-**And then the third one, and the fourth, and the fifth, and about four people in that shed have said since that those three answers were all different again and that two of them were about what somebody else had said rather than about what the person had said themselves.**
+**And then the second one, and the third one, and the fourth one, and about four people in that shed have said since that those three answers were all different again and that one of them was about what somebody else had said rather than about what the person had said themselves.**
 
 The man of about twenty-seven said: **I was asked what I had done before I came.**
 
@@ -60,23 +60,27 @@ The man of about thirty-four said: **I have never been in that room and you aske
 
 The man of about fifty-five said: **What I was asked is a thing about you and not about me, and I am not going to do it in front of eight people.**
 
-The man of about fifty-one said: **Then I have got two of nine.**
+The man of about fifty-one said: **Then I have got four of nine.**
 
-Marek said: **You have got three, and one of them is about what somebody else said, and that is the one that will be the only one anybody repeats.**
+Marek said: **You have got four, and one of them is about what somebody else said, and that is the one that will be the only one anybody repeats.**
 
 ---
 
-**And then the eighth one said out loud what six of them had already said in their own words, and about four people in that shed have said since that it was the only refusal of the evening said in a voice the rest of the room could hear.**
+**And then the eighth one said out loud what seven of them had already said in their own words that evening, and about four people in that shed have said since that it was the only refusal of it said in a voice the rest of the room could hear.**
 
-The man of about thirty-four said: **I would not sign that and neither would the rest.**
+The man of about thirty-eight said: **I would not sign that and neither would the rest.**
 
 The man of about fifty-one said: **You have never been asked to sign anything.**
 
-The man of about thirty-four said: **You have been asking us what we would put in it for about nine days and that is asking, and I have answered it, and this is the answer.**
+The man of about thirty-eight said: **You have been asking us what we would put in it for about nine days and that is asking, and I have answered it, and this is the answer.**
 
 The man of about fifty-one said: **I did not mean it as a trap.**
 
-The man of about thirty-four said: **I know you did not, and you will write it down as a trap anyway, and that will be the first line on it.**
+The man of about thirty-eight said: **I know you did not, and you will write it down as a trap anyway, and that will be the first line on it.**
+
+---
+
+**And then the man of about fifty-one said out loud that he was going to write all nine of those down and put his own at the top of them, and about four people in that room have said since that every one of that bench said no to that in their own words before he had got to the end of his own sentence, and that not two of the nine of them said it in the same words, and that not one of them said it about anybody but themselves.**
 
 ---
 
@@ -128,7 +132,7 @@ He put an earth on the fitting itself and proved the fitting with the door shut.
 
 *1092.
 Wednesday of week 355, at ten. That is the three hundred and thirty-fourth day of this stretch of days. Fifteen callers came into that shop on that Wednesday and fifteen names were written against that day's line, the last of them let away by about half past nine.
-**A man of about fifty-one asked about nine people in that shed, one at a time and in the order they came in, what they were asked and what they said back, and got nine answers out loud of which not two were the same length; a man of about thirty-four said out loud in a voice the rest of that bench could hear that he would not sign it and neither would the rest, and said he knew the man did not mean it as a trap and would write it down as one. The day's four jobs came to eighty-two pounds, exact.**
+**A man of about fifty-one asked about nine people in that shed, one at a time and in the order they came in, what they were asked and what they said back, and got nine answers out loud of which not two were the same length; a man of about thirty-eight said out loud in a voice the rest of that bench could hear that he would not sign it and neither would the rest, and said he knew the man did not mean it as a trap and would write it down as one, and by the time that man had got to the end of his own sentence about writing it down every one of that bench had said no to it in their own words and not two of them had said it the same way. The day's four jobs came to eighty-two pounds, exact.**
 
 *Conditions and docket.* **Callers on that Wednesday: fifteen. Entered onto that day's line: fifteen, five of them waiting by about eight and three of them let away after about nine.
 Four units standing off that service road, one of them carrying heat: two thousand and eleven days, two hundred and eighty-seven weeks and two days
