@@ -1,6 +1,6 @@
-# Chapter 1094 — She Came And She Was Not Asked For It
+# Chapter 1094 — She Came Because The Light Was On
 
-**A Monday was a bench until about two and a counter until six and then four converted units off that service road, and the middle of that Monday was spent in a bus shelter in a fourth district with a woman of about sixty-two who came to that shed for the first time in about nine years and said nothing.**
+**A Monday was a bench until about two and a counter until six and then four converted units off that service road, and the middle of that Monday was spent in a bus shelter in a fourth district with a woman of about sixty-two who came to that shed for the first time in about nine years and nobody asked.**
 
 ---
 
@@ -94,7 +94,7 @@ The woman of about sixty-two said: **Then I will have had a look at the floor an
 
 ---
 
-**Nobody thanked anybody in that shed on that Monday and nobody forgave anybody, and about four people in that room have said since that a woman who had walked past that door for about nine years sat at the back of it for an hour and said four ordinary sentences and not the one anybody in that room was in there for, and that nobody asked her for it, and that she left at about eight and somebody walked out with her to the end of that road and said nothing on the way.**
+**Nobody thanked anybody in that shed on that Monday and nobody forgave anybody, and about four people in that room have said since that a woman who had walked past that door for about nine years sat at the back of it for an hour and said only ordinary sentences and not the one anybody in that room was in there for, and that nobody asked her for it, and that she left at about eight and somebody walked out with her to the end of that road and said nothing on the way.**
 
 ---
 
